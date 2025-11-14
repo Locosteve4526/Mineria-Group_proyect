@@ -1,0 +1,75 @@
+{
+    "activityid": 52670,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Mining Educational Implications of Minecraft",
+        "Journal": "Computers in the Schools",
+        "Volume": "37",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "1-16",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1080/07380569.2020.1719802 ",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "244699": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 244699,
+            "scholarlyactivityid": 52670,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "244700": {
+            "firstname": "Ellen",
+            "middleinitial": "",
+            "lastname": "Min",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 244700,
+            "scholarlyactivityid": 52670,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "244701": {
+            "firstname": "Seongchul",
+            "middleinitial": "",
+            "lastname": "Yun",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 244701,
+            "scholarlyactivityid": 52670,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52670,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

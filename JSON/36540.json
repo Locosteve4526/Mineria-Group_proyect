@@ -1,0 +1,63 @@
+{
+    "activityid": 36540,
+    "fields": {
+        "Type": "Book",
+        "Title": "Three Essays: The Poem's Soul",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Book of essays. Finished. Ready for submission. Of the four sections, three sections have appeared in other journals.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "150866": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 150866,
+            "scholarlyactivityid": 36540
+        }
+    },
+    "status": [
+        {
+            "id": 36540,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 36540,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 36540,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 78176,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:11pt;&quot;&gt;Engaging first generation college students to foster self-authorship&lt;/span&gt;",
+        "Conference/Meeting Name": "Student Support and Advisor Summit",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "350374": {
+            "firstname": "Erin",
+            "middleinitial": "",
+            "lastname": "Colburn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 350374,
+            "scholarlyactivityid": 78176,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "350375": {
+            "firstname": "Jaime",
+            "middleinitial": "N",
+            "lastname": "Sand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 350375,
+            "scholarlyactivityid": 78176,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 78176,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

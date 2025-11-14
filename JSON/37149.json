@@ -1,0 +1,63 @@
+{
+    "activityid": 37149,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Post-Fire Aeolian Deposition And Carbon Flux In Western Rangelands",
+        "Name of Conference": "Geological Society of America",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "49",
+        "Issue Number": "6",
+        "DOI": "10.1130/abs/2017AM-302989",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111717214",
+    "coauthors": {
+        "154007": {
+            "firstname": "Clayton",
+            "middleinitial": "",
+            "lastname": "Roehner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 154007,
+            "scholarlyactivityid": 37149,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "154008": {
+            "firstname": "Jennifer",
+            "middleinitial": "L",
+            "lastname": "Pierce",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111717214",
+            "authorid": 154008,
+            "scholarlyactivityid": 37149,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37149,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111717214",
+    "attachments": []
+}

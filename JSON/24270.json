@@ -1,0 +1,67 @@
+{
+    "activityid": 24270,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "On Energy Detection for Cooperative Spectrum Sensing",
+        "Name of Conference": "",
+        "Month / Season": "2012-03-21",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "6-Jan",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1109/CISS.2012.6310855",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/214",
+        "Description/Abstract": "Energy detection has been used almost exclusively in spectrum sensing. This paper studies the potential optimality (or sub-optimality) of the energy detector in spectrum sensing for two systems: one employing a single node and the other using multiple nodes, i.e., cooperative spectrum sensing. We consider both Gaussian channels as well as fading channels with different signaling from the primary user. For a single node case, we show that the energy detector is provably optimal for most cases and for the case when it is not theoretically optimal, its performance is nearly indistinguishable from the true optimal detector. For cooperative spectrum sensing, however, the problem becomes extremely complicated. The presence of the common signal from the primary user introduces dependence among the observations at different nodes; it is well known that for decentralized detection with dependent observations, designing optimal local decision rules typically is an NP problem. Using a recently proposed framework for distributed detection with dependent observations, we establish the optimality of energy detector for several cooperative spectrum sensing systems and point out difficulties for the remaining cases.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "113082863",
+    "coauthors": {
+        "80237": {
+            "firstname": "Fangrong",
+            "middleinitial": "",
+            "lastname": "Peng",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80237,
+            "scholarlyactivityid": 24270
+        },
+        "80238": {
+            "firstname": "Hao",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113082863",
+            "authorid": 80238,
+            "scholarlyactivityid": 24270
+        },
+        "80239": {
+            "firstname": "Biao",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80239,
+            "scholarlyactivityid": 24270
+        }
+    },
+    "status": [
+        {
+            "id": 24270,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113082863",
+    "attachments": []
+}

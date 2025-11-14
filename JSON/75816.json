@@ -1,0 +1,71 @@
+{
+    "activityid": 75816,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Forensic Techniques for Detecting Election Fraud",
+        "Conference / Meeting Name": "Election Science, Reform, and Administration Conference",
+        "Conference Location": "Los Angeles, CA",
+        "Date or Date Range": "16-17 May, 2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "Office of the Idaho Secretary of State",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The idea of free and fair elections is the foundation of a democratic society where an essential property is that every voter's vote should be counted equally. Thus, elections are essential mechanisms for ensuring public accountability, transparency, and representation. Fraud and manipulation corrupt this electoral system and prevent voters' voices from being heard. Fraud also undermines the legitimacy of the democratic process when uncovered or even suspected and may lead to repression, violent unrest, and even civil war. Therefore, it is crucial to determine whether an electoral outcome reflects voter preferences or the result of manipulation. The credibility of an elected representative democracy depends on the integrity of the election system. There haven't been many quantitative techniques for evaluating the integrity of a democratic election up until recently, other than in-person election observation. In electoral forensics, anomalies in election results are looked for in order to better identify patterns indicative of electoral irregularities. However, there is disagreement about which forensics tool, if any, is most useful for detecting fraud, and there is no way to integrate multiple techniques. In this paper, we review recent quantitative methodologies and machine learning tools in election forensics, focusing on their roles in identifying at risk polling stations and estimating the scope of electoral manipulation. We discuss their applications, evaluate their effectiveness, and highlight key challenges, aiming to provide a foundation for future research in the field.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110305",
+    "coauthors": {
+        "336816": {
+            "firstname": "Nahid",
+            "middleinitial": "",
+            "lastname": "Anwar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336816,
+            "scholarlyactivityid": 75816,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "336817": {
+            "firstname": "Amit",
+            "middleinitial": "",
+            "lastname": "Jain",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110305",
+            "authorid": 336817,
+            "scholarlyactivityid": 75816,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336818": {
+            "firstname": "Kettler",
+            "middleinitial": "",
+            "lastname": "Jaclyn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336818,
+            "scholarlyactivityid": 75816,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75816,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110305",
+    "attachments": []
+}

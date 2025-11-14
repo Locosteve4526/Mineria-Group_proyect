@@ -1,0 +1,77 @@
+{
+    "activityid": 43584,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "BroncoVote: Secure Voting System using Ethereum's Blockchain",
+        "Name of Conference": "The International Conference on Information Systems Security and Privacy (ICISSP)",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Voting is a fundamental part of democratic systems; it gives individuals in a community the faculty to voice their opinion. In recent years, voter turnout has diminished while concerns regarding integrity, security, and accessibility of current voting systems have escalated. E-voting was introduced to address those concerns; however, it is not cost-effective and still requires full supervision by a central authority. The blockchain is an emerging, decentralized, and distributed technology that promises to enhance different aspects of many industries. Expanding e-voting into blockchain technology could be the solution to alleviate the present concerns in e-voting. In this paper, we propose a blockchain-based voting system, named BroncoVote, that preserves voter privacy and increases accessibility, while keeping the voting system transparent, secure, and cost-effective. BroncoVote implements a university-scaled voting framework that utilizes Ethereum\u2019s blockchain and smart contracts to achieve voter administration and auditable voting records. In addition, BroncoVote utilizes a few cryptographic techniques, including homomorphic encryption, to promote voter privacy. Our implementation was deployed on Ethereum\u2019s Testnet to demonstrate usability, scalability, and ef\ufb01ciency.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "195944": {
+            "firstname": "Gaby",
+            "middleinitial": "G.",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 195944,
+            "scholarlyactivityid": 43584
+        },
+        "195945": {
+            "firstname": "Praneeth Babu",
+            "middleinitial": "",
+            "lastname": "Marella",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195945,
+            "scholarlyactivityid": 43584
+        },
+        "195946": {
+            "firstname": "Matea",
+            "middleinitial": "",
+            "lastname": "Milojkovic",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195946,
+            "scholarlyactivityid": 43584
+        },
+        "195947": {
+            "firstname": "Jordan",
+            "middleinitial": "",
+            "lastname": "Mohler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195947,
+            "scholarlyactivityid": 43584
+        }
+    },
+    "status": [
+        {
+            "id": 43584,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

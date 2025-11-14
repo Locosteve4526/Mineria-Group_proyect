@@ -1,0 +1,66 @@
+{
+    "activityid": 3031,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Risk-based Model of Public Perceptions of Crime and Disorder",
+        "Journal": "Criminal Justice Studies",
+        "Volume": "24",
+        "Month / Season": "2012-04-30",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "131-144",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111358865",
+    "coauthors": {
+        "8625": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Crank",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 8625,
+            "scholarlyactivityid": 3031
+        },
+        "8626": {
+            "firstname": "Dawn",
+            "middleinitial": "",
+            "lastname": "Irlbeck",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 8626,
+            "scholarlyactivityid": 3031
+        },
+        "8627": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Giacomazzi",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358865",
+            "authorid": 8627,
+            "scholarlyactivityid": 3031
+        }
+    },
+    "status": [
+        {
+            "id": 3031,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358865",
+    "attachments": []
+}

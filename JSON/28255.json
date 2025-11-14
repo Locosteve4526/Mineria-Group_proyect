@@ -1,0 +1,80 @@
+{
+    "activityid": 28255,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Interplay of desktop and mobile apps with web services in an introductory programming course",
+        "Name of Conference": "Proceedings of the 2013 Americas Conference on Information Systems",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "AIS",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://aisel.aisnet.org/amcis2013/ISEducation/GeneralPresentations/7",
+        "Description/Abstract": "This paper describes a case study of a second-semester introductory programming course for information systems (IS) students that combined desktop and mobile application development and consumption of existing web services. Our aim was to provide students with a holistic view of how different types of applications can be developed and combined to solve real- world problems, as the students learned the basics of programming. Students progressively built a desktop Java application with a graphical user interface for a local public transit system. It combined the use of basic algorithms, existing web services for geo-coding and mapping to illustrate a recommended route on the system. Students then ported this application to the Android platform re-using most of the code they had already developed. Along with fulfilling the traditional objectives of an introductory course, this course also demonstrated the possible interplay of stand-alone components and web services in desktop and mobile applications and kept the students motivated and engaged throughout the semester.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "138600": {
+            "firstname": "Amit",
+            "middleinitial": "",
+            "lastname": "Shesh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138600,
+            "scholarlyactivityid": 28255,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138601": {
+            "firstname": "Doug",
+            "middleinitial": "",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 138601,
+            "scholarlyactivityid": 28255,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28255,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 28255,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065605",
+    "attachments": [
+        {
+            "attachmentid": 1671,
+            "mimetype": "application/pdf",
+            "filename": "Interplay of Desktop and Mobile Apps with Web Services in an Intr.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZK3dDRVQxUWNjOGhSTGg5SGFqUlhvZkVTdlptNHQwV1ljSUNlZTJoMzhoaythT2hXK2xYUnEwQkVOc3hJSUlVT2hrSHRtZ2FlZFZNSEIrTUpONHVZM0xDb2tKR2NZK3N4TUdZNmp1eGx2ZENvaHY0REN2MU8w",
+            "filesize": 487034
+        }
+    ]
+}

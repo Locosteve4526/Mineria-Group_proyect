@@ -1,0 +1,76 @@
+{
+    "activityid": 33993,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Isolating retrograde and prograde Rayleigh wave modes using a polarity mute",
+        "Journal": "Geophysics",
+        "Volume": "81",
+        "Month / Season": "Sept-Oct",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "V379-V385",
+        "Publisher": "Society of Exploration Geophysicists",
+        "DOI": "10.1190/geo2015-0683.1",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://library.seg.org/doi/10.1190/geo2015-0683.1",
+        "Description/Abstract": "Estimates of S-wave velocity with depth from Rayleigh-\r\nwave dispersion data are limited by the accuracy of funda- mental and/or higher mode signal identification. In many scenarios, the fundamental mode propagates in retrograde motion, whereas higher modes propagate in prograde motion. This difference in particle motion (or polarity) can be used by joint analysis of vertical and horizontal inline recordings.We have developed a novel method that isolates modes by sepa- rating prograde and retrogrademotions; we call this a polarity mute. Applying this polarity mute prior to traditional multi- channel analysis of surface wave (MASW) analysis improves phase velocity estimation for fundamental and higher mode dispersion. This approach, in turn, should lead to improve- ment of S-wave velocity estimates with depth.With two sim- ple models and a field example, we have highlighted the complexity of the Rayleigh-wave particle motions and deter- mined improvedMASWdispersion images using the polarity mute. Our results show that we can separate prograde and retrograde signals to independently process fundamental and higher mode signals, in turn allowing us to identify lower fre- quency dispersion when compared with single component data. These examples demonstrate that the polarity mute ap- proach can improve estimates of S-wave velocitieswith depth.\r\nINTRODUCTION",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110288",
+    "coauthors": {
+        "135799": {
+            "firstname": "Gabriel",
+            "middleinitial": "",
+            "lastname": "Gribler",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 135799,
+            "scholarlyactivityid": 33993
+        },
+        "135800": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Liberty",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110034",
+            "authorid": 135800,
+            "scholarlyactivityid": 33993
+        },
+        "135801": {
+            "firstname": "Dylan",
+            "middleinitial": "",
+            "lastname": "Mikesell",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112102731",
+            "authorid": 135801,
+            "scholarlyactivityid": 33993
+        },
+        "135802": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Michaels",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110288",
+            "authorid": 135802,
+            "scholarlyactivityid": 33993
+        }
+    },
+    "status": [
+        {
+            "id": 33993,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110288",
+    "attachments": []
+}

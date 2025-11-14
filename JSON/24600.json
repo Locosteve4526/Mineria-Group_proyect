@@ -1,0 +1,67 @@
+{
+    "activityid": 24600,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Data Assimilation Approach for the Prediction of Soil Moisture at Tactical Scales Fusing Multiple Scale Data Sources and Models",
+        "Name of Conference": "Proceedings of the 27th Army Science Conference",
+        "Month / Season": "2010-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Orlando, Florida ",
+        "Volume": "",
+        "Issue Number": "OP-010",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Soil moisture is a critical environmental variable that impacts military trafficability through its impact on soil load bearing capacity. Adequate knowledge of soil moisture at scales of individual hillslopes (10s to 100s of m) would substantially improve efforts to assess trafficability and assist in erosion mitigation strategies on military lands. Field-based observations of soil moisture at the necessary high resolution over large areas is impractical, particularly for many Army operations. On the other hand, hydrologic models can simulate spatial patterns in moisture at the required scales, but are subject to errors in the model inputs and formulation. Anticipated L-band microwave remote sensing platforms offer accurate global observation of geo- physically obervable quantities that are related to soil moisture at revisit intervals of 2-3 days, but are too coarse in spatial scale for trafficability assessment. Numerical data assimilation provides a mathematical framework to leverage the benefits of models and remotely sensed observations, while potentially compensating for their respective weaknesses. This work provides a proof-of- concept illustration of how data assimilation with the Ensemble Kalman Filter (EnKF) can be used to improve hillslope-scale estimates of soil moisture. In a synthetic experiment in the Walnut Gulch experimental watershed in Arizona, USA, we show that immediately after a rainfall event, ingesting L-band microwave radar data into a watershed ecohydrology model using the EnKF increases the accuracy in a watershed-scale mapping of trafficability. Moreover, we demonstrate how the estimate of uncertainty in soil moisture provided by the EnKF can be used to convey risk in trafficability assessment.",
+        "Origin": "Other"
+    },
+    "facultyid": "112188448",
+    "coauthors": {
+        "80925": {
+            "firstname": "Alejandro",
+            "middleinitial": "Nicolas",
+            "lastname": "Flores",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188448",
+            "authorid": 80925,
+            "scholarlyactivityid": 24600
+        },
+        "80926": {
+            "firstname": "Dara",
+            "middleinitial": "",
+            "lastname": "Entekhabi",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80926,
+            "scholarlyactivityid": 24600
+        },
+        "80927": {
+            "firstname": "Rafael",
+            "middleinitial": "L",
+            "lastname": "Bras",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80927,
+            "scholarlyactivityid": 24600
+        }
+    },
+    "status": [
+        {
+            "id": 24600,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188448",
+    "attachments": []
+}

@@ -1,0 +1,85 @@
+{
+    "activityid": 42758,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Electromagnetic Waves\u2019 Effect on Airflow during Air Sparging",
+        "Journal": "Elsevier Journal of Contaminant Hydrology",
+        "Volume": "220",
+        "Month / Season": "January",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "49-58",
+        "Publisher": "Elsevier",
+        "DOI": "https://doi.org/10.1016/j.jconhyd.2018.11.004",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Air sparging is a popular, yet slow, remediation technology for soil and groundwater contaminated with volatile organic compounds (VOCs). This paper studies the effect of electromagnetic (EM) waves on air-channel formation within soil in order to ultimately improve airflow and cleanup process using air sparging. This paper theoretically and experimentally investigates the airflow pattern within a glass-bead medium\u2014used as an analogous to soil\u2014during air-sparging experiments. Air injection was performed at different pressures, in the presence of EM waves (referred to as EM-stimulated) of various power and frequencies and the absence of EM waves (referred to as unstimulated). Digital images of the airflow patterns were collected, processed, and analyzed for all tests. The shape of the zone of influence (ZOI) as well as the radius of the zone of influence (ROI) were measured and showed a 16% increase in ROI due to EM stimulation. An experimentally validated numerical simulation of the electric-field component of EM waves was developed. The correlation between EM-wave and air sparging characteristics were then studied using the numerical simulation and acquired digital images of the airflow.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112088556",
+    "coauthors": {
+        "190840": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 190840,
+            "scholarlyactivityid": 42758
+        },
+        "190839": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 190839,
+            "scholarlyactivityid": 42758
+        },
+        "190838": {
+            "firstname": "Jimmy",
+            "middleinitial": "Jay",
+            "lastname": "Browning",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112088556",
+            "authorid": 190838,
+            "scholarlyactivityid": 42758
+        },
+        "190837": {
+            "firstname": "Atena (Somayyeh)",
+            "middleinitial": "",
+            "lastname": "Najafi",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 190837,
+            "scholarlyactivityid": 42758
+        }
+    },
+    "status": [
+        {
+            "id": 42758,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42758,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112088556",
+    "attachments": []
+}

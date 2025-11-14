@@ -1,0 +1,56 @@
+{
+    "activityid": 5562,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The challenges, frustrations and triumphs of remixing an open source engine for educational games",
+        "Journal": "TechTrends",
+        "Volume": "52",
+        "Month / Season": "2008-12-31",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "32-37",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "17078": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Stowell",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17078,
+            "scholarlyactivityid": 5562
+        },
+        "17079": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 17079,
+            "scholarlyactivityid": 5562
+        }
+    },
+    "status": [
+        {
+            "id": 5562,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

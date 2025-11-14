@@ -1,0 +1,95 @@
+{
+    "activityid": 40970,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Building an online adaptive learning and recommendation platform",
+        "Journal": "Lecture Notes in Computer Science",
+        "Volume": "10108",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "428-432",
+        "Publisher": "Springer Cham",
+        "DOI": "10.1007/978-3-319-52836-6_45",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "179653": {
+            "firstname": "H. C.",
+            "middleinitial": "",
+            "lastname": "Tseng",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179653,
+            "scholarlyactivityid": 40970
+        },
+        "179654": {
+            "firstname": "C. F.",
+            "middleinitial": "",
+            "lastname": "Chiang",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179654,
+            "scholarlyactivityid": 40970
+        },
+        "179655": {
+            "firstname": "J. M.",
+            "middleinitial": "",
+            "lastname": "Su",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179655,
+            "scholarlyactivityid": 40970
+        },
+        "179656": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 179656,
+            "scholarlyactivityid": 40970
+        },
+        "179657": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 179657,
+            "scholarlyactivityid": 40970
+        }
+    },
+    "status": [
+        {
+            "id": 40970,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40970,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

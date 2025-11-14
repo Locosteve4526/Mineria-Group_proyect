@@ -1,0 +1,52 @@
+{
+    "activityid": 33837,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Mobile madness",
+        "Conference/Meeting Name": "National League for Nursing Education Summit",
+        "Conference Location": "San Diego, CA",
+        "Date or Date Range": "09/2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "135009": {
+            "firstname": "Cara",
+            "middleinitial": "",
+            "lastname": "Gallegos",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003270",
+            "authorid": 135009,
+            "scholarlyactivityid": 33837
+        },
+        "135010": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 135010,
+            "scholarlyactivityid": 33837
+        }
+    },
+    "status": [
+        {
+            "id": 33837,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

@@ -1,0 +1,42 @@
+{
+    "activityid": 15693,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Statistical Tests for Regularization in Ill-posed Inverse Problems",
+        "Conference/Meeting Name": "Department of Mathematics",
+        "Conference Location": "Missoula, MT",
+        "Date or Date Range": "2014-02-28",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "University of Montana",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Statistical Tests for Regularization in Ill-posed Inverse Problems\n\nMost inverse problems are ill-posed due to the fact that inputs such as parameters, physics and data are missing or inconsistent.  This results in solution estimates that are not unique or unstable, i.e. small changes in the inputs result in large changes in the estimates.   One common approach to resolving ill-posedness is to use regularization methods whereby information is added to the problem so that data are not over-fitted.   Alternatively, one could take the Bayesian point of view and assign a probability distribution to the unknowns and estimate it by exploiting Monte Carlo techniques.  \n\nIn this work we take the regularization approach and use uncertainties to weight added information and data in an optimization problem.  This allows us to apply statistical tests with the null hypothesis that inputs are combined within their uncertainty ranges to produce estimates of the unknowns.  For example, the Discrepancy Principle can be viewed as using a chi-squared test to determine the regularization parameter.\n\nThe chi-squared method developed by myself and colleagues uses a chi-squared test similar to the Discrepancy Principle, but differs in that the test is applied to the regularized residual rather than the data residual.  This approach leads to a general methodology of using statistical tests to estimate regularization parameters or uncertainties in an inversion.  We will give statistical tests for nonlinear algorithms and show results from benchmark problems in Geophysics.  We will also describe how statistical tests can be used to find a regularization parameter for Total Variation and show results from Imaging.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "64300": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 64300,
+            "scholarlyactivityid": 15693
+        }
+    },
+    "status": [
+        {
+            "id": 15693,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

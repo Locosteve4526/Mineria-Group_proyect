@@ -1,0 +1,76 @@
+{
+    "activityid": 37330,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Closing the reading gap with virtual maze environments",
+        "Journal": "Lecture Notes in Computer Science",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "154764": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Gabel",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 154764,
+            "scholarlyactivityid": 37330
+        },
+        "154765": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 154765,
+            "scholarlyactivityid": 37330
+        },
+        "154766": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 154766,
+            "scholarlyactivityid": 37330
+        },
+        "154767": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 154767,
+            "scholarlyactivityid": 37330
+        }
+    },
+    "status": [
+        {
+            "id": 37330,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

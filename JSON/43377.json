@@ -1,0 +1,94 @@
+{
+    "activityid": 43377,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Integrating anthropogenic factors into regional-scale species distribution models \u2014 a novel application in the imperiled sagebrush biome",
+        "Journal": "Global Change Biology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Species distribution models (SDM) that rely on regional-scale environmental variables will play a key role in forecasting species occurrence in the face of climate change. However, in the Anthropocene, a number of local-scale anthropogenic variables, including wildfire history, land-use change, invasive species, and ecological restoration practices can override regional-scale variables to drive patterns of species distribution. Incorporating these human-induced factors into SDMs remains a major research challenge, in part because spatial variability in these factors occurs at fine scales, rendering prediction over regional extents problematic. Here, we used big sagebrush (Artemisia tridentata Nutt.) as a model species to explore whether including\nhuman-induced factors improves the fit of the SDM. We applied a Bayesian hurdle spatial approach using 21,753 data points of field-sampled vegetation obtained from the LANDFIRE program to model sagebrush occurrence and cover by incorporating fire history metrics and restoration treatments from 1980 to 2015 throughout the Great Basin of North America. Models including fire attributes and restoration treatments performed better than those including only climate and topographic variables. Number of fires and fire occurrence had the strongest relative effects on big sagebrush occurrence and cover, respectively. The models predicted that the probability of big sagebrush\noccurrence decreases by 1.2% (95% CI, 0.6% \u2013 7%) when one fire occurs and that increasing fires from zero to at least one fire would decrease cover by 44.7% (95% CI, 41.3% \u2013 47.9%). Restoration practices increased the probability of big sagebrush occurrence but had minimal effect on cover. Our results demonstrate the potential value of including disturbance and land management along with climate in models to predict species distributions. As an increasing number of datasets representing land use history become available, we anticipate that our modeling framework will have broad relevance across a range of biomes and species.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088551",
+    "coauthors": {
+        "194613": {
+            "firstname": "Juan",
+            "middleinitial": "",
+            "lastname": "Requena-Mullor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194613,
+            "scholarlyactivityid": 43377,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        },
+        "194614": {
+            "firstname": "Kaitlin",
+            "middleinitial": "C",
+            "lastname": "Maguire",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194614,
+            "scholarlyactivityid": 43377,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        },
+        "194615": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Shinneman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194615,
+            "scholarlyactivityid": 43377
+        },
+        "194616": {
+            "firstname": "Timothy",
+            "middleinitial": "T",
+            "lastname": "Caughlin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088551",
+            "authorid": 194616,
+            "scholarlyactivityid": 43377,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43377,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 43377,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114088551",
+    "attachments": []
+}

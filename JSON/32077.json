@@ -1,0 +1,80 @@
+{
+    "activityid": 32077,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Geophysical Imaging of Subsurface Structures with Least Squares Estimates",
+        "Journal": "Inverse Methods in Science and Engineering",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Electrical resistivity tomography (ERT) has proved to be a useful tool for many subsurface investigations. However, this nonlinear inverse problem is severely under-determined and consequently smoothness constraints are commonly implemented with least squares to make the problem solvable. Smoothness constraints limit the ability to produce discontinuities in the model parameters. In practice, sharp delineations have been recovered with these constraints by applying appropriate weights or covariance matrices which relax the constraint at different regions. In this work, we describe how to relax the smoothness constraint if there is a known boundary and determine the conditions under which it is effective. We conclude that 1st and 2nd order derivative constraints are more effective than initial parameter estimates if a boundary estimate is properly implemented in the inversion. In addition, we show that the first derivative constraint produces models with constant variability, while a second derivative will yield linear variability. These conclusions are verified on synthetic ERT inversions in seven different subsurface structures.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "161831": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 161831,
+            "scholarlyactivityid": 32077,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "161832": {
+            "firstname": "Hank",
+            "middleinitial": "",
+            "lastname": "Hetrick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 161832,
+            "scholarlyactivityid": 32077,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32077,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 32077,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 32077,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

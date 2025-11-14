@@ -1,0 +1,76 @@
+{
+    "activityid": 2398,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The influence of exercise on anger",
+        "Journal": "Perceptual and Motor Skills",
+        "Volume": "104",
+        "Month / Season": "2007-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "1310-12",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110314",
+    "coauthors": {
+        "6382": {
+            "firstname": "Cynthia",
+            "middleinitial": "M",
+            "lastname": "Clark",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110314",
+            "authorid": 6382,
+            "scholarlyactivityid": 2398
+        },
+        "6383": {
+            "firstname": "C.",
+            "middleinitial": "R.",
+            "lastname": "Washburn",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6383,
+            "scholarlyactivityid": 2398
+        },
+        "6384": {
+            "firstname": "Mary",
+            "middleinitial": "Elizabeth",
+            "lastname": "Pritchard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112014101",
+            "authorid": 6384,
+            "scholarlyactivityid": 2398
+        },
+        "6385": {
+            "firstname": "P.",
+            "middleinitial": "",
+            "lastname": "Book",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6385,
+            "scholarlyactivityid": 2398
+        }
+    },
+    "status": [
+        {
+            "id": 2398,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110314",
+    "attachments": []
+}

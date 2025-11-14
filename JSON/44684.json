@@ -1,0 +1,74 @@
+{
+    "activityid": 44684,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Investigating chemical indices of alteration in paleosols",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "2017",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111717214",
+    "coauthors": {
+        "202896": {
+            "firstname": "Matthew",
+            "middleinitial": "J",
+            "lastname": "Kohn",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112110324",
+            "authorid": 202896,
+            "scholarlyactivityid": 44684
+        },
+        "202895": {
+            "firstname": "Jennifer",
+            "middleinitial": "L",
+            "lastname": "Pierce",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111717214",
+            "authorid": 202895,
+            "scholarlyactivityid": 44684
+        }
+    },
+    "status": [
+        {
+            "id": 44684,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44684,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44684,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111717214",
+    "attachments": []
+}

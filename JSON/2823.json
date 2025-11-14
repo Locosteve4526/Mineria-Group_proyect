@@ -1,0 +1,66 @@
+{
+    "activityid": 2823,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Application of a Hillslope-Scale Soil Moisture Data Assimilation System to Military Trafficability Assessment",
+        "Journal": "Journal of Terramechanics",
+        "Volume": "51",
+        "Month / Season": "2014-02-28",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "53\u201366",
+        "Publisher": "",
+        "DOI": "10.1016/j.jterra.2013.11.004",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.sciencedirect.com/science/article/pii/S0022489813000931",
+        "Description/Abstract": "Soil moisture is an important environmental variable that impacts military operations and weapons systems. Accurate and timely forecasts of soil moisture at appropriate spatial scales, therefore, are important for mission planning. We present an application of a soil moisture data assimilation system to military trafficability assessment. The data assimilation system combines hillslope-scale (e.g., 10s to 100s of m) estimates of soil moisture from a hydrologic model with synthetic L-band microwave radar observations broadly consistent with the planned NASA Soil Moisture Active\u2013Passive (SMAP) mission. Soil moisture outputs from the data assimilation system are input to a simple index-based model for vehicle trafficability. Since the data assimilation system uses the ensemble Kalman Filter, the risks of impaired trafficability due to uncertainties in the observations and model inputs can be quantified. Assimilating the remote sensing observations leads to significantly different predictions of trafficability conditions and associated risk of impaired trafficability, compared to an approach that propagates forward uncertainties in model inputs without assimilation. Specifically, assimilating the observations is associated with an increase in the risk of \u201cslow go\u201d conditions in approximately two-thirds of the watershed, and an increase in the risk of \u201cno go\u201d conditions in approximately 40% of the watershed. Despite the simplicity of the trafficability assessment tool, results suggest that ensemble-based data assimilation can potentially improve trafficability assessment by constraining predictions to observations and facilitating quantitative assessment of the risk of impaired trafficability.",
+        "Origin": "Other"
+    },
+    "facultyid": "112188448",
+    "coauthors": {
+        "7943": {
+            "firstname": "Alejandro",
+            "middleinitial": "Nicolas",
+            "lastname": "Flores",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188448",
+            "authorid": 7943,
+            "scholarlyactivityid": 2823
+        },
+        "7944": {
+            "firstname": "Dara",
+            "middleinitial": "",
+            "lastname": "Entekhabi",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7944,
+            "scholarlyactivityid": 2823
+        },
+        "7945": {
+            "firstname": "Rafael",
+            "middleinitial": "L",
+            "lastname": "Bras",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7945,
+            "scholarlyactivityid": 2823
+        }
+    },
+    "status": [
+        {
+            "id": 2823,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188448",
+    "attachments": []
+}

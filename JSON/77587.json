@@ -1,0 +1,58 @@
+{
+    "activityid": 77587,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Wildfire Risk and Access to Credit",
+        "Conference/Meeting Name": "World Finance Conference",
+        "Conference Location": "Cyprus, Greece",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114087828",
+    "coauthors": {
+        "346952": {
+            "firstname": "Eddy",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114087828",
+            "authorid": 346952,
+            "scholarlyactivityid": 77587,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "346953": {
+            "firstname": "Salman",
+            "middleinitial": "",
+            "lastname": "Tahsin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346953,
+            "scholarlyactivityid": 77587,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77587,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114087828",
+    "attachments": []
+}

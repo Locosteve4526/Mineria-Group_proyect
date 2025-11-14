@@ -1,0 +1,75 @@
+{
+    "activityid": 64188,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Co-Author",
+        "Journal": "Journal of Consumer Behaviour",
+        "Volume": "22",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "701-720",
+        "Publisher": "WILEY",
+        "DOI": "https://doi.org/10.1002/cb.2155",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114229877",
+    "coauthors": {
+        "318601": {
+            "firstname": "Yoon-Joo",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318601,
+            "scholarlyactivityid": 64188,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318602": {
+            "firstname": "Hye Jin",
+            "middleinitial": "",
+            "lastname": "Yoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318602,
+            "scholarlyactivityid": 64188,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318603": {
+            "firstname": "Jinho",
+            "middleinitial": "",
+            "lastname": "Joo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114229877",
+            "authorid": 318603,
+            "scholarlyactivityid": 64188,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64188,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114229877",
+    "attachments": []
+}

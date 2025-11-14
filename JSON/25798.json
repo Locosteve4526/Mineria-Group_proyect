@@ -1,0 +1,65 @@
+{
+    "activityid": 25798,
+    "fields": {
+        "Type": "Book",
+        "Title": "Online learning: Common misconceptions, benefits and challenges",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Nova Science Publishers",
+        "Publisher Location": "Hauppauge, NY",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Explanation of Other:  Edited Book",
+        "Origin": "Other"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "143708": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 143708,
+            "scholarlyactivityid": 25798
+        },
+        "143709": {
+            "firstname": "Jennifer",
+            "middleinitial": "C.",
+            "lastname": "Richardson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 143709,
+            "scholarlyactivityid": 25798
+        },
+        "143710": {
+            "firstname": "Cindy",
+            "middleinitial": "S.",
+            "lastname": "York",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 143710,
+            "scholarlyactivityid": 25798
+        }
+    },
+    "status": [
+        {
+            "id": 25798,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

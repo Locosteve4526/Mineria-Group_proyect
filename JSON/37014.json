@@ -1,0 +1,63 @@
+{
+    "activityid": 37014,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Dimensionality of the Fear of Crime",
+        "Name of Conference": "ACJS",
+        "Month / Season": "Spring",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112049187",
+    "coauthors": {
+        "153482": {
+            "firstname": "Jonathon",
+            "middleinitial": "",
+            "lastname": "Cooper",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 153482,
+            "scholarlyactivityid": 37014,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "153483": {
+            "firstname": "Marc",
+            "middleinitial": "A.",
+            "lastname": "Ruffinengo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112049187",
+            "authorid": 153483,
+            "scholarlyactivityid": 37014,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37014,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112049187",
+    "attachments": []
+}

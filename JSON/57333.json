@@ -1,0 +1,71 @@
+{
+    "activityid": 57333,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Fostering Connections to Place with Early STEM",
+        "Conference/Meeting Name": "Nature-Based Early Learning Conference",
+        "Conference Location": "Virtual",
+        "Date or Date Range": "August 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "Natural Start",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111663911",
+    "coauthors": {
+        "265133": {
+            "firstname": "Erin",
+            "middleinitial": "",
+            "lastname": "Tanzer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 265133,
+            "scholarlyactivityid": 57333,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "265134": {
+            "firstname": "Deborah",
+            "middleinitial": "Russell",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111663911",
+            "authorid": 265134,
+            "scholarlyactivityid": 57333,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "265135": {
+            "firstname": "Nichole",
+            "middleinitial": "B",
+            "lastname": "Moos",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111627731",
+            "authorid": 265135,
+            "scholarlyactivityid": 57333,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57333,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111663911",
+    "attachments": []
+}

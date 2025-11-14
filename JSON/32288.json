@@ -1,0 +1,66 @@
+{
+    "activityid": 32288,
+    "fields": {
+        "Type": "Book",
+        "Title": "10-step evaluation for training and performance improvement ",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "1st",
+        "Volume": "",
+        "Publisher": "SAGE",
+        "Publisher Location": "Thousand Oaks, CA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://us.sagepub.com/en-us/nam/10-step-evaluation-for-training-and-performance-improvement/book261170",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "171019": {
+            "firstname": "Seung Youn",
+            "middleinitial": "",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 171019,
+            "scholarlyactivityid": 32288,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32288,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 32288,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 32288,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

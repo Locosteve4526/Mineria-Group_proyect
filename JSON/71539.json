@@ -1,0 +1,96 @@
+{
+    "activityid": 71539,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "SVR Chemometrics to Quantify \u03b2-Lactoglobulin and \u03b1-Lactalbumin in Milk Using MIR",
+        "Journal": "Foods (Basel, Switzerland)",
+        "Volume": "13",
+        "Month / Season": null,
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": "10.3390/foods13010166",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Protein content variation in milk can impact the quality and consistency of dairy products, necessitating access to in-line real time monitoring. Here, we present a chemometric approach for the qualitative and quantitative monitoring of \u03b2-lactoglobulin and \u03b1-lactalbumin, using mid-infrared spectroscopy (MIR). In this study, we employed Hotelling T2 and Q-residual for outlier detection, automated preprocessing using nippy, conducted wavenumber selection with genetic algorithms, and evaluated four chemometric models, including partial least squares, support vector regression (SVR), ridge, and logistic regression to accurately predict the concentrations of \u03b2-lactoglobulin and \u03b1-lactalbumin in milk. For the quantitative analysis of these two whey proteins, SVR performed the best to interpret protein concentration from 197 MIR spectra originating from 42 Cornell University samples of preserved pasteurized modified milk. The R values obtained for \u03b2-lactoglobulin and \u03b1-lactalbumin using leave one out cross-validation (LOOCV) are 92.8% and 92.7%, respectively, which is the highest correlation reported to date. Our approach introduced a combination of preprocessing automation, genetic algorithm-based wavenumber selection, and used Optuna to optimize the framework for tuning hyperparameters of the chemometric models, resulting in the best chemometric analysis of MIR data to quantitate \u03b2-lactoglobulin and \u03b1-lactalbumin to date.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "111669907",
+    "coauthors": {
+        "325561": {
+            "firstname": "H",
+            "middleinitial": "A",
+            "lastname": "Babatunde",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325561,
+            "scholarlyactivityid": 71539
+        },
+        "325562": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Collins",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325562,
+            "scholarlyactivityid": 71539
+        },
+        "325563": {
+            "firstname": "Rianat",
+            "middleinitial": "",
+            "lastname": "Lukman",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325563,
+            "scholarlyactivityid": 71539
+        },
+        "325564": {
+            "firstname": "Rose",
+            "middleinitial": "",
+            "lastname": "Saxton",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325564,
+            "scholarlyactivityid": 71539
+        },
+        "325565": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325565,
+            "scholarlyactivityid": 71539
+        },
+        "325566": {
+            "firstname": "Owen ",
+            "middleinitial": "M",
+            "lastname": "McDougal",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325566,
+            "scholarlyactivityid": 71539
+        }
+    },
+    "status": [
+        {
+            "id": 71539,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669907",
+    "attachments": []
+}

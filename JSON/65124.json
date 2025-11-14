@@ -1,0 +1,57 @@
+{
+    "activityid": 65124,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Simulation as a Competency-based Assessment of Communication Skills within Physician Assistant Education",
+        "Name of Conference": "The Annual Meeting of American Educational Research Association (AERA 2022)",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Virtual",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "302585": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Toussaint",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302585,
+            "scholarlyactivityid": 65124
+        },
+        "302586": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 302586,
+            "scholarlyactivityid": 65124
+        }
+    },
+    "status": [
+        {
+            "id": 65124,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

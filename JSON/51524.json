@@ -1,0 +1,56 @@
+{
+    "activityid": 51524,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Kinetic Exclusion Assay of Biomolecules by Aptamer Capture",
+        "Journal": "Sensors (Basel, Switzerland)",
+        "Volume": "20",
+        "Month / Season": null,
+        "Issue Number": "12",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": "10.3390/s20123442",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "DNA aptamers are short nucleotide oligomers selected to bind a target ligand with affinity and specificity rivaling that of antibodies. These remarkable features recommend aptamers as candidates for analytical and therapeutic applications that traditionally use antibodies as biorecognition elements. Numerous traditional and emerging analytical techniques have been proposed and successfully implemented to utilize aptamers for sensing purposes. In this work, we exploited the analytical capabilities offered by the kinetic exclusion assay technology to measure the affinity of fluorescent aptamers for their thrombin target and quantify the concentration of analyte in solution. Standard binding curves constructed by using equilibrated mixtures of aptamers titrated with thrombin were fitted with a 1:1 binding model and provided an effective K of the binding in the sub-nanomolar range. However, our experimental results suggest that this simple model does not satisfactorily describe the binding process; therefore, the possibility that the aptamer is composed of a mixture of two or more distinct K populations is discussed. The same standard curves, together with a four-parameter logistic equation, were used to determine &quot;unknown&quot; concentrations of thrombin in mock samples. The ability to identify and characterize complex binding stoichiometry, together with the determination of target analyte concentrations in the pM-nM range, supports the adoption of this technology for kinetics, equilibrium, and analytical purposes by employing aptamers as biorecognition elements.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113118204",
+    "coauthors": {
+        "238151": {
+            "firstname": "Mark ",
+            "middleinitial": "H",
+            "lastname": "Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238151,
+            "scholarlyactivityid": 51524
+        },
+        "238152": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Fologea",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238152,
+            "scholarlyactivityid": 51524
+        }
+    },
+    "status": [
+        {
+            "id": 51524,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113118204",
+    "attachments": []
+}

@@ -1,0 +1,66 @@
+{
+    "activityid": 3584,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling the Orbital Sampling Effect of Extrasolar Moons",
+        "Journal": "Astrophysical Journal",
+        "Volume": "820",
+        "Month / Season": "2016-04-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "11",
+        "Publisher": "",
+        "DOI": "10.3847/0004-637X/820/2/88",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016ApJ...820...88H&amp;link_type=EJOURNAL&amp;db_key=AST&amp;high=55ae979e8a32206",
+        "Description/Abstract": "The orbital sampling effect (OSE) appears in phase-folded transit light curves of extrasolar planets with moons. Analytical OSE models have hitherto neglected stellar limb darkening and non-zero transit impact parameters and assumed that the moon is on a circular, co-planar orbit around the planet. Here, we present an analytical OSE model for eccentric moon orbits, which we implement in a numerical simulator with stellar limb darkening that allows for arbitrary transit impact parameters. We also describe and publicly release a fully numerical OSE simulator (PyOSE) that can model arbitrary inclinations of the transiting moon orbit. Both our analytical solution for the OSE and PyOSE can be used to search for exomoons in long-term stellar light curves such as those by Kepler and the upcoming PLATO mission. Our updated OSE model offers an independent method for the verification of possible future exomoon claims via transit timing variations and transit duration variations. Photometrically quiet K and M dwarf stars are particularly promising targets for an exomoon discovery using the OSE. ",
+        "Origin": "Other"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "10428": {
+            "firstname": "Ren\u00e9",
+            "middleinitial": "",
+            "lastname": "Heller",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10428,
+            "scholarlyactivityid": 3584
+        },
+        "10429": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Hippke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10429,
+            "scholarlyactivityid": 3584
+        },
+        "10430": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114026685",
+            "authorid": 10430,
+            "scholarlyactivityid": 3584
+        }
+    },
+    "status": [
+        {
+            "id": 3584,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

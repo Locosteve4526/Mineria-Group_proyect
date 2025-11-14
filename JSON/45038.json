@@ -1,0 +1,84 @@
+{
+    "activityid": 45038,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Privacy for All: Ensuring Fair and Equitable Privacy Protections",
+        "Name of Conference": "Conference on Fairness, Accountability, and Transparency",
+        "Month / Season": "Feb",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "35-47",
+        "Publisher": "Proceedings of Machine Learning Research",
+        "Publisher Location": "",
+        "Volume": "84",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://proceedings.mlr.press/v81/ekstrand18a.html",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114068806",
+    "coauthors": {
+        "205033": {
+            "firstname": "Michael",
+            "middleinitial": "D",
+            "lastname": "Ekstrand",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114059059",
+            "authorid": 205033,
+            "scholarlyactivityid": 45038
+        },
+        "205032": {
+            "firstname": "Rezvan",
+            "middleinitial": "",
+            "lastname": "Joshaghani",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 205032,
+            "scholarlyactivityid": 45038
+        },
+        "205031": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114068806",
+            "authorid": 205031,
+            "scholarlyactivityid": 45038
+        }
+    },
+    "status": [
+        {
+            "id": 45038,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 45038,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114068806",
+    "attachments": [
+        {
+            "attachmentid": 17584,
+            "mimetype": "application/pdf",
+            "filename": "FAT 2018 - Fair Privacy.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZdEplL0dRTldsUU55ZUNGRG0xamV5bW10Vk5xZENCdEJDNWErZ3lVcXdseTl1ZU5tL0ZQcDZyb1dBU1ptSXpMOD0%3D",
+            "filesize": 269580
+        }
+    ]
+}

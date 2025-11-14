@@ -1,0 +1,75 @@
+{
+    "activityid": 24180,
+    "fields": {
+        "Type": "Book",
+        "Title": "Mathematical Thinking for Instruction: Data Analysis &amp; Statistics in Grades K-8",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Developing Mathematical Thinking Institute",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111351647",
+    "coauthors": {
+        "107147": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 107147,
+            "scholarlyactivityid": 24180
+        },
+        "107148": {
+            "firstname": "Jonathan",
+            "middleinitial": "",
+            "lastname": "Brendefur",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643488",
+            "authorid": 107148,
+            "scholarlyactivityid": 24180
+        },
+        "107149": {
+            "firstname": "Gwyneth",
+            "middleinitial": "",
+            "lastname": "Hughes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 107149,
+            "scholarlyactivityid": 24180
+        },
+        "107150": {
+            "firstname": "Sam",
+            "middleinitial": "",
+            "lastname": "Strother",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 107150,
+            "scholarlyactivityid": 24180
+        }
+    },
+    "status": [
+        {
+            "id": 24180,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111351647",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 80465,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;p&gt;The future of water quality in Coeur d'Alene Lake&lt;/p&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "10.17226/26620",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "112188448",
+    "coauthors": {
+        "354580": {
+            "firstname": "",
+            "middleinitial": "",
+            "lastname": "Sciences",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354580,
+            "scholarlyactivityid": 80465
+        },
+        "354581": {
+            "firstname": "",
+            "middleinitial": "",
+            "lastname": "Medicine",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354581,
+            "scholarlyactivityid": 80465
+        },
+        "354582": {
+            "firstname": "",
+            "middleinitial": "",
+            "lastname": "others",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354582,
+            "scholarlyactivityid": 80465
+        }
+    },
+    "status": [
+        {
+            "id": 80465,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188448",
+    "attachments": []
+}

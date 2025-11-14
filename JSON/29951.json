@@ -1,0 +1,84 @@
+{
+    "activityid": 29951,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Key Assignment for Enforcing Access Control Policy Exceptions",
+        "Name of Conference": "International Symposium on Internet Technology 1998 (ISIT'98)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 1998,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "106914": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 106914,
+            "scholarlyactivityid": 29951,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "106915": {
+            "firstname": "Randy",
+            "middleinitial": "",
+            "lastname": "Chow",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106915,
+            "scholarlyactivityid": 29951,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "106916": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Newman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106916,
+            "scholarlyactivityid": 29951,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29951,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1998,
+            "termid": "1997/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 1424,
+            "mimetype": "application/pdf",
+            "filename": "isit98.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25xY1hDRERkbzQyTlEzQ0VtaThCV1ZoL1hHREVZWDhNTThqWXh6OHRlamlydz09",
+            "filesize": 181636
+        }
+    ]
+}

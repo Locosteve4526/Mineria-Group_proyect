@@ -1,0 +1,84 @@
+{
+    "activityid": 32462,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A real microstructural model for virtual cement concrete modeling",
+        "Name of Conference": "Proceedings of 5th International Symposium on Nanotechnology in Construction, Chicago, IL (NICOM5)",
+        "Month / Season": "May 2015",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "A real multiphase microstructure, Anm model, with irregular shape particles has been proposed. The Anm model places multiple irregular shape particles into a pre-defined empty box according to the real parking density to build up particles embedded in matrix material model in all scales from nano to macro. However, the packing accuracy and efficiency need to be improved, since the original Anm model\u2019s algorithms has limited function and relative low parking efficiency. Furthermore, it cannot control the inter-particle distance. In this paper, we upgraded the initial algorithms by the following innovations: 1) integrated a new contact function, extending overlap box (EOB) to make the contact detection more accurately and efficiently; 2) the particle parking algorithm has been implemented to associate multiple aggregate shape database with each size bin; 3) an uniform thickness shell has been put around each parking particle, which can make the inter-particle distance customizable when we park nano-scale particles considering possible charge interactions between individual nano-particles.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "125215": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 125215,
+            "scholarlyactivityid": 32462,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125216": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Thomas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125216,
+            "scholarlyactivityid": 32462,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125217": {
+            "firstname": "Edward",
+            "middleinitial": "",
+            "lastname": "Garboczi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125217,
+            "scholarlyactivityid": 32462,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32462,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001675",
+    "attachments": [
+        {
+            "attachmentid": 4878,
+            "mimetype": "application/pdf",
+            "filename": "YangLu_NICOM5-final.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitaM2lIR0hZTkY3VzRIcXhrVWxIR1dkaUlNZnZ2VlZNc05VUGRzUXg0cXlMMEwvQkkvclpwMHc%3D",
+            "filesize": 417893
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 19837,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The characteristics and traits of successful managers and supervisors",
+        "Name of Conference": "International Academy of Business and Public Administration ",
+        "Month / Season": "2006-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": null,
+        "Publisher": "International Academy of Business and Public Administration ",
+        "Publisher Location": "Dallas, Texas",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "134591": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 134591,
+            "scholarlyactivityid": 19837,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134592": {
+            "firstname": "Malcolm",
+            "middleinitial": "",
+            "lastname": "Coco",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134592,
+            "scholarlyactivityid": 19837,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19837,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

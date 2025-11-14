@@ -1,0 +1,102 @@
+{
+    "activityid": 21463,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Effects of supplemental feeding on offspring sex ratios in burowing owls",
+        "Journal": "Biological Conservation",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "210727": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 210727,
+            "scholarlyactivityid": 21463,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210728": {
+            "firstname": "Nicole",
+            "middleinitial": "",
+            "lastname": "Taylor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210728,
+            "scholarlyactivityid": 21463,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210729": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 210729,
+            "scholarlyactivityid": 21463,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 21463,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 21463,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 21463,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 21463,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

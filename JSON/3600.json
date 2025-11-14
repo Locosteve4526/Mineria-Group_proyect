@@ -1,0 +1,56 @@
+{
+    "activityid": 3600,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Simplified language as an accommodation on a math assessment",
+        "Journal": "Assessment for Effective Intervention",
+        "Volume": "29",
+        "Month / Season": "2004-12-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "35-45",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "10491": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 10491,
+            "scholarlyactivityid": 3600
+        },
+        "10492": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Monroe",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10492,
+            "scholarlyactivityid": 3600
+        }
+    },
+    "status": [
+        {
+            "id": 3600,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

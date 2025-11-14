@@ -1,0 +1,66 @@
+{
+    "activityid": 6657,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Spectral Versus Pseudospectral Solutions of the Wave Equation by Waveform Relaxation Methods",
+        "Journal": "Journal of Scientific Computing",
+        "Volume": "20",
+        "Month / Season": "2004-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "28-Jan",
+        "Publisher": "Springer",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We examine spectral and pseudospectral methods as well as waveform relaxation methods for the wave equation in one space dimension. Our goal is to study block Gauss\u2013Jacobi waveform relaxation schemes which can be efficiently implemented in a parallel computing environment. These schemes are applied to semidiscrete systems written in terms of sparse or dense matrices. It is demonstrated that the spectral formulations lead to the implicit system of ordinary differential equations W\u0103? = S\u0103 + g(t)?w, with sparse matrices W and S which can be effectively solved by direct application of any Runge\u2013Kutta method. We also examine waveform relaxation iterations based on splittings W = W 1?W 2 and S = S 1 + S 2 and demonstrate that these iterations are only linearly convergent on finite time windows. Waveform relaxation methods applied to the explicit system \u0103? = W ?1 S\u0103 + g(t)?W ?1 w are somewhat faster but less convenient to implement since the matrix W ?1 S is no longer sparse. The pseudospectral methods lead to the system ?? = D ? + g(t)?w with a differentiation matrix D of order one and the corresponding waveform relaxation iterations are much faster than the iterations corresponding to the spectral cases (both implicit and explicit).\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20739": {
+            "firstname": "Zdzislaw",
+            "middleinitial": "",
+            "lastname": "Jackiewicz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20739,
+            "scholarlyactivityid": 6657
+        },
+        "20740": {
+            "firstname": "Bruno",
+            "middleinitial": "",
+            "lastname": "Welfert",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20740,
+            "scholarlyactivityid": 6657
+        },
+        "20741": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20741,
+            "scholarlyactivityid": 6657
+        }
+    },
+    "status": [
+        {
+            "id": 6657,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

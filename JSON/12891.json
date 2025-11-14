@@ -1,0 +1,42 @@
+{
+    "activityid": 12891,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Living in a Corporate World",
+        "Conference/Meeting Name": "Pittsburg State University",
+        "Conference Location": "Pittsburg KS",
+        "Date or Date Range": "2014-02-28",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113082367",
+    "coauthors": {
+        "57788": {
+            "firstname": "Chad",
+            "middleinitial": "W.",
+            "lastname": "Erpelding",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113082367",
+            "authorid": 57788,
+            "scholarlyactivityid": 12891
+        }
+    },
+    "status": [
+        {
+            "id": 12891,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113082367",
+    "attachments": []
+}

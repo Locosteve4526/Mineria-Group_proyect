@@ -1,0 +1,52 @@
+{
+    "activityid": 11918,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Toothpick Structures",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Corpus Christi, TX",
+        "Date or Date Range": "2012-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "Early Scholars Academy",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114000904",
+    "coauthors": {
+        "55710": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 55710,
+            "scholarlyactivityid": 11918
+        },
+        "55711": {
+            "firstname": "S",
+            "middleinitial": "",
+            "lastname": "Ives",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 55711,
+            "scholarlyactivityid": 11918
+        }
+    },
+    "status": [
+        {
+            "id": 11918,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114000904",
+    "attachments": []
+}

@@ -1,0 +1,66 @@
+{
+    "activityid": 2383,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Development and Description of the Organizational Civility Scale",
+        "Journal": "Journal of Theory Construction and Testing",
+        "Volume": "17",
+        "Month / Season": "2013-04-30",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "17-Nov",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110314",
+    "coauthors": {
+        "6353": {
+            "firstname": "Cynthia",
+            "middleinitial": "M",
+            "lastname": "Clark",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110314",
+            "authorid": 6353,
+            "scholarlyactivityid": 2383
+        },
+        "6354": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 6354,
+            "scholarlyactivityid": 2383
+        },
+        "6355": {
+            "firstname": "Danh",
+            "middleinitial": "",
+            "lastname": "Nguyen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6355,
+            "scholarlyactivityid": 2383
+        }
+    },
+    "status": [
+        {
+            "id": 2383,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110314",
+    "attachments": []
+}

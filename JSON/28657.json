@@ -1,0 +1,46 @@
+{
+    "activityid": 28657,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Materials Researcher on the Manufacturing Floor",
+        "Journal": "MRS Bulletin",
+        "Volume": "25",
+        "Month / Season": null,
+        "Issue Number": "04",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Page Numbers": "69--70",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "Manual"
+    },
+    "facultyid": "111643645",
+    "coauthors": {
+        "95111": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Moll",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95111,
+            "scholarlyactivityid": 28657
+        }
+    },
+    "status": [
+        {
+            "id": 28657,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2000,
+            "termid": "2000/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643645",
+    "attachments": []
+}

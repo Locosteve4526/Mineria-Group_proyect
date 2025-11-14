@@ -1,0 +1,63 @@
+{
+    "activityid": 20199,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Examining the Role of Communication Channel Interface and Recipient Characteristics on Knowledge Internalization",
+        "Name of Conference": "Pre-ICIS SIGHCI Workshop",
+        "Month / Season": "2006-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": null,
+        "Publisher": "AIS SIGHCI",
+        "Publisher Location": "Milwaukee, WI",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111321988",
+    "coauthors": {
+        "134717": {
+            "firstname": "Christopher",
+            "middleinitial": "Leo",
+            "lastname": "Scott",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111321988",
+            "authorid": 134717,
+            "scholarlyactivityid": 20199,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134718": {
+            "firstname": "Saonee",
+            "middleinitial": "",
+            "lastname": "Sarker",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134718,
+            "scholarlyactivityid": 20199,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20199,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111321988",
+    "attachments": []
+}

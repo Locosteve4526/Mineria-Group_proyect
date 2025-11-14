@@ -1,0 +1,56 @@
+{
+    "activityid": 2147,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Optimal Hermite Collocation Applied to a One-Dimensional Convection-Diffusion Equation Using an Adaptive Hybrid Optimization Algorithm",
+        "Journal": "International Journal of Numerical Methods for Heat and Fluid Flow",
+        "Volume": "19",
+        "Month / Season": "2009-08-07",
+        "Issue Number": "7",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "874-893",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1108/09615530910984127",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/35",
+        "Description/Abstract": "Purpose \u2013 The Hermite collocation method of discretization can be used to determine highly accurate solutions to the steady-state one-dimensional convection-diffusion equation (which can be used to model the transport of contaminants dissolved in groundwater). This accuracy is dependent upon sufficient refinement of the finite-element mesh as well as applying upstream or downstream weighting to the convective term through the determination of collocation locations which meet specified constraints. Owing to an increase in computational intensity of the application of the method of collocation associated with increases in the mesh refinement, minimal mesh refinement is sought. Very often this optimization problem is the one where the feasible region is not connected and as such requires a specialized optimization search technique. This paper aims to focus on this method.\nDesign/methodology/approach \u2013 An original hybrid method that utilizes a specialized adaptive genetic algorithm followed by a hill-climbing approach is used to search for the optimal mesh refinement for a number of models differentiated by their velocity fields. The adaptive genetic algorithm is used to determine a mesh refinement that is close to a locally optimal mesh refinement. Following the adaptive genetic algorithm, a hill-climbing approach is used to determine a local optimal feasible mesh refinement.\nFindings \u2013 In all cases the optimal mesh refinements determined with this hybrid method are equally optimal to, or a significant improvement over, mesh refinements determined through direct search methods.\nResearch limitations \u2013 Further extensions of this work could include the application of the mesh refinement technique presented in this paper to non-steady-state problems with time-dependent coefficients with multi-dimensional velocity fields.\nOriginality/value \u2013 The present work applies an original hybrid optimization technique to obtain highly accurate solutions using the method of Hermite collocation with minimal mesh refinement.",
+        "Origin": "Other"
+    },
+    "facultyid": "111358874",
+    "coauthors": {
+        "5601": {
+            "firstname": "Karen",
+            "middleinitial": "L.",
+            "lastname": "Ricciardi",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5601,
+            "scholarlyactivityid": 2147
+        },
+        "5602": {
+            "firstname": "Stephen",
+            "middleinitial": "H",
+            "lastname": "Brill",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358874",
+            "authorid": 5602,
+            "scholarlyactivityid": 2147
+        }
+    },
+    "status": [
+        {
+            "id": 2147,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358874",
+    "attachments": []
+}

@@ -1,0 +1,98 @@
+{
+    "activityid": 38793,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "High-cycle fatigue testing of bovine meniscus",
+        "Name of Conference": "World Congress of Biomechanics",
+        "Month / Season": "Summer",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "202696": {
+            "firstname": "Madison",
+            "middleinitial": "E",
+            "lastname": "Krentz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202696,
+            "scholarlyactivityid": 38793,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "202697": {
+            "firstname": "Bradley",
+            "middleinitial": "",
+            "lastname": "Henderson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202697,
+            "scholarlyactivityid": 38793,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "202698": {
+            "firstname": "Derek",
+            "middleinitial": "Q",
+            "lastname": "Nesbitt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202698,
+            "scholarlyactivityid": 38793,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "202699": {
+            "firstname": "Trevor",
+            "middleinitial": "Justin",
+            "lastname": "Lujan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113124248",
+            "authorid": 202699,
+            "scholarlyactivityid": 38793,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 38793,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 38793,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

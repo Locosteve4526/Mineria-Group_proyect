@@ -1,0 +1,75 @@
+{
+    "activityid": 60059,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Potential of Humanitarian Engineering and Social Entrepreneurship",
+        "Journal": "Journal of Social Entrepreneurship",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112207077",
+    "coauthors": {
+        "280041": {
+            "firstname": "Bastian",
+            "middleinitial": "",
+            "lastname": "Thomsen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003452",
+            "authorid": 280041,
+            "scholarlyactivityid": 60059
+        },
+        "280042": {
+            "firstname": "Anthony",
+            "middleinitial": "D",
+            "lastname": "Songer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112207077",
+            "authorid": 280042,
+            "scholarlyactivityid": 60059
+        },
+        "280043": {
+            "firstname": "Kellen",
+            "middleinitial": "",
+            "lastname": "Copeland",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 280043,
+            "scholarlyactivityid": 60059
+        }
+    },
+    "status": [
+        {
+            "id": 60059,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 60059,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112207077",
+    "attachments": []
+}

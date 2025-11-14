@@ -1,0 +1,46 @@
+{
+    "activityid": 1200,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A New Age of Accessibility",
+        "Journal": "Library Journal's NetConnect",
+        "Volume": "",
+        "Month / Season": "2002-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "19-21",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112192272",
+    "coauthors": {
+        "123403": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 123403,
+            "scholarlyactivityid": 1200
+        }
+    },
+    "status": [
+        {
+            "id": 1200,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2002,
+            "termid": "2002/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112192272",
+    "attachments": []
+}

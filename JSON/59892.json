@@ -1,0 +1,96 @@
+{
+    "activityid": 59892,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling stem cell nucleus mechanics using confocal microscopy",
+        "Journal": "Biomechanics and modeling in mechanobiology",
+        "Volume": "20",
+        "Month / Season": null,
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "2361-2372",
+        "Publisher": null,
+        "DOI": "10.1007/s10237-021-01513-w",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Nuclear mechanics is emerging as a key component of stem cell function and differentiation. While changes in nuclear structure can be visually imaged with confocal microscopy, mechanical characterization of the nucleus and its sub-cellular components require specialized testing equipment. A computational model permitting cell-specific mechanical information directly from confocal and atomic force microscopy of cell nuclei would be of great value. Here, we developed a computational framework for generating finite element models of isolated cell nuclei from multiple confocal microscopy scans and simple atomic force microscopy (AFM) tests. Confocal imaging stacks of isolated mesenchymal stem cells were converted into finite element models and siRNA-mediated Lamin A/C depletion isolated chromatin and Lamin A/C structures. Using AFM-measured experimental stiffness values, a set of conversion factors were determined for both chromatin and Lamin A/C to map the voxel intensity of the original images to the element stiffness, allowing the prediction of nuclear stiffness in an additional set of other nuclei. The developed computational framework will identify the contribution of a multitude of sub-nuclear structures and predict global nuclear stiffness of multiple nuclei based on simple nuclear isolation protocols, confocal images and AFM tests.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062489",
+    "coauthors": {
+        "279658": {
+            "firstname": "Zeke",
+            "middleinitial": "",
+            "lastname": "Kennedy",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279658,
+            "scholarlyactivityid": 59892
+        },
+        "279659": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Newberg",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279659,
+            "scholarlyactivityid": 59892
+        },
+        "279660": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Goelzer",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279660,
+            "scholarlyactivityid": 59892
+        },
+        "279661": {
+            "firstname": "Stefan",
+            "middleinitial": "",
+            "lastname": "Judex",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279661,
+            "scholarlyactivityid": 59892
+        },
+        "279662": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279662,
+            "scholarlyactivityid": 59892
+        },
+        "279663": {
+            "firstname": "Gunes",
+            "middleinitial": "",
+            "lastname": "Uzer",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279663,
+            "scholarlyactivityid": 59892
+        }
+    },
+    "status": [
+        {
+            "id": 59892,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062489",
+    "attachments": []
+}

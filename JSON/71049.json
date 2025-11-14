@@ -1,0 +1,80 @@
+{
+    "activityid": 71049,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Social Investment Stickiness and Signaling Profit Priorities to Employees&lt;/p&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086407",
+    "coauthors": {
+        "353084": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Knox",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086407",
+            "authorid": 353084,
+            "scholarlyactivityid": 71049,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "353085": {
+            "firstname": "Mark",
+            "middleinitial": "S",
+            "lastname": "Madsen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 353085,
+            "scholarlyactivityid": 71049,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71049,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71049,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71049,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114086407",
+    "attachments": []
+}

@@ -1,0 +1,86 @@
+{
+    "activityid": 76127,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Sentiment Analysis development and deployment at Melville's Marginalia Online, introduced at https://melvillesmarginalia.org/pages/policies#visualization and exemplified in beta form through the project's digital editions of Melville's marginalia to Arthur Schopenhauer's writings (click on &quot;Other Works&quot; for a direct link to the sentiment tool for Schenhauer's\u00a0&lt;em&gt;Religion: A Dialogue, and Other Essays&lt;/em&gt;. ), with dynamic links to facsimile holograph material.",
+        "Outlet (if applicable)": "Melville's Marginalia Online",
+        "Date": "12/31-2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://melvillesmarginalia.org/PreviewMode.aspx?DocumentID=103&amp;Browse=t&amp;charturl=https%3A%2F%2Fmelvillesmarginalia.org%2FSentimentGraph.aspx%3FDocId%3D103&amp;toolType=SentimentGraph",
+        "Description/Abstract": "This technology, adapted for marginalia from the &quot;Syuzhet&quot; sentiment analysis package for the open-source programming language R, generates sentiment values for instances of marked and annotated content in a dynamic (i.e., clickable) graph of books that survive from the library of Herman Melville.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643332",
+    "coauthors": {
+        "339613": {
+            "firstname": "Brandon",
+            "middleinitial": "",
+            "lastname": "Hurst",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 339613,
+            "scholarlyactivityid": 76127,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "339614": {
+            "firstname": "Steven",
+            "middleinitial": "S",
+            "lastname": "Olsen-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643332",
+            "authorid": 339614,
+            "scholarlyactivityid": 76127,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "339615": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Jensen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 339615,
+            "scholarlyactivityid": 76127,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76127,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643332",
+    "attachments": [
+        {
+            "attachmentid": 59855,
+            "mimetype": "custom/url",
+            "filename": "https://melvillesmarginalia.org/PreviewMode.aspx?DocumentID=103&amp;Browse=t&amp;charturl=https%3A%2F%2Fmelvillesmarginalia.org%2FSentimentGraph.aspx%3FDocId%3D103&amp;toolType=SentimentGraph",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25wbWlMZy9LVW5NYzFNYWdaR3FWSGpsYklqdklyb3JwQldoTW9WSTA1cklkZ2hlK1ZhYkJTQWVwZndvaTFhS3A4bEkxVkEyVTZQUUN6UDR0S3g3eXY2TmZnb3poelFMNmxYZ3V2OGt3MTROR0VXckFRMXkxZFFjYldvQkp5Y0U1M0N3S3dtOGlWZ3JHSjJyWmZiUFhNNWVTUHJ1SHM2YmlGdjdlTVRpb1FrUS9xa0VPRXVFc25Tb29GNll2Q1hublhiTUVxQXhtYjlKNVFoZStWYWJCU0FlcGZ3b2kxYUtwOGxJMVZBMlU2UFFDOHNWV3dTUVNvTGVFWHQvcXhEWW5vTlorMGpWb0xOV2ZtMUNVVnlNQzQ5VnRmT3NmVHNuUCtCdUtMMlc2NDNNdnBrNzV5NDk4QzVMVWozaU5paUw2bWRRM0pBK2FGdlE3N1JUeVNDcDJDeXU%3D",
+            "filesize": 391833
+        }
+    ]
+}

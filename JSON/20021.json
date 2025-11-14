@@ -1,0 +1,76 @@
+{
+    "activityid": 20021,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "User Security Behavior on Wireless Networks: An Empirical Study",
+        "Name of Conference": "Hawaii International Conference On System Science",
+        "Month / Season": "2007-01-31",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": null,
+        "Publisher": "Shidler College of Business,  University of Hawaii at Manoa",
+        "Publisher Location": "Waikoloa, Big Island, Hawaii",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Wireless networks are rapidly becoming ubiquitous but are often insecure and leave users responsible for their own security. We empirically study whether users are successfully securing their client computers when using wireless networks. Automated techniques are used that scan users' machines after they associate with a university wireless network. This determines whether a firewall is being used and what TCP ports are open. Results show that over 9% of 3,331 unique computers scanned were not using a properly configured firewall. In addition, almost 9% had at least one TCP port open, with almost 6% having open ports with significant security implications. We also found and discuss cases where connected computers were compromised by Trojan programs such as SubSeven and NetBus. We discuss the generalizability of our results to other potentially insecure wireless networks, and suggestions for further research.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110593",
+    "coauthors": {
+        "134657": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Chenoweth",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111716923",
+            "authorid": 134657,
+            "scholarlyactivityid": 20021,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134658": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Minch",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110593",
+            "authorid": 134658,
+            "scholarlyactivityid": 20021,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134659": {
+            "firstname": "Sharon",
+            "middleinitial": "",
+            "lastname": "Tabor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358869",
+            "authorid": 134659,
+            "scholarlyactivityid": 20021,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20021,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110593",
+    "attachments": []
+}

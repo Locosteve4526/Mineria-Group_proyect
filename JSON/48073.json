@@ -1,0 +1,63 @@
+{
+    "activityid": 48073,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Detection and Prevention Protocol for Black Hole Attack in Network-on-Chip",
+        "Name of Conference": "international Symposium on Networks-on-chip (NoC)",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "IEEE/ACM ",
+        "Publisher Location": "Ney York",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "221943": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 221943,
+            "scholarlyactivityid": 48073,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "221944": {
+            "firstname": "Luka",
+            "middleinitial": "",
+            "lastname": "Daoud",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 221944,
+            "scholarlyactivityid": 48073,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48073,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

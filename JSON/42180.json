@@ -1,0 +1,111 @@
+{
+    "activityid": 42180,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "ADAPTIVE AND MALADAPTIVE COPING WITH AN IT THREAT",
+        "Journal": "Information Systems Management",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112057162",
+    "coauthors": {
+        "187453": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Chenoweth",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111716923",
+            "authorid": 187453,
+            "scholarlyactivityid": 42180
+        },
+        "187452": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Gattiker",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112057162",
+            "authorid": 187452,
+            "scholarlyactivityid": 42180
+        },
+        "187451": {
+            "firstname": "Karen",
+            "middleinitial": "D",
+            "lastname": "Corral",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112155629",
+            "authorid": 187451,
+            "scholarlyactivityid": 42180
+        }
+    },
+    "status": [
+        {
+            "id": 42180,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 42180,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 42180,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 42180,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 42180,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 42180,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "112057162",
+    "attachments": []
+}

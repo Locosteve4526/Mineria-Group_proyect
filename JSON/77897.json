@@ -1,0 +1,75 @@
+{
+    "activityid": 77897,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:10pt;&quot;&gt;Control of Cy5 Dimer Geometry Using Variable-Length Linkers to DNA Scaffolds&lt;/span&gt;",
+        "Journal": "Journal of the American Chemical Society",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643701",
+    "coauthors": {
+        "349679": {
+            "firstname": "Adam",
+            "middleinitial": "A",
+            "lastname": "Meares",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349679,
+            "scholarlyactivityid": 77897,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349680": {
+            "firstname": "William",
+            "middleinitial": "B",
+            "lastname": "Knowlton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643701",
+            "authorid": 349680,
+            "scholarlyactivityid": 77897,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349681": {
+            "firstname": "Joseph",
+            "middleinitial": "S",
+            "lastname": "Melinger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349681,
+            "scholarlyactivityid": 77897,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77897,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111643701",
+    "attachments": []
+}

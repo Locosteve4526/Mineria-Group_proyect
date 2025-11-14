@@ -1,0 +1,76 @@
+{
+    "activityid": 75491,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;p&gt;Development of an On-line Graduate Certificate for Nuclear Safeguards and Security&lt;/p&gt;",
+        "Name of Conference": "Annual Meeting Proceedings, American Nuclear Society.",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114107930",
+    "coauthors": {
+        "335498": {
+            "firstname": "Dan",
+            "middleinitial": "",
+            "lastname": "LaBrier",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 335498,
+            "scholarlyactivityid": 75491,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "335499": {
+            "firstname": "Kathleen",
+            "middleinitial": "M",
+            "lastname": "Araujo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114107930",
+            "authorid": 335499,
+            "scholarlyactivityid": 75491,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "335500": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Bernards",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 335500,
+            "scholarlyactivityid": 75491,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75491,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114107930",
+    "attachments": []
+}

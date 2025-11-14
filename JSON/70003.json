@@ -1,0 +1,59 @@
+{
+    "activityid": 70003,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Region 10",
+        "Name of Performing Group": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Name of Venue/Sponsor": "Ming Studios",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, ID",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114059338",
+    "coauthors": {
+        "316665": {
+            "firstname": "Kate",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114059338",
+            "authorid": 316665,
+            "scholarlyactivityid": 70003,
+            "classifications": {
+                "Role": "Performer"
+            }
+        },
+        "316666": {
+            "firstname": "Rulon",
+            "middleinitial": "M",
+            "lastname": "Wood",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114059338",
+            "authorid": 316666,
+            "scholarlyactivityid": 70003,
+            "classifications": {
+                "Role": "Performer"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70003,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114059338",
+    "attachments": []
+}

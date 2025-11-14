@@ -1,0 +1,62 @@
+{
+    "activityid": 75420,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;Sounds like Success: The Influence of Vocal Features in Marketing Communications&lt;/span&gt;",
+        "Journal": "Journal of Marketing",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106117",
+    "coauthors": {
+        "333871": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Hamby",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333871,
+            "scholarlyactivityid": 75420,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333872": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Pentland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106117",
+            "authorid": 333872,
+            "scholarlyactivityid": 75420,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75420,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114106117",
+    "attachments": []
+}

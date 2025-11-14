@@ -1,0 +1,63 @@
+{
+    "activityid": 19841,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Content analysis of student and company reactions to a university internship program",
+        "Name of Conference": "International Academy of Business and Public Administration Disciplines Conference ",
+        "Month / Season": "2005-05-31",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": null,
+        "Publisher": "International Academy of Business and Public Administration Disciplines Conference ",
+        "Publisher Location": "Dallas, Texas",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "134593": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 134593,
+            "scholarlyactivityid": 19841,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134594": {
+            "firstname": "Malcolm",
+            "middleinitial": "",
+            "lastname": "Coco",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134594,
+            "scholarlyactivityid": 19841,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19841,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2005,
+            "termid": "2004/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

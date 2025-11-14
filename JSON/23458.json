@@ -1,0 +1,55 @@
+{
+    "activityid": 23458,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Myths of Urban Redevelopment: How American Cities Rebuild Military Bases",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113116029",
+    "coauthors": {
+        "78415": {
+            "firstname": "Amanda",
+            "middleinitial": "G.",
+            "lastname": "Ashley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113116029",
+            "authorid": 78415,
+            "scholarlyactivityid": 23458
+        },
+        "78416": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Touchton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113112325",
+            "authorid": 78416,
+            "scholarlyactivityid": 23458
+        }
+    },
+    "status": [
+        {
+            "id": 23458,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113116029",
+    "attachments": []
+}

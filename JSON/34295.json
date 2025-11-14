@@ -1,0 +1,74 @@
+{
+    "activityid": 34295,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Social Work Field Placement-An Integrated Competency-Based Case Approach",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Springer Publishing Company",
+        "Publisher Location": "11 West 42nd Street, 15th Floor New York, NY 10036",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111618272",
+    "coauthors": {
+        "138529": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Witt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111618272",
+            "authorid": 138529,
+            "scholarlyactivityid": 34295,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138530": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Poulin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138530,
+            "scholarlyactivityid": 34295,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138531": {
+            "firstname": "Selena",
+            "middleinitial": "",
+            "lastname": "Mathis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138531,
+            "scholarlyactivityid": 34295,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34295,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111618272",
+    "attachments": []
+}

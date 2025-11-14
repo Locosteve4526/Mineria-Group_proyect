@@ -1,0 +1,88 @@
+{
+    "activityid": 62501,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Network traffic prediction based on least squares support vector machine with simple estimation of Gaussian kernel width",
+        "Journal": "International Journal of Information and Computer Security",
+        "Volume": "18",
+        "Month / Season": "May",
+        "Issue Number": "1-2",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "1-11",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1504/IJICS.2022.122910",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "312438": {
+            "firstname": "Gang",
+            "middleinitial": "",
+            "lastname": "Ke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312438,
+            "scholarlyactivityid": 62501,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312439": {
+            "firstname": "Ruey-Shun",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312439,
+            "scholarlyactivityid": 62501,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312440": {
+            "firstname": "Shanshan",
+            "middleinitial": "",
+            "lastname": "Ji",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312440,
+            "scholarlyactivityid": 62501,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312441": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 312441,
+            "scholarlyactivityid": 62501,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62501,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": []
+}

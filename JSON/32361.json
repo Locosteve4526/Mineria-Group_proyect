@@ -1,0 +1,77 @@
+{
+    "activityid": 32361,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Industry Regulation",
+        "Book Title": "Formal Modeling in Social Science",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "University of Michigan Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114003444",
+    "coauthors": {
+        "229715": {
+            "firstname": "Julie",
+            "middleinitial": "",
+            "lastname": "VanDusky-Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003444",
+            "authorid": 229715,
+            "scholarlyactivityid": 32361,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "229716": {
+            "firstname": "Olga",
+            "middleinitial": "",
+            "lastname": "Shvetsova",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 229716,
+            "scholarlyactivityid": 32361,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "229717": {
+            "firstname": "Carol",
+            "middleinitial": "",
+            "lastname": "Mershon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 229717,
+            "scholarlyactivityid": 32361,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32361,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114003444",
+    "attachments": []
+}

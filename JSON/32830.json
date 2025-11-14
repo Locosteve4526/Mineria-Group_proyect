@@ -1,0 +1,63 @@
+{
+    "activityid": 32830,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cCircle Detection Performance Evaluation Revisited\u201d",
+        "Name of Conference": "11th IAPR International Workshop on Graphics Recognition",
+        "Month / Season": "Jan 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "Volume": "LNCS Volume 9657",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Circle and circular arc detection in images have been a long\r\nstanding topic in image analysis. It \u001cnds numerous applications for both\r\nscanned document images as well as in photographic images. As a result,\r\ncircle detection algorithms are published regularly and benchmarking\r\ndata sets and contests have been organized on a regular basis over the\r\nlast decades. Unfortunately, they have not been able to achieve a very\r\nclear image establishing which approaches perform best and under what\r\nexact conditions.\r\nThis paper contributes to circle and arc detection, by providing an open\r\nand fully reproducible framework for benchmarking and evaluating circle\r\nand circular arc detection methods. It builds upon the current state of the\r\nart and commonly used metrics by providing a complementary approach\r\nthrough the introduction of synthetic evaluation data for benchmarking\r\nversus two noise types at gradually varying noise levels and new performance\r\nmetrics that are compatible with previous evaluation approaches.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142537": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142537,
+            "scholarlyactivityid": 32830,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142538": {
+            "firstname": "Bart",
+            "middleinitial": "",
+            "lastname": "Lamiroy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142538,
+            "scholarlyactivityid": 32830,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32830,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

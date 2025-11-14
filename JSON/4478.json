@@ -1,0 +1,76 @@
+{
+    "activityid": 4478,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling Soil Depth from Topographic and Land Cover Attributes",
+        "Journal": "Water Resources Research",
+        "Volume": "45",
+        "Month / Season": "2009-10-29",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "W10438",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2008wr007474",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/geo_facpubs/23",
+        "Description/Abstract": "Soil depth is an important input parameter in hydrological and ecological modeling. Presently, the soil depth data available in national soil databases (STATSGO and SSURGO) from the Natural Resources Conservation Service are provided as averages within generalized land units (map units). Spatial uncertainty within these units limits their applicability for distributed modeling in complex terrain. This work reports statistical models for prediction of soil depth in a semiarid mountainous watershed that are based upon the relationship between soil depth and topographic and land cover attributes. Soil depth was surveyed by driving a rod into the ground until refusal at locations selected to represent the topographic and land cover variation in the Dry Creek Experimental Watershed near Boise, Idaho. The soil depth survey consisted of a model calibration set, measured at 819 locations over 8 subwatersheds representing topographic and land cover variability and a model testing set, measured at 130 more broadly distributed locations in the watershed. Many model input variables were developed for regression to the field data. Topographic attributes were derived from a digital elevation model. Land cover attributes were derived from Landsat remote sensing images and high-resolution aerial photographs. Generalized additive and random forests models were developed to predict soil depth over the watershed. They were able to explain about 50% of the soil depth spatial variation, which is an important improvement over the soil depth extracted from the SSURGO national soil database.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110360",
+    "coauthors": {
+        "13478": {
+            "firstname": "Teklu",
+            "middleinitial": "K.",
+            "lastname": "Tesfa",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13478,
+            "scholarlyactivityid": 4478
+        },
+        "13479": {
+            "firstname": "David",
+            "middleinitial": "G.",
+            "lastname": "Tarboton",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13479,
+            "scholarlyactivityid": 4478
+        },
+        "13480": {
+            "firstname": "David",
+            "middleinitial": "G.",
+            "lastname": "Chandler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13480,
+            "scholarlyactivityid": 4478
+        },
+        "13481": {
+            "firstname": "James",
+            "middleinitial": "P",
+            "lastname": "McNamara",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110360",
+            "authorid": 13481,
+            "scholarlyactivityid": 4478
+        }
+    },
+    "status": [
+        {
+            "id": 4478,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110360",
+    "attachments": []
+}

@@ -1,0 +1,42 @@
+{
+    "activityid": 11520,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Commencement Speaker",
+        "Conference/Meeting Name": "Graduation Ceremony ",
+        "Conference Location": "Ohio",
+        "Date or Date Range": "2013-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "University of Cincinnati Clermont College",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111688329",
+    "coauthors": {
+        "54839": {
+            "firstname": "Brittany",
+            "middleinitial": "",
+            "lastname": "Brand",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111688329",
+            "authorid": 54839,
+            "scholarlyactivityid": 11520
+        }
+    },
+    "status": [
+        {
+            "id": 11520,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111688329",
+    "attachments": []
+}

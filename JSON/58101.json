@@ -1,0 +1,63 @@
+{
+    "activityid": 58101,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Hardware implementation of Multi-Rate input SoftMax activation function",
+        "Name of Conference": "2021 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "783-786",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9531761",
+        "Description/Abstract": "The SoftMax activation function is a normalized\nexponential function that is usually used as an activation function\nof the last layer of a fully connected neural network. The number\nof neurons in this layer represents the number of classes. The\nSoftMax activation function is used to normalize the network\noutputs to a probability distribution over predicted output\nclasses. In this paper, a multi-rate input SoftMax activation\nfunction has been designed and built on FPGA. The unit can read\n4 or 2 consecutive inputs or one input, every predefined number\nof cycles. A ROM design has been utilized to determine the\nexponential part of the function, while the Coordinate Rotation\nDigital Computer (CORDIC) reciprocal algorithm has been used\nto calculate the reciprocal of the sum of the input exponential.\nHardware multipliers have been used to calculate the SoftMax\noutput. Unit optimization is achieved by pipelining on the input\nand output stages. The unit can be configured and controlled by\nan ARM microcontroller as a complete System-on-Chip (SoC)\nbuilt on Field Programmable Gate Array (FPGA)",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "269830": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Wasef",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269830,
+            "scholarlyactivityid": 58101,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "269831": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 269831,
+            "scholarlyactivityid": 58101,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58101,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 31746,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Planetary Transits and Tidal Evolution",
+        "Conference/Meeting Name": "IAU Symposium",
+        "Conference Location": "",
+        "Date or Date Range": "Feb",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2009IAUS..253..217J",
+        "Description/Abstract": "Transiting planets are generally close enough to their host stars that tides may govern their orbital and thermal evolution. We present calculations of the tidal evolution of recently discovered transiting planets and discuss their implications. The tidal heating that accompanies this orbital evolution can be so great that it controls the planet's physical properties and may explain the large radii observed in several cases, including, for example, TrES-4. Also, since a planet's transit probability depends on its orbit, it evolves due to tides. Current values depend sensitively on the physical properties of the star and planet, as well as on the system's age. As a result, tidal effects may introduce observational biases in transit surveys, which may already be evident in current observations. Transiting planets tend to be younger than non-transiting planets, an indication that tidal evolution may have destroyed many close-in planets. Also the distribution of the masses of transiting planets may constrain the orbital inclinations of non-transiting planets. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "120303": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120303,
+            "scholarlyactivityid": 31746,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120304": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Barnes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120304,
+            "scholarlyactivityid": 31746,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "120305": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Greenberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120305,
+            "scholarlyactivityid": 31746,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31746,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

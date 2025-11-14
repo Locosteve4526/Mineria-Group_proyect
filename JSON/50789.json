@@ -1,0 +1,64 @@
+{
+    "activityid": 50789,
+    "fields": {
+        "Type": "Instructional Publications",
+        "Title": "Instructor's Manual for The Curious Writer",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Organization (if applicable)": "",
+        "Issue Number/Edition": "",
+        "Page Numbers": "",
+        "Publisher": "Pearson",
+        "ISBN/ISSN/ASIN #": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "DOI": "9780136600305",
+        "Author(s)": null,
+        "Web Address": "https://www.pearson.com/us/higher-education/product/Ballenger-Instructor-s-Resource-Manual-Download-Only-for-The-Curious-Writer-6th-Edition/9780136600305.html",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110239",
+    "coauthors": {
+        "278977": {
+            "firstname": "Michelle",
+            "middleinitial": "Marie",
+            "lastname": "Payne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110239",
+            "authorid": 278977,
+            "scholarlyactivityid": 50789
+        }
+    },
+    "status": [
+        {
+            "id": 50789,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 50789,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 50789,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110239",
+    "attachments": []
+}

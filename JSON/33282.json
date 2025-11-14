@@ -1,0 +1,74 @@
+{
+    "activityid": 33282,
+    "fields": {
+        "Type": "Book",
+        "Title": "Introduction to Scientific and Technical Computing",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "Taylor and Francis",
+        "Publisher Location": "",
+        "ISBN": "9781498745048",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.crcpress.com/Introduction-to-Scientific-and-Technical-Computing/Willmore-Jankowski-Colina/p/book/9781498745048",
+        "Description/Abstract": "Created to help scientists and engineers write computer code, this practical book addresses the important tools and techniques that are necessary for scientific computing, but which are not yet commonplace in science and engineering curricula. This book contains chapters summarizing the most important topics that computational researchers need to know about. It leverages the viewpoints of passionate experts involved with scientific computing courses around the globe and aims to be a starting point for new computational scientists and a reference for the experienced. Each contributed chapter focuses on a specific tool or skill, providing the content needed to provide a working knowledge of the topic in about one day. While many individual books on specific computing topics exist, none is explicitly focused on getting technical professionals and students up and running immediately across a variety of computational areas.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114031140",
+    "coauthors": {
+        "130255": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Jankowski",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114031140",
+            "authorid": 130255,
+            "scholarlyactivityid": 33282,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "130256": {
+            "firstname": "Frank",
+            "middleinitial": "",
+            "lastname": "Willmore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 130256,
+            "scholarlyactivityid": 33282,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "130257": {
+            "firstname": "Coray",
+            "middleinitial": "",
+            "lastname": "Colina",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 130257,
+            "scholarlyactivityid": 33282,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33282,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114031140",
+    "attachments": []
+}

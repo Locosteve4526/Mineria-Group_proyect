@@ -1,0 +1,57 @@
+{
+    "activityid": 40026,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Interactive machine learning",
+        "Name of Conference": "Proceedings of the 8th international conference on Intelligent user interfaces",
+        "Month / Season": null,
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": null,
+        "Publisher": null,
+        "Publisher Location": null,
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114058343",
+    "coauthors": {
+        "174566": {
+            "firstname": "Jerry",
+            "middleinitial": "Alan",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174566,
+            "scholarlyactivityid": 40026
+        },
+        "174567": {
+            "firstname": ",",
+            "middleinitial": "Dan",
+            "lastname": "Olsen Jr",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174567,
+            "scholarlyactivityid": 40026
+        }
+    },
+    "status": [
+        {
+            "id": 40026,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2003,
+            "termid": "2003/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058343",
+    "attachments": []
+}

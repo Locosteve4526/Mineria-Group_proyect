@@ -1,0 +1,63 @@
+{
+    "activityid": 34935,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "D. K. Reed and E. H. Barney Smith, \u201cCorrelating degradation models and image quality metrics\u201d",
+        "Name of Conference": "SPIE Electronic Imaging -- Document Recognition and Retrieval XV",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "# 681508",
+        "Publisher": "SPIE",
+        "Publisher Location": "San Jose, CA",
+        "Volume": "6815",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "OCR often performs poorly on degraded documents. One approach to improving performance is to determine a good filter\r\nto improve the appearance of the document image before sending it to the OCR engine. Quality metrics have been\r\nmeasured in document images to determine what type of filtering would most likely improve the OCR response for that\r\ndocument image. In this paper those same quality metrics are measured for several word images degraded by known\r\nparameters in a document degradation model. The correlation between the degradation model parameters and the quality\r\nmetrics is measured. High correlations do appear in many places that were expected. They are also absent in some\r\nexpected places and offer a comparison of quality metric definitions proposed by different authors.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142649": {
+            "firstname": "Darrin",
+            "middleinitial": "K",
+            "lastname": "Reed",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142649,
+            "scholarlyactivityid": 34935,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142650": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142650,
+            "scholarlyactivityid": 34935,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34935,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

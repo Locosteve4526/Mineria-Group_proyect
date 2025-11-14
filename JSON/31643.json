@@ -1,0 +1,83 @@
+{
+    "activityid": 31643,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "POET: A Model for Planetary Orbital Evolution Due to Tides on Evolving Stars",
+        "Journal": "Publications of the Astronomical Society of the Pacific",
+        "Volume": "126",
+        "Month / Season": "Jun",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "553-564",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2014PASP..126..553P",
+        "Description/Abstract": "We make publicly available an efficient, versatile, easy to use and extend tool for calculating the evolution of circular aligned planetary orbits due to the tidal dissipation in the host star. This is the first model to fully account for the evolution of the angular momentum of the stellar convective envelope by the tidal coupling, the transfer of angular momentum between the stellar convective and radiative zones, the effects of the stellar evolution on the tidal dissipation efficiency and stellar core and envelope spins, the loss of stellar convective zone angular momentum to a magnetically launched wind and frequency dependent tidal dissipation. This is only a first release and further development is under way to allow calculating the evolution of inclined and eccentric orbits, with the latter including the tidal dissipation in the planet and its feedback on planetary structure. Considerable effort has been devoted to providing extensive documentation detailing both the usage and the complete implementation details, in order to make it as easy as possible for independent groups to use and/or extend the code for their purposes. POET represents a significant improvement over some previous models for planetary tidal evolution and so has many astrophysical applications. In this article, we describe and illustrate several key examples. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "119572": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Penev",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119572,
+            "scholarlyactivityid": 31643,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119573": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119573,
+            "scholarlyactivityid": 31643,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119574": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119574,
+            "scholarlyactivityid": 31643,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31643,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": [
+        {
+            "attachmentid": 3837,
+            "mimetype": "application/pdf",
+            "filename": "1405.1050.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZaGorZHBXb2pQK1VCdENra3o4dHozQ0hwb3NLa3hJRDhxSWIrQXdyOVR0QT09",
+            "filesize": 321215
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "activityid": 27504,
+    "fields": {
+        "Type": "Book",
+        "Title": "Vive la Diffe?rence: A Celebration of the Sexes",
+        "Actual/Projected Year of Publication/Presentation": 1993,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Prometheus Books",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Prometheus Books",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/248",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "87102": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 87102,
+            "scholarlyactivityid": 27504
+        },
+        "87103": {
+            "firstname": "Grace",
+            "middleinitial": "J.",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87103,
+            "scholarlyactivityid": 27504
+        }
+    },
+    "status": [
+        {
+            "id": 27504,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1993,
+            "termid": "1992/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

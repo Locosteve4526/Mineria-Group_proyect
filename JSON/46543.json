@@ -1,0 +1,58 @@
+{
+    "activityid": 46543,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "COL11A1 in the Structure and Development of Sensory Hair Cells",
+        "Conference / Meeting Name": "Graduate Student Showcase",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "May 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "Boise State University Graduate College",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "212222": {
+            "firstname": "Makenna",
+            "middleinitial": "",
+            "lastname": "Hardy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 212222,
+            "scholarlyactivityid": 46543,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "212223": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 212223,
+            "scholarlyactivityid": 46543,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46543,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

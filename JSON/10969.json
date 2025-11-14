@@ -1,0 +1,42 @@
+{
+    "activityid": 10969,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Writing and Inquiry",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Lansing, MI",
+        "Date or Date Range": "2011-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "Michigan State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "53623": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 53623,
+            "scholarlyactivityid": 10969
+        }
+    },
+    "status": [
+        {
+            "id": 10969,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

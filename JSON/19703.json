@@ -1,0 +1,63 @@
+{
+    "activityid": 19703,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Gaining purchasing\u2019s commitment for environmental management projects: An intra-organizational influence perspective",
+        "Name of Conference": "Annual Meeting of the Decision Sciences Institute",
+        "Month / Season": "2007-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": null,
+        "Publisher": "Decision Sciences Institute",
+        "Publisher Location": "Phoenix",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112057162",
+    "coauthors": {
+        "134542": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Gattiker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112057162",
+            "authorid": 134542,
+            "scholarlyactivityid": 19703,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "134543": {
+            "firstname": "Craig",
+            "middleinitial": "R",
+            "lastname": "Carter",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134543,
+            "scholarlyactivityid": 19703,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19703,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112057162",
+    "attachments": []
+}

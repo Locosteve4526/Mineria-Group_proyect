@@ -1,0 +1,52 @@
+{
+    "activityid": 40116,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Looking for Meaning in Student Data to Guide our Teaching",
+        "Conference/Meeting Name": "Idaho Council for Teachers of Mathematics Annual Conference",
+        "Conference Location": "Eagle, Idaho",
+        "Date or Date Range": "October 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "Idaho Council for Teachers of Mathematics",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111351647",
+    "coauthors": {
+        "175098": {
+            "firstname": "Joe",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 175098,
+            "scholarlyactivityid": 40116
+        },
+        "175099": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 175099,
+            "scholarlyactivityid": 40116
+        }
+    },
+    "status": [
+        {
+            "id": 40116,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111351647",
+    "attachments": []
+}

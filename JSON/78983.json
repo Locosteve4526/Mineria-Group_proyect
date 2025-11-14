@@ -1,0 +1,76 @@
+{
+    "activityid": 78983,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Mapping infrasound emissions for tracking fire activity",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113150379",
+    "coauthors": {
+        "352331": {
+            "firstname": "Jacob",
+            "middleinitial": "F",
+            "lastname": "Anderson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114001444",
+            "authorid": 352331,
+            "scholarlyactivityid": 78983
+        },
+        "352330": {
+            "firstname": "Madeline",
+            "middleinitial": "A",
+            "lastname": "Hunt",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352330,
+            "scholarlyactivityid": 78983
+        },
+        "352329": {
+            "firstname": "Kara",
+            "middleinitial": "",
+            "lastname": "Yedinak",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352329,
+            "scholarlyactivityid": 78983
+        },
+        "352328": {
+            "firstname": "Jeffrey",
+            "middleinitial": "B",
+            "lastname": "Johnson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 352328,
+            "scholarlyactivityid": 78983
+        }
+    },
+    "status": [
+        {
+            "id": 78983,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113150379",
+    "attachments": []
+}

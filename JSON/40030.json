@@ -1,0 +1,67 @@
+{
+    "activityid": 40030,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "ScreenCrayons: annotating anything",
+        "Name of Conference": "Proceedings of the 17th annual ACM symposium on User interface software and technology",
+        "Month / Season": null,
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": null,
+        "Publisher": null,
+        "Publisher Location": null,
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114058343",
+    "coauthors": {
+        "174582": {
+            "firstname": ",",
+            "middleinitial": "Dan",
+            "lastname": "Olsen Jr",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174582,
+            "scholarlyactivityid": 40030
+        },
+        "174583": {
+            "firstname": "Trent",
+            "middleinitial": "",
+            "lastname": "Taufer",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174583,
+            "scholarlyactivityid": 40030
+        },
+        "174584": {
+            "firstname": "Jerry",
+            "middleinitial": "Alan",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174584,
+            "scholarlyactivityid": 40030
+        }
+    },
+    "status": [
+        {
+            "id": 40030,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2004,
+            "termid": "2004/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058343",
+    "attachments": []
+}

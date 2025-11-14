@@ -1,0 +1,122 @@
+{
+    "activityid": 31651,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Detection of Thermal Emission from a Super-Earth",
+        "Journal": "Astrophysical Journal Letters",
+        "Volume": "751",
+        "Month / Season": "Jun",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "L28",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2012ApJ...751L..28D",
+        "Description/Abstract": "We report on the detection of infrared light from the super-Earth 55 Cnc e, based on four occultations obtained with Warm Spitzer at 4.5 \u03bcm. Our data analysis consists of a two-part process. In a first step, we perform individual analyses of each data set and compare several baseline models to optimally account for the systematics affecting each light curve. We apply independent photometric correction techniques, including polynomial detrending and pixel mapping, that yield consistent results at the 1\u03c3 level. In a second step, we perform a global Markov Chain Monte Carlo analysis, including all four data sets that yield an occultation depth of 131 \u00b1 28 ppm, translating to a brightness temperature of 2360 \u00b1 300 K in the IRAC 4.5 \u03bcm channel. This occultation depth suggests a low Bond albedo coupled to an inefficient heat transport from the planetary day side to the night side, or else possibly that the 4.5 \u03bcm observations probe atmospheric layers that are hotter than the maximum equilibrium temperature (i.e., a thermal inversion layer or a deep hot layer). The measured occultation phase and duration are consistent with a circular orbit and improves the 3\u03c3 upper limit on 55 Cnc e's orbital eccentricity from 0.25 to 0.06. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "119625": {
+            "firstname": "B.",
+            "middleinitial": "O.",
+            "lastname": "Demory",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119625,
+            "scholarlyactivityid": 31651,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119626": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Gillon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119626,
+            "scholarlyactivityid": 31651,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119627": {
+            "firstname": "S.",
+            "middleinitial": "",
+            "lastname": "Seager",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119627,
+            "scholarlyactivityid": 31651,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119628": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Benneke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119628,
+            "scholarlyactivityid": 31651,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119629": {
+            "firstname": "D.",
+            "middleinitial": "",
+            "lastname": "Deming",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119629,
+            "scholarlyactivityid": 31651,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119630": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119630,
+            "scholarlyactivityid": 31651,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31651,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": [
+        {
+            "attachmentid": 3844,
+            "mimetype": "application/pdf",
+            "filename": "1205.1766.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZaGorZHBXb2pQK2FPMzlreWlrYktSQit2UmJXaFlvaFFxSWIrQXdyOVR0QT09",
+            "filesize": 3187636
+        }
+    ]
+}

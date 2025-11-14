@@ -1,0 +1,106 @@
+{
+    "activityid": 44728,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Developing immersive postsecondary education summer experiences for youth with disabilities",
+        "Journal": "Journal of Vocational Rehabilitation",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114046499",
+    "coauthors": {
+        "223915": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Scheef",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 223915,
+            "scholarlyactivityid": 44728,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "223916": {
+            "firstname": "Jeremy",
+            "middleinitial": "W",
+            "lastname": "Ford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046499",
+            "authorid": 223916,
+            "scholarlyactivityid": 44728,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "223917": {
+            "firstname": "Jenn",
+            "middleinitial": "",
+            "lastname": "Gallup",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 223917,
+            "scholarlyactivityid": 44728,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "223918": {
+            "firstname": "Alison",
+            "middleinitial": "",
+            "lastname": "Lowenthall",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 223918,
+            "scholarlyactivityid": 44728,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44728,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 44728,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 44728,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114046499",
+    "attachments": []
+}

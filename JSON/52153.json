@@ -1,0 +1,58 @@
+{
+    "activityid": 52153,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Lifetime reproductive success in burrowing owls",
+        "Conference / Meeting Name": "Annual Meeting of the Raptor Research Foundation",
+        "Conference Location": "Boise, Idaho (canceled)",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Raptor research Foundation",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "241851": {
+            "firstname": "Jayewon",
+            "middleinitial": "",
+            "lastname": "Hill",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 241851,
+            "scholarlyactivityid": 52153,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "241852": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 241852,
+            "scholarlyactivityid": 52153,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52153,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

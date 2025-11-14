@@ -1,0 +1,49 @@
+{
+    "activityid": 27954,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "On a two-grid finite element scheme for the equations of motion arising in Kelvin-Voigt model.",
+        "Outlet (if applicable)": "",
+        "Date": "2015-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Publisher": " Adv. Comput. Math.",
+        "Location of Publisher (City, State, Country)": " ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "\u201cIn this paper, we study a two level method based on Newton\u2019s iteration for the nonlinear system arising from the Galerkin finite element approximation to the equations of motion described by the Kelvin-Voigt viscoelastic fluid flow model. The two-grid algorithm is based on three steps. In the first step, the nonlinear system is solved on a coarse mesh TH to obtain an approximate solution uH . In the second step, the nonlinear system is linearized around uH based on Newton\u2019s iteration and the linear system is solved on a finer mesh Th. Finally, in the third step, a correction to the results obtained in the second step is achieved by solving a linear problem with a different right hand side on Th. Optimal error estimates in L?(L2)-norm, when h = O(H2??) and in L?(H1)-norm, when h = O(H5?2?) for velocity and in L?(L2)-norm, when h = O(H5?2?) for pressure are established, where ? &gt; 0 is arbitrarily small for two dimensions and\r\n? = 1/2 for three dimensions.\u201d \r\nExplanation of Other:  Mathematical Reviews",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "94482": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 94482,
+            "scholarlyactivityid": 27954
+        }
+    },
+    "status": [
+        {
+            "id": 27954,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

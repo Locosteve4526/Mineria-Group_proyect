@@ -1,0 +1,82 @@
+{
+    "activityid": 47499,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "\u201cPreface&quot;",
+        "Book Title": "Reading Lacan's Seminar VIII: Transference",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116789",
+    "coauthors": {
+        "252148": {
+            "firstname": "Gautam",
+            "middleinitial": "",
+            "lastname": "Basu Thakur",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116789",
+            "authorid": 252148,
+            "scholarlyactivityid": 47499,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "252149": {
+            "firstname": "Jonathan",
+            "middleinitial": "",
+            "lastname": "Dickstein",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252149,
+            "scholarlyactivityid": 47499,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47499,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 47499,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 47499,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "113116789",
+    "attachments": []
+}

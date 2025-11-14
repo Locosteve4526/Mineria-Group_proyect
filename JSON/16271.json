@@ -1,0 +1,52 @@
+{
+    "activityid": 16271,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Interactions between Collagen and Chondroitin Sulfate",
+        "Conference/Meeting Name": "Arthritis Symposium",
+        "Conference Location": "St. Alphonsus Regional Medical Center",
+        "Date or Date Range": "2010-06-18",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "65670": {
+            "firstname": "L",
+            "middleinitial": "",
+            "lastname": "Woodbury",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65670,
+            "scholarlyactivityid": 16271
+        },
+        "65671": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 65671,
+            "scholarlyactivityid": 16271
+        }
+    },
+    "status": [
+        {
+            "id": 16271,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

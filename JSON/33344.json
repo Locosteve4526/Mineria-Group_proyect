@@ -1,0 +1,56 @@
+{
+    "activityid": 33344,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "New combination in Astragalus (Fabaceae). ",
+        "Journal": "Phytoneuron",
+        "Volume": "2017-38",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "1-3",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "131386": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 131386,
+            "scholarlyactivityid": 33344
+        },
+        "131387": {
+            "firstname": "Jay",
+            "middleinitial": "C.",
+            "lastname": "Zimmers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 131387,
+            "scholarlyactivityid": 33344
+        }
+    },
+    "status": [
+        {
+            "id": 33344,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

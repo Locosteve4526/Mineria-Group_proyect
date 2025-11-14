@@ -1,0 +1,72 @@
+{
+    "activityid": 14417,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "A team that is on a roll: Physical education, recreation, university, and public schools",
+        "Conference/Meeting Name": "Utah Alliance of Health, Physical Education, Recreation, and Dance Conference",
+        "Conference Location": "Park City, UT",
+        "Date or Date Range": "2001-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Sponsoring Organization": "Utah Alliance of Health, Physical Education, Recreation, and Dance",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112179883",
+    "coauthors": {
+        "61534": {
+            "firstname": "B",
+            "middleinitial": "",
+            "lastname": "Olsen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 61534,
+            "scholarlyactivityid": 14417
+        },
+        "61535": {
+            "firstname": "C",
+            "middleinitial": "",
+            "lastname": "Blakemore",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 61535,
+            "scholarlyactivityid": 14417
+        },
+        "61536": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112179883",
+            "authorid": 61536,
+            "scholarlyactivityid": 14417
+        },
+        "61537": {
+            "firstname": "C",
+            "middleinitial": "",
+            "lastname": "Kelly",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 61537,
+            "scholarlyactivityid": 14417
+        }
+    },
+    "status": [
+        {
+            "id": 14417,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2001,
+            "termid": "2001/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112179883",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 1609,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "GAMPMS: Genetic Algorithm Managed Peptide Mutant Screening",
+        "Journal": "Journal of Computational Chemistry",
+        "Volume": "",
+        "Month / Season": "2014-11-30",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "American Chemical Society",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111669907",
+    "coauthors": {
+        "3901": {
+            "firstname": "Thomas",
+            "middleinitial": "",
+            "lastname": "Long",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 3901,
+            "scholarlyactivityid": 1609
+        },
+        "3902": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 3902,
+            "scholarlyactivityid": 1609
+        },
+        "3903": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 3903,
+            "scholarlyactivityid": 1609
+        }
+    },
+    "status": [
+        {
+            "id": 1609,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 1609,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111669907",
+    "attachments": []
+}

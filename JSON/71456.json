@@ -1,0 +1,71 @@
+{
+    "activityid": 71456,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Circumscribing a species center of genetic diversity: analysis of Bromus tectorum L. populations from Cyprus, Greec, and Turkey&lt;/span&gt;",
+        "Conference/Meeting Name": "Botany 2023",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "July, 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "Botanical Society of America",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110143",
+    "coauthors": {
+        "325009": {
+            "firstname": "Heather",
+            "middleinitial": "L.",
+            "lastname": "Lindon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325009,
+            "scholarlyactivityid": 71456,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325010": {
+            "firstname": "Richard",
+            "middleinitial": "N.",
+            "lastname": "Mack",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325010,
+            "scholarlyactivityid": 71456,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325011": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 325011,
+            "scholarlyactivityid": 71456,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71456,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110143",
+    "attachments": []
+}

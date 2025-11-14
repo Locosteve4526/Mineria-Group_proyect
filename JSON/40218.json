@@ -1,0 +1,106 @@
+{
+    "activityid": 40218,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Reorganizing organizational politics research: A review of the literature and identification of future research directions",
+        "Journal": "Annual Review of Organizational Psychology and Organizational Behavior",
+        "Volume": "6",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "299-323",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114105910",
+    "coauthors": {
+        "260265": {
+            "firstname": "Gerlad",
+            "middleinitial": "R",
+            "lastname": "Ferris",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 260265,
+            "scholarlyactivityid": 40218,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "260266": {
+            "firstname": "B",
+            "middleinitial": "Parker",
+            "lastname": "Ellen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 260266,
+            "scholarlyactivityid": 40218,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "260267": {
+            "firstname": "Charn",
+            "middleinitial": "P",
+            "lastname": "McAllister",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 260267,
+            "scholarlyactivityid": 40218,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "260268": {
+            "firstname": "Liam",
+            "middleinitial": "P",
+            "lastname": "Maher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114105910",
+            "authorid": 260268,
+            "scholarlyactivityid": 40218,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40218,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40218,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 40218,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114105910",
+    "attachments": []
+}

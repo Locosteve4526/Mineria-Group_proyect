@@ -1,0 +1,52 @@
+{
+    "activityid": 15012,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Challenges in teaching Introduction to Psychology: A conversation with textbook authors ",
+        "Conference/Meeting Name": "American Psychological Association",
+        "Conference Location": "Toronto, Ontario, Canada",
+        "Date or Date Range": "2015-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "62868": {
+            "firstname": "Sue",
+            "middleinitial": "",
+            "lastname": "Frantz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62868,
+            "scholarlyactivityid": 15012
+        },
+        "62869": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 62869,
+            "scholarlyactivityid": 15012
+        }
+    },
+    "status": [
+        {
+            "id": 15012,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

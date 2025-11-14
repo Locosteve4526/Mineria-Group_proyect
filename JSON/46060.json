@@ -1,0 +1,84 @@
+{
+    "activityid": 46060,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Monkeys get the point: Capuchins use lasers to select and rank distant rewards",
+        "Conference/Meeting Name": "International Primatological Society",
+        "Conference Location": "Edinburgh, Scotland",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045170",
+    "coauthors": {
+        "210056": {
+            "firstname": "Theodore",
+            "middleinitial": "",
+            "lastname": "Evans",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210056,
+            "scholarlyactivityid": 46060,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "210057": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045170",
+            "authorid": 210057,
+            "scholarlyactivityid": 46060,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210058": {
+            "firstname": "Charles",
+            "middleinitial": "",
+            "lastname": "Menzel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210058,
+            "scholarlyactivityid": 46060,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210059": {
+            "firstname": "Dorothy",
+            "middleinitial": "",
+            "lastname": "Fragaszy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210059,
+            "scholarlyactivityid": 46060,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46060,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114045170",
+    "attachments": []
+}

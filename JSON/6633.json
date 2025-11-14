@@ -1,0 +1,66 @@
+{
+    "activityid": 6633,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Stability of Numerical Approximations of the Time Domain Current Induced on a Thin Wire and Strip Antennas",
+        "Journal": "Applied Numerical Mathematics",
+        "Volume": "55",
+        "Month / Season": "2005-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "48-68",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We derive and analyse collocation approximations of retarded potential integral equations (RPIEs) arising as models of scattering of waves from thin wire and strip antennas. In particular we derive midline collocated and transversely averaged strip RPIEs and show how they are related to the thin wire exact kernel RPIE. We Fourier analyse the temporal stability of spatially exact piecewise constant and linear in time approximations of these three RPIEs. All three are stable when piecewise constant in time approximation is used, but only the transversely averaged strip approximation is stable with piecewise linear time approximation. Numerical results are presented for practical schemes that are piecewise constant or linear in time and space, and these are in close agreement with the predictions of the Fourier analysis.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20691": {
+            "firstname": "Penny",
+            "middleinitial": "J.",
+            "lastname": "Davies",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20691,
+            "scholarlyactivityid": 6633
+        },
+        "20692": {
+            "firstname": "Duncan",
+            "middleinitial": "B.",
+            "lastname": "Dugald",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20692,
+            "scholarlyactivityid": 6633
+        },
+        "20693": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20693,
+            "scholarlyactivityid": 6633
+        }
+    },
+    "status": [
+        {
+            "id": 6633,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

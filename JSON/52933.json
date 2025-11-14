@@ -1,0 +1,61 @@
+{
+    "activityid": 52933,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "How can educators tap into research to increase engagement during remote learning?",
+        "Name of Venue": "EdSurge",
+        "Date": "2020-05-06",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Activity Type": "EdSurge",
+        "Origin": "Manual"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "246525": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 246525,
+            "scholarlyactivityid": 52933,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246526": {
+            "firstname": "Kristin",
+            "middleinitial": "",
+            "lastname": "Kipp",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246526,
+            "scholarlyactivityid": 52933,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52933,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

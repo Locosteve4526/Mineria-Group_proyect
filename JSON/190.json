@@ -1,0 +1,56 @@
+{
+    "activityid": 190,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Buyer behavior and procedural fairness in pricing: Exploring the moderating role of product familiarity",
+        "Journal": "Journal of Product &amp; Brand Management",
+        "Volume": "14",
+        "Month / Season": "2005-07-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "271-276",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111155890",
+    "coauthors": {
+        "505": {
+            "firstname": "Omar",
+            "middleinitial": "",
+            "lastname": "Shehryar",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 505,
+            "scholarlyactivityid": 190
+        },
+        "506": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Hunt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111155890",
+            "authorid": 506,
+            "scholarlyactivityid": 190
+        }
+    },
+    "status": [
+        {
+            "id": 190,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2005,
+            "termid": "2005/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111155890",
+    "attachments": []
+}

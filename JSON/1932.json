@@ -1,0 +1,56 @@
+{
+    "activityid": 1932,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Model for Strategic Business Instruction",
+        "Journal": "Research Strategies",
+        "Volume": "19",
+        "Month / Season": "2003-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "148-162",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://digitalcommons.unl.edu/libraryscience/161",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113171989",
+    "coauthors": {
+        "4977": {
+            "firstname": "Signe",
+            "middleinitial": "",
+            "lastname": "Boudreau",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4977,
+            "scholarlyactivityid": 1932
+        },
+        "4978": {
+            "firstname": "Tracy",
+            "middleinitial": "",
+            "lastname": "Bicknell-Holmes",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113171989",
+            "authorid": 4978,
+            "scholarlyactivityid": 1932
+        }
+    },
+    "status": [
+        {
+            "id": 1932,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2003,
+            "termid": "2003/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113171989",
+    "attachments": []
+}

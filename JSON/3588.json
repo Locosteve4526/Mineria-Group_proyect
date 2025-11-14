@@ -1,0 +1,82 @@
+{
+    "activityid": 3588,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Multi-Year Dust Devil Vortex Survey Using an Automated Search of Pressure Time-Series",
+        "Journal": "Journal of Geophysical Research",
+        "Volume": "",
+        "Month / Season": "2015-02-09",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.1002/2014JE004712",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://onlinelibrary.wiley.com/enhanced/doi/10.1002/2014JE004712/",
+        "Description/Abstract": "Dust devils occur in arid climates on the Earth and ubiquitously on Mars, where they likely dominate the supply of atmospheric dust and influence climate. Martian dust devils have been studied with a combination of orbiting and landed spacecraft, while most studies of terrestrial dust devils have involved manned monitoring of field sites, which can be costly both in time and personnel. As an alternative approach, we describe a multiyear in situ survey of terrestrial dust devils using pressure loggers deployed at El Dorado Playa in Nevada, USA, a site known for dust devil activity. Analogous to previous surveys for Martian dust devils, we conduct a posthoc analysis of the barometric data to search for putative dust devil pressure dips using a new automated detection algorithm. We investigate the completeness and false positive rates of our new algorithm and conduct several statistically robust analyses of the resulting population of dips. We also investigate possible seasonal, annual, and spatial variability of the putative dust devil dips, possible correlations with precipitation, and the influence of sample size on the derived population statistics. Our results suggest that large numbers of dips (&gt;1000) collected over multiple seasons are probably required for accurate assessment of the underlying dust devil population. Correlating long-term barometric time series with other data streams (e.g., solar flux measurements from photovoltaic cells) can uniquely elucidate the natures and origins of dust devils, and accurately assessing their influence requires consideration of the full distribution of dust devil properties, rather than average values.",
+        "Origin": "Other"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "119195": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114026685",
+            "authorid": 119195,
+            "scholarlyactivityid": 3588
+        },
+        "119196": {
+            "firstname": "Ralph",
+            "middleinitial": "",
+            "lastname": "Lorenz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119196,
+            "scholarlyactivityid": 3588
+        }
+    },
+    "status": [
+        {
+            "id": 3588,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 3588,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 3588,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114026685",
+    "attachments": [
+        {
+            "attachmentid": 3798,
+            "mimetype": "application/pdf",
+            "filename": "A Multiyear Dust Devil Vortex Survey Using an Automated Search of.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRithZDlSeStzUThsOE13K2dGWm94a3E3TFhIcFo2ZzNKYnJxYnlSaHpaU2crUzg4QS9BekIvaTVrSWhrM0N1WjhtNWQ3QmpWdmY4UFM5Q0ozUTliVmFrTlhNeEpQMUF2ejVnTmloTjQ4RTU4VkNvaHY0REN2MU8w",
+            "filesize": 2611234
+        }
+    ]
+}

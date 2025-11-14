@@ -1,0 +1,52 @@
+{
+    "activityid": 20837,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Industrial Emphasis in the Materials Science &amp; Engineering Curriculum",
+        "Conference/Meeting Name": "Materials Research Society, Fall Meeting",
+        "Conference Location": "Boston, MA",
+        "Date or Date Range": "2002-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Sponsoring Organization": "Materials Research Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643701",
+    "coauthors": {
+        "75417": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Moll",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643645",
+            "authorid": 75417,
+            "scholarlyactivityid": 20837
+        },
+        "75418": {
+            "firstname": "Bill",
+            "middleinitial": "",
+            "lastname": "Knowlton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643701",
+            "authorid": 75418,
+            "scholarlyactivityid": 20837
+        }
+    },
+    "status": [
+        {
+            "id": 20837,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2002,
+            "termid": "2002/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643701",
+    "attachments": []
+}

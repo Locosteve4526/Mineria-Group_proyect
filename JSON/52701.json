@@ -1,0 +1,90 @@
+{
+    "activityid": 52701,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Forward Privacy Analysis of a Dynamic Searchable Encryption Scheme",
+        "Book Title": "Genetic and Evolutionary Computing",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "474-480",
+        "Edition": "",
+        "Volume": "1107",
+        "Publisher": "Springer",
+        "Publisher Location": "Singapore",
+        "ISBN": "10.1007/978-981-15-3308-2_52",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "244923": {
+            "firstname": "Zhuoyu",
+            "middleinitial": "",
+            "lastname": "Tie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 244923,
+            "scholarlyactivityid": 52701,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "244924": {
+            "firstname": "Eric Ke",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 244924,
+            "scholarlyactivityid": 52701,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "244925": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 244925,
+            "scholarlyactivityid": 52701,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "244926": {
+            "firstname": "Chien-Ming",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 244926,
+            "scholarlyactivityid": 52701,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52701,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": []
+}

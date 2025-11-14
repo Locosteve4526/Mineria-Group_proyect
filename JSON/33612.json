@@ -1,0 +1,88 @@
+{
+    "activityid": 33612,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "A281259: The number of permutations with strategic pile of size 6",
+        "Outlet (if applicable)": "",
+        "Date": "January 2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Publisher": "Online Encyclopedia of Integer Sequences",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://oeis.org/A281259",
+        "Description/Abstract": "Strategic pile is as defined in A267323.\r\nThe formula given below is a specific instance of the formula that will appear in &quot;Quantifying CDS Sortability of Permutations Using Strategic Piles&quot;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "132864": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 132864,
+            "scholarlyactivityid": 33612
+        },
+        "132865": {
+            "firstname": "Marisa",
+            "middleinitial": "",
+            "lastname": "Gaetz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 132865,
+            "scholarlyactivityid": 33612,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "132866": {
+            "firstname": "Bethany",
+            "middleinitial": "",
+            "lastname": "Molokach",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 132866,
+            "scholarlyactivityid": 33612,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "132867": {
+            "firstname": "Meghan",
+            "middleinitial": "",
+            "lastname": "Shanks",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 132867,
+            "scholarlyactivityid": 33612,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33612,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

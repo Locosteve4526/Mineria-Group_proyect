@@ -1,0 +1,73 @@
+{
+    "activityid": 34496,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Friendship",
+        "Book Title": "Macmillan encyclopedia of intimate and family relationships: An interdisciplinary approach",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "385-389",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Macmillan Reference",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "J. Ponzetti ",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643735",
+    "coauthors": {
+        "209126": {
+            "firstname": "Heidi",
+            "middleinitial": "",
+            "lastname": "Reeder",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643735",
+            "authorid": 209126,
+            "scholarlyactivityid": 34496,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "209127": {
+            "firstname": "Michelle",
+            "middleinitial": "",
+            "lastname": "Jimenez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209127,
+            "scholarlyactivityid": 34496,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34496,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 34496,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111643735",
+    "attachments": []
+}

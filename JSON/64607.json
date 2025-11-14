@@ -1,0 +1,89 @@
+{
+    "activityid": 64607,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Do our syllabi accurately represent classroom practices in geoscience undergraduate courses?",
+        "Name of Conference": "Geological Society of America",
+        "Month / Season": "Spring 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "Geological Society of America Abstracts with Programs",
+        "Publisher Location": "",
+        "Volume": "54",
+        "Issue Number": "2",
+        "DOI": "https://doi.org/10.1130/abs/2022CD-374136",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "298869": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Teasdale",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298869,
+            "scholarlyactivityid": 64607,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298870": {
+            "firstname": "Charles",
+            "middleinitial": "Doug",
+            "lastname": "Czajka",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298870,
+            "scholarlyactivityid": 64607,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298871": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 298871,
+            "scholarlyactivityid": 64607,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298872": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Ryker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298872,
+            "scholarlyactivityid": 64607,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64607,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

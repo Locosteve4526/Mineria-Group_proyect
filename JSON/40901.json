@@ -1,0 +1,94 @@
+{
+    "activityid": 40901,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A residual-based shock capturing scheme for the continuous/discontinuous spectral element solution of the 2D shallow water equations",
+        "Journal": "Advances in Water Resources",
+        "Volume": "114",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "45--63",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.sciencedirect.com/science/article/pii/S0309170816302299?via%3Dihub",
+        "Description/Abstract": "The high-order numerical solution of the non-linear shallow water equations is susceptible to Gibbs oscillations in the proximity of strong gradients. In this paper, we tackle this issue by presenting a shock capturing model based on the numerical residual of the solution. Via numerical tests, we demonstrate that the model removes the spurious oscillations in the proximity of strong wave fronts while preserving their strength. Furthermore, for coarse grids, it prevents energy from building up at small wave-numbers. When applied to the continuity equation to stabilize the water surface, the addition of the shock capturing scheme does not affect mass conservation. We found that our model improves the continuous and discontinuous Galerkin solutions alike in the proximity of sharp fronts propagating on wet surfaces. In the presence of wet/dry interfaces, however, the model needs to be enhanced with the addition of an inundation scheme which, however, we do not address in this paper.",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114108611",
+    "coauthors": {
+        "179617": {
+            "firstname": "Simone",
+            "middleinitial": "",
+            "lastname": "Marras",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179617,
+            "scholarlyactivityid": 40901
+        },
+        "179618": {
+            "firstname": "Michal",
+            "middleinitial": "A",
+            "lastname": "Kopera",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179618,
+            "scholarlyactivityid": 40901
+        },
+        "179619": {
+            "firstname": "Emil",
+            "middleinitial": "M",
+            "lastname": "Constantinescu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179619,
+            "scholarlyactivityid": 40901
+        },
+        "179620": {
+            "firstname": "Jenny",
+            "middleinitial": "",
+            "lastname": "Suckale",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179620,
+            "scholarlyactivityid": 40901
+        },
+        "179621": {
+            "firstname": "Francis",
+            "middleinitial": "X",
+            "lastname": "Giraldo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179621,
+            "scholarlyactivityid": 40901
+        }
+    },
+    "status": [
+        {
+            "id": 40901,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114108611",
+    "attachments": [
+        {
+            "attachmentid": 12315,
+            "mimetype": "application/pdf",
+            "filename": "2018_Marras_et_al..pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlpWHg5L1dWR3NmNDBDSnYzcXZ4a1VQWWZyVzZaWHNqVHdrSlB1cDNJL2NJb2JJcW9KcXh0Nk8%3D",
+            "filesize": 6788899
+        }
+    ]
+}

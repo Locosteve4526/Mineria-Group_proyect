@@ -1,0 +1,61 @@
+{
+    "activityid": 53645,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "Coronavirus closures could lead to a radical revolution in conservation",
+        "Name of Venue": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "https://theconversation.com/coronavirus-closures-could-lead-to-a-radical-revolution-in-conservation-137050",
+        "Description/Abstract": "",
+        "Activity Type": "Public Scholarship",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135000",
+    "coauthors": {
+        "270275": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Stinson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270275,
+            "scholarlyactivityid": 53645,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "270276": {
+            "firstname": "Elizabeth",
+            "middleinitial": "M",
+            "lastname": "Lunstrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135000",
+            "authorid": 270276,
+            "scholarlyactivityid": 53645,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53645,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114135000",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 19945,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Adoption of Internet Banking by Mexican Consumers: Where Are the Customers?",
+        "Name of Conference": "Conference on Trends in Global Business: Doing Business in the EU: Yesterday, Today and Tomorrow",
+        "Month / Season": "2006-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": null,
+        "Publisher": "Quinnipiac University",
+        "Publisher Location": "New Haven, Conneticut",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643320",
+    "coauthors": {
+        "134610": {
+            "firstname": "Somkiat",
+            "middleinitial": "",
+            "lastname": "Mansumitrchai",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134610,
+            "scholarlyactivityid": 19945,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134611": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "MacDonald",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643320",
+            "authorid": 134611,
+            "scholarlyactivityid": 19945,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19945,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643320",
+    "attachments": []
+}

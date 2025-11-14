@@ -1,0 +1,96 @@
+{
+    "activityid": 50300,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A unique item format to assess attentiveness to students\u2019 mathematical ideas",
+        "Name of Conference": "International Congress on Mathematical Education",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111351647",
+    "coauthors": {
+        "247404": {
+            "firstname": "Ya",
+            "middleinitial": "",
+            "lastname": "Mo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108320",
+            "authorid": 247404,
+            "scholarlyactivityid": 50300
+        },
+        "247405": {
+            "firstname": "Laurie",
+            "middleinitial": "O",
+            "lastname": "Cavey",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113017246",
+            "authorid": 247405,
+            "scholarlyactivityid": 50300
+        },
+        "247406": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 247406,
+            "scholarlyactivityid": 50300
+        },
+        "247407": {
+            "firstname": "Tatia",
+            "middleinitial": "",
+            "lastname": "Totorica",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111300363",
+            "authorid": 247407,
+            "scholarlyactivityid": 50300
+        },
+        "247408": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 247408,
+            "scholarlyactivityid": 50300
+        }
+    },
+    "status": [
+        {
+            "id": 50300,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 50300,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111351647",
+    "attachments": []
+}

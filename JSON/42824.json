@@ -1,0 +1,62 @@
+{
+    "activityid": 42824,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Transitions in Farming and Farm Labor in Southwestern Idaho.",
+        "Journal": "Journal of Food Systems and Community Development",
+        "Volume": "8",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001406",
+    "coauthors": {
+        "217356": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Meierotto",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217356,
+            "scholarlyactivityid": 42824,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "217357": {
+            "firstname": "Rebecca",
+            "middleinitial": "L.",
+            "lastname": "Som Castellano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001406",
+            "authorid": 217357,
+            "scholarlyactivityid": 42824,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42824,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001406",
+    "attachments": []
+}

@@ -1,0 +1,42 @@
+{
+    "activityid": 10200,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Irony of Opacity in &quot;An Octopus&quot;",
+        "Conference/Meeting Name": "21St Century Moore",
+        "Conference Location": "Houston, TX",
+        "Date or Date Range": "2014-08-24",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "University of Houston",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Despite being accepted for the conference, there was no compelling reason to continue with work others have addressed better, nor was funding or time available.",
+        "Origin": "Other"
+    },
+    "facultyid": "112139145",
+    "coauthors": {
+        "181048": {
+            "firstname": "Jeffrey",
+            "middleinitial": "W",
+            "lastname": "Westover",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112139145",
+            "authorid": 181048,
+            "scholarlyactivityid": 10200
+        }
+    },
+    "status": [
+        {
+            "id": 10200,
+            "status": "Work Discontinued",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 7,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112139145",
+    "attachments": []
+}

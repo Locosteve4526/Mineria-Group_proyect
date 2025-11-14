@@ -1,0 +1,52 @@
+{
+    "activityid": 16803,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Developing a Customized Data Mining Model for Online Professional Development",
+        "Conference/Meeting Name": "Annual Meeting of the American Educational Research Association",
+        "Conference Location": "New Orleans, LA",
+        "Date or Date Range": "2011-05-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "American Educational Research Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "66728": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 66728,
+            "scholarlyactivityid": 16803
+        },
+        "66729": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 66729,
+            "scholarlyactivityid": 16803
+        }
+    },
+    "status": [
+        {
+            "id": 16803,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

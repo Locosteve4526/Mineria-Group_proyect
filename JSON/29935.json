@@ -1,0 +1,83 @@
+{
+    "activityid": 29935,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Key Assignment for Enforcing Access Control Policy Exceptions in Distributed Systems",
+        "Journal": "Information Sciences",
+        "Volume": "152",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "63-88",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "106857": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 106857,
+            "scholarlyactivityid": 29935,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "106858": {
+            "firstname": "Randy",
+            "middleinitial": "",
+            "lastname": "Chow",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106858,
+            "scholarlyactivityid": 29935,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "106859": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Newman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106859,
+            "scholarlyactivityid": 29935,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29935,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2003,
+            "termid": "2003/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 1412,
+            "mimetype": "application/pdf",
+            "filename": "INS6766.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25xY1hDRERkbzQyTmVSdGljclN2c1ZwSFR3YTZDZ3l6eHVnaHJaZWxNSXI4Zz09",
+            "filesize": 254030
+        }
+    ]
+}

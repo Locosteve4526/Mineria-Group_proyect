@@ -1,0 +1,56 @@
+{
+    "activityid": 6631,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An Iterated Pseudospectral Method for Functional Partial Differential Equations",
+        "Journal": "Applied Numerical Mathematics",
+        "Volume": "55",
+        "Month / Season": "2005-01-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "227-250",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.apnum.2005.02.010",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/17",
+        "Description/Abstract": "Chebyshev pseudospectral spatial discretization preconditioned by the Kosloff and Tal-Ezer   transformation [10] is applied to hyperbolic and parabolic functional equations.  A Jacobi   waveform relaxation method is then applied to the resulting semi-discrete functional systems, and   the result is a simple system of ordinary differential equations   d/dtUk+1(t) =   M?Uk+1(t)+f(t,U   kt). Here M? is a diagonal matrix,    k  is the index of waveform relaxation iterations, U kt is   a functional argument computed from the previous iterate and the function f, like the   matrix M?, depends on the process of semi-discretization.  This   waveform relaxation splitting has the advantage of straight forward, direct application of implicit   numerical methods for time integration (which allow use of large time steps than explicit   methods).  Another advantage of Jacobi waveform relaxation is that the resulting systems of   ordinary differential equation can be efficiently integrated in a parallel computing environment.    The Kosloff and Tal-Ezer transformation preconditions the matrix M?,   and this speeds up the convergence of waveform relaxation.  This transformation is based on a   parameter ?? (0, 1], thus we study the relationship between this parameter   and the convergence of waveform relaxation with error bounds derived here for the iteration   process.  We find that convergence of waveform relaxation improves as ? increases, with the   greatest improvement at ?=1 if the spatial derivative of the solution at the boundaries is near zero.    These results are confirmed by numerical experiments, and they hold for hyperbolic, parabolic   and mixed hyperbolic-parabolic problems with and without delay terms.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20687": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 20687,
+            "scholarlyactivityid": 6631
+        },
+        "20688": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20688,
+            "scholarlyactivityid": 6631
+        }
+    },
+    "status": [
+        {
+            "id": 6631,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2005,
+            "termid": "2004/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

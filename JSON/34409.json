@@ -1,0 +1,89 @@
+{
+    "activityid": 34409,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Community Apgar: International comparisons of community capabilities to recruit and retain physicians",
+        "Name of Conference": "14th National Rural Health Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Cairns, OLD, Australia",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "139448": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 139448,
+            "scholarlyactivityid": 34409,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "139449": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Terry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 139449,
+            "scholarlyactivityid": 34409,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "139450": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "MacKenzie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 139450,
+            "scholarlyactivityid": 34409,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "139451": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 139451,
+            "scholarlyactivityid": 34409,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34409,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

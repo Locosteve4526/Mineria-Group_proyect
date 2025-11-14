@@ -1,0 +1,71 @@
+{
+    "activityid": 52538,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "G2PMineR: A genome to phenome literature review approach",
+        "Conference / Meeting Name": "Boise State University VIP Symposium",
+        "Conference Location": "Virtual conference",
+        "Date or Date Range": "DEC",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088564",
+    "coauthors": {
+        "243848": {
+            "firstname": "John",
+            "middleinitial": "M",
+            "lastname": "Wojahn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243848,
+            "scholarlyactivityid": 52538,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "243849": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Galla",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243849,
+            "scholarlyactivityid": 52538,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        },
+        "243850": {
+            "firstname": "Sven",
+            "middleinitial": "C",
+            "lastname": "Buerki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088564",
+            "authorid": 243850,
+            "scholarlyactivityid": 52538,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52538,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114088564",
+    "attachments": []
+}

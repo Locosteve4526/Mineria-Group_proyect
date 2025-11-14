@@ -1,0 +1,82 @@
+{
+    "activityid": 15000,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Student expectations regarding knowledge acquired and skills practiced in a capstone course",
+        "Conference / Meeting Name": "Rocky Mountain Psychological Association ",
+        "Conference Location": "Salt Lake City, UT",
+        "Date or Date Range": "2011-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "62810": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Kesler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62810,
+            "scholarlyactivityid": 15000
+        },
+        "62811": {
+            "firstname": "Carly",
+            "middleinitial": "",
+            "lastname": "Gintz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62811,
+            "scholarlyactivityid": 15000
+        },
+        "62812": {
+            "firstname": "Cade",
+            "middleinitial": "",
+            "lastname": "Hulbert",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62812,
+            "scholarlyactivityid": 15000
+        },
+        "62813": {
+            "firstname": "Jon",
+            "middleinitial": "",
+            "lastname": "Lawson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62813,
+            "scholarlyactivityid": 15000
+        },
+        "62814": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 62814,
+            "scholarlyactivityid": 15000
+        }
+    },
+    "status": [
+        {
+            "id": 15000,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

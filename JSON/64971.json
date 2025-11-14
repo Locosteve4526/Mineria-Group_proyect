@@ -1,0 +1,71 @@
+{
+    "activityid": 64971,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Applying to and surviving grad school during a pandemic&lt;/span&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;. &lt;/span&gt;",
+        "Conference/Meeting Name": "Western Psychological Association",
+        "Conference Location": "Portland, OR",
+        "Date or Date Range": "April 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "Psi Chi",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "301269": {
+            "firstname": "Leslie D.",
+            "middleinitial": "",
+            "lastname": "Cramblet Alvarez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301269,
+            "scholarlyactivityid": 64971,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "301270": {
+            "firstname": "R. Eric",
+            "middleinitial": "",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 301270,
+            "scholarlyactivityid": 64971,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "301271": {
+            "firstname": "K. Nicole",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301271,
+            "scholarlyactivityid": 64971,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64971,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

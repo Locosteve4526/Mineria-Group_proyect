@@ -1,0 +1,51 @@
+{
+    "activityid": 52798,
+    "fields": {
+        "Type": "Review",
+        "Title of Review": "Teach Smarter",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers of Number of Pages": "",
+        "Publisher": "Teachers College Record",
+        "Publisher Location": "New York, NY",
+        "Month / Season": "August",
+        "Title of larger work": "",
+        "Volume": "",
+        "Issue Number": "23399",
+        "Author/Editor of larger work": "",
+        "DOI": "",
+        "ISSN/ISBN #": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.tcrecord.org",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111308555",
+    "coauthors": {
+        "245506": {
+            "firstname": "Serena",
+            "middleinitial": "",
+            "lastname": "Hicks",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111308555",
+            "authorid": 245506,
+            "scholarlyactivityid": 52798,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52798,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111308555",
+    "attachments": []
+}

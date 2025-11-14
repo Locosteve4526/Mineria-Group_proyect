@@ -1,0 +1,58 @@
+{
+    "activityid": 63884,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Intersections of Sex and Inequality in a Mixed Status Industrial London Sample",
+        "Conference/Meeting Name": "American Association of Biological Anthropologists",
+        "Conference Location": "Denver, Colorado",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088853",
+    "coauthors": {
+        "294552": {
+            "firstname": "Anna",
+            "middleinitial": "",
+            "lastname": "Green",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294552,
+            "scholarlyactivityid": 63884,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294553": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088853",
+            "authorid": 294553,
+            "scholarlyactivityid": 63884,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63884,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114088853",
+    "attachments": []
+}

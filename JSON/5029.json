@@ -1,0 +1,56 @@
+{
+    "activityid": 5029,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Analysis of gender differences in self-statements and mood disorders",
+        "Journal": "VISTAS",
+        "Volume": "2013",
+        "Month / Season": "2013-04-30",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "10",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112014101",
+    "coauthors": {
+        "15144": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Devore",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 15144,
+            "scholarlyactivityid": 5029
+        },
+        "15145": {
+            "firstname": "Mary",
+            "middleinitial": "Elizabeth",
+            "lastname": "Pritchard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112014101",
+            "authorid": 15145,
+            "scholarlyactivityid": 5029
+        }
+    },
+    "status": [
+        {
+            "id": 5029,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112014101",
+    "attachments": []
+}

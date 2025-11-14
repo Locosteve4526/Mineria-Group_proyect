@@ -1,0 +1,84 @@
+{
+    "activityid": 51653,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Self-efficacy, grit and perceptions of rural employment: What changes, if any, occur as students become registered nurses?",
+        "Journal": "Online Journal of Rural Nursing and Health Care",
+        "Volume": "21",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "44-68",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.14574/ojrnhc.v21i2.680",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "263050": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Terry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 263050,
+            "scholarlyactivityid": 51653,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "263051": {
+            "firstname": "B",
+            "middleinitial": "",
+            "lastname": "Peck",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 263051,
+            "scholarlyactivityid": 51653,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "263052": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 263052,
+            "scholarlyactivityid": 51653,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51653,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 51653,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

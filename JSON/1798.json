@@ -1,0 +1,46 @@
+{
+    "activityid": 1798,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Three-Dimensional Stochastic Estimation of Porosity Distribution: Benefits of Using Ground-Penetrating Radar Velocity Tomograms in Simulated-Annealing-Based or Bayesian Sequential Simulation Approaches",
+        "Journal": "Water Resources Research",
+        "Volume": "48",
+        "Month / Season": "2012-05-30",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "w05553",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2011wr010916",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Estimation of the three-dimensional (3-D) distribution of hydrologic properties and related uncertainty is a key for improved predictions of hydrologic processes in the subsurface. However it is difficult to gain high-quality and high-density hydrologic information from the subsurface. In this regard a promising strategy is to use high-resolution geophysical data (that are relatively sensitive to variations of a hydrologic parameter of interest) to supplement direct hydrologic information from measurements in wells (e.g., logs, vertical profiles) and then generate stochastic simulations of the distribution of the hydrologic property conditioned on the hydrologic and geophysical data. In this study we develop and apply this strategy for a 3-D field experiment in the heterogeneous aquifer at the Boise Hydrogeophysical Research Site and we evaluate how much benefit the geophysical data provide. We run high-resolution 3-D conditional simulations of porosity with both simulated-annealing-based and Bayesian sequential approaches using information from multiple intersecting crosshole gound-penetrating radar (GPR) velocity tomograms and neutron porosity logs. The benefit of using GPR data is assessed by investigating their ability, when included in conditional simulation, to predict porosity log data withheld from the simulation. Results show that the use of crosshole GPR data can significantly improve the estimation of porosity spatial distribution and reduce associated uncertainty compared to using only well log measurements for the estimation. The amount of benefit depends primarily on the strength of the petrophysical relation between the GPR and porosity data, the variability of this relation throughout the investigated site, and lateral structural continuity at the site.\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4514": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4514,
+            "scholarlyactivityid": 1798
+        }
+    },
+    "status": [
+        {
+            "id": 1798,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

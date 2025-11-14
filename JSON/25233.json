@@ -1,0 +1,79 @@
+{
+    "activityid": 25233,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "High spatio-temporal resolution photogrammetry of active dome growth, Santiaguito Dome, Guatemala",
+        "Outlet (if applicable)": "",
+        "Date": "2014-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "Kagoshima, Japan ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Synchronized photogrammetry observations show surface velocities of greater than 2 meters per hour on the Santiaguito lava dome during January and November 2012 that vary through time and space. We used an array of 5 radio triggered cameras to collect synchronized images of the lava dome at 1 minute intervals. The Canon T2i cameras were equipped with 200 mm lenses and spaced such that from a distance of about 2.7 km the array had a total angular aperture of about 7 degrees and individual images have a nominal resolution of 0.05 meters per pixel. Using cross correlation of the images we constructed 3D point clouds of the dome at each time with nominal point spacing of about 0.25 meters. Tracking each point through space and time provides a 3D velocity field of the dome with 1 minute temporal resolution. We estimate velocity detection limits of about 0.1 meters per minute for instantaneous velocities and 0.01 meters per minute for those averaged over greater than 1 hour. Use of three and multi camera techniques improves spatial resolution compared with a two camera technique, but the latter offers computational times that are feasible for real-time monitoring (e.g. less than 1 minute for each image pair on a workstation laptop computer). The largest variations in velocity occur near the dome summit where up to 5 meters of inflation-deflation can occur in as little as 10 minutes in a 15-20 meters diameter region. Inflation deflation cycles fall into two main groups: inflation followed by an explosion and rapid deflation, or inflation followed by slow deflation and passive degassing. As other velocities radiate from the region of inflation deflation, this region likely overlies the conduit. Local deflation events are often correlated with inflation of the greater Santiaguito dome as measured by tiltmeter. Velocities in the region south of the likely conduit are steadier with peak velocities of about 2.7 meter per hour, representing effusion of lava flows down the south flank. Our work demonstrates how an array of consumer grade DSLR cameras may be used to collect high frequency, quantitative observations of rapidly flowing or deforming lava flows. These data provide constraints on conduit geometry and processes, and lava effusion rates.",
+        "Origin": "Other"
+    },
+    "facultyid": "113150379",
+    "coauthors": {
+        "82276": {
+            "firstname": "Benjamin",
+            "middleinitial": "",
+            "lastname": "Andrews",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82276,
+            "scholarlyactivityid": 25233
+        },
+        "82277": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 82277,
+            "scholarlyactivityid": 25233
+        },
+        "82278": {
+            "firstname": "Benjamin",
+            "middleinitial": "",
+            "lastname": "Phillips",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82278,
+            "scholarlyactivityid": 25233
+        },
+        "82279": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Lyons",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82279,
+            "scholarlyactivityid": 25233
+        }
+    },
+    "status": [
+        {
+            "id": 25233,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113150379",
+    "attachments": []
+}

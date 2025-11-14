@@ -1,0 +1,50 @@
+{
+    "activityid": 52783,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Participant",
+        "Name of Conference": "Idaho Mining Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114027679",
+    "coauthors": {
+        "245402": {
+            "firstname": "Dorsey",
+            "middleinitial": "",
+            "lastname": "Wanless",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114027679",
+            "authorid": 245402,
+            "scholarlyactivityid": 52783,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52783,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114027679",
+    "attachments": []
+}

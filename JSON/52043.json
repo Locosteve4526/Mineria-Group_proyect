@@ -1,0 +1,84 @@
+{
+    "activityid": 52043,
+    "fields": {
+        "Type": "Book",
+        "Title": "Human Resource Management: The Public Service Perspective preparing 3rd edition",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "2nd",
+        "Volume": "",
+        "Publisher": "Routledge",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110214",
+    "coauthors": {
+        "241017": {
+            "firstname": "Elizabeth",
+            "middleinitial": "Dawn",
+            "lastname": "Fredericksen",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111358856",
+            "authorid": 241017,
+            "scholarlyactivityid": 52043
+        },
+        "241016": {
+            "firstname": "Stephanie",
+            "middleinitial": "L",
+            "lastname": "Witt",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110214",
+            "authorid": 241016,
+            "scholarlyactivityid": 52043
+        },
+        "241015": {
+            "firstname": "W.",
+            "middleinitial": "David",
+            "lastname": "Patton",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 241015,
+            "scholarlyactivityid": 52043
+        },
+        "241014": {
+            "firstname": "Nicholas",
+            "middleinitial": "P",
+            "lastname": "Lovrich",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 241014,
+            "scholarlyactivityid": 52043
+        }
+    },
+    "status": [
+        {
+            "id": 52043,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 52043,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110214",
+    "attachments": []
+}

@@ -1,0 +1,45 @@
+{
+    "activityid": 62733,
+    "fields": {
+        "Type": "Book",
+        "Title": "Business Ethics: 100 Questions",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Open Educational Resource",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126306",
+    "coauthors": {
+        "288521": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Lingwall",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126306",
+            "authorid": 288521,
+            "scholarlyactivityid": 62733
+        }
+    },
+    "status": [
+        {
+            "id": 62733,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114126306",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 6654,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Discrete Variable Methods for Delay-Differential Equations with Threshold-Type Delays",
+        "Journal": "Journal of Computational and Applied Mathematics",
+        "Volume": "228",
+        "Month / Season": "2008-03-23",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "514-523",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.cam.2008.03.022",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/7",
+        "Description/Abstract": "We study numerical solution of systems of delay-differential equations in which the delay function, which depends on the unknown solution, is defined implicitly by the threshold condition. We study discrete variable numerical methods for these problems and present error analysis. The global error is composed of the error of solving the differential systems, the error from the threshold conditions and the errors in delay arguments. Our theoretical analysis is confirmed by numerical experiments on threshold problems from the theory of epidemics and from population dynamics.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20732": {
+            "firstname": "Z.",
+            "middleinitial": "",
+            "lastname": "Jackiewicz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20732,
+            "scholarlyactivityid": 6654
+        },
+        "20733": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20733,
+            "scholarlyactivityid": 6654
+        }
+    },
+    "status": [
+        {
+            "id": 6654,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

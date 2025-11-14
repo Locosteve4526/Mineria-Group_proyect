@@ -1,0 +1,56 @@
+{
+    "activityid": 5407,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Molecular Thermodiffusion (Thermophoresis) in Liquid Mixtures",
+        "Journal": "Physical Reviews E",
+        "Volume": "72",
+        "Month / Season": "2005-10-18",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "041202-1 - 041202-9",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1103/PhysRevE.72.041202",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/chem_facpubs/34",
+        "Description/Abstract": "Thermodiffusion (thermophoresis) in liquid mixtures is theoretically  examined using a hydrodynamic approach. Thermodiffusion is related to  the local temperature-induced pressure gradient in the liquid layer  surrounding the selected molecule and to the secondary macroscopic  pressure gradient established in the system. The local pressure gradient  is produced by excess pressure due to the asymmetry of interactions  with surrounding molecules in a nonuniform temperature field. The  secondary pressure gradient is considered an independent parameter  related to the concentration gradient formed by volume forces,  calculated from the generalized equations for mass transfer. Values of  Soret coefficients for mixtures of toluene and n-hexane  are calculated using parameters in the literature. When the molecules  are assumed to be similar in shape, the calculated Soret coefficients  are lower than the empirical values found in the literature. However, by  introducing an asymmetry parameter, which is calculated from  independent measurements of component diffusion in the literature, very  good agreement is obtained.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111683",
+    "coauthors": {
+        "16416": {
+            "firstname": "Semen",
+            "middleinitial": "N.",
+            "lastname": "Semenov",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16416,
+            "scholarlyactivityid": 5407
+        },
+        "16417": {
+            "firstname": "Martin",
+            "middleinitial": "E",
+            "lastname": "Schimpf",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111683",
+            "authorid": 16417,
+            "scholarlyactivityid": 5407
+        }
+    },
+    "status": [
+        {
+            "id": 5407,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111683",
+    "attachments": []
+}

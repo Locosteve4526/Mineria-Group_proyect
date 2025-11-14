@@ -1,0 +1,46 @@
+{
+    "activityid": 53807,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Parameter Optimization Algorithm of a Discrete Energy-Averaged Model for Galfenol Alloys",
+        "Journal": "Volume 1: Development and Characterization of Multifunctional Materials; Mechanics and Behavior of Active Materials; Bioinspired Smart Materials and Systems; Energy Harvesting; Emerging Technologies",
+        "Volume": null,
+        "Month / Season": "September",
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": null,
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://dx.doi.org/10.1115/smasis2017-3906",
+        "Description/Abstract": "&lt;jats:p&gt;An optimization algorithm is proposed to determine the parameters of a discrete energy-averaged (DEA) model for Galfenol alloys. A new numerical approximation approach for partial derivative expressions is developed, which improves computational speed of the DEA model by 61% relative to existing partial derivative expressions. Initial estimation of model parameters and a two-step optimization procedure, including an-hysteresis and hysteresis steps, are performed to improve accuracy and efficiency of the algorithm. Initial estimation of certain material properties such as saturation magnetization, saturation magnetostriction, Young\u2019s modulus, and anisotropy energies can improve the convergence and enhance efficiency by 41% compared to the case where these parameters are not estimated. The two-step optimization improves efficiency by 28% while preserving accuracy compared to one-step optimization. Proposed algorithm is employed to find the material properties of Galfenol samples with different compositions and heat treatments. The trends obtained from these optimizations can guide future Galfenol modeling studies.&lt;/jats:p&gt;",
+        "Origin": "ORCID"
+    },
+    "facultyid": "114102433",
+    "coauthors": {
+        "251768": {
+            "firstname": "Zhangxian",
+            "middleinitial": "",
+            "lastname": "Deng",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 251768,
+            "scholarlyactivityid": 53807
+        }
+    },
+    "status": [
+        {
+            "id": 53807,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114102433",
+    "attachments": []
+}

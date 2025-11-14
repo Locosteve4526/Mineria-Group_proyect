@@ -1,0 +1,67 @@
+{
+    "activityid": 59211,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Cell Biology of ADP Ribosylation",
+        "Conference / Meeting Name": "Annual INBRE Conference",
+        "Conference Location": "Moscow Idaho",
+        "Date or Date Range": "August 2, 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "INBRE",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The purpose of this study was to purify the bacterial toxin cholera toxin (CT), for use in in vitro ADP-ribosylation assays. CT is produced by the bacterium, Vibrio cholerae and is classified as an AB5 toxin, which consists of an A protomer (CTA) and a B pentamer (CTB). CTA acts on cells in the gastrointestinal tract to cause the attachment of an ADP-ribose to cellular G proteins, resulting in loss of electrolytes in a rapid manner and leading to severe watery diarrhea. CT was purified after expression from a plasmid in E.coli and D-galactose affinity chromatography. CT was purified to 206 mg/mL, as confirmed by SDS-PAGE and BCA protein assay. CT will be activated and incubated with human G proteins and a biotin-NAD tag. Transfer of the ADPribose will be detected using streptavidin-HRP in a western blot. This work also focused on developing a more efficient way to express CT, and CT fusions. The parental vector, pARLDR19 contains the E. coli LTIIb toxin leader sequence upstream of a multiple cloning site and the sequence encoding the CTA2 domain and CTB. Primers were designed to add NcoI and HindIII restriction sites to the 5\u2019 and 3\u2019 ends respectively to clone cta into the pACYCDuet vector. The resultant plasmid clone was confirmed by PCR and will be sequenced, and used to clone in ctb. This plasmid will promote CT expression by the use of separate promoters. Efficient purification of CT and the development of ADP-ribosylation in vitro assays will aid in the",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "323196": {
+            "firstname": "Fallon",
+            "middleinitial": "",
+            "lastname": "Cassidy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 323196,
+            "scholarlyactivityid": 59211,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "323197": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 323197,
+            "scholarlyactivityid": 59211,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59211,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59211,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

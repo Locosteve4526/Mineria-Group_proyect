@@ -1,0 +1,66 @@
+{
+    "activityid": 64654,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "EcoCountHelper: an R package and analytical pipeline for the analysis of ecological count data using GLMMs, and a case study of bats in Grand Teton National Park",
+        "Journal": "PeerJ",
+        "Volume": "10",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "e14509",
+        "Publisher": null,
+        "DOI": "10.7717/peerj.14509",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Here we detail the use of an R package, 'EcoCountHelper', and an associated analytical pipeline aimed at making generalized linear mixed-effects model (GLMM)-based analysis of ecological count data more accessible. We recommend a GLMM-based analysis workflow that allows the user to (1) employ selection of distributional forms (Poisson  negative binomial) and zero-inflation (ZIP and ZINB, respectively) using AIC and variance-mean plots, (2) examine models for goodness-of-fit using simulated residual diagnostics, (3) interpret model results  easy to understand outputs of changes in predicted responses, and (4) compare the magnitude of predictor variable effects  effects plots. Our package uses a series of easy-to-use functions that can accept both wide- and long-form multi-taxa count data without the need for programming experience. To demonstrate the utility of this approach, we use our package to model acoustic bat activity data relative to multiple landscape characteristics in a protected area (Grand Teton National Park), which is threatened by encroaching disease-white nose syndrome. Global threats to bat conservation such as disease and deforestation have prompted extensive research to better understand bat ecology. Notwithstanding these efforts, managers operating on lands crucial to the persistence of bat populations are often equipped with too little information regarding local bat activity to make informed land-management decisions. In our case study in the Tetons, we found that an increased prevalence of porous buildings increases activity levels of  and ;  activity decreases as distance to water increases; and  activity increases with the amount of forested area. By using GLMMs in tandem with 'EcoCountHelper', managers without advanced programmatic or statistical expertise can assess the effects of landscape characteristics on wildlife in a statistically-robust framework.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113089601",
+    "coauthors": {
+        "299180": {
+            "firstname": "Hunter ",
+            "middleinitial": "J",
+            "lastname": "Cole",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 299180,
+            "scholarlyactivityid": 64654
+        },
+        "299181": {
+            "firstname": "Dylan ",
+            "middleinitial": "G",
+            "lastname": "Gomes",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 299181,
+            "scholarlyactivityid": 64654
+        },
+        "299182": {
+            "firstname": "Jesse ",
+            "middleinitial": "R",
+            "lastname": "Barber",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 299182,
+            "scholarlyactivityid": 64654
+        }
+    },
+    "status": [
+        {
+            "id": 64654,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113089601",
+    "attachments": []
+}

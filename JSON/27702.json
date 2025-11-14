@@ -1,0 +1,55 @@
+{
+    "activityid": 27702,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Urban West: Managing Growth and Decline",
+        "Actual/Projected Year of Publication/Presentation": 1994,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Praeger",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Praeger",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/300",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110214",
+    "coauthors": {
+        "87480": {
+            "firstname": "James",
+            "middleinitial": "B.",
+            "lastname": "Weatherby",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87480,
+            "scholarlyactivityid": 27702
+        },
+        "87481": {
+            "firstname": "Stephanie",
+            "middleinitial": "L",
+            "lastname": "Witt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110214",
+            "authorid": 87481,
+            "scholarlyactivityid": 27702
+        }
+    },
+    "status": [
+        {
+            "id": 27702,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1994,
+            "termid": "1993/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110214",
+    "attachments": []
+}

@@ -1,0 +1,110 @@
+{
+    "activityid": 37153,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "investigation of the biogeographic origin of burrowing owl fleas with implications for ecology of plague",
+        "Journal": "The Auk",
+        "Volume": "136",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "1-12",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "210738": {
+            "firstname": "Kara",
+            "middleinitial": "",
+            "lastname": "Navock",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210738,
+            "scholarlyactivityid": 37153,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210739": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210739,
+            "scholarlyactivityid": 37153,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210740": {
+            "firstname": "Samantha",
+            "middleinitial": "",
+            "lastname": "Evans",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210740,
+            "scholarlyactivityid": 37153,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210741": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Kohn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210741,
+            "scholarlyactivityid": 37153,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210742": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 210742,
+            "scholarlyactivityid": 37153,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37153,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 37153,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

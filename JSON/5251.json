@@ -1,0 +1,56 @@
+{
+    "activityid": 5251,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A critical Humanist Curriculum",
+        "Journal": "Journal of Critical Education and Policy Studies",
+        "Volume": "12",
+        "Month / Season": "2015-01-29",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "205-227",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112125622",
+    "coauthors": {
+        "15992": {
+            "firstname": "Kevin ",
+            "middleinitial": "R",
+            "lastname": "Magill",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 15992,
+            "scholarlyactivityid": 5251
+        },
+        "15993": {
+            "firstname": "Arturo",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112125622",
+            "authorid": 15993,
+            "scholarlyactivityid": 5251
+        }
+    },
+    "status": [
+        {
+            "id": 5251,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112125622",
+    "attachments": []
+}

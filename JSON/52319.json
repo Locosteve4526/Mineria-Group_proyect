@@ -1,0 +1,76 @@
+{
+    "activityid": 52319,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Validated Computational Framework for Evaluation of In-Vivo Knee Mechanics",
+        "Journal": "Journal of biomechanical engineering",
+        "Volume": "",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": "10.1115/1.4045906",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Dynamic, in-vivo evaluations of knee mechanics are important for understanding knee injury and repair, and developing successful treatments. Computational models have been used with in-vivo experiments to quantify joint mechanics, but they are typically not predictive. The current study presents a novel integrated approach with high-speed stereo radiography, musculoskeletal modeling, and finite element (FE) modeling for evaluation of subject-specific, in-vivo knee mechanics in a healthy subject performing a seated knee extension and weight-bearing lunge. Whole-body motion capture, ground reaction forces, and radiography-based kinematics were used to drive musculoskeletal and predictive FE models for load-controlled simulation of in-vivo knee mechanics. A predictive simulation of knee mechanics was developed in four stages: 1) in vivo measurements of one subject performing a lunge and a seated knee extension, 2) rigid-body musculoskeletal modeling to determine muscle forces, 3) FE simulation of knee extension for knee-ligament calibration, 4) predictive FE simulation of a lunge. FE models predicted knee contact and ligament mechanics, and evaluated the impact of cruciate ligament properties on joint kinematics and loading. Calibrated model kinematics demonstrated good agreement to the experimental motion with RMS differences of TF flexion-extension&lt;3\u00b0, internal-external&lt;4\u00b0, anterior-posterior&lt;2 mm. Ligament reference strain and attachment locations were the most critical properties in the calibration process. The current work advances previous in-vivo knee modeling through simulation of dynamic activities, modeling of subject-specific knee behavior, and development of a load-controlled knee model.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114174958",
+    "coauthors": {
+        "242643": {
+            "firstname": "Azhar",
+            "middleinitial": "",
+            "lastname": "Ali",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242643,
+            "scholarlyactivityid": 52319
+        },
+        "242644": {
+            "firstname": "Erin",
+            "middleinitial": "",
+            "lastname": "Mannen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242644,
+            "scholarlyactivityid": 52319
+        },
+        "242645": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242645,
+            "scholarlyactivityid": 52319
+        },
+        "242646": {
+            "firstname": "Kevin ",
+            "middleinitial": "B",
+            "lastname": "Shelburne",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242646,
+            "scholarlyactivityid": 52319
+        }
+    },
+    "status": [
+        {
+            "id": 52319,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114174958",
+    "attachments": []
+}

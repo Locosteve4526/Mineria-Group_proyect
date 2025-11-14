@@ -1,0 +1,62 @@
+{
+    "activityid": 17328,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Critical barriers to the adoption of online design education by university landscape architecture faculty",
+        "Conference/Meeting Name": "American Educational Research Association",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "2015-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "AERA",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "68165": {
+            "firstname": "Ben",
+            "middleinitial": "",
+            "lastname": "George",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68165,
+            "scholarlyactivityid": 17328
+        },
+        "68166": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 68166,
+            "scholarlyactivityid": 17328
+        },
+        "68167": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68167,
+            "scholarlyactivityid": 17328
+        }
+    },
+    "status": [
+        {
+            "id": 17328,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

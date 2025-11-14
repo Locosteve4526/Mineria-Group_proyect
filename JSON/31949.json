@@ -1,0 +1,81 @@
+{
+    "activityid": 31949,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Using the Reformed Teaching Observation Protocol (RTOP) for Novice Teachers",
+        "Name of Conference": "2016 School Science and Mathematics Association Annual Convention ",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "SSMA",
+        "Publisher Location": "Phoenix, AZ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114000904",
+    "coauthors": {
+        "121603": {
+            "firstname": "Faye",
+            "middleinitial": "",
+            "lastname": "Bruun",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121603,
+            "scholarlyactivityid": 31949,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "121604": {
+            "firstname": "Kimberly",
+            "middleinitial": "",
+            "lastname": "Moore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121604,
+            "scholarlyactivityid": 31949
+        },
+        "121605": {
+            "firstname": "Joe",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 121605,
+            "scholarlyactivityid": 31949,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31949,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114000904",
+    "attachments": [
+        {
+            "attachmentid": 4272,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filename": "SSMA_Proceedings_FINAL_Accepted.docx",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZWk93bUhJdVBDWDdBS2IrRnkvWHpmUTl4b0pDOWRjWEZxQXJ3aGlRT08xNkxNWG8yQWpqcHJmOGdRZHdNSFI1UTRTMlVVamdtT3dBPT0%3D",
+            "filesize": 113539
+        }
+    ]
+}

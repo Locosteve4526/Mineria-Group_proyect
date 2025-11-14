@@ -1,0 +1,102 @@
+{
+    "activityid": 70910,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Sex Differences in Reported Concussion Symptoms amongst Collegiate Athletes",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114090284",
+    "coauthors": {
+        "321628": {
+            "firstname": "Joni",
+            "middleinitial": "",
+            "lastname": "Lutz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321628,
+            "scholarlyactivityid": 70910
+        },
+        "321629": {
+            "firstname": "Dave",
+            "middleinitial": "",
+            "lastname": "Hammons",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111230498",
+            "authorid": 321629,
+            "scholarlyactivityid": 70910
+        },
+        "321630": {
+            "firstname": "Kirk",
+            "middleinitial": "L",
+            "lastname": "Ketelsen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114090284",
+            "authorid": 321630,
+            "scholarlyactivityid": 70910
+        }
+    },
+    "status": [
+        {
+            "id": 70910,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70910,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70910,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70910,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70910,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114090284",
+    "attachments": []
+}

@@ -1,0 +1,66 @@
+{
+    "activityid": 1753,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The effect of human activities and their associated noise on ungulate behavior. ",
+        "Journal": "PLoS ONE",
+        "Volume": "7",
+        "Month / Season": "2012-07-10",
+        "Issue Number": "7",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "9-Jan",
+        "Publisher": "Public Library of Science",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0040505",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113089601",
+    "coauthors": {
+        "4348": {
+            "firstname": "Casey",
+            "middleinitial": "L",
+            "lastname": "Brown",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4348,
+            "scholarlyactivityid": 1753
+        },
+        "4349": {
+            "firstname": "Amanda",
+            "middleinitial": "R",
+            "lastname": "Hardy",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4349,
+            "scholarlyactivityid": 1753
+        },
+        "4350": {
+            "firstname": "Jesse",
+            "middleinitial": "R",
+            "lastname": "Barber",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113089601",
+            "authorid": 4350,
+            "scholarlyactivityid": 1753
+        }
+    },
+    "status": [
+        {
+            "id": 1753,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113089601",
+    "attachments": []
+}

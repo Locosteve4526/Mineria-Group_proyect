@@ -1,0 +1,88 @@
+{
+    "activityid": 47343,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Faculty perceptions of online teaching at a mid-sized liberal arts university",
+        "Journal": "Online Learning Journal",
+        "Volume": "24",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "106-127",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.24059/olj.v24i3.2199 ",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114047750",
+    "coauthors": {
+        "251875": {
+            "firstname": "Dana",
+            "middleinitial": "L",
+            "lastname": "Shreaves",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 251875,
+            "scholarlyactivityid": 47343,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "251876": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 251876,
+            "scholarlyactivityid": 47343,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "251877": {
+            "firstname": "Lida",
+            "middleinitial": "",
+            "lastname": "Uribe-Florez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114047750",
+            "authorid": 251877,
+            "scholarlyactivityid": 47343,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "251878": {
+            "firstname": "Jesus",
+            "middleinitial": "",
+            "lastname": "Trespalacios",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002217",
+            "authorid": 251878,
+            "scholarlyactivityid": 47343,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47343,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114047750",
+    "attachments": []
+}

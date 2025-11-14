@@ -1,0 +1,76 @@
+{
+    "activityid": 60431,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Practice Variations in High-frequency Percussive Ventilation",
+        "Conference / Meeting Name": "American Association for Respiratory Care International Congress",
+        "Conference Location": "New Orleans, LA",
+        "Date or Date Range": "11/9/22",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111698779",
+    "coauthors": {
+        "280632": {
+            "firstname": "Adam",
+            "middleinitial": "",
+            "lastname": "Thompson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 280632,
+            "scholarlyactivityid": 60431,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "280633": {
+            "firstname": "Megan",
+            "middleinitial": "",
+            "lastname": "Koster",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111698779",
+            "authorid": 280633,
+            "scholarlyactivityid": 60431,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 60431,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 60431,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 60431,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111698779",
+    "attachments": []
+}

@@ -1,0 +1,110 @@
+{
+    "activityid": 52941,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modesty and Security: Attributes associated with comfort and willingness to engage in telelactation",
+        "Journal": "Children",
+        "Volume": "8",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "271",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114090441",
+    "coauthors": {
+        "268268": {
+            "firstname": "Adetola",
+            "middleinitial": "",
+            "lastname": "Louis-Jacques",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268268,
+            "scholarlyactivityid": 52941,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268269": {
+            "firstname": "Ellen",
+            "middleinitial": "",
+            "lastname": "Schafer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114090441",
+            "authorid": 268269,
+            "scholarlyactivityid": 52941,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268270": {
+            "firstname": "Taylor",
+            "middleinitial": "",
+            "lastname": "Livingston",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268270,
+            "scholarlyactivityid": 52941,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268271": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Logan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268271,
+            "scholarlyactivityid": 52941,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268272": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Marhefka",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268272,
+            "scholarlyactivityid": 52941,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52941,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 52941,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114090441",
+    "attachments": []
+}

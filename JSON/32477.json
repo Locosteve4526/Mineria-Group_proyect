@@ -1,0 +1,87 @@
+{
+    "activityid": 32477,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Leading a Multiple Project Mobile Initiative:  The Approach at Boise State University",
+        "Name of Conference": "",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "EDUCAUSE",
+        "Publisher Location": "Louisville, CO",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://www.educause.edu",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112180039",
+    "coauthors": {
+        "125254": {
+            "firstname": "Susan",
+            "middleinitial": "E",
+            "lastname": "Shadle",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 125254,
+            "scholarlyactivityid": 32477
+        },
+        "125253": {
+            "firstname": "Ross",
+            "middleinitial": "Andrew",
+            "lastname": "Perkins",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112180039",
+            "authorid": 125253,
+            "scholarlyactivityid": 32477
+        },
+        "125252": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Lincoln",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110058",
+            "authorid": 125252,
+            "scholarlyactivityid": 32477
+        },
+        "125251": {
+            "firstname": "Michael",
+            "middleinitial": "John",
+            "lastname": "Humphrey",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112141652",
+            "authorid": 125251,
+            "scholarlyactivityid": 32477
+        },
+        "125250": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 125250,
+            "scholarlyactivityid": 32477
+        }
+    },
+    "status": [
+        {
+            "id": 32477,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112180039",
+    "attachments": []
+}

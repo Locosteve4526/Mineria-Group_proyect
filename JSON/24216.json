@@ -1,0 +1,74 @@
+{
+    "activityid": 24216,
+    "fields": {
+        "Type": "Book",
+        "Title": "It's Elementary: A Parents\u2019 Guide to K-5 Mathematics",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "National Council of Teachers of Mathematics",
+        "Publisher Location": "",
+        "ISBN": "978-0-87353-701-8",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.nctm.org/Store/Products/It-s-Elementary--A-Parent-s-Guide-to-K-5-Mathematics/",
+        "Description/Abstract": "Page Number:  228",
+        "Origin": "Other"
+    },
+    "facultyid": "113017246",
+    "coauthors": {
+        "117418": {
+            "firstname": "Joy",
+            "middleinitial": "",
+            "lastname": "Whitenack",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 117418,
+            "scholarlyactivityid": 24216
+        },
+        "117419": {
+            "firstname": "Laurie",
+            "middleinitial": "O",
+            "lastname": "Cavey",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113017246",
+            "authorid": 117419,
+            "scholarlyactivityid": 24216
+        },
+        "117420": {
+            "firstname": "Catherine",
+            "middleinitial": "",
+            "lastname": "Henney",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 117420,
+            "scholarlyactivityid": 24216
+        }
+    },
+    "status": [
+        {
+            "id": 24216,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 24216,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113017246",
+    "attachments": []
+}

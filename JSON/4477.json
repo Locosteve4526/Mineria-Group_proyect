@@ -1,0 +1,86 @@
+{
+    "activityid": 4477,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Correction of Electronic Record for Weighing Bucket Precipitation Gauge Measurements",
+        "Journal": "Water Resources Research",
+        "Volume": "44",
+        "Month / Season": "2008-12-02",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "W00D11",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2008WR006875",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/geo_facpubs/30",
+        "Description/Abstract": "Electronic sensors generate valuable streams of forcing and validation data for hydrologic models but are often subject to noise which must be removed as part of model input and testing database development. We developed an automated precipitation correction program (APCP) for weighing bucket precipitation gauge records, which are subject to several types of mechanical and electronic noise and discontinuities, including gauge maintenance, missing data, wind vibration, and sensor drift. Corrected cumulative water year precipitation from APCP did not exhibit an error bias and matched measured water year total precipitation within 2.1% for 58 station years tested. Removal of low-amplitude periodic noise was especially important for developing accurate instantaneous precipitation records at subdaily time steps. Model flexibility for use with other data types is demonstrated through application to time domain reflectometry soil moisture content data, which are also frequently subject to substantial noise.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110360",
+    "coauthors": {
+        "13473": {
+            "firstname": "Anurag",
+            "middleinitial": "",
+            "lastname": "Nayak",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13473,
+            "scholarlyactivityid": 4477
+        },
+        "13474": {
+            "firstname": "David",
+            "middleinitial": "G.",
+            "lastname": "Chandler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13474,
+            "scholarlyactivityid": 4477
+        },
+        "13475": {
+            "firstname": "Danny",
+            "middleinitial": "",
+            "lastname": "Marks",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13475,
+            "scholarlyactivityid": 4477
+        },
+        "13476": {
+            "firstname": "James",
+            "middleinitial": "P",
+            "lastname": "McNamara",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110360",
+            "authorid": 13476,
+            "scholarlyactivityid": 4477
+        },
+        "13477": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Seyfried",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13477,
+            "scholarlyactivityid": 4477
+        }
+    },
+    "status": [
+        {
+            "id": 4477,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110360",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 904,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Medical Licensing Board Characteristics and Physician Discipline: An Empirical Analysis",
+        "Journal": "Journal of Health Politics, Policy, and Law",
+        "Volume": "35",
+        "Month / Season": "2010-02-28",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "63 - 93",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111115756",
+    "coauthors": {
+        "2190": {
+            "firstname": "Marc",
+            "middleinitial": "T",
+            "lastname": "Law",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 2190,
+            "scholarlyactivityid": 904
+        },
+        "2191": {
+            "firstname": "Zeynep",
+            "middleinitial": "",
+            "lastname": "Hansen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111115756",
+            "authorid": 2191,
+            "scholarlyactivityid": 904
+        }
+    },
+    "status": [
+        {
+            "id": 904,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111115756",
+    "attachments": []
+}

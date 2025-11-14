@@ -1,0 +1,91 @@
+{
+    "activityid": 74090,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Video Game Metadata Schema: Controlled Vocabulary for Mood 3.2",
+        "Outlet (if applicable)": "University of Washington Information School Game Research Group Website",
+        "Date": "2024-09-04",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://github.com/uwgamergroup/vocabulary-mood/",
+        "Description/Abstract": "&lt;span&gt;This vocabulary has been developed to represent the\u00a0pervading atmosphere or tone of the video game which evokes or recalls a certain emotion or state of mind.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "345811": {
+            "firstname": "Jin Ha",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345811,
+            "scholarlyactivityid": 74090,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345812": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 345812,
+            "scholarlyactivityid": 74090,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345813": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Newman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345813,
+            "scholarlyactivityid": 74090,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345814": {
+            "firstname": "Lane",
+            "middleinitial": "D",
+            "lastname": "Koughan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345814,
+            "scholarlyactivityid": 74090,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74090,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

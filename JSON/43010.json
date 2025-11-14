@@ -1,0 +1,42 @@
+{
+    "activityid": 43010,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Is Collaboration a Scientific Virtue?",
+        "Conference/Meeting Name": "SciTS 2018",
+        "Conference Location": "Galveston, TX",
+        "Date or Date Range": "5/23/18",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "SciTS",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "192157": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 192157,
+            "scholarlyactivityid": 43010
+        }
+    },
+    "status": [
+        {
+            "id": 43010,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

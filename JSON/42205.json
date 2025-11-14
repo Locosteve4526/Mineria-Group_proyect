@@ -1,0 +1,80 @@
+{
+    "activityid": 42205,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Tech startups and entrepreneur-investor negotiations",
+        "Conference/Meeting Name": "Academy of Management ",
+        "Conference Location": "Boston",
+        "Date or Date Range": "8/9-8/11",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065551",
+    "coauthors": {
+        "325204": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Dunne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065551",
+            "authorid": 325204,
+            "scholarlyactivityid": 42205,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325205": {
+            "firstname": "Brent",
+            "middleinitial": "B",
+            "lastname": "Clark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325205,
+            "scholarlyactivityid": 42205,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325206": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Berns",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325206,
+            "scholarlyactivityid": 42205,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42205,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42205,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065551",
+    "attachments": []
+}

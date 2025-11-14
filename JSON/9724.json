@@ -1,0 +1,81 @@
+{
+    "activityid": 9724,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Taking Zizek to School",
+        "Conference/Meeting Name": "International Zizek Studies Conference",
+        "Conference Location": "Cincinnati, Ohio",
+        "Date or Date Range": "2015-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "University of Cincinnati",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002258",
+    "coauthors": {
+        "51258": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Gabbard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114002258",
+            "authorid": 51258,
+            "scholarlyactivityid": 9724
+        },
+        "51259": {
+            "firstname": "Angela",
+            "middleinitial": "",
+            "lastname": "Crawford",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113088282",
+            "authorid": 51259,
+            "scholarlyactivityid": 9724
+        },
+        "51260": {
+            "firstname": "Petya",
+            "middleinitial": "",
+            "lastname": "Stoyanovich\u2013Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51260,
+            "scholarlyactivityid": 9724
+        },
+        "51261": {
+            "firstname": "Max",
+            "middleinitial": "",
+            "lastname": "Shue",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51261,
+            "scholarlyactivityid": 9724
+        }
+    },
+    "status": [
+        {
+            "id": 9724,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9724,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114002258",
+    "attachments": []
+}

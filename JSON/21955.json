@@ -1,0 +1,84 @@
+{
+    "activityid": 21955,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A m\u00e9lange of subduction temperatures: implications for thermal structure and rheology of subducting slabs",
+        "Journal": "Geochimica et Cosmochimica Acta",
+        "Volume": "",
+        "Month / Season": "2017",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112110324",
+    "coauthors": {
+        "154154": {
+            "firstname": "Sarah",
+            "middleinitial": "C",
+            "lastname": "Penniston-Dorland",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 154154,
+            "scholarlyactivityid": 21955,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "154155": {
+            "firstname": "Matthew",
+            "middleinitial": "J",
+            "lastname": "Kohn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112110324",
+            "authorid": 154155,
+            "scholarlyactivityid": 21955,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "154156": {
+            "firstname": "Philip",
+            "middleinitial": "",
+            "lastname": "Piccoli",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 154156,
+            "scholarlyactivityid": 21955,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 21955,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 21955,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112110324",
+    "attachments": []
+}

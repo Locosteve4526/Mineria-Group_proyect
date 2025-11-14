@@ -1,0 +1,71 @@
+{
+    "activityid": 41254,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Prehistoric Rock Art of Guyana",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Edition": "1st",
+        "Volume": "",
+        "Publisher": "University of Guyana",
+        "Publisher Location": "Georgetown",
+        "ISBN": "not yet available",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110261",
+    "coauthors": {
+        "181051": {
+            "firstname": "Mark",
+            "middleinitial": "G",
+            "lastname": "Plew",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110261",
+            "authorid": 181051,
+            "scholarlyactivityid": 41254,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "181052": {
+            "firstname": "Louisa",
+            "middleinitial": "B",
+            "lastname": "Daggers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181052,
+            "scholarlyactivityid": 41254,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "181053": {
+            "firstname": "Gerard",
+            "middleinitial": "",
+            "lastname": "Pereria",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181053,
+            "scholarlyactivityid": 41254
+        }
+    },
+    "status": [
+        {
+            "id": 41254,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110261",
+    "attachments": []
+}

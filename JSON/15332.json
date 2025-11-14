@@ -1,0 +1,52 @@
+{
+    "activityid": 15332,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Just Released Report Examines Green Building in the PNW",
+        "Conference/Meeting Name": "Idaho Green Expo",
+        "Conference Location": "Boise, Idaho",
+        "Date or Date Range": "2010-05-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112056561",
+    "coauthors": {
+        "63499": {
+            "firstname": "Anthony",
+            "middleinitial": "Wayne",
+            "lastname": "Marker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112056561",
+            "authorid": 63499,
+            "scholarlyactivityid": 15332
+        },
+        "63500": {
+            "firstname": "Susan",
+            "middleinitial": "Giuffrida",
+            "lastname": "Mason",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112019137",
+            "authorid": 63500,
+            "scholarlyactivityid": 15332
+        }
+    },
+    "status": [
+        {
+            "id": 15332,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112056561",
+    "attachments": []
+}

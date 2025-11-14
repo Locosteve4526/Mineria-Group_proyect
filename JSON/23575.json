@@ -1,0 +1,55 @@
+{
+    "activityid": 23575,
+    "fields": {
+        "Type": "Book",
+        "Title": "Discovering the Writer Within: 40 Days to More Imaginative Writing",
+        "Actual/Projected Year of Publication/Presentation": 1996,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Writer's Digest Books",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Writer's Digest Books",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/217",
+        "Description/Abstract": "Provides exercises designed to help one write more freely and expressively and includes advice on evaluating and editing one's work.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "78697": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 78697,
+            "scholarlyactivityid": 23575
+        },
+        "78698": {
+            "firstname": "Barry",
+            "middleinitial": "",
+            "lastname": "Lane",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78698,
+            "scholarlyactivityid": 23575
+        }
+    },
+    "status": [
+        {
+            "id": 23575,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1996,
+            "termid": "1995/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

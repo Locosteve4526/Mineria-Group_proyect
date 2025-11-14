@@ -1,0 +1,71 @@
+{
+    "activityid": 29140,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Comparing Methods to Extract the Knowledge from Neural Networks",
+        "Name of Conference": "11th Americas Conference on Information Systems (AMCIS)",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065991",
+    "coauthors": {
+        "100994": {
+            "firstname": "Christie",
+            "middleinitial": "M",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 100994,
+            "scholarlyactivityid": 29140,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "100995": {
+            "firstname": "Rick",
+            "middleinitial": "L",
+            "lastname": "Wilson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 100995,
+            "scholarlyactivityid": 29140,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29140,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2005,
+            "termid": "2005/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114065991",
+    "attachments": [
+        {
+            "attachmentid": 762,
+            "mimetype": "application/pdf",
+            "filename": "amcis 05 paper fuller wilson.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZeE15My81KzU1RnpidDBEYXQ4V1dEZHBwckZCUGMzcTYwYmpJY2dKekh0eHArSjZNN3dkZWVuTUNDeDZYZnpkZz0%3D",
+            "filesize": 228000
+        }
+    ]
+}

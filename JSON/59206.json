@@ -1,0 +1,94 @@
+{
+    "activityid": 59206,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Purification of ArtAB, an AB5-type Salmonella Typhimurium DT104 toxin, with single residue mutations for investigation of the enzymatic activity of the A subunit",
+        "Conference / Meeting Name": "ASM Intermountain Branch Meeting",
+        "Conference Location": "Online",
+        "Date or Date Range": "December 3, 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "ASM",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "ArtAB, an AB5-type toxin produced by Salmonella Typhimurium DT104, is composed of a\npentameric receptor-binding (ArtB) subunit and an enzymatically active (ArtA) subunit. ArtA\nshares genetic and structural homology with well-characterized AB5-type toxins such as cholera\ntoxin (CT) and pertussis toxin (PT), but a thorough comparison of the toxins has not been made.\nAll three of these toxins perform ADP-ribosylation but their cellular targets appear to differ. In\norder to assess the enzymatic activity of ArtA, we designed and produced ArtA mutants with\nsingle amino acid mutations at three different residues within the suspected binding pocket of the\nenzyme. Mutations were made based on genetic sequence alignments to CT and PT, both of\nwhich have tertiary and quaternary structures that have been solved. The mutations are expected\nto abolish the ADP-ribosylating activity of the toxin. Mutant plasmids were successfully\ntransformed into CleanColi and purified, assembled with ArtB as holotoxin, using D-galactose\nagarose affinity chromatography. Purified protein size, presence of subunits, and concentrations\nwere confirmed with SDS-PAGE and BCA assays. The purified mutant proteins will support an\nexamination of the binding pocket of ArtA and a comparison of ArtA, CT, and PT, using ADP-\nribosylation assays, PKA and PKC signaling assays, and cellular morphology, proliferation, and\nbarrier function assays. Understanding the relationship of these three toxins will improve our\nunderstanding of the AB5 toxins, a family that has been demonstrated to contribute to Vibrio\ncholerae (cholera) and Bordatella pertussis (pertussis, or whooping cough) virulence and\npathogenicity, but have also shown promise with use as vaccines or vaccine adjuvants.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "276482": {
+            "firstname": "Elise",
+            "middleinitial": "",
+            "lastname": "Overgaard",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276482,
+            "scholarlyactivityid": 59206,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "276483": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 276483,
+            "scholarlyactivityid": 59206,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59206,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59206,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 59206,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 59206,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 59206,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 44404,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Approaching Intimate Partner Violence at the Micro-Level: An Analysis in Boise, Idaho",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112182213",
+    "coauthors": {
+        "201281": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Wells",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114081229",
+            "authorid": 201281,
+            "scholarlyactivityid": 44404,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "201282": {
+            "firstname": "Grant",
+            "middleinitial": "",
+            "lastname": "Drawve",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201282,
+            "scholarlyactivityid": 44404,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "201283": {
+            "firstname": "Danielle",
+            "middleinitial": "",
+            "lastname": "Swerin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112182213",
+            "authorid": 201283,
+            "scholarlyactivityid": 44404,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44404,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112182213",
+    "attachments": []
+}

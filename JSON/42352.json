@@ -1,0 +1,77 @@
+{
+    "activityid": 42352,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Work-in-Progress: Integrating computational thinking in STEM education through a project-based learning approach.",
+        "Name of Conference": "Proceedings of 2018 American Society for Engineering Education (ASEE) Annual Conference and Exposition",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "188666": {
+            "firstname": "Dazhi",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113078547",
+            "authorid": 188666,
+            "scholarlyactivityid": 42352
+        },
+        "188665": {
+            "firstname": "Steve",
+            "middleinitial": "",
+            "lastname": "Swanson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 188665,
+            "scholarlyactivityid": 42352
+        },
+        "188664": {
+            "firstname": "Bhaskar",
+            "middleinitial": "C.S.",
+            "lastname": "Chittoori",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114001930",
+            "authorid": 188664,
+            "scholarlyactivityid": 42352
+        },
+        "188663": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 188663,
+            "scholarlyactivityid": 42352
+        }
+    },
+    "status": [
+        {
+            "id": 42352,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

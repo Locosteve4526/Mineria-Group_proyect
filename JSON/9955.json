@@ -1,0 +1,61 @@
+{
+    "activityid": 9955,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "A Social Cognitive Perspective on Opportunity Recognition",
+        "Conference/Meeting Name": "Babson College Entrepreneurship Research Conference",
+        "Conference Location": "Boston, MA",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Babson College",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114027549",
+    "coauthors": {
+        "265865": {
+            "firstname": "Trayan",
+            "middleinitial": "",
+            "lastname": "Kushev",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 265865,
+            "scholarlyactivityid": 9955
+        },
+        "265866": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Mattingly",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114027549",
+            "authorid": 265866,
+            "scholarlyactivityid": 9955
+        }
+    },
+    "status": [
+        {
+            "id": 9955,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9955,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114027549",
+    "attachments": []
+}

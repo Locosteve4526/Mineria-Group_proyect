@@ -1,0 +1,100 @@
+{
+    "activityid": 48510,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Advances in fuel fabrication",
+        "Book Title": "Advances in Nuclear Fuel Chemistry",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "317-418",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "ElSevier",
+        "Publisher Location": "",
+        "ISBN": "10.1016/B978-0-08-102571-0.00011-2.",
+        "Author/Editor of Larger Work": "",
+        "DOI": "9780081025710",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111641391",
+    "coauthors": {
+        "248562": {
+            "firstname": "Elizabeth",
+            "middleinitial": "Sooby",
+            "lastname": "Wood",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 248562,
+            "scholarlyactivityid": 48510,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "248563": {
+            "firstname": "Joshua",
+            "middleinitial": "T",
+            "lastname": "White",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 248563,
+            "scholarlyactivityid": 48510,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "248564": {
+            "firstname": "Brian",
+            "middleinitial": "J",
+            "lastname": "Jaques",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111641391",
+            "authorid": 248564,
+            "scholarlyactivityid": 48510,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "248565": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Burkes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 248565,
+            "scholarlyactivityid": 48510,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "248566": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Demkowicz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 248566,
+            "scholarlyactivityid": 48510
+        }
+    },
+    "status": [
+        {
+            "id": 48510,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111641391",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 70498,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The impact of various spaces on science majors' science identities",
+        "Name of Conference": "NARST Annual International Conference",
+        "Month / Season": "April 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "319229": {
+            "firstname": "Allyson",
+            "middleinitial": "",
+            "lastname": "Randall",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319229,
+            "scholarlyactivityid": 70498,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "319230": {
+            "firstname": "Sara",
+            "middleinitial": "",
+            "lastname": "Hagenah",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046496",
+            "authorid": 319230,
+            "scholarlyactivityid": 70498,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319231": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 319231,
+            "scholarlyactivityid": 70498,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70498,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

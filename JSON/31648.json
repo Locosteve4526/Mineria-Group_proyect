@@ -1,0 +1,109 @@
+{
+    "activityid": 31648,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Measurement of Spin-orbit Misalignment and Nodal Precession for the Planet around Pre-main-sequence Star PTFO 8-8695 from Gravity Darkening",
+        "Journal": "Astrophysical Journal",
+        "Volume": "774",
+        "Month / Season": "Sep",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "53",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2013ApJ...774...53B",
+        "Description/Abstract": "PTFO 8-8695b represents the first transiting exoplanet candidate orbiting a pre-main-sequence star (van Eyken et al. 2012, ApJ, 755, 42). We find that the unusual lightcurve shapes of PTFO 8-8695 can be explained by transits of a planet across an oblate, gravity-darkened stellar disk. We develop a theoretical framework for understanding precession of a planetary orbit's ascending node for the case when the stellar rotational angular momentum and the planetary orbital angular momentum are comparable in magnitude. We then implement those ideas to simultaneously and self-consistently fit two separate lightcurves observed in 2009 December and 2010 December. Our two self-consistent fits yield Mp = 3.0 M Jup and Mp = 3.6 M Jup for assumed stellar masses of M * = 0.34 M \u2299 and M * = 0.44 M \u2299 respectively. The two fits have precession periods of 293 days and 581 days. These mass determinations (consistent with previous upper limits) along with the strength of the gravity-darkened precessing model together validate PTFO 8-8695b as just the second hot Jupiter known to orbit an M-dwarf. Our fits show a high degree of spin-orbit misalignment in the PTFO 8-8695 system: 69\u00b0 \u00b1 2\u00b0 or 73.\u00b01 \u00b1 0.\u00b05, in the two cases. The large misalignment is consistent with the hypothesis that planets become hot Jupiters with random orbital plane alignments early in a system's lifetime. We predict that as a result of the highly misaligned, precessing system, the transits should disappear for months at a time over the course of the system's precession period. The precessing, gravity-darkened model also predicts other observable effects: changing orbit inclination that could be detected by radial velocity observations, changing stellar inclination that would manifest as varying vsin i, changing projected spin-orbit alignment that could be seen by the Rossiter-McLaughlin effect, changing transit shapes over the course of the precession, and differing lightcurves as a function of wavelength. Our measured planet radii of 1.64 R Jup and 1.68 R Jup in each case are consistent with a young, hydrogen-dominated planet that results from a &quot;hot-start&quot; formation mechanism. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "119580": {
+            "firstname": "J.",
+            "middleinitial": "W.",
+            "lastname": "Barnes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119580,
+            "scholarlyactivityid": 31648,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119581": {
+            "firstname": "J.",
+            "middleinitial": "C.",
+            "lastname": "van Eyken",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119581,
+            "scholarlyactivityid": 31648,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119582": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119582,
+            "scholarlyactivityid": 31648,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119583": {
+            "firstname": "D.",
+            "middleinitial": "R.",
+            "lastname": "Ciardi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119583,
+            "scholarlyactivityid": 31648,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119584": {
+            "firstname": "J.",
+            "middleinitial": "J.",
+            "lastname": "Fortney",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119584,
+            "scholarlyactivityid": 31648,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31648,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": [
+        {
+            "attachmentid": 3839,
+            "mimetype": "application/pdf",
+            "filename": "1308.0629.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZaGorZHBXb2pQK2FaVnJGOG9DejdhbWFHdllmSXBjKzhxSWIrQXdyOVR0QT09",
+            "filesize": 1825951
+        }
+    ]
+}

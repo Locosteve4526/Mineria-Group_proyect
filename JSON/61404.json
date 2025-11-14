@@ -1,0 +1,65 @@
+{
+    "activityid": 61404,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Causal Narratives and Constitutional Scrutiny",
+        "Journal": "University of Memphis Law Review",
+        "Volume": "52",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126306",
+    "coauthors": {
+        "303732": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Lingwall",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126306",
+            "authorid": 303732,
+            "scholarlyactivityid": 61404
+        },
+        "303733": {
+            "firstname": "Michelle",
+            "middleinitial": "",
+            "lastname": "Vos",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114071197",
+            "authorid": 303733,
+            "scholarlyactivityid": 61404
+        }
+    },
+    "status": [
+        {
+            "id": 61404,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61404,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114126306",
+    "attachments": []
+}

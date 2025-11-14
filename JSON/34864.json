@@ -1,0 +1,111 @@
+{
+    "activityid": 34864,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Generating rebalancing routes for bikeshare programs with a genetic algorithm",
+        "Journal": "Journal of Cleaner Production",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113108244",
+    "coauthors": {
+        "211982": {
+            "firstname": "James",
+            "middleinitial": "Raymond",
+            "lastname": "Kroes Ph.D.",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113108244",
+            "authorid": 211982,
+            "scholarlyactivityid": 34864,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "211983": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Manikas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 211983,
+            "scholarlyactivityid": 34864,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "211984": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Gattiker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112057162",
+            "authorid": 211984,
+            "scholarlyactivityid": 34864,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34864,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 34864,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 34864,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 34864,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 34864,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113108244",
+    "attachments": []
+}

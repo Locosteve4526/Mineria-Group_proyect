@@ -1,0 +1,62 @@
+{
+    "activityid": 20123,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Domestic Migration and New Business Creation",
+        "Conference/Meeting Name": "Babson College Entrepreneurship Research Conference",
+        "Conference Location": "Lausanne, Switzerland",
+        "Date or Date Range": "2010-06-11",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "Babson College, International Institute for Management Development, and Ecole Polytechnique Federale de Lausanne",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643654",
+    "coauthors": {
+        "73787": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Baughn",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110250",
+            "authorid": 73787,
+            "scholarlyactivityid": 20123
+        },
+        "73788": {
+            "firstname": "Kent",
+            "middleinitial": "",
+            "lastname": "Neupert",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643654",
+            "authorid": 73788,
+            "scholarlyactivityid": 20123
+        },
+        "73789": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Sugheir",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112089502",
+            "authorid": 73789,
+            "scholarlyactivityid": 20123
+        }
+    },
+    "status": [
+        {
+            "id": 20123,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643654",
+    "attachments": []
+}

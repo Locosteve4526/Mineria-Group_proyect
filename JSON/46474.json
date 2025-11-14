@@ -1,0 +1,71 @@
+{
+    "activityid": 46474,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Emergent Behavior in a Popluation of Thermostatically Controlled Loads with Peer-to-Peer Communication",
+        "Name of Conference": "2019 ASME International Mechanical Engineering Congress &amp;Exhibition",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "ASME Press",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643302",
+    "coauthors": {
+        "211827": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Schwartz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 211827,
+            "scholarlyactivityid": 46474,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "211828": {
+            "firstname": "John",
+            "middleinitial": "F",
+            "lastname": "Gardner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643302",
+            "authorid": 211828,
+            "scholarlyactivityid": 46474,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46474,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643302",
+    "attachments": [
+        {
+            "attachmentid": 18976,
+            "mimetype": "application/pdf",
+            "filename": "IMECE2019-10456 FINAL.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25vdDdyNVRFTGVWdEFTdy9oN3RhUHN1ZmZ1d29oZ3BGZTFQYThSbHA0VnZLL1V4SjlCREtXMXdJMk1jL0xYbzRxOD0%3D",
+            "filesize": 1872317
+        }
+    ]
+}

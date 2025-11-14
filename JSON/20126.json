@@ -1,0 +1,76 @@
+{
+    "activityid": 20126,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Labor Flexibility and the Prevalence of High-Growth Entrepreneurial Activity",
+        "Name of Conference": "Babson College Entrepreneurship Research Conference ",
+        "Month / Season": "2008-06-06",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": null,
+        "Publisher": "Babson College and University of North Carolina",
+        "Publisher Location": "Chapel Hill, N.C.",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643654",
+    "coauthors": {
+        "134685": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Baughn",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110250",
+            "authorid": 134685,
+            "scholarlyactivityid": 20126,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134686": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Sugheir",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134686,
+            "scholarlyactivityid": 20126,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134687": {
+            "firstname": "Kent",
+            "middleinitial": "",
+            "lastname": "Neupert",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643654",
+            "authorid": 134687,
+            "scholarlyactivityid": 20126,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20126,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2008,
+            "termid": "2008/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643654",
+    "attachments": []
+}

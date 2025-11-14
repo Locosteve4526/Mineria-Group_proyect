@@ -1,0 +1,67 @@
+{
+    "activityid": 57880,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "WL instructors teaching Sciences? Thankfully, we have connections!",
+        "Conference/Meeting Name": "PNCFL 2022 Spring Virtual Conference \u2013 Bridging Our Distance, Fostering Collaboration",
+        "Conference Location": "Virtual",
+        "Date or Date Range": "March 18-19th, 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "Pacific Northwest Council for Languages",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067032",
+    "coauthors": {
+        "268486": {
+            "firstname": "Carolina",
+            "middleinitial": "",
+            "lastname": "Viera",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067032",
+            "authorid": 268486,
+            "scholarlyactivityid": 57880,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268487": {
+            "firstname": "Fatima",
+            "middleinitial": "",
+            "lastname": "Cornwall",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268487,
+            "scholarlyactivityid": 57880,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57880,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 57880,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114067032",
+    "attachments": []
+}

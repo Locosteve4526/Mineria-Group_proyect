@@ -1,0 +1,58 @@
+{
+    "activityid": 32518,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Immersive learning simulation strategies for building expertise: A real-world example",
+        "Conference/Meeting Name": "International Society for Performance Improvement",
+        "Conference Location": "San Francisco, CA",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112139967",
+    "coauthors": {
+        "125374": {
+            "firstname": "Steven",
+            "middleinitial": "W",
+            "lastname": "Villachica",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112139967",
+            "authorid": 125374,
+            "scholarlyactivityid": 32518,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125375": {
+            "firstname": "Deborah",
+            "middleinitial": "L",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125375,
+            "scholarlyactivityid": 32518,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32518,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139967",
+    "attachments": []
+}

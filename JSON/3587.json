@@ -1,0 +1,66 @@
+{
+    "activityid": 3587,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Possible temperate lakes on Titan",
+        "Journal": "ICARUS",
+        "Volume": "257",
+        "Month / Season": "2015-09-30",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "313-323",
+        "Publisher": "Elsevier",
+        "DOI": "10.1016/j.icarus.2015.05.009",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2015Icar..257..313V",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "10439": {
+            "firstname": "Graham",
+            "middleinitial": "",
+            "lastname": "Vixie",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10439,
+            "scholarlyactivityid": 3587
+        },
+        "10440": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "Barnes",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10440,
+            "scholarlyactivityid": 3587
+        },
+        "10441": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114026685",
+            "authorid": 10441,
+            "scholarlyactivityid": 3587
+        }
+    },
+    "status": [
+        {
+            "id": 3587,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

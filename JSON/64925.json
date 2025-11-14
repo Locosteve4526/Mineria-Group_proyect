@@ -1,0 +1,59 @@
+{
+    "activityid": 64925,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Couch Surrfing live event in Boise and Radio show, KRBX",
+        "Name of Performing Group": "Couch Surfer",
+        "Date or Date Range": "September 13, 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Name of Venue/Sponsor": "Ochos, KRBX",
+        "Venue / Sponsor Location (City, State, Country)": "",
+        "Co-contributor": null,
+        "Web address": "https://www.youtube.com/watch?v=Y1_iGfvvBw8",
+        "Description/Abstract": "",
+        "Web Address": "https://www.youtube.com/watch?v=Y1_iGfvvBw8",
+        "Origin": "Manual"
+    },
+    "facultyid": "112032282",
+    "coauthors": {
+        "301077": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Hampikian",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112032282",
+            "authorid": 301077,
+            "scholarlyactivityid": 64925,
+            "classifications": {
+                "Role": "Performer"
+            }
+        },
+        "301078": {
+            "firstname": "Allan",
+            "middleinitial": "",
+            "lastname": "Heathcock",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301078,
+            "scholarlyactivityid": 64925,
+            "classifications": {
+                "Role": "Performer"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64925,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112032282",
+    "attachments": []
+}

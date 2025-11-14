@@ -1,0 +1,52 @@
+{
+    "activityid": 10285,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Analysis of Lumican in Prostate Adenocarcinoma",
+        "Conference/Meeting Name": "Rose-Hulman Undergraduate Research Symposium",
+        "Conference Location": "Terre Haute, IN",
+        "Date or Date Range": "2008-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "Rose-Hulman Undergraduate Research Symposium",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113156458",
+    "coauthors": {
+        "52535": {
+            "firstname": "L.A.",
+            "middleinitial": "",
+            "lastname": "Fulford",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52535,
+            "scholarlyactivityid": 10285
+        },
+        "52536": {
+            "firstname": "Allen",
+            "middleinitial": "",
+            "lastname": "Albig",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113156458",
+            "authorid": 52536,
+            "scholarlyactivityid": 10285
+        }
+    },
+    "status": [
+        {
+            "id": 10285,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113156458",
+    "attachments": []
+}

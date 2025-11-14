@@ -1,0 +1,54 @@
+{
+    "activityid": 22439,
+    "fields": {
+        "Type": "Book",
+        "Title": "Human Resource Management The Public Sector Perspective",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "2",
+        "Volume": "",
+        "Publisher": "Routledge/Taylor Francis",
+        "Publisher Location": "",
+        "ISBN": "978-0-7656-4586",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Role:  Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "111110214",
+    "coauthors": {
+        "115613": {
+            "firstname": "Elizabeth",
+            "middleinitial": "Dawn",
+            "lastname": "Fredericksen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358856",
+            "authorid": 115613,
+            "scholarlyactivityid": 22439
+        }
+    },
+    "status": [
+        {
+            "id": 22439,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 22439,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110214",
+    "attachments": []
+}

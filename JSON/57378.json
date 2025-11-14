@@ -1,0 +1,70 @@
+{
+    "activityid": 57378,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Optimal response labels for constructing an interval-type 5-point Likert scale",
+        "Journal": "Performance Improvement",
+        "Volume": "62",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "17-24",
+        "Publisher": "Allen Press",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.56811/PFI-22-0012",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "312080": {
+            "firstname": "Hutchinson",
+            "middleinitial": "",
+            "lastname": "Douglas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312080,
+            "scholarlyactivityid": 57378,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "312081": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 312081,
+            "scholarlyactivityid": 57378,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57378,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": [
+        {
+            "attachmentid": 41203,
+            "mimetype": "application/pdf",
+            "filename": "pijr-62-01-01_1..8 (1).pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeVNhTzlHZUsyQUswZ241Z0U0dW5ZTjdrK1NGUFVWbytYekRGeXRScVpnSlFzTjBZWTZYKyt4bzdmWVhFampqSWdrYzZqY3NyaGpUST0%3D",
+            "filesize": 288262
+        }
+    ]
+}

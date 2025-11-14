@@ -1,0 +1,201 @@
+{
+    "activityid": 54400,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A New Approach to Nucleic Acid Memory",
+        "Journal": "Nature Communications",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We report digital Nucleic Acid Memory (dNAM) as an alternative approach to prototyping\nDNA-based data storage for applications that require a limited amount of data to have\nhigh information density and redundancy. In dNAM, data is encoded by selecting\ncombinations of single-stranded DNA possessing (1) or lacking (0) docking site domains.\nWhen joined with scaffold DNA these staple strands form DNA-origami optical\nbreadboards from which data is read by monitoring binding of fluorescent imager probes\nusing DNA-PAINT super-resolution microscopy. To enhance data retention, a multi-layer\nerror correction scheme was created that combines fountain codes with bi-level parity\ncodes. As a prototype, 15 origami were encoded with \u2018Data is in our DNA!\\n\u2019, with each\norigami encoding a unique data droplet. Our error-correction algorithms successfully\nrecovered the message even when individual docking sites, or entire origami, were\nmissing. Unlike other approaches to DNA-based data storage, reading dNAM does not\nrequire sequencing. As such, it offers a new path to explore the advantages of DNA as an\nemerging memory material.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669907",
+    "coauthors": {
+        "255153": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 255153,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255154": {
+            "firstname": "George",
+            "middleinitial": "",
+            "lastname": "Dickinson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255154,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255155": {
+            "firstname": "Golam",
+            "middleinitial": "",
+            "lastname": "Mortuza",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255155,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255156": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Clay",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255156,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255157": {
+            "firstname": "Luca",
+            "middleinitial": "",
+            "lastname": "Piantanida",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255157,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255158": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Green",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255158,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255159": {
+            "firstname": "Chad",
+            "middleinitial": "",
+            "lastname": "Watson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255159,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255160": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Hayden",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255160,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255161": {
+            "firstname": "Wan",
+            "middleinitial": "",
+            "lastname": "Kuang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255161,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255162": {
+            "firstname": "Elton",
+            "middleinitial": "",
+            "lastname": "Graugnard",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255162,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255163": {
+            "firstname": "Reza",
+            "middleinitial": "",
+            "lastname": "Zadegan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255163,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255164": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Hughes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255164,
+            "scholarlyactivityid": 54400,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54400,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54400,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111669907",
+    "attachments": []
+}

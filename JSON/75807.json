@@ -1,0 +1,71 @@
+{
+    "activityid": 75807,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Open Source Cyber-Physical System Simulation for City Water Systems",
+        "Conference / Meeting Name": "Idaho Conference on Undergraduate Research",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;The integration of network-connected computers into municipal water systems has allowed for the development of more efficient systems at the price of new significant vulnerabilities to cyber-physical attacks. Building upon existing work done by Sean O\u2019Toole, this research analyzes the capabilities of the Water Network Tool for Resilience + Cyber-Physical Systems (WNTR+CPS) framework. It additionally explores the possibility of extending the framework to include hardware-in-the-loop functionality. The primary objectives include comparing WNTR+CPS simulations against real-world operational scenarios and implementing initial hardware-in-the-loop (HIL) capabilities to evaluate the interaction between simulation models and physical devices. By leveraging HIL and datasets from physical testing, this research aims to begin bridging the gap between theoretical simulations and practical implementation, thereby enhancing the reliability and accuracy of predictive modeling in cybersecurity assessments of this critical infrastructure. The significance of this research lies in its potential to enhance the resilience of urban water systems against emerging cyber threats. By simulating cyber-physical attacks within a controlled environment, cities can proactively identify vulnerabilities, optimize response strategies, and fortify critical infrastructure against potential disruptions. This approach mitigates operational risks and minimizes the potential impact on public health, safety, and economic stability.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114068806",
+    "coauthors": {
+        "336725": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114068806",
+            "authorid": 336725,
+            "scholarlyactivityid": 75807,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336726": {
+            "firstname": "Oliver",
+            "middleinitial": "",
+            "lastname": "MacDonald",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336726,
+            "scholarlyactivityid": 75807,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "336727": {
+            "firstname": "Sean",
+            "middleinitial": "",
+            "lastname": "O'Toole",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336727,
+            "scholarlyactivityid": 75807,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75807,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114068806",
+    "attachments": []
+}

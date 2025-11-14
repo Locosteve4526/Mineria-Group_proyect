@@ -1,0 +1,80 @@
+{
+    "activityid": 9904,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Data-Driven Instruction Cycle: A Model for Professional Development",
+        "Conference/Meeting Name": "Hawaii International Conference on Education",
+        "Conference Location": "",
+        "Date or Date Range": "2013-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643697",
+    "coauthors": {
+        "91480": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Kinzel",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643697",
+            "authorid": 91480,
+            "scholarlyactivityid": 9904
+        },
+        "91481": {
+            "firstname": "Sasha",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113118296",
+            "authorid": 91481,
+            "scholarlyactivityid": 9904
+        },
+        "91482": {
+            "firstname": "Laurie",
+            "middleinitial": "O",
+            "lastname": "Cavey",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113017246",
+            "authorid": 91482,
+            "scholarlyactivityid": 9904
+        }
+    },
+    "status": [
+        {
+            "id": 9904,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9904,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 9904,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643697",
+    "attachments": []
+}

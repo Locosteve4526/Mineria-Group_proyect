@@ -1,0 +1,57 @@
+{
+    "activityid": 33575,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "U.S. Construction Management Students Comfort Level With and Knowledge of Mobile Technologies",
+        "Name of Conference": "2015 ASEE Annual Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112401",
+    "coauthors": {
+        "132689": {
+            "firstname": "R",
+            "middleinitial": "Casey",
+            "lastname": "Cline",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111112401",
+            "authorid": 132689,
+            "scholarlyactivityid": 33575
+        },
+        "132690": {
+            "firstname": "Kirsten",
+            "middleinitial": "A",
+            "lastname": "Davis",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112103256",
+            "authorid": 132690,
+            "scholarlyactivityid": 33575
+        }
+    },
+    "status": [
+        {
+            "id": 33575,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112401",
+    "attachments": []
+}

@@ -1,0 +1,66 @@
+{
+    "activityid": 6662,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Finite-Difference and Pseudo-Sprectral Methods for the Numerical Simulations of In Vitro Human Tumor Cell Population Kinetics",
+        "Journal": "Mathematical Biosciences and Engineering",
+        "Volume": "6",
+        "Month / Season": "2009-06-01",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "561-572",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.3934/mbe.2009.6.561",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/5",
+        "Description/Abstract": "Pseudo-spectral approximations are constructed for the model equations which describe the population kinetics of human tumor cells in vitro and their responses to radiotherapy or chemotherapy. These approximations are more efficient than finite-difference approximations. The spectral accuracy of the pseudo-spectral method allows us to resolve the model with a much smaller number of spatial grid-points than required for the finite-difference method to achieve comparable accuracy. This is demonstrated by numerical experiments which show a good agreement between predicted and experimental data.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20748": {
+            "firstname": "Z.",
+            "middleinitial": "",
+            "lastname": "Jackiewicz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20748,
+            "scholarlyactivityid": 6662
+        },
+        "20749": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20749,
+            "scholarlyactivityid": 6662
+        },
+        "20750": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Basse",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20750,
+            "scholarlyactivityid": 6662
+        }
+    },
+    "status": [
+        {
+            "id": 6662,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

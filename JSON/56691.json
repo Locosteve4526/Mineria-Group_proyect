@@ -1,0 +1,84 @@
+{
+    "activityid": 56691,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Chi-Square Type Test for Time-Invariant Fiber Pathways of the Brain",
+        "Journal": "Statistical Inference for Stochastic Processes",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114202590",
+    "coauthors": {
+        "289996": {
+            "firstname": "Juna",
+            "middleinitial": "",
+            "lastname": "Goo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114202590",
+            "authorid": 289996,
+            "scholarlyactivityid": 56691,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "289997": {
+            "firstname": "Lyudmila",
+            "middleinitial": "",
+            "lastname": "Sakhanenko",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 289997,
+            "scholarlyactivityid": 56691,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "289998": {
+            "firstname": "David",
+            "middleinitial": "C.",
+            "lastname": "Zhu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 289998,
+            "scholarlyactivityid": 56691,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 56691,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 56691,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114202590",
+    "attachments": []
+}

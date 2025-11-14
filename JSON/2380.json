@@ -1,0 +1,76 @@
+{
+    "activityid": 2380,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Exploring and addressing faculty-to-faculty incivility: A national perspective and literature review",
+        "Journal": "Journal of Nursing Education",
+        "Volume": "52",
+        "Month / Season": "2013-04-30",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "211-218",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110314",
+    "coauthors": {
+        "6345": {
+            "firstname": "Cynthia",
+            "middleinitial": "M",
+            "lastname": "Clark",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110314",
+            "authorid": 6345,
+            "scholarlyactivityid": 2380
+        },
+        "6346": {
+            "firstname": "Lynda",
+            "middleinitial": "",
+            "lastname": "Olender",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6346,
+            "scholarlyactivityid": 2380
+        },
+        "6347": {
+            "firstname": "Diane",
+            "middleinitial": "",
+            "lastname": "Kenski",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6347,
+            "scholarlyactivityid": 2380
+        },
+        "6348": {
+            "firstname": "Cari ",
+            "middleinitial": "",
+            "lastname": "Cardoni",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6348,
+            "scholarlyactivityid": 2380
+        }
+    },
+    "status": [
+        {
+            "id": 2380,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110314",
+    "attachments": []
+}

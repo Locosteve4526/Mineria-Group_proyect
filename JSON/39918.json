@@ -1,0 +1,56 @@
+{
+    "activityid": 39918,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Measuring transcription dynamics in living cells using fluctuation analysis",
+        "Journal": "Methods in molecular biology (Clifton, N.J.)",
+        "Volume": "1042",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "47-60",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Single-cell studies of gene regulation suggest that transcription dynamics play a fundamental role in determining expression heterogeneity within a population. In addition, the three-dimensional organization of the nucleus seems to both reflect and influence expression patterns in the cell. Therefore, to gain a holistic understanding of transcriptional regulation, it is necessary to develop methods for studying transcription of single genes in living cells with high spatial and temporal resolution. In this chapter, we describe a recently developed approach for visualizing and quantifying pre-mRNA synthesis at a single active gene in the nucleus. The approach is based on the high-affinity interaction between MS2/PP7 bacteriophage coat proteins and RNA hairpins which are transcribed by the gene of interest. The MS2/PP7 coat protein is fused to a fluorescent protein and binds the nascent mRNA, allowing for detection of single transcription events in the fluorescence microscope. By time-lapse fluorescence imaging and quantitative image analysis, one can generate a time trace of fluorescence intensity at the site of transcription. By temporal autocorrelation analysis, one can determine enzymatic activities of RNAP such as initiation rate and elongation rate. In this protocol, we summarize the experimental concept, design, and execution for real-time observation of transcription in living cells.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114002276",
+    "coauthors": {
+        "172967": {
+            "firstname": "Matthew ",
+            "middleinitial": "L",
+            "lastname": "Ferguson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 172967,
+            "scholarlyactivityid": 39918
+        },
+        "172968": {
+            "firstname": "Daniel ",
+            "middleinitial": "R",
+            "lastname": "Larson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 172968,
+            "scholarlyactivityid": 39918
+        }
+    },
+    "status": [
+        {
+            "id": 39918,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002276",
+    "attachments": []
+}

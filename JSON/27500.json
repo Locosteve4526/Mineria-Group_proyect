@@ -1,0 +1,55 @@
+{
+    "activityid": 27500,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Neurobiology of Criminal Behavior: Gene-Brain-Culture Interaction",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Ashgate",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Ashgate",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/301",
+        "Description/Abstract": "Explores criminal behaviour from various aspects of Tinbergen's Four Questions. This book examines the neurobiology of crime from a biosocial perspective. It suggests that it is necessary to understand some genetics and neuroscience in order to appreciate and apply relevant concepts to criminological issues.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "87097": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 87097,
+            "scholarlyactivityid": 27500
+        },
+        "87098": {
+            "firstname": "Jonathan",
+            "middleinitial": "D.",
+            "lastname": "Bolen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87098,
+            "scholarlyactivityid": 27500
+        }
+    },
+    "status": [
+        {
+            "id": 27500,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

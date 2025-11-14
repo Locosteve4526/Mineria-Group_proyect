@@ -1,0 +1,101 @@
+{
+    "activityid": 52852,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "A338631\t\tNumber of Context-Directed Swaps (CDS) contexts in the maximum strategic pile case.",
+        "Outlet (if applicable)": "Online Encyclopedia of Integer Sequences",
+        "Date": "Nov 04 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Publisher": "Online Encyclopedia of Integer Sequences",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://oeis.org/A338631",
+        "Description/Abstract": "Context-Directed Swaps or CDS denotes an operation on permutations, and there can be several ways to apply it to a given permutation, defined by distinct contexts. Permutations that have the maximum strategic pile (cf. A267323) are of special interest. a(n) is the number of distinct CDS contexts that a permutation with maximum strategic pile in S_{2n} can have. The number is the same for for S_{2n} and S_{2n+1}.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "245806": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 245806,
+            "scholarlyactivityid": 52852
+        },
+        "245807": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Rogge",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245807,
+            "scholarlyactivityid": 52852,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "245808": {
+            "firstname": "Rushil",
+            "middleinitial": "",
+            "lastname": "Raghavan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245808,
+            "scholarlyactivityid": 52852,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "245809": {
+            "firstname": "Angelina",
+            "middleinitial": "",
+            "lastname": "Mitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245809,
+            "scholarlyactivityid": 52852,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "245810": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245810,
+            "scholarlyactivityid": 52852,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52852,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

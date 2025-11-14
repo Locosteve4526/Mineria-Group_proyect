@@ -1,0 +1,81 @@
+{
+    "activityid": 69676,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Development and Application of a Standstill Parameter Identification Technique for the Synchronous Generator",
+        "Journal": "International Journal of Electrical Power &amp; Energy Systems",
+        "Volume": "81",
+        "Month / Season": "October",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "222-231",
+        "Publisher": "",
+        "DOI": "10.1016/j.ijepes.2016.02.030",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.sciencedirect.com/science/article/pii/S0142061515301356",
+        "Description/Abstract": "This work presents the development of an offline standstill estimation technique, where the synchronous machine is locked at an arbitrary (but known) angle and is excited over a short period of time. The proposedctime domain method requires few seconds of captured data in contrast to the well-known standard Standstill Frequency Response (SSFR) technique that could take more than 6 h to conduct. This is based on nonlinear least squares estimation and algebraic elimination theory. The resulting algorithm is non-iterative where the data is used to construct polynomials that are solved for a finite number of roots which determine the electrical parameter values. Experimental results are presented showing the efficacy of the technique in furnishing the parameters of a salient pole synchronous machine.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112103235",
+    "coauthors": {
+        "315140": {
+            "firstname": "Ahmed",
+            "middleinitial": "M",
+            "lastname": "Oteafy",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 315140,
+            "scholarlyactivityid": 69676
+        },
+        "315139": {
+            "firstname": "John",
+            "middleinitial": "N",
+            "lastname": "Chiasson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112103235",
+            "authorid": 315139,
+            "scholarlyactivityid": 69676
+        },
+        "315138": {
+            "firstname": "Said",
+            "middleinitial": "",
+            "lastname": "Ahmed-Zaid",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110301",
+            "authorid": 315138,
+            "scholarlyactivityid": 69676
+        }
+    },
+    "status": [
+        {
+            "id": 69676,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103235",
+    "attachments": [
+        {
+            "attachmentid": 50727,
+            "mimetype": "custom/url",
+            "filename": "https://www.sciencedirect.com/science/article/pii/S0142061515301356",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeUhJRXRBWEhMK1htWG1OOThCNlhFQ2JWZ25SSVh4WWozYklqdklyb3JwQlVNdmpGWUF5WVJudlFhckYyT0N0bVBvNGlHcm5PVkd2eWlLUTQvYzNYdmdxdWNUUTg3Q2VmNkdJUC9QczdLRWc4ZFpReE9KTVU1V2cvL0FGT3ZJUytPR2ppN0RDclYyMTBoN1dBVW94Y2xsZz09",
+            "filesize": 375116
+        },
+        {
+            "attachmentid": 50728,
+            "mimetype": "application/pdf",
+            "filename": "1-s2.0-S0142061515301356-main.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeUhJRXRBWEhMK1hsc0pERXlLUlRyNVhDSHU2MFJsbnZLVlRwVUlmdjBQanlJMWNhS3BBVEtnOTltam1hdVBHbUI2OS92eThpc2t3a2pZeHo4dGVqaXJ3PT0%3D",
+            "filesize": 1446109
+        }
+    ]
+}

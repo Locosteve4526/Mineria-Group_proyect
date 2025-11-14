@@ -1,0 +1,76 @@
+{
+    "activityid": 45543,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "ICDAR 2019 Time-Quality Binarization Competition",
+        "Name of Conference": "International Conference on Document Analysis and Recognition (ICDAR 2019)",
+        "Month / Season": "September 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "207488": {
+            "firstname": "Rafael Dueire",
+            "middleinitial": "",
+            "lastname": "Lins",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207488,
+            "scholarlyactivityid": 45543,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "207489": {
+            "firstname": "Ergina",
+            "middleinitial": "",
+            "lastname": "Kavallieratou",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207489,
+            "scholarlyactivityid": 45543,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "207490": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 207490,
+            "scholarlyactivityid": 45543,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45543,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

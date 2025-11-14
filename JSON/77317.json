@@ -1,0 +1,97 @@
+{
+    "activityid": 77317,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:9pt;&quot;&gt;The effects of the United States parental leave policy on health and economy: A systematic review&lt;/span&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;.&lt;/span&gt;",
+        "Journal": "Journal of Child and Family Studies",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111323598",
+    "coauthors": {
+        "345624": {
+            "firstname": "Hilary",
+            "middleinitial": "E",
+            "lastname": "Swann-Thomson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345624,
+            "scholarlyactivityid": 77317,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345625": {
+            "firstname": "Ryoko",
+            "middleinitial": "",
+            "lastname": "Kausler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345625,
+            "scholarlyactivityid": 77317,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345626": {
+            "firstname": "Megan",
+            "middleinitial": "",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111323598",
+            "authorid": 345626,
+            "scholarlyactivityid": 77317,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345627": {
+            "firstname": "Nadia",
+            "middleinitial": "",
+            "lastname": "Dillion",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345627,
+            "scholarlyactivityid": 77317,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77317,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 77317,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111323598",
+    "attachments": []
+}

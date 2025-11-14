@@ -1,0 +1,62 @@
+{
+    "activityid": 45641,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A bound for the Waring rank of the determinant via syzygies",
+        "Journal": "Linear Algebra and Its Applications",
+        "Volume": "587",
+        "Month / Season": "February",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "195-214",
+        "Publisher": "Elsevier",
+        "DOI": "10.1016/j.laa.2019.11.007",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1016/j.laa.2019.11.007",
+        "Description/Abstract": "We show that the Waring rank of the $3 \\times 3$ determinant, previously\nknown to be between $14$ and $18$, is at least $15$. We use syzygies of the\napolar ideal, which have not been used in this way before. Additionally, we\nshow that the cactus rank of the $3 \\times 3$ permanent is at least $14$.\n[Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "113078387",
+    "coauthors": {
+        "209316": {
+            "firstname": "Mats",
+            "middleinitial": "",
+            "lastname": "Boij",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209316,
+            "scholarlyactivityid": 45641,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "209317": {
+            "firstname": "Zachariah",
+            "middleinitial": "",
+            "lastname": "Teitler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113078387",
+            "authorid": 209317,
+            "scholarlyactivityid": 45641,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45641,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113078387",
+    "attachments": []
+}

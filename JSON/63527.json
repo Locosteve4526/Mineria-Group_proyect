@@ -1,0 +1,63 @@
+{
+    "activityid": 63527,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Burrowing owls are widespread in the NCA but productivity is alarmingly low",
+        "Name of Conference": "FOURTH ASSEMBLY OF THE MORLEY NELSON SNAKE RIVER BIRDS OF PREY NATIONAL CONSERVATION AREA SYMPOSIUM",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "292735": {
+            "firstname": "Brent",
+            "middleinitial": "",
+            "lastname": "Clark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 292735,
+            "scholarlyactivityid": 63527,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "292736": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 292736,
+            "scholarlyactivityid": 63527,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63527,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

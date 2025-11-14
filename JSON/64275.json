@@ -1,0 +1,63 @@
+{
+    "activityid": 64275,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;color:#333333;font-size:13.6px;&quot;&gt;Real-time Bitstream Decompression Scheme for FPGAs Reconfiguration&lt;/span&gt;",
+        "Name of Conference": "2018 IEEE 61st International Midwest Symposium on Circuits and Systems (MWSCAS)",
+        "Month / Season": "August/2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "1082-1085",
+        "Publisher": "IEEE",
+        "Publisher Location": "Windsor, ON, Canada",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1109/MWSCAS.2018.8624003",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "296669": {
+            "firstname": "Fady",
+            "middleinitial": "",
+            "lastname": "Hussein",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296669,
+            "scholarlyactivityid": 64275,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296670": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 296670,
+            "scholarlyactivityid": 64275,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64275,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

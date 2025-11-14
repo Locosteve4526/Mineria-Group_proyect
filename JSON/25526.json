@@ -1,0 +1,57 @@
+{
+    "activityid": 25526,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Refinement of Michener's Example Classification",
+        "Name of Conference": "",
+        "Month / Season": "2015-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "East Lansing, MI ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "978-0-692-54039-8",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643697",
+    "coauthors": {
+        "82832": {
+            "firstname": "Laurie",
+            "middleinitial": "O",
+            "lastname": "Cavey",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113017246",
+            "authorid": 82832,
+            "scholarlyactivityid": 25526
+        },
+        "82833": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Kinzel",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643697",
+            "authorid": 82833,
+            "scholarlyactivityid": 25526
+        }
+    },
+    "status": [
+        {
+            "id": 25526,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643697",
+    "attachments": []
+}

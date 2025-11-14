@@ -1,0 +1,73 @@
+{
+    "activityid": 68694,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Hedonics",
+        "Book Title": "Encyclopedia of Energy, Natural Resource, and Environmental Economics",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Edition": "2nd",
+        "Volume": "",
+        "Publisher": "Elsevier",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114107294",
+    "coauthors": {
+        "309382": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Parton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114107294",
+            "authorid": 309382,
+            "scholarlyactivityid": 68694,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "309383": {
+            "firstname": "Laura",
+            "middleinitial": "O",
+            "lastname": "Taylor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 309383,
+            "scholarlyactivityid": 68694,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68694,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 68694,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "114107294",
+    "attachments": []
+}

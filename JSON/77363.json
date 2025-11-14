@@ -1,0 +1,62 @@
+{
+    "activityid": 77363,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Intergovernmental Relations and the Reducing Gridlock, Saving You Time Act: Data and Discussion&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114275327",
+    "coauthors": {
+        "345862": {
+            "firstname": "Alexandra",
+            "middleinitial": "",
+            "lastname": "Artiles",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114275327",
+            "authorid": 345862,
+            "scholarlyactivityid": 77363,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345863": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Wallner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345863,
+            "scholarlyactivityid": 77363,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77363,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114275327",
+    "attachments": []
+}

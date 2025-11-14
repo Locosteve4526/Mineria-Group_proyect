@@ -1,0 +1,58 @@
+{
+    "activityid": 61576,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Predicting Future Sales: A Quantitative Sales\u00a0Forecasting Case",
+        "Conference/Meeting Name": "MBAA International Annual Conference",
+        "Conference Location": "Chicago",
+        "Date or Date Range": "3/22/23-3/24/23",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "MBAA International",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "285234": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 285234,
+            "scholarlyactivityid": 61576,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "285235": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "Bergner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 285235,
+            "scholarlyactivityid": 61576,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61576,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

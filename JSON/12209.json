@@ -1,0 +1,42 @@
+{
+    "activityid": 12209,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Profiling the impaired nurse in Idaho",
+        "Conference/Meeting Name": "Idaho Nurses Association Annual Convention",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2000-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110314",
+    "coauthors": {
+        "56100": {
+            "firstname": "Cynthia",
+            "middleinitial": "M",
+            "lastname": "Clark",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110314",
+            "authorid": 56100,
+            "scholarlyactivityid": 12209
+        }
+    },
+    "status": [
+        {
+            "id": 12209,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110314",
+    "attachments": []
+}

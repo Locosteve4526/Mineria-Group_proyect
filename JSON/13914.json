@@ -1,0 +1,52 @@
+{
+    "activityid": 13914,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Problem is the THING",
+        "Conference/Meeting Name": "Idaho Middle Level Association State Conference",
+        "Conference Location": "Eagle Middle School",
+        "Date or Date Range": "2015-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Idaho Middle Level Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111308555",
+    "coauthors": {
+        "60458": {
+            "firstname": "Serena",
+            "middleinitial": "",
+            "lastname": "Hicks",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111308555",
+            "authorid": 60458,
+            "scholarlyactivityid": 13914
+        },
+        "60459": {
+            "firstname": "Micah",
+            "middleinitial": "",
+            "lastname": "Lauer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 60459,
+            "scholarlyactivityid": 13914
+        }
+    },
+    "status": [
+        {
+            "id": 13914,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111308555",
+    "attachments": []
+}

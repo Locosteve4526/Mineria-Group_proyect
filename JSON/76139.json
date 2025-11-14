@@ -1,0 +1,101 @@
+{
+    "activityid": 76139,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Disentangling Taxonomic Complexity in the Native Range: Morphological and Genetic Differentiation Among Subspecies of Taeniatherum caput-medusae&lt;/span&gt;",
+        "Journal": "Agronomy",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "338424": {
+            "firstname": "Morgan",
+            "middleinitial": "",
+            "lastname": "Hinkle",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338424,
+            "scholarlyactivityid": 76139,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "338425": {
+            "firstname": "Rene",
+            "middleinitial": "F. H.",
+            "lastname": "Sforza",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338425,
+            "scholarlyactivityid": 76139,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338426": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 338426,
+            "scholarlyactivityid": 76139,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338427": {
+            "firstname": "Marcelo",
+            "middleinitial": "H",
+            "lastname": "Serpe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111116958",
+            "authorid": 338427,
+            "scholarlyactivityid": 76139,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338428": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 338428,
+            "scholarlyactivityid": 76139,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76139,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

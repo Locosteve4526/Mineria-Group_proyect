@@ -1,0 +1,101 @@
+{
+    "activityid": 38685,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "SafePath: Differentially-Private Publishing of Passenger Trajectories in Transportation Systems",
+        "Journal": "Computer Networks (COMNET) Journal, Elsevier",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "In recent years, the collection of spatio-temporal data that captures human movements has increased tremendously due to the advancements in hardware and software systems capable of collecting person-specific data. The bulk of the data collected by these systems has numerous applications, or it can simply be used for general data analysis. Therefore, publishing such big data is greatly beneficial for data recipients. However, in its raw form, the collected data contains sensitive information pertaining to the individuals from which it was collected and must be anonymized before publication. In this paper, we study the problem of privacy-preserving passenger trajectories publishing and propose a solution under the rigorous differential privacy model. Unlike sequential data, which describes sequentiality between data items, handling spatio-temporal data is a challenging task due to the fact that introducing a temporal dimension results in extreme sparseness. Our proposed solution introduces an efficient algorithm, called SafePath, that models trajectories as a noisy prefix tree and publishes \u03f5-differentially-private trajectories while minimizing the impact on data utility. Experimental evaluation on real-life transit data in Montreal suggests that SafePath significantly improves efficiency and scalability with respect to large and sparse datasets, while achieving comparable results to existing solutions in terms of the utility of the sanitized data.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "195916": {
+            "firstname": "Gaby",
+            "middleinitial": "G.",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 195916,
+            "scholarlyactivityid": 38685,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195917": {
+            "firstname": "Khalil",
+            "middleinitial": "",
+            "lastname": "Al-Hussaeni",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195917,
+            "scholarlyactivityid": 38685,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195918": {
+            "firstname": "Benjamin",
+            "middleinitial": "C. M.",
+            "lastname": "Fung",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195918,
+            "scholarlyactivityid": 38685,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195919": {
+            "firstname": "Farkhund",
+            "middleinitial": "",
+            "lastname": "Iqbal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195919,
+            "scholarlyactivityid": 38685,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195920": {
+            "firstname": "Eun",
+            "middleinitial": "",
+            "lastname": "Park",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195920,
+            "scholarlyactivityid": 38685,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 38685,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

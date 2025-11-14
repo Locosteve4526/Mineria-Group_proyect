@@ -1,0 +1,71 @@
+{
+    "activityid": 52990,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "A stochastic method to estimate hydraulic properties of unsaturated soils from streaming potential measurements",
+        "Conference / Meeting Name": "American Geophysical Union Fall meeting",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Hydraulic properties of unsaturated soils (e.g., water retention curves and hydraulic conductivity function) are important parameters affecting many hydrological, geological and biological processes in the subsurface such as water infiltration, subsurface contaminant transport, rainfall-induced landslides, plant water update, and bioremediation of contaminated soils. In the last two decades, geophysical methods have been widely used in characterizing unsaturated soils. In particular, streaming potential has been proven to be effective in monitoring subsurface water flows due to the direct coupling between water flow and electrical potentials (i.e., electrokinetic phenomena) in porous media.\nIn this study, a stochastic method is developed to infer hydraulic properties of unsaturated soils from water content, matric suction, and self-potential measurements. In forward modelling, the 1D Richards\u2019 equation is solved using the finite volume method to simulate unsaturated water flows in the subsurface. The electrical potential distribution due to streaming current is numerically determined by solving the Laplace equation. For the inversion, the Markov Chain Monte Carlo method is adopted to determine the posterior distributions of the parameters characterizing water retention curves, hydraulic conductivity function, and streaming potential properties given the measured streaming potential and soil moisture (suction) data.\n\nThe developed algorithm was tested with a synthetic water infiltration experiment. The results show that both hydraulic and geophysical parameters of the soil can be reasonably inferred from streaming potential and soil moisture (suction) data with this method. Thus, this work provides a useful tool for interpreting lab-based unsaturated soil tests and field monitoring data.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112754",
+    "coauthors": {
+        "246756": {
+            "firstname": "Jing",
+            "middleinitial": "",
+            "lastname": "Xie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246756,
+            "scholarlyactivityid": 52990,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "246757": {
+            "firstname": "Yian",
+            "middleinitial": "",
+            "lastname": "Cui",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246757,
+            "scholarlyactivityid": 52990,
+            "classifications": {
+                "Role": "Discussant"
+            }
+        },
+        "246758": {
+            "firstname": "Qifei",
+            "middleinitial": "",
+            "lastname": "Niu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112754",
+            "authorid": 246758,
+            "scholarlyactivityid": 52990,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52990,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112754",
+    "attachments": []
+}

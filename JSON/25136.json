@@ -1,0 +1,57 @@
+{
+    "activityid": 25136,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Developing a Customized Data Mining Model for Online Professional Development Evaluation",
+        "Name of Conference": "",
+        "Month / Season": "2011-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "New Orleans, LA United States of America",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "82023": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 82023,
+            "scholarlyactivityid": 25136
+        },
+        "82024": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 82024,
+            "scholarlyactivityid": 25136
+        }
+    },
+    "status": [
+        {
+            "id": 25136,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

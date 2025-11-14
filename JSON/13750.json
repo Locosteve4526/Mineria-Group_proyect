@@ -1,0 +1,52 @@
+{
+    "activityid": 13750,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "3D GameLab: Innovative Learning",
+        "Conference/Meeting Name": "Innovation Incubator at the Educational Technology Industry Summit",
+        "Conference Location": "San Fransisco",
+        "Date or Date Range": "2012-05-06",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "SIIA",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111114223",
+    "coauthors": {
+        "60079": {
+            "firstname": "Charles",
+            "middleinitial": "Christopher",
+            "lastname": "Haskell",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111114223",
+            "authorid": 60079,
+            "scholarlyactivityid": 13750
+        },
+        "60080": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Dawley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111706101",
+            "authorid": 60080,
+            "scholarlyactivityid": 13750
+        }
+    },
+    "status": [
+        {
+            "id": 13750,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111114223",
+    "attachments": []
+}

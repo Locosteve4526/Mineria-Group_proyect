@@ -1,0 +1,84 @@
+{
+    "activityid": 37802,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The psychometric properties of the implicit curriculum survey.",
+        "Journal": "Journal of Social Work Education.",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113158701",
+    "coauthors": {
+        "195005": {
+            "firstname": "Melissa",
+            "middleinitial": "M",
+            "lastname": "Grady",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195005,
+            "scholarlyactivityid": 37802,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195006": {
+            "firstname": "Danielle",
+            "middleinitial": "C",
+            "lastname": "Swick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195006,
+            "scholarlyactivityid": 37802,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195007": {
+            "firstname": "Joelle",
+            "middleinitial": "",
+            "lastname": "Powers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113158701",
+            "authorid": 195007,
+            "scholarlyactivityid": 37802,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37802,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 37802,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113158701",
+    "attachments": []
+}

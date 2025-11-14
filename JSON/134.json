@@ -1,0 +1,71 @@
+{
+    "activityid": 134,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Audit Accounting Data Using Excel Pivot Tables: An Aging of Accounts Receivable Example",
+        "Journal": "ISACA Journal",
+        "Volume": "1",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "43-48",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "117461": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 117461,
+            "scholarlyactivityid": 134,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "117462": {
+            "firstname": "Mak",
+            "middleinitial": "G",
+            "lastname": "Simkin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 117462,
+            "scholarlyactivityid": 134,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 134,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 134,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

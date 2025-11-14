@@ -1,0 +1,85 @@
+{
+    "activityid": 61364,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The Ambivalent Potential of IT Identity: Me, Not-Me, and Conflicted Me in a Digital World",
+        "Name of Conference": "Proceedings of the Twenty-third DIGIT Workshop",
+        "Month / Season": "Dec",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "308419": {
+            "firstname": "Michelle",
+            "middleinitial": "",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308419,
+            "scholarlyactivityid": 61364,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "308420": {
+            "firstname": "Deborah",
+            "middleinitial": "",
+            "lastname": "Compeau",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308420,
+            "scholarlyactivityid": 61364,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "308421": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 308421,
+            "scholarlyactivityid": 61364,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61364,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61364,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

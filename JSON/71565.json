@@ -1,0 +1,89 @@
+{
+    "activityid": 71565,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "PRISM: A Blockchain-Enabled Reputation-Based Consensus for Enhancing Scientific Workflow",
+        "Name of Conference": "",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "325763": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325763,
+            "scholarlyactivityid": 71565,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325764": {
+            "firstname": "Skarlet",
+            "middleinitial": "",
+            "lastname": "Williams",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325764,
+            "scholarlyactivityid": 71565,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325765": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 325765,
+            "scholarlyactivityid": 71565,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325766": {
+            "firstname": "Min",
+            "middleinitial": "",
+            "lastname": "Long",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114011333",
+            "authorid": 325766,
+            "scholarlyactivityid": 71565,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71565,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

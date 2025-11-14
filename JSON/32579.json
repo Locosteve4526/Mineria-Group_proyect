@@ -1,0 +1,56 @@
+{
+    "activityid": 32579,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Estimating total knee replacement joint load ratios from kinematics",
+        "Journal": "Journal of biomechanics",
+        "Volume": "47",
+        "Month / Season": null,
+        "Issue Number": "12",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "3003-11",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Accurate prediction of loads acting at the joint in total knee replacement (TKR) patients is key to developing experimental or computational simulations which evaluate implant designs under physiological loading conditions. In vivo joint loads have been measured for a small number of telemetric TKR patients, but in order to assess device performance across the entire patient population, a larger patient cohort is necessary. This study investigates the accuracy of predicting joint loads from joint kinematics. Specifically, the objective of the study was to assess the accuracy of internal-external (I-E) and anterior-posterior (A-P) joint load predictions from I-E and A-P motions under a given compressive load, and to evaluate the repeatability of joint load ratios (I-E torque to compressive force (I-E:C), and A-P force to compressive force (A-P:C)) for a range of compressive loading profiles. A tibiofemoral finite element model was developed and used to simulate deep knee bend, chair-rise and step-up activities for five patients. Root-mean-square (RMS) differences in I-E:C and A-P:C load ratios between telemetric measurements and model predictions were less than 1.10e-3 Nm/N and 0.035 N/N for all activities. I-E:C and A-P:C load ratios were consistently reproduced regardless of the compressive force profile applied (RMS differences less than 0.53e-3 Nm/N and 0.010 N/N, respectively). When error in kinematic measurement was introduced to the model, joint load predictions were forgiving to kinematic measurement error when conformity between femoral and tibial components was low. The prevalence of kinematic data, in conjunction with the analysis presented here, facilitates determining the scope of A-P and I-E joint loading ratios experienced by the TKR population.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "125665": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125665,
+            "scholarlyactivityid": 32579
+        },
+        "125666": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125666,
+            "scholarlyactivityid": 32579
+        }
+    },
+    "status": [
+        {
+            "id": 32579,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

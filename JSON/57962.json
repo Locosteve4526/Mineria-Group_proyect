@@ -1,0 +1,42 @@
+{
+    "activityid": 57962,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Meet a Professor",
+        "Conference/Meeting Name": "Idaho Conference for Undergraduate Research (ICUR)",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114063271",
+    "coauthors": {
+        "268966": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114063271",
+            "authorid": 268966,
+            "scholarlyactivityid": 57962
+        }
+    },
+    "status": [
+        {
+            "id": 57962,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114063271",
+    "attachments": []
+}

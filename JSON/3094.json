@@ -1,0 +1,56 @@
+{
+    "activityid": 3094,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Development of the Adolescent Support Model",
+        "Journal": "Journal of Theory Construction and Testing",
+        "Volume": "15",
+        "Month / Season": "2011-03-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "24-28",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113084128",
+    "coauthors": {
+        "8803": {
+            "firstname": "Donna",
+            "middleinitial": "J.",
+            "lastname": "Sauls",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 8803,
+            "scholarlyactivityid": 3094
+        },
+        "8804": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Grassley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113084128",
+            "authorid": 8804,
+            "scholarlyactivityid": 3094
+        }
+    },
+    "status": [
+        {
+            "id": 3094,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113084128",
+    "attachments": []
+}

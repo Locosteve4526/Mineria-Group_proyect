@@ -1,0 +1,63 @@
+{
+    "activityid": 37809,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Recommendations for successfully establishing university-school partnerships and evaluating school-based mental health programs. ",
+        "Name of Conference": "Advancing School Mental Health",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113158701",
+    "coauthors": {
+        "157499": {
+            "firstname": "Danielle",
+            "middleinitial": "C",
+            "lastname": "Swick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 157499,
+            "scholarlyactivityid": 37809,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "157500": {
+            "firstname": "Joelle",
+            "middleinitial": "",
+            "lastname": "Powers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113158701",
+            "authorid": 157500,
+            "scholarlyactivityid": 37809,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37809,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113158701",
+    "attachments": []
+}

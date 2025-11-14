@@ -1,0 +1,53 @@
+{
+    "activityid": 7602,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "In Translation",
+        "Name of Performing Group": "",
+        "Date or Date Range": "2014-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Name of Venue/Sponsor": "Student Union Art Gallery BSU Arts and Humanities Institute, English Dept, Art Dept",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, ID",
+        "Co-contributor": null,
+        "Web address": "http://mmmintranslation.com",
+        "Description/Abstract": "Photographer Maria V. Garth and I collaborated on an exhibition of translated poetry and original photographers inspired by the work of Catalan poet Maria-Merce Marcal.",
+        "Web Address": "http://mmmintranslation.com",
+        "Origin": "Other"
+    },
+    "facultyid": "113070031",
+    "coauthors": {
+        "22499": {
+            "firstname": "Clyde",
+            "middleinitial": "Andrew",
+            "lastname": "Moneyhun",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113070031",
+            "authorid": 22499,
+            "scholarlyactivityid": 7602
+        },
+        "22500": {
+            "firstname": "Maria",
+            "middleinitial": "V",
+            "lastname": "Barth",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 22500,
+            "scholarlyactivityid": 7602
+        }
+    },
+    "status": [
+        {
+            "id": 7602,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113070031",
+    "attachments": []
+}

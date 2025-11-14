@@ -1,0 +1,49 @@
+{
+    "activityid": 27957,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Analyses on the finite difference method by Gibou et al. for Poisson equation.",
+        "Outlet (if applicable)": "",
+        "Date": "2015-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Publisher": " J. Comput. Phys.",
+        "Location of Publisher (City, State, Country)": " ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "\u201cGibou et al. in [4] introduced a finite difference method for solving the Poisson equation in irregular domains with the Dirichlet boundary condition. Contrary to its great importance, its properties have not been mathematically analyzed, but have just been numerically observed. In this article, we present two analyses for the method. One proves that its solution is second order accurate, and the other estimates the condition number of its linear system. According to our estimation, the condition number of the unpreconditioned linear system is of size O(1/(h \u00b7 hmin)), and each of Jacobi, SGS, and ILU preconditioned systems is of size O(h?2). Furthermore, our analysis shows that the condition number of MILU is of size O(h?1), the most successful one.\u201d\nExplanation of Other:  Mathematical Reviews",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "87977": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 87977,
+            "scholarlyactivityid": 27957
+        }
+    },
+    "status": [
+        {
+            "id": 27957,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

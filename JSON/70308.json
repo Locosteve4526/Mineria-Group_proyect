@@ -1,0 +1,65 @@
+{
+    "activityid": 70308,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Does Priming Hinder or Engender Creative Ideation?",
+        "Journal": "Working Paper",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114252156",
+    "coauthors": {
+        "341795": {
+            "firstname": "Andrew",
+            "middleinitial": "M",
+            "lastname": "Smyth",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114252156",
+            "authorid": 341795,
+            "scholarlyactivityid": 70308
+        },
+        "341796": {
+            "firstname": "Cortney",
+            "middleinitial": "S",
+            "lastname": "Rodet",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341796,
+            "scholarlyactivityid": 70308
+        }
+    },
+    "status": [
+        {
+            "id": 70308,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70308,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114252156",
+    "attachments": []
+}

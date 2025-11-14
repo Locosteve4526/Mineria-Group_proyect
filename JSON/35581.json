@@ -1,0 +1,62 @@
+{
+    "activityid": 35581,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Is PowerPoint evil?",
+        "Conference/Meeting Name": "Paper presented at the 10th annual meeting of Teaching with Technology",
+        "Conference Location": "Boulder, CO",
+        "Date or Date Range": "2005, June",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "146201": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 146201,
+            "scholarlyactivityid": 35581
+        },
+        "146202": {
+            "firstname": "Joanna",
+            "middleinitial": "C.",
+            "lastname": "Dunlap",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 146202,
+            "scholarlyactivityid": 35581
+        },
+        "146203": {
+            "firstname": "Ellen",
+            "middleinitial": "",
+            "lastname": "Stevens",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 146203,
+            "scholarlyactivityid": 35581
+        }
+    },
+    "status": [
+        {
+            "id": 35581,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2005,
+            "termid": "2005/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

@@ -1,0 +1,61 @@
+{
+    "activityid": 70575,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Neglected Province: Cisalpine Gaul in its Wider Mediterranean Context",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113112677",
+    "coauthors": {
+        "346315": {
+            "firstname": "Katherine",
+            "middleinitial": "V",
+            "lastname": "Huntley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113112677",
+            "authorid": 346315,
+            "scholarlyactivityid": 70575,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "346316": {
+            "firstname": "Alyson",
+            "middleinitial": "",
+            "lastname": "Roy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346316,
+            "scholarlyactivityid": 70575,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70575,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113112677",
+    "attachments": []
+}

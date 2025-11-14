@@ -1,0 +1,67 @@
+{
+    "activityid": 65551,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Suddenly, Then Gradually: A Tax Teacher's Journey",
+        "Journal": "Tax Notes Federal",
+        "Volume": "179",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "469-476",
+        "Publisher": "Tax Analysts",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112033523",
+    "coauthors": {
+        "327993": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Cowan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033523",
+            "authorid": 327993,
+            "scholarlyactivityid": 65551,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 65551,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 65551,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 65551,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112033523",
+    "attachments": []
+}

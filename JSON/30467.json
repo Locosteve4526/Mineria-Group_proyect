@@ -1,0 +1,66 @@
+{
+    "activityid": 30467,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Laboratory Instrumentation:  An Exploration of the Impact of Instrumentation on Student Learning",
+        "Journal": "Journal of Chemical Education",
+        "Volume": "93",
+        "Month / Season": "May 2016",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "1223-1231",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112100123",
+    "coauthors": {
+        "111537": {
+            "firstname": "Don",
+            "middleinitial": "Lewis",
+            "lastname": "Warner",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111702068",
+            "authorid": 111537,
+            "scholarlyactivityid": 30467
+        },
+        "111536": {
+            "firstname": "Eric",
+            "middleinitial": "Christopher",
+            "lastname": "Brown",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112100123",
+            "authorid": 111536,
+            "scholarlyactivityid": 30467
+        },
+        "111535": {
+            "firstname": "Susan",
+            "middleinitial": "E",
+            "lastname": "Shadle",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 111535,
+            "scholarlyactivityid": 30467
+        }
+    },
+    "status": [
+        {
+            "id": 30467,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100123",
+    "attachments": []
+}

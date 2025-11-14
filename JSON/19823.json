@@ -1,0 +1,63 @@
+{
+    "activityid": 19823,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Empirical Analysis of the Efficacy of Marketing and HR Live Cases",
+        "Name of Conference": "Marketing Educators Association Conference",
+        "Month / Season": "2010-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": null,
+        "Publisher": "Marketing Educators Association",
+        "Publisher Location": "Seattle, Washington",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "134856": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 134856,
+            "scholarlyactivityid": 19823,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134857": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "McCale",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134857,
+            "scholarlyactivityid": 19823,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19823,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

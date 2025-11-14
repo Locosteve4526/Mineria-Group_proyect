@@ -1,0 +1,63 @@
+{
+    "activityid": 76443,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Engaging students through community-based service learning in online asynchronous classes",
+        "Name of Conference": "Improving University Teaching",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114227907",
+    "coauthors": {
+        "339924": {
+            "firstname": "Michael",
+            "middleinitial": "C",
+            "lastname": "Coker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114227907",
+            "authorid": 339924,
+            "scholarlyactivityid": 76443,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "339925": {
+            "firstname": "Sarah",
+            "middleinitial": "E.",
+            "lastname": "Riforgiate",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 339925,
+            "scholarlyactivityid": 76443,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76443,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114227907",
+    "attachments": []
+}

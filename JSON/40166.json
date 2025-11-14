@@ -1,0 +1,63 @@
+{
+    "activityid": 40166,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Using a homegrown courseroom system with off-line, multimedia capabilities designed with Lotus Notes",
+        "Name of Conference": "World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "2574-2578",
+        "Publisher": "AACE",
+        "Publisher Location": "Chesapeake, VA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175304": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175304,
+            "scholarlyactivityid": 40166,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175305": {
+            "firstname": "Allie",
+            "middleinitial": "",
+            "lastname": "Smith-Hobbs",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175305,
+            "scholarlyactivityid": 40166,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40166,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

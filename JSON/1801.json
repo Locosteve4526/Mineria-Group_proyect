@@ -1,0 +1,56 @@
+{
+    "activityid": 1801,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Hierarchical geostatistics and multifacies systems: Boise Hydrogeophysical Research Site, Boise, Idaho",
+        "Journal": "Water Resources Research",
+        "Volume": "38",
+        "Month / Season": "2002-10-17",
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "18 p",
+        "Publisher": "",
+        "DOI": "doi:10.1029/2002WR001436",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The geostatistical structure of a heterogeneous coarse fluvial aquifer is investigated with porosity data derived from neutron logs at a research well field (Boise\nHydrogeophysical Research Site, or BHRS) that was designed, in part, to support three dimensional\ngeostatistical analysis of hydrologic and geophysical parameters. Recognizing that the coarse fluvial deposits include subdivisions (units between bounding surfaces), we adopt a hierarchical approach and examine the porosity geostatistics of the aquifer at three scales. At the BHRS, the saturated fluvial deposits as a whole (maximum\ninterwell spacing 80 m, thickness 16\u201318 m) are at hierarchical level 1; five subhorizontal units within these deposits (four cobble-dominated units and a channel sand)\ncan be traced across the central area of the BHRS and are at hierarchical level 2; and subunits (patches or lenses) in one of the level 2 units (Unit 4), are at hierarchical level 3.\nWe use variography and porosity statistics to recognize nonstationarity at hierarchical level 1 and in one of the level 2 units (Unit 4) where the means and variances of porosity differences as a function of lag are not constant between distinct units and subunits, respectively. The geostatistical structure at level 1 is modeled with different horizontal and vertical structures that have different sills (vertical sill greater than horizontal sill). The difference in sills can be explained quantitatively by the summing of weighted sills from all individual units and combined units (i.e., a given pair of different units), where the weights are the proportions of data pairs contributing to the sills at each lag from the individual and combined units. Extension of this analysis leads to a weighted,\nmultistructure form of the variogram function whereby a global experimental variogram in a hierarchical system can be decomposed quantitatively into weighted component\nindividual- and combined-unit (or facies) structures for any number of units or hierarchical levels. Such decomposition of the global horizontal variogram from the BHRS indicates\nthat short-range periodicity in that structure is due to both (1) combined-unit structures associated with patches or lenses at hierarchical level 3 in Unit 4 and (2) variations in thickness of Unit 2. For hierarchical multifacies systems, structure models fit to global horizontal and vertical experimental variograms may not be useful for subsequent\nstochastic modeling if the system on which the structure models are based is nonstationary.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4522": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4522,
+            "scholarlyactivityid": 1801
+        },
+        "4523": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Clemo",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4523,
+            "scholarlyactivityid": 1801
+        }
+    },
+    "status": [
+        {
+            "id": 1801,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2002,
+            "termid": "2002/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

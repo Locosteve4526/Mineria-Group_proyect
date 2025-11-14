@@ -1,0 +1,76 @@
+{
+    "activityid": 3701,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Correlation Between Animal and Mathematical Models for Prostate Cancer Progression",
+        "Journal": "Computational &amp; Mathematical Methods in Medicine",
+        "Volume": "10",
+        "Month / Season": "2009-02-09",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "241-252",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1080/17486700802517518",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/bio_facpubs/34",
+        "Description/Abstract": "This work demonstrates that prostate tumour progression in vivo can be analysed by using solutions of a mathematical model supplemented by initial conditions chosen according to growth rates of cell lines in vitro. The mathematical model is investigated and solved numerically. Its numerical solutions are compared with experimental data from animal models. The numerical results confirm the experimental results with the growth rates in vivo.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110166",
+    "coauthors": {
+        "10812": {
+            "firstname": "Zdzislaw",
+            "middleinitial": "",
+            "lastname": "Jackiewiczy",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10812,
+            "scholarlyactivityid": 3701
+        },
+        "10813": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Jorcyk",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 10813,
+            "scholarlyactivityid": 3701
+        },
+        "10814": {
+            "firstname": "Mikhail",
+            "middleinitial": "K.",
+            "lastname": "Kolev",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10814,
+            "scholarlyactivityid": 3701
+        },
+        "10815": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 10815,
+            "scholarlyactivityid": 3701
+        }
+    },
+    "status": [
+        {
+            "id": 3701,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110166",
+    "attachments": []
+}

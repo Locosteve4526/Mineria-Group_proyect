@@ -1,0 +1,65 @@
+{
+    "activityid": 56908,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The search for a new reference rate",
+        "Journal": "Review of Quantitative Finance and Accounting",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "1--38",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114203623",
+    "coauthors": {
+        "282957": {
+            "firstname": "Ahmed",
+            "middleinitial": "",
+            "lastname": "Baig",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 282957,
+            "scholarlyactivityid": 56908
+        },
+        "282958": {
+            "firstname": "Drew",
+            "middleinitial": "B",
+            "lastname": "Winters",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 282958,
+            "scholarlyactivityid": 56908
+        }
+    },
+    "status": [
+        {
+            "id": 56908,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 56908,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114203623",
+    "attachments": []
+}

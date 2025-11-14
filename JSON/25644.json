@@ -1,0 +1,55 @@
+{
+    "activityid": 25644,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Psychology Major: Career Options and Strategies for Success",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Pearson Prentice Hall",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Pearson Prentice Hall",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/145",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "83146": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 83146,
+            "scholarlyactivityid": 25644
+        },
+        "83147": {
+            "firstname": "Stephen",
+            "middleinitial": "F.",
+            "lastname": "Davis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83147,
+            "scholarlyactivityid": 25644
+        }
+    },
+    "status": [
+        {
+            "id": 25644,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

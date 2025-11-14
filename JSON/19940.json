@@ -1,0 +1,63 @@
+{
+    "activityid": 19940,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Do U.S. Students Cheat More or Less Than Their Counterparts Around the World? A Multicultural Inquiry",
+        "Name of Conference": "AIB-NE 2012: Business without Borders.",
+        "Month / Season": "2012-10-12",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": null,
+        "Publisher": "AIB - NE",
+        "Publisher Location": "Sacred Heart University, Fairfield, CT",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643320",
+    "coauthors": {
+        "134605": {
+            "firstname": "Sameer",
+            "middleinitial": "",
+            "lastname": "Vaidya",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134605,
+            "scholarlyactivityid": 19940,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134606": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "MacDonald",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643320",
+            "authorid": 134606,
+            "scholarlyactivityid": 19940,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19940,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643320",
+    "attachments": []
+}

@@ -1,0 +1,61 @@
+{
+    "activityid": 42623,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Holly Go Lightly",
+        "Name of Performing Group": "",
+        "Date or Date Range": "Feb. 10-14",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Name of Venue/Sponsor": "Dam Short Film Festival",
+        "Venue / Sponsor Location (City, State, Country)": "Boulder City, NV",
+        "Co-contributor": null,
+        "Web address": "https://www.ryan-cannon.com/hollygolightly",
+        "Description/Abstract": "",
+        "Web Address": "https://www.ryan-cannon.com/hollygolightly",
+        "Origin": "Manual"
+    },
+    "facultyid": "114024949",
+    "coauthors": {
+        "290592": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Cannon",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114024949",
+            "authorid": 290592,
+            "scholarlyactivityid": 42623
+        }
+    },
+    "status": [
+        {
+            "id": 42623,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42623,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42623,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114024949",
+    "attachments": []
+}

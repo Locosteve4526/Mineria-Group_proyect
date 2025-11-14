@@ -1,0 +1,77 @@
+{
+    "activityid": 48629,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Covert System Identification Attack on Constant Setpoint Control Systems",
+        "Name of Conference": "Seventh Symposium on Computing and Networking Workshops",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1109/CANDARW.2019.00070",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Industrial Control Systems (ICS) are the brain and backbone of nation's critical infrastructure such as nuclear power, water treatment, and petrochemical plants. In order to increase interoperability, real-time availability of data, and flexibility, information/communication technologies are adopted in this domain. While these information technologies have been effective, they are integrated into operational technologies without the necessary security defense. Designing an effective, layered security defense is not possible unless security threats are identified through a structural analysis of the ICS. For that reason, this paper provides an attacker's point of view on the reconnaissance effort necessary to gather details of the system dynamics - which are required for the development of sophisticated attacks. We present a reconnaissance approach which uses the system's I/O data to infer the dynamic model of the system. In this effort, we propose a novel cyber-attack which targets the controller proportional-integral-derivative gain values in a constant setpoint control system. Our findings will help researchers design more secure control systems.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114068806",
+    "coauthors": {
+        "225493": {
+            "firstname": "Phillips",
+            "middleinitial": "",
+            "lastname": "Tylor",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 225493,
+            "scholarlyactivityid": 48629
+        },
+        "225492": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114068806",
+            "authorid": 225492,
+            "scholarlyactivityid": 48629
+        },
+        "225491": {
+            "firstname": "John",
+            "middleinitial": "F",
+            "lastname": "Gardner",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111643302",
+            "authorid": 225491,
+            "scholarlyactivityid": 48629
+        },
+        "225490": {
+            "firstname": "Reese",
+            "middleinitial": "",
+            "lastname": "Stephen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 225490,
+            "scholarlyactivityid": 48629
+        }
+    },
+    "status": [
+        {
+            "id": 48629,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114068806",
+    "attachments": []
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 31745,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Effects of Tides on Close-In Exoplanets",
+        "Conference/Meeting Name": "American Astronomical Society Meeting Abstracts 213",
+        "Conference Location": "",
+        "Date or Date Range": "Jan",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2009AAS...21335101J",
+        "Description/Abstract": "Close-in exoplanets tend to have more nearly circular orbits than other planets. the effects of tides on both the star and the planet are the likely cause. We model the tidal evolution of observed close-in planets backward in time for the age of each system, taking into account the coupling between changes in eccentricity e and semi-major axis a (Jackson et al. 2008 ApJ 678, 1396). We find their original e-values were broadly distributed, resembling those of planets beyond the reach of tides, and suggesting a common formation mechanism. Circularization can require billions of years, contrary to &quot;circularization timescale\u201d arguments. Moreover, tides reduce a, from where planets were when the protoplanetary nebula dissipated.\r\n\r\nTidal migration is accompanied by internal heating of the planet, which we find can be significant (Jackson et al. 2008 ApJ 681, 1631). The anomalously large radii of many transiting planets (but not all) may be explained by this great tidal heating. Tidal heating should be incorporated into interior modeling efforts.\r\n\r\nFor rocky planets, tidal heating is great enough to significantly affect potential habitability (Jackson et al. 2008 MNRAS, in press). For hypothetical, rocky planets in the habitable zones of low-mass stars, tidal heating may be large enough to drive massive volcanism and thus preclude habitability, or may drive processes (like plate tectonics) that enhance habitability.\r\n\r\nTidal evolution of orbits must also have destroyed exoplanets that migrate too close to the host star. The distribution of semi-major axes and ages suggests that many close planets may have fallen into their star already. When we apply our tidal model to observed planets, we find that many young planets may be destroyed in a few billion years. Tidal destruction may affect stellar rotation, metallicity, and obliquity, and hence may be a factor in the statistics of these parameters. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "120295": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120295,
+            "scholarlyactivityid": 31745,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120296": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Greenberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120296,
+            "scholarlyactivityid": 31745,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "120297": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Barnes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120297,
+            "scholarlyactivityid": 31745,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31745,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

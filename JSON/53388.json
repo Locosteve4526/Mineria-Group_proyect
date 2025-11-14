@@ -1,0 +1,66 @@
+{
+    "activityid": 53388,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Multiple Strategies for developing data sets for analytics classes",
+        "Name of Conference": "AMCIS",
+        "Month / Season": "March 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088737",
+    "coauthors": {
+        "249176": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 249176,
+            "scholarlyactivityid": 53388
+        },
+        "249177": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Rush",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088737",
+            "authorid": 249177,
+            "scholarlyactivityid": 53388
+        }
+    },
+    "status": [
+        {
+            "id": 53388,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 53388,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114088737",
+    "attachments": []
+}

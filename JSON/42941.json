@@ -1,0 +1,63 @@
+{
+    "activityid": 42941,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Rhetorical Landscapes of Recreational Colonialism",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Ohio State University Press",
+        "Publisher Location": "",
+        "ISBN": "978-0-8142-5945-0",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://ohiostatepress.org/books/titles/9780814215876.html",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114109524",
+    "coauthors": {
+        "345485": {
+            "firstname": "Kyle",
+            "middleinitial": "G",
+            "lastname": "Boggs",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114109524",
+            "authorid": 345485,
+            "scholarlyactivityid": 42941
+        }
+    },
+    "status": [
+        {
+            "id": 42941,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42941,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 42941,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114109524",
+    "attachments": []
+}

@@ -1,0 +1,105 @@
+{
+    "activityid": 43583,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A certificateless one-way group key agreement protocol for end-to-end email encryption",
+        "Name of Conference": "The 23rd IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2018)",
+        "Month / Season": "December",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Over the years, email has evolved into one of the most widely used communication channels for both individuals and organizations. However, despite near ubiquitous use in much of the world, current information technology standards do not place emphasis on email security. Not until recently, webmail services such as Yahoo\u2019s mail and Google\u2019s gmail started to encrypt emails for privacy protection. However, the encrypted emails will be decrypted and stored in the service provider\u2019s servers. If the servers are malicious or compromised, all the stored emails can be read, copied and altered. Thus, there is a strong need for end-to-end (E2E) email encryption to protect email user\u2019s privacy. In this paper, we present a certificateless one-way group key agreement protocol with the following features, which are suitable to implement E2E email encryption: (1) certificateless and thus there is no key escrow problem and no public key certificate infrastructure is required; (2) one-way group key agreement and thus no back-and-forth message exchange is required; and (3) n-party group key agreement (not just 2- or 3-party). This paper also provides a security proof for the proposed protocol using\n\u201cproof by simulation\u201d. Finally, efficiency analysis of the protocol is presented at the end of the paper.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "195931": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 195931,
+            "scholarlyactivityid": 43583
+        },
+        "195932": {
+            "firstname": "Srisarguru",
+            "middleinitial": "",
+            "lastname": "Sridhar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195932,
+            "scholarlyactivityid": 43583
+        },
+        "195933": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 195933,
+            "scholarlyactivityid": 43583
+        },
+        "195934": {
+            "firstname": "Hung-Min",
+            "middleinitial": "",
+            "lastname": "Sun",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195934,
+            "scholarlyactivityid": 43583
+        },
+        "195935": {
+            "firstname": "Ning",
+            "middleinitial": "",
+            "lastname": "Shen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195935,
+            "scholarlyactivityid": 43583
+        },
+        "195936": {
+            "firstname": "Kathleen",
+            "middleinitial": "",
+            "lastname": "White",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195936,
+            "scholarlyactivityid": 43583
+        }
+    },
+    "status": [
+        {
+            "id": 43583,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": [
+        {
+            "attachmentid": 15607,
+            "mimetype": "application/pdf",
+            "filename": "A certificateless one way group key agreement protocol for end-to-end email encryption.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitiSkhVNWM3UlVNZUdnZ1NBMmlCYmRHVnV1b2dZcEx0N3FMN1UzU2tsOHhmRjU0anVxR3NpdVJnUmZEQVlPVFJwZG1RdEN3L214VDZMc05vcXdyM3JHRmQwaDVjeUtYYUJnbGV2NS9xV2dva1FOT09ZcVprM0dJUVNaTlFWQ0dQZjZCY1ducklvZkJuYUNHdGw2VXdpdnk%3D",
+            "filesize": 272913
+        }
+    ]
+}

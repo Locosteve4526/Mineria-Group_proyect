@@ -1,0 +1,75 @@
+{
+    "activityid": 65508,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "School Climate, Developmental Support, and Adolescent Identity Formation. ",
+        "Journal": "Journal of Behavioral and Social Sciences",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114110070",
+    "coauthors": {
+        "303595": {
+            "firstname": "Megan",
+            "middleinitial": "L",
+            "lastname": "Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114110089",
+            "authorid": 303595,
+            "scholarlyactivityid": 65508
+        },
+        "303594": {
+            "firstname": "Michael",
+            "middleinitial": "J",
+            "lastname": "Mann",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114110070",
+            "authorid": 303594,
+            "scholarlyactivityid": 65508
+        },
+        "303593": {
+            "firstname": "Alfgeir",
+            "middleinitial": "L",
+            "lastname": "Kristjansson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 303593,
+            "scholarlyactivityid": 65508
+        }
+    },
+    "status": [
+        {
+            "id": 65508,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 65508,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "114110070",
+    "attachments": []
+}

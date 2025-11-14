@@ -1,0 +1,75 @@
+{
+    "activityid": 40149,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Building a competency-based curriculum architecture to educate 21st century business practitioners",
+        "Journal": "Journal of Education for Business",
+        "Volume": "81",
+        "Month / Season": "",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "307-314",
+        "Publisher": "Taylor &amp; Francis",
+        "DOI": "10.3200/JOEB.81.6.307-314",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.3200/JOEB.81.6.307-314",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175237": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175237,
+            "scholarlyactivityid": 40149,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175238": {
+            "firstname": "Donald",
+            "middleinitial": "",
+            "lastname": "Stepich",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175238,
+            "scholarlyactivityid": 40149,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175239": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Cox",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175239,
+            "scholarlyactivityid": 40149,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40149,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

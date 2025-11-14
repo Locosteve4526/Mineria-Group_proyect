@@ -1,0 +1,62 @@
+{
+    "activityid": 12296,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Working Together to Work Smarter to Provide Health Informatics Education",
+        "Conference/Meeting Name": "HINZ conference",
+        "Conference Location": "Auckland, New Zealand",
+        "Date or Date Range": "2011-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "Health Informatics-New Zealand",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Working Together, Working Smarter is the theme of this conference, and evidence of working collaboratively to achieve pre-determined goals can occur in multiple ways.  This paper describes an educational example where a New Zealand nurse informatician worked together with a nurse lecturer from a North American university to provide an intensive health informatics course.  Faculty with informatics knowledge are in short supply, and co-teaching is one method of working smarter, by both meeting immediate demand, as well as building capacity. The course and learning objectives are described, along with assessment criteria, before presenting outcomes that were demonstrated by the cohort of nurses and allied health professionals who completed the course.  ",
+        "Origin": "Other"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "56319": {
+            "firstname": "Michelle",
+            "middleinitial": "",
+            "lastname": "Honey",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56319,
+            "scholarlyactivityid": 12296
+        },
+        "56320": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 56320,
+            "scholarlyactivityid": 12296
+        },
+        "56321": {
+            "firstname": "Pamela",
+            "middleinitial": "J",
+            "lastname": "Springer",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111393",
+            "authorid": 56321,
+            "scholarlyactivityid": 12296
+        }
+    },
+    "status": [
+        {
+            "id": 12296,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

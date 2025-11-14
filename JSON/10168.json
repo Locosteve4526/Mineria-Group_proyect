@@ -1,0 +1,58 @@
+{
+    "activityid": 10168,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Building community and student engagement with VoiceThread",
+        "Conference/Meeting Name": "Northwest eLearning Conference",
+        "Conference Location": "Boise",
+        "Date or Date Range": "2014-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002217",
+    "coauthors": {
+        "89756": {
+            "firstname": "Jesus",
+            "middleinitial": "",
+            "lastname": "Trespalacios",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002217",
+            "authorid": 89756,
+            "scholarlyactivityid": 10168,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "89757": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Rand",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 89757,
+            "scholarlyactivityid": 10168,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 10168,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002217",
+    "attachments": []
+}

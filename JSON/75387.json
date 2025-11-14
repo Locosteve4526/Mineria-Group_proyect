@@ -1,0 +1,62 @@
+{
+    "activityid": 75387,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Investigating and Mitigating Barren Plateaus in Variational Quantum Circuits: A Survey&lt;/p&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "July",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/2407.17706v1",
+        "Description/Abstract": "&lt;p&gt;In recent years, variational quantum circuits (VQCs) have been widely explored to advance quantum circuits against classic models on various domains, such as quantum chemistry and quantum machine learning. Similar to classic machine-learning models, VQCs can be optimized through gradient-based approaches. However, the gradient variance of VQCs may dramatically vanish as the number of qubits or layers increases. This issue, a.k.a. Barren Plateaus (BPs), seriously hinders the scaling of VQCs on large datasets. To mitigate the exponential gradient vanishing, extensive efforts have been devoted to tackling this issue through diverse strategies. In this survey, we conduct a systematic literature review of recent works from both investigation and mitigation perspectives. Besides, we propose a new taxonomy to categorize most existing mitigation strategies. At last, we provide insightful discussion for future directions of BPs. [Journal_ref: ]&lt;/p&gt;",
+        "Origin": "arXiv"
+    },
+    "facultyid": "114254397",
+    "coauthors": {
+        "333635": {
+            "firstname": "Jack",
+            "middleinitial": "",
+            "lastname": "Cunningham",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333635,
+            "scholarlyactivityid": 75387,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333636": {
+            "firstname": "Jun",
+            "middleinitial": "",
+            "lastname": "Zhuang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333636,
+            "scholarlyactivityid": 75387,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75387,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254397",
+    "attachments": []
+}

@@ -1,0 +1,103 @@
+{
+    "activityid": 53575,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Additive Manufacturing for Activation Foil Fabrication",
+        "Name of Conference": "International Symposium on Reactor Dosimetry (ISRD)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111698609",
+    "coauthors": {
+        "250319": {
+            "firstname": "Kiyo",
+            "middleinitial": "",
+            "lastname": "Fujimoto",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 250319,
+            "scholarlyactivityid": 53575,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "250320": {
+            "firstname": "Troy",
+            "middleinitial": "",
+            "lastname": "Unruh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 250320,
+            "scholarlyactivityid": 53575,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "250321": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Estrada",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111698609",
+            "authorid": 250321,
+            "scholarlyactivityid": 53575,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53575,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53575,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 53575,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 53575,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111698609",
+    "attachments": []
+}

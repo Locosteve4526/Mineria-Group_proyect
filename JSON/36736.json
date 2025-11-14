@@ -1,0 +1,58 @@
+{
+    "activityid": 36736,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Let's Start at the Very Beginning: Faculty Responses to Student Needs",
+        "Conference/Meeting Name": "Consortium on Graduate Communication",
+        "Conference Location": "Monterey, California",
+        "Date or Date Range": "June 12, 2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111670030",
+    "coauthors": {
+        "152413": {
+            "firstname": "Gail",
+            "middleinitial": "E",
+            "lastname": "Shuck",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111670030",
+            "authorid": 152413,
+            "scholarlyactivityid": 36736,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "152414": {
+            "firstname": "Daniel",
+            "middleinitial": "S",
+            "lastname": "Wilber",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152414,
+            "scholarlyactivityid": 36736,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 36736,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111670030",
+    "attachments": []
+}

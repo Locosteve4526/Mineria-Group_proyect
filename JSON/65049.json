@@ -1,0 +1,66 @@
+{
+    "activityid": 65049,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Efficient Assessment of Students' Proportional Reasoning",
+        "Journal": "Applied Measurement in Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.1080/08957347.2022.2034825",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114000904",
+    "coauthors": {
+        "302031": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 302031,
+            "scholarlyactivityid": 65049
+        },
+        "302030": {
+            "firstname": "Kaite",
+            "middleinitial": "",
+            "lastname": "Paulding",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302030,
+            "scholarlyactivityid": 65049
+        },
+        "302029": {
+            "firstname": "Joe",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 302029,
+            "scholarlyactivityid": 65049
+        }
+    },
+    "status": [
+        {
+            "id": 65049,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114000904",
+    "attachments": []
+}

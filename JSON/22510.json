@@ -1,0 +1,64 @@
+{
+    "activityid": 22510,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "3DTHT-MODFLOW-Model-Setup-and Output-Editing \u00a9",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Patent Nationality": "",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "Boise State file number 136",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": null,
+        "Description/Abstract": "The creation consists of individual software code components for tasks written in MATLAB that (a) creates the structure of numerical model space or cell grid structure for the MODFLOW numerical groundwater modeling code used to simulate hydrologic tests of 3D transient hydraulic tomography (3DTHT) and (b) modifies MODFLOW instruction files to allow running of adjoint state sensitivities for inverse modeling (and associated MATLAB routines) for tomographic imaging. ",
+        "Web Address": null,
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "78080": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 78080,
+            "scholarlyactivityid": 22510
+        },
+        "78081": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Cardiff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113054278",
+            "authorid": 78081,
+            "scholarlyactivityid": 22510
+        },
+        "78082": {
+            "firstname": "Peter",
+            "middleinitial": "K",
+            "lastname": "Kitanidis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78082,
+            "scholarlyactivityid": 22510
+        }
+    },
+    "status": [
+        {
+            "id": 22510,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

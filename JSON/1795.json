@@ -1,0 +1,76 @@
+{
+    "activityid": 1795,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Multivariate Analysis of Cross-Hole Georadar Velocity and Attenuation Tomograms for Aquifer Zonation",
+        "Journal": "Water Resources Research",
+        "Volume": "40",
+        "Month / Season": "2004-01-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "W01519-1 - W01519-14",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2003WR002031",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/27",
+        "Description/Abstract": "We have investigated the potential of combining cross-hole georadar velocity and attenuation tomography as a method for characterizing heterogeneous alluvial aquifers. A multivariate statistical technique, known as k-means cluster analysis, is used to correlate and integrate information contained in velocity and attenuation tomograms. Cluster analysis allows us to identify objectively the major common trends in the tomographic data and thus to ''reduce'' the information to a limited number of characteristic parameter combinations. The application of this procedure to two synthetic data sets indicates that it is a powerful tool for converting the complex relationships between the tomographically derived velocity and attenuation structures into a lithologically and hydrologically meaningful zonation of the probed region. In addition, these synthetic examples allow us to evaluate the reliability of further petrophysical parameter estimates. We find that although absolute values of the tomographically inferred petrophysical parameters often differ significantly from the actual parameters, the clustering approach enables us to reliably identify the major trends in the petrophysical properties. Finally, we have applied the approach to a cross-hole georadar data set collected in a well-studied alluvial aquifer. A comparison of the clustered tomographic section with well-log data demonstrates that our approach delineates the hydrostratigraphic zonation.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4502": {
+            "firstname": "Jens",
+            "middleinitial": "",
+            "lastname": "Tronicke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4502,
+            "scholarlyactivityid": 1795
+        },
+        "4503": {
+            "firstname": "Klaus",
+            "middleinitial": "",
+            "lastname": "Holliger",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4503,
+            "scholarlyactivityid": 1795
+        },
+        "4504": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4504,
+            "scholarlyactivityid": 1795
+        },
+        "4505": {
+            "firstname": "Michael",
+            "middleinitial": "D.",
+            "lastname": "Knoll",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4505,
+            "scholarlyactivityid": 1795
+        }
+    },
+    "status": [
+        {
+            "id": 1795,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2004,
+            "termid": "2003/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

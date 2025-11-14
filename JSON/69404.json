@@ -1,0 +1,75 @@
+{
+    "activityid": 69404,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "gemlog: Data conversion for the open-source Gem Infrasound Logger.",
+        "Journal": "Journal of Open-Source Software",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.21105/joss.05256",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001444",
+    "coauthors": {
+        "313140": {
+            "firstname": "Jacob",
+            "middleinitial": "F",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001444",
+            "authorid": 313140,
+            "scholarlyactivityid": 69404,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313141": {
+            "firstname": "Kevin",
+            "middleinitial": "S",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313141,
+            "scholarlyactivityid": 69404,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313142": {
+            "firstname": "Tamara",
+            "middleinitial": "",
+            "lastname": "Beschorner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313142,
+            "scholarlyactivityid": 69404,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69404,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001444",
+    "attachments": []
+}

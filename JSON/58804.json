@@ -1,0 +1,76 @@
+{
+    "activityid": 58804,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The occurrence of physical abilities in entry-level geoscience job advertisements and their potential impact on students",
+        "Name of Conference": "Geological Society of America",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "GSA Abstracts with Programs",
+        "Publisher Location": "",
+        "Volume": "53",
+        "Issue Number": "6",
+        "DOI": "https://doi.org/10.1130/abs/2021AM-369735",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "274514": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Shafer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274514,
+            "scholarlyactivityid": 58804,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274515": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 274515,
+            "scholarlyactivityid": 58804,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274516": {
+            "firstname": "Anne",
+            "middleinitial": "E",
+            "lastname": "Egger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274516,
+            "scholarlyactivityid": 58804,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58804,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

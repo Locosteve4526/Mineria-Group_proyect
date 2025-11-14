@@ -1,0 +1,76 @@
+{
+    "activityid": 30376,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Informal Controls:  Concepts, Dimensions, and Measurement",
+        "Name of Conference": "American Marketing Association Summer Educators Conference",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "American Marketing Association",
+        "Publisher Location": "American Marketing Association",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "110817": {
+            "firstname": "Stacey",
+            "middleinitial": "",
+            "lastname": "Malek",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 110817,
+            "scholarlyactivityid": 30376,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "110818": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 110818,
+            "scholarlyactivityid": 30376,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "110819": {
+            "firstname": "Bernard",
+            "middleinitial": "",
+            "lastname": "Jaworski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 110819,
+            "scholarlyactivityid": 30376,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30376,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

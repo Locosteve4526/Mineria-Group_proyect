@@ -1,0 +1,52 @@
+{
+    "activityid": 21218,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Digital game based learning",
+        "Conference/Meeting Name": "Instructional Technology Conference",
+        "Conference Location": "Logan, UT",
+        "Date or Date Range": "2008-05-06",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "76492": {
+            "firstname": "J",
+            "middleinitial": "",
+            "lastname": "Scoresby",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76492,
+            "scholarlyactivityid": 21218
+        },
+        "76493": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 76493,
+            "scholarlyactivityid": 21218
+        }
+    },
+    "status": [
+        {
+            "id": 21218,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

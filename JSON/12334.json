@@ -1,0 +1,42 @@
+{
+    "activityid": 12334,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Poetry Reading",
+        "Conference/Meeting Name": "Sussex Poetry Festival",
+        "Conference Location": "Brighton, UK",
+        "Date or Date Range": "2015-06-06",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "University of Sussex",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "56427": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 56427,
+            "scholarlyactivityid": 12334
+        }
+    },
+    "status": [
+        {
+            "id": 12334,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

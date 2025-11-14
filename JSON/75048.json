@@ -1,0 +1,79 @@
+{
+    "activityid": 75048,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "&lt;p&gt;Food Sharing in the Arctic&lt;/p&gt;",
+        "Book Title": "Routledge Handbook of Arctic Anthropology",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Routledge",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Florian Stammler, Teresa Komu, Nuccio Mazzullo, and Piers Vitebsky",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111715805",
+    "coauthors": {
+        "353983": {
+            "firstname": "Lorraine",
+            "middleinitial": "",
+            "lastname": "Gaudio",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 353983,
+            "scholarlyactivityid": 75048,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "353984": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Ziker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111715805",
+            "authorid": 353984,
+            "scholarlyactivityid": 75048
+        }
+    },
+    "status": [
+        {
+            "id": 75048,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2025,
+            "termid": "2025/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 75048,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 75048,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111715805",
+    "attachments": []
+}

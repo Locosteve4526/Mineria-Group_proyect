@@ -1,0 +1,64 @@
+{
+    "activityid": 28778,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Coaching Efficacy",
+        "Book Title": "Handbook of Sports Coaching",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114063271",
+    "coauthors": {
+        "95963": {
+            "firstname": "Melissa",
+            "middleinitial": "",
+            "lastname": "Chase",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95963,
+            "scholarlyactivityid": 28778,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "95964": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114063271",
+            "authorid": 95964,
+            "scholarlyactivityid": 28778,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28778,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114063271",
+    "attachments": []
+}

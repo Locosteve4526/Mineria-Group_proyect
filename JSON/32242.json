@@ -1,0 +1,62 @@
+{
+    "activityid": 32242,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Small Acoustic Goniometer for General Purpose Research",
+        "Journal": "Sensors",
+        "Volume": "16",
+        "Month / Season": "5",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "622",
+        "Publisher": "Sensors",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "123837": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Pook",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 123837,
+            "scholarlyactivityid": 32242,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "123838": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123838,
+            "scholarlyactivityid": 32242,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32242,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

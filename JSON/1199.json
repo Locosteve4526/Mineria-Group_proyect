@@ -1,0 +1,46 @@
+{
+    "activityid": 1199,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Radical Usability (or, Why You Need to Stop Redesigning Your Website)",
+        "Journal": "Library Computing",
+        "Volume": "19",
+        "Month / Season": "2000-12-31",
+        "Issue Number": "2-Jan",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Page Numbers": "86-92",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112192272",
+    "coauthors": {
+        "123402": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 123402,
+            "scholarlyactivityid": 1199
+        }
+    },
+    "status": [
+        {
+            "id": 1199,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112192272",
+    "attachments": []
+}

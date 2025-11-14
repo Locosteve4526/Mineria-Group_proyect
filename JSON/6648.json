@@ -1,0 +1,66 @@
+{
+    "activityid": 6648,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Time Domain Integral Equation for a Straight Thin Wire Antenna with the Reduced Kernel is not Well Posed",
+        "Journal": "IEEE Transactions on Antennas and Propagation",
+        "Volume": "50",
+        "Month / Season": "2002-12-31",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "1165-1166",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We show that the Pocklington integral equation for time-domain scattering from thin-wire antennas is not mathematically well-posed. This has considerable implications for numerical solution schemes. In particular, our argument explains the observed occurrence of rapidly oscillating errors in numerical solutions as the numerical grid sizes are reduced.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20721": {
+            "firstname": "Penny",
+            "middleinitial": "J.",
+            "lastname": "Davies",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20721,
+            "scholarlyactivityid": 6648
+        },
+        "20722": {
+            "firstname": "Bryan",
+            "middleinitial": "",
+            "lastname": "Rynne",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20722,
+            "scholarlyactivityid": 6648
+        },
+        "20723": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20723,
+            "scholarlyactivityid": 6648
+        }
+    },
+    "status": [
+        {
+            "id": 6648,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2002,
+            "termid": "2002/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

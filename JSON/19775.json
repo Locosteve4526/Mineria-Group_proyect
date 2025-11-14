@@ -1,0 +1,52 @@
+{
+    "activityid": 19775,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "2011's Big Changes in GAAP",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2011-02-16",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "Idaho Society of CPAs",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "One hour CPE session for CPAs",
+        "Origin": "Other"
+    },
+    "facultyid": "112188648",
+    "coauthors": {
+        "73147": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Bahnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111615747",
+            "authorid": 73147,
+            "scholarlyactivityid": 19775
+        },
+        "73148": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 73148,
+            "scholarlyactivityid": 19775
+        }
+    },
+    "status": [
+        {
+            "id": 19775,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188648",
+    "attachments": []
+}

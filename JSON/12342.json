@@ -1,0 +1,42 @@
+{
+    "activityid": 12342,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Poetry Reading",
+        "Conference/Meeting Name": "City Arts Reading Series",
+        "Conference Location": "Salt LAke City, MainLibrary",
+        "Date or Date Range": "2012-04-25",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "City Art, Salt Lake City",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Reading of recent poetry",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "56435": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 56435,
+            "scholarlyactivityid": 12342
+        }
+    },
+    "status": [
+        {
+            "id": 12342,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

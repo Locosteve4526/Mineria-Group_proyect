@@ -1,0 +1,89 @@
+{
+    "activityid": 46963,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Detecting Undisclosed Paid Editing in Wikipedia",
+        "Name of Conference": "The Web Conference 2020",
+        "Month / Season": "Apr 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048777",
+    "coauthors": {
+        "235296": {
+            "firstname": "Nikesh",
+            "middleinitial": "",
+            "lastname": "Joshi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235296,
+            "scholarlyactivityid": 46963,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "235297": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048777",
+            "authorid": 235297,
+            "scholarlyactivityid": 46963,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "235298": {
+            "firstname": "Mayson",
+            "middleinitial": "",
+            "lastname": "Green",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235298,
+            "scholarlyactivityid": 46963,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "235299": {
+            "firstname": "Elijah",
+            "middleinitial": "",
+            "lastname": "Hill",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235299,
+            "scholarlyactivityid": 46963,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46963,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048777",
+    "attachments": []
+}

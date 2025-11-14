@@ -1,0 +1,99 @@
+{
+    "activityid": 45427,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Gender-incongruent Consumption",
+        "Journal": "Journal of Marketing",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135578",
+    "coauthors": {
+        "333305": {
+            "firstname": "Niusha",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135578",
+            "authorid": 333305,
+            "scholarlyactivityid": 45427,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333306": {
+            "firstname": "Blair",
+            "middleinitial": "",
+            "lastname": "Kidwell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333306,
+            "scholarlyactivityid": 45427,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333307": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Hamby",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135517",
+            "authorid": 333307,
+            "scholarlyactivityid": 45427
+        }
+    },
+    "status": [
+        {
+            "id": 45427,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 45427,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 45427,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 45427,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114135578",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 52861,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "A336788: Values of prime numbers, D, for incrementally largest values of minimal y satisfying the equation x^2 - D*y^2 = 2.",
+        "Outlet (if applicable)": "Online Encyclopedia of Integer Sequences",
+        "Date": "Aug 05 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Publisher": "Online Encyclopedia of Integer Sequences",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://oeis.org/A336788",
+        "Description/Abstract": "For D=7, the least y for which x^2 - D*y^2 = 2 has a solution is 1.\n\nThe next prime, D, for which x^2 - D*y^2 = 2 has a solution is 23, but the smallest y in this case is also 1, which is equal to the previous record y. So 23 is not a term.\n\nThe next prime, D, after 23 for which x^2 - D*y^2 = 2 has a solution is 31 and the least y for which it has a solution is y = 7, which is larger than 1, so it is a new record y value. So 31 is a term.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "245870": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 245870,
+            "scholarlyactivityid": 52861
+        },
+        "245871": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245871,
+            "scholarlyactivityid": 52861,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52861,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

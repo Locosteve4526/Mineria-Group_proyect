@@ -1,0 +1,71 @@
+{
+    "activityid": 59249,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Estimation of Vertical Hydraulic Properties in Regolith from Long-term Soil Moisture Data with Stochastic Inversion and Machine Learning",
+        "Conference/Meeting Name": "AGU annual meeting 2021",
+        "Conference Location": "New Orleans",
+        "Date or Date Range": "December 16 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The partitioning of precipitation in the critical zone strongly affects the route, amount, and residence time of groundwater. In order to understand and predict these processes, it is critical to characterize the hydraulic properties in the critical zone such as water retention curves and hydraulic conductivity function. Due to complex interactions between many physical, chemical, and biological activities, the critical zone of the Earth, particularly the regolith, is quite heterogeneous. Traditional hydrological site characterization approaches (e.g., sampling and then testing in the lab) do not work very well for most critical zone studies.\nIn this study, we use stochastic inversion and machine learning algorithms to estimate the vertical hydraulic properties in regolith based on long-term soil moisture monitoring data. In stochastic inversion, the adaptive Metropolis algorithm is adopted to sample the hydraulic parameters characterizing the water retention curves and hydraulic conductivity function given the long-term soil moisture monitoring data. The groundwater flow model of the regolith based on solving Richards\u2019 equation (one-dimensional) is used to general synthetic data, which is used to train a convolutional neural network. The trained neural network is then used to estimate the vertical hydraulic properties in the regolith based on the long-term monitored data.\n\nBoth synthetic and field soil moisture data are used to test our proposed methods. The results show that the vertical hydraulic parameters of the regolith can be reasonably estimated using stochastic inversion. For machine learning, the performance of the convolutional neural network is heavily dependent on the quality of the training datasets. When the training data cover the variation range of all the soil hydraulic parameters, the neural network can give good estimations of most of the parameters. Otherwise, the performance of a neural network is limited. This work provides a useful tool for interpreting long-term field soil moisture data for critical zone hydrology studies.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112754",
+    "coauthors": {
+        "276697": {
+            "firstname": "Jing",
+            "middleinitial": "",
+            "lastname": "Xie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276697,
+            "scholarlyactivityid": 59249,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "276698": {
+            "firstname": "Hang",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276698,
+            "scholarlyactivityid": 59249,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "276699": {
+            "firstname": "Qifei",
+            "middleinitial": "",
+            "lastname": "Niu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112754",
+            "authorid": 276699,
+            "scholarlyactivityid": 59249,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59249,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112754",
+    "attachments": []
+}

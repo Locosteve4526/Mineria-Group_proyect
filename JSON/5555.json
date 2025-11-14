@@ -1,0 +1,86 @@
+{
+    "activityid": 5555,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Science teaching orientations and technology-enhanced tools for student learning",
+        "Journal": "Research in Science Education",
+        "Volume": "43",
+        "Month / Season": "2013-12-31",
+        "Issue Number": "50",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "2035-2057",
+        "Publisher": "",
+        "DOI": "10.1007/s11165-012-9342-x",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "17054": {
+            "firstname": "Todd",
+            "middleinitial": "",
+            "lastname": "Campbell",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17054,
+            "scholarlyactivityid": 5555
+        },
+        "17055": {
+            "firstname": "Max",
+            "middleinitial": "",
+            "lastname": "Longhurst",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17055,
+            "scholarlyactivityid": 5555
+        },
+        "17056": {
+            "firstname": "A",
+            "middleinitial": "M",
+            "lastname": "Duffy",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17056,
+            "scholarlyactivityid": 5555
+        },
+        "17057": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Wolf",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17057,
+            "scholarlyactivityid": 5555
+        },
+        "17058": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 17058,
+            "scholarlyactivityid": 5555
+        }
+    },
+    "status": [
+        {
+            "id": 5555,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

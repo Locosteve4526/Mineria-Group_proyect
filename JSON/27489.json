@@ -1,0 +1,55 @@
+{
+    "activityid": 27489,
+    "fields": {
+        "Type": "Book",
+        "Title": "Essential Statistics for the Social and Behavioral Sciences: A Conceptual Approach",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Prentice Hall",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Prentice Hall",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/246",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "87079": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 87079,
+            "scholarlyactivityid": 27489
+        },
+        "87080": {
+            "firstname": "Jane",
+            "middleinitial": "C.",
+            "lastname": "Ollenburger",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87080,
+            "scholarlyactivityid": 27489
+        }
+    },
+    "status": [
+        {
+            "id": 27489,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2001,
+            "termid": "2000/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

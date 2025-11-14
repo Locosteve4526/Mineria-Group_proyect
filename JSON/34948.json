@@ -1,0 +1,63 @@
+{
+    "activityid": 34948,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cSpeedup of Optical Scanner Characterization Subsystem\u201d",
+        "Name of Conference": "SPIE Electronic Imaging -- Document Recognition and Retrieval X",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "pp. 94-102",
+        "Publisher": "SPIE",
+        "Publisher Location": "Santa Clara, CA",
+        "Volume": "5010",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Small image deformations such as those introduced by optical scanners significantly reduce the accuracy rate of optical\r\ncharacter recognition (OCR) software. Characterization of the scanner used in the OCR process may diminish the impact\r\non recognition rates. Theoretical methods have been developed to characterize a scanner based on the bi-level image\r\nresulting from scanning a high contrast document. Two bottlenecks in the na\u00efve implementation of these algorithms have\r\nbeen identified, and techniques were developed to improve the execution time of the software. The algorithms are\r\ndescribed and analyzed. Since approximations are used in one of the techniques, the error of the approximations is examined.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142718": {
+            "firstname": "Roger",
+            "middleinitial": "D",
+            "lastname": "Clements",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142718,
+            "scholarlyactivityid": 34948,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "142719": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142719,
+            "scholarlyactivityid": 34948,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34948,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2003,
+            "termid": "2002/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

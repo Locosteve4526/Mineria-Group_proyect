@@ -1,0 +1,86 @@
+{
+    "activityid": 76046,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Efficient development of subject-specific finite element knee models: Automated identification of soft-tissue attachments",
+        "Journal": "Journal of biomechanics",
+        "Volume": "178",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "112441",
+        "Publisher": null,
+        "DOI": "10.1016/j.jbiomech.2024.112441",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Musculoskeletal disorders impact quality of life and incur substantial socio-economic costs. While in vivo and in vitro studies provide valuable insights, they are often limited by invasiveness and logistical constraints. Finite element (FE) analysis offers a non-invasive, cost-effective alternative for studying joint mechanics. This study introduces a fully automated algorithm for identifying soft-tissue attachment sites to streamline the creation of subject-specific FE knee models from magnetic resonance images. Twelve knees were selected from the Osteoarthritis Initiative database and segmented to create 3D meshes of bone and cartilage. Attachment sites were identified in three conditions: manually by two evaluators and via our automated Python-based algorithm. All knees underwent FE simulations of a 90\u00b0 flexion-extension cycle, and 68 kinematic, force, contact, stress and strain outputs were extracted. The automated process was compared against manual identification to assess intra-operator variability. The attachment site locations were consistent across all three conditions, with average distances of 3.0\u00a0\u00b1\u00a00.5 to 3.1\u00a0\u00b1\u00a00.6\u00a0mm and no significant differences between conditions (p\u00a0=\u00a00.90). FE outputs were analyzed using Pearson correlation coefficients, randomized mean square error, and pairwise dynamic time warping in conjunction with ANOVA and Kruskal-Wallis. There were no statistical differences in pairwise comparisons of 67 of 68 FE output variables, demonstrating the automated method's consistency with manual identification. Our automated approach significantly reduces processing time from hours to seconds, facilitating large-scale studies and enhancing reproducibility in biomechanical research. This advancement holds promise for broader clinical and research applications, supporting the efficient development of personalized musculoskeletal models.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "337895": {
+            "firstname": "Vahid",
+            "middleinitial": "",
+            "lastname": "Malbouby",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337895,
+            "scholarlyactivityid": 76046
+        },
+        "337896": {
+            "firstname": "Kalin ",
+            "middleinitial": "D",
+            "lastname": "Gibbons",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337896,
+            "scholarlyactivityid": 76046
+        },
+        "337897": {
+            "firstname": "Nurbanu",
+            "middleinitial": "",
+            "lastname": "Bursa",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337897,
+            "scholarlyactivityid": 76046
+        },
+        "337898": {
+            "firstname": "Amanda ",
+            "middleinitial": "K",
+            "lastname": "Ivy",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337898,
+            "scholarlyactivityid": 76046
+        },
+        "337899": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337899,
+            "scholarlyactivityid": 76046
+        }
+    },
+    "status": [
+        {
+            "id": 76046,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

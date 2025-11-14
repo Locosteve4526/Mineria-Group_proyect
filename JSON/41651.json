@@ -1,0 +1,54 @@
+{
+    "activityid": 41651,
+    "fields": {
+        "Type": "Book",
+        "Title": "Introduction to Teaching Physical Education",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Edition": "2nd",
+        "Volume": "",
+        "Publisher": "Human Kinetics",
+        "Publisher Location": "Champaign, IL",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669892",
+    "coauthors": {
+        "213621": {
+            "firstname": "Jane",
+            "middleinitial": "Marie",
+            "lastname": "Shimon",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669892",
+            "authorid": 213621,
+            "scholarlyactivityid": 41651
+        }
+    },
+    "status": [
+        {
+            "id": 41651,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 41651,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111669892",
+    "attachments": []
+}

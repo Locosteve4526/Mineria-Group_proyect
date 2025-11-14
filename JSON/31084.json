@@ -1,0 +1,62 @@
+{
+    "activityid": 31084,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Data archiving and management",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Boise, ID ",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "BSU Nursing Faculty",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112071180",
+    "coauthors": {
+        "115599": {
+            "firstname": "Patricia",
+            "middleinitial": "M",
+            "lastname": "Armstrong",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112071180",
+            "authorid": 115599,
+            "scholarlyactivityid": 31084
+        },
+        "115598": {
+            "firstname": "Garad",
+            "middleinitial": "M",
+            "lastname": "Davis",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111323598",
+            "authorid": 115598,
+            "scholarlyactivityid": 31084
+        },
+        "115597": {
+            "firstname": "Margie",
+            "middleinitial": "",
+            "lastname": "Ruppel",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113030640",
+            "authorid": 115597,
+            "scholarlyactivityid": 31084
+        }
+    },
+    "status": [
+        {
+            "id": 31084,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112071180",
+    "attachments": []
+}

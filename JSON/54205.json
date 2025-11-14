@@ -1,0 +1,67 @@
+{
+    "activityid": 54205,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Examining the effects of early mother sensitivity on adolescent social competence",
+        "Conference/Meeting Name": "Rocky Mountain Psychological Association, ",
+        "Conference Location": "Denver, CO, United States",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116449",
+    "coauthors": {
+        "279103": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Corn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279103,
+            "scholarlyactivityid": 54205,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "279104": {
+            "firstname": "Jennifer",
+            "middleinitial": "Miner",
+            "lastname": "Weaver",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116449",
+            "authorid": 279104,
+            "scholarlyactivityid": 54205,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54205,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54205,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113116449",
+    "attachments": []
+}

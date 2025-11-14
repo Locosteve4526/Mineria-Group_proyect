@@ -1,0 +1,84 @@
+{
+    "activityid": 69295,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;Developing Accessible Email Encryption Using a Certificateless One-Way Key Agreement Scheme&lt;/span&gt;&lt;/p&gt;",
+        "Name of Conference": "2023 4th Information Communication Technologies Conference",
+        "Month / Season": "May",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Secure email encryption is increasingly fundamental to successful personal and corporate communication. This is especially true as perpetual technological innovation makes assuring the integrity and authenticity of data more challenging. However, current information technology standards place little emphasis on email encryption. CLOW-GKA (Certificateless One Way Group Key Agreement Scheme) is an email encryption system that eliminates the need for third party verification. The cryptosystem draws from such other schemes as Phil Zimmerman\u2019s PGP (Pretty Good Privacy),&lt;span&gt;\u00a0 &lt;/span&gt;Shamir\u2019s&lt;span&gt;\u00a0 &lt;/span&gt;ID-PKC (Identity Based Public Key Cryptosystem), and Al-Riyami\u2019s CL-PKC (Certificateless PKC). This work is a continuous and a follow up effort to build a CLOW-GKA prototype by developing an accessible graphical user-interface (GUI) that implements CLOW-GKA. In particular, we focus on devising a GUI that is compatible with Gmail services, performs with comparable functionality, and offers better protection for sensitive information.&lt;/span&gt;&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "333540": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 333540,
+            "scholarlyactivityid": 69295,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333541": {
+            "firstname": "Srisarguru",
+            "middleinitial": "",
+            "lastname": "Sridhar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333541,
+            "scholarlyactivityid": 69295,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333542": {
+            "firstname": "K. Dakota",
+            "middleinitial": "",
+            "lastname": "White",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333542,
+            "scholarlyactivityid": 69295,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69295,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 58610,
+            "mimetype": "application/pdf",
+            "filename": "ET590.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yRlVsbm9oaGNKaElnVzFrVHJwWUpPMjNYV1JvTFJ4SFlqWXh6OHRlamlydz09",
+            "filesize": 406595
+        }
+    ]
+}

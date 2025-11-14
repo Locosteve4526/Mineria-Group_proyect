@@ -1,0 +1,63 @@
+{
+    "activityid": 29660,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Challenges and Lessons Learned from a 10 Year Study of Traumatic Brain Injury",
+        "Name of Conference": "Congress of Neurological Surgeons",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111850",
+    "coauthors": {
+        "104265": {
+            "firstname": "Pennie",
+            "middleinitial": "S",
+            "lastname": "Seibert",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111850",
+            "authorid": 104265,
+            "scholarlyactivityid": 29660,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "104266": {
+            "firstname": "Christian",
+            "middleinitial": "G",
+            "lastname": "Zimmerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 104266,
+            "scholarlyactivityid": 29660,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29660,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111850",
+    "attachments": []
+}

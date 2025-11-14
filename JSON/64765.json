@@ -1,0 +1,84 @@
+{
+    "activityid": 64765,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p style=&quot;font-size:12pt;text-align:center;&quot;&gt;Integrating Mentoring with P&amp;T Processes: A Case Study from the School of Public Service at Boise State&lt;/p&gt;",
+        "Journal": "Journal of Public Affairs Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112062498",
+    "coauthors": {
+        "300082": {
+            "firstname": "Lori",
+            "middleinitial": "J",
+            "lastname": "Hausegger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112062498",
+            "authorid": 300082,
+            "scholarlyactivityid": 64765,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300083": {
+            "firstname": "Luke",
+            "middleinitial": "",
+            "lastname": "Fowler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300083,
+            "scholarlyactivityid": 64765,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300084": {
+            "firstname": "Amanda",
+            "middleinitial": "",
+            "lastname": "Ashley",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300084,
+            "scholarlyactivityid": 64765,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64765,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 64765,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112062498",
+    "attachments": []
+}

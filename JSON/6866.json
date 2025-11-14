@@ -1,0 +1,86 @@
+{
+    "activityid": 6866,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Comparing local and proximal infrasound measurements at Mount Erebus, Antarctica: Implications for monitoring",
+        "Journal": "Journal of Volcanological and Geothermal Research",
+        "Volume": "",
+        "Month / Season": "2014-10-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.1016/j.volgeores.2014.10.001",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Proximal (10s - 100s of meters from vent) monitoring of volcanic infrasound is a common tool at volcanoes characterized by frequent low-magnitude eruptions, but it is generally not safe or practical to have sensors so close to the vent during more intense eruptions. To investigate the potential and limitations of monitoring at local ranges (1 to 10s of km) we studied infrasound detection and propagation at Mount Erebus, Antarctica.  This site has both a good proximal monitoring network and an additional International Monitoring System infrasound array, IS55, located 25 km away.  We compared data recorded at IS55 with a set of 117 Strombolian events that were recorded with the proximal array in January 2006.  75% of these events were identified at IS55 by an analyst looking for a pressure transient coincident with an F-statistic detection, which identifies coherent infrasound signals.  With the data from January 2006, we developed and calibrated an automated signal-detection algorithm based on threshold values of both the F-statistic and the correlation coefficient.  Application of the algorithm identified Strombolian signals at IS55 over the whole of 2006 and proved reliable for indicating trends in eruption frequency.  However, detectability of signals at IS55 depended strongly on the proximal signal amplitude: 90% of events with proximal amplitudes &gt; 25Pa were identified at IS55, compared to only 26% of events with proximal amplitudes &lt;25Pa.  Event detection was also affected by considerable variation in amplitude decay rates between the proximal and local sensors. Amplitudes recorded at IS55 varied between 2% and 74% of the amplitude expected assuming hemispherical spreading, indicating that amplitudes recorded at local ranges are unreliable indicators of event magnitude.  Comparing amplitude decay rates with locally collected radiosonde data indicates a close relationship between recorded amplitude and lower atmosphere sound speed structure.  At times of increased sound speed gradient, higher amplitude decay rates are observed, consistent with increased upward refraction of acoustic energy along the propagation path.  This study indicates that whilst monitoring activity levels at local ranges can be successful, variable amplitude decay rate means quantitative analysis of infrasound data for eruption intensity and magnitude is not advisable without consideration of local atmospheric sound speed structure.",
+        "Origin": "Other"
+    },
+    "facultyid": "113150379",
+    "coauthors": {
+        "21306": {
+            "firstname": "Alison",
+            "middleinitial": "",
+            "lastname": "Dabrowa",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21306,
+            "scholarlyactivityid": 6866
+        },
+        "21307": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Green",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21307,
+            "scholarlyactivityid": 6866
+        },
+        "21308": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 21308,
+            "scholarlyactivityid": 6866
+        },
+        "21309": {
+            "firstname": "J.C.",
+            "middleinitial": "",
+            "lastname": "Phillips",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21309,
+            "scholarlyactivityid": 6866
+        },
+        "21310": {
+            "firstname": "Alison",
+            "middleinitial": "",
+            "lastname": "Rust",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21310,
+            "scholarlyactivityid": 6866
+        }
+    },
+    "status": [
+        {
+            "id": 6866,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113150379",
+    "attachments": []
+}

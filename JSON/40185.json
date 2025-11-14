@@ -1,0 +1,77 @@
+{
+    "activityid": 40185,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Cultural factors in global e-learning: What research says",
+        "Book Title": "The encyclopedia of distance learning",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "1758-1765",
+        "Edition": "2nd",
+        "Volume": "3",
+        "Publisher": "IDEA Group",
+        "Publisher Location": "Hershey, PA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Rogers, P. et al. ",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175364": {
+            "firstname": "Donald",
+            "middleinitial": "",
+            "lastname": "Stepich",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175364,
+            "scholarlyactivityid": 40185,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175365": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175365,
+            "scholarlyactivityid": 40185,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175366": {
+            "firstname": "Allie",
+            "middleinitial": "",
+            "lastname": "Smith-Hobbs",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175366,
+            "scholarlyactivityid": 40185,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40185,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

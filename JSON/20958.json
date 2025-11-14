@@ -1,0 +1,52 @@
+{
+    "activityid": 20958,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "What do you do with a B.S. in Materials Science and Engineering?",
+        "Conference/Meeting Name": "International Conference on Materials for Advanced Technologies (ICMAT)",
+        "Conference Location": "Singapore, Malaysia",
+        "Date or Date Range": "2001-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643645",
+    "coauthors": {
+        "75779": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Moll",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643645",
+            "authorid": 75779,
+            "scholarlyactivityid": 20958
+        },
+        "75780": {
+            "firstname": "Bill",
+            "middleinitial": "",
+            "lastname": "Knowlton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643701",
+            "authorid": 75780,
+            "scholarlyactivityid": 20958
+        }
+    },
+    "status": [
+        {
+            "id": 20958,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2001,
+            "termid": "2001/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643645",
+    "attachments": []
+}

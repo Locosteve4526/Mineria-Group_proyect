@@ -1,0 +1,75 @@
+{
+    "activityid": 5560,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Online Graduate Teacher Education: Establishing an EKG for Student Success Intervention",
+        "Journal": "Technology, Knowledge and Learning",
+        "Volume": "21",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "21-32",
+        "Publisher": "Springer",
+        "DOI": "10.1007/s10758-015-9254-8",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "106693": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 106693,
+            "scholarlyactivityid": 5560
+        },
+        "106694": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 106694,
+            "scholarlyactivityid": 5560
+        },
+        "106695": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Baughman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106695,
+            "scholarlyactivityid": 5560
+        }
+    },
+    "status": [
+        {
+            "id": 5560,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 5560,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

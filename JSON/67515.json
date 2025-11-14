@@ -1,0 +1,78 @@
+{
+    "activityid": 67515,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Pipeline, Graduate Accountancy Programs, and the 150-Hour Rule",
+        "Journal": "Tax Notes Federal",
+        "Volume": "181",
+        "Month / Season": "",
+        "Issue Number": "Nov. 6, 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "1051-1066",
+        "Publisher": "Tax Analysts",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112033523",
+    "coauthors": {
+        "322391": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Cowan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033523",
+            "authorid": 322391,
+            "scholarlyactivityid": 67515,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "322392": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 322392,
+            "scholarlyactivityid": 67515
+        },
+        "322393": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 322393,
+            "scholarlyactivityid": 67515
+        }
+    },
+    "status": [
+        {
+            "id": 67515,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 67515,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112033523",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 59925,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Call for Pick-up Games in Educational Institutions",
+        "Journal": "Journal of Physical Education, Recreation, and Dance (JOPERD)",
+        "Volume": "92",
+        "Month / Season": "",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "34-42",
+        "Publisher": "Taylor &amp; Francis",
+        "DOI": "https://doi.org/10.1080/07303084.2021.1962449",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112179883",
+    "coauthors": {
+        "279700": {
+            "firstname": "Tyler",
+            "middleinitial": "G",
+            "lastname": "Johnson PhD",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112179883",
+            "authorid": 279700,
+            "scholarlyactivityid": 59925,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "279701": {
+            "firstname": "Gregg",
+            "middleinitial": "",
+            "lastname": "Twietmeyer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279701,
+            "scholarlyactivityid": 59925,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59925,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112179883",
+    "attachments": []
+}

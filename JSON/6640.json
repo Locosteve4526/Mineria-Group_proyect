@@ -1,0 +1,56 @@
+{
+    "activityid": 6640,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Clinical study and numerical simulation of brain cancer dynamics under radiotherapy",
+        "Journal": "Communications in Nonlinear Science and Numerical Simulation",
+        "Volume": "22",
+        "Month / Season": "2015-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We perform a clinical and numerical study of the progression of brain cancer tumor growth dynamics coupled with the effects of radiotherapy. We obtained clinical data from a sample of brain cancer patients undergoing radiotherapy and compare it to our numerical simulations to a mathematical model of brain tumor cell population growth influenced by radiation treatment. We model how the body biologically receives a physically delivered dose of radiation to the affected tumorous area in the form of a generalized LQ model, modified to account for the conversion process of sublethal lesions into lethal lesions at high radiation doses. We obtain good agreement between our clinical data and our numerical simulations of brain cancer progression given by the mathematical model, which couples tumor growth dynamics and the effect of irradiation. The correlation, spanning a wide dataset, demonstrates the potential of the mathematical model to describe the dynamics of brain tumor growth influenced by radiotherapy.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20705": {
+            "firstname": "Sergiusz",
+            "middleinitial": "",
+            "lastname": "Nawrocki",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20705,
+            "scholarlyactivityid": 6640
+        },
+        "20706": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20706,
+            "scholarlyactivityid": 6640
+        }
+    },
+    "status": [
+        {
+            "id": 6640,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

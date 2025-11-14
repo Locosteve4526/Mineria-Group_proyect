@@ -1,0 +1,71 @@
+{
+    "activityid": 53155,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "We can move mountains. Engaging in state-level policy work",
+        "Journal": "Journal of Contemporary Criminal Justice",
+        "Volume": "37",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "212-220",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112002659",
+    "coauthors": {
+        "271398": {
+            "firstname": "Lisa",
+            "middleinitial": "Marie",
+            "lastname": "Growette Bostaph",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112002659",
+            "authorid": 271398,
+            "scholarlyactivityid": 53155,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "271399": {
+            "firstname": "Melissa",
+            "middleinitial": "",
+            "lastname": "Wintrow",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 271399,
+            "scholarlyactivityid": 53155,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53155,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53155,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112002659",
+    "attachments": []
+}

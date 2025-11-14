@@ -1,0 +1,86 @@
+{
+    "activityid": 50126,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Data Quality Relevance in Linguistic Analysis: The Impact of Transcription Errors on Multiple Methods of Linguistic Analysis",
+        "Name of Conference": "AMCIS",
+        "Month / Season": "August 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "AIS",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106117",
+    "coauthors": {
+        "233004": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Pentland",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114106117",
+            "authorid": 233004,
+            "scholarlyactivityid": 50126
+        },
+        "233003": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Spitzley",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 233003,
+            "scholarlyactivityid": 50126
+        },
+        "233002": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 233002,
+            "scholarlyactivityid": 50126
+        },
+        "233001": {
+            "firstname": "Douglas",
+            "middleinitial": "P",
+            "lastname": "Twitchell",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 233001,
+            "scholarlyactivityid": 50126
+        }
+    },
+    "status": [
+        {
+            "id": 50126,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 50126,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114106117",
+    "attachments": []
+}

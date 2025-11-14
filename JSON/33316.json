@@ -1,0 +1,93 @@
+{
+    "activityid": 33316,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Physical Computing for STEAM Education: Maker-Educators' Experiences in an Online Graduate Course",
+        "Journal": "Journal of Computers in Mathematics and Science Teaching",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113075443",
+    "coauthors": {
+        "170112": {
+            "firstname": "Yu-Chang",
+            "middleinitial": "",
+            "lastname": "Hsu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113075443",
+            "authorid": 170112,
+            "scholarlyactivityid": 33316,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "170113": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 170113,
+            "scholarlyactivityid": 33316,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "170114": {
+            "firstname": "Sally",
+            "middleinitial": "",
+            "lastname": "Baldwin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 170114,
+            "scholarlyactivityid": 33316,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33316,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 33316,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 33316,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113075443",
+    "attachments": []
+}

@@ -1,0 +1,80 @@
+{
+    "activityid": 28316,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Guide to Auditing Attachment Fields in Access Databases",
+        "Journal": "ISACA Journal",
+        "Volume": "4",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "31-48",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This article explains how to create, audit, and delete file attachments using an example of organizing hiring documents when performing a job search.  While there are many uses for attachments within most existing databases, we chose this application because of its broad applicability. Our discussion assumes that readers have a working knowledge of Access, but not necessarily attachment fields.  It illustrates the tasks involved using Access 2016, but most of the discussions and figures apply to Access 2013 as well.  ",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "148970": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 148970,
+            "scholarlyactivityid": 28316,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "148971": {
+            "firstname": "Mark",
+            "middleinitial": "G.",
+            "lastname": "Simkin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 148971,
+            "scholarlyactivityid": 28316,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28316,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 28316,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 28316,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

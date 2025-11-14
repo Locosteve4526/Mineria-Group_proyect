@@ -1,0 +1,88 @@
+{
+    "activityid": 64190,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Co-Author",
+        "Journal": "Journal of Research in Interactive Marketing",
+        "Volume": "17",
+        "Month / Season": "",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "882-900",
+        "Publisher": "Emerald Publishing Limited",
+        "DOI": "https://doi.org/10.1108/JRIM-08-2022-0262",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114229877",
+    "coauthors": {
+        "318605": {
+            "firstname": "Hey Jin",
+            "middleinitial": "",
+            "lastname": "Yoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318605,
+            "scholarlyactivityid": 64190,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318606": {
+            "firstname": "Yoon-Joo",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318606,
+            "scholarlyactivityid": 64190,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318607": {
+            "firstname": "Shuoya",
+            "middleinitial": "",
+            "lastname": "Sun",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318607,
+            "scholarlyactivityid": 64190,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318608": {
+            "firstname": "Jinho",
+            "middleinitial": "",
+            "lastname": "Joo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114229877",
+            "authorid": 318608,
+            "scholarlyactivityid": 64190,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64190,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114229877",
+    "attachments": []
+}

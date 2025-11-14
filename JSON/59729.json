@@ -1,0 +1,89 @@
+{
+    "activityid": 59729,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Modeling Fatigue Failure in Soft Fibrous Tissue using a Visco-Hyperelastic Model with Discontinuous Damage",
+        "Name of Conference": "15th World Congress on Computational Mechanics",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "302537": {
+            "firstname": "Bradley",
+            "middleinitial": "",
+            "lastname": "Henderson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302537,
+            "scholarlyactivityid": 59729,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "302538": {
+            "firstname": "Katelyn",
+            "middleinitial": "",
+            "lastname": "Cudworth",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302538,
+            "scholarlyactivityid": 59729,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "302539": {
+            "firstname": "Estefania",
+            "middleinitial": "",
+            "lastname": "Pena",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302539,
+            "scholarlyactivityid": 59729,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "302540": {
+            "firstname": "Trevor",
+            "middleinitial": "Justin",
+            "lastname": "Lujan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113124248",
+            "authorid": 302540,
+            "scholarlyactivityid": 59729,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59729,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

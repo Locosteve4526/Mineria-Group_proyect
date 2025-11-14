@@ -1,0 +1,84 @@
+{
+    "activityid": 77690,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Are Knowledge Ascriptions Sensitive to Psychological Distance?",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "x-phi project with Steve Crowley and Chad Gonnerman",
+        "Origin": "Manual"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "348519": {
+            "firstname": "Alexander",
+            "middleinitial": "P",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113074305",
+            "authorid": 348519,
+            "scholarlyactivityid": 77690
+        },
+        "348520": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Crowley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 348520,
+            "scholarlyactivityid": 77690
+        },
+        "348521": {
+            "firstname": "Chad",
+            "middleinitial": "",
+            "lastname": "Gonnerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 348521,
+            "scholarlyactivityid": 77690
+        }
+    },
+    "status": [
+        {
+            "id": 77690,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 77690,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 77690,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

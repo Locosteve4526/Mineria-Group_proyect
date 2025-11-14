@@ -1,0 +1,52 @@
+{
+    "activityid": 15627,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Collagen Type XI ?1 Chain Amino Propeptide",
+        "Conference/Meeting Name": "The 9th Annual INBRE conference",
+        "Conference Location": "Moscow, ID",
+        "Date or Date Range": "2011-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "64108": {
+            "firstname": "Chris ",
+            "middleinitial": "",
+            "lastname": "Mallory",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64108,
+            "scholarlyactivityid": 15627
+        },
+        "64109": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 64109,
+            "scholarlyactivityid": 15627
+        }
+    },
+    "status": [
+        {
+            "id": 15627,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

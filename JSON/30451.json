@@ -1,0 +1,115 @@
+{
+    "activityid": 30451,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Expert Advice for Interdisciplinary Research Teams",
+        "Journal": "Translational Behavioral Medicine",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "157548": {
+            "firstname": "Michelle",
+            "middleinitial": "",
+            "lastname": "Bennett",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 157548,
+            "scholarlyactivityid": 30451
+        },
+        "157549": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 157549,
+            "scholarlyactivityid": 30451
+        },
+        "157550": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Nelan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 157550,
+            "scholarlyactivityid": 30451
+        },
+        "157551": {
+            "firstname": "Gary",
+            "middleinitial": "",
+            "lastname": "Olson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 157551,
+            "scholarlyactivityid": 30451
+        },
+        "157552": {
+            "firstname": "Susannah",
+            "middleinitial": "",
+            "lastname": "Paletz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 157552,
+            "scholarlyactivityid": 30451
+        },
+        "157553": {
+            "firstname": "Maritza",
+            "middleinitial": "",
+            "lastname": "Salazar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 157553,
+            "scholarlyactivityid": 30451
+        },
+        "157554": {
+            "firstname": "Howard",
+            "middleinitial": "",
+            "lastname": "Galin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 157554,
+            "scholarlyactivityid": 30451
+        }
+    },
+    "status": [
+        {
+            "id": 30451,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 30451,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

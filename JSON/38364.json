@@ -1,0 +1,76 @@
+{
+    "activityid": 38364,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "What is Retention?",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Utah State University Press",
+        "Publisher Location": "Logan, UT",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Rita Malenczyk",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "This is an in-progress invited book chapter for the second edition of a book collection, A Rhetoric for Writing Program Administrators\r\nRole:  Co-Principal",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113118110",
+    "coauthors": {
+        "161132": {
+            "firstname": "Pegeen",
+            "middleinitial": "Reichert",
+            "lastname": "Powell",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 161132,
+            "scholarlyactivityid": 38364
+        },
+        "161133": {
+            "firstname": "Dawn",
+            "middleinitial": "Renee",
+            "lastname": "Shepherd",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113118110",
+            "authorid": 161133,
+            "scholarlyactivityid": 38364
+        }
+    },
+    "status": [
+        {
+            "id": 38364,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 38364,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 38364,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113118110",
+    "attachments": []
+}

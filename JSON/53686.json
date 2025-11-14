@@ -1,0 +1,103 @@
+{
+    "activityid": 53686,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Implementation resistance and the human dimensions of connectivity planning",
+        "Journal": "People and Nature",
+        "Volume": "5",
+        "Month / Season": "",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "1922-1936",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1002/pan3.10525 ",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10525",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114136811",
+    "coauthors": {
+        "312197": {
+            "firstname": "Matthew",
+            "middleinitial": "A",
+            "lastname": "Williamson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114136811",
+            "authorid": 312197,
+            "scholarlyactivityid": 53686
+        },
+        "312198": {
+            "firstname": "Lael",
+            "middleinitial": "",
+            "lastname": "Parrott",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312198,
+            "scholarlyactivityid": 53686
+        },
+        "312199": {
+            "firstname": "Neil",
+            "middleinitial": "H",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312199,
+            "scholarlyactivityid": 53686
+        },
+        "312200": {
+            "firstname": "Adam",
+            "middleinitial": "T",
+            "lastname": "Ford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312200,
+            "scholarlyactivityid": 53686
+        }
+    },
+    "status": [
+        {
+            "id": 53686,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53686,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 53686,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 53686,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114136811",
+    "attachments": []
+}

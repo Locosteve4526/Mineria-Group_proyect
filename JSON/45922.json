@@ -1,0 +1,76 @@
+{
+    "activityid": 45922,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Breaking the exclusionary boundary between user experience and access",
+        "Name of Conference": "International Conference on the Design of Communication",
+        "Month / Season": "October 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "2",
+        "Publisher": "ACM",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114133843",
+    "coauthors": {
+        "209319": {
+            "firstname": "Sherena",
+            "middleinitial": "",
+            "lastname": "Huntsman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114133843",
+            "authorid": 209319,
+            "scholarlyactivityid": 45922,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "209320": {
+            "firstname": "Zsuzsanna",
+            "middleinitial": "B",
+            "lastname": "Palmer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209320,
+            "scholarlyactivityid": 45922,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "209321": {
+            "firstname": "Sushil",
+            "middleinitial": "K",
+            "lastname": "Oswal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209321,
+            "scholarlyactivityid": 45922,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45922,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114133843",
+    "attachments": []
+}

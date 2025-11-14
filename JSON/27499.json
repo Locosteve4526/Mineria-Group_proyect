@@ -1,0 +1,55 @@
+{
+    "activityid": 27499,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Ashgate Research Companion to Biosocial Theories of Crime",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Ashgate",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Ashgate",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/280",
+        "Description/Abstract": "In response to exciting developments in genetics, neuroscience and evolutionary psychology, a number of criminologists have embraced the position that criminal behaviour is the product of biological, psychological, and sociological factors operating together in complex ways. This title gives an overview of the state of research in the field.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "87095": {
+            "firstname": "Kevin",
+            "middleinitial": "M.",
+            "lastname": "Beaver",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87095,
+            "scholarlyactivityid": 27499
+        },
+        "87096": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 87096,
+            "scholarlyactivityid": 27499
+        }
+    },
+    "status": [
+        {
+            "id": 27499,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

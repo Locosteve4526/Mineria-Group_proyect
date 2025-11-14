@@ -1,0 +1,72 @@
+{
+    "activityid": 58750,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Incremental Transitive Closure for Zonal Abstract Domain",
+        "Name of Conference": "Nasa Formal Methods Symposium",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "pp 800-808",
+        "Publisher": "Lecture Notes in Computer Science ",
+        "Publisher Location": "",
+        "Volume": "13260",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113164447",
+    "coauthors": {
+        "298939": {
+            "firstname": "Kenny",
+            "middleinitial": "",
+            "lastname": "Ballou",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298939,
+            "scholarlyactivityid": 58750,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298940": {
+            "firstname": "Elena",
+            "middleinitial": "A.",
+            "lastname": "Sherman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113164447",
+            "authorid": 298940,
+            "scholarlyactivityid": 58750,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58750,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 58750,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113164447",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 63526,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span&gt;Lifetime reproductive success of western Burrowing Owls in southwestern Idaho&lt;/span&gt;",
+        "Name of Conference": "2022 Annual Conference of the Raptor Research Foundation, Ft. Lauderdale, FL",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "292728": {
+            "firstname": "Brent",
+            "middleinitial": "",
+            "lastname": "Clark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 292728,
+            "scholarlyactivityid": 63526,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "292729": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 292729,
+            "scholarlyactivityid": 63526,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63526,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

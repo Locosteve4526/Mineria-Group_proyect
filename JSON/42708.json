@@ -1,0 +1,42 @@
+{
+    "activityid": 42708,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Athletic Degree Transition Update",
+        "Conference/Meeting Name": "West Ada Professional Technical Education",
+        "Conference Location": "Meridian, ID",
+        "Date or Date Range": "September 2015",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "West Ada School District",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111230498",
+    "coauthors": {
+        "190562": {
+            "firstname": "Dave",
+            "middleinitial": "",
+            "lastname": "Hammons",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111230498",
+            "authorid": 190562,
+            "scholarlyactivityid": 42708
+        }
+    },
+    "status": [
+        {
+            "id": 42708,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111230498",
+    "attachments": []
+}

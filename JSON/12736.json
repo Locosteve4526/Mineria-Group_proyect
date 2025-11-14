@@ -1,0 +1,62 @@
+{
+    "activityid": 12736,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Media exposure and  grade point average",
+        "Conference/Meeting Name": "Idaho School Counselor Association",
+        "Conference Location": "",
+        "Date or Date Range": "2007-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111726552",
+    "coauthors": {
+        "57435": {
+            "firstname": "C.",
+            "middleinitial": "",
+            "lastname": "Groth-Landis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 57435,
+            "scholarlyactivityid": 12736
+        },
+        "57436": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Lunstrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 57436,
+            "scholarlyactivityid": 12736
+        },
+        "57437": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Doumas",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111726552",
+            "authorid": 57437,
+            "scholarlyactivityid": 12736
+        }
+    },
+    "status": [
+        {
+            "id": 12736,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111726552",
+    "attachments": []
+}

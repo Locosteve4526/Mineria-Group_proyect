@@ -1,0 +1,58 @@
+{
+    "activityid": 48825,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Trace Analysis of Wine from 6000 BC",
+        "Conference/Meeting Name": "Department of Chemistry and Biochemistry Seminar",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "March 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114044110",
+    "coauthors": {
+        "226528": {
+            "firstname": "Kim",
+            "middleinitial": "",
+            "lastname": "Farrar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226528,
+            "scholarlyactivityid": 48825,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "226529": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Callahan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114044110",
+            "authorid": 226529,
+            "scholarlyactivityid": 48825,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48825,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114044110",
+    "attachments": []
+}

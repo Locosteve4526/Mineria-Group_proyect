@@ -1,0 +1,62 @@
+{
+    "activityid": 35311,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The pyramid of collaborative language",
+        "Journal": "Communication Director",
+        "Volume": "2",
+        "Month / Season": "July",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114060599",
+    "coauthors": {
+        "144889": {
+            "firstname": "Renee",
+            "middleinitial": "G.",
+            "lastname": "Heath",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 144889,
+            "scholarlyactivityid": 35311,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "144890": {
+            "firstname": "Matthew",
+            "middleinitial": "G.",
+            "lastname": "Isbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060599",
+            "authorid": 144890,
+            "scholarlyactivityid": 35311,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 35311,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114060599",
+    "attachments": []
+}

@@ -1,0 +1,103 @@
+{
+    "activityid": 80191,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Phylogenomics and comparative genomics of two of the largest genera of flowering plants, Piper and Peperomia (Piperaceae)&lt;/p&gt;",
+        "Journal": "Molecular Phylogenetics and Evolution",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "doi.org/10.1016/j.ympev.2021.107229",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1016/j.ympev.2021.107229",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "353951": {
+            "firstname": "Sara",
+            "middleinitial": "E",
+            "lastname": "Simmonds",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114110094",
+            "authorid": 353951,
+            "scholarlyactivityid": 80191
+        },
+        "353952": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 353952,
+            "scholarlyactivityid": 80191
+        },
+        "353953": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Davidson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 353953,
+            "scholarlyactivityid": 80191
+        },
+        "353954": {
+            "firstname": "Sven",
+            "middleinitial": "C",
+            "lastname": "Buerki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088564",
+            "authorid": 353954,
+            "scholarlyactivityid": 80191
+        }
+    },
+    "status": [
+        {
+            "id": 80191,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 80191,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 80191,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 80191,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

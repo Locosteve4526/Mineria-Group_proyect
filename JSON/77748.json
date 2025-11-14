@@ -1,0 +1,58 @@
+{
+    "activityid": 77748,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;color:#333333;background-color:rgba(0,0,0,0.05);&quot;&gt;Vaccines: new ways to make them and deliver them&lt;/span&gt;",
+        "Conference/Meeting Name": "Science on Tap",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "May 13, 2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "348704": {
+            "firstname": "Haley",
+            "middleinitial": "",
+            "lastname": "Bridgewater",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 348704,
+            "scholarlyactivityid": 77748,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "348705": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 348705,
+            "scholarlyactivityid": 77748,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77748,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 21223,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Collecting, organizing, and managing resources for teaching educational games the wiki way",
+        "Conference/Meeting Name": "Live webcast: Nova Southeastern University",
+        "Conference Location": "",
+        "Date or Date Range": "2008-01-10",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "76500": {
+            "firstname": "S",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76500,
+            "scholarlyactivityid": 21223
+        },
+        "76501": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 76501,
+            "scholarlyactivityid": 21223
+        },
+        "76502": {
+            "firstname": "D",
+            "middleinitial": "",
+            "lastname": "Wiley",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76502,
+            "scholarlyactivityid": 21223
+        }
+    },
+    "status": [
+        {
+            "id": 21223,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

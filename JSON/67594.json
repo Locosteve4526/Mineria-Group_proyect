@@ -1,0 +1,58 @@
+{
+    "activityid": 67594,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The potential of Long Noncoding RNAs to Regulate Conjunctival Fibrosis",
+        "Conference / Meeting Name": "American Society for Matrix Biology",
+        "Conference Location": "Salt Lake City, Utah, USA",
+        "Date or Date Range": "10/22/23",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "American Society for Matrix Biology",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "307408": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Tuft",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307408,
+            "scholarlyactivityid": 67594,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "307409": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 307409,
+            "scholarlyactivityid": 67594,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 67594,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

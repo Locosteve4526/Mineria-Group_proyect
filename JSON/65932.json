@@ -1,0 +1,77 @@
+{
+    "activityid": 65932,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Towards Deanonymization of Mixing Services in Bitcoin",
+        "Name of Conference": "IEEE Global Emerging Technologies Blockchain (GET Blockchain)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114011359",
+    "coauthors": {
+        "305280": {
+            "firstname": "Ch\u00e1beli",
+            "middleinitial": "",
+            "lastname": "Casta\u00f1o",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 305280,
+            "scholarlyactivityid": 65932
+        },
+        "305281": {
+            "firstname": "Roberto",
+            "middleinitial": "",
+            "lastname": "Luna-Garcia",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 305281,
+            "scholarlyactivityid": 65932
+        },
+        "305282": {
+            "firstname": "Steve",
+            "middleinitial": "",
+            "lastname": "Cutchin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114011359",
+            "authorid": 305282,
+            "scholarlyactivityid": 65932
+        },
+        "305283": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 305283,
+            "scholarlyactivityid": 65932
+        }
+    },
+    "status": [
+        {
+            "id": 65932,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114011359",
+    "attachments": []
+}

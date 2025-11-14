@@ -1,0 +1,55 @@
+{
+    "activityid": 3579,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "How you know you are not a brain in a vat",
+        "Journal": "Philosophical Studies",
+        "Volume": "",
+        "Month / Season": "2014-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113074305",
+    "coauthors": {
+        "266313": {
+            "firstname": "Alexander",
+            "middleinitial": "P.V.",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113074305",
+            "authorid": 266313,
+            "scholarlyactivityid": 3579
+        }
+    },
+    "status": [
+        {
+            "id": 3579,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 3579,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113074305",
+    "attachments": []
+}

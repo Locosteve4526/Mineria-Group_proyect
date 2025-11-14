@@ -1,0 +1,62 @@
+{
+    "activityid": 77099,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Lead Author",
+        "Journal": "Journal of Interactive Advertising",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114229877",
+    "coauthors": {
+        "343753": {
+            "firstname": "Jinho",
+            "middleinitial": "",
+            "lastname": "Joo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114229877",
+            "authorid": 343753,
+            "scholarlyactivityid": 77099,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "343754": {
+            "firstname": "Yoon-Joo",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343754,
+            "scholarlyactivityid": 77099,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77099,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114229877",
+    "attachments": []
+}

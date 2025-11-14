@@ -1,0 +1,74 @@
+{
+    "activityid": 58707,
+    "fields": {
+        "Type": "Book",
+        "Title": "An easyguide to APA style ",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "4",
+        "Volume": "",
+        "Publisher": "Sage",
+        "Publisher Location": "Thousand Oaks, CA",
+        "ISBN": "9-781544-323725",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "273926": {
+            "firstname": "Beth",
+            "middleinitial": "M.",
+            "lastname": "Schwartz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273926,
+            "scholarlyactivityid": 58707,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "273927": {
+            "firstname": "R. Eric",
+            "middleinitial": "",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 273927,
+            "scholarlyactivityid": 58707,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "273928": {
+            "firstname": "Regan",
+            "middleinitial": "A. R.",
+            "lastname": "Gurung",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273928,
+            "scholarlyactivityid": 58707,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58707,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

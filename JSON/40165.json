@@ -1,0 +1,63 @@
+{
+    "activityid": 40165,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "When Blackboard met Articulate: How SCORM made it happen",
+        "Name of Conference": "World Conference on Educational Multimedia, Hypermedia and Telecommunications",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "3122-3127",
+        "Publisher": "AACE",
+        "Publisher Location": "Chesapeake, VA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175350": {
+            "firstname": "Shelley",
+            "middleinitial": "",
+            "lastname": "Berg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175350,
+            "scholarlyactivityid": 40165,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175351": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175351,
+            "scholarlyactivityid": 40165,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40165,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

@@ -1,0 +1,84 @@
+{
+    "activityid": 59880,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Photogrammetry for assessing distress in a concrete block pavement system",
+        "Journal": "Journal of Performance of Constructed Facilities",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001930",
+    "coauthors": {
+        "294044": {
+            "firstname": "Nicholas",
+            "middleinitial": "W",
+            "lastname": "Hudyma",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114136465",
+            "authorid": 294044,
+            "scholarlyactivityid": 59880
+        },
+        "294045": {
+            "firstname": "Nathaniel",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294045,
+            "scholarlyactivityid": 59880
+        },
+        "294046": {
+            "firstname": "Bhaskar",
+            "middleinitial": "C.S.",
+            "lastname": "Chittoori",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001930",
+            "authorid": 294046,
+            "scholarlyactivityid": 59880
+        }
+    },
+    "status": [
+        {
+            "id": 59880,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 59880,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 59880,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114001930",
+    "attachments": []
+}

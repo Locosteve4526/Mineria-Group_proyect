@@ -1,0 +1,72 @@
+{
+    "activityid": 39885,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Introducing the Boise State Bangla Handwritten Dataset and an Efficient Offline Recognizer of Isolated Bangla Characters",
+        "Name of Conference": "International Conference on Frontiers of Handwriting Recognition (ICFHR 2018), ",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper presents a publicly accessible Bangla\noffline handwriting dataset, as well as benchmarking with a\nsimple and robust isolated handwritten character recognition\nscheme. The dataset is named the Boise State Bangla Handwriting Dataset.\nThe dataset contains 2 pages. The first has a 104 word/364\ncharacter essay. The essay uses 49 basic characters, all 11 vowel\ndiacritics and 32 high frequency consonant conjuncts. The second\npage contains 84 isolated units containing all basic characters,\nnumbers, vowel diacritics and several high frequency conjuncts.\nThe initial release is based on the voluntary contribution of\n100 different writers. One of the highlights and unique features\nof this database is that all of its contents are tagged with the\nassociated ground truth information from different component\nhierarchies, such as characters, words and lines. It is expected to\nbe useful for research on offline Bangla handwriting recognition,\nparticularly with segmentation-based approaches. Furthermore,\na basic character recognition method is presented where the\nfeatures are extracted based on zonal pixel counts, structural\nstrokes and grid points with U-SURF descriptors modeled with\nbag of features. The highest classification accuracy obtained with\nan SVM classifier based on a cubic kernel is 95.4% using the\nisolated characters from the Boise State dataset together with 3 other\ndatasets to ensure the versatility and robustness of this process.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "172756": {
+            "firstname": "Nishatul",
+            "middleinitial": "",
+            "lastname": "Majid",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 172756,
+            "scholarlyactivityid": 39885
+        },
+        "172757": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 172757,
+            "scholarlyactivityid": 39885
+        }
+    },
+    "status": [
+        {
+            "id": 39885,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": [
+        {
+            "attachmentid": 11453,
+            "mimetype": "application/pdf",
+            "filename": "conference_071817 (1).pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yWkc3dFhzWmNrT1NnUUpLQWV3OFhncjZzZC93TGxKVnJoZEkra1RQanBPRFljYjVQd1dJaXVtM0t5Z3RkbStqOD0%3D",
+            "filesize": 2547341
+        },
+        {
+            "attachmentid": 11454,
+            "mimetype": "application/pdf",
+            "filename": "ICFHR_Poster-31July18.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yWkc3dFhzWmNrT1hZSDRiVDZQTlR4ZUtUYXhIMzFEREJ6blNiai9sRkRtVHV1di9UNEFhNE1JMk1jL0xYbzRxOD0%3D",
+            "filesize": 4301628
+        }
+    ]
+}

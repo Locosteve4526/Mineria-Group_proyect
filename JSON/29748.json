@@ -1,0 +1,58 @@
+{
+    "activityid": 29748,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Secure Homomorphic Encryption Algorithm over Integers for Data Privacy Protection in Clouds",
+        "Name of Conference": "International Conference on Smart Computing and Communication  (SmartCom 2016)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "111-121",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "Volume": "LNCS 10135",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "If a secure and efficient fully homomorphic encryption algorithm\r\nexists, it should be the ultimate solution for securing data privacy\r\nin clouds, where cloud servers can apply any operation directly over the\r\nhomomorphically encrypted ciphertexts without having to decrypt them.\r\nWith such encryption algorithms, clients\u2019 data privacy can be preserved\r\nsince cloud service providers can operate on these encrypted data without\r\nknowing the content of these data. Currently only one fully homomorphic\r\nencryption algorithm proposed by Gentry in 2009 and some of its\r\nvariants are available in literature. However, because of the prohibitively\r\nexpensive computing cost, these Gentry-like algorithms are not practical\r\nto be used to securing data in clouds. Due to the difficulty in developing\r\npractical fully homomorphic algorithms, partially homomorphic\r\nalgorithms have also been studied in literature, especially for those algorithms homomorphic on arithmetic operations over integers. This paper\r\npresents a secure variant algorithm to an existing homomorphic algorithm\r\nover integers. The original algorithm allows unlimited number of\r\narithmetic additions and multiplications but suffers on a security weakness.\r\nThe variant algorithm patches the weakness by adding a random\r\npadding before encryption. This paper first describes the original algorithm\r\nbriefly and then points out it\u2019s security problem before we present\r\nthe variant algorithm. An efficiency analysis for both the original and\r\nthe variant algorithms will be presented at the end of the paper.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "105048": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 105048,
+            "scholarlyactivityid": 29748,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29748,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 1224,
+            "mimetype": "application/pdf",
+            "filename": "phe2.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25waXZieElIaXd6VzE1VzRBeGQ2REsvY0RwSnlnZHkxZENpQkxpUzJMUFZWQT09",
+            "filesize": 211878
+        }
+    ]
+}

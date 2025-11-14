@@ -1,0 +1,104 @@
+{
+    "activityid": 74087,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Video Game Metadata Schema:\u00a0Controlled Vocabulary for Transaction Types Version 1.1",
+        "Outlet (if applicable)": "University of Washington Information School Game Research Group Website",
+        "Date": "2024-09-04",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://github.com/uwgamergroup/vocabulary-transaction-type/",
+        "Description/Abstract": "&lt;span&gt;This vocabulary has been developed to represent\u00a0the nature and mechanisms of value exchange between game players and developers.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "345789": {
+            "firstname": "Jin Ha",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345789,
+            "scholarlyactivityid": 74087,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345790": {
+            "firstname": "Travis",
+            "middleinitial": "",
+            "lastname": "Windleharth",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345790,
+            "scholarlyactivityid": 74087,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345791": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 345791,
+            "scholarlyactivityid": 74087,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345792": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Newman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345792,
+            "scholarlyactivityid": 74087,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345793": {
+            "firstname": "Lane",
+            "middleinitial": "D",
+            "lastname": "Koughan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345793,
+            "scholarlyactivityid": 74087,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74087,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

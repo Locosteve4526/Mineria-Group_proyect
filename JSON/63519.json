@@ -1,0 +1,76 @@
+{
+    "activityid": 63519,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Barn Owl Roadway Mortality: Understanding Why More Females than Males are Involved\u00a0&lt;/span&gt;",
+        "Name of Conference": "2022 Annual Conference of the Raptor Research Foundation, Ft. Lauderdale, FL",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "292707": {
+            "firstname": "Nicole",
+            "middleinitial": "",
+            "lastname": "Young",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 292707,
+            "scholarlyactivityid": 63519,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "292708": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Busby",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 292708,
+            "scholarlyactivityid": 63519,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "292709": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 292709,
+            "scholarlyactivityid": 63519,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63519,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

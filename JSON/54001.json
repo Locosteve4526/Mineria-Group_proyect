@@ -1,0 +1,58 @@
+{
+    "activityid": 54001,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Metacognitive learning strategies used by geoscience students",
+        "Conference / Meeting Name": "Geological Society of America Annual Meeting",
+        "Conference Location": "virtual",
+        "Date or Date Range": "October, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "252820": {
+            "firstname": "MJ",
+            "middleinitial": "",
+            "lastname": "Faris",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252820,
+            "scholarlyactivityid": 54001,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "252821": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 252821,
+            "scholarlyactivityid": 54001,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54001,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

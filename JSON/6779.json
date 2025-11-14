@@ -1,0 +1,56 @@
+{
+    "activityid": 6779,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Animal Behavior",
+        "Journal": "The Oxford Handbook of the Philosophy of Biology",
+        "Volume": "",
+        "Month / Season": "2008-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "",
+        "Publisher": "Oxford University Press",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "21052": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 21052,
+            "scholarlyactivityid": 6779
+        },
+        "21053": {
+            "firstname": "Colin",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21053,
+            "scholarlyactivityid": 6779
+        }
+    },
+    "status": [
+        {
+            "id": 6779,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

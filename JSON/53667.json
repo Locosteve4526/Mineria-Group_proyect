@@ -1,0 +1,69 @@
+{
+    "activityid": 53667,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Norma Cole's Fate News: The essemtial truths of poetry",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "251150": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 251150,
+            "scholarlyactivityid": 53667,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53667,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53667,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 53667,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

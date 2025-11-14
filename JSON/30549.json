@@ -1,0 +1,77 @@
+{
+    "activityid": 30549,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Social presence in online learning: Past, present, and future",
+        "Name of Conference": "Proceedings of Global Learn 2016",
+        "Month / Season": "2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "477-483",
+        "Publisher": "Association for the Advancement of Computing in Education",
+        "Publisher Location": "Chesapeake, VA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "112202": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Richardson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112202,
+            "scholarlyactivityid": 30549
+        },
+        "112203": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Swan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112203,
+            "scholarlyactivityid": 30549
+        },
+        "112204": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 112204,
+            "scholarlyactivityid": 30549
+        },
+        "112205": {
+            "firstname": "Phil",
+            "middleinitial": "",
+            "lastname": "Ice",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112205,
+            "scholarlyactivityid": 30549
+        }
+    },
+    "status": [
+        {
+            "id": 30549,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

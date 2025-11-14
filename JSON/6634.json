@@ -1,0 +1,46 @@
+{
+    "activityid": 6634,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Chebyshev Pseudospectral Method and Waveform Relaxation for Differential and Differential-Functional Parabolic Equations",
+        "Journal": "Applied Numerical Mathematics",
+        "Volume": "34",
+        "Month / Season": "2000-12-31",
+        "Issue Number": "3-Feb",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Page Numbers": "309-328",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The waveform relaxation technique for linear parabolic differential and differential\u2013functional equations is studied. We use the second order finite difference method and the Chebyshev pseudospectral method for spatial discretization and apply a Gauss\u2013Seidel waveform relaxation scheme to the resulting systems of ordinary differential and differential\u2013functional equations. Waveform relaxation error bounds are presented for the two semi-discretization schemes in both functional and non-functional cases. Sharp error bounds are obtained after application of an inequalities technique with time-dependent coefficients and logarithmic norm. Convergence of the schemes is studied analytically and compared by means of extensive numerical data obtained for four parabolic equations with different coefficients. Our conclusion is that waveform relaxation error bounds and waveform relaxation convergence are better after Chebyshev pseudospectral semi-discretization than after finite difference method. Moreover, for the same accuracy of semi-discretization, a single Gauss\u2013Seidel waveform iteration after Chebyshev pseudospectral method is less expensive than after finite difference method.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20694": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20694,
+            "scholarlyactivityid": 6634
+        }
+    },
+    "status": [
+        {
+            "id": 6634,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

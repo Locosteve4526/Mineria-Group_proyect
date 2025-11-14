@@ -1,0 +1,71 @@
+{
+    "activityid": 69608,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p style=&quot;text-align:center;&quot;&gt;&lt;span style=&quot;font-size:14pt;&quot;&gt;Executive Networks and Price Efficiency&lt;/span&gt;&lt;/p&gt;",
+        "Journal": "Financial Management",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "314739": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086454",
+            "authorid": 314739,
+            "scholarlyactivityid": 69608,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "314740": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "McCumber",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314740,
+            "scholarlyactivityid": 69608,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69608,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 69608,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

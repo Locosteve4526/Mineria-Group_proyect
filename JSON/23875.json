@@ -1,0 +1,45 @@
+{
+    "activityid": 23875,
+    "fields": {
+        "Type": "Book",
+        "Title": "An Enduring Legacy:  A History of the Basques in ",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "University of Nevada Reno",
+        "Publisher Location": "Reno, Nevada",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111113451",
+    "coauthors": {
+        "79413": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Bieter Jr",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111113451",
+            "authorid": 79413,
+            "scholarlyactivityid": 23875
+        }
+    },
+    "status": [
+        {
+            "id": 23875,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111113451",
+    "attachments": []
+}

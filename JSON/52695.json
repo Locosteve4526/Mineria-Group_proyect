@@ -1,0 +1,66 @@
+{
+    "activityid": 52695,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Expressing Uncertainty in Information Systems Detection Research: A Demonstration of Bayesian Analysis Applied to Binary Classification Problems",
+        "Name of Conference": "Hawaii International Conference on Systems Sciences",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065991",
+    "coauthors": {
+        "244876": {
+            "firstname": "Douglas",
+            "middleinitial": "P",
+            "lastname": "Twitchell",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 244876,
+            "scholarlyactivityid": 52695
+        },
+        "244875": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 244875,
+            "scholarlyactivityid": 52695
+        }
+    },
+    "status": [
+        {
+            "id": 52695,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 52695,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114065991",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 34175,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Scalable Graph-Coarsening Based Index for Dynamic Graph Databases",
+        "Name of Conference": "Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, CIKM 2017, Singapore, November 06 - 10, 2017",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114048777",
+    "coauthors": {
+        "145142": {
+            "firstname": "Akshay",
+            "middleinitial": "",
+            "lastname": "Kansal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145142,
+            "scholarlyactivityid": 34175,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "145143": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145143,
+            "scholarlyactivityid": 34175,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34175,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048777",
+    "attachments": []
+}

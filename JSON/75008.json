@@ -1,0 +1,55 @@
+{
+    "activityid": 75008,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "Empowering engineering students through storytelling",
+        "Name of Venue": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Converation article about our NSF grant funded work",
+        "Activity Type": "Article",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135517",
+    "coauthors": {
+        "331704": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Hamby",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135517",
+            "authorid": 331704,
+            "scholarlyactivityid": 75008
+        },
+        "331705": {
+            "firstname": "Krishna",
+            "middleinitial": "",
+            "lastname": "Pakala",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331705,
+            "scholarlyactivityid": 75008
+        }
+    },
+    "status": [
+        {
+            "id": 75008,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114135517",
+    "attachments": []
+}

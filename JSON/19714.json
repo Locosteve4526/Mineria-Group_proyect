@@ -1,0 +1,89 @@
+{
+    "activityid": 19714,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The Effect of Auditor Identity Disclosure on Audit Quality: An Experimental Examination Incorporating the Incremental Effect of a Signature Requirement",
+        "Name of Conference": "2014 American Accounting Association Annual Meeting",
+        "Month / Season": "2014-08-05",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": null,
+        "Publisher": "American Accounting Association",
+        "Publisher Location": "Atlanta, Georgia",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111333118",
+    "coauthors": {
+        "134548": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Gooden",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111333118",
+            "authorid": 134548,
+            "scholarlyactivityid": 19714,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134549": {
+            "firstname": "Douglas",
+            "middleinitial": "E",
+            "lastname": "Stevens",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134549,
+            "scholarlyactivityid": 19714,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134550": {
+            "firstname": "Mark",
+            "middleinitial": "J",
+            "lastname": "Mellon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134550,
+            "scholarlyactivityid": 19714,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134551": {
+            "firstname": "Allen",
+            "middleinitial": "D",
+            "lastname": "Blay",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134551,
+            "scholarlyactivityid": 19714,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19714,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111333118",
+    "attachments": []
+}

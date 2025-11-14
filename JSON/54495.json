@@ -1,0 +1,95 @@
+{
+    "activityid": 54495,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Evolution and Punishment",
+        "Book Title": "Sage handbook on evolutionary psychology",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114081229",
+    "coauthors": {
+        "256066": {
+            "firstname": "Cody",
+            "middleinitial": "",
+            "lastname": "Jorgensen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114043970",
+            "authorid": 256066,
+            "scholarlyactivityid": 54495
+        },
+        "256067": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 256067,
+            "scholarlyactivityid": 54495
+        },
+        "256068": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Wells",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114081229",
+            "authorid": 256068,
+            "scholarlyactivityid": 54495
+        }
+    },
+    "status": [
+        {
+            "id": 54495,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54495,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 54495,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 54495,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114081229",
+    "attachments": []
+}

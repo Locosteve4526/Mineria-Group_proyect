@@ -1,0 +1,58 @@
+{
+    "activityid": 26012,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Psychoanalytic theory in action",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "",
+        "Edition": "N/A",
+        "Volume": "N/A",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113026222",
+    "coauthors": {
+        "83922": {
+            "firstname": "J",
+            "middleinitial": "",
+            "lastname": "Sommers-Flanagan",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83922,
+            "scholarlyactivityid": 26012
+        },
+        "83923": {
+            "firstname": "Aida",
+            "middleinitial": "",
+            "lastname": "Midgett",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113026222",
+            "authorid": 83923,
+            "scholarlyactivityid": 26012
+        }
+    },
+    "status": [
+        {
+            "id": 26012,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113026222",
+    "attachments": []
+}

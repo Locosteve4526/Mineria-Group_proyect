@@ -1,0 +1,58 @@
+{
+    "activityid": 32072,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "An Analysis of Joint Inversion for Regularization of Ill-posed Problems ",
+        "Conference / Meeting Name": "SIAM Annual Meeting",
+        "Conference Location": "Boston, MA",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "SIAM",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Joint inversion is technique frequently applied to problems in the physical sciences. It can improve the conditioning of a problem as well as the accuracy of the inverse solutions. We present a mathematical analysis of joint inversion in regard to the regularization of ill-conditioned problems in geophysical electromagnetic imaging. The discrete linear case is examined most thoroughly as it provides the foundation for non-linear problems to be solved iteratively.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "122174": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 122174,
+            "scholarlyactivityid": 32072,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "122175": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Ford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 122175,
+            "scholarlyactivityid": 32072,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32072,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

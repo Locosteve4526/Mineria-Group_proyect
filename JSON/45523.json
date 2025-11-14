@@ -1,0 +1,104 @@
+{
+    "activityid": 45523,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The WPA's Guide to Data Analytics: How to Stop Worrying and Interact with Data Initiatives",
+        "Journal": "WPA: Writing Program Administration",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113118110",
+    "coauthors": {
+        "207413": {
+            "firstname": "Heidi",
+            "middleinitial": "Klareen",
+            "lastname": "Estrem",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112096853",
+            "authorid": 207413,
+            "scholarlyactivityid": 45523
+        },
+        "207414": {
+            "firstname": "Dawn",
+            "middleinitial": "Renee",
+            "lastname": "Shepherd",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113118110",
+            "authorid": 207414,
+            "scholarlyactivityid": 45523
+        },
+        "207415": {
+            "firstname": "Linda",
+            "middleinitial": "",
+            "lastname": "Adler-Kassner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207415,
+            "scholarlyactivityid": 45523
+        },
+        "207416": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Miller-Cochran",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207416,
+            "scholarlyactivityid": 45523
+        },
+        "207417": {
+            "firstname": "Elizabeth",
+            "middleinitial": "",
+            "lastname": "Wardle",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207417,
+            "scholarlyactivityid": 45523
+        }
+    },
+    "status": [
+        {
+            "id": 45523,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 45523,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 45523,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "113118110",
+    "attachments": []
+}

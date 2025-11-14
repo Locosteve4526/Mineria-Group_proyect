@@ -1,0 +1,65 @@
+{
+    "activityid": 71152,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Labpratory Manual for Biol100\u00a0",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Publisher": "TBD",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Creation and authorship of a lab manual to be turned into an online OER resource with supplemental publisher-produced student workbook.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111302045",
+    "coauthors": {
+        "323266": {
+            "firstname": "Alexandar",
+            "middleinitial": "N",
+            "lastname": "Urquhart",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111302045",
+            "authorid": 323266,
+            "scholarlyactivityid": 71152,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "323267": {
+            "firstname": "Mathew",
+            "middleinitial": "",
+            "lastname": "Geisler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 323267,
+            "scholarlyactivityid": 71152,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71152,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111302045",
+    "attachments": []
+}

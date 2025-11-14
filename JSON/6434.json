@@ -1,0 +1,56 @@
+{
+    "activityid": 6434,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Boys and Reading: It's More Complicated than You Think",
+        "Journal": "California Reader",
+        "Volume": "38",
+        "Month / Season": "2005-07-01",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "13-May",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/english_facpubs/165",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "20020": {
+            "firstname": "Michael",
+            "middleinitial": "W.",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20020,
+            "scholarlyactivityid": 6434
+        },
+        "20021": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 20021,
+            "scholarlyactivityid": 6434
+        }
+    },
+    "status": [
+        {
+            "id": 6434,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2005,
+            "termid": "2005/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

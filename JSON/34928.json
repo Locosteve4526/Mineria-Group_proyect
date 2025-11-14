@@ -1,0 +1,102 @@
+{
+    "activityid": 34928,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cDocument Photography in Vitro,\u201d",
+        "Name of Conference": "Third International Workshop on Camera-Based Document Analysis and Recognition (CBDAR2009)",
+        "Month / Season": "25 July",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Barcelona, Spain",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Experiments on evaluating and improving the\r\nmechanical configuration and target illumination in a\r\nprototype camera-based ballot counter are presented.\r\nThe constraints on the mechanical design are gravity\r\npaper feed, portability, ease of use and low cost. The\r\nconstraints on illumination are dictated by image\r\nprocessing requirements. Initial results are reported\r\non the effects of transparent ballot cover plates,\r\ngeometry, and light conditioning (color, diffusion,\r\npolarization).",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142622": {
+            "firstname": "George",
+            "middleinitial": "",
+            "lastname": "Nagy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142622,
+            "scholarlyactivityid": 34928,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142623": {
+            "firstname": "Bryan",
+            "middleinitial": "",
+            "lastname": "Clifford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142623,
+            "scholarlyactivityid": 34928,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142624": {
+            "firstname": "Glenn",
+            "middleinitial": "",
+            "lastname": "Saunders",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142624,
+            "scholarlyactivityid": 34928,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142625": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142625,
+            "scholarlyactivityid": 34928,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142626": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Lopresti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142626,
+            "scholarlyactivityid": 34928,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34928,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

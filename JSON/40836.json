@@ -1,0 +1,58 @@
+{
+    "activityid": 40836,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Hijacking the brain",
+        "Conference/Meeting Name": "Undergraduate Research Conference",
+        "Conference Location": "Boise",
+        "Date or Date Range": "April 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045170",
+    "coauthors": {
+        "210000": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Semko",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210000,
+            "scholarlyactivityid": 40836,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "210001": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045170",
+            "authorid": 210001,
+            "scholarlyactivityid": 40836,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40836,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114045170",
+    "attachments": []
+}

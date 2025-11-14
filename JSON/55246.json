@@ -1,0 +1,116 @@
+{
+    "activityid": 55246,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Lobbying to Deceive: The Effect of lobbying on CEO Deception",
+        "Name of Conference": "SMS",
+        "Month / Season": "Sept.",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114171276",
+    "coauthors": {
+        "259507": {
+            "firstname": "Diego",
+            "middleinitial": "",
+            "lastname": "Vilalpando",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 259507,
+            "scholarlyactivityid": 55246,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "259508": {
+            "firstname": "Cameron",
+            "middleinitial": "",
+            "lastname": "Borgholthaus",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 259508,
+            "scholarlyactivityid": 55246,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "259509": {
+            "firstname": "Mirzokhidjon",
+            "middleinitial": "",
+            "lastname": "Abdurakhmonov",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 259509,
+            "scholarlyactivityid": 55246,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "259510": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Hyde",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114171276",
+            "authorid": 259510,
+            "scholarlyactivityid": 55246,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 55246,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 55246,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 55246,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 55246,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114171276",
+    "attachments": []
+}

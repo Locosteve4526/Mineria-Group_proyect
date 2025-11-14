@@ -1,0 +1,58 @@
+{
+    "activityid": 36196,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Applying for a position in higher education: Career mentoring workshop (Session 2)",
+        "Conference/Meeting Name": "Society for Music Teacher Education",
+        "Conference Location": "Minneapolis, MN",
+        "Date or Date Range": "9/7-9/10",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "Society for Music Teacher Education",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088739",
+    "coauthors": {
+        "149525": {
+            "firstname": "Chris",
+            "middleinitial": "M",
+            "lastname": "Baumgartner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 149525,
+            "scholarlyactivityid": 36196,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "149526": {
+            "firstname": "Lori",
+            "middleinitial": "F",
+            "lastname": "Gray",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088739",
+            "authorid": 149526,
+            "scholarlyactivityid": 36196,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 36196,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114088739",
+    "attachments": []
+}

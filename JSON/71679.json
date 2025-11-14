@@ -1,0 +1,71 @@
+{
+    "activityid": 71679,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Achieving Cyber-Informed Engineering Through Bayesian Belief Network and Sensitivity Analysis",
+        "Name of Conference": "2023 10th International Conference on Dependable Systems and Their Applications (DSA)",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "260-271",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1109/DSA59317.2023.00039",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://ieeexplore.ieee.org/abstract/document/10314300",
+        "Description/Abstract": "&lt;span&gt;The security of critical infrastructures is a challenge facing nations and states today as a result of the increased complexity and interconnectivity of these systems and their control from remote locations. Ensuring the security of critical systems requires engineering cybersecurity-related risks that attackers can exploit to cause severe consequences, such as equipment damage, environmental/water pollution, monetary loss, or even loss of life. It is important to identify and prioritize actions or attacks that can lead to high-consequence events (HCEs) capable of crippling critical functions of any organization. In this work, we proposed a new approach to cybersecurity risk assessment by proposing the Consequence-Driven Cyber-Informed Engineering (CCE) approach and the Bayesian Belief Network (BBN) with Sensitivity Analysis (SA). For proof of concept, we tested the proposed approach at the Tennessee Eastman chemical plant and were able to uncover and prioritize ripple effects caused by disturbance or noise-induced attacks on critical infrastructure.&lt;/span&gt;",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114068806",
+    "coauthors": {
+        "326531": {
+            "firstname": "Chidi",
+            "middleinitial": "",
+            "lastname": "Agbo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326531,
+            "scholarlyactivityid": 71679,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "326532": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326532,
+            "scholarlyactivityid": 71679,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71679,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114068806",
+    "attachments": [
+        {
+            "attachmentid": 54627,
+            "mimetype": "application/pdf",
+            "filename": "047700a260.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZWTI5SUlJUFoyVVNGK0lRWHJ0OG5QdlVzTGxXekN2SFFiYzR4R3JkT3RLUT09",
+            "filesize": 1411736
+        }
+    ]
+}

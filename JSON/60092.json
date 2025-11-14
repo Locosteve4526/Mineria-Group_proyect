@@ -1,0 +1,64 @@
+{
+    "activityid": 60092,
+    "fields": {
+        "Type": "Book",
+        "Title": "Supporting Student Parents in the Academic Library: Designing Spaces, Policies, and Services",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Association for College and Research Libraries (ACRL)",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112192272",
+    "coauthors": {
+        "337853": {
+            "firstname": "Kelsey",
+            "middleinitial": "",
+            "lastname": "Keyes",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113139676",
+            "authorid": 337853,
+            "scholarlyactivityid": 60092
+        },
+        "337854": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 337854,
+            "scholarlyactivityid": 60092
+        }
+    },
+    "status": [
+        {
+            "id": 60092,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 60092,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "112192272",
+    "attachments": []
+}

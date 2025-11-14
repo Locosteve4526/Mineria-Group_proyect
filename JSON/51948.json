@@ -1,0 +1,56 @@
+{
+    "activityid": 51948,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Developing faculty to teach with technology: Themes from the literature",
+        "Journal": "TechTrends",
+        "Volume": "64",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "248-259",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1007/s11528-019-00447-6",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "240432": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Belt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 240432,
+            "scholarlyactivityid": 51948
+        },
+        "240433": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 240433,
+            "scholarlyactivityid": 51948
+        }
+    },
+    "status": [
+        {
+            "id": 51948,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

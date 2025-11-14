@@ -1,0 +1,84 @@
+{
+    "activityid": 63081,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;color:#222222;&quot;&gt;Intimate Partner Violence and Oral Health Experiences During Pregnancy: Findings from the Pregnancy Risk Assessment Monitoring System&lt;/span&gt;",
+        "Journal": "BMC Oral Health",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-023-03491-0",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114081231",
+    "coauthors": {
+        "310836": {
+            "firstname": "Alexander",
+            "middleinitial": "",
+            "lastname": "Testa",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 310836,
+            "scholarlyactivityid": 63081
+        },
+        "310837": {
+            "firstname": "Jacqueline",
+            "middleinitial": "G",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114081231",
+            "authorid": 310837,
+            "scholarlyactivityid": 63081
+        },
+        "310838": {
+            "firstname": "Dylan",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 310838,
+            "scholarlyactivityid": 63081
+        }
+    },
+    "status": [
+        {
+            "id": 63081,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 63081,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 63081,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114081231",
+    "attachments": []
+}

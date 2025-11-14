@@ -1,0 +1,115 @@
+{
+    "activityid": 70512,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "2023 SIM IT Trends Study",
+        "Journal": "MIS Quarterly Executive",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114227663",
+    "coauthors": {
+        "345219": {
+            "firstname": "Vess",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345219,
+            "scholarlyactivityid": 70512
+        },
+        "345220": {
+            "firstname": "Russell",
+            "middleinitial": "",
+            "lastname": "Torres",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345220,
+            "scholarlyactivityid": 70512
+        },
+        "345221": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Maurer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345221,
+            "scholarlyactivityid": 70512
+        },
+        "345222": {
+            "firstname": "Sourav",
+            "middleinitial": "",
+            "lastname": "Chatterjee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345222,
+            "scholarlyactivityid": 70512
+        },
+        "345223": {
+            "firstname": "Katia",
+            "middleinitial": "",
+            "lastname": "Guerra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114227663",
+            "authorid": 345223,
+            "scholarlyactivityid": 70512
+        },
+        "345224": {
+            "firstname": "Hossein",
+            "middleinitial": "",
+            "lastname": "Mohit",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345224,
+            "scholarlyactivityid": 70512
+        },
+        "345225": {
+            "firstname": "Smriti",
+            "middleinitial": "",
+            "lastname": "Srivastava",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345225,
+            "scholarlyactivityid": 70512
+        }
+    },
+    "status": [
+        {
+            "id": 70512,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 70512,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114227663",
+    "attachments": []
+}

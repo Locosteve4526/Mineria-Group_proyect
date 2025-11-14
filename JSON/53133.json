@@ -1,0 +1,71 @@
+{
+    "activityid": 53133,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Activity Writing Virtual Workshop",
+        "Conference/Meeting Name": "",
+        "Conference Location": "",
+        "Date or Date Range": "July",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "The POGIL Project",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112145571",
+    "coauthors": {
+        "247614": {
+            "firstname": "Shawn",
+            "middleinitial": "R",
+            "lastname": "Simonson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 247614,
+            "scholarlyactivityid": 53133,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "247615": {
+            "firstname": "Rick",
+            "middleinitial": "",
+            "lastname": "Moog",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247615,
+            "scholarlyactivityid": 53133,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "247616": {
+            "firstname": "Laura",
+            "middleinitial": "",
+            "lastname": "Trout",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247616,
+            "scholarlyactivityid": 53133,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53133,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112145571",
+    "attachments": []
+}

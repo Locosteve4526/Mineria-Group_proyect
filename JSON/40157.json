@@ -1,0 +1,115 @@
+{
+    "activityid": 40157,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "How can we help faculty balance between teaching and scholarly activities?",
+        "Name of Conference": "American Society for Engineering Education Annual Conference &amp; Expo",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Vancouver, Canada",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper won the Best Paper Award for the New Engineering Educators Division.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175255": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Schrader",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175255,
+            "scholarlyactivityid": 40157,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175256": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175256,
+            "scholarlyactivityid": 40157,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175257": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Hughes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175257,
+            "scholarlyactivityid": 40157,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175258": {
+            "firstname": "Ko",
+            "middleinitial": "",
+            "lastname": "Sasaki",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175258,
+            "scholarlyactivityid": 40157,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175259": {
+            "firstname": "Teressa",
+            "middleinitial": "",
+            "lastname": "Cole",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175259,
+            "scholarlyactivityid": 40157,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175260": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Chiasson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175260,
+            "scholarlyactivityid": 40157,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40157,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

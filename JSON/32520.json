@@ -1,0 +1,87 @@
+{
+    "activityid": 32520,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Monitoring and Predicting Stress Corrosion Cracking of Long Term Spent Nuclear Fuel Storage",
+        "Name of Conference": "NACE",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "125382": {
+            "firstname": "Brian",
+            "middleinitial": "J",
+            "lastname": "Jaques",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111641391",
+            "authorid": 125382,
+            "scholarlyactivityid": 32520
+        },
+        "125381": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 125381,
+            "scholarlyactivityid": 32520
+        },
+        "125380": {
+            "firstname": "Mike",
+            "middleinitial": "",
+            "lastname": "Hurley",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112132208",
+            "authorid": 125380,
+            "scholarlyactivityid": 32520
+        },
+        "125379": {
+            "firstname": "Darryl",
+            "middleinitial": "P",
+            "lastname": "Butt",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125379,
+            "scholarlyactivityid": 32520
+        },
+        "125378": {
+            "firstname": "Vikram",
+            "middleinitial": "M.",
+            "lastname": "Patel",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125378,
+            "scholarlyactivityid": 32520
+        }
+    },
+    "status": [
+        {
+            "id": 32520,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

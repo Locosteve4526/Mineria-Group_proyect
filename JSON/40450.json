@@ -1,0 +1,79 @@
+{
+    "activityid": 40450,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Testing ASR for a Spanish learner corpus",
+        "Conference/Meeting Name": "N/A",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We focus on testing the efficiency of Google ASR, Sphynx and other available software for transcription of oral corpora when applied to a Spanish learner corpora. Preliminary results indicate that existing ASR work inefficiently for non-native speakers. We are working on developing an ASR with better capabilities. ",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062811",
+    "coauthors": {
+        "177002": {
+            "firstname": "Carolina",
+            "middleinitial": "",
+            "lastname": "Viera",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114067032",
+            "authorid": 177002,
+            "scholarlyactivityid": 40450
+        },
+        "177003": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114062811",
+            "authorid": 177003,
+            "scholarlyactivityid": 40450
+        }
+    },
+    "status": [
+        {
+            "id": 40450,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 40450,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 40450,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 40450,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

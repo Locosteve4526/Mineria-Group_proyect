@@ -1,0 +1,74 @@
+{
+    "activityid": 31760,
+    "fields": {
+        "Type": "Book",
+        "Title": "Tides and Exoplanets",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Wiley",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2010fee..book..243J",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "120359": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120359,
+            "scholarlyactivityid": 31760,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "120360": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Barnes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120360,
+            "scholarlyactivityid": 31760,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "120361": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Greenberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120361,
+            "scholarlyactivityid": 31760,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31760,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

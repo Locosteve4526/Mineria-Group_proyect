@@ -1,0 +1,65 @@
+{
+    "activityid": 33079,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Are You Following the Right To-Do List?",
+        "Outlet (if applicable)": "Physics World",
+        "Date": "April",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Publisher": "physicsworld.com",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "Pp. 44-45",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114022280",
+    "coauthors": {
+        "128657": {
+            "firstname": "Roel",
+            "middleinitial": "",
+            "lastname": "Sneider",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 128657,
+            "scholarlyactivityid": 33079,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "128658": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Schneider",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114022280",
+            "authorid": 128658,
+            "scholarlyactivityid": 33079,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33079,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114022280",
+    "attachments": []
+}

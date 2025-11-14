@@ -1,0 +1,56 @@
+{
+    "activityid": 1636,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&quot;I cannot tell what the dickens his name is&quot;: Name Disambiguation in Institutional Repositories",
+        "Journal": "Journal of Librarianship and Scholarly Communication",
+        "Volume": "2",
+        "Month / Season": "2014-03-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "eP1095",
+        "Publisher": "",
+        "DOI": "10.7710/2162-3309.1095",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112071180",
+    "coauthors": {
+        "3965": {
+            "firstname": "Lizzy",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 3965,
+            "scholarlyactivityid": 1636
+        },
+        "3966": {
+            "firstname": "Patricia",
+            "middleinitial": "M",
+            "lastname": "Armstrong",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112071180",
+            "authorid": 3966,
+            "scholarlyactivityid": 1636
+        }
+    },
+    "status": [
+        {
+            "id": 1636,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112071180",
+    "attachments": []
+}

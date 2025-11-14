@@ -1,0 +1,114 @@
+{
+    "activityid": 76821,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;color:#727272;font-size:14.000001px;&quot;&gt;Error propagation of direct pressure gradient integration and a Helmholtz-Hodge decomposition based pressure field reconstruction method for image velocimetry&lt;/span&gt;",
+        "Journal": "Experiments in Fluids",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://arxiv.org/abs/2407.15344",
+        "Description/Abstract": "&lt;span&gt;Recovering pressure fields from image velocimetry measurements has two general strategies: i) directly integrating the pressure gradients from the momentum equation and ii) solving or enforcing the pressure Poisson equation (divergence of the pressure gradients). In this work, we analyze the error propagation of the former strategy and provide some practical insights. For example, we establish the error scaling laws for the Pressure Gradient Integration (PGI) and the Pressure Poisson Equation (PPE). We explain why applying the Helmholtz-Hodge Decomposition (HHD) could significantly reduce the error propagation for the PGI. We also propose to use a novel HHD-based pressure field reconstruction strategy that offers the following advantages: i) effective processing of noisy scattered or structured image velocimetry data on a complex domain and ii) using Radial Basis Functions (RBFs) with curl/divergence-free kernels to provide divergence-free correction to the velocity fields for incompressible flows and curl-free correction for pressure gradients. Complete elimination of divergence-free bias in measured pressure gradient and curl-free bias in the measured velocity field results in superior accuracy. Synthetic velocimetry data based on exact solutions and high-fidelity simulations are used to validate the analysis as well as demonstrate the flexibility and effectiveness of the RBF-HHD solver.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "342162": {
+            "firstname": "Lanyu",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342162,
+            "scholarlyactivityid": 76821,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342163": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "McClure",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342163,
+            "scholarlyactivityid": 76821,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342164": {
+            "firstname": "Grady",
+            "middleinitial": "B",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 342164,
+            "scholarlyactivityid": 76821,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342165": {
+            "firstname": "Jared",
+            "middleinitial": "P",
+            "lastname": "Whitehead",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342165,
+            "scholarlyactivityid": 76821,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342166": {
+            "firstname": "Jin",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342166,
+            "scholarlyactivityid": 76821,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342167": {
+            "firstname": "Zhao",
+            "middleinitial": "",
+            "lastname": "Pan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342167,
+            "scholarlyactivityid": 76821,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76821,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

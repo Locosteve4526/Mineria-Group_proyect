@@ -1,0 +1,56 @@
+{
+    "activityid": 800,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "CO2 emissions in U.S. counties: the importance and interplay of population size, income and creative economic activity",
+        "Journal": "UGEC Viewpoints",
+        "Volume": "",
+        "Month / Season": "2010-03-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113146926",
+    "coauthors": {
+        "1892": {
+            "firstname": "Michail",
+            "middleinitial": "",
+            "lastname": "Fragkias",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113146926",
+            "authorid": 1892,
+            "scholarlyactivityid": 800
+        },
+        "1893": {
+            "firstname": "Jose",
+            "middleinitial": "",
+            "lastname": "Lobo",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 1893,
+            "scholarlyactivityid": 800
+        }
+    },
+    "status": [
+        {
+            "id": 800,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113146926",
+    "attachments": []
+}

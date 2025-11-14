@@ -1,0 +1,66 @@
+{
+    "activityid": 36799,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A signal analyzer for teaching signals and systems",
+        "Journal": "age",
+        "Volume": "6",
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "1",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "112139424",
+    "coauthors": {
+        "152571": {
+            "firstname": "Thad",
+            "middleinitial": "B",
+            "lastname": "Welch",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152571,
+            "scholarlyactivityid": 36799
+        },
+        "152572": {
+            "firstname": "Christopher",
+            "middleinitial": "T",
+            "lastname": "Field",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152572,
+            "scholarlyactivityid": 36799
+        },
+        "152573": {
+            "firstname": "Cameron",
+            "middleinitial": "HG",
+            "lastname": "Wright",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152573,
+            "scholarlyactivityid": 36799
+        }
+    },
+    "status": [
+        {
+            "id": 36799,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2001,
+            "termid": "2001/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139424",
+    "attachments": []
+}

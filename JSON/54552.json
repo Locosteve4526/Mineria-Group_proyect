@@ -1,0 +1,116 @@
+{
+    "activityid": 54552,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "BIGBERT: Classifying Educational Web Resources for Kindergarten-12th Grades",
+        "Name of Conference": "European Conference on Information Retrieval",
+        "Month / Season": "March",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "ACM",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062811",
+    "coauthors": {
+        "256460": {
+            "firstname": "Garett",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256460,
+            "scholarlyactivityid": 54552
+        },
+        "256459": {
+            "firstname": "Brody",
+            "middleinitial": "",
+            "lastname": "Downs",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256459,
+            "scholarlyactivityid": 54552
+        },
+        "256458": {
+            "firstname": "Aprajita",
+            "middleinitial": "",
+            "lastname": "Shukla",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256458,
+            "scholarlyactivityid": 54552
+        },
+        "256457": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114062811",
+            "authorid": 256457,
+            "scholarlyactivityid": 54552
+        },
+        "256456": {
+            "firstname": "Jerry",
+            "middleinitial": "A",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114058343",
+            "authorid": 256456,
+            "scholarlyactivityid": 54552
+        },
+        "256455": {
+            "firstname": "Katherine",
+            "middleinitial": "Landau",
+            "lastname": "Wright",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114066047",
+            "authorid": 256455,
+            "scholarlyactivityid": 54552
+        },
+        "256454": {
+            "firstname": "Sole",
+            "middleinitial": "",
+            "lastname": "Pera",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114027303",
+            "authorid": 256454,
+            "scholarlyactivityid": 54552
+        }
+    },
+    "status": [
+        {
+            "id": 54552,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54552,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

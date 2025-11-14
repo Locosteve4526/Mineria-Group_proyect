@@ -1,0 +1,120 @@
+{
+    "activityid": 72037,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Securing the Internet of Things: A New Lightweight Cryptosystem",
+        "Conference / Meeting Name": "Joint Mathematics Meetings",
+        "Conference Location": "Denver, Colorado",
+        "Date or Date Range": "January 17, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Mathematical Association of America",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "As the Internet of Things expands, lightweight cryptography becomes necessary to secure the data networks of constrained devices, such as medical implants.\nIn response to the National Institute of Science and Technology\u2019s call, several\nlightweight symmetric key crypto systems, including PRESENT, have been suggested. However, none take advantage of alternate mathematical platforms or exploit parity features of permutations.\n\nThis project develops a lightweight cryptosystem called TROIKA that modifies\nPRESENT to make use of the algebraic properties of an alternate finite field.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "327511": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 327511,
+            "scholarlyactivityid": 72037
+        },
+        "327510": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 327510,
+            "scholarlyactivityid": 72037
+        },
+        "327509": {
+            "firstname": "Jesus",
+            "middleinitial": "",
+            "lastname": "Vargas",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327509,
+            "scholarlyactivityid": 72037
+        },
+        "327508": {
+            "firstname": "Eline",
+            "middleinitial": "J",
+            "lastname": "Abraham",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327508,
+            "scholarlyactivityid": 72037
+        },
+        "327507": {
+            "firstname": "Belen",
+            "middleinitial": "",
+            "lastname": "Edgar",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327507,
+            "scholarlyactivityid": 72037
+        },
+        "327506": {
+            "firstname": "Lindsey",
+            "middleinitial": "",
+            "lastname": "Kim",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327506,
+            "scholarlyactivityid": 72037
+        },
+        "327505": {
+            "firstname": "Ellen",
+            "middleinitial": "",
+            "lastname": "Min",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327505,
+            "scholarlyactivityid": 72037
+        },
+        "327504": {
+            "firstname": "Michaela-Joyce",
+            "middleinitial": "",
+            "lastname": "Moshe",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327504,
+            "scholarlyactivityid": 72037
+        }
+    },
+    "status": [
+        {
+            "id": 72037,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111716691",
+    "attachments": [
+        {
+            "attachmentid": 55051,
+            "mimetype": "application/pdf",
+            "filename": "REMYS_Poster (1).pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXREL0VtbTNTY2dOcDdHRmVLTmhOZHhOOGt2elhsR0NFS2NJSmJXT1YzU005TjIvRzRqTWpMdlFGcnZZR0ttU09mTEZOK1hqZVcybz0%3D",
+            "filesize": 795405
+        }
+    ]
+}

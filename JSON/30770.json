@@ -1,0 +1,58 @@
+{
+    "activityid": 30770,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Computing Without Spherical Harmonics",
+        "Conference/Meeting Name": "SIAM Annual Meeting 2016",
+        "Conference Location": "",
+        "Date or Date Range": "July 11-15, 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "113311": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Townsend",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113311,
+            "scholarlyactivityid": 30770,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "113312": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 113312,
+            "scholarlyactivityid": 30770,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30770,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

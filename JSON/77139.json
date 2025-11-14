@@ -1,0 +1,89 @@
+{
+    "activityid": 77139,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "2024 Compendium of physical activities: Updates and additions",
+        "Name of Conference": "American College of Sports Medicine Annual Meeting",
+        "Month / Season": "May",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "343990": {
+            "firstname": "B",
+            "middleinitial": "E",
+            "lastname": "Ainsworth",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343990,
+            "scholarlyactivityid": 77139,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "343991": {
+            "firstname": "S",
+            "middleinitial": "D",
+            "lastname": "Herrmann",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343991,
+            "scholarlyactivityid": 77139,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "343992": {
+            "firstname": "E",
+            "middleinitial": "A",
+            "lastname": "Willis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343992,
+            "scholarlyactivityid": 77139,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "343993": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 343993,
+            "scholarlyactivityid": 77139,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77139,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

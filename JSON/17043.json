@@ -1,0 +1,62 @@
+{
+    "activityid": 17043,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Boise State University College of Education International Collaboration with Korea",
+        "Conference/Meeting Name": "Kogju National University",
+        "Conference Location": "South Korea",
+        "Date or Date Range": "2011-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "Jeonbuk Niational University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111111683",
+    "coauthors": {
+        "67226": {
+            "firstname": "Stan",
+            "middleinitial": "F",
+            "lastname": "Steiner",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110586",
+            "authorid": 67226,
+            "scholarlyactivityid": 17043
+        },
+        "67227": {
+            "firstname": "Martin",
+            "middleinitial": "E",
+            "lastname": "Schimpf",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111683",
+            "authorid": 67227,
+            "scholarlyactivityid": 17043
+        },
+        "67228": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 67228,
+            "scholarlyactivityid": 17043
+        }
+    },
+    "status": [
+        {
+            "id": 17043,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111683",
+    "attachments": []
+}

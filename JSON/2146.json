@@ -1,0 +1,46 @@
+{
+    "activityid": 2146,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Analytical Upstream Collocation Solution of a Forced Steady-State Convection-Diffusion Equation",
+        "Journal": "International Journal of Differential Equations and Applications",
+        "Volume": "7",
+        "Month / Season": "2003-01-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "69-99",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/80",
+        "Description/Abstract": "We give herein formulas for the solution of the Hermite collocation discretization of a nonhomogeneous steady-state convection-diffusion equation in one spatial dimension and with constant coefficients, defined on a uniform mesh, with Dirichlet boundary conditions. The accuracy of the method is enhanced by employing &quot;upsteam weighting&quot; of the convective term in an optimal way. We discuss also the issue of where to optimally sample the forcing function. Computational examples illustrate the efficacy of the optimal upstream weighting technique combined with optimal sampling of the forcing function.",
+        "Origin": "Other"
+    },
+    "facultyid": "111358874",
+    "coauthors": {
+        "5600": {
+            "firstname": "Stephen",
+            "middleinitial": "H",
+            "lastname": "Brill",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358874",
+            "authorid": 5600,
+            "scholarlyactivityid": 2146
+        }
+    },
+    "status": [
+        {
+            "id": 2146,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2003,
+            "termid": "2002/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358874",
+    "attachments": []
+}

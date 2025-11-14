@@ -1,0 +1,76 @@
+{
+    "activityid": 4417,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "DockoMatic: Automated Peptide Analog Creation for High Throughput Virtual Screening",
+        "Journal": "Journal of Computational Chemistry",
+        "Volume": "32",
+        "Month / Season": "2011-10-01",
+        "Issue Number": "13",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "2936\u20132941",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1002/jcc.21864",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/chem_facpubs/40",
+        "Description/Abstract": "The purpose of this manuscript is threefold: (1) to describe an update  to DockoMatic that allows the user to generate cyclic peptide analog  structure files based on protein database (pdb) files, (2) to test the  accuracy of the peptide analog structure generation utility, and (3) to  evaluate the high throughput capacity of DockoMatic. The DockoMatic  graphical user interface interfaces with the software program Treepack  to create user defined peptide analogs. To validate this approach,  DockoMatic produced cyclic peptide analogs were tested for  three-dimensional structure consistency and binding affinity against  four experimentally determined peptide structure files available in the  Research Collaboratory for Structural Bioinformatics database. The  peptides used to evaluate this new functionality were alpha-conotoxins  ImI, PnIA, and their published analogs. Peptide analogs were generated  by DockoMatic and tested for their ability to bind to X-ray crystal  structure models of the acetylcholine binding protein originating from Aplysia californica.  The results, consisting of more than 300 simulations, demonstrate that  DockoMatic predicts the binding energy of peptide structures to within  3.5 kcal mol?1, and the orientation of bound ligand compares  to within 1.8 \u0139 root mean square deviation for ligand structures as  compared to experimental data. Evaluation of high throughput virtual  screening capacity demonstrated that Dockomatic can collect, evaluate,  and summarize the output of 10,000 AutoDock jobs in less than 2 hours of  computational time, while 100,000 jobs requires approximately 15 hours  and 1,000,000 jobs is estimated to take up to a week.",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "13232": {
+            "firstname": "Reed",
+            "middleinitial": "B.",
+            "lastname": "Jacob",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13232,
+            "scholarlyactivityid": 4417
+        },
+        "13233": {
+            "firstname": "Casey",
+            "middleinitial": "W.",
+            "lastname": "Bullock",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13233,
+            "scholarlyactivityid": 4417
+        },
+        "13234": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 13234,
+            "scholarlyactivityid": 4417
+        },
+        "13235": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 13235,
+            "scholarlyactivityid": 4417
+        }
+    },
+    "status": [
+        {
+            "id": 4417,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

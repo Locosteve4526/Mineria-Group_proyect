@@ -1,0 +1,56 @@
+{
+    "activityid": 2150,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Eigenvalue Analysis of a Block Red-Black Gauss\u2013Seidel Preconditioner Applied to the Hermite Collocation Discretization of Poisson's Equation",
+        "Journal": "Numerical Methods for Partial Differential Equations",
+        "Volume": "17",
+        "Month / Season": "2001-05-01",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "204-228",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1002/num.2",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/86",
+        "Description/Abstract": "This article is concerned with the numerical solution of Poisson's equation with Dirichlet boundary conditions, defined on the unit square, discretized by Hermite collocation with uniform mesh. In [1], it was demonstrated that the Bi-CGSTAB method of van der Vorst [2] with block Red-Black Gauss\u2013Seidel (RBGS) preconditioner is an efficient method to solve this problem. In this article, we derive analytic formulae for the eigenvalues that control the rate at which the Bi-CGSTAB/RBGS method converges. These formulae, which depend upon the location of the collocation points, can be utilized to determine where the collocation points should be placed in order to make the Bi-CGSTAB/RBGS method converge as quickly as possible. Furthermore, using the optimal location of the collocation points can result in significant time savings for fixed accuracy and fixed problem size.",
+        "Origin": "Other"
+    },
+    "facultyid": "111358874",
+    "coauthors": {
+        "5607": {
+            "firstname": "Stephen",
+            "middleinitial": "H",
+            "lastname": "Brill",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358874",
+            "authorid": 5607,
+            "scholarlyactivityid": 2150
+        },
+        "5608": {
+            "firstname": "George",
+            "middleinitial": "F.",
+            "lastname": "Pinder",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5608,
+            "scholarlyactivityid": 2150
+        }
+    },
+    "status": [
+        {
+            "id": 2150,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2001,
+            "termid": "2000/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358874",
+    "attachments": []
+}

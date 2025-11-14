@@ -1,0 +1,55 @@
+{
+    "activityid": 26486,
+    "fields": {
+        "Type": "Book",
+        "Title": "Archaeological Excavations at Sirki Shell Mound, Nowthwest Guyana",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "University of Guyana",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110261",
+    "coauthors": {
+        "84872": {
+            "firstname": "Mark",
+            "middleinitial": "G",
+            "lastname": "Plew",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110261",
+            "authorid": 84872,
+            "scholarlyactivityid": 26486
+        },
+        "84873": {
+            "firstname": "Chris Alan",
+            "middleinitial": "",
+            "lastname": "Willson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111636839",
+            "authorid": 84873,
+            "scholarlyactivityid": 26486
+        }
+    },
+    "status": [
+        {
+            "id": 26486,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110261",
+    "attachments": []
+}

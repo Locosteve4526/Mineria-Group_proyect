@@ -1,0 +1,75 @@
+{
+    "activityid": 40849,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Information Technology and the EFL Educator",
+        "Journal": "Peru TESOL",
+        "Volume": "",
+        "Month / Season": "Spring,2018",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "4",
+        "Publisher": "Peru TESOL",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "179475": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 179475,
+            "scholarlyactivityid": 40849,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179476": {
+            "firstname": "Melissa",
+            "middleinitial": "D",
+            "lastname": "Caspary",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179476,
+            "scholarlyactivityid": 40849,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179477": {
+            "firstname": "Clifton",
+            "middleinitial": "D",
+            "lastname": "Wickstrom",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179477,
+            "scholarlyactivityid": 40849,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40849,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

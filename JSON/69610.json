@@ -1,0 +1,74 @@
+{
+    "activityid": 69610,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Well-Being of Latinx Farmworkers in a Time of Change",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "second",
+        "Volume": "",
+        "Publisher": "Springer Nature",
+        "Publisher Location": "",
+        "ISBN": "978-3-031-40234-0",
+        "Author/Editor of Larger Work": "Lisa Meierotto, Teresa Mares and Seth M. Holmes",
+        "Title of Larger Work": "Spinoff of previously published special isse in Agriculture and Human Values",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111208039",
+    "coauthors": {
+        "314768": {
+            "firstname": "Lisa",
+            "middleinitial": "M",
+            "lastname": "Meierotto",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111208039",
+            "authorid": 314768,
+            "scholarlyactivityid": 69610,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "314769": {
+            "firstname": "Teresa",
+            "middleinitial": "",
+            "lastname": "Mares",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314769,
+            "scholarlyactivityid": 69610,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "314770": {
+            "firstname": "Seth",
+            "middleinitial": "",
+            "lastname": "Holmes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314770,
+            "scholarlyactivityid": 69610,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69610,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111208039",
+    "attachments": []
+}

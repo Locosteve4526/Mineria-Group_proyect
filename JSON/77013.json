@@ -1,0 +1,62 @@
+{
+    "activityid": 77013,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;THEMIS: A Fair and Privacy-Preserving Task Outsourcing Platform using Blockchain&lt;/span&gt;",
+        "Journal": "IEEE Transactions on Dependable and Secure Computing",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "343299": {
+            "firstname": "Akshey",
+            "middleinitial": "",
+            "lastname": "Sigdal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343299,
+            "scholarlyactivityid": 77013,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "343300": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 343300,
+            "scholarlyactivityid": 77013,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77013,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

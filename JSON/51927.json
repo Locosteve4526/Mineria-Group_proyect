@@ -1,0 +1,76 @@
+{
+    "activityid": 51927,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Executive Networks and Global Stock Liquidity",
+        "Name of Conference": "Financial Management Association Annual Meeting",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "240321": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086454",
+            "authorid": 240321,
+            "scholarlyactivityid": 51927,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "240322": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "McBrayer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045846",
+            "authorid": 240322,
+            "scholarlyactivityid": 51927,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "240323": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Mccumber",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 240323,
+            "scholarlyactivityid": 51927,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51927,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

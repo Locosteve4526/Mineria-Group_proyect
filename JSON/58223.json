@@ -1,0 +1,90 @@
+{
+    "activityid": 58223,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "An automated pipeline to generate soft-tissue attachments of the knee for finite element simulations",
+        "Name of Conference": "Annual Meeting of the Orthopaedic Research Society 2022",
+        "Month / Season": "Feb",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "270898": {
+            "firstname": "Vahid",
+            "middleinitial": "",
+            "lastname": "Malbouby",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270898,
+            "scholarlyactivityid": 58223,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "270899": {
+            "firstname": "Kalin",
+            "middleinitial": "",
+            "lastname": "Gibbons",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270899,
+            "scholarlyactivityid": 58223,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "270900": {
+            "firstname": "Clare",
+            "middleinitial": "",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062491",
+            "authorid": 270900,
+            "scholarlyactivityid": 58223
+        }
+    },
+    "status": [
+        {
+            "id": 58223,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 58223,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114062491",
+    "attachments": [
+        {
+            "attachmentid": 35554,
+            "mimetype": "application/pdf",
+            "filename": "Malbouby_ORS2022.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitabFR6Ymc1RTFYNm5kd3plMnZEbE1ZQkM0aW5PZi91cFpwNENTZzNNNXk3eW9odjREQ3YxTzA%3D",
+            "filesize": 150280
+        }
+    ]
+}

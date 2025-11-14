@@ -1,0 +1,115 @@
+{
+    "activityid": 34926,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cCamera-based Ballot Counter\u201d",
+        "Name of Conference": "International Conference on Document Analysis and Recognition",
+        "Month / Season": "26-29 July",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Barcelona, Spain",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Portable ballot counters using camera technology\r\nand manual paper feed are potentially more reliable\r\nand less expensive than scanner-based systems. We\r\nshow that the spatial sampling rate, geometric\r\nlinearity, point-spread function, and photometric\r\ntransfer function of off-the shelf consumer cameras are\r\nacceptable for ballot imaging. However, scanner\r\nillumination is much more uniform than can be\r\neconomically accomplished for variable size ballots.\r\nTherefore flat-field compensation must be designed\r\ninto the image processing software. We illustrate the\r\nmechanical design of a prototype camera-based ballot\r\nreader based on our comparative observations.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142611": {
+            "firstname": "George",
+            "middleinitial": "",
+            "lastname": "Nagy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142611,
+            "scholarlyactivityid": 34926,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142612": {
+            "firstname": "Bryan",
+            "middleinitial": "",
+            "lastname": "Clifford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142612,
+            "scholarlyactivityid": 34926,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142613": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Berg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142613,
+            "scholarlyactivityid": 34926,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142614": {
+            "firstname": "Glenn",
+            "middleinitial": "",
+            "lastname": "Saunders",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142614,
+            "scholarlyactivityid": 34926,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142615": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Lopresti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142615,
+            "scholarlyactivityid": 34926,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142616": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142616,
+            "scholarlyactivityid": 34926,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34926,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

@@ -1,0 +1,72 @@
+{
+    "activityid": 75438,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Using AI to Fight Human Trafficking: Ethical Considerations",
+        "Name of Conference": "AMCIS 2024",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114227663",
+    "coauthors": {
+        "340537": {
+            "firstname": "Katia",
+            "middleinitial": "",
+            "lastname": "Guerra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114227663",
+            "authorid": 340537,
+            "scholarlyactivityid": 75438,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "340538": {
+            "firstname": "Anna",
+            "middleinitial": "",
+            "lastname": "Land",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340538,
+            "scholarlyactivityid": 75438,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75438,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 75438,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114227663",
+    "attachments": []
+}

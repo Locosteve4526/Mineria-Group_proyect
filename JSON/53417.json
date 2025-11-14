@@ -1,0 +1,55 @@
+{
+    "activityid": 53417,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Inflammatory cytokines promote expression of SERPINs",
+        "Conference / Meeting Name": "The Idaho Conference for Undergraduate Research (ICUR)",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "07-23-20",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110166",
+    "coauthors": {
+        "249314": {
+            "firstname": "Gwynn",
+            "middleinitial": "",
+            "lastname": "Spielman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 249314,
+            "scholarlyactivityid": 53417,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "249315": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Jorcyk",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 249315,
+            "scholarlyactivityid": 53417
+        }
+    },
+    "status": [
+        {
+            "id": 53417,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110166",
+    "attachments": []
+}

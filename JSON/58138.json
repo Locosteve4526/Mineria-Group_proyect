@@ -1,0 +1,54 @@
+{
+    "activityid": 58138,
+    "fields": {
+        "Type": "Book",
+        "Title": "History is Rich",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Honest History",
+        "Publisher Location": "Los Angeles, CA",
+        "ISBN": "9781736191941",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112081355",
+    "coauthors": {
+        "297353": {
+            "firstname": "Shaun",
+            "middleinitial": "S",
+            "lastname": "Nichols",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112081355",
+            "authorid": 297353,
+            "scholarlyactivityid": 58138
+        }
+    },
+    "status": [
+        {
+            "id": 58138,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 58138,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "112081355",
+    "attachments": []
+}

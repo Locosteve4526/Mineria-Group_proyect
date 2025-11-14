@@ -1,0 +1,57 @@
+{
+    "activityid": 35459,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cText Degradations and OCR Training&quot;",
+        "Name of Conference": "International Conference on Document Analysis and Recognition (ICDAR 2005)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "pp. 834-838",
+        "Publisher": "",
+        "Publisher Location": "Seoul, Korea",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Printing and scanning of text documents introduces\r\ndegradations to the characters which can be modeled.\r\nInterestingly, certain combinations of the parameters that\r\ngovern the degradations introduced by the printing and\r\nscanning process affect characters in such a way that the\r\ndegraded characters have a similar appearance, while\r\nother degradations leave the characters with an appearance\r\nthat is very different. It is well known that (generally\r\nspeaking) a test set that more closely matches a training\r\nset will be recognized with higher accuracy than one that\r\nmatches the training set less well. Likewise, classifiers\r\ntend to perform better on data sets that have lower variance.\r\nThis paper explores an analytical method that uses a\r\nformal printer/scanner degradation model to identify the\r\nsimilarity between groups of degraded characters. This\r\nsimilarity is shown to improve the recognition accuracy of\r\na classifier through model directed choice of training set\r\ndata.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669907",
+    "coauthors": {
+        "145518": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 145518,
+            "scholarlyactivityid": 35459
+        },
+        "145517": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 145517,
+            "scholarlyactivityid": 35459
+        }
+    },
+    "status": [
+        {
+            "id": 35459,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2005,
+            "termid": "2005/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669907",
+    "attachments": []
+}

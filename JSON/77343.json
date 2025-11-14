@@ -1,0 +1,76 @@
+{
+    "activityid": 77343,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Human resource update for small business and entrepreneurs 2022-2023 Updates&lt;br&gt;&lt;/span&gt;",
+        "Name of Conference": "",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065551",
+    "coauthors": {
+        "345736": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Hendon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345736,
+            "scholarlyactivityid": 77343,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "345737": {
+            "firstname": "LeAnne",
+            "middleinitial": "",
+            "lastname": "Coder",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345737,
+            "scholarlyactivityid": 77343,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "345738": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Dunne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065551",
+            "authorid": 345738,
+            "scholarlyactivityid": 77343,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77343,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065551",
+    "attachments": []
+}

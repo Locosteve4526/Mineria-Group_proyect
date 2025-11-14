@@ -1,0 +1,76 @@
+{
+    "activityid": 54376,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Disaggregated Financial Statement Comparability",
+        "Conference/Meeting Name": "Hawaii Accounting Research Conference",
+        "Conference Location": "Honolulu, HI",
+        "Date or Date Range": "1/3/2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "University of Hawaii - Manoa",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126866",
+    "coauthors": {
+        "257443": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Bjornsen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257443,
+            "scholarlyactivityid": 54376,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257444": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Stallings",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126866",
+            "authorid": 257444,
+            "scholarlyactivityid": 54376,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54376,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54376,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 54376,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114126866",
+    "attachments": []
+}

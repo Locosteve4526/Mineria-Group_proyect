@@ -1,0 +1,75 @@
+{
+    "activityid": 3412,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Information gain of the directed lie screening test.",
+        "Journal": "Polygraph",
+        "Volume": "",
+        "Month / Season": "2013-07-21",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110183",
+    "coauthors": {
+        "117976": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Handler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 117976,
+            "scholarlyactivityid": 3412
+        },
+        "117977": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Honts",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110183",
+            "authorid": 117977,
+            "scholarlyactivityid": 3412
+        },
+        "117978": {
+            "firstname": "Raymond",
+            "middleinitial": "",
+            "lastname": "Nelson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 117978,
+            "scholarlyactivityid": 3412
+        }
+    },
+    "status": [
+        {
+            "id": 3412,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 3412,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110183",
+    "attachments": []
+}

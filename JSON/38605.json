@@ -1,0 +1,97 @@
+{
+    "activityid": 38605,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "SecDM: A Privacy-preserving Framework for Con\ufb01dential Query Pro- cessing on the Cloud",
+        "Journal": "Knowledge and Information Systems (KAIS) Journal",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "195937": {
+            "firstname": "Gaby",
+            "middleinitial": "G.",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 195937,
+            "scholarlyactivityid": 38605,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195938": {
+            "firstname": "Benjamin",
+            "middleinitial": "C. M.",
+            "lastname": "Fung",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195938,
+            "scholarlyactivityid": 38605,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195939": {
+            "firstname": "Noman",
+            "middleinitial": "",
+            "lastname": "Mohammed",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195939,
+            "scholarlyactivityid": 38605,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195940": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Clark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195940,
+            "scholarlyactivityid": 38605,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 38605,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 38605,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

@@ -1,0 +1,88 @@
+{
+    "activityid": 52975,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Development of an In Vitro Method of Propagation for Artemisia tridentata subsp.tridentata to Support Genome Sequencing and Genotype-by-Environment Research",
+        "Journal": "Plants",
+        "Volume": "9",
+        "Month / Season": "",
+        "Issue Number": "1717",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "1-16",
+        "Publisher": "",
+        "DOI": "10.3390/plants9121717",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111116958",
+    "coauthors": {
+        "246675": {
+            "firstname": "Rachael",
+            "middleinitial": "",
+            "lastname": "Barron",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246675,
+            "scholarlyactivityid": 52975,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246676": {
+            "firstname": "Peggy",
+            "middleinitial": "",
+            "lastname": "Martinez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246676,
+            "scholarlyactivityid": 52975,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246677": {
+            "firstname": "Marcelo",
+            "middleinitial": "",
+            "lastname": "Serpe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111116958",
+            "authorid": 246677,
+            "scholarlyactivityid": 52975,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246678": {
+            "firstname": "Sven",
+            "middleinitial": "C",
+            "lastname": "Buerki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088564",
+            "authorid": 246678,
+            "scholarlyactivityid": 52975,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52975,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111116958",
+    "attachments": []
+}

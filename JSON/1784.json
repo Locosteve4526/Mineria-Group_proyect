@@ -1,0 +1,86 @@
+{
+    "activityid": 1784,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling Slug Tests in Unconfined Aquifers Taking into Account Water Table Kinematics, Wellbore Skin and Inertial Effects",
+        "Journal": "Journal of Hydrology",
+        "Volume": "408",
+        "Month / Season": "2011-09-30",
+        "Issue Number": "2-Jan",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "113-126",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.jhydrol.2011.07.028",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/142",
+        "Description/Abstract": "Two models for slug tests conducted in unconfined aquifers are developed  by (a) extending the unconfined KGS solution to oscillatory responses,  yielding a model referred to herein as the unified model, and (b)  replacing the constant head condition with the linearized kinematic  condition at the water table. The models can be used to analyze the full  range of responses from highly oscillatory to overdamped. The second  model, refered to as the moving water table (MWT) model, is only  applicable when effects of well bore skin are negligible. The models are  validated by comparison with published solutions, and by application to  a published case study of field tests conducted in wells without skin  in an unconfined aquifer at the MSEA site in Nebraska. In this regard  (a) the MWT model essentially yields the same results as the confined  KGS model, except very close to the water table, and (b) the unified  model yields slightly smaller aquifer K-values relative to the  MWT model at all positions in the well. All model solutions yield  comparable results when fitted to published field data obtained in an  unconfined fluvial aquifer at the MSEA site in Nebraska. The unified  model is fitted to field data collected in wells known to exhibit  positive skin effects at the Boise Hydrogeophysical Research Site (BHRS)  in Boise, Idaho. It is shown to yield hydraulic conductivity estimates  of comparable magnitude to those obtained with the KGS model for  overdamped responses, and the Springer\u2013Gelhar model for oscillatory  responses. Sensitivity of the MWT model to specific yield, Sy, and hydraulic anisotropy, ? is evaluated and the results, when plotted in log\u2013log space and with  consideration of log-scale time derivatives of the response, indicate  that these two parameters should be estimable from slug test data,  though challenges still remain.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4464": {
+            "firstname": "Bwalya",
+            "middleinitial": "",
+            "lastname": "Malama",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4464,
+            "scholarlyactivityid": 1784
+        },
+        "4465": {
+            "firstname": "Kristopher",
+            "middleinitial": "L.",
+            "lastname": "Kuhlman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4465,
+            "scholarlyactivityid": 1784
+        },
+        "4466": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4466,
+            "scholarlyactivityid": 1784
+        },
+        "4467": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Cardiff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113054278",
+            "authorid": 4467,
+            "scholarlyactivityid": 1784
+        },
+        "4468": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Thoma",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4468,
+            "scholarlyactivityid": 1784
+        }
+    },
+    "status": [
+        {
+            "id": 1784,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

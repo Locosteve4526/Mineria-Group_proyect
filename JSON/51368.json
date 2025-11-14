@@ -1,0 +1,70 @@
+{
+    "activityid": 51368,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tracking the Evolution of Stare Decisis",
+        "Journal": "University of Louisville Law Review",
+        "Volume": "60",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114171943",
+    "coauthors": {
+        "261890": {
+            "firstname": "Sam",
+            "middleinitial": "C",
+            "lastname": "Ehrlich",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114171943",
+            "authorid": 261890,
+            "scholarlyactivityid": 51368,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "261891": {
+            "firstname": "Ryan",
+            "middleinitial": "M",
+            "lastname": "Rodenberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 261891,
+            "scholarlyactivityid": 51368,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51368,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114171943",
+    "attachments": [
+        {
+            "attachmentid": 32671,
+            "mimetype": "application/pdf",
+            "filename": "2021 - Tracking the Evolution of Stare Decisis.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzloc2VVSUkycm9PRVBveFlPZkZ5WVFackw5UzFsNytlU05Eb1FDYnc2allwazhUN29SUnJoK09DUWZqRWV2RFlyWXcrOXpDcW9lZWM2ZjRMcnZGWVhWeW9JYTJYcFRDSy9JPQ%3D%3D",
+            "filesize": 1288056
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "activityid": 1145,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Optimal Upstream Collocation Solution of the One-Dimensional Steady-State Convection-Diffusion Equation",
+        "Journal": "International Journal of Applied Mathematics and Computer Science",
+        "Volume": "10",
+        "Month / Season": "2002-01-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "197-215",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/81",
+        "Description/Abstract": "We give herein analytical formulas for the solution of the Hermite collocation discretization of the unforced steady-state convection-diffusion equation in one spatial dimension and with constant coefficients, defined on a uniform mesh, with Dirichlet boundary conditions. The accuracy of the method is advanced by employing &quot;upstream weighting&quot; of the convective term in an optimal way, avoiding both &quot;smearing&quot; and unwanted oscillations, particularly for large P\u00e9clet numbers. Computational examples illustrate the efficacy of using optimal upstream weighting.",
+        "Origin": "Other"
+    },
+    "facultyid": "111358874",
+    "coauthors": {
+        "2791": {
+            "firstname": "Stephen",
+            "middleinitial": "H",
+            "lastname": "Brill",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358874",
+            "authorid": 2791,
+            "scholarlyactivityid": 1145
+        }
+    },
+    "status": [
+        {
+            "id": 1145,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2002,
+            "termid": "2001/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358874",
+    "attachments": []
+}

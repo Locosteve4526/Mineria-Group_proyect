@@ -1,0 +1,75 @@
+{
+    "activityid": 58127,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Gender and racial equity award gaps ",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Blasi, J., Klein, F.B., &amp; Kruse, D. Gender and racial equity award gaps (data collection stage).  \n\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "114109249",
+    "coauthors": {
+        "270065": {
+            "firstname": "Felice",
+            "middleinitial": "B",
+            "lastname": "Klein",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114109249",
+            "authorid": 270065,
+            "scholarlyactivityid": 58127,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "270066": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Blasi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270066,
+            "scholarlyactivityid": 58127,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "270067": {
+            "firstname": "Doug",
+            "middleinitial": "",
+            "lastname": "Kruse",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270067,
+            "scholarlyactivityid": 58127,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58127,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114109249",
+    "attachments": []
+}

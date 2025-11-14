@@ -1,0 +1,58 @@
+{
+    "activityid": 48853,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Getting a clear picture of students\u2019 writing performance",
+        "Conference/Meeting Name": "2019 Joint Statistical Meetings",
+        "Conference Location": "Denver, Colorado",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108320",
+    "coauthors": {
+        "226645": {
+            "firstname": "Ya",
+            "middleinitial": "",
+            "lastname": "Mo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108320",
+            "authorid": 226645,
+            "scholarlyactivityid": 48853,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "226646": {
+            "firstname": "Nell",
+            "middleinitial": "",
+            "lastname": "Sedransk",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226646,
+            "scholarlyactivityid": 48853,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48853,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114108320",
+    "attachments": []
+}

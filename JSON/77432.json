@@ -1,0 +1,77 @@
+{
+    "activityid": 77432,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "D-RAG: A Privacy-Preserving Framework for Decentralized RAG Using Blockchain",
+        "Name of Conference": "International Conference on Machine Learning, IOT and Blockchain (MLIOB)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114011333",
+    "coauthors": {
+        "346251": {
+            "firstname": "Tessa",
+            "middleinitial": "E",
+            "lastname": "Andersen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346251,
+            "scholarlyactivityid": 77432
+        },
+        "346250": {
+            "firstname": "Ayanna",
+            "middleinitial": "",
+            "lastname": "Avalos",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346250,
+            "scholarlyactivityid": 77432
+        },
+        "346249": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 346249,
+            "scholarlyactivityid": 77432
+        },
+        "346248": {
+            "firstname": "Min",
+            "middleinitial": "",
+            "lastname": "Long",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114011333",
+            "authorid": 346248,
+            "scholarlyactivityid": 77432
+        }
+    },
+    "status": [
+        {
+            "id": 77432,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114011333",
+    "attachments": []
+}

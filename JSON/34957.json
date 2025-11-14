@@ -1,0 +1,63 @@
+{
+    "activityid": 34957,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cAn Analysis of the Comparative Effectiveness of a Computerized Module in Probability Theory\u201d",
+        "Name of Conference": "30th Annual Conference, New England Educational Research Organization",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 1998,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Portland, ME",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142733": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142733,
+            "scholarlyactivityid": 34957,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142734": {
+            "firstname": "Elizabeth",
+            "middleinitial": "",
+            "lastname": "Bringsjord",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142734,
+            "scholarlyactivityid": 34957,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34957,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1998,
+            "termid": "1997/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

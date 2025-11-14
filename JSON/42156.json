@@ -1,0 +1,90 @@
+{
+    "activityid": 42156,
+    "fields": {
+        "Type": "Instructional Publications",
+        "Title": "Why is the world's most expensive fungus disappearing?",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Organization (if applicable)": "",
+        "Issue Number/Edition": "",
+        "Page Numbers": "1-5",
+        "Publisher": "Science Journal for Kids and Teens",
+        "ISBN/ISSN/ASIN #": "",
+        "Author/Editor of larger work": "Seda Dawson, Rachel Watson",
+        "Title of larger work": "",
+        "DOI": "",
+        "Author(s)": null,
+        "Web Address": "https://www.sciencejournalforkids.org/search-articles/why-is-the-worlds-most-expensive-fungus-disappearing",
+        "Description/Abstract": "This is an adaptation of my 2018 PNAS publication for use in lower-level high school science classes.  It includes a glossary of key terms and study questions for the students, along with an answer key for teachers.  It is freely available to teachers and anyone else interested in using it.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106013",
+    "coauthors": {
+        "217091": {
+            "firstname": "Kelly",
+            "middleinitial": "A",
+            "lastname": "Hopping",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106013",
+            "authorid": 217091,
+            "scholarlyactivityid": 42156
+        },
+        "217092": {
+            "firstname": "Stephen",
+            "middleinitial": "M",
+            "lastname": "Chignell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217092,
+            "scholarlyactivityid": 42156
+        },
+        "217093": {
+            "firstname": "Eric",
+            "middleinitial": "F",
+            "lastname": "Lambin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217093,
+            "scholarlyactivityid": 42156
+        }
+    },
+    "status": [
+        {
+            "id": 42156,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42156,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114106013",
+    "attachments": [
+        {
+            "attachmentid": 20311,
+            "mimetype": "application/pdf",
+            "filename": "Hopping et al_2019_Science Journal for Teens.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlqVkUxaDV4VENZWnRYUkJ3WFUraWJRSzh5c091ZWNZZWt3NU5OSStsWEJORVgrOWYxcUhpRklvQTk0UDdMZWM0bEw1WiszU3JNRklHU2dHa1VNYnozVWZMRk4rWGplVzJvPQ%3D%3D",
+            "filesize": 2641954
+        },
+        {
+            "attachmentid": 20312,
+            "mimetype": "application/pdf",
+            "filename": "Hopping et al_2019_answer key.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlqVkUxaDV4VENZWnNNTXVtU2pQNTQ1Szh5c091ZWNZZWt3NU5OSStsWEJOR1V5K1U2cDdrdnRtZ1hadGsxNXIrY2pZeHo4dGVqaXJ3PT0%3D",
+            "filesize": 125756
+        }
+    ]
+}

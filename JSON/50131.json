@@ -1,0 +1,65 @@
+{
+    "activityid": 50131,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Curious Writer",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "6",
+        "Volume": "",
+        "Publisher": "Pearson",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114004157",
+    "coauthors": {
+        "349845": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349845,
+            "scholarlyactivityid": 50131
+        },
+        "349846": {
+            "firstname": "Michelle",
+            "middleinitial": "Marie",
+            "lastname": "Payne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110239",
+            "authorid": 349846,
+            "scholarlyactivityid": 50131
+        },
+        "349847": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Myers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114004157",
+            "authorid": 349847,
+            "scholarlyactivityid": 50131
+        }
+    },
+    "status": [
+        {
+            "id": 50131,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114004157",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 35527,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Learning through Making and Maker Education",
+        "Journal": "TechTrends",
+        "Volume": "61",
+        "Month / Season": "",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "589\u2013594",
+        "Publisher": "Springer",
+        "DOI": "https://doi.org/10.1007/s11528-017-0172-6",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113075443",
+    "coauthors": {
+        "145913": {
+            "firstname": "Yu-Chang",
+            "middleinitial": "",
+            "lastname": "Hsu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113075443",
+            "authorid": 145913,
+            "scholarlyactivityid": 35527,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "145914": {
+            "firstname": "Sally",
+            "middleinitial": "",
+            "lastname": "Baldwin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145914,
+            "scholarlyactivityid": 35527,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "145915": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 145915,
+            "scholarlyactivityid": 35527,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 35527,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113075443",
+    "attachments": []
+}

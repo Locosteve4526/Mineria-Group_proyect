@@ -1,0 +1,103 @@
+{
+    "activityid": 61401,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Does Accuracy Matter? Methodological considerations when using automated speech-to-text for social science research",
+        "Journal": "International Journal of Social Research Methodology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.1080/13645579.2022.2087849",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065991",
+    "coauthors": {
+        "283037": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Pentland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106117",
+            "authorid": 283037,
+            "scholarlyactivityid": 61401
+        },
+        "283038": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 283038,
+            "scholarlyactivityid": 61401
+        },
+        "283039": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 283039,
+            "scholarlyactivityid": 61401
+        },
+        "283040": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Spitzley",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 283040,
+            "scholarlyactivityid": 61401
+        }
+    },
+    "status": [
+        {
+            "id": 61401,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61401,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 61401,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 61401,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065991",
+    "attachments": []
+}

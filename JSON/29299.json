@@ -1,0 +1,58 @@
+{
+    "activityid": 29299,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Exploring Active Learning Methodologies for Language Learners in the Scientific Curriculum",
+        "Conference/Meeting Name": "Education and New Developments",
+        "Conference Location": "Ljubljana, Slovenia",
+        "Date or Date Range": "June",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Education and New Developments",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "101864": {
+            "firstname": "Melissa",
+            "middleinitial": "D",
+            "lastname": "Caspary",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 101864,
+            "scholarlyactivityid": 29299,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "101865": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 101865,
+            "scholarlyactivityid": 29299,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29299,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

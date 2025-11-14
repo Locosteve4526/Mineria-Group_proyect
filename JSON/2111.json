@@ -1,0 +1,76 @@
+{
+    "activityid": 2111,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Dual Nature of the Martian Crust: Young Lavas and Old Clastic Materials",
+        "Journal": "ICARUS",
+        "Volume": "22",
+        "Month / Season": "2013-01-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "188-199",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111688329",
+    "coauthors": {
+        "5470": {
+            "firstname": "J.",
+            "middleinitial": "L.",
+            "lastname": "Bandfield",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5470,
+            "scholarlyactivityid": 2111
+        },
+        "5471": {
+            "firstname": "C.",
+            "middleinitial": "S.",
+            "lastname": "Edwards",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5471,
+            "scholarlyactivityid": 2111
+        },
+        "5472": {
+            "firstname": "D.",
+            "middleinitial": "R.",
+            "lastname": "Montgomery",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5472,
+            "scholarlyactivityid": 2111
+        },
+        "5473": {
+            "firstname": "Brittany",
+            "middleinitial": "",
+            "lastname": "Brand",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111688329",
+            "authorid": 5473,
+            "scholarlyactivityid": 2111
+        }
+    },
+    "status": [
+        {
+            "id": 2111,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111688329",
+    "attachments": []
+}

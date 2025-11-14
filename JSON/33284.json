@@ -1,0 +1,97 @@
+{
+    "activityid": 33284,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Utilizing the Evidence Analysis Library (EAL) for a Health Science Research Project at Boise State University ",
+        "Journal": "Journal of the Academy of Nutrition and Dietetics",
+        "Volume": "117",
+        "Month / Season": "May",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "1",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": " Each issue of the Journal includes a commentary by the Academy's president.  In her May column, the President highlights research and makes references to the Evidence Analysis LIbrary project with an online link to the slides.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111641510",
+    "coauthors": {
+        "130262": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Gordon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 130262,
+            "scholarlyactivityid": 33284,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "130263": {
+            "firstname": "Tami",
+            "middleinitial": "",
+            "lastname": "Cirerol",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 130263,
+            "scholarlyactivityid": 33284,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "130264": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 130264,
+            "scholarlyactivityid": 33284,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "130265": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Toevs",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111641510",
+            "authorid": 130265,
+            "scholarlyactivityid": 33284,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33284,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 33284,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111641510",
+    "attachments": []
+}

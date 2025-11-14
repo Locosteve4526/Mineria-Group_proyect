@@ -1,0 +1,62 @@
+{
+    "activityid": 69132,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Privacy policy provision patterns among the top one hundred nonprofit websites.",
+        "Journal": "International Journal of Business Research and Information Technology",
+        "Volume": "10",
+        "Month / Season": "Fall",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "1-25",
+        "Publisher": "IABPAD",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "338270": {
+            "firstname": "Janet",
+            "middleinitial": "",
+            "lastname": "Stephens",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338270,
+            "scholarlyactivityid": 69132,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338271": {
+            "firstname": "Gundars",
+            "middleinitial": "E",
+            "lastname": "Kaupins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 338271,
+            "scholarlyactivityid": 69132,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69132,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

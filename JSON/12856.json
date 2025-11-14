@@ -1,0 +1,52 @@
+{
+    "activityid": 12856,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Click here for instruction success",
+        "Conference/Meeting Name": "Idaho Library Association Annual Conference",
+        "Conference Location": "Post Falls, ID",
+        "Date or Date Range": "2010-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://works.bepress.com/margieruppel/27/",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112192272",
+    "coauthors": {
+        "123414": {
+            "firstname": "Margaret",
+            "middleinitial": "Dean",
+            "lastname": "Ruppel",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113030640",
+            "authorid": 123414,
+            "scholarlyactivityid": 12856
+        },
+        "123415": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 123415,
+            "scholarlyactivityid": 12856
+        }
+    },
+    "status": [
+        {
+            "id": 12856,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112192272",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 32515,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Immersive learning simulations",
+        "Conference/Meeting Name": "International Society for Performance Improvement",
+        "Conference Location": "Orlando, FL",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112139967",
+    "coauthors": {
+        "125368": {
+            "firstname": "Deborah",
+            "middleinitial": "L",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125368,
+            "scholarlyactivityid": 32515,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125369": {
+            "firstname": "Steven",
+            "middleinitial": "W",
+            "lastname": "Villachica",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112139967",
+            "authorid": 125369,
+            "scholarlyactivityid": 32515,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32515,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139967",
+    "attachments": []
+}

@@ -1,0 +1,79 @@
+{
+    "activityid": 32631,
+    "fields": {
+        "Type": "Book",
+        "Title": "Justice Administration:  Police, Courts and Corrections Management",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "9th",
+        "Volume": "",
+        "Publisher": "Pearson",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111358865",
+    "coauthors": {
+        "201400": {
+            "firstname": "Kenneth",
+            "middleinitial": "",
+            "lastname": "Peak",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201400,
+            "scholarlyactivityid": 32631,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "201401": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Giacomazzi",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358865",
+            "authorid": 201401,
+            "scholarlyactivityid": 32631,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32631,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 32631,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 32631,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111358865",
+    "attachments": []
+}

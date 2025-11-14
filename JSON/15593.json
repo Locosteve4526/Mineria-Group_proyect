@@ -1,0 +1,62 @@
+{
+    "activityid": 15593,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Processing and Analysis of Complex NMR Spectra with AMIX",
+        "Conference / Meeting Name": "URC",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2012-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "64024": {
+            "firstname": "Kevin",
+            "middleinitial": "",
+            "lastname": "Hou",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64024,
+            "scholarlyactivityid": 15593
+        },
+        "64025": {
+            "firstname": "Ashley ",
+            "middleinitial": "",
+            "lastname": "Fisher",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64025,
+            "scholarlyactivityid": 15593
+        },
+        "64026": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 64026,
+            "scholarlyactivityid": 15593
+        }
+    },
+    "status": [
+        {
+            "id": 15593,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

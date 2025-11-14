@@ -1,0 +1,67 @@
+{
+    "activityid": 48006,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "My Name Is My Password: Understanding Children's Authentication Practices",
+        "Name of Conference": "Proceedings of the 18th ACM International Conference on Interaction Design and Children",
+        "Month / Season": "jun",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": null,
+        "Publisher": "Association for Computing Machinery",
+        "Publisher Location": null,
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114058343",
+    "coauthors": {
+        "221251": {
+            "firstname": "Dhanush",
+            "middleinitial": "kumar",
+            "lastname": "Ratakonda",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 221251,
+            "scholarlyactivityid": 48006
+        },
+        "221252": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "French",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 221252,
+            "scholarlyactivityid": 48006
+        },
+        "221253": {
+            "firstname": "Jerry",
+            "middleinitial": "Alan",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 221253,
+            "scholarlyactivityid": 48006
+        }
+    },
+    "status": [
+        {
+            "id": 48006,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058343",
+    "attachments": []
+}

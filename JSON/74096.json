@@ -1,0 +1,71 @@
+{
+    "activityid": 74096,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "CEO Narcissism and Tournament Choice: Archival Paper",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126866",
+    "coauthors": {
+        "330100": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Knox",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 330100,
+            "scholarlyactivityid": 74096,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "330101": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Stallings",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126866",
+            "authorid": 330101,
+            "scholarlyactivityid": 74096,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74096,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 74096,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114126866",
+    "attachments": []
+}

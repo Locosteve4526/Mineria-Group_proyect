@@ -1,0 +1,84 @@
+{
+    "activityid": 47757,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Faculty Perceptions of the Adoption and Use of Clickers in Legal Studies in Business Classrooms",
+        "Journal": "Journal of Education for Business",
+        "Volume": "90",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "208-216",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112978",
+    "coauthors": {
+        "219513": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Park",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112978",
+            "authorid": 219513,
+            "scholarlyactivityid": 47757,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "219514": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 219514,
+            "scholarlyactivityid": 47757,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "219515": {
+            "firstname": "Farag",
+            "middleinitial": "",
+            "lastname": "Denise",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219515,
+            "scholarlyactivityid": 47757,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47757,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 47757,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111112978",
+    "attachments": []
+}

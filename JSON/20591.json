@@ -1,0 +1,52 @@
+{
+    "activityid": 20591,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Philosophy of SciTS",
+        "Conference/Meeting Name": "Science of Team Science",
+        "Conference Location": "Evanston, Illinois",
+        "Date or Date Range": "2013-06-26",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "74815": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "O'Rourke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 74815,
+            "scholarlyactivityid": 20591
+        },
+        "74816": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 74816,
+            "scholarlyactivityid": 20591
+        }
+    },
+    "status": [
+        {
+            "id": 20591,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

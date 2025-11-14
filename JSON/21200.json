@@ -1,0 +1,62 @@
+{
+    "activityid": 21200,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Rich visual media meta-analyses for learning: An approach at meta-synthesis",
+        "Conference/Meeting Name": "American Educational Research Association",
+        "Conference Location": "Denver, CO",
+        "Date or Date Range": "2010-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "76424": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 76424,
+            "scholarlyactivityid": 21200
+        },
+        "76425": {
+            "firstname": "H",
+            "middleinitial": "M",
+            "lastname": "Leary",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76425,
+            "scholarlyactivityid": 21200
+        },
+        "76426": {
+            "firstname": "Andrew",
+            "middleinitial": "E",
+            "lastname": "Walker",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76426,
+            "scholarlyactivityid": 21200
+        }
+    },
+    "status": [
+        {
+            "id": 21200,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

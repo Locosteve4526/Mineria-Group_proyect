@@ -1,0 +1,71 @@
+{
+    "activityid": 51506,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Modeling the Living Genome",
+        "Conference / Meeting Name": "Idaho Conference of Undergraduate Research",
+        "Conference Location": "Boise",
+        "Date or Date Range": "7/23/2020-7/24/2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Recent high-resolution contact mapping has made it possible to see the 3D organization of the nucleus on an unprecedented length scale (at 1kb resolution)[1,2]. Since the average human gene is 12kb, this information is finally below a critical limit, and we are now in a position to understand the principles underlying epigenetic programming. One of the challenges of understanding the regulation of gene expression is developing tools and protocols that capture the complex spatiotemporal dynamics of these functions without compromising sampling rates, timescales, visibility of the sample, and all within a single living cell. The goal of our project is to develop a protocol for using 3D orbital tracking microscopy and in vivo RNA labeling to provide measurements of the cooperative binding of transcription factors and reprogramming of the human genome at a single active transcription site within a living cell. Using coarse grained modeling, GPU acceleration and Hi-C data, we intend to develop a dynamic model of the human genome to test an enhancer promoter looping model for transcriptional bursting and epigenetic regulation.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002276",
+    "coauthors": {
+        "237948": {
+            "firstname": "Ethan",
+            "middleinitial": "",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 237948,
+            "scholarlyactivityid": 51506,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "237949": {
+            "firstname": "Julianna",
+            "middleinitial": "",
+            "lastname": "Goelzer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 237949,
+            "scholarlyactivityid": 51506,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "237950": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Ferguson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002276",
+            "authorid": 237950,
+            "scholarlyactivityid": 51506,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51506,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002276",
+    "attachments": []
+}

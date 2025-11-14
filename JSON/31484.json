@@ -1,0 +1,56 @@
+{
+    "activityid": 31484,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Extending the Fermi - Swift Joint AGN Sample",
+        "Journal": "American Astronomical Society Meeting Abstracts #223",
+        "Volume": "223",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "250",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "The Swift BAT and the Fermi LAT each provide excellent sky coverage and have led to impressive compilations of extragalactic source catalogs. For the most part they sample separate AGN subpopulations - Swift the lower-luminosity and relatively nearby Seyfert galaxies while the Fermi sample is dominated by blazars and does not include any radio-quiet objects. The overlap between these samples is among the radio-loud subset of the Swift sample as has been discussed elsewhere in the literature. The observable properties at these two bands - flux and spectral indices - are not expected to be well correlated as they sample different portions of the synchrotron self-Compton (SSC) spectral energy distribution. In this contribution we consider an extension of the high-latitude Swift sample by relaxing the significance cut to less than 5 standard deviations and consider the overlap of that subsample with the Fermi AGN catalog. While such a threshold is generally inadvisable as it introduces the strong possibility of spurious detections, the objects of the overlapping sample which are detected at high significance in Fermi can be considered as reasonably high-confidence Swift detections. For example, there are 190 Swift sub-5-sigma Swift sources that have significance \u30092-sigma with Fermi counterparts, whereas we predict only ~5 due to statistical fluctuation. We also investigate any coincident INTEGRAL/IBIS observations to further bolster or diminish candidate Swift detections. We present our correlation analyses and offer interpretation in the context of the blazar sequence.",
+        "Origin": "Other"
+    },
+    "facultyid": "111197453",
+    "coauthors": {
+        "118653": {
+            "firstname": "Chris",
+            "middleinitial": "R.",
+            "lastname": "Shrader",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118653,
+            "scholarlyactivityid": 31484
+        },
+        "118654": {
+            "firstname": "D.",
+            "middleinitial": "J.",
+            "lastname": "Macomb",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118654,
+            "scholarlyactivityid": 31484
+        }
+    },
+    "status": [
+        {
+            "id": 31484,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111197453",
+    "attachments": []
+}

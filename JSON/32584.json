@@ -1,0 +1,96 @@
+{
+    "activityid": 32584,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Validation of a new computational 6-DOF knee simulator during dynamic activities",
+        "Journal": "Journal of biomechanics",
+        "Volume": "49",
+        "Month / Season": null,
+        "Issue Number": "14",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "3177-3184",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "A new six-degree-of-freedom (6-DOF) joint simulator has recently been developed which facilitates testing of implants under more realistic loading conditions than has been possible previously. However, typical wear testing can be very time-consuming, taking weeks or months to complete. A validated computational model is an ideal complement to these types of long-running tests. In this study, a computational counterpart to the new 6-DOF joint simulator was developed and validated. Total knee replacement components were evaluated in both physical and computational simulations, and joint mechanics were compared between the experiment and the model. Kinematic comparisons were carried out for two total knee replacement designs, under loading conditions representative of three different activities of daily living: deep knee bend, gait, and stepdown. The model accurately reproduced the motions obtained in the physical simulator, and appropriately differentiated between activities and between implant designs. Root-mean-square differences in anterior-posterior translations and internal-external rotations were less than 1.7mm and 1.4\u00b0, respectively, for both implant designs and all three dynamic activities. Contact area, and peak and average contact pressure predicted by the model matched experimental measurements with a root-mean-square accuracy of 20mm(2), 9MPa, and 1MPa, respectively. The computational model of the 6-DOF joint simulator will be a key tool in efficient evaluation of implant mechanics under loading conditions representative of the in vivo environment. These simulations may be used directly in comparison of devices, or may aid in facilitating optimal usage of the physical simulator through determining which activities and/or loading conditions best address specific clinical or design issues, for example, development of worst-case loading profiles for wear testing.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "125681": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125681,
+            "scholarlyactivityid": 32584
+        },
+        "125682": {
+            "firstname": "Chase",
+            "middleinitial": "",
+            "lastname": "Maag",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125682,
+            "scholarlyactivityid": 32584
+        },
+        "125683": {
+            "firstname": "Chadd ",
+            "middleinitial": "W",
+            "lastname": "Clary",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125683,
+            "scholarlyactivityid": 32584
+        },
+        "125684": {
+            "firstname": "Amber",
+            "middleinitial": "",
+            "lastname": "Metcalfe",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125684,
+            "scholarlyactivityid": 32584
+        },
+        "125685": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "Langhorn",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125685,
+            "scholarlyactivityid": 32584
+        },
+        "125686": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125686,
+            "scholarlyactivityid": 32584
+        }
+    },
+    "status": [
+        {
+            "id": 32584,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

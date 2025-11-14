@@ -1,0 +1,55 @@
+{
+    "activityid": 24942,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Writing Tree: Interactive Lessons for Cultivating a College Essay",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Edition": "First",
+        "Volume": "Digital",
+        "Publisher": "Kendall Hunt Publishing",
+        "Publisher Location": "",
+        "ISBN": "978-0-7575-5808-5",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "\nPage Number:  Digital",
+        "Origin": "Other"
+    },
+    "facultyid": "111112417",
+    "coauthors": {
+        "81658": {
+            "firstname": "Jill",
+            "middleinitial": "",
+            "lastname": "Heney",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111112417",
+            "authorid": 81658,
+            "scholarlyactivityid": 24942
+        },
+        "81659": {
+            "firstname": "Stacie",
+            "middleinitial": "",
+            "lastname": "Rice",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 81659,
+            "scholarlyactivityid": 24942
+        }
+    },
+    "status": [
+        {
+            "id": 24942,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2008,
+            "termid": "2008/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112417",
+    "attachments": []
+}

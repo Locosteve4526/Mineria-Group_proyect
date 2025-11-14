@@ -1,0 +1,100 @@
+{
+    "activityid": 10112,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Fostering Literacy Learning Across Disciplines: A plan for professional development",
+        "Conference/Meeting Name": "57th Annual National Reading Conference",
+        "Conference Location": "Austin, Texas",
+        "Date or Date Range": "2007-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Sponsoring Organization": "NRC/LRA",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112002071",
+    "coauthors": {
+        "52123": {
+            "firstname": "Anne",
+            "middleinitial": "E",
+            "lastname": "Gregory",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111699285",
+            "authorid": 52123,
+            "scholarlyactivityid": 10112
+        },
+        "52124": {
+            "firstname": "Jennifer",
+            "middleinitial": "Lynn",
+            "lastname": "Snow-Gerono",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112002071",
+            "authorid": 52124,
+            "scholarlyactivityid": 10112
+        },
+        "52125": {
+            "firstname": "Rosemary",
+            "middleinitial": "",
+            "lastname": "Palmer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52125,
+            "scholarlyactivityid": 10112
+        },
+        "52126": {
+            "firstname": "Tanya",
+            "middleinitial": "",
+            "lastname": "Peters",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52126,
+            "scholarlyactivityid": 10112
+        },
+        "52127": {
+            "firstname": "Lee",
+            "middleinitial": "Ann",
+            "lastname": "Tysseling",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110539",
+            "authorid": 52127,
+            "scholarlyactivityid": 10112
+        }
+    },
+    "status": [
+        {
+            "id": 10112,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10112,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 10112,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112002071",
+    "attachments": []
+}

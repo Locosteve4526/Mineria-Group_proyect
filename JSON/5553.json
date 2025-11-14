@@ -1,0 +1,56 @@
+{
+    "activityid": 5553,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Problem-based educational games: Connections, prescriptions, and assessmen",
+        "Journal": "Journal of Interactive Learning Research",
+        "Volume": "12",
+        "Month / Season": "2008-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "663-684",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "17048": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17048,
+            "scholarlyactivityid": 5553
+        },
+        "17049": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 17049,
+            "scholarlyactivityid": 5553
+        }
+    },
+    "status": [
+        {
+            "id": 5553,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

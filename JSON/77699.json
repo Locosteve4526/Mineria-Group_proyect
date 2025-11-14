@@ -1,0 +1,71 @@
+{
+    "activityid": 77699,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span&gt;&lt;span style=&quot;font-size:11pt;color:#222222;&quot;&gt;Modeling Varieties of Integration&lt;/span&gt;&lt;/span&gt;",
+        "Conference/Meeting Name": "ITD 2024",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "348550": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Crowley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 348550,
+            "scholarlyactivityid": 77699,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "348551": {
+            "firstname": "Bethany",
+            "middleinitial": "",
+            "lastname": "Laursen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 348551,
+            "scholarlyactivityid": 77699,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "348552": {
+            "firstname": "Julie",
+            "middleinitial": "",
+            "lastname": "Mennes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 348552,
+            "scholarlyactivityid": 77699,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77699,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

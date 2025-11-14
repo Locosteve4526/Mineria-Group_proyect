@@ -1,0 +1,74 @@
+{
+    "activityid": 44305,
+    "fields": {
+        "Type": "Book",
+        "Title": "Translating Participatory Budgeting: Adoption and Adaptation",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111670037",
+    "coauthors": {
+        "200800": {
+            "firstname": "Brian",
+            "middleinitial": "D",
+            "lastname": "Wampler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111670037",
+            "authorid": 200800,
+            "scholarlyactivityid": 44305,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "200801": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "McNulty",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200801,
+            "scholarlyactivityid": 44305,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "200802": {
+            "firstname": "Michal",
+            "middleinitial": "",
+            "lastname": "Touchton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200802,
+            "scholarlyactivityid": 44305,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44305,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111670037",
+    "attachments": []
+}

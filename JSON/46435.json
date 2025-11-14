@@ -1,0 +1,93 @@
+{
+    "activityid": 46435,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;Job satisfaction amongst social work&lt;/span&gt;&lt;/p&gt;\n&lt;span style=&quot;font-size:11pt;&quot;&gt;faculty: The role of relationships&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Journal": "Journal of Social Work Education",
+        "Volume": "59",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "803-817",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114087965",
+    "coauthors": {
+        "313705": {
+            "firstname": "Jill",
+            "middleinitial": "M",
+            "lastname": "Chonody",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114087965",
+            "authorid": 313705,
+            "scholarlyactivityid": 46435
+        },
+        "313706": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Kondrat",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313706,
+            "scholarlyactivityid": 46435
+        },
+        "313707": {
+            "firstname": "Anna",
+            "middleinitial": "",
+            "lastname": "Kotizan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313707,
+            "scholarlyactivityid": 46435
+        }
+    },
+    "status": [
+        {
+            "id": 46435,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46435,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 46435,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 46435,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114087965",
+    "attachments": []
+}

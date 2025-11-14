@@ -1,0 +1,84 @@
+{
+    "activityid": 68698,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;text-align:center;font-size:12pt;&quot;&gt;Public Health + Public Safety: Integrating Community Health Specialists with Probation Officers to Improve Outcomes for Justice-Involved Women&lt;/span&gt;&lt;span style=&quot;text-align:center;font-size:12pt;&quot;&gt;\u00a0&lt;/span&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114247080",
+    "coauthors": {
+        "311403": {
+            "firstname": "Emily",
+            "middleinitial": "",
+            "lastname": "Salisbury",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311403,
+            "scholarlyactivityid": 68698,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311404": {
+            "firstname": "Mariah",
+            "middleinitial": "",
+            "lastname": "Cowell Mercier",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311404,
+            "scholarlyactivityid": 68698,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311405": {
+            "firstname": "Linsey",
+            "middleinitial": "A",
+            "lastname": "Belisle",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114247080",
+            "authorid": 311405,
+            "scholarlyactivityid": 68698,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68698,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 68698,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114247080",
+    "attachments": []
+}

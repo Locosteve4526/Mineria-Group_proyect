@@ -1,0 +1,77 @@
+{
+    "activityid": 25525,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "How do mathematicians make sense of definitions?",
+        "Name of Conference": "",
+        "Month / Season": "2011-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643697",
+    "coauthors": {
+        "82828": {
+            "firstname": "Laurie",
+            "middleinitial": "O",
+            "lastname": "Cavey",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113017246",
+            "authorid": 82828,
+            "scholarlyactivityid": 25525
+        },
+        "82829": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Kinzel",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643697",
+            "authorid": 82829,
+            "scholarlyactivityid": 25525
+        },
+        "82830": {
+            "firstname": "Kathleen",
+            "middleinitial": "Louise",
+            "lastname": "Rohrig",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110955",
+            "authorid": 82830,
+            "scholarlyactivityid": 25525
+        },
+        "82831": {
+            "firstname": "S",
+            "middleinitial": "B",
+            "lastname": "Whalen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82831,
+            "scholarlyactivityid": 25525
+        }
+    },
+    "status": [
+        {
+            "id": 25525,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643697",
+    "attachments": []
+}

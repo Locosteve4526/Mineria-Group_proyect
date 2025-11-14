@@ -1,0 +1,45 @@
+{
+    "activityid": 28097,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Curious Researcher ",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "9th Edition",
+        "Volume": "",
+        "Publisher": "Pearson",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "89244": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 89244,
+            "scholarlyactivityid": 28097
+        }
+    },
+    "status": [
+        {
+            "id": 28097,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

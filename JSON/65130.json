@@ -1,0 +1,85 @@
+{
+    "activityid": 65130,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "MnemoSys: A Conditional Probability Estimation Protocol for Blockchain Audited Reputation Management",
+        "Name of Conference": "4th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669907",
+    "coauthors": {
+        "302653": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Rouhana",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302653,
+            "scholarlyactivityid": 65130
+        },
+        "302652": {
+            "firstname": "Peyton",
+            "middleinitial": "",
+            "lastname": "Lundquist",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302652,
+            "scholarlyactivityid": 65130
+        },
+        "302651": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 302651,
+            "scholarlyactivityid": 65130
+        },
+        "302650": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 302650,
+            "scholarlyactivityid": 65130
+        }
+    },
+    "status": [
+        {
+            "id": 65130,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669907",
+    "attachments": [
+        {
+            "attachmentid": 45777,
+            "mimetype": "application/pdf",
+            "filename": "GD_MnemoSys_IEEE_TPS_2022.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yOFdzZGFndlNNbkFSc1VOTG4rbzhudXl4K0pEQXpSc2ZNOVF1TG5TZ1NucGs0Q0RkRlJvK3d4YkU1c0hmWFMrOD0%3D",
+            "filesize": 1242239
+        }
+    ]
+}

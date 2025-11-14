@@ -1,0 +1,52 @@
+{
+    "activityid": 12477,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Using the online video database in a flipped classroom",
+        "Conference/Meeting Name": "",
+        "Conference Location": "BSU",
+        "Date or Date Range": "2013-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Center for Teaching and Learning",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111323598",
+    "coauthors": {
+        "56770": {
+            "firstname": "Margaret",
+            "middleinitial": "Dean",
+            "lastname": "Ruppel",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113030640",
+            "authorid": 56770,
+            "scholarlyactivityid": 12477
+        },
+        "56771": {
+            "firstname": "Garad",
+            "middleinitial": "M",
+            "lastname": "Davis",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111323598",
+            "authorid": 56771,
+            "scholarlyactivityid": 12477
+        }
+    },
+    "status": [
+        {
+            "id": 12477,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111323598",
+    "attachments": []
+}

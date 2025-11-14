@@ -1,0 +1,66 @@
+{
+    "activityid": 3900,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Wavelet Deconvolution in a Periodic Setting Using Cross-Validation",
+        "Journal": "IEEE Signal Processing Letters",
+        "Volume": "13",
+        "Month / Season": "2006-04-01",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "232-235",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1109/LSP.2005.863657",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/1",
+        "Description/Abstract": "The wavelet deconvolution method WaveD using band-limited wavelets offers both theoretical and computational advantages over traditional compactly supported wavelets. The translation-invariant WaveD with a fast algorithm improves further. The twofold cross-validation method for choosing the threshold parameter and the finest resolution level in WaveD is introduced. The algorithm's performance is compared with the fixed constant tuning and the default tuning in WaveD.",
+        "Origin": "Other"
+    },
+    "facultyid": "112033907",
+    "coauthors": {
+        "11481": {
+            "firstname": "Leming",
+            "middleinitial": "",
+            "lastname": "Qu",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702326",
+            "authorid": 11481,
+            "scholarlyactivityid": 3900
+        },
+        "11482": {
+            "firstname": "Partha",
+            "middleinitial": "S.",
+            "lastname": "Routh",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11482,
+            "scholarlyactivityid": 3900
+        },
+        "11483": {
+            "firstname": "Kyungduk",
+            "middleinitial": "",
+            "lastname": "Ko",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033907",
+            "authorid": 11483,
+            "scholarlyactivityid": 3900
+        }
+    },
+    "status": [
+        {
+            "id": 3900,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112033907",
+    "attachments": []
+}

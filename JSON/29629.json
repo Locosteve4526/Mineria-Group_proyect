@@ -1,0 +1,76 @@
+{
+    "activityid": 29629,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Children and Sleep Disturbance:  A Case for Psychiatric Intervention?",
+        "Name of Conference": "European Congress of Psychiatry",
+        "Month / Season": "March",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111850",
+    "coauthors": {
+        "103668": {
+            "firstname": "Pennie",
+            "middleinitial": "S",
+            "lastname": "Seibert",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111850",
+            "authorid": 103668,
+            "scholarlyactivityid": 29629,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "103669": {
+            "firstname": "Colleen",
+            "middleinitial": "",
+            "lastname": "Poulton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 103669,
+            "scholarlyactivityid": 29629,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "103670": {
+            "firstname": "Christian",
+            "middleinitial": "",
+            "lastname": "Zimmerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 103670,
+            "scholarlyactivityid": 29629,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29629,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111850",
+    "attachments": []
+}

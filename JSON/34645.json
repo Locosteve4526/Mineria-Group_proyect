@@ -1,0 +1,77 @@
+{
+    "activityid": 34645,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Web Service and Interface for Electronic Device Characterization",
+        "Name of Conference": "American Society for Engineering Education",
+        "Month / Season": null,
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": null,
+        "Publisher": null,
+        "Publisher Location": null,
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "111698609",
+    "coauthors": {
+        "140872": {
+            "firstname": "Sumit",
+            "middleinitial": "",
+            "lastname": "Dutta",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140872,
+            "scholarlyactivityid": 34645
+        },
+        "140873": {
+            "firstname": "Shreya",
+            "middleinitial": "",
+            "lastname": "Prakash",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140873,
+            "scholarlyactivityid": 34645
+        },
+        "140874": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Estrada",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140874,
+            "scholarlyactivityid": 34645
+        },
+        "140875": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Pop",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140875,
+            "scholarlyactivityid": 34645
+        }
+    },
+    "status": [
+        {
+            "id": 34645,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111698609",
+    "attachments": []
+}

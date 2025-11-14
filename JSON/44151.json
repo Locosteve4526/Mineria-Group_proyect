@@ -1,0 +1,58 @@
+{
+    "activityid": 44151,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Podcasts: A versatile, pedagogical vehicle",
+        "Conference/Meeting Name": "National Institute on the Teaching of Psychology (NITOP)",
+        "Conference Location": "St. Petersburg Beach, FL",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "National Institute on the Teaching of Psychology (NITOP)",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "200011": {
+            "firstname": "Garth",
+            "middleinitial": "",
+            "lastname": "Neufeld",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200011,
+            "scholarlyactivityid": 44151,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "200012": {
+            "firstname": "R.",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 200012,
+            "scholarlyactivityid": 44151,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44151,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

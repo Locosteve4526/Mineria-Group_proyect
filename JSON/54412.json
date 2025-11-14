@@ -1,0 +1,80 @@
+{
+    "activityid": 54412,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "An Empirical Analysis of Unrecognized Tax Benefits: Managerial Discretion and Information Signalling",
+        "Conference/Meeting Name": "AAA Midwest Region Meeting",
+        "Conference Location": "St. Louis, MO",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126866",
+    "coauthors": {
+        "257426": {
+            "firstname": "Aaron",
+            "middleinitial": "",
+            "lastname": "Crabtree",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257426,
+            "scholarlyactivityid": 54412,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257427": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Stallings",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126866",
+            "authorid": 257427,
+            "scholarlyactivityid": 54412,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "257428": {
+            "firstname": "Emre",
+            "middleinitial": "",
+            "lastname": "Unlu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257428,
+            "scholarlyactivityid": 54412,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54412,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54412,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114126866",
+    "attachments": []
+}

@@ -1,0 +1,52 @@
+{
+    "activityid": 11400,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Innovative teaching through problem-based learning",
+        "Conference/Meeting Name": "Bombay Teachers Training Institute",
+        "Conference Location": "Mumbai (Bombay), India",
+        "Date or Date Range": "2006-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Sponsoring Organization": "Bombay Teachers Training Institute",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "54624": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 54624,
+            "scholarlyactivityid": 11400
+        },
+        "54625": {
+            "firstname": "M",
+            "middleinitial": "",
+            "lastname": "Caspary",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 54625,
+            "scholarlyactivityid": 11400
+        }
+    },
+    "status": [
+        {
+            "id": 11400,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

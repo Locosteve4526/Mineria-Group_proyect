@@ -1,0 +1,95 @@
+{
+    "activityid": 65223,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "2D and 3D anatomic characterization of a porcine model of developmental dysplasia of the hip",
+        "Name of Conference": "9th World Congress of Biomechanics",
+        "Month / Season": "July 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114174958",
+    "coauthors": {
+        "302935": {
+            "firstname": "Clare",
+            "middleinitial": "",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114062491",
+            "authorid": 302935,
+            "scholarlyactivityid": 65223
+        },
+        "302934": {
+            "firstname": "Erin",
+            "middleinitial": "M",
+            "lastname": "Mannen",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114174958",
+            "authorid": 302934,
+            "scholarlyactivityid": 65223
+        },
+        "302933": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Farnsworth",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302933,
+            "scholarlyactivityid": 65223
+        },
+        "302932": {
+            "firstname": "Vidyadhar",
+            "middleinitial": "",
+            "lastname": "Upasani",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302932,
+            "scholarlyactivityid": 65223
+        }
+    },
+    "status": [
+        {
+            "id": 65223,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 65223,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 65223,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114174958",
+    "attachments": []
+}

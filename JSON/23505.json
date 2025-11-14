@@ -1,0 +1,55 @@
+{
+    "activityid": 23505,
+    "fields": {
+        "Type": "Book",
+        "Title": "Cases on digital Game-Based Learning: Methods, models and strategies",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "IGI Global",
+        "Publisher Location": "New York",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "78542": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 78542,
+            "scholarlyactivityid": 23505
+        },
+        "78543": {
+            "firstname": "Nicola",
+            "middleinitial": "",
+            "lastname": "Whitton",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78543,
+            "scholarlyactivityid": 23505
+        }
+    },
+    "status": [
+        {
+            "id": 23505,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

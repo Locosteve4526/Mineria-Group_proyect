@@ -1,0 +1,45 @@
+{
+    "activityid": 23582,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Curious Writer",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Pearson Longman",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Pearson Longman",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/195",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "78707": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 78707,
+            "scholarlyactivityid": 23582
+        }
+    },
+    "status": [
+        {
+            "id": 23582,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2005,
+            "termid": "2004/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

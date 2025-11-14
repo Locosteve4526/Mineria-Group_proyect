@@ -1,0 +1,76 @@
+{
+    "activityid": 3419,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Monte carlo estimates of the validity of four relevant question polygraph examinations",
+        "Journal": "Polygraph",
+        "Volume": "44",
+        "Month / Season": "2015-01-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "27-Jan",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110183",
+    "coauthors": {
+        "9926": {
+            "firstname": "David",
+            "middleinitial": "C",
+            "lastname": "Raskin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9926,
+            "scholarlyactivityid": 3419
+        },
+        "9927": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Honts",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110183",
+            "authorid": 9927,
+            "scholarlyactivityid": 3419
+        },
+        "9928": {
+            "firstname": "Ray",
+            "middleinitial": "",
+            "lastname": "Nelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9928,
+            "scholarlyactivityid": 3419
+        },
+        "9929": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Handler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9929,
+            "scholarlyactivityid": 3419
+        }
+    },
+    "status": [
+        {
+            "id": 3419,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110183",
+    "attachments": []
+}

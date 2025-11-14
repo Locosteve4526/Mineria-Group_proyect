@@ -1,0 +1,95 @@
+{
+    "activityid": 27203,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Primary Mathematics Assessment: An early mathematics screener and progress monitoring tool",
+        "Name of Conference": "",
+        "Month / Season": "2013-04-01",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Kiel Germany",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "86554": {
+            "firstname": "Jonathan",
+            "middleinitial": "",
+            "lastname": "Brendefur",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643488",
+            "authorid": 86554,
+            "scholarlyactivityid": 27203
+        },
+        "86555": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 86555,
+            "scholarlyactivityid": 27203
+        },
+        "86556": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 86556,
+            "scholarlyactivityid": 27203
+        },
+        "86557": {
+            "firstname": "Sam",
+            "middleinitial": "",
+            "lastname": "Strother",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 86557,
+            "scholarlyactivityid": 27203
+        }
+    },
+    "status": [
+        {
+            "id": 27203,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 27203,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 27203,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

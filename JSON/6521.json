@@ -1,0 +1,56 @@
+{
+    "activityid": 6521,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Stability and Error Estimates for Vector Field Interpolation and Decomposition on the Sphere with RBFs",
+        "Journal": "SIAM Journal on Numerical Analysis",
+        "Volume": "47",
+        "Month / Season": "2009-10-09",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "3213-3239",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1137/080730901",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/23",
+        "Description/Abstract": "A new numerical technique based on radial basis functions (RBFs) is presented for fitting a vector field tangent to the sphere,   S2, from samples of the field at &quot;scattered&quot; locations on S2. The method naturally provides a way to decompose the reconstructed field into its individual Helmholtz\u2013Hodge components, i.e., into divergence-free and curl-free parts, which is useful in many applications from the atmospheric and oceanic sciences (e.g., in diagnosing the horizontal wind and ocean currents). Several approximation results for the method will be derived. In particular, Sobolevtype error estimates are obtained for both the interpolant and its decomposition. Optimal stability estimates for the associated interpolation matrices are also presented. Finally, numerical validation of the theoretical results is given for vector fields with characteristics similar to those of atmospheric wind fields.",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "20316": {
+            "firstname": "Edward",
+            "middleinitial": "J.",
+            "lastname": "Fuselier",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20316,
+            "scholarlyactivityid": 6521
+        },
+        "20317": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 20317,
+            "scholarlyactivityid": 6521
+        }
+    },
+    "status": [
+        {
+            "id": 6521,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

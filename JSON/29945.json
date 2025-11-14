@@ -1,0 +1,71 @@
+{
+    "activityid": 29945,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Access Control for an Organization Connected by Insecure Public Networks",
+        "Name of Conference": "The 6th World Multiconference on Systemics, Cybernetics and Informatics",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "106899": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 106899,
+            "scholarlyactivityid": 29945,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "106900": {
+            "firstname": "Wen-chen",
+            "middleinitial": "",
+            "lastname": "Hu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106900,
+            "scholarlyactivityid": 29945,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29945,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2002,
+            "termid": "2002/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 1418,
+            "mimetype": "application/pdf",
+            "filename": "camera-ready.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25xY1hDRERkbzQyTlV4RDlwOHVLekt0dEhWM0JtQ2RpZDgwMzZhNnRiN2hvNklFdUpMWXM5VlU%3D",
+            "filesize": 163596
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 1432,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Healthy Habits Healthy U: A collaboration between university, public schools and hospital",
+        "Journal": "Idaho JOPHERD",
+        "Volume": "",
+        "Month / Season": "2014-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "51-53",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110020",
+    "coauthors": {
+        "3427": {
+            "firstname": "Caile",
+            "middleinitial": "E",
+            "lastname": "Spear",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110020",
+            "authorid": 3427,
+            "scholarlyactivityid": 1432
+        },
+        "3428": {
+            "firstname": "Alcia",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 3428,
+            "scholarlyactivityid": 1432
+        }
+    },
+    "status": [
+        {
+            "id": 1432,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110020",
+    "attachments": []
+}

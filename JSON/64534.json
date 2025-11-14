@@ -1,0 +1,79 @@
+{
+    "activityid": 64534,
+    "fields": {
+        "Type": "Book",
+        "Title": "Disruption Through Design: Professional Leanring that Empowers and Ignites Change",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114064767",
+    "coauthors": {
+        "342875": {
+            "firstname": "Amber",
+            "middleinitial": "",
+            "lastname": "Warrington",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114064767",
+            "authorid": 342875,
+            "scholarlyactivityid": 64534,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342876": {
+            "firstname": "Michelle",
+            "middleinitial": "",
+            "lastname": "Fowler-Amato",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342876,
+            "scholarlyactivityid": 64534,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64534,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64534,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64534,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114064767",
+    "attachments": []
+}

@@ -1,0 +1,66 @@
+{
+    "activityid": 5676,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A new variety of Lomatium ravenii (Apiaceae) from the northern Great Basin and adjacent Owyhee region",
+        "Journal": "Aliso",
+        "Volume": "29",
+        "Month / Season": "1966-01-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "105-114",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "112258": {
+            "firstname": "Kimberly",
+            "middleinitial": "M.",
+            "lastname": "Carlson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112258,
+            "scholarlyactivityid": 5676
+        },
+        "112259": {
+            "firstname": "Donald",
+            "middleinitial": "H.",
+            "lastname": "Mansfield",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112259,
+            "scholarlyactivityid": 5676
+        },
+        "112260": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 112260,
+            "scholarlyactivityid": 5676
+        }
+    },
+    "status": [
+        {
+            "id": 5676,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

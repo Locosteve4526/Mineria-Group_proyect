@@ -1,0 +1,52 @@
+{
+    "activityid": 11058,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The keratin killers: An analysis of feather degrading bacteria on Idaho raptors",
+        "Conference / Meeting Name": "2015 Annual Meeting of the Raptor Research Foundation",
+        "Conference Location": "Sacramento, CA",
+        "Date or Date Range": "2015-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "53814": {
+            "firstname": "Montana",
+            "middleinitial": "R",
+            "lastname": "Marks",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 53814,
+            "scholarlyactivityid": 11058
+        },
+        "53815": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 53815,
+            "scholarlyactivityid": 11058
+        }
+    },
+    "status": [
+        {
+            "id": 11058,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

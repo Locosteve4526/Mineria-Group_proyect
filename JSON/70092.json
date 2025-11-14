@@ -1,0 +1,116 @@
+{
+    "activityid": 70092,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling of active skeletal muscles: a 3D continuum approach incorporating multiple muscle interactions",
+        "Journal": "Frontiers in bioengineering and biotechnology",
+        "Volume": "11",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "1153692",
+        "Publisher": null,
+        "DOI": "10.3389/fbioe.2023.1153692",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Skeletal muscles have a highly organized hierarchical structure, whose main function is to generate forces for movement and stability. To understand the complex heterogeneous behaviors of muscles, computational modeling has advanced as a non-invasive approach to evaluate relevant mechanical quantities. Aiming to improve musculoskeletal predictions, this paper presents a framework for modeling 3D deformable muscles that includes continuum constitutive representation, parametric determination, model validation, fiber distribution estimation, and integration of multiple muscles into a system level for joint motion simulation. The passive and active muscle properties were modeled based on the strain energy approach with Hill-type hyperelastic constitutive laws. A parametric study was conducted to validate the model using experimental datasets of passive and active rabbit leg muscles. The active muscle model with calibrated material parameters was then implemented to simulate knee bending during a squat with multiple quadriceps muscles. A computational fluid dynamics (CFD) fiber simulation approach was utilized to estimate the fiber arrangements for each muscle, and a cohesive contact approach was applied to simulate the interactions among muscles. The single muscle simulation results showed that both passive and active muscle elongation responses matched the range of the testing data. The dynamic simulation of knee flexion and extension showed the predictive capability of the model for estimating the active quadriceps responses, which indicates that the presented modeling pipeline is effective and stable for simulating multiple muscle configurations. This work provided an effective framework of a 3D continuum muscle model for complex muscle behavior simulation, which will facilitate additional computational and experimental studies of skeletal muscle mechanics. This study will offer valuable insight into the future development of multiscale neuromuscular models and applications of these models to a wide variety of relevant areas such as biomechanics and clinical research.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "316962": {
+            "firstname": "Wei",
+            "middleinitial": "",
+            "lastname": "Zeng",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316962,
+            "scholarlyactivityid": 70092
+        },
+        "316963": {
+            "firstname": "Donald ",
+            "middleinitial": "R",
+            "lastname": "Hume",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316963,
+            "scholarlyactivityid": 70092
+        },
+        "316964": {
+            "firstname": "Yongtao",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316964,
+            "scholarlyactivityid": 70092
+        },
+        "316965": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316965,
+            "scholarlyactivityid": 70092
+        },
+        "316966": {
+            "firstname": "Colton",
+            "middleinitial": "",
+            "lastname": "Babcock",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316966,
+            "scholarlyactivityid": 70092
+        },
+        "316967": {
+            "firstname": "C",
+            "middleinitial": "A",
+            "lastname": "Myers",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316967,
+            "scholarlyactivityid": 70092
+        },
+        "316968": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316968,
+            "scholarlyactivityid": 70092
+        },
+        "316969": {
+            "firstname": "Kevin ",
+            "middleinitial": "B",
+            "lastname": "Shelburne",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316969,
+            "scholarlyactivityid": 70092
+        }
+    },
+    "status": [
+        {
+            "id": 70092,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

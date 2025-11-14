@@ -1,0 +1,66 @@
+{
+    "activityid": 5543,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Computer-Supported Coordinated Care: Using technology to help care for elders",
+        "Journal": "IEEE Pervasive Computing",
+        "Volume": "",
+        "Month / Season": "2004-04-30",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "22-29",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "17010": {
+            "firstname": "Sunny",
+            "middleinitial": "",
+            "lastname": "Consolvo",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17010,
+            "scholarlyactivityid": 5543
+        },
+        "17011": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Roessler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17011,
+            "scholarlyactivityid": 5543
+        },
+        "17012": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 17012,
+            "scholarlyactivityid": 5543
+        }
+    },
+    "status": [
+        {
+            "id": 5543,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2004,
+            "termid": "2003/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

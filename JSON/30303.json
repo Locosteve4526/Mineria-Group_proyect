@@ -1,0 +1,56 @@
+{
+    "activityid": 30303,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Indo-Gangetic groundwater threat",
+        "Journal": "NATURE GEOSCIENCE",
+        "Volume": "9",
+        "Month / Season": "OCT",
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "732-733",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "Manual"
+    },
+    "facultyid": "112032120",
+    "coauthors": {
+        "110382": {
+            "firstname": "Scott",
+            "middleinitial": " ",
+            "lastname": "Fendorf",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 110382,
+            "scholarlyactivityid": 30303
+        },
+        "110383": {
+            "firstname": "Shawn",
+            "middleinitial": "G.",
+            "lastname": "Benner",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 110383,
+            "scholarlyactivityid": 30303
+        }
+    },
+    "status": [
+        {
+            "id": 30303,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112032120",
+    "attachments": []
+}

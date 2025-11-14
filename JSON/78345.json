@@ -1,0 +1,45 @@
+{
+    "activityid": 78345,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Booming and Busting in Salmon, ID",
+        "Conference/Meeting Name": "A Watershed Moment",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "3/26/2025",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111636450",
+    "coauthors": {
+        "351010": {
+            "firstname": "Jared",
+            "middleinitial": "L",
+            "lastname": "Talley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111636450",
+            "authorid": 351010,
+            "scholarlyactivityid": 78345,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 78345,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111636450",
+    "attachments": []
+}

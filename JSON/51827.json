@@ -1,0 +1,76 @@
+{
+    "activityid": 51827,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Dataset for Stanley Earthquake 07 April 2020",
+        "Journal": null,
+        "Volume": null,
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": null,
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "111110034",
+    "coauthors": {
+        "239738": {
+            "firstname": "Jeffrey",
+            "middleinitial": "B",
+            "lastname": "Johnson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 239738,
+            "scholarlyactivityid": 51827
+        },
+        "239739": {
+            "firstname": "Dylan",
+            "middleinitial": "",
+            "lastname": "Mikesell",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 239739,
+            "scholarlyactivityid": 51827
+        },
+        "239740": {
+            "firstname": "Jacob",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 239740,
+            "scholarlyactivityid": 51827
+        },
+        "239741": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Liberty",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 239741,
+            "scholarlyactivityid": 51827
+        }
+    },
+    "status": [
+        {
+            "id": 51827,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110034",
+    "attachments": []
+}

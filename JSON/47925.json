@@ -1,0 +1,97 @@
+{
+    "activityid": 47925,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Practical and Secure Stateless Order Preserving Encryption for Outsourced Databases",
+        "Name of Conference": "26th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2021)",
+        "Month / Season": "December",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Order-preserving encryption (OPE) plays an important role in securing outsourced databases. OPE schemes can be either Stateless or Stateful. Stateful schemes can achieve the ideal security of order-preserving encryption, i.e., \u201dreveal no information about the plaintexts besides order.\u201d However, comparing to stateless schemes, stateful schemes require maintaining some state information locally besides encryption keys and the ciphertexts are mutable. On the other hand, stateless schemes only require remembering encryption keys and thus is more efficient. It is a common belief that stateless schemes cannot provide the same level of security as stateful ones because stateless schemes reveal the relative distance among their corresponding plaintext. In real world applications, such security defects may lead to the leakage of statistical and sensitive information, e.g., the data distribution, or even negates the whole encryption. In this paper, we propose a practical and secure stateless order-preserving encryption scheme. With prior knowledge of the data to be encrypted, our scheme can achieve IND-CCPA INDistinguishability under Committed ordered Chosen Plaintext Attacks) security for static data set. Though the IND-CCPA security can\u2019t be met for dynamic data set, our new scheme can still significantly improve the security in real world applications. Along with the encryption scheme, in this paper we also provide methods to eliminate access pattern leakage in communications and thus prevents some common attacks to OPE schemes in practice.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "264109": {
+            "firstname": "Ning",
+            "middleinitial": "",
+            "lastname": "Shen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264109,
+            "scholarlyactivityid": 47925,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "264110": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 264110,
+            "scholarlyactivityid": 47925,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "264111": {
+            "firstname": "Hung-Min",
+            "middleinitial": "",
+            "lastname": "Sun",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264111,
+            "scholarlyactivityid": 47925,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "264112": {
+            "firstname": "Chien-Ming",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264112,
+            "scholarlyactivityid": 47925,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47925,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 33851,
+            "mimetype": "application/pdf",
+            "filename": "A Practical and Secure Stateless Order Preserving Encyption for Outsourced Databases.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25xbjZqTHp1RldoS3RoV2xzbGJkQUlTTzVtNkRFUGozcWlkTlpXbzl5TVcrVWx4R3lsQ0tmbWpWRUk0V1pkNXd2NGdFaC9FLzh4K1k5Z2YySlgramx3SktRNGY4b2hicEs1bVM1dU5OQXFFT3l2c2tXdGd0S3NVL3puT292VDU5VE5ZaDgraUtLNmhrbnl4VGZsNDNsdHE%3D",
+            "filesize": 482469
+        }
+    ]
+}

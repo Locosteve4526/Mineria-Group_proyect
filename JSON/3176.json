@@ -1,0 +1,106 @@
+{
+    "activityid": 3176,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modelling Electrostatic Interactions in Complex Soft Systems",
+        "Journal": "Food Research International",
+        "Volume": "39",
+        "Month / Season": "2006-01-01",
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "1031-1045",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.foodres.2006.08.001",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/physics_facpubs/33",
+        "Description/Abstract": "Electrostatic interactions are important in food systems, and modeling these systems correctly can lead to insights into their structure and dynamics when electrostatic interactions are correctly included. Here we give a brief review of electrostatics relevant to food systems, and discuss ways of approximating the electric fields and potentials. We emphasize the importance of correctly representing the boundary conditions. We also stress the importance of recognizing the various length- and time-scales associated with electrically charged systems, as well as their interactions. We present four illustrative applications: (i) a simulation illustrating the validity of the linearized Poisson\u2013Boltzmann approximation, by comparing to the exact solution of the electrostatic problem of many charges at a finite temperature; (ii) the effect of temperature on gellan aggregation by divalent cations; (iii) a comparison between explicitly modeled monovalent ions versus their representation as a continuous charge density, using a monolayer of rough-mutant lipopolysaccharides as the example; (iv) the ability of the cationic antimicrobial peptides (CAPs) protamine and lactoferricin B, and the antibiotic gentamicin, to penetrate an O-sidechain brush at the surface of a Gram-negative bacteria. We show that (i) the linearization approximation is remarkably good except close to a charge; (ii) that we may represent the effect of monovalent ions as a suitable combination of explicitly represented ions and an average continuous distribution yielding a Debye screening length; and (iii) that protamine, lactoferricin B, and gentamicin all penetrate an O-sidechain brush composed of uncharged sugars and reach the membrane surface, and (iv) that the two CAPs become trapped in the outer segments of a charged O-sidechain brush; but that gentamicin penetrates the charged brush.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111505",
+    "coauthors": {
+        "9175": {
+            "firstname": "David",
+            "middleinitial": "A.",
+            "lastname": "Pink",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9175,
+            "scholarlyactivityid": 3176
+        },
+        "9176": {
+            "firstname": "Charles",
+            "middleinitial": "B",
+            "lastname": "Hanna",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111505",
+            "authorid": 9176,
+            "scholarlyactivityid": 3176
+        },
+        "9177": {
+            "firstname": "Bonnie",
+            "middleinitial": "E.",
+            "lastname": "Quinn",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9177,
+            "scholarlyactivityid": 3176
+        },
+        "9178": {
+            "firstname": "Victor",
+            "middleinitial": "",
+            "lastname": "Levadny",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9178,
+            "scholarlyactivityid": 3176
+        },
+        "9179": {
+            "firstname": "G.",
+            "middleinitial": "L.",
+            "lastname": "Ryan",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9179,
+            "scholarlyactivityid": 3176
+        },
+        "9180": {
+            "firstname": "L.",
+            "middleinitial": "",
+            "lastname": "Filion",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9180,
+            "scholarlyactivityid": 3176
+        },
+        "9181": {
+            "firstname": "Allan",
+            "middleinitial": "T.",
+            "lastname": "Paulson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9181,
+            "scholarlyactivityid": 3176
+        }
+    },
+    "status": [
+        {
+            "id": 3176,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111505",
+    "attachments": []
+}

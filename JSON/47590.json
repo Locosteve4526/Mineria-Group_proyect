@@ -1,0 +1,71 @@
+{
+    "activityid": 47590,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Measuring Aptamer Affinity with Kinexa",
+        "Conference / Meeting Name": "Graduate Student Showcase",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "April 10",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113118204",
+    "coauthors": {
+        "218543": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218543,
+            "scholarlyactivityid": 47590,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "218544": {
+            "firstname": "Denise",
+            "middleinitial": "",
+            "lastname": "Wingett",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218544,
+            "scholarlyactivityid": 47590,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "218545": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Fologea",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113118204",
+            "authorid": 218545,
+            "scholarlyactivityid": 47590,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47590,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113118204",
+    "attachments": []
+}

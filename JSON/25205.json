@@ -1,0 +1,55 @@
+{
+    "activityid": 25205,
+    "fields": {
+        "Type": "Book",
+        "Title": "Response to Intervention: A practitioner\u2019s guide to implementation",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Thousand Oaks: Corwin Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "82198": {
+            "firstname": "D.",
+            "middleinitial": "F.",
+            "lastname": "Mellard",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82198,
+            "scholarlyactivityid": 25205
+        },
+        "82199": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 82199,
+            "scholarlyactivityid": 25205
+        }
+    },
+    "status": [
+        {
+            "id": 25205,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

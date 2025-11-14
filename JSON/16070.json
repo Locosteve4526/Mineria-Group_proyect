@@ -1,0 +1,72 @@
+{
+    "activityid": 16070,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Determination of the molecular weight of ACP using size exclusion chromatography",
+        "Conference / Meeting Name": "9th Annual Undergraduate Research Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2012-04-16",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "Boise State University ",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Several unique proteins have come to the horizon of winning the war against bacteria. Apo-ACP, holo-ACP, EsaI, and LasI are some of the several important proteins currently used in research examining quorum sensing and quenching among bacterial colonies. Some proteins run at anomalous gel mobility in SDS-PAGE, a common experiment to determine molecular weight. This is due to surface charge and hydrodynamic swelling of these proteins, resulting in a large inaccuracy in reported molecular weight values when running SDS-PAGE. Gel filtration/size exclusion chromatography allows for an accurate determination of molecular weights by eliminating the medium\u2019s affinity to interact with the protein. The resins that typically make up the medium for gel filtration consist of alkyl chains. Using a standard protein mixture and fraction sampling, a calibration graph can be made using a plot of fraction of elution volume (Ve) over void volume (Vo) versus the log of molecular weight. This calibration curve was used to accurately determine the molecular weight of our proteins of interest. In this project, the molecular fractions determined from our standard protein mixture were compared to that of our studied proteins to determine molecular weight of ACP, EsaI and LasI. The expected molecular weight from sequence will be compared with the observed molecular weight from gel filtration chromatography to confirm the identity of these proteins.",
+        "Origin": "Other"
+    },
+    "facultyid": "113083415",
+    "coauthors": {
+        "65170": {
+            "firstname": "Angelo",
+            "middleinitial": "",
+            "lastname": "Romano",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65170,
+            "scholarlyactivityid": 16070
+        },
+        "65171": {
+            "firstname": "Erik",
+            "middleinitial": "",
+            "lastname": "Sheldon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65171,
+            "scholarlyactivityid": 16070
+        },
+        "65172": {
+            "firstname": "Petr",
+            "middleinitial": "",
+            "lastname": "Malek",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65172,
+            "scholarlyactivityid": 16070
+        },
+        "65173": {
+            "firstname": "Rajesh",
+            "middleinitial": "",
+            "lastname": "Nagarajan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083415",
+            "authorid": 65173,
+            "scholarlyactivityid": 16070
+        }
+    },
+    "status": [
+        {
+            "id": 16070,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083415",
+    "attachments": []
+}

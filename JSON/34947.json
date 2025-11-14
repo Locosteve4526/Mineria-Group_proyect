@@ -1,0 +1,63 @@
+{
+    "activityid": 34947,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cEstimating Degradation Model Parameters from Character Images\u201d",
+        "Name of Conference": "International Conference on Document Analysis and Recognition (ICDAR 2003)",
+        "Month / Season": "3-6 August",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "pp. 710-714",
+        "Publisher": "",
+        "Publisher Location": "Edinburgh, Scotland",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper discusses the use of character images to\r\ndetermine the parameters of an image degradation model.\r\nThe acute angles in character images provide information\r\nused to find the model parameters. Three experiments are\r\nconducted to evaluate the use of characters. In the first\r\nexperiment, large quantities of corners from character\r\nimages are used to investigate how their contribution\r\naffects the mean and the standard deviation of the parameter\r\nestimators. In the second experiment, we focus on the\r\nrelationship between the angles of the corners used in estimation\r\nand the estimation results. In the last experiment,\r\nwe examine how likely the text in a common page would\r\noffer a reasonable estimation result compared to the\r\nresults from experiments 1 and 2.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142711": {
+            "firstname": "Hok Sum",
+            "middleinitial": "",
+            "lastname": "Yam",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142711,
+            "scholarlyactivityid": 34947,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "142712": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142712,
+            "scholarlyactivityid": 34947,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34947,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2003,
+            "termid": "2003/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

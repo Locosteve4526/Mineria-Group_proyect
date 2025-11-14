@@ -1,0 +1,57 @@
+{
+    "activityid": 36842,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "winDSK: A windows-based DSP demonstration and debugging program",
+        "Name of Conference": "Acoustics, Speech, and Signal Processing, 2000. ICASSP'00. Proceedings. 2000 IEEE International Conference on",
+        "Month / Season": null,
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Page Numbers": null,
+        "Publisher": null,
+        "Publisher Location": null,
+        "Volume": "6",
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "112139424",
+    "coauthors": {
+        "152735": {
+            "firstname": "Michael",
+            "middleinitial": "G",
+            "lastname": "Morrow",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152735,
+            "scholarlyactivityid": 36842
+        },
+        "152736": {
+            "firstname": "Thad",
+            "middleinitial": "B",
+            "lastname": "Welch",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152736,
+            "scholarlyactivityid": 36842
+        }
+    },
+    "status": [
+        {
+            "id": 36842,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2000,
+            "termid": "2000/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139424",
+    "attachments": []
+}

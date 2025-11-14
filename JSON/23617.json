@@ -1,0 +1,50 @@
+{
+    "activityid": 23617,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Uniqueness of Bilevel Image Degradations",
+        "Name of Conference": "Proc. SPIE Photonics West, Document Recognition and Retrieval IX",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "pp. 174-180",
+        "Publisher": "",
+        "Publisher Location": " San Jose, CA",
+        "Volume": "4670",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1117/12.450726",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/105",
+        "Description/Abstract": "Two major degradations, edge displacement and corner erosion, change the appearance of bilevel images. The displacement of an edge determines stroke width, and the erosion ofa corner affects crispness. These degradations are functions of the system parameters: the point spread function (PSF) width and functional form, and the binarization threshold. Changing each of these parameters will affect an image differently. A given amount of edge displacement or amount of erosion of black or white corners can be caused by several combinations of the PSF width and the binarization threshold.  Any pair of these degradations are unique to a single PSF width and binarization threshold for a given PSF function.  Knowledge of all three degradation amounts provides information that will enable us to determine the PSF functional form from the bilevel image. The effect of each degradation on characters will be shown. Also, the uniqueness of the degradation triple {dw&gt; db, ?c} and the effect of selecting an incorrect PSF functional form will be shown, first with relation to PSF width and binarization threshold estimate, then for how this is visible in sample characters.",
+        "Origin": "Other"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142252": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142252,
+            "scholarlyactivityid": 23617,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 23617,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2002,
+            "termid": "2001/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

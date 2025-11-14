@@ -1,0 +1,72 @@
+{
+    "activityid": 71233,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Patronage and Representation in Judicial Appointments in Canadian Courts",
+        "Name of Conference": "Southern Political Science Association Annual Meeting",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112062498",
+    "coauthors": {
+        "343481": {
+            "firstname": "Lori",
+            "middleinitial": "J",
+            "lastname": "Hausegger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112062498",
+            "authorid": 343481,
+            "scholarlyactivityid": 71233,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "343482": {
+            "firstname": "Troy",
+            "middleinitial": "",
+            "lastname": "Riddell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343482,
+            "scholarlyactivityid": 71233,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71233,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 71233,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112062498",
+    "attachments": []
+}

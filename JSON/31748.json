@@ -1,0 +1,71 @@
+{
+    "activityid": 31748,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Tidal evolution of close-in extra-solar planets",
+        "Conference/Meeting Name": "IAU Symposium",
+        "Conference Location": "",
+        "Date or Date Range": "May",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2008IAUS..249..187J",
+        "Description/Abstract": "The distribution of eccentricities e of extra-solar planets with semi-major axes a &gt; 0.2 AU is very uniform, and values for e are generally large. For a &lt; 0.2 AU, eccentricities are much smaller (most e &lt; 0.2), a characteristic widely attributed to damping by tides after the planets formed and the protoplanetary gas disk dissipated. We have integrated the classical coupled tidal evolution equations for e and a backward in time over the estimated age of each planet, and confirmed that the distribution of initial e values of close-in planets matches that of the general population for reasonable tidal dissipation values Q, with the best fits for stellar and planetary Q being 105.5 and 106.5, respectively. The current small values of a were only reached gradually due to tides over the lifetimes of the planets, i.e., the earlier gas disk migration did not bring all planets to their current orbits. As the orbits tidally evolved, there was substantial tidal heating within the planets. The past tidal heating of each planet may have contributed significantly to the thermal budget that governed the planet's physical properties, including its radius, which in many cases may be measured by observing transit events. Here we also compute the plausible heating histories for a few planets with anomalously large measured radii, including HD 209458 b. We show that they may have undergone substantial tidal heating during the past billion years, perhaps enough to explain their large radii. Theoretical models of exoplanet interiors and the corresponding radii should include the role of large and time-variable tidal heating. Our results may have important implications for planet formation models, physical models of \u201chot Jupiters\u201d, and the success of transit surveys. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "120309": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120309,
+            "scholarlyactivityid": 31748,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120310": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Greenberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120310,
+            "scholarlyactivityid": 31748,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "120311": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Barnes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120311,
+            "scholarlyactivityid": 31748,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31748,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2008,
+            "termid": "2008/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

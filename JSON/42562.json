@@ -1,0 +1,99 @@
+{
+    "activityid": 42562,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The Conflicting Goals of Status: Does Status Preservation Win over Reaping Benefits?",
+        "Name of Conference": "2019 Western Academy of Management Conference",
+        "Month / Season": "Spring",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "Proceedings Publication",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114105970",
+    "coauthors": {
+        "189682": {
+            "firstname": "Karen",
+            "middleinitial": "R",
+            "lastname": "Nicholas",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114105970",
+            "authorid": 189682,
+            "scholarlyactivityid": 42562,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "189683": {
+            "firstname": "Curtis",
+            "middleinitial": "",
+            "lastname": "Sproul",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 189683,
+            "scholarlyactivityid": 42562,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42562,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 42562,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 42562,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 42562,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 42562,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114105970",
+    "attachments": []
+}

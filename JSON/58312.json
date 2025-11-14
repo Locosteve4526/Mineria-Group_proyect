@@ -1,0 +1,48 @@
+{
+    "activityid": 58312,
+    "fields": {
+        "Type": "Book",
+        "Title": "Frederick Douglass: Fought for Freedom.",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "American Reading Company",
+        "Publisher Location": "King of Prussia, PA",
+        "ISBN": "978-1-64851-161-5",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "271279": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 271279,
+            "scholarlyactivityid": 58312,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58312,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

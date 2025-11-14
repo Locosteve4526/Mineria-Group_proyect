@@ -1,0 +1,76 @@
+{
+    "activityid": 19535,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "On the Broader View of the Open Source Paradigm: The Case for Agricultural Biotechnology",
+        "Name of Conference": "19th International conference on Information Systems Development",
+        "Month / Season": "2010-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Prague, Czech Republic",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "134431": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 134431,
+            "scholarlyactivityid": 19535,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "134432": {
+            "firstname": "Meredith",
+            "middleinitial": "",
+            "lastname": "Taylor Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112147032",
+            "authorid": 134432,
+            "scholarlyactivityid": 19535,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "134433": {
+            "firstname": "Wita",
+            "middleinitial": "",
+            "lastname": "Wojtkowski",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110225",
+            "authorid": 134433,
+            "scholarlyactivityid": 19535,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19535,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

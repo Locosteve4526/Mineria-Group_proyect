@@ -1,0 +1,102 @@
+{
+    "activityid": 47958,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Signal processing techniques to evaluate surface roughness of weathered rock specimens",
+        "Name of Conference": "IEEE SoutheastCon 2019",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Weathering of rock surfaces results in an increase in the surface roughness of the rock. This surface can be assessed quantitatively using a number of statistical methods, typically granting a single-value measure of approximate roughness and, by extension, an approximate degree of weathering. In recent years the techniques developed by electrical and signal engineers for analyzing signals have been applied to this surface roughness characterization. Seven core samples of limestone rock were scanned and converted into linear profiles along the surface of the rock samples. The signal energy (Es) and Z2, two single-value roughness measures, were calculated from these samples and Fourier and wavelet transforms were applied as well. The wavelet coefficients were then averaged, yielding a third single-value roughness measure. All three single-value roughness measures demonstrate remarkable agreement with one another with the exception of Z2, which estimates the roughness of one profile as slightly higher than two other profiles. This inconsistency appears to be due to an atypically high frequency content in that profile, exaggerating the measure of Z2. The wavelet transform technique proves to be very effective at locating sharp discontinuities along a rock at both low and high frequencies, promising better generalization to broader types of samples.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114136465",
+    "coauthors": {
+        "221067": {
+            "firstname": "McGough",
+            "middleinitial": "",
+            "lastname": "Mason",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 221067,
+            "scholarlyactivityid": 47958,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "221068": {
+            "firstname": "Nicholas",
+            "middleinitial": "W",
+            "lastname": "Hudyma",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114136465",
+            "authorid": 221068,
+            "scholarlyactivityid": 47958,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "221069": {
+            "firstname": "Harris",
+            "middleinitial": "",
+            "lastname": "Alan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 221069,
+            "scholarlyactivityid": 47958,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "221070": {
+            "firstname": "Kreidl",
+            "middleinitial": "",
+            "lastname": "O. Patrick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 221070,
+            "scholarlyactivityid": 47958,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "221071": {
+            "firstname": "Koop",
+            "middleinitial": "",
+            "lastname": "Brian",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 221071,
+            "scholarlyactivityid": 47958,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47958,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114136465",
+    "attachments": []
+}

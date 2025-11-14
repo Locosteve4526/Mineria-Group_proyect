@@ -1,0 +1,96 @@
+{
+    "activityid": 38770,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A validated software application to measure fiber organization in soft tissue",
+        "Journal": "Biomechanics and modeling in mechanobiology",
+        "Volume": "15",
+        "Month / Season": null,
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "1467-1478",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "The mechanical behavior of soft connective tissue is governed by a dense network of fibrillar proteins in the extracellular matrix. Characterization of this fibrous network requires the accurate extraction of descriptive structural parameters from imaging data, including fiber dispersion and mean fiber orientation. Common methods to quantify fiber parameters include fast Fourier transforms (FFT) and structure tensors; however, information is limited on the accuracy of these methods. In this study, we compared these two methods using test images of fiber networks with varying topology. The FFT method with a band-pass filter was the most accurate, with an error of [Formula: see text] in measuring mean fiber orientation and an error of [Formula: see text] in measuring fiber dispersion in the test images. The accuracy of the structure tensor method was approximately five times worse than the FFT band-pass method when measuring fiber dispersion. A free software application, FiberFit, was then developed that utilizes an FFT band-pass filter to fit fiber orientations to a semicircular von Mises distribution. FiberFit was used to measure collagen fibril organization in confocal images of bovine ligament at magnifications of [Formula: see text] and [Formula: see text]. Grayscale conversion prior to FFT analysis gave the most accurate results, with errors of [Formula: see text] for mean fiber orientation and [Formula: see text] for fiber dispersion when measuring confocal images at [Formula: see text]. By developing and validating a software application that facilitates the automated analysis of fiber organization, this study can help advance a mechanistic understanding of collagen networks and help clarify the mechanobiology of soft tissue remodeling and repair.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "163611": {
+            "firstname": "Erica E",
+            "middleinitial": "E",
+            "lastname": "Morrill",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163611,
+            "scholarlyactivityid": 38770
+        },
+        "163612": {
+            "firstname": "Azamat ",
+            "middleinitial": "N",
+            "lastname": "Tulepbergenov",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163612,
+            "scholarlyactivityid": 38770
+        },
+        "163613": {
+            "firstname": "Christina ",
+            "middleinitial": "J",
+            "lastname": "Stender",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163613,
+            "scholarlyactivityid": 38770
+        },
+        "163614": {
+            "firstname": "Roshani",
+            "middleinitial": "",
+            "lastname": "Lamichhane",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163614,
+            "scholarlyactivityid": 38770
+        },
+        "163615": {
+            "firstname": "Raquel ",
+            "middleinitial": "J",
+            "lastname": "Brown",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163615,
+            "scholarlyactivityid": 38770
+        },
+        "163616": {
+            "firstname": "Trevor ",
+            "middleinitial": "J",
+            "lastname": "Lujan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163616,
+            "scholarlyactivityid": 38770
+        }
+    },
+    "status": [
+        {
+            "id": 38770,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

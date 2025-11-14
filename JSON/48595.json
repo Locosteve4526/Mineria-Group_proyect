@@ -1,0 +1,83 @@
+{
+    "activityid": 48595,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Effects of Born Global Level on Founder Attitudes towards Venture Strategy",
+        "Journal": "Marketing Letters",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643320",
+    "coauthors": {
+        "299669": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "MacDonald",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643320",
+            "authorid": 299669,
+            "scholarlyactivityid": 48595
+        },
+        "299670": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Mattingly",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114027549",
+            "authorid": 299670,
+            "scholarlyactivityid": 48595
+        }
+    },
+    "status": [
+        {
+            "id": 48595,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 48595,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 48595,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 48595,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111643320",
+    "attachments": []
+}

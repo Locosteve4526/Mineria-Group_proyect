@@ -1,0 +1,75 @@
+{
+    "activityid": 76827,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Generalized local polynomial reproductions",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://arxiv.org/abs/2410.12973",
+        "Description/Abstract": "&lt;span&gt;We present a general framework, treating Lipschitz domains in Riemannian manifolds, that provides conditions guaranteeing the existence of norming sets and generalized local polynomial reproduction - a powerful tool used in the analysis of various mesh-free methods and a mesh-free method in its own right. As a key application, we prove the existence of smooth local polynomial reproductions on compact subsets of algebraic manifolds in &lt;/span&gt;&lt;span&gt;\u211dn&lt;/span&gt;&lt;span&gt; with Lipschitz boundary. These results are then applied to derive new findings on the existence, stability, regularity, locality, and approximation properties of shape functions for a coordinate-free moving least squares approximation method on algebraic manifolds, which operates directly on point clouds without requiring tangent plane approximations.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "342182": {
+            "firstname": "Thomas",
+            "middleinitial": "",
+            "lastname": "Hangelbroek",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342182,
+            "scholarlyactivityid": 76827,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342183": {
+            "firstname": "Christian",
+            "middleinitial": "",
+            "lastname": "Rieger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342183,
+            "scholarlyactivityid": 76827,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342184": {
+            "firstname": "Grady",
+            "middleinitial": "B",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 342184,
+            "scholarlyactivityid": 76827,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76827,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

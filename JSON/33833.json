@@ -1,0 +1,55 @@
+{
+    "activityid": 33833,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Simulation moulage volume 1: Bruises, burns and  lacerations",
+        "Conference/Meeting Name": "Boise State University Continuing Education",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "10/31/17",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "College of Health Sciences Simulation Center",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "135000": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 135000,
+            "scholarlyactivityid": 33833,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "135001": {
+            "firstname": "Rosemary",
+            "middleinitial": "H",
+            "lastname": "Macy",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111182029",
+            "authorid": 135001,
+            "scholarlyactivityid": 33833
+        }
+    },
+    "status": [
+        {
+            "id": 33833,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

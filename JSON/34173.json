@@ -1,0 +1,63 @@
+{
+    "activityid": 34173,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Who Will Stop Contributing?: Predicting Inactive Editors in Wikipedia",
+        "Name of Conference": "Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017, Sydney, Australia, July 31 - August 03, 2017",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114048777",
+    "coauthors": {
+        "145137": {
+            "firstname": "Harish",
+            "middleinitial": "",
+            "lastname": "Arelli",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145137,
+            "scholarlyactivityid": 34173,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "145138": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145138,
+            "scholarlyactivityid": 34173,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34173,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048777",
+    "attachments": []
+}

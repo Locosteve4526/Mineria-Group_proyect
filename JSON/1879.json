@@ -1,0 +1,66 @@
+{
+    "activityid": 1879,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Detecting burrowing owl bloodmeals in Pulex irritans (Siphonaptera: Pulicidae)",
+        "Journal": "Journal of Medical Entomology",
+        "Volume": "",
+        "Month / Season": "2015-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "4771": {
+            "firstname": "Christine",
+            "middleinitial": "B",
+            "lastname": "Graham",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4771,
+            "scholarlyactivityid": 1879
+        },
+        "4772": {
+            "firstname": "Rebeccas",
+            "middleinitial": "J",
+            "lastname": " Eisen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4772,
+            "scholarlyactivityid": 1879
+        },
+        "4773": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 4773,
+            "scholarlyactivityid": 1879
+        }
+    },
+    "status": [
+        {
+            "id": 1879,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

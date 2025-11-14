@@ -1,0 +1,74 @@
+{
+    "activityid": 34806,
+    "fields": {
+        "Type": "Book",
+        "Title": "Biochemistry",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "9th",
+        "Volume": "",
+        "Publisher": "Cengage Learning",
+        "Publisher Location": "Mason, OH",
+        "ISBN": "9781305961135",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.cengage.com/c/biochemistry-9e-campbell",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "141827": {
+            "firstname": "Mary",
+            "middleinitial": "K",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 141827,
+            "scholarlyactivityid": 34806,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "141828": {
+            "firstname": "Shawn",
+            "middleinitial": "O",
+            "lastname": "Farrell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 141828,
+            "scholarlyactivityid": 34806,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "141829": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 141829,
+            "scholarlyactivityid": 34806,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34806,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

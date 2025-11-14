@@ -1,0 +1,56 @@
+{
+    "activityid": 5007,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Relationships between social self-esteem, media influence and drive for thinness",
+        "Journal": "Eating Behaviors",
+        "Volume": "13",
+        "Month / Season": "2012-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "321-325",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112014101",
+    "coauthors": {
+        "15086": {
+            "firstname": "Sofia",
+            "middleinitial": "",
+            "lastname": "Fernandez",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 15086,
+            "scholarlyactivityid": 5007
+        },
+        "15087": {
+            "firstname": "Mary",
+            "middleinitial": "Elizabeth",
+            "lastname": "Pritchard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112014101",
+            "authorid": 15087,
+            "scholarlyactivityid": 5007
+        }
+    },
+    "status": [
+        {
+            "id": 5007,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112014101",
+    "attachments": []
+}

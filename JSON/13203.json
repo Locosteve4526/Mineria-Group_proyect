@@ -1,0 +1,62 @@
+{
+    "activityid": 13203,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Second Generation Leadership: A Writing Project Directors Workshop",
+        "Conference/Meeting Name": "2015 Annual Meeting",
+        "Conference Location": "Minneapolis, MN",
+        "Date or Date Range": "2015-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "National Writing Project",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112184269",
+    "coauthors": {
+        "58633": {
+            "firstname": "Tanya",
+            "middleinitial": "",
+            "lastname": "Baker",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 58633,
+            "scholarlyactivityid": 13203
+        },
+        "58634": {
+            "firstname": "Jessica ",
+            "middleinitial": "",
+            "lastname": "Early",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 58634,
+            "scholarlyactivityid": 13203
+        },
+        "58635": {
+            "firstname": "Jim",
+            "middleinitial": "",
+            "lastname": "Fredricksen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112184269",
+            "authorid": 58635,
+            "scholarlyactivityid": 13203
+        }
+    },
+    "status": [
+        {
+            "id": 13203,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112184269",
+    "attachments": []
+}

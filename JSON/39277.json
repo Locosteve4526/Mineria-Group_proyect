@@ -1,0 +1,85 @@
+{
+    "activityid": 39277,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Work-in-Progress: Flexibility and Professional Preparation via a Multidisciplinary Engineering Curriculum",
+        "Name of Conference": "ASEE Annual Conference and Exposition",
+        "Month / Season": "2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Salt Lake City",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114087590",
+    "coauthors": {
+        "185402": {
+            "firstname": "Noah",
+            "middleinitial": "",
+            "lastname": "Salzman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114029579",
+            "authorid": 185402,
+            "scholarlyactivityid": 39277
+        },
+        "185403": {
+            "firstname": "Vicki",
+            "middleinitial": "",
+            "lastname": "Stieha",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113122305",
+            "authorid": 185403,
+            "scholarlyactivityid": 39277
+        },
+        "185404": {
+            "firstname": "JoAnn",
+            "middleinitial": "S",
+            "lastname": "Lighty",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114087590",
+            "authorid": 185404,
+            "scholarlyactivityid": 39277
+        }
+    },
+    "status": [
+        {
+            "id": 39277,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 39277,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 39277,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114087590",
+    "attachments": []
+}

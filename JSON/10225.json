@@ -1,0 +1,51 @@
+{
+    "activityid": 10225,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Ernest Hemingway and the Problem of Modernity",
+        "Conference/Meeting Name": "Hemingway Society",
+        "Conference Location": "",
+        "Date or Date Range": "2012-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Hemingway Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643642",
+    "coauthors": {
+        "52402": {
+            "firstname": "Scott",
+            "middleinitial": "E",
+            "lastname": "Yenor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643642",
+            "authorid": 52402,
+            "scholarlyactivityid": 10225
+        }
+    },
+    "status": [
+        {
+            "id": 10225,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 10225,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643642",
+    "attachments": []
+}

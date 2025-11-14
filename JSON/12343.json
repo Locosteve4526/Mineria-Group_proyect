@@ -1,0 +1,42 @@
+{
+    "activityid": 12343,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Poetry Reading",
+        "Conference/Meeting Name": "Holloway Poetry Series",
+        "Conference Location": "UC Berkeley Campus",
+        "Date or Date Range": "2012-03-08",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "UC Berkeley",
+        "Presenter(s)": null,
+        "Web Address": "http://hollowayreadingseries.wordpress.com/2012/05/16/spring-2012/",
+        "Description/Abstract": "Prestigious reading series at UC Berkeley. Reading recent poems/ Also included on PennSounds, a digital archive at UPenn.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "56436": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 56436,
+            "scholarlyactivityid": 12343
+        }
+    },
+    "status": [
+        {
+            "id": 12343,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

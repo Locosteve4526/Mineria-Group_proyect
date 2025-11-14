@@ -1,0 +1,55 @@
+{
+    "activityid": 27493,
+    "fields": {
+        "Type": "Book",
+        "Title": "Introduction to Criminology: A Text/Reader",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Sage",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Sage",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/86",
+        "Description/Abstract": "An interdisciplinary introductory text to Criminology that includes readings and extra material on the accompanying student website.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "87085": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 87085,
+            "scholarlyactivityid": 27493
+        },
+        "87086": {
+            "firstname": "Craig",
+            "middleinitial": "Thomas",
+            "lastname": "Hemmens",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110193",
+            "authorid": 87086,
+            "scholarlyactivityid": 27493
+        }
+    },
+    "status": [
+        {
+            "id": 27493,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

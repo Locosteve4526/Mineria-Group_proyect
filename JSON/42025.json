@@ -1,0 +1,94 @@
+{
+    "activityid": 42025,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Striving For Acceptable \u2013 Effects of Transcript Quality on Linguistic Analysis",
+        "Journal": " Journal of the Association for Information Science and Technology (JASIST)",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "262876": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Pentland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106117",
+            "authorid": 262876,
+            "scholarlyactivityid": 42025
+        },
+        "262877": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 262877,
+            "scholarlyactivityid": 42025
+        },
+        "262878": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 262878,
+            "scholarlyactivityid": 42025
+        },
+        "262879": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Spitzley",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 262879,
+            "scholarlyactivityid": 42025
+        }
+    },
+    "status": [
+        {
+            "id": 42025,
+            "status": "Work Discontinued",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 42025,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 42025,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065605",
+    "attachments": []
+}

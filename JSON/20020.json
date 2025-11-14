@@ -1,0 +1,76 @@
+{
+    "activityid": 20020,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Expanding Views of Technology Acceptance: Seeking Factors Explaining Security Control Adoption",
+        "Name of Conference": "The 13th Americas Conference on Information Systems",
+        "Month / Season": "2007-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": null,
+        "Publisher": "The Association for Information Systems",
+        "Publisher Location": "Keystone, Colorado",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110593",
+    "coauthors": {
+        "134654": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Chenoweth",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111716923",
+            "authorid": 134654,
+            "scholarlyactivityid": 20020,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134655": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Minch",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110593",
+            "authorid": 134655,
+            "scholarlyactivityid": 20020,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134656": {
+            "firstname": "Sharon",
+            "middleinitial": "",
+            "lastname": "Tabor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358869",
+            "authorid": 134656,
+            "scholarlyactivityid": 20020,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20020,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2007,
+            "termid": "2007/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110593",
+    "attachments": []
+}

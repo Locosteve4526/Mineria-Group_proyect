@@ -1,0 +1,76 @@
+{
+    "activityid": 40660,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Magnetically driven pump for solid-state microfluidic flow control",
+        "Name of Conference": "ACTUATOR 2018",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "317-318",
+        "Publisher": "Messe Bremen",
+        "Publisher Location": "Bremen, Germany",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "978-3-933339-30-0",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "183896": {
+            "firstname": "Aaron",
+            "middleinitial": "R.",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 183896,
+            "scholarlyactivityid": 40660,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "183897": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Fologea",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113118204",
+            "authorid": 183897,
+            "scholarlyactivityid": 40660,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "183898": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 183898,
+            "scholarlyactivityid": 40660,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40660,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

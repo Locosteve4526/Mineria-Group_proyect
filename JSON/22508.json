@@ -1,0 +1,64 @@
+{
+    "activityid": 22508,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "3DTHT-Data-Collection-Setup-Monitoring-Acquisition-with-Realtime-Review-and-Output \u00a9",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Patent Nationality": "",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "Boise State file number 134",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": null,
+        "Description/Abstract": "The creation consists of (a) software code components for tasks, (b) the collection of software components into one file, and (c) the compiled executable program from the collected code components which is a computer program for setup, monitoring, data acquisition, realtime data review and data formatting for 3-D transient hydraulic tomography (3DTHT) aquifer imaging. The creation works by interactively supporting data collection about hydrologic test field set-up and instrument details, graphical feedback on instrument performance checks and hydrologic test behavior, recording of test behavior, and output of recorded data and metadata as organized files. The code works in the LabView (National Instruments [NI]) software environment on a computer to \ninteract with test instruments through the NI-CompactDAQ data acquisition hardware. Test instruments measure test parameters including water pressure (for instruments located in wells) as well as other supplemental information including pumping flowrate and atmospheric pressure variability.\n",
+        "Web Address": null,
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "78074": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 78074,
+            "scholarlyactivityid": 22508
+        },
+        "78075": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Cardiff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113054278",
+            "authorid": 78075,
+            "scholarlyactivityid": 22508
+        },
+        "78076": {
+            "firstname": "Peter",
+            "middleinitial": "K",
+            "lastname": "Kitanidis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78076,
+            "scholarlyactivityid": 22508
+        }
+    },
+    "status": [
+        {
+            "id": 22508,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

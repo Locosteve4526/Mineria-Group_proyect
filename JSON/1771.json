@@ -1,0 +1,106 @@
+{
+    "activityid": 1771,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tomography of the Darcy Velocity from Self-Potential Measurements",
+        "Journal": "Geophysical Research Letters",
+        "Volume": "34",
+        "Month / Season": "2007-12-21",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "L24403-1 - L24403-6",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2007GL031907",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/30",
+        "Description/Abstract": "An algorithm is developed to interpret self-potential (SP) data in terms of distribution of Darcy velocity of the ground water. The model is based on the proportionality existing between the streaming current density and the Darcy velocity. Because the inverse problem of current density determination from SP data is underdetermined, we use Tikhonov regularization with a smoothness constraint based on the differential Laplacian operator and a prior model. The regularization parameter is determined by the L-shape method. The distribution of the Darcy velocity depends on the localization and number of non-polarizing electrodes and information relative to the distribution of the electrical resistivity of the ground. A priori hydraulic information can be introduced in the inverse problem. This approach is tested on two synthetic cases and on real SP data resulting from infiltration of water from a ditch.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4399": {
+            "firstname": "A.",
+            "middleinitial": "",
+            "lastname": "Jardani",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4399,
+            "scholarlyactivityid": 1771
+        },
+        "4400": {
+            "firstname": "A.",
+            "middleinitial": "",
+            "lastname": "Revil",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4400,
+            "scholarlyactivityid": 1771
+        },
+        "4401": {
+            "firstname": "A.",
+            "middleinitial": "",
+            "lastname": "Bol\u010dve",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4401,
+            "scholarlyactivityid": 1771
+        },
+        "4402": {
+            "firstname": "A.",
+            "middleinitial": "",
+            "lastname": "Crespy",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4402,
+            "scholarlyactivityid": 1771
+        },
+        "4403": {
+            "firstname": "J.-P.",
+            "middleinitial": "",
+            "lastname": "Dupont",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4403,
+            "scholarlyactivityid": 1771
+        },
+        "4404": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4404,
+            "scholarlyactivityid": 1771
+        },
+        "4405": {
+            "firstname": "Bwalya",
+            "middleinitial": "",
+            "lastname": "Malama",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4405,
+            "scholarlyactivityid": 1771
+        }
+    },
+    "status": [
+        {
+            "id": 1771,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

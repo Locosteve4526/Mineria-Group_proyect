@@ -1,0 +1,59 @@
+{
+    "activityid": 33859,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Compendium fof Radiocarbon Dates for Guyana",
+        "Journal": "Arcaheology and Anthropology",
+        "Volume": "21",
+        "Month / Season": "",
+        "Issue Number": "ISSN 0256-4333",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "Walter Roth Mujseum of Anthropology",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110261",
+    "coauthors": {
+        "135193": {
+            "firstname": "Mark",
+            "middleinitial": "G",
+            "lastname": "Plew",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110261",
+            "authorid": 135193,
+            "scholarlyactivityid": 33859
+        },
+        "135194": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Basso",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 135194,
+            "scholarlyactivityid": 33859,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33859,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110261",
+    "attachments": []
+}

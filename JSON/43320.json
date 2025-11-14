@@ -1,0 +1,71 @@
+{
+    "activityid": 43320,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Patterns of Violent Death in Clark County, Nevada: Homicide and Suicide Patterns During and Post-Recession",
+        "Journal": "Journal of Forensic Science",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088853",
+    "coauthors": {
+        "254130": {
+            "firstname": "Caryn",
+            "middleinitial": "",
+            "lastname": "Tegtmeyer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254130,
+            "scholarlyactivityid": 43320,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "254131": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088853",
+            "authorid": 254131,
+            "scholarlyactivityid": 43320,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43320,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43320,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114088853",
+    "attachments": []
+}

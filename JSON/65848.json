@@ -1,0 +1,85 @@
+{
+    "activityid": 65848,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Joint Credibility Estimation of News, User, and Publisher via Role-Relational Graph Convolutional Networks",
+        "Journal": "IEEE Transactions on the Web",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048778",
+    "coauthors": {
+        "305183": {
+            "firstname": "Anu",
+            "middleinitial": "",
+            "lastname": "Shrestha",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 305183,
+            "scholarlyactivityid": 65848
+        },
+        "305184": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "Duran",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 305184,
+            "scholarlyactivityid": 65848
+        },
+        "305185": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048777",
+            "authorid": 305185,
+            "scholarlyactivityid": 65848
+        },
+        "305186": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048778",
+            "authorid": 305186,
+            "scholarlyactivityid": 65848
+        }
+    },
+    "status": [
+        {
+            "id": 65848,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 65848,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114048778",
+    "attachments": []
+}

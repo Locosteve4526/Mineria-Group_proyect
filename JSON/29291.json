@@ -1,0 +1,63 @@
+{
+    "activityid": 29291,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Designing Online Courses for Educators and English Language Learners",
+        "Name of Conference": "Information and Communication Technology for Language Learning",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "Libreriauniversitaria",
+        "Publisher Location": "Padova, Italy",
+        "Volume": "9",
+        "Issue Number": "1",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "101844": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 101844,
+            "scholarlyactivityid": 29291,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "101845": {
+            "firstname": "Melissa",
+            "middleinitial": "D",
+            "lastname": "Caspary",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 101845,
+            "scholarlyactivityid": 29291,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29291,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

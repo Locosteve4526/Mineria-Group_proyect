@@ -1,0 +1,76 @@
+{
+    "activityid": 40662,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Analysis of individual cycle deformation in Ni-Mn-Ga micropumps",
+        "Name of Conference": "ACTUATOR 2018",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "235-238",
+        "Publisher": "Messe Bremen",
+        "Publisher Location": "Bremen, Germany",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "978-3-933339-30-0",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "178092": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Armstrong",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178092,
+            "scholarlyactivityid": 40662,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "178093": {
+            "firstname": "Aaron",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178093,
+            "scholarlyactivityid": 40662,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "178094": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 178094,
+            "scholarlyactivityid": 40662,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40662,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

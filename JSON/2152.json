@@ -1,0 +1,56 @@
+{
+    "activityid": 2152,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Parallel Implementation of the Bi-CGSTAB Method with Block Red\u2013Black Gauss\u2013Seidel Preconditioner Applied to the Hermite Collocation Discretization of Partial Differential Equations",
+        "Journal": "Parallel Computing",
+        "Volume": "28",
+        "Month / Season": "2002-03-01",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "399-414",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/S0167-8191(01)00131-4",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/83",
+        "Description/Abstract": "We describe herein the parallel implementation of the Bi-CGSTAB method with a block red\u2013black Gauss\u2013Seidel (RBGS) preconditioner applied to the systems of linear algebraic equations that arise from the Hermite collocation discretization of partial differential equations in two spatial dimensions. The method is implemented on the Cray T3E, a parallel processing supercomputer. Speedup results are discussed.",
+        "Origin": "Other"
+    },
+    "facultyid": "111358874",
+    "coauthors": {
+        "5610": {
+            "firstname": "Stephen",
+            "middleinitial": "H",
+            "lastname": "Brill",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358874",
+            "authorid": 5610,
+            "scholarlyactivityid": 2152
+        },
+        "5611": {
+            "firstname": "George",
+            "middleinitial": "F.",
+            "lastname": "Pinder",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5611,
+            "scholarlyactivityid": 2152
+        }
+    },
+    "status": [
+        {
+            "id": 2152,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2002,
+            "termid": "2001/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358874",
+    "attachments": []
+}

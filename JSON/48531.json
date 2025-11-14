@@ -1,0 +1,78 @@
+{
+    "activityid": 48531,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Differential effects of dual-task modalities on CoP dynamics during standing in health young adults",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135151",
+    "coauthors": {
+        "224661": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Manning",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 224661,
+            "scholarlyactivityid": 48531,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "224662": {
+            "firstname": "Shuqi",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135151",
+            "authorid": 224662,
+            "scholarlyactivityid": 48531
+        },
+        "224663": {
+            "firstname": "Emerson",
+            "middleinitial": "",
+            "lastname": "Sebasti\u00e3o",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 224663,
+            "scholarlyactivityid": 48531
+        }
+    },
+    "status": [
+        {
+            "id": 48531,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 48531,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114135151",
+    "attachments": []
+}

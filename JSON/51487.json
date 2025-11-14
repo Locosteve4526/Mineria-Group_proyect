@@ -1,0 +1,88 @@
+{
+    "activityid": 51487,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Land Cover Maps of the Eastern Upper Peninsula, Michigan, Using Radar-Optical Fusion of Multi-Temporal Imagery in Google Earth Engine",
+        "Journal": "Scholarworks",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.18122/hes_data/1/boisestate",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://scholarworks.boisestate.edu/hes_data/1/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048159",
+    "coauthors": {
+        "237804": {
+            "firstname": "Lucas",
+            "middleinitial": "",
+            "lastname": "Spaete",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 237804,
+            "scholarlyactivityid": 51487,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "237805": {
+            "firstname": "Jodi",
+            "middleinitial": "",
+            "lastname": "Brandt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048159",
+            "authorid": 237805,
+            "scholarlyactivityid": 51487,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "237806": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Clark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 237806,
+            "scholarlyactivityid": 51487,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "237807": {
+            "firstname": "Danielle",
+            "middleinitial": "",
+            "lastname": "Fagan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 237807,
+            "scholarlyactivityid": 51487,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51487,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048159",
+    "attachments": []
+}

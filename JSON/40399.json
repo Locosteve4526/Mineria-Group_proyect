@@ -1,0 +1,76 @@
+{
+    "activityid": 40399,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Temporal Alignment using the Incremental Unit Framework",
+        "Name of Conference": "ACM International Conference on Multimodal Interfaces (ICMI)",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "ACM",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "3136755.3136769",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://dl.acm.org/citation.cfm?doid=3136755.3136769",
+        "Description/Abstract": "We propose a method for temporal alignment--a precondition of meaningful fusion--of multimodal systems, using the incremental unit dialogue system framework, which gives the system flexibility in how it handles alignment: either by delaying a modality for a specified amount of time, or by revoking (i.e., backtracking) processed information so multiple information sources can be processed jointly. We evaluate our approach in an offline experiment with multimodal data and find that using the incremental framework is flexible and shows promise as a solution to the problem of temporal alignment in multimodal systems.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062811",
+    "coauthors": {
+        "176812": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062811",
+            "authorid": 176812,
+            "scholarlyactivityid": 40399,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176813": {
+            "firstname": "Ting",
+            "middleinitial": "",
+            "lastname": "Han",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176813,
+            "scholarlyactivityid": 40399,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176814": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schlangen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176814,
+            "scholarlyactivityid": 40399,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40399,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

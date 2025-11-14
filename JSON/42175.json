@@ -1,0 +1,71 @@
+{
+    "activityid": 42175,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "eBird (Citizen Data Collection) for Biologists and Wildlife Managers",
+        "Conference/Meeting Name": "Idaho Chapter of the Wildlife Society Annual Conference",
+        "Conference Location": "Fort Hall, ID",
+        "Date or Date Range": "March",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111358636",
+    "coauthors": {
+        "187436": {
+            "firstname": "Jay",
+            "middleinitial": "",
+            "lastname": "Carlisle",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358636",
+            "authorid": 187436,
+            "scholarlyactivityid": 42175,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "187437": {
+            "firstname": "Charles",
+            "middleinitial": "",
+            "lastname": "Swift",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 187437,
+            "scholarlyactivityid": 42175,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "187438": {
+            "firstname": "Angie",
+            "middleinitial": "",
+            "lastname": "Schmidt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 187438,
+            "scholarlyactivityid": 42175,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42175,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358636",
+    "attachments": []
+}

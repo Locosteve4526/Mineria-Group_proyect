@@ -1,0 +1,85 @@
+{
+    "activityid": 57,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "\u201cThe Peril of One: Architecting a Sourcing Strategy at Edwards Paper Co.",
+        "Journal": "Business Case Journal",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114026485",
+    "coauthors": {
+        "257697": {
+            "firstname": "Mark",
+            "middleinitial": "O.",
+            "lastname": "Lewis",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003149",
+            "authorid": 257697,
+            "scholarlyactivityid": 57
+        },
+        "257698": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Hayward",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257698,
+            "scholarlyactivityid": 57
+        },
+        "257699": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Baxter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114026485",
+            "authorid": 257699,
+            "scholarlyactivityid": 57
+        },
+        "257700": {
+            "firstname": "Vijay",
+            "middleinitial": "",
+            "lastname": "Kasi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257700,
+            "scholarlyactivityid": 57
+        }
+    },
+    "status": [
+        {
+            "id": 57,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 57,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114026485",
+    "attachments": []
+}

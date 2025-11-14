@@ -1,0 +1,75 @@
+{
+    "activityid": 29875,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Barriers to the adoption of online design education within collegiate landscape architecture programs in North America",
+        "Journal": "Landscape Review",
+        "Volume": "17",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "15-29",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "148098": {
+            "firstname": "Benjamin",
+            "middleinitial": "",
+            "lastname": "George",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 148098,
+            "scholarlyactivityid": 29875
+        },
+        "148099": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 148099,
+            "scholarlyactivityid": 29875
+        },
+        "148100": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 148100,
+            "scholarlyactivityid": 29875
+        }
+    },
+    "status": [
+        {
+            "id": 29875,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 29875,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

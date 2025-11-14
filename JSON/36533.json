@@ -1,0 +1,90 @@
+{
+    "activityid": 36533,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Stereotype Threat, Role Models, and Demographic Mismatch in an Elite Professional School Setting",
+        "Journal": "Education Finance and Policy",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067658",
+    "coauthors": {
+        "201236": {
+            "firstname": "Christopher",
+            "middleinitial": "C",
+            "lastname": "Birdsall",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067658",
+            "authorid": 201236,
+            "scholarlyactivityid": 36533,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "201237": {
+            "firstname": "Seth",
+            "middleinitial": "",
+            "lastname": "Gershenson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201237,
+            "scholarlyactivityid": 36533,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "201238": {
+            "firstname": "Raymond",
+            "middleinitial": "",
+            "lastname": "Zuniga",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201238,
+            "scholarlyactivityid": 36533
+        }
+    },
+    "status": [
+        {
+            "id": 36533,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 36533,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 36533,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114067658",
+    "attachments": []
+}

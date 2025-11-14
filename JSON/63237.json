@@ -1,0 +1,85 @@
+{
+    "activityid": 63237,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\n&lt;p&gt;&lt;span style=&quot;color:#222222;&quot;&gt;Review of living learning communities &lt;span&gt; &lt;/span&gt;and their impact on first year engineering college students&lt;/span&gt;&lt;/p&gt;",
+        "Name of Conference": "Pacific Northwest Section ASEE Conference",
+        "Month / Season": "March 20-22",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "1-6",
+        "Publisher": "",
+        "Publisher Location": "Corvallis, Oregon",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://peer.asee.org/31890",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111638920",
+    "coauthors": {
+        "291136": {
+            "firstname": "S.",
+            "middleinitial": "",
+            "lastname": "Schauer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111638920",
+            "authorid": 291136,
+            "scholarlyactivityid": 63237,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "291137": {
+            "firstname": "K.",
+            "middleinitial": "MB",
+            "lastname": "Tucker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291137,
+            "scholarlyactivityid": 63237,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "291138": {
+            "firstname": "Krishna",
+            "middleinitial": "C.",
+            "lastname": "Pakala",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291138,
+            "scholarlyactivityid": 63237,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63237,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 63237,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111638920",
+    "attachments": []
+}

@@ -1,0 +1,84 @@
+{
+    "activityid": 22309,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "How do capuchins stack up against chimpanzees and humans? Assessing combinatory manipulation in a block stacking task",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "2016-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Finalizing the writing for submission to a journal.\r\nRole:  Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "114045170",
+    "coauthors": {
+        "93494": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045170",
+            "authorid": 93494,
+            "scholarlyactivityid": 22309
+        },
+        "93495": {
+            "firstname": "Tephi",
+            "middleinitial": "",
+            "lastname": "Jeyaraj",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 93495,
+            "scholarlyactivityid": 22309
+        },
+        "93496": {
+            "firstname": "Dorothy",
+            "middleinitial": "",
+            "lastname": "Fragaszy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 93496,
+            "scholarlyactivityid": 22309
+        }
+    },
+    "status": [
+        {
+            "id": 22309,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 22309,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 22309,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114045170",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 75046,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;Diversifying Test Input Generation for Dynamic Invariant\u00a0&lt;/span&gt;&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;Inference&lt;/span&gt;",
+        "Name of Conference": "International Symposium on Software Testing and Analysis (ISSTA)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113164447",
+    "coauthors": {
+        "331758": {
+            "firstname": "Sandesh",
+            "middleinitial": "",
+            "lastname": "Bhusal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331758,
+            "scholarlyactivityid": 75046,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "331759": {
+            "firstname": "Elena",
+            "middleinitial": "A",
+            "lastname": "Sherman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113164447",
+            "authorid": 331759,
+            "scholarlyactivityid": 75046,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75046,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "113164447",
+    "attachments": []
+}

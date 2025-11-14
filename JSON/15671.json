@@ -1,0 +1,42 @@
+{
+    "activityid": 15671,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Statistical Tests for Total Variation Regularization Parameter Selection",
+        "Conference/Meeting Name": "SIAM Conference on Computational Science and Engineering",
+        "Conference Location": "Salt Lake City",
+        "Date or Date Range": "2015-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "SIAM",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We explore three new algorithms for choice of scaling or regularization parameter in Total Variation denoising. TV regularization is viewed as an M-estimator and it is assumed to converge to a well defined limit even if the probability model is not correctly specified. The Discrepancy Principle, a modified version of the chi-squared method for Tikhonov regularization and an empirically Bayesian approach are implemented and compared on benchmark problems in digital image processing.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "64271": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 64271,
+            "scholarlyactivityid": 15671
+        }
+    },
+    "status": [
+        {
+            "id": 15671,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

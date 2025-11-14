@@ -1,0 +1,63 @@
+{
+    "activityid": 34176,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Spam Users Identification in Wikipedia Via Editing Behavior",
+        "Name of Conference": "Proceedings of the Eleventh International Conference on Web and Social Media, ICWSM 2017, Montr'{e}al, Qu'{e}bec, Canada, May 15-18, 2017.",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114048777",
+    "coauthors": {
+        "145144": {
+            "firstname": "Thomas",
+            "middleinitial": "",
+            "lastname": "Green",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145144,
+            "scholarlyactivityid": 34176,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "145145": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145145,
+            "scholarlyactivityid": 34176,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34176,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048777",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 30680,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Composing science",
+        "Conference/Meeting Name": "Miami University, Ohio",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Howe Center for Writing",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "I was invited to Miami, Ohio to give presentations to a range of departments (Biology, Math/Statistics, and Geosciences), coupled with a workshop and seminar to the College at large. Over two days, this visit included 4 presentations and meetings with faculty. ",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "113371": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 113371,
+            "scholarlyactivityid": 30680,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "113372": {
+            "firstname": "Kim",
+            "middleinitial": "",
+            "lastname": "Jaxon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113372,
+            "scholarlyactivityid": 30680,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30680,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

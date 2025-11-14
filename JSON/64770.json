@@ -1,0 +1,97 @@
+{
+    "activityid": 64770,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;color:#222222;&quot;&gt;Studying response time and performance with students\u2019 online research and comprehension ability.\u00a0&lt;/span&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108320",
+    "coauthors": {
+        "300064": {
+            "firstname": "Ya",
+            "middleinitial": "",
+            "lastname": "Mo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108320",
+            "authorid": 300064,
+            "scholarlyactivityid": 64770,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300065": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Habing",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300065,
+            "scholarlyactivityid": 64770,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300066": {
+            "firstname": "Nell",
+            "middleinitial": "",
+            "lastname": "Sedransk",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300066,
+            "scholarlyactivityid": 64770,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300067": {
+            "firstname": "Alexi",
+            "middleinitial": "",
+            "lastname": "Albert",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300067,
+            "scholarlyactivityid": 64770,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64770,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64770,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114108320",
+    "attachments": []
+}

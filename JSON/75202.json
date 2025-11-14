@@ -1,0 +1,85 @@
+{
+    "activityid": 75202,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Perceptions and barriers to degree advancement of respiratory care practitioners",
+        "Journal": "Respiratory Care",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111698779",
+    "coauthors": {
+        "332829": {
+            "firstname": "Trevor",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113159951",
+            "authorid": 332829,
+            "scholarlyactivityid": 75202,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "332830": {
+            "firstname": "Megan",
+            "middleinitial": "S",
+            "lastname": "Koster",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111698779",
+            "authorid": 332830,
+            "scholarlyactivityid": 75202
+        },
+        "332831": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Gardner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332831,
+            "scholarlyactivityid": 75202,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "332832": {
+            "firstname": "Carl",
+            "middleinitial": "F",
+            "lastname": "Siebert",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046497",
+            "authorid": 332832,
+            "scholarlyactivityid": 75202,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75202,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111698779",
+    "attachments": []
+}

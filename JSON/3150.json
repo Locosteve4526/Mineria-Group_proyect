@@ -1,0 +1,66 @@
+{
+    "activityid": 3150,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The first successful use of simple low stringency familial searching in a French criminal investigation (in revision for JFS)",
+        "Journal": "Journal of Forensic Science",
+        "Volume": "59",
+        "Month / Season": "2014-02-06",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "816-819",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We describe how a very simple application of familial searching resolved a decade-old, high-profile rape/murder in France. This was the first use of familial searching in a criminal case using the French STR DNA database, which contains approximately 1,800,000 profiles. When an unknown forensic profile (18 loci) was searched against the French arrestee/offender database using CODIS configured for a low stringency search, a single low stringency match was identified. This profile was attributed to the father of the man suspected to be the source of the semen recovered from the murder victim Elodie Kulik. The identification was confirmed using Y-chromosome DNA from the putative father, an STR profile from the mother, and finally a tissue sample from the exhumed body of the man who left the semen. Because of this identification, the investigators are now pursuing possible co-conspirators.",
+        "Origin": "Other"
+    },
+    "facultyid": "112032282",
+    "coauthors": {
+        "9036": {
+            "firstname": "Emmanuel",
+            "middleinitial": "",
+            "lastname": "Pham-Hoai",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9036,
+            "scholarlyactivityid": 3150
+        },
+        "9037": {
+            "firstname": "Frank",
+            "middleinitial": "",
+            "lastname": "Crispano",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9037,
+            "scholarlyactivityid": 3150
+        },
+        "9038": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Hampikian",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112032282",
+            "authorid": 9038,
+            "scholarlyactivityid": 3150
+        }
+    },
+    "status": [
+        {
+            "id": 3150,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112032282",
+    "attachments": []
+}

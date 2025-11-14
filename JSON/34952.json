@@ -1,0 +1,47 @@
+{
+    "activityid": 34952,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cEstimating Scanning Characteristics from Corners in Bilevel Images\u201d",
+        "Name of Conference": "SPIE Photonics West -- Document Recognition and Retrieval VIII",
+        "Month / Season": "21-26 January",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "pp.176-183",
+        "Publisher": "",
+        "Publisher Location": "San Jose, CA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Degradations that occur during scanning can cause errors in Optical Character Recognition (OCR). Scans\r\nmade in bilevel mode (no grey scale) from high contrast source patterns are the input to the estimation\r\nprocesses. Two scanner system parameters are estimated from bilevel scans using models of the scanning\r\nprocess and bilevel source patterns. The scanner\u2019s point spread function (PSF) width and the binarization\r\nthreshold are estimated by using corner features in the scanned images.\r\nThese estimation algorithms were tested in simulation and with scanned test patterns. The resulting\r\nestimates are close in value to what is expected based on grey-level analysis. The results of estimation are\r\nused to produce synthetically scanned characters that in most cases bear a strong resemblance to the\r\ncharacters scanned on the scanner at the same settings as the test pattern used for estimation.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142724": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142724,
+            "scholarlyactivityid": 34952
+        }
+    },
+    "status": [
+        {
+            "id": 34952,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2001,
+            "termid": "2000/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

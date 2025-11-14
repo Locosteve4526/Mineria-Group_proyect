@@ -1,0 +1,84 @@
+{
+    "activityid": 31489,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Death Matters: A Meta-Analysis of Health Risk Messages from a Terror Management Perspective",
+        "Journal": "Journal of Communications Research",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111155890",
+    "coauthors": {
+        "198862": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Hunt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111155890",
+            "authorid": 198862,
+            "scholarlyactivityid": 31489,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "198863": {
+            "firstname": "Nancy",
+            "middleinitial": "",
+            "lastname": "Rhodes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 198863,
+            "scholarlyactivityid": 31489,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "198864": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Radford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 198864,
+            "scholarlyactivityid": 31489,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31489,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 31489,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111155890",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 14798,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Prove It!",
+        "Conference/Meeting Name": "Idaho Council of Teachers of Mathematics Annual Conference",
+        "Conference Location": "Idaho Falls, ID",
+        "Date or Date Range": "2011-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643697",
+    "coauthors": {
+        "62322": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Kinzel",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643697",
+            "authorid": 62322,
+            "scholarlyactivityid": 14798
+        },
+        "62323": {
+            "firstname": "Sasha",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113118296",
+            "authorid": 62323,
+            "scholarlyactivityid": 14798
+        },
+        "62324": {
+            "firstname": "S",
+            "middleinitial": "B",
+            "lastname": "Walen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62324,
+            "scholarlyactivityid": 14798
+        }
+    },
+    "status": [
+        {
+            "id": 14798,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643697",
+    "attachments": []
+}

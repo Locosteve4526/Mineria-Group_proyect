@@ -1,0 +1,63 @@
+{
+    "activityid": 40403,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": " Multimodal Visual and Simulated Tendon Activations for Grounded Semantics of Hand-related Descriptions",
+        "Name of Conference": "The 22nd Workshop on the Semantics and Pragmatics of Dialogue",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://f-origin.hypotheses.org/wp-content/blogs.dir/4280/files/2018/11/l_paper_3.pdf",
+        "Description/Abstract": "In this paper, we build on research which has applied visually-derived features for grounded\nsemantics by leveraging an additional modality: simulated hand muscle activations. We apply\nthe Words-as-Classifiers model of grounded semantics to learn a mapping between features from\nthe two modalities and corresponding hand image descriptions. Our experimental results show\nthat a multimodal fusion of both visual and muscle features yields improved results for the model\nthan either of the modalities alone in image and description retrieval tasks. By simulating mirror\nneurons, we further show that the simulated muscle activations can be derived from the visual\nfeatures and applied to our model",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062811",
+    "coauthors": {
+        "176819": {
+            "firstname": "Daniele",
+            "middleinitial": "",
+            "lastname": "Moro",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176819,
+            "scholarlyactivityid": 40403,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176820": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062811",
+            "authorid": 176820,
+            "scholarlyactivityid": 40403,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40403,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

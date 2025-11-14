@@ -1,0 +1,89 @@
+{
+    "activityid": 19542,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Issues in Information Systems Education",
+        "Name of Conference": "International Conference on Information Systems Development",
+        "Month / Season": "2004-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Vilnius, Lithuania",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "134440": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 134440,
+            "scholarlyactivityid": 19542,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134441": {
+            "firstname": "Wita",
+            "middleinitial": "",
+            "lastname": "Wojtkowski",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110225",
+            "authorid": 134441,
+            "scholarlyactivityid": 19542,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134442": {
+            "firstname": "Greg",
+            "middleinitial": "",
+            "lastname": "Wojtkowski",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110224",
+            "authorid": 134442,
+            "scholarlyactivityid": 19542,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134443": {
+            "firstname": "Cristianne",
+            "middleinitial": "",
+            "lastname": "Lane",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134443,
+            "scholarlyactivityid": 19542,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19542,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

@@ -1,0 +1,115 @@
+{
+    "activityid": 63832,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "ZTA: Never Trust, Always Verify",
+        "Name of Conference": "European Conference on Cyber Warfare and Security",
+        "Month / Season": "June 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "8",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.34190/eccws.21.1.309",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "294075": {
+            "firstname": "Char",
+            "middleinitial": "",
+            "lastname": "Sample",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294075,
+            "scholarlyactivityid": 63832,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294076": {
+            "firstname": "Cragin",
+            "middleinitial": "",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294076,
+            "scholarlyactivityid": 63832,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294077": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 294077,
+            "scholarlyactivityid": 63832,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294078": {
+            "firstname": "Connie",
+            "middleinitial": "",
+            "lastname": "Justice",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294078,
+            "scholarlyactivityid": 63832,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294079": {
+            "firstname": "Lynette",
+            "middleinitial": "",
+            "lastname": "Hornung",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294079,
+            "scholarlyactivityid": 63832,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294080": {
+            "firstname": "Ian",
+            "middleinitial": "",
+            "lastname": "Poynter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294080,
+            "scholarlyactivityid": 63832,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63832,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

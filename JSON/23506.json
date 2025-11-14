@@ -1,0 +1,45 @@
+{
+    "activityid": 23506,
+    "fields": {
+        "Type": "Book",
+        "Title": "Psychology of gaming",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Nova Science Publishers ",
+        "Publisher Location": "Hauppauge, NY",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "78544": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 78544,
+            "scholarlyactivityid": 23506
+        }
+    },
+    "status": [
+        {
+            "id": 23506,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

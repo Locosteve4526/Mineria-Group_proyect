@@ -1,0 +1,62 @@
+{
+    "activityid": 49284,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "New species and geographical distribution of trichomycetes (gut fungi) in a novel host, caddisfly (Trichoptera) ",
+        "Journal": "Botany",
+        "Volume": "97",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "537-545",
+        "Publisher": "",
+        "DOI": "10.1139/cjb-2019-0089",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112103309",
+    "coauthors": {
+        "228977": {
+            "firstname": "D",
+            "middleinitial": "B",
+            "lastname": "Strongman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 228977,
+            "scholarlyactivityid": 49284,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "228978": {
+            "firstname": "Merlin",
+            "middleinitial": "M",
+            "lastname": "White",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112103309",
+            "authorid": 228978,
+            "scholarlyactivityid": 49284,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 49284,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103309",
+    "attachments": []
+}

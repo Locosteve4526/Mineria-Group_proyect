@@ -1,0 +1,45 @@
+{
+    "activityid": 26000,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Pygmallion Effect:  Managing the Power of Expectations",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "CRM Learning",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "The Pygmallion Effect:  Managing the Power of Expectations",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113079943",
+    "coauthors": {
+        "83904": {
+            "firstname": " Donald Brian",
+            "middleinitial": "",
+            "lastname": "McNatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83904,
+            "scholarlyactivityid": 26000
+        }
+    },
+    "status": [
+        {
+            "id": 26000,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2001,
+            "termid": "2001/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113079943",
+    "attachments": []
+}

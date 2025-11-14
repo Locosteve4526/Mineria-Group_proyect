@@ -1,0 +1,65 @@
+{
+    "activityid": 23507,
+    "fields": {
+        "Type": "Book",
+        "Title": "Trends and Applications of Serious Gaming and Social Media (eds) ",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "78545": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 78545,
+            "scholarlyactivityid": 23507
+        },
+        "78546": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Ko",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78546,
+            "scholarlyactivityid": 23507
+        },
+        "78547": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Marsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78547,
+            "scholarlyactivityid": 23507
+        }
+    },
+    "status": [
+        {
+            "id": 23507,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 62995,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Data-Driven Design of Contact-Aware Controllers through Mixture of Experts Models",
+        "Journal": "Transactions on Control System Technology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114084469",
+    "coauthors": {
+        "290021": {
+            "firstname": "Nardos",
+            "middleinitial": "",
+            "lastname": "Ashenafi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290021,
+            "scholarlyactivityid": 62995,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "290022": {
+            "firstname": "Aykut",
+            "middleinitial": "C",
+            "lastname": "Satici",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114084469",
+            "authorid": 290022,
+            "scholarlyactivityid": 62995,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62995,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 62995,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114084469",
+    "attachments": []
+}

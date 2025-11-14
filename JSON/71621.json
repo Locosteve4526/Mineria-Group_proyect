@@ -1,0 +1,76 @@
+{
+    "activityid": 71621,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Finite element modeling of meniscal tears using continuum damage mechanics and digital image correlation",
+        "Journal": "Scientific reports",
+        "Volume": "13",
+        "Month / Season": null,
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "4039",
+        "Publisher": null,
+        "DOI": "10.1038/s41598-023-29111-z",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Meniscal tears are a common, painful, and debilitating knee injury with limited treatment options. Computational models that predict meniscal tears may help advance injury prevention and repair, but first these models must be validated using experimental data. Here we simulated meniscal tears with finite element analysis using continuum damage mechanics (CDM) in a transversely isotropic hyperelastic material. Finite element models were built to recreate the coupon geometry and loading conditions of forty uniaxial tensile experiments of human meniscus that were pulled to failure either parallel or perpendicular to the preferred fiber orientation. Two damage criteria were evaluated for all experiments: von Mises stress and maximum normal Lagrange strain. After we successfully fit all models to experimental force-displacement curves (grip-to-grip), we compared model predicted strains in the tear region at ultimate tensile strength to the strains measured experimentally with digital image correlation (DIC). In general, the damage models underpredicted the strains measured in the tear region, but models using von Mises stress damage criterion had better overall predictions and more accurately simulated experimental tear patterns. For the first time, this study has used DIC to expose strengths and weaknesses of using CDM to model failure behavior in soft fibrous tissue.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "326242": {
+            "firstname": "Derek ",
+            "middleinitial": "Q",
+            "lastname": "Nesbitt",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326242,
+            "scholarlyactivityid": 71621
+        },
+        "326243": {
+            "firstname": "Dylan ",
+            "middleinitial": "E",
+            "lastname": "Burruel",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326243,
+            "scholarlyactivityid": 71621
+        },
+        "326244": {
+            "firstname": "Bradley ",
+            "middleinitial": "S",
+            "lastname": "Henderson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326244,
+            "scholarlyactivityid": 71621
+        },
+        "326245": {
+            "firstname": "Trevor ",
+            "middleinitial": "J",
+            "lastname": "Lujan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326245,
+            "scholarlyactivityid": 71621
+        }
+    },
+    "status": [
+        {
+            "id": 71621,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

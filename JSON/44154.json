@@ -1,0 +1,58 @@
+{
+    "activityid": 44154,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Effective career exploration strategies among psychology students.",
+        "Conference / Meeting Name": "McNair Scholars and Undergraduate Research Conference",
+        "Conference Location": "College Park, MD",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "200018": {
+            "firstname": "Cierra",
+            "middleinitial": "",
+            "lastname": "Abellera",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200018,
+            "scholarlyactivityid": 44154,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "200019": {
+            "firstname": "R.",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 200019,
+            "scholarlyactivityid": 44154,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44154,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 6661,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "On the Stability of Radau IIA Collocation Methods for Delay DIfferential Equations",
+        "Journal": "Mathematical and Computer Modeling",
+        "Volume": "40",
+        "Month / Season": "2004-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "1297-1308",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper deals with the stability of Runge-Kutta methods of collocation type adapted to the numerical solution of initial value problems for delay differential equations. In order to obtain the adaptation of these Runge-Kutta methods to delay equations, the interpolation procedure is considered that uses the relevant local collocation polynomials from the past. Our analysis concerns a well-known stability condition that forms a natural generalization of the classical concept of A-stability to the case of delay differential equations.\n\nUp to now, the problem has been open in the literature of whether the stability condition above is fulfilled in the interesting case of the Radau IIA methods if the number of stages v ? 2. In this paper, we prove that if v = 2 or v = 3, then the answer is negative. Next, by strong numerical evidence, we arrive at a conjecture stating that the stability condition is not satisfied in the case of the Radau IIA methods whenever v ? 2. We finally establish further insight by numerically examining the relevant stability regions, in ? \u00d7 ?, for v = 2,3,\u2026, 10.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20746": {
+            "firstname": "Karel",
+            "middleinitial": "J.",
+            "lastname": "in 't Hout",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20746,
+            "scholarlyactivityid": 6661
+        },
+        "20747": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20747,
+            "scholarlyactivityid": 6661
+        }
+    },
+    "status": [
+        {
+            "id": 6661,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 11329,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "First you have to find them",
+        "Conference/Meeting Name": "Edufest Gifted Education Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2007-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Sponsoring Organization": "Edufest",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "54477": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 54477,
+            "scholarlyactivityid": 11329
+        },
+        "54478": {
+            "firstname": "Lawrence",
+            "middleinitial": "R",
+            "lastname": "Rogien",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110394",
+            "authorid": 54478,
+            "scholarlyactivityid": 11329
+        },
+        "54479": {
+            "firstname": "C",
+            "middleinitial": "",
+            "lastname": "Wickstrom",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 54479,
+            "scholarlyactivityid": 11329
+        }
+    },
+    "status": [
+        {
+            "id": 11329,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2007,
+            "termid": "2007/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

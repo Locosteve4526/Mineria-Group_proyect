@@ -1,0 +1,64 @@
+{
+    "activityid": 53535,
+    "fields": {
+        "Type": "Review",
+        "Title of Review": "A Book Review Symposium: Lilia D. Monz\u00f3 (2019) A Revolutionary Subject: Pedagogy of Women of Color and Indigeneity. New York: Peter Lang Publishing. ISBN: 978-1-4331-5919-0",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers of Number of Pages": "",
+        "Publisher": "Journal of Critical Education Policy Studies",
+        "Publisher Location": "United Kingdom",
+        "Month / Season": "April",
+        "Title of larger work": "Journal of Critical Education Policy Studies",
+        "Volume": "18",
+        "Issue Number": "1",
+        "Author/Editor of larger work": "",
+        "DOI": "Dave ill",
+        "ISSN/ISBN #": "ISSN 1740-2743",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112125622",
+    "coauthors": {
+        "249875": {
+            "firstname": "Kevin",
+            "middleinitial": "R",
+            "lastname": "Magill",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 249875,
+            "scholarlyactivityid": 53535,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "249876": {
+            "firstname": "Arturo",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112125622",
+            "authorid": 249876,
+            "scholarlyactivityid": 53535,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53535,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112125622",
+    "attachments": []
+}

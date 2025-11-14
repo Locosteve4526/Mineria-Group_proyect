@@ -1,0 +1,84 @@
+{
+    "activityid": 59134,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Community\u2010level prevalence of a forest pathogen, not individual\u2010level disease risk, declines with tree diversity.",
+        "Journal": "Ecology Letters",
+        "Volume": "24",
+        "Month / Season": "August",
+        "Issue Number": "11",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "2477-2489",
+        "Publisher": "Wiley",
+        "DOI": "https://doi.org/10.1111/ele.13871",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114139989",
+    "coauthors": {
+        "291075": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Rosenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291075,
+            "scholarlyactivityid": 59134,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "291076": {
+            "firstname": "Allison",
+            "middleinitial": "",
+            "lastname": "Simler-Williamson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114139989",
+            "authorid": 291076,
+            "scholarlyactivityid": 59134,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "291077": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Rizzo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291077,
+            "scholarlyactivityid": 59134,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59134,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59134,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114139989",
+    "attachments": []
+}

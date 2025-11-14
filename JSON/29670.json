@@ -1,0 +1,58 @@
+{
+    "activityid": 29670,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Long Term Impact of Advanced Practice Providers in Neurosurgery",
+        "Conference / Meeting Name": "The American Association of Neurological Surgeons 84th Annual Scientific Meeting",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "April 30 -May 4, 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111850",
+    "coauthors": {
+        "104295": {
+            "firstname": "Christian",
+            "middleinitial": "G",
+            "lastname": "Zimmerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 104295,
+            "scholarlyactivityid": 29670,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "104296": {
+            "firstname": "Pennie",
+            "middleinitial": "S",
+            "lastname": "Seibert",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111850",
+            "authorid": 104296,
+            "scholarlyactivityid": 29670,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29670,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111850",
+    "attachments": []
+}

@@ -1,0 +1,64 @@
+{
+    "activityid": 76628,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Dynamic iteration error analysis",
+        "Book Title": "Exact and Approximate Solutions for Mathematical Models in Science and Engineering",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "167-183",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Birkh\u00e4user/Springer",
+        "Publisher Location": "Springer Nature Switzerland AG",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "341038": {
+            "firstname": "Przemyslaw",
+            "middleinitial": "",
+            "lastname": "Stpiczynski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341038,
+            "scholarlyactivityid": 76628,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341039": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 341039,
+            "scholarlyactivityid": 76628,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76628,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

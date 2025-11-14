@@ -1,0 +1,66 @@
+{
+    "activityid": 1796,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Estimating Porosity with Ground-Penetrating Radar Reflection Tomography: A Controlled 3-D Experiment at the Boise Hydrogeophysical Research Site",
+        "Journal": "Water Resources Research",
+        "Volume": "45",
+        "Month / Season": "2009-02-24",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "W00D26-1 - W00D26-11",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2008WR006960",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/40",
+        "Description/Abstract": "To evaluate the uncertainty of water-saturated sediment velocity and porosity estimates derived from surface-based, ground-penetrating radar reflection tomography, we conducted a controlled field experiment at the Boise Hydrogeophysical Research Site (BHRS). The BHRS is an experimental well field located near Boise, Idaho. The experimental data set consisted of 3-D multioffset radar acquired on an orthogonal 20 \u00d7 30 m surface grid that encompassed a set of 13 boreholes. Experimental control included (1) 1-D vertical velocity functions determined from traveltime inversion of vertical radar profiles (VRP) and (2) neutron porosity logs. We estimated the porosity distribution in the saturated zone using both the Topp and Complex Refractive Index Method (CRIM) equations and found the CRIM estimates in better agreement with the neutron logs. We found that when averaged over the length of the borehole, surface-derived velocity measurements were within 5% of the VRP velocities and that the porosity differed from the neutron log by less than 0.05. The uncertainty, however, is scale dependent. We found that the standard deviation of differences between ground-penetrating-radar-derived and neutron-log-derived porosity values was as high as 0.06 at an averaging length of 0.25 m but decreased to less than 0.02 at length scale of 11 m. Additionally, we used the 3-D porosity distribution to identify a relatively high-porosity anomaly (i.e., local sedimentary body) within a lower-porosity unit and verified the presence of the anomaly using the neutron porosity logs. Since the reflection tomography approach requires only surface data, it can provide rapid assessment of bulk hydrologic properties, identify meterscale anomalies of hydrologic significance, and may provide input for other higherresolution measurement methods.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4506": {
+            "firstname": "John",
+            "middleinitial": "H",
+            "lastname": "Bradford",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111678864",
+            "authorid": 4506,
+            "scholarlyactivityid": 1796
+        },
+        "4507": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Clement",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110004",
+            "authorid": 4507,
+            "scholarlyactivityid": 1796
+        },
+        "4508": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4508,
+            "scholarlyactivityid": 1796
+        }
+    },
+    "status": [
+        {
+            "id": 1796,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

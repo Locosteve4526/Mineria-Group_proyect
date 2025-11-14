@@ -1,0 +1,88 @@
+{
+    "activityid": 52664,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Mechanical properties of the high cholesterol-containing membrane: An AFM study",
+        "Journal": "Biochimica et Biophysica Acta",
+        "Volume": "1863",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "183625",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://pubmed.ncbi.nlm.nih.gov/33891910/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114134034",
+    "coauthors": {
+        "267961": {
+            "firstname": "Nawal",
+            "middleinitial": "K.",
+            "lastname": "Khadka",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 267961,
+            "scholarlyactivityid": 52664,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        },
+        "267962": {
+            "firstname": "Raju",
+            "middleinitial": "",
+            "lastname": "Timsina",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 267962,
+            "scholarlyactivityid": 52664,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        },
+        "267963": {
+            "firstname": "Erica",
+            "middleinitial": "",
+            "lastname": "Rowe",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 267963,
+            "scholarlyactivityid": 52664,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "267964": {
+            "firstname": "Laxman",
+            "middleinitial": "",
+            "lastname": "Mainali",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114134034",
+            "authorid": 267964,
+            "scholarlyactivityid": 52664,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52664,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114134034",
+    "attachments": []
+}

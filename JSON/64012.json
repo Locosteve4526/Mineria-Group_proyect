@@ -1,0 +1,116 @@
+{
+    "activityid": 64012,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Comparison of Cortical Bone Fracture Patterns Under Compression Loading Using Finite Element-Discrete Element Numerical Modeling Approach and Destructive Testing",
+        "Journal": "Cureus",
+        "Volume": "14",
+        "Month / Season": null,
+        "Issue Number": "9",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "e29596",
+        "Publisher": null,
+        "DOI": "10.7759/cureus.29596",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Finite element analysis may not be the only method by which bone fracture initiation and propagation may be analyzed. This study compares fracture patterns generated from compression testing of bone to fracture patterns generated using a combination of both the finite element method (FEM) and discrete element method (DEM) as defined by the finite discrete element method (FDEM). Before testing, a three-dimensional bone model was developed using CT. Force and displacement data were collected during testing. The tested specimen was reimaged using CT. The solid model was discretized and material properties adjusted such that finite element-discrete element macro behavior matched the force-displacement data. A qualitative comparison of the fracture patterns demonstrates that FDEM can successfully be used to simulate and predict fracturing in bone, with this study representing the first time this has been done and reported.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114136465",
+    "coauthors": {
+        "295183": {
+            "firstname": "Nick",
+            "middleinitial": "",
+            "lastname": "Hudyma",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295183,
+            "scholarlyactivityid": 64012
+        },
+        "295184": {
+            "firstname": "Andrea",
+            "middleinitial": "",
+            "lastname": "Lisjak",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295184,
+            "scholarlyactivityid": 64012
+        },
+        "295185": {
+            "firstname": "Bryan ",
+            "middleinitial": "S",
+            "lastname": "Tatone",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295185,
+            "scholarlyactivityid": 64012
+        },
+        "295186": {
+            "firstname": "Hillary ",
+            "middleinitial": "W",
+            "lastname": "Garner",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295186,
+            "scholarlyactivityid": 64012
+        },
+        "295187": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Wight",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295187,
+            "scholarlyactivityid": 64012
+        },
+        "295188": {
+            "firstname": "Akhil ",
+            "middleinitial": "S",
+            "lastname": "Mandavalli",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295188,
+            "scholarlyactivityid": 64012
+        },
+        "295189": {
+            "firstname": "Ifeloluw",
+            "middleinitial": "A",
+            "lastname": "Olutola",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295189,
+            "scholarlyactivityid": 64012
+        },
+        "295190": {
+            "firstname": "George G A",
+            "middleinitial": "",
+            "lastname": "Pujalte",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295190,
+            "scholarlyactivityid": 64012
+        }
+    },
+    "status": [
+        {
+            "id": 64012,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114136465",
+    "attachments": []
+}

@@ -1,0 +1,45 @@
+{
+    "activityid": 38562,
+    "fields": {
+        "Type": "Book",
+        "Title": "Annual editions: Psychology 17/18 (47th ed.).  ",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "47th ed.",
+        "Volume": "",
+        "Publisher": "McGraw-Hill",
+        "Publisher Location": "New York, NY",
+        "ISBN": "978-1259657696",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "162167": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 162167,
+            "scholarlyactivityid": 38562
+        }
+    },
+    "status": [
+        {
+            "id": 38562,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

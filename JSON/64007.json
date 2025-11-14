@@ -1,0 +1,110 @@
+{
+    "activityid": 64007,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Designing with the brain in mind: How neuroscience and cognitive psychology inform practice",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114204687",
+    "coauthors": {
+        "295156": {
+            "firstname": "Seth-Aaron",
+            "middleinitial": "",
+            "lastname": "Martinez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114204687",
+            "authorid": 295156,
+            "scholarlyactivityid": 64007,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "295157": {
+            "firstname": "Danielle",
+            "middleinitial": "",
+            "lastname": "Wachter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295157,
+            "scholarlyactivityid": 64007,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "295158": {
+            "firstname": "Halah",
+            "middleinitial": "",
+            "lastname": "Mohammed",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295158,
+            "scholarlyactivityid": 64007,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "295159": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Dalto",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295159,
+            "scholarlyactivityid": 64007,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "295160": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Harrington",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295160,
+            "scholarlyactivityid": 64007,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64007,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64007,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114204687",
+    "attachments": []
+}

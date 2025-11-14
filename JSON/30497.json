@@ -1,0 +1,71 @@
+{
+    "activityid": 30497,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Finding Alignment: The Perceptions and Integration of the NGSS Practices by Elementary Teachers",
+        "Journal": "School Science and Mathematics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "Wiley",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111300400",
+    "coauthors": {
+        "111760": {
+            "firstname": "Janette",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111300400",
+            "authorid": 111760,
+            "scholarlyactivityid": 30497,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "111761": {
+            "firstname": "Louis",
+            "middleinitial": "",
+            "lastname": "Nadelson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 111761,
+            "scholarlyactivityid": 30497,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30497,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 30497,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111300400",
+    "attachments": []
+}

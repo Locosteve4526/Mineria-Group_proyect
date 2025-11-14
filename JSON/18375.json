@@ -1,0 +1,52 @@
+{
+    "activityid": 18375,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Student Insights into Comprehension Monitoring",
+        "Conference/Meeting Name": "annual meeting of the American Educational Research Association",
+        "Conference Location": "San Diego, CA",
+        "Date or Date Range": "2005-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Sponsoring Organization": "American Educational Research Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "70264": {
+            "firstname": "M C M",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 70264,
+            "scholarlyactivityid": 18375
+        },
+        "70265": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 70265,
+            "scholarlyactivityid": 18375
+        }
+    },
+    "status": [
+        {
+            "id": 18375,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

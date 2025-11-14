@@ -1,0 +1,93 @@
+{
+    "activityid": 2208,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "ForestClaw: Hybrid forest-of-octress AMR for Hyperbolic Conservation Laws",
+        "Journal": "International Conference on Parallel Computing - ParCo2013",
+        "Volume": "",
+        "Month / Season": "2013-10-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "253--262",
+        "Publisher": "",
+        "DOI": "10.3233/978-1-61499-381-0-253",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/1308.1472",
+        "Description/Abstract": "We present a new hybrid paradigm for parallel adaptive mesh refinement (AMR) that combines the scalability and lightweight architecture of tree-based AMR with the computational efficiency of patch-based solvers for hyperbolic con- servation laws. The key idea is to interpret each leaf of the AMR hierarchy as one uniform compute patch in Rd with md degrees of freedom, where m is customarily between 8 and 32. Thus, computation on each patch can be optimized for speed, while we inherit the flexibility of adaptive meshes. In our work we choose to in- tegrate with the p4est AMR library since it allows us to compose the mesh from multiple mapped octrees and enables the cubed sphere and other nontrivial multi- block geometries. We describe aspects of the parallel implementation and close with scalings for both MPI-only and OpenMP/MPI hybrid runs, where the largest MPI run executes on 16,384 CPU cores.",
+        "Origin": "Other"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "321399": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 321399,
+            "scholarlyactivityid": 2208
+        },
+        "321400": {
+            "firstname": "C",
+            "middleinitial": "",
+            "lastname": "Burstedde",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321400,
+            "scholarlyactivityid": 2208
+        },
+        "321401": {
+            "firstname": "K",
+            "middleinitial": "",
+            "lastname": "Mandli",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321401,
+            "scholarlyactivityid": 2208
+        },
+        "321402": {
+            "firstname": "A",
+            "middleinitial": "R",
+            "lastname": "Terrel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321402,
+            "scholarlyactivityid": 2208
+        }
+    },
+    "status": [
+        {
+            "id": 2208,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 2208,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113079626",
+    "attachments": [
+        {
+            "attachmentid": 4022,
+            "mimetype": "application/pdf",
+            "filename": "bu-ca-ma-te-2013.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeThPWXVmQUU2RmFTbGFSSUswOUo1V1NtS3UxcHRoMTJvWGN3aHRVWVM0SW9lbHZVOEI0UnZvcTZGZ0VtWmlNeS8%3D",
+            "filesize": 479272
+        }
+    ]
+}

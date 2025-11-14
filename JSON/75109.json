@@ -1,0 +1,53 @@
+{
+    "activityid": 75109,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Out",
+        "Name of Performing Group": "NTVI",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Name of Venue/Sponsor": "Egyptian Theatre",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, ID",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114059338",
+    "coauthors": {
+        "332330": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Cannon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332330,
+            "scholarlyactivityid": 75109
+        },
+        "332331": {
+            "firstname": "Rulon",
+            "middleinitial": "M",
+            "lastname": "Wood",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114059338",
+            "authorid": 332331,
+            "scholarlyactivityid": 75109
+        }
+    },
+    "status": [
+        {
+            "id": 75109,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114059338",
+    "attachments": []
+}

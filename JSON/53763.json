@@ -1,0 +1,63 @@
+{
+    "activityid": 53763,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Resilient Data: An Interdisciplinary Approach",
+        "Name of Conference": "2020 IEEE Resilient Week",
+        "Month / Season": "October 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "6",
+        "Publisher": "IEEE",
+        "Publisher Location": "Salt Lake City, Utah",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "251636": {
+            "firstname": "Char",
+            "middleinitial": "",
+            "lastname": "Sample",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 251636,
+            "scholarlyactivityid": 53763,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "251637": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 251637,
+            "scholarlyactivityid": 53763,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53763,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

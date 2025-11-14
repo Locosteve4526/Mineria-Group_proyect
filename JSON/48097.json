@@ -1,0 +1,58 @@
+{
+    "activityid": 48097,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Investigation of the Conduction Mechanisms in the Ag- and Cu-Based Self-Directed Channel (SDC) Memristors",
+        "Conference / Meeting Name": "Undergraduate Research and Scholarship Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "April 15, 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "A memristor is a two-terminal device that has been described as the fourth basic circuit element. Memristors are currently heavily researched as the potential best candidate device solution for analog non-volatile memory, low-power sensing, neuromorphic systems, and analog computing. The self-directed channel (SDC) memristor is a type of two-terminal ion-conducting memristive device, which uses Ag+ or Cu+ to change the conductivity of the device. The formation and dissolution of the conductive path are controlled by an applied electric field. The mechanism of electrical conduction of the device is not entirely understood, thus preventing optimization of device materials and commercial adaption. In this work, we study the electrical conduction mechanisms of these devices over the temperature range of 5 K to 350 K. This data will help with determining a compact model for circuit design as well as reliability of the device over long-term use.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112017702",
+    "coauthors": {
+        "222059": {
+            "firstname": "Tonglin",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222059,
+            "scholarlyactivityid": 48097,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "222060": {
+            "firstname": "Kristy",
+            "middleinitial": "A",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112017702",
+            "authorid": 222060,
+            "scholarlyactivityid": 48097,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48097,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112017702",
+    "attachments": []
+}

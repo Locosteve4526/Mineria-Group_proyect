@@ -1,0 +1,99 @@
+{
+    "activityid": 59116,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Socio-Cultural Learning to Increase Student Engagement in Introduction to MIS",
+        "Journal": "Journal of Information Systems Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088737",
+    "coauthors": {
+        "344065": {
+            "firstname": "Amy",
+            "middleinitial": "J",
+            "lastname": "Connolly",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344065,
+            "scholarlyactivityid": 59116,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "344066": {
+            "firstname": "Leigh",
+            "middleinitial": "",
+            "lastname": "Mutchler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344066,
+            "scholarlyactivityid": 59116,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "344067": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Rush",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088737",
+            "authorid": 344067,
+            "scholarlyactivityid": 59116,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59116,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59116,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114088737",
+    "attachments": [
+        {
+            "attachmentid": 37055,
+            "mimetype": "application/pdf",
+            "filename": "20210610 JISE - Journal of Information Systems Education - RE Revised Document - Teaching Tip on Intro to MIS #2101005.pdf 'In Press'.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitiOGpJY1ViSmJ0WlNFcDdaRVdVRkRnYUxoOHZlcUZlMHE1STd3R0c3MzhlUDhNeVBocmlCMkxRNmxpVFVrdW0rYzJsWEphdXR3aWExbUFiaVY3MDZ2SjJoQUVwMlNNNW5MYWxJaHBIWXVtTGlWSE04TDRRWXlnaEl6S0NxM1djamxIdXNiY1JHSGRzVHJGdWgwUFRnMlpOQzNjK2NEaDJBaVo3K3d6QkhTamVFWmpuMFBtN3lXM1NtQUErRGFXRWRQN3JHcHhndUhSdzlqaXR1Y2JabU5Xb2dTNGt0aXoxVlE9",
+            "filesize": 161183
+        },
+        {
+            "attachmentid": 41480,
+            "mimetype": "application/pdf",
+            "filename": "Teaching Tip_ Socio-Cultural Learning to Increase Student Engagem.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZM2NXOFFua2hNbHZoSUdsRFd0NWlNWUEwZVpQU0VObTQ0cjFUV2lnOFdDL3kwU2krZUNrRU1DS3VJSkRwTlloekFIc0hkVkFuUDJuNVRoc3UxNVpQamVBQ25qQlc0QnNjcmJ5bjYxMzlsVjJsMnVNdUZuOTNO",
+            "filesize": 630146
+        }
+    ]
+}

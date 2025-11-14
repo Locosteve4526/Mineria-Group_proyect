@@ -1,0 +1,34 @@
+{
+    "activityid": 46834,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Composing and Embedding the Words-as-Classifiers Model of Grounded  Semantics",
+        "Journal": "arXiv",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/1911.03283v1",
+        "Description/Abstract": "The words-as-classifiers model of grounded lexical semantics learns a\nsemantic fitness score between physical entities and the words that are used to\ndenote those entities. In this paper, we explore how such a model can\nincrementally perform composition and how the model can be unified with a\ndistributional representation. For the latter, we leverage the classifier\ncoefficients as an embedding. For composition, we leverage the underlying\nmechanics of three different classifier types (i.e., logistic regression,\ndecision trees, and multi-layer perceptrons) to arrive at a several systematic\napproaches to composition unique to each classifier including both denotational\nand connotational methods of composition. We compare these approaches to each\nother and to prior work in a visual reference resolution task using the refCOCO\ndataset. Our results demonstrate the need to expand upon existing composition\nstrategies and bring together grounded and distributional representations.\n[Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "114062811",
+    "status": [
+        {
+            "id": 46834,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

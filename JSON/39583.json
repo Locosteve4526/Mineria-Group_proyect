@@ -1,0 +1,66 @@
+{
+    "activityid": 39583,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Speech Characterization Using a Single Memristor",
+        "Conference / Meeting Name": "Idaho Conference on Undergraduate Research",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "July 26, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "Idaho State Board of Education, INL, NSF, NIH",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Current voice detection systems involve speech enhancement algorithms and an advanced Analog to Digital Converter (ADC) circuit. In this work, a single memristor device is proposed to replace the complicated existing ADC circuitry in the  voice detection application. By applying a voice signal as an input, the memristor was used to generate a unique electrical fingerprint for each word. Characterizing the measured response is the first step towards the use of a memristor as a single element voice detector. \n",
+        "Origin": "Manual"
+    },
+    "facultyid": "112017702",
+    "coauthors": {
+        "171112": {
+            "firstname": "Denver",
+            "middleinitial": "",
+            "lastname": "Lloyd",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 171112,
+            "scholarlyactivityid": 39583,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "171113": {
+            "firstname": "Kristy",
+            "middleinitial": "A",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112017702",
+            "authorid": 171113,
+            "scholarlyactivityid": 39583,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 39583,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112017702",
+    "attachments": [
+        {
+            "attachmentid": 11399,
+            "mimetype": "application/pdf",
+            "filename": "Denver_Lloyd_ICUR 2018 poster.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWpuRllEYTF1bVgwS2c3VXlLWC96MUtIb3B0VDB0UENEeXdvN3J0ZUlEYlBVVW5EdkNVeUNoa3ZnNCtyVEk0OHlxTUNZbVRJUlRKd2pZeHo4dGVqaXJ3PT0%3D",
+            "filesize": 1491039
+        }
+    ]
+}

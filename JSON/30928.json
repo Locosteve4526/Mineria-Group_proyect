@@ -1,0 +1,58 @@
+{
+    "activityid": 30928,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Invaders from Space",
+        "Conference/Meeting Name": "Department of Chemistry and Biochemistry Seminar",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "2/19/2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114044110",
+    "coauthors": {
+        "114848": {
+            "firstname": "Phillip",
+            "middleinitial": "G",
+            "lastname": "Hammer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114848,
+            "scholarlyactivityid": 30928,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "114849": {
+            "firstname": "Michael",
+            "middleinitial": "P",
+            "lastname": "Callahan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114044110",
+            "authorid": 114849,
+            "scholarlyactivityid": 30928,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30928,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114044110",
+    "attachments": []
+}

@@ -1,0 +1,72 @@
+{
+    "activityid": 62150,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:11pt;&quot;&gt;COVID-19: A longitudinal perspective on Sustained Remote Teaching (SRT) from the Republic of Korea&lt;/span&gt;",
+        "Journal": "the Quarterly Review of Distance Education",
+        "Volume": "23",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "285364": {
+            "firstname": "William H",
+            "middleinitial": "",
+            "lastname": "Stewart",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 285364,
+            "scholarlyactivityid": 62150,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "285365": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 285365,
+            "scholarlyactivityid": 62150
+        },
+        "285366": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 285366,
+            "scholarlyactivityid": 62150,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62150,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

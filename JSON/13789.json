@@ -1,0 +1,52 @@
+{
+    "activityid": 13789,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "What effect does detectability have on statistical power in analysis of raptor migration counts?  ",
+        "Conference/Meeting Name": "Annual meeting",
+        "Conference Location": "Boise, Idaho",
+        "Date or Date Range": "2012-03-05",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "The Idaho Chapter of the Wildlife Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111277518",
+    "coauthors": {
+        "60188": {
+            "firstname": "Neil",
+            "middleinitial": "",
+            "lastname": "Paprocki",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 60188,
+            "scholarlyactivityid": 13789
+        },
+        "60189": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 60189,
+            "scholarlyactivityid": 13789
+        }
+    },
+    "status": [
+        {
+            "id": 13789,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111277518",
+    "attachments": []
+}

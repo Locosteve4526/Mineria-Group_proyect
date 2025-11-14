@@ -1,0 +1,45 @@
+{
+    "activityid": 49716,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "NUMO: A Non-Hydrostatic Unified Model of the Ocean",
+        "Conference/Meeting Name": "SIAM Conference on Parallel Processing for Scientific Computing (PP20)",
+        "Conference Location": "Seattle, WA",
+        "Date or Date Range": "02/12-15/2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Society of Applied and Industrial Mathematics",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Ice-sheet/ocean interaction in Greenland is one of the key outstanding challenges in climate modeling, yet present-day climate models are not able to resolve fine-scale processes in the fjords. This is due to orders of magnitude difference in spatial scales between the open ocean (1000km) and fjord (1km) as well as small-scale processes at the glacier terminus (1m), complicated bathymetry and coastline. The most recent computational studies of fjord circulation focused on simplified box-like domains (e.g., [Kimura et al., The effect of meltwater plumes on the melting of a vertical glacier face, 2014]). \\vspace{10pt}\n\nWe develop the Non-hydrostatic Unified Model of the Ocean (NUMO) to address the need for hi-resolution simulations of ocean circulation in Greenland fjords which take into account complex geometry and the range of scales of motion. The model uses fully three-dimensional unstructured mesh and high-order element-based Galerkin methods to discretize the Boussinesq approximation of incompressible Navier-Stokes equations. \\vspace{10pt}\n\nIn this talk, we will discuss the validation of the model on a range of test cases with increasing complexity and present recent developments and challenges. We will focus on the parallel performance of the model.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108611",
+    "coauthors": {
+        "231332": {
+            "firstname": "Michal",
+            "middleinitial": "A",
+            "lastname": "Kopera",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108611",
+            "authorid": 231332,
+            "scholarlyactivityid": 49716,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 49716,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114108611",
+    "attachments": []
+}

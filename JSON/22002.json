@@ -1,0 +1,58 @@
+{
+    "activityid": 22002,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "A history of sport-related concussions as represented in film and Sports Illustrated",
+        "Conference/Meeting Name": "Annual Meeting of the North American Society for Sport History",
+        "Conference Location": "Atlanta, GA",
+        "Date or Date Range": "May 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Role:  Co-Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "111669980",
+    "coauthors": {
+        "276091": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Fields",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276091,
+            "scholarlyactivityid": 22002,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "276092": {
+            "firstname": "Shelley",
+            "middleinitial": "M",
+            "lastname": "Lucas",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669980",
+            "authorid": 276092,
+            "scholarlyactivityid": 22002,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 22002,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669980",
+    "attachments": []
+}

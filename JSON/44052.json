@@ -1,0 +1,103 @@
+{
+    "activityid": 44052,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Some algebraic properties of Lucas sequences and primality testing",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "250539": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 250539,
+            "scholarlyactivityid": 44052
+        },
+        "250540": {
+            "firstname": "Hyun Jong",
+            "middleinitial": "",
+            "lastname": "Kim",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 250540,
+            "scholarlyactivityid": 44052,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "250541": {
+            "firstname": "Andre",
+            "middleinitial": "",
+            "lastname": "Hernandez-Espiet",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 250541,
+            "scholarlyactivityid": 44052,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "250542": {
+            "firstname": "Kayson",
+            "middleinitial": "",
+            "lastname": "Hansen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 250542,
+            "scholarlyactivityid": 44052,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44052,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44052,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44052,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111716691",
+    "attachments": []
+}

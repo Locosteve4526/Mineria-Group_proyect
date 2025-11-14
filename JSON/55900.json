@@ -1,0 +1,64 @@
+{
+    "activityid": 55900,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Machine Learning Activity-Based Costing: Can Activity-Based Costing's First-Stage Allocation Be Replaced with a Neural Network?",
+        "Journal": "Journal of Emerging Technologies in Accounting",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086407",
+    "coauthors": {
+        "322451": {
+            "firstname": "Brian",
+            "middleinitial": "D.",
+            "lastname": "Knox",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086407",
+            "authorid": 322451,
+            "scholarlyactivityid": 55900
+        }
+    },
+    "status": [
+        {
+            "id": 55900,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 55900,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 55900,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114086407",
+    "attachments": []
+}

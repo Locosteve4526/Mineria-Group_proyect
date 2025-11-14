@@ -1,0 +1,75 @@
+{
+    "activityid": 32826,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "\u201cPulse Shape and Timing Dependence on the Spike-Timing Dependent Plasticity Response of Ion-Conducting Memristors as Synapses\u201d",
+        "Journal": "Frontiers in Bioengineering and Biotechnology",
+        "Volume": "4(pt. B)",
+        "Month / Season": "December",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Ion-conducting memristors comprised of the layered materials Ge2Se3/SnSe/Ag are\r\npromising candidates for neuromorphic computing applications. Here, the spike-timing\r\ndependent plasticity (STDP) application is demonstrated for the first time with a single\r\nmemristor type operating as a synapse over a timescale of 10 orders of magnitude,\r\nfrom nanoseconds through seconds. This large dynamic range allows the memristors\r\nto be useful in applications that require slow biological times, as well as fast times such\r\nas needed in neuromorphic computing, thus allowing multiple functions in one design\r\nfor one memristor type\u2014a \u201cone size fits all\u201d approach. This work also investigated the\r\neffects of varying the spike pulse shapes on the STDP response of the memristors.\r\nThese results showed that small changes in the pre- and postsynaptic pulse shape\r\ncan have a significant impact on the STDP. These results may provide circuit designers\r\nwith insights into how pulse shape affects the actual memristor STDP response and\r\naid them in the design of neuromorphic circuits and systems that can take advantage\r\nof certain features in the memristor STDP response that are programmable via the preand\r\npostsynaptic pulse shapes. In addition, the energy requirement per memristor is\r\napproximated based on the pulse shape and timing responses. The energy requirement\r\nestimated per memristor operating on slower biological timescales (milliseconds to seconds)\r\nis larger (nanojoules range), as expected, than the faster (nanoseconds) operating\r\ntimes (~0.1 pJ in some cases). Lastly, the memristors responded in a similar manner\r\nunder normal STDP conditions (pre- and post-spikes applied to opposite memristor\r\nterminals) as they did to the case where a waveform corresponding to the difference\r\nbetween pre- and post-spikes was applied to only one electrode, with the other electrode\r\nheld at ground potential. By applying the difference signal to only one terminal,\r\ntesting of the memristor in various applications can be achieved with a simplified test\r\nset-up, and thus be easier to accomplish in most laboratories.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142534": {
+            "firstname": "Kristy",
+            "middleinitial": "A",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112017702",
+            "authorid": 142534,
+            "scholarlyactivityid": 32826,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142535": {
+            "firstname": "Kolton",
+            "middleinitial": "",
+            "lastname": "Drake",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142535,
+            "scholarlyactivityid": 32826,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "142536": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142536,
+            "scholarlyactivityid": 32826,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32826,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

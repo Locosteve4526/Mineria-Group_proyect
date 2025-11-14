@@ -1,0 +1,63 @@
+{
+    "activityid": 32241,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Connecting Hardware and Software in a Middle School Engineering Outreach Effort",
+        "Name of Conference": "ASEE 123rd Annual Conference &amp; Exposition",
+        "Month / Season": "June 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "123835": {
+            "firstname": "Noah",
+            "middleinitial": "",
+            "lastname": "Salzman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 123835,
+            "scholarlyactivityid": 32241,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "123836": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123836,
+            "scholarlyactivityid": 32241,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32241,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

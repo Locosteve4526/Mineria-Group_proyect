@@ -1,0 +1,60 @@
+{
+    "activityid": 29707,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Parameter Estimation for HVAC System Models from Standard Test Data",
+        "Name of Conference": "ASME 2016 International Mechanical Engineering Congress &amp; Exposition",
+        "Month / Season": "November 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "IMECE2016-66809",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643302",
+    "coauthors": {
+        "104737": {
+            "firstname": "Hannah",
+            "middleinitial": "",
+            "lastname": "Luthman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 104737,
+            "scholarlyactivityid": 29707,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "104738": {
+            "firstname": "John",
+            "middleinitial": "F",
+            "lastname": "Gardner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643302",
+            "authorid": 104738,
+            "scholarlyactivityid": 29707
+        }
+    },
+    "status": [
+        {
+            "id": 29707,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643302",
+    "attachments": []
+}

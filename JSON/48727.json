@@ -1,0 +1,66 @@
+{
+    "activityid": 48727,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Work in Progress: First-Year Engineering and General Education Intersection ",
+        "Name of Conference": "American Society for Engineering Education Conference",
+        "Month / Season": "June 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045153",
+    "coauthors": {
+        "226075": {
+            "firstname": "Sondra",
+            "middleinitial": "M",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045153",
+            "authorid": 226075,
+            "scholarlyactivityid": 48727
+        },
+        "226076": {
+            "firstname": "Courtney",
+            "middleinitial": "E",
+            "lastname": "Hollar",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112132134",
+            "authorid": 226076,
+            "scholarlyactivityid": 48727
+        }
+    },
+    "status": [
+        {
+            "id": 48727,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 48727,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112045153",
+    "attachments": []
+}

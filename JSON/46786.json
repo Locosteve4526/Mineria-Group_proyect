@@ -1,0 +1,85 @@
+{
+    "activityid": 46786,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Formal specification and verification of user-centric privacy policies for ubiquitous systems",
+        "Name of Conference": "Proceedings of the 23rd International Database Applications &amp; Engineering Symposium",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://dl.acm.org/doi/abs/10.1145/3331076.3331105",
+        "Description/Abstract": "As our society has become more information oriented, each individual is expressed, defined, and impacted by information and information technology. While valuable, the current state-of-the-art mostly are designed to protect the enterprise/ organizational privacy requirements and leave the main actor, i.e., the user, un-involved or with the limited ability to have control over his/her information sharing practices. In order to overcome these limitations, algorithms and tools that provide a user-centric privacy management system to individuals with different privacy concerns are required to take into the consideration the dynamic nature of privacy policies which are constantly changing based on the information sharing context and environmental variables. This paper extends the concept of contextual integrity to provide mathematical models and algorithms that enables the creations and management of privacy norms for individual users. The extension includes the augmentation of environmental variables, i.e. time, date, etc. as part of the privacy norms, while introducing an abstraction and a partial relation over information attributes. Further, a formal verification technique is proposed to ensure privacy norms are enforced for each information sharing action.",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114068806",
+    "coauthors": {
+        "214670": {
+            "firstname": "Rezvan",
+            "middleinitial": "",
+            "lastname": "Joshaghani",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 214670,
+            "scholarlyactivityid": 46786
+        },
+        "214671": {
+            "firstname": "Stacy",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 214671,
+            "scholarlyactivityid": 46786
+        },
+        "214672": {
+            "firstname": "Elena",
+            "middleinitial": "",
+            "lastname": "Sherman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 214672,
+            "scholarlyactivityid": 46786
+        },
+        "214673": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 214673,
+            "scholarlyactivityid": 46786
+        }
+    },
+    "status": [
+        {
+            "id": 46786,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114068806",
+    "attachments": [
+        {
+            "attachmentid": 19750,
+            "mimetype": "application/pdf",
+            "filename": "Formal specification and verification of user-centric privacy policies for ubiquitous systems.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitaMllCYmRKQ0dlR1VJSUZPengrWEJ1UGk0Y2ErK3RYRGp6cG1VTFVCV1I1eDRYMVZBaXZNd2twK0J1RHFoT1pISzkvWWQwQTZuNDBOWk82WDZDZEM4WFNzRGpHd1JHbi9CUlIwTXNYUnhSOEt3RWZZTXpJWnBCRUdROVkrSXM0Rzk2MkQ5aCtDVldNbDhMUndZOEU2dkJJMk1jL0xYbzRxOD0%3D",
+            "filesize": 770988
+        }
+    ]
+}

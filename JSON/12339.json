@@ -1,0 +1,42 @@
+{
+    "activityid": 12339,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Poetry reading",
+        "Conference/Meeting Name": "Thunder Sky",
+        "Conference Location": "Cincinnati",
+        "Date or Date Range": "2013-05-18",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Poet Dana Ward",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "56432": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 56432,
+            "scholarlyactivityid": 12339
+        }
+    },
+    "status": [
+        {
+            "id": 12339,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 23619,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Effect of \u201cGround Truth\u201d on Image Binarization",
+        "Name of Conference": "Proc. Document Analysis Systems",
+        "Month / Season": "2012-03-27",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "250-254",
+        "Publisher": "",
+        "Publisher Location": " Gold Coast, Queensland, Australia",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1109/DAS.2012.32",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/196",
+        "Description/Abstract": "Image binarization has a large effect on the rest of the document image analysis processes in character recognition. Algorithm development is still a major focus of research. Evaluation of image binarization has been done by comparison of the result of OCR systems on images binarized by different methods. That has been criticized in that the binarization alone is not evaluated, but rather how it interacts with the downstream processes. Recently pixel accurate &quot;ground truth&quot; images have been introduced for use in binarization algorithm evaluation. This has been shown to be open to interpretation. The choice of binarization ground truth affects the binarization algorithm design, either directly if design is by automated algorithm trying to match the provided ground truth, or indirectly if human designers adjust their designs to perform better on the provided data. Three variations in pixel accurate ground truth were used to train a binarization classifier. The performance can vary significantly depending on choice of ground truth, which can influence binarization design choices.\r\n\r\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142258": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142258,
+            "scholarlyactivityid": 23619,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142259": {
+            "firstname": "Chang",
+            "middleinitial": "",
+            "lastname": "An",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142259,
+            "scholarlyactivityid": 23619,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 23619,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

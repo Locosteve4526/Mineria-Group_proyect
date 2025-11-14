@@ -1,0 +1,100 @@
+{
+    "activityid": 46510,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Gene-Culture Co-evolutionary Perspectives on Human Success",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Oxford University Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113160599",
+    "coauthors": {
+        "312099": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Demps",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113160599",
+            "authorid": 312099,
+            "scholarlyactivityid": 46510,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312100": {
+            "firstname": "Pete",
+            "middleinitial": "",
+            "lastname": "Richerson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312100,
+            "scholarlyactivityid": 46510,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46510,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46510,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 46510,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 46510,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 46510,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113160599",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 40044,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Image Processing with Crayons",
+        "Journal": null,
+        "Volume": null,
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": null,
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114058343",
+    "coauthors": {
+        "174637": {
+            "firstname": "Jerry",
+            "middleinitial": "Alan",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174637,
+            "scholarlyactivityid": 40044
+        },
+        "174638": {
+            "firstname": "D",
+            "middleinitial": "R",
+            "lastname": "Olsen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174638,
+            "scholarlyactivityid": 40044
+        }
+    },
+    "status": [
+        {
+            "id": 40044,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2003,
+            "termid": "2003/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058343",
+    "attachments": []
+}

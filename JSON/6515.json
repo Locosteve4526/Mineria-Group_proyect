@@ -1,0 +1,76 @@
+{
+    "activityid": 6515,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A High-Resolution Finite-Difference Method for Simulating Two-Fluid, Viscoelastic Gel Dynamics",
+        "Journal": "Journal of Non-Newtonian Fluid Mechanics",
+        "Volume": "166",
+        "Month / Season": "2011-10-01",
+        "Issue Number": "19-20",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.jnnfm.2011.07.002",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/68",
+        "Description/Abstract": "An important class of gels are those composed of a polymer network and  fluid solvent. The mechanical and rheological properties of these  two-fluid gels can change dramatically in response to temperature,  stress, and chemical stimulus. Because of their adaptivity, these gels  are important in many biological systems, e.g. gels make up the  cytoplasm of cells and the mucus in the respiratory and digestive  systems, and they are involved in the formation of blood clots. In this  study we consider a mathematical model for gels that treats the network  phase as a viscoelastic fluid with spatially and temporally varying  material parameters and treats the solvent phase as a viscous Newtonian  fluid. The dynamics are governed by a coupled system of time-dependent  partial differential equations which consist of transport equations for  the two phases, constitutive equations for the viscoelastic stresses,  two coupled momentum equations for the velocity fields of the two  fluids, and a volume-averaged incompressibility constraint. We present a  numerical method based on a staggered grid, second order  finite-difference discretization of the momentum equations and a  high-resolution unsplit Godunov method for the transport equations. The  momentum and incompressibility equations are solved in a coupled manner  with the Generalized Minimum Residual (GMRES) method using a multigrid  preconditioner based on box-relaxation. We present results on the  accuracy and robustness of the method together with an illustration of  the interesting behavior of this gel model for the four-roll mill  problem.",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "20294": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 20294,
+            "scholarlyactivityid": 6515
+        },
+        "20295": {
+            "firstname": "Robert",
+            "middleinitial": "D.",
+            "lastname": "Guy",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20295,
+            "scholarlyactivityid": 6515
+        },
+        "20296": {
+            "firstname": "Jian",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20296,
+            "scholarlyactivityid": 6515
+        },
+        "20297": {
+            "firstname": "Aaron",
+            "middleinitial": "L.",
+            "lastname": "Fogelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20297,
+            "scholarlyactivityid": 6515
+        }
+    },
+    "status": [
+        {
+            "id": 6515,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

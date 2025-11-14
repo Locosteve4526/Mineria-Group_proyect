@@ -1,0 +1,56 @@
+{
+    "activityid": 31920,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Kinetic cooperativity of human liver alcohol dehydrogenase gamma(2)",
+        "Journal": "The Journal of biological chemistry",
+        "Volume": "275",
+        "Month / Season": null,
+        "Issue Number": "16",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Page Numbers": "11569-75",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Previous studies showed that natural human liver alcohol dehydrogenase gamma exhibits negative cooperativity (substrate activation) with ethanol. Studies with the recombinant gamma(2) isoenzyme now confirm that observation and show that the saturation kinetics with other alcohols are also nonhyperbolic, whereas the kinetics for reactions with NAD(+), NADH, and acetaldehyde are hyperbolic. The substrate activation with ethanol and 1-butanol are explained by an ordered mechanism with an abortive enzyme-NADH-alcohol complex that releases NADH more rapidly than does the enzyme-NADH complex. In contrast, high concentrations of cyclohexanol produce noncompetitive substrate inhibition against varied concentrations of NAD(+) and decrease the maximum velocity to 25% of the value that is observed at optimal concentrations of cyclohexanol. Transient kinetics experiments show that cyclohexanol inhibition is due to a slower rate of dissociation of NADH from the abortive enzyme-NADH-cyclohexanol complex than from the enzyme-NADH complex. Fluorescence quenching experiments confirm that the alcohols bind to the enzyme-NADH complex. The nonhyperbolic saturation kinetics for oxidation of ethanol, cyclohexanol, and 1-butanol are quantitatively explained with the abortive complex mechanism. Physiologically relevant concentrations of ethanol would be oxidized predominantly by the abortive complex pathway.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "111643674",
+    "coauthors": {
+        "121421": {
+            "firstname": "H ",
+            "middleinitial": "A",
+            "lastname": "Charlier",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121421,
+            "scholarlyactivityid": 31920
+        },
+        "121422": {
+            "firstname": "B ",
+            "middleinitial": "V",
+            "lastname": "Plapp",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121422,
+            "scholarlyactivityid": 31920
+        }
+    },
+    "status": [
+        {
+            "id": 31920,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2000,
+            "termid": "1999/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643674",
+    "attachments": []
+}

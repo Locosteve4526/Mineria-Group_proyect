@@ -1,0 +1,94 @@
+{
+    "activityid": 67648,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Resolving complex infrasound wavefields using a dense array and multiple-source beamforming",
+        "Journal": "Science",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110034",
+    "coauthors": {
+        "307435": {
+            "firstname": "Jacob",
+            "middleinitial": "F",
+            "lastname": "Anderson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114001444",
+            "authorid": 307435,
+            "scholarlyactivityid": 67648
+        },
+        "307434": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Liberty",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110034",
+            "authorid": 307434,
+            "scholarlyactivityid": 67648
+        },
+        "307433": {
+            "firstname": "Dylan",
+            "middleinitial": "",
+            "lastname": "Mikesell",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112102731",
+            "authorid": 307433,
+            "scholarlyactivityid": 67648
+        },
+        "307432": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 307432,
+            "scholarlyactivityid": 67648
+        }
+    },
+    "status": [
+        {
+            "id": 67648,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 67648,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 67648,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110034",
+    "attachments": []
+}

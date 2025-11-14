@@ -1,0 +1,63 @@
+{
+    "activityid": 19787,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The use and perceived effectiveness of analytical procedures: A survey",
+        "Name of Conference": "The Allied Academies National Conference",
+        "Month / Season": "1998-04-30",
+        "Actual/Projected Year of Publication/Presentation": 1998,
+        "Page Numbers": null,
+        "Publisher": "The Allied Academies",
+        "Publisher Location": "Myrtle Beach, SC",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112188648",
+    "coauthors": {
+        "134573": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 134573,
+            "scholarlyactivityid": 19787,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134574": {
+            "firstname": "Rebecca",
+            "middleinitial": "L",
+            "lastname": "Steffen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134574,
+            "scholarlyactivityid": 19787,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19787,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1998,
+            "termid": "1997/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188648",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 76823,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Barycentric interpolation formulas for the sphere and the disk",
+        "Journal": "BIT Numerical Mathematics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/2410.05439v1",
+        "Description/Abstract": "Spherical and polar geometries arise in many important areas of computational science, including weather and climate forecasting, optics, and astrophysics. In these applications, tensor-product grids are often used to represent unknowns. However, interpolation schemes that exploit the tensor-product structure can introduce artificial boundaries at the poles in spherical coordinates and at the origin in polar coordinates, leading to numerical challenges, especially for high-order methods. In this paper, we present new bivariate trigonometric barycentric interpolation formulas for spheres and bivariate trigonometric/polynomial barycentric formulas for disks, designed to overcome these issues. These formulas are also efficient, as they only rely on a set of (precomputed) weights that depend on the grid structure and not the data itself. The formulas are based on the Double Fourier Sphere (DFS) method, which transforms the sphere into a doubly periodic domain and the disk into a domain without an artificial boundary at the origin. For standard tensor-product grids, the proposed formulas exhibit exponential convergence when approximating smooth functions. We provide numerical results to demonstrate these convergence rates and showcase an application of the spherical barycentric formulas in a semi-Lagrangian advection scheme for solving the tracer transport equation on the sphere. [Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "342177": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Chiwere",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342177,
+            "scholarlyactivityid": 76823
+        },
+        "342178": {
+            "firstname": "Grady",
+            "middleinitial": "B",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342178,
+            "scholarlyactivityid": 76823
+        }
+    },
+    "status": [
+        {
+            "id": 76823,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

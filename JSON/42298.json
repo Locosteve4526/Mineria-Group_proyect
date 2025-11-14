@@ -1,0 +1,71 @@
+{
+    "activityid": 42298,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A stable algorithm for divergence-free radial basis functions in the flat limit",
+        "Journal": "Journal of Computational Physics",
+        "Volume": "417",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1016/j.jcp.2020.109595",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "238973": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Drake",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238973,
+            "scholarlyactivityid": 42298,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "238974": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 238974,
+            "scholarlyactivityid": 42298,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42298,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42298,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

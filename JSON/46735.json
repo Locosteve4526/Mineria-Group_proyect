@@ -1,0 +1,94 @@
+{
+    "activityid": 46735,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Improving Predictive Modeling for At-Risk Student Identification: A Multi-Stage Approach",
+        "Journal": "IEEE Transactions on Learning Technologies",
+        "Volume": "12",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "148-157",
+        "Publisher": "",
+        "DOI": "DOI: 10.1109/TLT.2019.2911072",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "213398": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 213398,
+            "scholarlyactivityid": 46735
+        },
+        "213397": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 213397,
+            "scholarlyactivityid": 46735
+        },
+        "213396": {
+            "firstname": "Juan",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213396,
+            "scholarlyactivityid": 46735
+        },
+        "213395": {
+            "firstname": "Xu",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213395,
+            "scholarlyactivityid": 46735
+        }
+    },
+    "status": [
+        {
+            "id": 46735,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46735,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 46735,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

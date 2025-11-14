@@ -1,0 +1,76 @@
+{
+    "activityid": 70500,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Improving communication between the geoscience workforce and bachelor-level geoscientists",
+        "Name of Conference": "Idaho Mining Conference",
+        "Month / Season": "October 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "319233": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Shafer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319233,
+            "scholarlyactivityid": 70500,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "319234": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 319234,
+            "scholarlyactivityid": 70500,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319235": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Egger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319235,
+            "scholarlyactivityid": 70500,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70500,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

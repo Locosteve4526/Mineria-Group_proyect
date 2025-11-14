@@ -1,0 +1,55 @@
+{
+    "activityid": 26474,
+    "fields": {
+        "Type": "Book",
+        "Title": "Draft Integrated Cultural Resources Management Plan",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Boise State University",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Boise State University",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/210",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110261",
+    "coauthors": {
+        "84856": {
+            "firstname": "Mark",
+            "middleinitial": "G",
+            "lastname": "Plew",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110261",
+            "authorid": 84856,
+            "scholarlyactivityid": 26474
+        },
+        "84857": {
+            "firstname": "Sharon",
+            "middleinitial": "",
+            "lastname": "Plager",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 84857,
+            "scholarlyactivityid": 26474
+        }
+    },
+    "status": [
+        {
+            "id": 26474,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110261",
+    "attachments": []
+}

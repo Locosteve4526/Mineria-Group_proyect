@@ -1,0 +1,88 @@
+{
+    "activityid": 57817,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Phylogenetics and comparative plastome genomics of two of the largest genera of angiosperms, Piper and Peperomia (Piperaceae).",
+        "Journal": "Molecular Phylogenetics and Evolution",
+        "Volume": "163",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "268151": {
+            "firstname": "Sarah",
+            "middleinitial": "E.",
+            "lastname": "Simmonds",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268151,
+            "scholarlyactivityid": 57817,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268152": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 268152,
+            "scholarlyactivityid": 57817,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268153": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Davidson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268153,
+            "scholarlyactivityid": 57817,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268154": {
+            "firstname": "Sven",
+            "middleinitial": "C",
+            "lastname": "Buerki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088564",
+            "authorid": 268154,
+            "scholarlyactivityid": 57817,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57817,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

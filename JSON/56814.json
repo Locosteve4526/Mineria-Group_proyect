@@ -1,0 +1,88 @@
+{
+    "activityid": 56814,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A randomized controlled trial testing the  efficacy of the eCHECKUP TO GO for high school seniors. ",
+        "Journal": "Substance Use and Misuse",
+        "Volume": "56",
+        "Month / Season": "",
+        "Issue Number": "13",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "1923-1932",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1080/10826084.2021.1958862",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111726552",
+    "coauthors": {
+        "262256": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Doumas",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111726552",
+            "authorid": 262256,
+            "scholarlyactivityid": 56814,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "262257": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Esp",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111336395",
+            "authorid": 262257,
+            "scholarlyactivityid": 56814,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "262258": {
+            "firstname": "Rob",
+            "middleinitial": "",
+            "lastname": "Turrisi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 262258,
+            "scholarlyactivityid": 56814,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "262259": {
+            "firstname": "Laura",
+            "middleinitial": "",
+            "lastname": "Bond",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111996",
+            "authorid": 262259,
+            "scholarlyactivityid": 56814,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 56814,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111726552",
+    "attachments": []
+}

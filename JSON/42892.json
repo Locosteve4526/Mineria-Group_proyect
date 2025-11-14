@@ -1,0 +1,88 @@
+{
+    "activityid": 42892,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "spherepts: A collection of matlab functions for experimenting with different point sets on the sphere",
+        "Outlet (if applicable)": "github",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://github.com/gradywright/spherepts",
+        "Description/Abstract": "A collection of matlab functions for experimenting with different point sets on the sphere. These include minimimal energy points, maximal determinant points, t-designs, icosahedral points, HEALPix points, and spiral points. Various plotting routines are also included for visualizing the point sets, as well as other utilities such as finding K nearest neighbors.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "191616": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 191616,
+            "scholarlyactivityid": 42892,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42892,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42892,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42892,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42892,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42892,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

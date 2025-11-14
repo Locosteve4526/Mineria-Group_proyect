@@ -1,0 +1,72 @@
+{
+    "activityid": 10046,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Core Competencies",
+        "Conference/Meeting Name": "BPD Annual Conference",
+        "Conference Location": "",
+        "Date or Date Range": "2012-03-09",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "BPD",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112050330",
+    "coauthors": {
+        "51969": {
+            "firstname": "Tobi",
+            "middleinitial": "",
+            "lastname": "Delong-Hamilton",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51969,
+            "scholarlyactivityid": 10046
+        },
+        "51970": {
+            "firstname": "Vicky ",
+            "middleinitial": "",
+            "lastname": "Buchan",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51970,
+            "scholarlyactivityid": 10046
+        },
+        "51971": {
+            "firstname": "Brian ",
+            "middleinitial": "",
+            "lastname": "Christenson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51971,
+            "scholarlyactivityid": 10046
+        },
+        "51972": {
+            "firstname": "Roy",
+            "middleinitial": "W",
+            "lastname": "Rodenhiser",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112050330",
+            "authorid": 51972,
+            "scholarlyactivityid": 10046
+        }
+    },
+    "status": [
+        {
+            "id": 10046,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112050330",
+    "attachments": []
+}

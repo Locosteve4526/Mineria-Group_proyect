@@ -1,0 +1,71 @@
+{
+    "activityid": 64772,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;color:#222222;&quot;&gt;The use of process data in educational assessment research: A systematic review.\u00a0&lt;/span&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108320",
+    "coauthors": {
+        "300077": {
+            "firstname": "Ya",
+            "middleinitial": "",
+            "lastname": "Mo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108320",
+            "authorid": 300077,
+            "scholarlyactivityid": 64772,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300078": {
+            "firstname": "Arti",
+            "middleinitial": "",
+            "lastname": "Rainn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300078,
+            "scholarlyactivityid": 64772,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64772,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64772,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114108320",
+    "attachments": []
+}

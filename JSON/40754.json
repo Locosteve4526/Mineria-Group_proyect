@@ -1,0 +1,67 @@
+{
+    "activityid": 40754,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Literacy and LEGO: Developing academic vocabulary with LEGO robotics",
+        "Conference/Meeting Name": "American Educational Research Association Annual Meeting",
+        "Conference Location": "Toronto, CA",
+        "Date or Date Range": "April",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "American Educational Research Association ",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108452",
+    "coauthors": {
+        "178558": {
+            "firstname": "Melissa",
+            "middleinitial": "",
+            "lastname": "Bedford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178558,
+            "scholarlyactivityid": 40754,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "178559": {
+            "firstname": "Hannah",
+            "middleinitial": "",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108452",
+            "authorid": 178559,
+            "scholarlyactivityid": 40754,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40754,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40754,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114108452",
+    "attachments": []
+}

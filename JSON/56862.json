@@ -1,0 +1,66 @@
+{
+    "activityid": 56862,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Meet the Editors Panel Discussion",
+        "Conference/Meeting Name": "2021 EERA Annual Conference",
+        "Conference Location": "Virtual",
+        "Date or Date Range": "02/18/2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "Eastern Educational Research Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114178462",
+    "coauthors": {
+        "263702": {
+            "firstname": "Kristen",
+            "middleinitial": "L",
+            "lastname": "McHenry",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114178462",
+            "authorid": 263702,
+            "scholarlyactivityid": 56862,
+            "classifications": {
+                "Role": "Discussant"
+            }
+        },
+        "263703": {
+            "firstname": "Tracy",
+            "middleinitial": "",
+            "lastname": "Butler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 263703,
+            "scholarlyactivityid": 56862,
+            "classifications": {
+                "Role": "Discussant"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 56862,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114178462",
+    "attachments": [
+        {
+            "attachmentid": 33083,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "filename": "EERA JRE Panel Discussion.pptx",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzloa0J5L0NJaytwNDhGb1ZKSnhqK2xvdEV1SXVvc01RK3dhY2xDZHcxcG5QUXJaMDBUbjZ3QXV1VitKa3VzV2FvU2lCTGlTMkxQVlZBPT0%3D",
+            "filesize": 1005221
+        }
+    ]
+}

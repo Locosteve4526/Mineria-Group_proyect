@@ -1,0 +1,71 @@
+{
+    "activityid": 57955,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Passion &amp; Well-Being in Marathon Runners",
+        "Conference/Meeting Name": "Farmingdale State College's Annual Celebration of Scholarship Conference",
+        "Conference Location": "Farmingdale, NY",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114063271",
+    "coauthors": {
+        "268990": {
+            "firstname": "Derek",
+            "middleinitial": "",
+            "lastname": "Hanson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268990,
+            "scholarlyactivityid": 57955,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "268991": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Samendinger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268991,
+            "scholarlyactivityid": 57955,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "268992": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114063271",
+            "authorid": 268992,
+            "scholarlyactivityid": 57955,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57955,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114063271",
+    "attachments": []
+}

@@ -1,0 +1,93 @@
+{
+    "activityid": 57192,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "In Search of Competence",
+        "Journal": "Journal of Marketing Research",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135517",
+    "coauthors": {
+        "264359": {
+            "firstname": "Niusha",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135578",
+            "authorid": 264359,
+            "scholarlyactivityid": 57192
+        },
+        "264360": {
+            "firstname": "Blair",
+            "middleinitial": "",
+            "lastname": "Kidwell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264360,
+            "scholarlyactivityid": 57192
+        },
+        "264361": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Hamby",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135517",
+            "authorid": 264361,
+            "scholarlyactivityid": 57192
+        }
+    },
+    "status": [
+        {
+            "id": 57192,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 57192,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 57192,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 57192,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114135517",
+    "attachments": []
+}

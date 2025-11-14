@@ -1,0 +1,57 @@
+{
+    "activityid": 33580,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Improving Course Comprehension through Experiential Learning",
+        "Name of Conference": "ASCE Construction Research Congress 2009",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112401",
+    "coauthors": {
+        "132701": {
+            "firstname": "Kirsten",
+            "middleinitial": "A",
+            "lastname": "Davis",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112103256",
+            "authorid": 132701,
+            "scholarlyactivityid": 33580
+        },
+        "132702": {
+            "firstname": "R",
+            "middleinitial": "Casey",
+            "lastname": "Cline",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111112401",
+            "authorid": 132702,
+            "scholarlyactivityid": 33580
+        }
+    },
+    "status": [
+        {
+            "id": 33580,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112401",
+    "attachments": []
+}

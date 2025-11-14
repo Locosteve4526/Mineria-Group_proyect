@@ -1,0 +1,92 @@
+{
+    "activityid": 42223,
+    "fields": {
+        "Type": "Book",
+        "Title": "FAKE NEWS: What English teachers can do about it through the pedagogy of deep critical reading",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Corwin",
+        "Publisher Location": "Thousand Oaks, CA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This book proposes to explore how strategies of literary reading (understanding unreliable narrators, codes of irony) and how current cognitive science (controlling for confirmation bias) can help us to discern and reframe &quot;fake news&quot;.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "209742": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 209742,
+            "scholarlyactivityid": 42223,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "209743": {
+            "firstname": "Deborah",
+            "middleinitial": "",
+            "lastname": "Appleman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209743,
+            "scholarlyactivityid": 42223,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "209744": {
+            "firstname": "Michael",
+            "middleinitial": "William",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209744,
+            "scholarlyactivityid": 42223,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42223,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 42223,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 42223,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

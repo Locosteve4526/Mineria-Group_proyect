@@ -1,0 +1,52 @@
+{
+    "activityid": 12306,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Education technology in the hands of nurse educators: Raising the roof for students and faculty",
+        "Conference/Meeting Name": "Education Summit",
+        "Conference Location": "Washington, DC",
+        "Date or Date Range": "2013-09-21",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "National League for Nursing",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "56361": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 56361,
+            "scholarlyactivityid": 12306
+        },
+        "56362": {
+            "firstname": "Eldon",
+            "middleinitial": "Howard",
+            "lastname": "Walker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111331673",
+            "authorid": 56362,
+            "scholarlyactivityid": 12306
+        }
+    },
+    "status": [
+        {
+            "id": 12306,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

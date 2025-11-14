@@ -1,0 +1,84 @@
+{
+    "activityid": 53973,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Active Factor Investing: Hedge Funds vs. the Rest of Us",
+        "Journal": "Review of Financial Economics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114087828",
+    "coauthors": {
+        "327158": {
+            "firstname": "Eddy",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114087828",
+            "authorid": 327158,
+            "scholarlyactivityid": 53973,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "327159": {
+            "firstname": "Jun",
+            "middleinitial": "",
+            "lastname": "Duanmu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327159,
+            "scholarlyactivityid": 53973,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "327160": {
+            "firstname": "Alexey",
+            "middleinitial": "",
+            "lastname": "Malakhov",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327160,
+            "scholarlyactivityid": 53973,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53973,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53973,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114087828",
+    "attachments": []
+}

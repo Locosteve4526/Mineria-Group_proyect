@@ -1,0 +1,52 @@
+{
+    "activityid": 12450,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Enhancing Cross-Disciplinary Education",
+        "Conference/Meeting Name": "NSF &quot;Toolbox&quot; Visit",
+        "Conference Location": "Virginia Tech",
+        "Date or Date Range": "2012-09-25",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "NSF",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "56716": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 56716,
+            "scholarlyactivityid": 12450
+        },
+        "56717": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "O'Rourke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56717,
+            "scholarlyactivityid": 12450
+        }
+    },
+    "status": [
+        {
+            "id": 12450,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

@@ -1,0 +1,72 @@
+{
+    "activityid": 2109,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Hydrovolcanic Features",
+        "Journal": "Encyclopedia of Planetary Landforms",
+        "Volume": "2",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "946-951 ",
+        "Publisher": "Springer",
+        "DOI": "10.1007/978-1-4614-3134-3",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111688329",
+    "coauthors": {
+        "113391": {
+            "firstname": "Brittany",
+            "middleinitial": "",
+            "lastname": "Brand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111688329",
+            "authorid": 113391,
+            "scholarlyactivityid": 2109
+        },
+        "113392": {
+            "firstname": "Petr",
+            "middleinitial": "",
+            "lastname": "Broz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113392,
+            "scholarlyactivityid": 2109,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "113393": {
+            "firstname": "Henrik",
+            "middleinitial": "",
+            "lastname": "Hargitai",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113393,
+            "scholarlyactivityid": 2109,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 2109,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111688329",
+    "attachments": []
+}

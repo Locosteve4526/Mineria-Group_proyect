@@ -1,0 +1,81 @@
+{
+    "activityid": 57630,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Letting Loose the Hounds Script",
+        "Name of Performing Group": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Name of Venue/Sponsor": "",
+        "Venue / Sponsor Location (City, State, Country)": "",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "Short script that has been produced and is currently in post production.",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114059338",
+    "coauthors": {
+        "266462": {
+            "firstname": "Ru",
+            "middleinitial": "M",
+            "lastname": "Wood",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114059338",
+            "authorid": 266462,
+            "scholarlyactivityid": 57630
+        },
+        "266463": {
+            "firstname": "Brady",
+            "middleinitial": "",
+            "lastname": "Udal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 266463,
+            "scholarlyactivityid": 57630
+        },
+        "266464": {
+            "firstname": "Mitch",
+            "middleinitial": "",
+            "lastname": "Wieland",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 266464,
+            "scholarlyactivityid": 57630
+        }
+    },
+    "status": [
+        {
+            "id": 57630,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 57630,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 57630,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114059338",
+    "attachments": []
+}

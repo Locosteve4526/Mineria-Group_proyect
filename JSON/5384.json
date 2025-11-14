@@ -1,0 +1,65 @@
+{
+    "activityid": 5384,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Selective Games on Binary Relations",
+        "Journal": "Topology and its Applications",
+        "Volume": "192",
+        "Month / Season": "2014-09-04",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "58 - 83",
+        "Publisher": "ScienceDirect",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.sciencedirect.com/science/article/pii/S0166864115002503",
+        "Description/Abstract": "We present a unified approach, based on dominating families in binary relations, for the study of topological properties defined in terms of selection principles and the games associated to them. Among other applications, this general framework allows us to obtain a number of results on the preservation of such properties in products provided that the second player has a winning strategy in the associated game played on one of the coordinate spaces.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "174833": {
+            "firstname": "Rodrigo",
+            "middleinitial": "R",
+            "lastname": "Dias",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174833,
+            "scholarlyactivityid": 5384
+        },
+        "174834": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 174834,
+            "scholarlyactivityid": 5384
+        }
+    },
+    "status": [
+        {
+            "id": 5384,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 5384,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 5592,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Sibling Influence on Physical Activity and Sports Participation",
+        "Journal": "Strategies: A Journal for Physical and Sport Educators",
+        "Volume": "29(4)",
+        "Month / Season": "2015-11-30",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "24-28",
+        "Publisher": "SHAPE America",
+        "DOI": "10.1080/08924562.2016.1181593",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111669892",
+    "coauthors": {
+        "110729": {
+            "firstname": "Chelsea",
+            "middleinitial": "",
+            "lastname": "Allbaugh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 110729,
+            "scholarlyactivityid": 5592
+        },
+        "110730": {
+            "firstname": "Nicole",
+            "middleinitial": "",
+            "lastname": "Bolter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113143130",
+            "authorid": 110730,
+            "scholarlyactivityid": 5592
+        },
+        "110731": {
+            "firstname": "Jane",
+            "middleinitial": "Marie",
+            "lastname": "Shimon",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669892",
+            "authorid": 110731,
+            "scholarlyactivityid": 5592
+        }
+    },
+    "status": [
+        {
+            "id": 5592,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 5592,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111669892",
+    "attachments": []
+}

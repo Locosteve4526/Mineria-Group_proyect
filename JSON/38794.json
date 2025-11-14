@@ -1,0 +1,82 @@
+{
+    "activityid": 38794,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Using digital image correlation with finite element analysis to test the validity of meniscus damage models",
+        "Name of Conference": "World Congress of Biomechanics",
+        "Month / Season": "Summer",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "202700": {
+            "firstname": "Edgar",
+            "middleinitial": "Rios",
+            "lastname": "Soltero",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202700,
+            "scholarlyactivityid": 38794,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "202701": {
+            "firstname": "Derek",
+            "middleinitial": "Q",
+            "lastname": "Nesbitt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202701,
+            "scholarlyactivityid": 38794,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "202702": {
+            "firstname": "Trevor",
+            "middleinitial": "Justin",
+            "lastname": "Lujan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113124248",
+            "authorid": 202702,
+            "scholarlyactivityid": 38794
+        }
+    },
+    "status": [
+        {
+            "id": 38794,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 38794,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

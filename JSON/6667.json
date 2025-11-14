@@ -1,0 +1,56 @@
+{
+    "activityid": 6667,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical Approximation of Time Domain Electromagnetic Scattering",
+        "Journal": "Numerical Algorithms",
+        "Volume": "30",
+        "Month / Season": "2002-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "25-36",
+        "Publisher": "Springer",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We present two new stable schemes for computing the current induced on the surface of a thin wire by an incident time-dependent electromagnetic field. The problem involves solving a retarded potential integral equation (RPIE). One algorithm solves the previously studied reduced kernel RPIE problem, and the other solves the more complicated exact kernel RPIE problem (for which there are no previous numerical results). Both algorithms behave stably for arbitrarily chosen values of the mesh size. Test experiments and numerically computed values of the induced current are presented.\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20765": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20765,
+            "scholarlyactivityid": 6667
+        },
+        "20766": {
+            "firstname": "Penny",
+            "middleinitial": "J.",
+            "lastname": "Davies",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20766,
+            "scholarlyactivityid": 6667
+        }
+    },
+    "status": [
+        {
+            "id": 6667,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2002,
+            "termid": "2002/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

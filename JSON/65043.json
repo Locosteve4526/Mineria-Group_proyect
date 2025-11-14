@@ -1,0 +1,89 @@
+{
+    "activityid": 65043,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Towards Deanonymization of Mixing Services in Bitcoin",
+        "Name of Conference": "IEEE Global Emerging Technologies Blockchain (GET Blockchain)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "302003": {
+            "firstname": "Ch\u00e1beli",
+            "middleinitial": "",
+            "lastname": "Casta\u00f1o",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302003,
+            "scholarlyactivityid": 65043,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "302004": {
+            "firstname": "Roberto",
+            "middleinitial": "",
+            "lastname": "Luna-Garcia",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302004,
+            "scholarlyactivityid": 65043,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "302005": {
+            "firstname": "Steve",
+            "middleinitial": "",
+            "lastname": "Cutchin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114011359",
+            "authorid": 302005,
+            "scholarlyactivityid": 65043,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "302006": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 302006,
+            "scholarlyactivityid": 65043,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 65043,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

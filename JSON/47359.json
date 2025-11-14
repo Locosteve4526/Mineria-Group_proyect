@@ -1,0 +1,62 @@
+{
+    "activityid": 47359,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "THE STUDENT-UNIVERSITY RELATIONSHIP AND ACCESS TO STUDENT ONLINE ACTIVITY",
+        "Journal": "Connecticut Public Interest Law Journal",
+        "Volume": "19",
+        "Month / Season": "Spring",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "45-91",
+        "Publisher": "University of Connecticut School of Law",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://cpilj.law.uconn.edu/wp-content/uploads/sites/2515/2020/03/CPILJ-19.1-The-Student-University-Relationship-and-Access-to-Student-Online-Activity-by-Ruth-Jebe-and-Susan-Park.pdf",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065992",
+    "coauthors": {
+        "303747": {
+            "firstname": "Ruth",
+            "middleinitial": "",
+            "lastname": "Jebe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065992",
+            "authorid": 303747,
+            "scholarlyactivityid": 47359,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "303748": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Park",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 303748,
+            "scholarlyactivityid": 47359,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47359,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114065992",
+    "attachments": []
+}

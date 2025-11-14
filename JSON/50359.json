@@ -1,0 +1,61 @@
+{
+    "activityid": 50359,
+    "fields": {
+        "Type": "Case Study",
+        "Title of Contribution": "Energy Analysis Report for Science Building",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Date Published": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "Author": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643302",
+    "coauthors": {
+        "233863": {
+            "firstname": "Sukjoon",
+            "middleinitial": "",
+            "lastname": "Oh",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114089950",
+            "authorid": 233863,
+            "scholarlyactivityid": 50359
+        },
+        "233862": {
+            "firstname": "John",
+            "middleinitial": "F",
+            "lastname": "Gardner",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111643302",
+            "authorid": 233862,
+            "scholarlyactivityid": 50359
+        }
+    },
+    "status": [
+        {
+            "id": 50359,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643302",
+    "attachments": [
+        {
+            "attachmentid": 24393,
+            "mimetype": "application/pdf",
+            "filename": "Preliminary results_Energy Analysis Report for Science Building_20190530.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yU2RTR3B3alI5d1VWMWdiRmhLS05Wc2dyZjlPUjlpM1l6ZHZEakFraDQzR0dxQnFZeW85OFFYdmswc25ENlBTTW9Yb0RPOS8rR0xSaSsvMDhaT3VLM2FrM3RIVkdiVTc0S2REaXpraGpoVDhlN1Q0SHFsWlVxS2lHL2dNSy9VN1E9",
+            "filesize": 914217
+        }
+    ]
+}

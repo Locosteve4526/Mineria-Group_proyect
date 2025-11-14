@@ -1,0 +1,85 @@
+{
+    "activityid": 53607,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Learning Preference\uff1aDevelopment in Smart Learning Environment",
+        "Journal": "Information Discovery and Delivery",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "269228": {
+            "firstname": "Lizhao",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269228,
+            "scholarlyactivityid": 53607,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "269229": {
+            "firstname": "Xu",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269229,
+            "scholarlyactivityid": 53607,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "269230": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 269230,
+            "scholarlyactivityid": 53607,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "269231": {
+            "firstname": "Hao",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269231,
+            "scholarlyactivityid": 53607
+        }
+    },
+    "status": [
+        {
+            "id": 53607,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

@@ -1,0 +1,96 @@
+{
+    "activityid": 21753,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Time Allocation and Workload Knowledge Study",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Role:  Supporting",
+        "Origin": "Other"
+    },
+    "facultyid": "113107763",
+    "coauthors": {
+        "117250": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Ziker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111715805",
+            "authorid": 117250,
+            "scholarlyactivityid": 21753
+        },
+        "117251": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Nolin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113160606",
+            "authorid": 117251,
+            "scholarlyactivityid": 21753
+        },
+        "117252": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Demps",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113160599",
+            "authorid": 117252,
+            "scholarlyactivityid": 21753
+        }
+    },
+    "status": [
+        {
+            "id": 21753,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 21753,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 21753,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 21753,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113107763",
+    "attachments": []
+}

@@ -1,0 +1,83 @@
+{
+    "activityid": 42719,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Teacher, Mentor and Teacher Education",
+        "Book Title": "Handbook of Research on Innovative Pedagogies and best Practices in Teacher Education",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "IGI Global ",
+        "Publisher Location": "Hershey, PA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Sagini Keengwe",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112125622",
+    "coauthors": {
+        "249913": {
+            "firstname": "Arturo",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112125622",
+            "authorid": 249913,
+            "scholarlyactivityid": 42719
+        },
+        "249914": {
+            "firstname": "Matthew",
+            "middleinitial": "David",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 249914,
+            "scholarlyactivityid": 42719,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "249915": {
+            "firstname": "Kevin",
+            "middleinitial": "Russel",
+            "lastname": "Magill",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 249915,
+            "scholarlyactivityid": 42719,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42719,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42719,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "112125622",
+    "attachments": []
+}

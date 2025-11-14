@@ -1,0 +1,58 @@
+{
+    "activityid": 59361,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Creating an Inclusive Learning Environment in Electrical Engineering Circuits Undergraduate Laboratories: A LabView Interface for Laboratory Test Equipment for the Visually Impaired",
+        "Conference / Meeting Name": "URS 2020",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "April 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "https://scholarworks.boisestate.edu/under_showcase_2020/8/",
+        "Description/Abstract": "We have developed a test and measurement module that interfaces LabView [1] software with the common undergraduate laboratory test equipment including a digital oscilloscope, waveform generator, and multimeter. The interface converts the measurement data from a monitor display to a spoken readout for a visually impaired student. This interface is flexible and can be adapted to any piece of laboratory test equipment. This poster presentation includes a demonstration of a multimeter readout of a circuit, using the student version of the Digilent Analog Discovery 2 measurement system. The future goal of this work is to adapt the interface to include all Boise State University Electrical and Computer Engineering undergraduate laboratory test equipment, and to have the interface detect and read the mouse position when it is above an input or readout area on the equipment interface screen.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112017702",
+    "coauthors": {
+        "277195": {
+            "firstname": "Randall",
+            "middleinitial": "A",
+            "lastname": "Bassine",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 277195,
+            "scholarlyactivityid": 59361,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "277196": {
+            "firstname": "Kristy",
+            "middleinitial": "A",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112017702",
+            "authorid": 277196,
+            "scholarlyactivityid": 59361,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59361,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112017702",
+    "attachments": []
+}

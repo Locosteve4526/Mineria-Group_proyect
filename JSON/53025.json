@@ -1,0 +1,46 @@
+{
+    "activityid": 53025,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Empirical analysis of RNA robustness and evolution using high-throughput sequencing of ribozyme reactions",
+        "Journal": "Methods (San Diego, Calif.)",
+        "Volume": "106",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "97-104",
+        "Publisher": null,
+        "DOI": "10.1016/j.ymeth.2016.05.014",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "RNA molecules provide a realistic but tractable model of a genotype to phenotype relationship. This relationship has been extensively investigated computationally using secondary structure prediction algorithms. Enzymatic RNA molecules, or ribozymes, offer access to genotypic and phenotypic information in the laboratory. Advancements in high-throughput sequencing technologies have enabled the analysis of sequences in the lab that now rivals what can be accomplished computationally. This has motivated a resurgence of in vitro selection experiments and opened new doors for the analysis of the distribution of RNA functions in genotype space. A body of computational experiments has investigated the persistence of specific RNA structures despite changes in the primary sequence, and how this mutational robustness can promote adaptations. This article summarizes recent approaches that were designed to investigate the role of mutational robustness during the evolution of RNA molecules in the laboratory, and presents theoretical motivations, experimental methods and approaches to data analysis.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114001941",
+    "coauthors": {
+        "247000": {
+            "firstname": "Eric ",
+            "middleinitial": "J",
+            "lastname": "Hayden",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247000,
+            "scholarlyactivityid": 53025
+        }
+    },
+    "status": [
+        {
+            "id": 53025,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001941",
+    "attachments": []
+}

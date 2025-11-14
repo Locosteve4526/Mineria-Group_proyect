@@ -1,0 +1,46 @@
+{
+    "activityid": 1337,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "On the Write Track: 21 Strategies to Prepare Clear &amp; Accurate Documentation",
+        "Journal": "Journal of Emergency Medical Services",
+        "Volume": "26",
+        "Month / Season": "2001-01-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "40-49",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/english_facpubs/192",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111669970",
+    "coauthors": {
+        "3199": {
+            "firstname": "Roger",
+            "middleinitial": "Heathcot",
+            "lastname": "Munger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669970",
+            "authorid": 3199,
+            "scholarlyactivityid": 1337
+        }
+    },
+    "status": [
+        {
+            "id": 1337,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2001,
+            "termid": "2000/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669970",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 12304,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Nursing Students and Technology: Is Virtual Simulation Feasible?",
+        "Conference / Meeting Name": "Western Institute of Nursing Research Conference",
+        "Conference Location": "Salt Lake City, Utah",
+        "Date or Date Range": "2009-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Sponsoring Organization": "Western Institute of Nursing",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "56355": {
+            "firstname": "Craig",
+            "middleinitial": "",
+            "lastname": "Stevens",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56355,
+            "scholarlyactivityid": 12304
+        },
+        "56356": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 56356,
+            "scholarlyactivityid": 12304
+        },
+        "56357": {
+            "firstname": "Maximilian",
+            "middleinitial": "Albert",
+            "lastname": "Veltman",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112127553",
+            "authorid": 56357,
+            "scholarlyactivityid": 12304
+        }
+    },
+    "status": [
+        {
+            "id": 12304,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 1770,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Recognition of Units in Coarse, Unconsolidated Braided-Stream Deposits from Geophysical Log Data with Principal Components Analysis",
+        "Journal": "Geology",
+        "Volume": "25",
+        "Month / Season": "1997-08-01",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 1997,
+        "Page Numbers": "687-690",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1130/0091-7613(1997)025&lt;0687:ROUICU&gt;2.3.CO;2",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/125",
+        "Description/Abstract": "Returns from drilling in unconsolidated cobble and sand aquifers commonly do not identify lithologic changes that may be meaningful for hydrogeologic investigations. Vertical resolution of saturated, Quaternary, coarse braided-stream deposits is significantly improved by interpreting natural gamma (G), epithermal neutron (N), and electromagnetically induced resistivity (IR) logs obtained from wells at the Capital Station site in Boise, Idaho. Interpretation of these geophysical logs is simplified because these sediments are derived largely from high-gamma\u2013producing source rocks (granitics of the Boise River drainage), contain few clays, and have undergone little diagenesis. Analysis of G, N, and IR data from these deposits with principal components analysis provides an objective means to determine if units can be recognized within the braided-stream deposits. In particular, performing principal components analysis on G, N, and IR data from eight wells at Capital Station (1) allows the variable system dimensionality to be reduced from three to two by selecting the two eigenvectors with the greatest variance as axes for principal component scatterplots, (2) generates principal components with interpretable physical meanings, (3) distinguishes sand from cobble-dominated units, and (4) provides a means to distinguish between cobble-dominated units.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4397": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4397,
+            "scholarlyactivityid": 1770
+        },
+        "4398": {
+            "firstname": "Roger",
+            "middleinitial": "H.",
+            "lastname": "Morin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4398,
+            "scholarlyactivityid": 1770
+        }
+    },
+    "status": [
+        {
+            "id": 1770,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1997,
+            "termid": "1997/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

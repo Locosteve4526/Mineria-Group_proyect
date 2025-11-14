@@ -1,0 +1,46 @@
+{
+    "activityid": 6671,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Delay Partial Differential Equations",
+        "Journal": "Scholarpedia",
+        "Volume": "3",
+        "Month / Season": "2008-03-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.4249",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "A delay partial differential equation (DPDE) is an equation which involves\n\n - at least two independent variables,\n - an unknown function of the independent variables,\n - the behavior of the unknown function at some prior value(s) of the independent variable(s),\n - partial derivative(s) of the unknown function with respect to the independent variable(s). \n\nTherefore, a delay partial differential equation differs from a partial differential equation in that it depends not only on the solution at a present stage but also on the solution at some past stage(s). If, additionally, the equation depends on the derivative(s) of the solution at some past stage(s), then it is a neutral delay partial differential equation.\n\nDelay partial differential equations are also called partial functional differential equations as their unknown solutions are used in these equations as functional arguments. ",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20773": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20773,
+            "scholarlyactivityid": 6671
+        }
+    },
+    "status": [
+        {
+            "id": 6671,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

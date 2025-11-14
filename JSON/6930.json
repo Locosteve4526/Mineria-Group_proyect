@@ -1,0 +1,86 @@
+{
+    "activityid": 6930,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "DockoMatic - Automated Ligand Creation and Docking",
+        "Journal": "",
+        "Volume": "3",
+        "Month / Season": "2010-11-08",
+        "Issue Number": "289",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "8-Jan",
+        "Publisher": "BMC Research Notes",
+        "DOI": "http://dx.doi.org/10.1186/1756-0500-3-289",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/chem_facpubs/8",
+        "Description/Abstract": "Background: The application of computational modeling to rationally design drugs and characterize macro biomolecular receptors has proven increasingly useful due to the accessibility of computing clusters and clouds. AutoDock is a well-known and powerful software program used to model ligand to receptor binding interactions. In its current version, AutoDock requires significant amounts of user time to setup and run jobs, and collect results. This paper presents DockoMatic, a user friendly Graphical User Interface (GUI) application that eases and automates the creation and management of AutoDock jobs for high throughput screening of ligand to receptor interactions.\nResults: DockoMatic allows the user to invoke and manage AutoDock jobs on a single computer or cluster, including jobs for evaluating secondary ligand interactions. It also automates the process of collecting, summarizing, and viewing results. In addition, DockoMatic automates creation of peptide ligand .pdb files from strings of single-letter amino acid abbreviations.\nConclusions: DockoMatic significantly reduces the complexity of managing multiple AutoDock jobs by facilitating ligand and AutoDock job creation and management.",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "21484": {
+            "firstname": "Casey",
+            "middleinitial": "W.",
+            "lastname": "Bullock",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21484,
+            "scholarlyactivityid": 6930
+        },
+        "21485": {
+            "firstname": "Reed",
+            "middleinitial": "B.",
+            "lastname": "Jacob",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21485,
+            "scholarlyactivityid": 6930
+        },
+        "21486": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 21486,
+            "scholarlyactivityid": 6930
+        },
+        "21487": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Hampikian",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112032282",
+            "authorid": 21487,
+            "scholarlyactivityid": 6930
+        },
+        "21488": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 21488,
+            "scholarlyactivityid": 6930
+        }
+    },
+    "status": [
+        {
+            "id": 6930,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

@@ -1,0 +1,90 @@
+{
+    "activityid": 10117,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Highly Qualified Teachers",
+        "Conference/Meeting Name": "10th Annual Curriculum and Pedagogy Conference",
+        "Conference Location": "Decatur, Georgia",
+        "Date or Date Range": "2009-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Sponsoring Organization": "CP",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112002071",
+    "coauthors": {
+        "52143": {
+            "firstname": "Jennifer",
+            "middleinitial": "Lynn",
+            "lastname": "Snow-Gerono",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112002071",
+            "authorid": 52143,
+            "scholarlyactivityid": 10117
+        },
+        "52144": {
+            "firstname": "Faith",
+            "middleinitial": "",
+            "lastname": "Beyer-Hansen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52144,
+            "scholarlyactivityid": 10117
+        },
+        "52145": {
+            "firstname": "Alan",
+            "middleinitial": "John",
+            "lastname": "Zenkert",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112124928",
+            "authorid": 52145,
+            "scholarlyactivityid": 10117
+        },
+        "52146": {
+            "firstname": "Anne",
+            "middleinitial": "E",
+            "lastname": "Gregory",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111699285",
+            "authorid": 52146,
+            "scholarlyactivityid": 10117
+        }
+    },
+    "status": [
+        {
+            "id": 10117,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10117,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 10117,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112002071",
+    "attachments": []
+}

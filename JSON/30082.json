@@ -1,0 +1,52 @@
+{
+    "activityid": 30082,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Online course design: A review of national and statewide evaluation instruments",
+        "Conference/Meeting Name": "AECT",
+        "Conference Location": "Las Vegas, NV",
+        "Date or Date Range": "2016-04-06",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Association for Educational Communications &amp; Technology",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083497",
+    "coauthors": {
+        "108530": {
+            "firstname": "Sally",
+            "middleinitial": "",
+            "lastname": "Baldwin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 108530,
+            "scholarlyactivityid": 30082
+        },
+        "108531": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 108531,
+            "scholarlyactivityid": 30082
+        }
+    },
+    "status": [
+        {
+            "id": 30082,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083497",
+    "attachments": []
+}

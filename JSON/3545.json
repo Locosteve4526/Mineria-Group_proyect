@@ -1,0 +1,56 @@
+{
+    "activityid": 3545,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "E-learning in Taiwan: policies, practices, and problems",
+        "Journal": "International Journal of Information and Communication Technology Education",
+        "Volume": "1",
+        "Month / Season": "2006-12-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "I37-52",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "10318": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10318,
+            "scholarlyactivityid": 3545
+        },
+        "10319": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 10319,
+            "scholarlyactivityid": 3545
+        }
+    },
+    "status": [
+        {
+            "id": 3545,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

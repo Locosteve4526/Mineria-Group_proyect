@@ -1,0 +1,76 @@
+{
+    "activityid": 54537,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Print-A-Punch: A 3D printed device to cut dumbbell-shaped specimens from soft tissue for tensile testing",
+        "Journal": "Journal of biomechanics",
+        "Volume": "112",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "110011",
+        "Publisher": null,
+        "DOI": "10.1016/j.jbiomech.2020.110011",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "The failure behavior and mechanical properties of soft tissue can be characterized by conducting uniaxial tensile tests on small sectioned specimens, called test coupons. An ideal coupon geometry for tensile testing is a dumbbell shape (dog-bone), yet the cost and time required to fabricate custom steel punches to cut dumbbell-shaped coupons has hindered their universal application in biomechanics research. In this study, we developed an economical and reliable cutting device that can extract dumbbell-shaped coupons from soft biological tissue. The novel device, called Print-A-Punch, uses three-dimensional (3D) printed components in combination with standard fasteners and replaceable flexible razors. We identified design factors that influence the dimensional accuracy and symmetry of elastomer coupons extracted using this cutting device, and demonstrated its use on bovine meniscus. Advantages of this 3D printed device include a fast fabrication time, low material cost, good accuracy, replaceable blades, and an ability to scale coupon dimensions for specific tissues and experiments. By reducing the cost and time to cut accurate dumbbell-shaped coupons, this technology can facilitate the broad adoption of standard test methods that improve the quality and reproducibility of tensile tests in soft biological tissue. Researchers can freely download a set of STL files from this study to build their own Print-A-Punch device (https://boisestate.edu/coen-ntm/technology/print-a-punch).",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "256326": {
+            "firstname": "Sean ",
+            "middleinitial": "J",
+            "lastname": "Nelson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256326,
+            "scholarlyactivityid": 54537
+        },
+        "256327": {
+            "firstname": "Jaremy J",
+            "middleinitial": "J",
+            "lastname": "Creechley",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256327,
+            "scholarlyactivityid": 54537
+        },
+        "256328": {
+            "firstname": "Madison ",
+            "middleinitial": "E",
+            "lastname": "Wale",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256328,
+            "scholarlyactivityid": 54537
+        },
+        "256329": {
+            "firstname": "Trevor ",
+            "middleinitial": "J",
+            "lastname": "Lujan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256329,
+            "scholarlyactivityid": 54537
+        }
+    },
+    "status": [
+        {
+            "id": 54537,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

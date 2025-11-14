@@ -1,0 +1,98 @@
+{
+    "activityid": 69322,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Pollinator functional traits provide conservation insights for a rare endemic plant",
+        "Journal": "American Journal of Botany",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106013",
+    "coauthors": {
+        "332917": {
+            "firstname": "Clara",
+            "middleinitial": "",
+            "lastname": "Buchholtz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332917,
+            "scholarlyactivityid": 69322,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "332918": {
+            "firstname": "Kelly",
+            "middleinitial": "A",
+            "lastname": "Hopping",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106013",
+            "authorid": 332918,
+            "scholarlyactivityid": 69322,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69322,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 69322,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 69322,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 69322,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 69322,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114106013",
+    "attachments": []
+}

@@ -1,0 +1,89 @@
+{
+    "activityid": 28827,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "How does access to Roger CPA Review materials impact student learning and other outcomes?",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "182892": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 182892,
+            "scholarlyactivityid": 28827,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "182893": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Baxter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114026485",
+            "authorid": 182893,
+            "scholarlyactivityid": 28827,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28827,
+            "status": "Work Discontinued",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 28827,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 28827,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 28827,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

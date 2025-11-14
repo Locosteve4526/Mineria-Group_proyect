@@ -1,0 +1,71 @@
+{
+    "activityid": 36924,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Investigating the CIA (Chemical Index of Alteration): Why parents matter",
+        "Journal": "Geology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2030,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112110324",
+    "coauthors": {
+        "340801": {
+            "firstname": "Matthew",
+            "middleinitial": "J",
+            "lastname": "Kohn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112110324",
+            "authorid": 340801,
+            "scholarlyactivityid": 36924,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "340802": {
+            "firstname": "Jennifer",
+            "middleinitial": "L",
+            "lastname": "Pierce",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111717214",
+            "authorid": 340802,
+            "scholarlyactivityid": 36924,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 36924,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 36924,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112110324",
+    "attachments": []
+}

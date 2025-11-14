@@ -1,0 +1,71 @@
+{
+    "activityid": 30755,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Stable computations with flat radial basis functions using vector-valued rational approximations",
+        "Journal": "Journal of Computational Physics",
+        "Volume": "331",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "137 - 156",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http:////www.sciencedirect.com/science/article/pii/S0021999116306222",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "149023": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 149023,
+            "scholarlyactivityid": 30755,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "149024": {
+            "firstname": "Bengt",
+            "middleinitial": "",
+            "lastname": "Fornberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 149024,
+            "scholarlyactivityid": 30755,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30755,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 30755,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

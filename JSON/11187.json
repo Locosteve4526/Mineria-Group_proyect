@@ -1,0 +1,52 @@
+{
+    "activityid": 11187,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Success with Team-based Projects",
+        "Conference/Meeting Name": "Coffee and Conversation",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "2015-10-09",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Foundational Studies Program",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111673550",
+    "coauthors": {
+        "54168": {
+            "firstname": "Steph",
+            "middleinitial": "",
+            "lastname": "Cox",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 54168,
+            "scholarlyactivityid": 11187
+        },
+        "54169": {
+            "firstname": "Jen",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111673550",
+            "authorid": 54169,
+            "scholarlyactivityid": 11187
+        }
+    },
+    "status": [
+        {
+            "id": 11187,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111673550",
+    "attachments": []
+}

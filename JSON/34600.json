@@ -1,0 +1,94 @@
+{
+    "activityid": 34600,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Facing practice: Insight into teacher educator professional development. ",
+        "Journal": "Studying Teacher Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111308555",
+    "coauthors": {
+        "140604": {
+            "firstname": "Jennifer",
+            "middleinitial": "Lynn",
+            "lastname": "Snow-Gerono",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112002071",
+            "authorid": 140604,
+            "scholarlyactivityid": 34600
+        },
+        "140603": {
+            "firstname": "Sherry",
+            "middleinitial": "",
+            "lastname": "Dismuke",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111346076",
+            "authorid": 140603,
+            "scholarlyactivityid": 34600
+        },
+        "140602": {
+            "firstname": "Serena",
+            "middleinitial": "",
+            "lastname": "Hicks",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111308555",
+            "authorid": 140602,
+            "scholarlyactivityid": 34600
+        },
+        "140601": {
+            "firstname": "Julianne",
+            "middleinitial": "",
+            "lastname": "Wenner",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114046498",
+            "authorid": 140601,
+            "scholarlyactivityid": 34600
+        }
+    },
+    "status": [
+        {
+            "id": 34600,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 34600,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 34600,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111308555",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 37822,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Born Global Firms and Opportunity Identification",
+        "Journal": "Industrial Marketing Management",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643320",
+    "coauthors": {
+        "157656": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "MacDonald",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643320",
+            "authorid": 157656,
+            "scholarlyactivityid": 37822
+        },
+        "157657": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Mattingly",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114027549",
+            "authorid": 157657,
+            "scholarlyactivityid": 37822
+        }
+    },
+    "status": [
+        {
+            "id": 37822,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 37822,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111643320",
+    "attachments": []
+}

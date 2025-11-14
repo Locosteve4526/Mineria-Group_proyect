@@ -1,0 +1,75 @@
+{
+    "activityid": 64206,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using technology and high-impact educational practices (HIPs) to address the equity gap in STEM courses",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114226792",
+    "coauthors": {
+        "296029": {
+            "firstname": "Anna",
+            "middleinitial": "",
+            "lastname": "Land",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226792",
+            "authorid": 296029,
+            "scholarlyactivityid": 64206,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296030": {
+            "firstname": "Alana",
+            "middleinitial": "",
+            "lastname": "Platt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296030,
+            "scholarlyactivityid": 64206,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296031": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Ciganek",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296031,
+            "scholarlyactivityid": 64206,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64206,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114226792",
+    "attachments": []
+}

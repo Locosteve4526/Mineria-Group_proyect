@@ -1,0 +1,45 @@
+{
+    "activityid": 50001,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "The Big Tent",
+        "Name of Venue": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Activity Type": "Radio Show",
+        "Origin": "Manual"
+    },
+    "facultyid": "114082071",
+    "coauthors": {
+        "232099": {
+            "firstname": "Nisha",
+            "middleinitial": "",
+            "lastname": "Bellinger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114082071",
+            "authorid": 232099,
+            "scholarlyactivityid": 50001
+        }
+    },
+    "status": [
+        {
+            "id": 50001,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114082071",
+    "attachments": []
+}

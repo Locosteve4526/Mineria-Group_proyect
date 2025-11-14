@@ -1,0 +1,58 @@
+{
+    "activityid": 25630,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Using the scholarship of teaching and learning to improve learning outcomes",
+        "Book Title": "Handbook of college and university teaching: A global perspective",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Sage",
+        "Publisher Location": "Thousand Oaks, CA USA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "In J. Groccia, M. A. T. Al-Sudairy, &amp; W. Buskist",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "83119": {
+            "firstname": "Regan",
+            "middleinitial": "A. R.",
+            "lastname": "Gurung",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83119,
+            "scholarlyactivityid": 25630
+        },
+        "83120": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 83120,
+            "scholarlyactivityid": 25630
+        }
+    },
+    "status": [
+        {
+            "id": 25630,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

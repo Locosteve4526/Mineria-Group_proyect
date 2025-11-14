@@ -1,0 +1,51 @@
+{
+    "activityid": 10224,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Allan Bloom and the Modern University",
+        "Conference/Meeting Name": "Annual Meeting of the American Political Science Association",
+        "Conference Location": "New Orleans",
+        "Date or Date Range": "2012-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "American Political Science Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643642",
+    "coauthors": {
+        "52401": {
+            "firstname": "Scott",
+            "middleinitial": "E",
+            "lastname": "Yenor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643642",
+            "authorid": 52401,
+            "scholarlyactivityid": 10224
+        }
+    },
+    "status": [
+        {
+            "id": 10224,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 10224,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643642",
+    "attachments": []
+}

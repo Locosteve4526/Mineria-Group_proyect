@@ -1,0 +1,56 @@
+{
+    "activityid": 6638,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Parallel Computations and Numerical Simulations for Nonlinear Systems of Volterra Integro-Differential Equations",
+        "Journal": "Communications in Nonlinear Science and Numerical Simulation",
+        "Volume": "17",
+        "Month / Season": "2012-07-01",
+        "Issue Number": "7",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "3022-3030",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.cnsns.2011.11.006",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/119",
+        "Description/Abstract": "We investigate thalamo-cortical systems that are modeled by nonlinear Volterra integro-differential equations of convolution type. We divide the systems into smaller subsystems in such a way that each of them is solved separately by a processor working independently of other processors results of which are shared only once in the process of computations. We solve the subsystems concurrently in a parallel computing environment and present results of numerical experiments, which show savings in the run time and therefore efficiency of our approach. For our numerical simulations, we apply different numbers np of processors and each case shows that the run time decreases with increasing np. The optimal speed-up is obtained with np=N, where N is the (moderate) number of equations in the thalamo-cortical model.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20700": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Michaels",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110288",
+            "authorid": 20700,
+            "scholarlyactivityid": 6638
+        },
+        "20701": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20701,
+            "scholarlyactivityid": 6638
+        }
+    },
+    "status": [
+        {
+            "id": 6638,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 1665,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Measuring news media literacy",
+        "Journal": "Journal of Media Literacy Education",
+        "Volume": "",
+        "Month / Season": "2014-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113106816",
+    "coauthors": {
+        "92457": {
+            "firstname": "Adam",
+            "middleinitial": "",
+            "lastname": "Maksl",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 92457,
+            "scholarlyactivityid": 1665
+        },
+        "92458": {
+            "firstname": "Seth",
+            "middleinitial": "",
+            "lastname": "Ashley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113106816",
+            "authorid": 92458,
+            "scholarlyactivityid": 1665
+        },
+        "92459": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Craft",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 92459,
+            "scholarlyactivityid": 1665
+        }
+    },
+    "status": [
+        {
+            "id": 1665,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 1665,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113106816",
+    "attachments": []
+}

@@ -1,0 +1,83 @@
+{
+    "activityid": 29230,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Stabilizing a fine twin structure in Ni-Mn-Ga sample by coatings and ion implantation",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "101504": {
+            "firstname": "Kari",
+            "middleinitial": "",
+            "lastname": "Ullakko",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 101504,
+            "scholarlyactivityid": 29230,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "101505": {
+            "firstname": "Markus",
+            "middleinitial": "",
+            "lastname": "Chmielus",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 101505,
+            "scholarlyactivityid": 29230,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "101506": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 101506,
+            "scholarlyactivityid": 29230,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29230,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": [
+        {
+            "attachmentid": 798,
+            "mimetype": "application/pdf",
+            "filename": "2015-Ullakko-Chmielus-Mullner SM 94 40-43.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWpuRllEYTF1bVgzbitPS1psRlk5K2RjZ2JTZFdmU01iZGMwNDNYL0ZVV2UvL1JlamkvZkxnZ1V4MmxJdVVsOTlrU0IxWVQ5RVdBVWZYRnVCdElvS1ZLNkZnRW1aaU15Lw%3D%3D",
+            "filesize": 690155
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "activityid": 46704,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Self-reported eating disorder risk in lean and non-lean NCAA Collegiate Athletes",
+        "Journal": "Eating and Weight Disorders",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://link.springer.com/article/10.1007%2Fs40519-019-00681-0",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112014101",
+    "coauthors": {
+        "213250": {
+            "firstname": "Anna",
+            "middleinitial": "H",
+            "lastname": "McDonald",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213250,
+            "scholarlyactivityid": 46704,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "213251": {
+            "firstname": "Mary",
+            "middleinitial": "Elizabeth",
+            "lastname": "Pritchard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112014101",
+            "authorid": 213251,
+            "scholarlyactivityid": 46704,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "213252": {
+            "firstname": "Mary Kate",
+            "middleinitial": "",
+            "lastname": "McGuire",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213252,
+            "scholarlyactivityid": 46704,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46704,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46704,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "112014101",
+    "attachments": []
+}

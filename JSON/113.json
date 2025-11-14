@@ -1,0 +1,56 @@
+{
+    "activityid": 113,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Challenges of Transparency in Corporate Tax Departments",
+        "Journal": "CPA Journal, The",
+        "Volume": "",
+        "Month / Season": "2007-10-31",
+        "Issue Number": "Oct-07",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "42-49",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112033523",
+    "coauthors": {
+        "309": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Cowan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033523",
+            "authorid": 309,
+            "scholarlyactivityid": 113
+        },
+        "310": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "English",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111591",
+            "authorid": 310,
+            "scholarlyactivityid": 113
+        }
+    },
+    "status": [
+        {
+            "id": 113,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112033523",
+    "attachments": []
+}

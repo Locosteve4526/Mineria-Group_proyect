@@ -1,0 +1,105 @@
+{
+    "activityid": 57907,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Governing Model of Electromagnetic Alteration of Hydraulic Conductivity of Clay",
+        "Journal": "Journal of Geotechnical &amp; Geoenvironmental Engineering ",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "American Society of Civil Engineers (ASCE)",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Because of the dipole properties of water molecules, any electric field can alter the alignment of water dipole molecules and affect the properties of water and, in turn, the permeability of soils to water (otherwise known as hydraulic conductivity). In this paper, the effect of radiofrequency (RF) electromagnetic (EM) waves on the hydraulic conductivity of a bentonite clay is investigated. \nFalling-head permeability tests were performed using a rigid-wall, cylindrical permeameter in the absence and presence of RF waves launched via a CPVC-cased monopole antenna, vertically centered in the permeameter. To prevent interference from outside, to confine the RF wave to the medium, and to control the electric-field pattern, the permeameter was encased within an RF resonant cavity constructed of aluminum mesh. \nThe experimental results showed a correlation between the change in the hydraulic conductivity and the frequency and power characteristics of the RF stimulation. Using RF frequencies of 80, 94, and 153 MHz, seepage flow was sharply decreased for a relatively brief period and then stabilized at a slightly higher hydraulic conductivity, yet lower than that of the unstimulated case. At the frequency of 153 MHz, the test was replicated with a decrease of the input RF power from 30 to 20 W, and then to 10 W. The results revealed that the change in the hydraulic conductivity was larger at the higher input RF-power levels. The electric field was numerically simulated using COMSOL Multiphysics for better three-dimensional (3D) visualization and analysis. Measurements of the electric-field component of RF waves were also performed to map the electric field. Then the numerically simulated electric field was validated against the experimental measurements. A finite-difference numerical forward model of the seepage flow was then developed to obtain a nodal hydraulic conductivity pattern of the medium. The forward model of the RF-stimulated seepage was inverted to find a potential correlation between the hydraulic conductivity and electric-field magnitude.\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "112088556",
+    "coauthors": {
+        "268642": {
+            "firstname": "Holly",
+            "middleinitial": "",
+            "lastname": "Gunderson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268642,
+            "scholarlyactivityid": 57907
+        },
+        "268641": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 268641,
+            "scholarlyactivityid": 57907
+        },
+        "268640": {
+            "firstname": "Pierrette",
+            "middleinitial": "",
+            "lastname": "Iradukunda",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268640,
+            "scholarlyactivityid": 57907
+        },
+        "268639": {
+            "firstname": "Sahba",
+            "middleinitial": "",
+            "lastname": "Azad",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268639,
+            "scholarlyactivityid": 57907
+        },
+        "268638": {
+            "firstname": "Jimmy",
+            "middleinitial": "Jay",
+            "lastname": "Browning",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112088556",
+            "authorid": 268638,
+            "scholarlyactivityid": 57907
+        },
+        "268637": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 268637,
+            "scholarlyactivityid": 57907
+        }
+    },
+    "status": [
+        {
+            "id": 57907,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 57907,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112088556",
+    "attachments": []
+}

@@ -1,0 +1,102 @@
+{
+    "activityid": 57010,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": " Evaluating STEM Course Re-Design Strategies in Light of COVID-19",
+        "Name of Conference": "ASEE Annual Conference",
+        "Month / Season": "July",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113161429",
+    "coauthors": {
+        "263454": {
+            "firstname": "Ulises",
+            "middleinitial": "",
+            "lastname": "Garcia",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 263454,
+            "scholarlyactivityid": 57010,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "263455": {
+            "firstname": "Krishna",
+            "middleinitial": "",
+            "lastname": "Pakala",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113161429",
+            "authorid": 263455,
+            "scholarlyactivityid": 57010,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "263456": {
+            "firstname": "Bhaskar",
+            "middleinitial": "C.S.",
+            "lastname": "Chittoori",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001930",
+            "authorid": 263456,
+            "scholarlyactivityid": 57010,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "263457": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Bairaktarova",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 263457,
+            "scholarlyactivityid": 57010,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "263458": {
+            "firstname": "Samantha",
+            "middleinitial": "",
+            "lastname": "Schauer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 263458,
+            "scholarlyactivityid": 57010,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57010,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113161429",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 51493,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Why do Introns Exist? A data driven Modeling Approach",
+        "Conference / Meeting Name": "Biophysical Society Meeting",
+        "Conference Location": "San Diego",
+        "Date or Date Range": "2/15/2020-2/19/2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002276",
+    "coauthors": {
+        "237893": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "Tisdale",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 237893,
+            "scholarlyactivityid": 51493,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "237894": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Ferguson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002276",
+            "authorid": 237894,
+            "scholarlyactivityid": 51493,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51493,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002276",
+    "attachments": []
+}

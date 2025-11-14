@@ -1,0 +1,75 @@
+{
+    "activityid": 33764,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Quote stuffing",
+        "Journal": "Financial Management",
+        "Volume": "45",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "583--608",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "218723": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218723,
+            "scholarlyactivityid": 33764
+        },
+        "218724": {
+            "firstname": "Bonnie",
+            "middleinitial": "",
+            "lastname": "Van Ness",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218724,
+            "scholarlyactivityid": 33764
+        },
+        "218725": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Van Ness",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218725,
+            "scholarlyactivityid": 33764
+        }
+    },
+    "status": [
+        {
+            "id": 33764,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 33764,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

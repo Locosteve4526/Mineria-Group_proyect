@@ -1,0 +1,56 @@
+{
+    "activityid": 5388,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Cross-Correlation Continuous Capillary Electrophoresis: Resolution, Processing Time, and Concentration Effects",
+        "Journal": "Analytical Chemistry",
+        "Volume": "17",
+        "Month / Season": "2003-09-03",
+        "Issue Number": "19",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "5062-5066",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1021/ac0300183",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/chem_facpubs/30",
+        "Description/Abstract": "An expression is derived that relates the signal-to-noise (S/N) ratio in  continuous-mode electrophoresis to system parameters. In this process,  the time-based cross-correlation function (TCCF) is computed from  signals caused by individual analyte passage through two separate  detectors. As a characteristic of the noise, the cross-variance of the  TCCF is proposed, so that the S/N ratio is defined as the TCCF divided  by the square root of the cross-variance. From the derived expressions,  the important parameters for method optimization are identified. The  dependence of the S/N ratio on system parameters varies with analyte  size due to a contribution from the variance in the flight time, which  is affected by particle diffusion. For all molecules, the S/N increases  with the processing time and the rate at which particles pass through  the detectors. The latter increases with particle concentration and  migration velocity. Lower sample concentrations require a longer  processing time to achieve a specified S/N ratio. For smaller analytes,  the residence time in the detector becomes a factor and, therefore, so  does detector geometry.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111683",
+    "coauthors": {
+        "16373": {
+            "firstname": "Martin",
+            "middleinitial": "E",
+            "lastname": "Schimpf",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111683",
+            "authorid": 16373,
+            "scholarlyactivityid": 5388
+        },
+        "16374": {
+            "firstname": "Semen",
+            "middleinitial": "N.",
+            "lastname": "Semenov",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16374,
+            "scholarlyactivityid": 5388
+        }
+    },
+    "status": [
+        {
+            "id": 5388,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2003,
+            "termid": "2003/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111683",
+    "attachments": []
+}

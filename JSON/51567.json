@@ -1,0 +1,103 @@
+{
+    "activityid": 51567,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Factors Predicting longitudinal changes in suicidal ideation in adolescent women",
+        "Name of Conference": "American Public Health Association",
+        "Month / Season": "October 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114110089",
+    "coauthors": {
+        "286939": {
+            "firstname": "Megan",
+            "middleinitial": "L",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114110089",
+            "authorid": 286939,
+            "scholarlyactivityid": 51567,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "286940": {
+            "firstname": "Josie",
+            "middleinitial": "",
+            "lastname": "Bryant",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 286940,
+            "scholarlyactivityid": 51567,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "286941": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Allan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 286941,
+            "scholarlyactivityid": 51567,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51567,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 51567,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 51567,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 51567,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114110089",
+    "attachments": []
+}

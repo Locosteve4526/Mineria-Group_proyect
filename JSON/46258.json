@@ -1,0 +1,42 @@
+{
+    "activityid": 46258,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Modeling ice/ocean interactions with NUMO",
+        "Conference/Meeting Name": "18th International workshop on Multi-scale (Un)-structured mesh numerical Modeling for coastal, shelf, and global ocean dynamic",
+        "Conference Location": "Santa Fe, NM",
+        "Date or Date Range": "09/23-27/2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Modeling Ice-Ocean Interactions with NUMO.\n\nIce-sheet/ocean interaction in Greenland is one of the key outstanding challenges in climate modeling, yet present-day climate models are not able to resolve fine-scale processes in the fjords.\u00a0This is due to orders of magnitude difference in spatial scales between the open ocean (~1000km) and fjord (&lt;1km) as well as small-scale processes at the glacier terminus (~1m), complicated\u00a0bathymetry and coastline. The most recent computational studies of fjord circulation focused on simplified box-like domains (e.g., Slater et al., 2015).\n\nWe develop the Non-hydrostatic Unified Model of the Ocean (NUMO) to provide the scientific community with a tool capable of simulating ocean circulation in Greenland fjords while accounting for the complex domain geometry and the range of scales. The model uses fully three-dimensional unstructured mesh and high-order element-based Galerkin method to discretize the Boussinesq approximation of incompressible Navier-Stokes equations. A vital aspect of the model is the ability to capture the ice/ocean interface with high-resolution mesh while keeping the remainder of the domain relatively coarse. At the ice/ocean boundary, we model melting by solving three fundamental equations (Hellmer and Olbers, 1989; Holland and Jenkins, 1999) representing freezing-point of seawater dependence of salinity and pressure, and balance of heat and salinity fluxes.\n\nIn this talk, we will discuss the validation of the model on a range of test cases with increasing complexity and present recent developments and challenges. Those include streamlined modeling process from GIS bathymetry information, through 3D geometry modeling, meshing, and simulations.\n\nReferences:\n\nHellmer, H.H., and D. Olbers. 1989. A two- dimensional model for the thermohaline circulation under an ice shelf. Antarctic Science 1:325\u2013336\nHolland, D.M., and A. Jenkins. 1999. Modeling thermodynamic ice-ocean interactions at the base of an ice shelf. Journal of Physical Oceanography 29:1,787\u20131,800\nSlater, D. A., Nienow, P. W., Cowton, T. R., Goldberg, D. N., &amp; Sole, A. J. (2015). Effect of near\u2010terminus subglacial hydrology on tidewater glacier submarine melt rates. Geophysical Research Letters, 42(8), 2861-2868",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108611",
+    "coauthors": {
+        "210904": {
+            "firstname": "Michal",
+            "middleinitial": "A",
+            "lastname": "Kopera",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108611",
+            "authorid": 210904,
+            "scholarlyactivityid": 46258
+        }
+    },
+    "status": [
+        {
+            "id": 46258,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114108611",
+    "attachments": []
+}

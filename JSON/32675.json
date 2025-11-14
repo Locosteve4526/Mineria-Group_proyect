@@ -1,0 +1,80 @@
+{
+    "activityid": 32675,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Hegemonic Leadership, Security Commitments, and Integration in the Liberal International Order",
+        "Journal": "Journal of Politics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113153409",
+    "coauthors": {
+        "201796": {
+            "firstname": "Michael",
+            "middleinitial": "A",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113153409",
+            "authorid": 201796,
+            "scholarlyactivityid": 32675,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "201797": {
+            "firstname": "Michael",
+            "middleinitial": "E",
+            "lastname": "Flynn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201797,
+            "scholarlyactivityid": 32675,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32675,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 32675,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 32675,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113153409",
+    "attachments": []
+}

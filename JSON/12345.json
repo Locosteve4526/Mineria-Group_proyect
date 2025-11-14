@@ -1,0 +1,52 @@
+{
+    "activityid": 12345,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Development of Novel Nucleoside Analog Antibiotics",
+        "Conference/Meeting Name": "INBRE - COBRE Networking Meeting",
+        "Conference Location": "Hampton Inn, Boise ID",
+        "Date or Date Range": "2014-11-17",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "Idaho INBRE - COBRE Matrix Biology",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112033562",
+    "coauthors": {
+        "56438": {
+            "firstname": "Kenneth",
+            "middleinitial": "Allison",
+            "lastname": "Cornell",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033562",
+            "authorid": 56438,
+            "scholarlyactivityid": 12345
+        },
+        "56439": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Thurston",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56439,
+            "scholarlyactivityid": 12345
+        }
+    },
+    "status": [
+        {
+            "id": 12345,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112033562",
+    "attachments": []
+}

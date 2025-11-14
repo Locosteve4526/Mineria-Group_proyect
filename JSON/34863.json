@@ -1,0 +1,75 @@
+{
+    "activityid": 34863,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "\u201cSparsity-based edge noise removal from bilevel graphical document images\u201d",
+        "Journal": "International Journal of Document Analysis and Recognition",
+        "Volume": "17",
+        "Month / Season": "June",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "pp. 161-179",
+        "Publisher": "Springer Verlag",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper presents a new method to remove\r\nedge noise from graphical document images using geometrical\r\nregularities of the graphics contours that exist in the\r\nimages. Denoising is understood as a recovery problem and\r\nis accomplished by employing a sparse representation framework\r\nin the form of a basis pursuit denoising algorithm.\r\nDirectional information of the graphics contours is encoded\r\nby atoms in an overcomplete dictionary which is designed\r\nto match the input data. The optimal precision parameter\r\nused in this framework is shown to have a linear relationship\r\nwith the level of the noise that exists in the image. Experimental\r\nresults show the superiority of the proposed method\r\nover existing ones in terms of image recovery and contour\r\nraggedness.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142228": {
+            "firstname": "Thai",
+            "middleinitial": "V",
+            "lastname": "Hoang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142228,
+            "scholarlyactivityid": 34863,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142229": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142229,
+            "scholarlyactivityid": 34863,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142230": {
+            "firstname": "Salvatore",
+            "middleinitial": "",
+            "lastname": "Tabbone",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142230,
+            "scholarlyactivityid": 34863,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34863,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

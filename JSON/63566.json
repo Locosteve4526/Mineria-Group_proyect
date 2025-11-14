@@ -1,0 +1,84 @@
+{
+    "activityid": 63566,
+    "fields": {
+        "Type": "Book",
+        "Title": "Boucher, Teresa translator. &lt;em&gt;A Gift for Hitler&lt;/em&gt;. By Alberto Irigoyen and Xabier Irujo. Originally published as\u00a0&lt;em&gt;Un regalo para Hitler&lt;/em&gt; in Irun, Spain by Alberdania in 2021.",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110006",
+    "coauthors": {
+        "340167": {
+            "firstname": "Teresa",
+            "middleinitial": "C",
+            "lastname": "Boucher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110006",
+            "authorid": 340167,
+            "scholarlyactivityid": 63566,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63566,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 63566,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 63566,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 63566,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 63566,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110006",
+    "attachments": []
+}

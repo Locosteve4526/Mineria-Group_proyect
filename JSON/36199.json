@@ -1,0 +1,66 @@
+{
+    "activityid": 36199,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Building a community of learners within NAfME collegiate chapters",
+        "Conference/Meeting Name": "Mountain Lake Colloquium ",
+        "Conference Location": "Roanoke, VA",
+        "Date or Date Range": "5/21-5/24",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "Mountain Lake Colloquium",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088739",
+    "coauthors": {
+        "150002": {
+            "firstname": "Michelle",
+            "middleinitial": "M",
+            "lastname": "McConkey",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 150002,
+            "scholarlyactivityid": 36199,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "150003": {
+            "firstname": "Lori",
+            "middleinitial": "F",
+            "lastname": "Gray",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088739",
+            "authorid": 150003,
+            "scholarlyactivityid": 36199,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 36199,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114088739",
+    "attachments": [
+        {
+            "attachmentid": 8048,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filename": "BuildingCommunityLearnersHandout2017.docx",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRithVGtLWitXWDdUM3NwRjVNMXMwVGFHQ0lpYmtRclJ1NVJVQTZwVExvWWFKMmRtOUxaZERUSGhTVjQ3Yys1ZmU4OUQreEJGLzBTMjVsbDVjOWcvQnBWbA%3D%3D",
+            "filesize": 74335
+        }
+    ]
+}

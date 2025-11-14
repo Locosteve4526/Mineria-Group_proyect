@@ -1,0 +1,65 @@
+{
+    "activityid": 57099,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Euskal Ikasketak Boise State Unibertsitatean",
+        "Journal": "Euskonews",
+        "Volume": "",
+        "Month / Season": "Spring",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "Euskonews",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The essay/article \u201cEuskal ikasketak Boise State Unibertsitatean\u201d (Basque Studies at Boise State University)  analyzes the Basque Studies program at Boise State University examining the connection between the Basque Community (here in Boise and the Basque Country) and the formation of the program and the goal of Basque Studies to create global students. ",
+        "Origin": "Manual"
+    },
+    "facultyid": "114111823",
+    "coauthors": {
+        "278507": {
+            "firstname": "Ziortza",
+            "middleinitial": "",
+            "lastname": "Gandarias Beldarrain",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114111823",
+            "authorid": 278507,
+            "scholarlyactivityid": 57099
+        },
+        "278508": {
+            "firstname": "Nere",
+            "middleinitial": "",
+            "lastname": "Lete",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278508,
+            "scholarlyactivityid": 57099
+        }
+    },
+    "status": [
+        {
+            "id": 57099,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 57099,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114111823",
+    "attachments": []
+}

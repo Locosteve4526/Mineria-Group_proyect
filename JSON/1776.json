@@ -1,0 +1,56 @@
+{
+    "activityid": 1776,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling Axially Symmetric and Nonsymmetric Flow to a Well with MODFLOW, and Application to Goddard2 Well Test, Boise, Idaho",
+        "Journal": "Ground Water",
+        "Volume": "35",
+        "Month / Season": "1997-07-01",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 1997,
+        "Page Numbers": "602-611",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1111/j.1745-6584.1997.tb00125.x",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/68",
+        "Description/Abstract": "Tools for analyzing aquifer test data at the pumping or injection well are limited for aquifer conditions that are not axially symmetric about the pumping well. Accurate simulations of head change at a pumping well can be generated with MODFLOW using a discretization scheme that (1) captures steep gradients adjacent to the cell(s) containing the pumping or injection well and (2) approximates radial flow despite rectangular prism well cell(s). This scheme is based on a very small incremental cell width adjacent to the pumping or injection well cell, and then a logarithmic increase in cell width outward with the expansion factor, ?, in the range of 1.2 to 1.5. The validity of this scheme has been demonstrated by comparing model results with analytical solutions and RADMOD (axisymmetric adaptation of MODFLOW) for three radially symmetric confined aquifer scenarios, and with the analytical solution for a nonaxisymmetric confined aquifer scenario. Utility of this scheme is demonstrated with simulation of time-drawdown behavior at the Goddard2 pumping well in Boise, Idaho where four observation wells did not respond during a pumping test and where 28.8 m of drawdown occurred in the pumping well during the first 2 min of the test. The hydrogeologic setting for the test is interpreted to be a partially penetrating well pumping from a sand-stringer aquifer that receives leakage from surrounding finer grained sediments, and includes a fault (no-flow boundary) truncating the aquifer.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4424": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4424,
+            "scholarlyactivityid": 1776
+        },
+        "4425": {
+            "firstname": "Martin",
+            "middleinitial": "E.",
+            "lastname": "Dougherty",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4425,
+            "scholarlyactivityid": 1776
+        }
+    },
+    "status": [
+        {
+            "id": 1776,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1997,
+            "termid": "1997/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

@@ -1,0 +1,96 @@
+{
+    "activityid": 76037,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Neural-driven activation of 3D muscle within a finite element framework: exploring applications in healthy and neurodegenerative simulations",
+        "Journal": "Computer methods in biomechanics and biomedical engineering",
+        "Volume": "27",
+        "Month / Season": null,
+        "Issue Number": "16",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "2389-2399",
+        "Publisher": null,
+        "DOI": "10.1080/10255842.2023.2280772",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "This paper presents a novel computational framework for neural-driven finite element muscle models, with an application to amyotrophic lateral sclerosis (ALS). The multiscale neuromusculoskeletal (NMS) model incorporates physiologically accurate motor neurons, 3D muscle geometry, and muscle fiber recruitment. It successfully predicts healthy muscle force and tendon elongation and demonstrates a progressive decline in muscle force due to ALS, dropping from 203\u2009N (healthy) to 155\u2009N (120\u2009days after ALS onset). This approach represents a preliminary step towards developing integrated neural and musculoskeletal simulations to enhance our understanding of neurodegenerative and neurodevelopmental conditions through predictive NMS models.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "337858": {
+            "firstname": "Colton ",
+            "middleinitial": "D",
+            "lastname": "Babcock",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337858,
+            "scholarlyactivityid": 76037
+        },
+        "337859": {
+            "firstname": "Victoria ",
+            "middleinitial": "L",
+            "lastname": "Volk",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337859,
+            "scholarlyactivityid": 76037
+        },
+        "337860": {
+            "firstname": "Wei",
+            "middleinitial": "",
+            "lastname": "Zeng",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337860,
+            "scholarlyactivityid": 76037
+        },
+        "337861": {
+            "firstname": "Landon ",
+            "middleinitial": "D",
+            "lastname": "Hamilton",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337861,
+            "scholarlyactivityid": 76037
+        },
+        "337862": {
+            "firstname": "Kevin ",
+            "middleinitial": "B",
+            "lastname": "Shelburne",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337862,
+            "scholarlyactivityid": 76037
+        },
+        "337863": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337863,
+            "scholarlyactivityid": 76037
+        }
+    },
+    "status": [
+        {
+            "id": 76037,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

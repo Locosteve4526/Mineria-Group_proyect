@@ -1,0 +1,54 @@
+{
+    "activityid": 70903,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;span&gt;&lt;span style=&quot;font-size:12pt;background-color:transparent;font-style:italic;&quot;&gt;Spanish Conversation&lt;/span&gt;&lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Pressbooks",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://boisestate.pressbooks.pub/spanish301/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113145983",
+    "coauthors": {
+        "321592": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Arispe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113145983",
+            "authorid": 321592,
+            "scholarlyactivityid": 70903
+        }
+    },
+    "status": [
+        {
+            "id": 70903,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 70903,
+            "status": "In Press",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "113145983",
+    "attachments": []
+}

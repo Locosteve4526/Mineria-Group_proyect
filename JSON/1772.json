@@ -1,0 +1,76 @@
+{
+    "activityid": 1772,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Field Comparison of Fresnel Zone and Ray-Based GPR Attenuation-Difference Tomography for Time-Lapse Imaging of Electrically Anomalous Tracer or Contaminant Plumes",
+        "Journal": "Geophysics",
+        "Volume": "72",
+        "Month / Season": "2007-02-07",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "G21\u2013G29",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1190/1.2431638",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/16",
+        "Description/Abstract": "Ground-penetrating radar (GPR) attenuation-difference tomography is a useful tool for imaging the migration of electrically anomalous tracer or contaminant plumes. Attenuation-difference tomography uses the difference in the trace amplitudes of tomographic data sets collected at different times to image the distribution of bulk-conductivity changes within the medium. The most common approach for computing the tomographic sensitivities uses ray theory, which is well understood and leads to efficient computations. However, ray theory requires the assumption that waves propagate at infinite frequency, and thus sensitivities are distributed along a line between the source and receiver. The infinite-frequency assumption in ray theory leads to a significant loss of resolution (both spatially and in terms of amplitude) of the recovered image. We use scattering theory to approximate the sensitivity of electromagnetic (EM) wave amplitude to changes in bulk conductivity within the medium. These sensitivities occupy the first Fresnel zone, account for the finite frequency nature of propagating EM waves, and are valid when velocity variations within the medium do not cause significant ray bending. We evaluate the scattering theory sensitivities by imaging a bromide tracer plume as it migrates through a coarse alluvial aquifer over two successive days. The scattering theory tomograms display a significant improvement in resolution over the ray-based counterparts, as shown by a direct comparison of the tomograms and also by a comparison of the vertical fluid conductivity distribution measured in a monitoring well, located within the tomographic plane. By improving resolution, the scattering theory sensitivities increase the utility of GPR attenuation- difference tomography for monitoring the movement of electrically anomalous plumes. In addition, the improved accuracy of information gathered through attenuation-difference tomography using scattering theory is a positive step toward future developments in using GPR data to help characterize the distribution of hydrogeologic properties",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4406": {
+            "firstname": "Timothy",
+            "middleinitial": "C.",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4406,
+            "scholarlyactivityid": 1772
+        },
+        "4407": {
+            "firstname": "Partha",
+            "middleinitial": "S.",
+            "lastname": "Routh",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4407,
+            "scholarlyactivityid": 1772
+        },
+        "4408": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4408,
+            "scholarlyactivityid": 1772
+        },
+        "4409": {
+            "firstname": "Michael",
+            "middleinitial": "D.",
+            "lastname": "Knoll",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4409,
+            "scholarlyactivityid": 1772
+        }
+    },
+    "status": [
+        {
+            "id": 1772,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

@@ -1,0 +1,66 @@
+{
+    "activityid": 3196,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Eliminating Non-Logical States from Linear Quantum-Dot-Cellular Automata",
+        "Journal": "Microelectronics Journal",
+        "Volume": "32",
+        "Month / Season": "2001-01-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "81-84",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/S0026-2692(00)00107-5",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/physics_facpubs/39",
+        "Description/Abstract": "Quantum-dot-cellular automata are a method of computing with small numbers of electrons. The static shape of a particular automaton corresponds to a problem to be solved while the time-dependent evolution of the distribution of electrons within the automaton corresponds to a computation to solve the problem. The final distribution of electrons within the automaton represents a solution. The robustness of an automaton is characterized as the absolute energy difference between the lowest energy state and the first excited state. For computing IDENTITY, a basis for translating values across a larger system, it is shown that the robustness of the automaton can be improved dramatically by redesigning to eliminate non-logical states. By such redesign, the states that populate the energy levels between the logically correct answer and logically incorrect answers are prohibited, thereby increasing the energy gap between the ground state and the first excited state.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111505",
+    "coauthors": {
+        "9301": {
+            "firstname": "John",
+            "middleinitial": "C.",
+            "lastname": "Lusth",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9301,
+            "scholarlyactivityid": 3196
+        },
+        "9302": {
+            "firstname": "Charles",
+            "middleinitial": "B",
+            "lastname": "Hanna",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111505",
+            "authorid": 9302,
+            "scholarlyactivityid": 3196
+        },
+        "9303": {
+            "firstname": "J.",
+            "middleinitial": "C.",
+            "lastname": "D\u00edaz-V\u00e9lez",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9303,
+            "scholarlyactivityid": 3196
+        }
+    },
+    "status": [
+        {
+            "id": 3196,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2001,
+            "termid": "2000/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111505",
+    "attachments": []
+}

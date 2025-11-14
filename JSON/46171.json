@@ -1,0 +1,58 @@
+{
+    "activityid": 46171,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Increasing Instructor Presence in the Online Classroom",
+        "Conference/Meeting Name": "Northwest eLearning Conference",
+        "Conference Location": "Bend, Oregon",
+        "Date or Date Range": "October 17, 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111673550",
+    "coauthors": {
+        "210515": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111673550",
+            "authorid": 210515,
+            "scholarlyactivityid": 46171,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "210516": {
+            "firstname": "Kim",
+            "middleinitial": "",
+            "lastname": "Carter-Cram",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003158",
+            "authorid": 210516,
+            "scholarlyactivityid": 46171,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46171,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111673550",
+    "attachments": []
+}

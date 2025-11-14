@@ -1,0 +1,78 @@
+{
+    "activityid": 55511,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Global Market Analysis of Microreactors",
+        "Outlet (if applicable)": "",
+        "Date": "July 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Publisher": "US Dept of Energy",
+        "Location of Publisher (City, State, Country)": "Washington, DC, USA",
+        "Issue Number/Edition": "OSTI 1806274",
+        "Page Number or Number of Pages": "147",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "260001": {
+            "firstname": "Geoffrey",
+            "middleinitial": "A",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 260001,
+            "scholarlyactivityid": 55511,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "260002": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Shropshire",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 260002,
+            "scholarlyactivityid": 55511,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "260003": {
+            "firstname": "Kathleen",
+            "middleinitial": "M",
+            "lastname": "Araujo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114107930",
+            "authorid": 260003,
+            "scholarlyactivityid": 55511,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 55511,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

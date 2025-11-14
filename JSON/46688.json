@@ -1,0 +1,143 @@
+{
+    "activityid": 46688,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;&lt;span style=&quot;color:#222222;font-size:12px;&quot;&gt;The Number of Sales Digits as a Window into Future Sales Growth&lt;/span&gt;&lt;/p&gt;",
+        "Journal": "The Accounting Review",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "352972": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 352972,
+            "scholarlyactivityid": 46688,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352973": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Peterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352973,
+            "scholarlyactivityid": 46688,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46688,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 46688,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 46688,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 46688,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 46688,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 46688,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 46688,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 46688,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 46688,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 46688,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 42101,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Notch Heterodimer Complexes have Divergent Functions Compared to NICD Homodimer Complexes",
+        "Conference / Meeting Name": "Experimental Biology 2018",
+        "Conference Location": "San Diego",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113156458",
+    "coauthors": {
+        "187012": {
+            "firstname": "Jacob",
+            "middleinitial": "",
+            "lastname": "Crow",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 187012,
+            "scholarlyactivityid": 42101,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "187013": {
+            "firstname": "Allan",
+            "middleinitial": "",
+            "lastname": "Albig",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113156458",
+            "authorid": 187013,
+            "scholarlyactivityid": 42101,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42101,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113156458",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 46040,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Memory malleability: Falsifying true memories",
+        "Conference / Meeting Name": "Rocky Mountain Psychological Association",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045170",
+    "coauthors": {
+        "209952": {
+            "firstname": "Raeli",
+            "middleinitial": "",
+            "lastname": "Prescott",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209952,
+            "scholarlyactivityid": 46040,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "209953": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045170",
+            "authorid": 209953,
+            "scholarlyactivityid": 46040,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46040,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114045170",
+    "attachments": []
+}

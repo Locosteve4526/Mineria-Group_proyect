@@ -1,0 +1,52 @@
+{
+    "activityid": 13995,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Base rates and information gain",
+        "Conference/Meeting Name": "Annual Meeting of the American Polygraph Association",
+        "Conference Location": "Chicago, Illininois",
+        "Date or Date Range": "2015-09-03",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "American Polygraph Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110183",
+    "coauthors": {
+        "60568": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Honts",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110183",
+            "authorid": 60568,
+            "scholarlyactivityid": 13995
+        },
+        "60569": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Schweinle",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112132977",
+            "authorid": 60569,
+            "scholarlyactivityid": 13995
+        }
+    },
+    "status": [
+        {
+            "id": 13995,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110183",
+    "attachments": []
+}

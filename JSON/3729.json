@@ -1,0 +1,66 @@
+{
+    "activityid": 3729,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "CoVE: Colony visualization system for animal pedigrees",
+        "Journal": "VINCI",
+        "Volume": "14",
+        "Month / Season": "2014-12-31",
+        "Issue Number": "978-1-4503-2765-7",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "18-Sep",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110166",
+    "coauthors": {
+        "10985": {
+            "firstname": "Brandon",
+            "middleinitial": "",
+            "lastname": "Cannon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10985,
+            "scholarlyactivityid": 3729
+        },
+        "10986": {
+            "firstname": "Minoti",
+            "middleinitial": "",
+            "lastname": "Hiremath",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113102619",
+            "authorid": 10986,
+            "scholarlyactivityid": 3729
+        },
+        "10987": {
+            "firstname": "Cheryl",
+            "middleinitial": "L.",
+            "lastname": "Jorcyk",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 10987,
+            "scholarlyactivityid": 3729
+        }
+    },
+    "status": [
+        {
+            "id": 3729,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110166",
+    "attachments": []
+}

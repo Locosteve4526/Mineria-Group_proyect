@@ -1,0 +1,72 @@
+{
+    "activityid": 56873,
+    "fields": {
+        "Type": "Book",
+        "Title": "Democratic Policy Implementation in an Ambiguous World",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "SUNY Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065177",
+    "coauthors": {
+        "309690": {
+            "firstname": "Nicholas",
+            "middleinitial": "L",
+            "lastname": "Fowler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065177",
+            "authorid": 309690,
+            "scholarlyactivityid": 56873
+        }
+    },
+    "status": [
+        {
+            "id": 56873,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 56873,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 56873,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 56873,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065177",
+    "attachments": []
+}

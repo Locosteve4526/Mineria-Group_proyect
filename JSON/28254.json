@@ -1,0 +1,118 @@
+{
+    "activityid": 28254,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Negotiation outcome classification using language features",
+        "Journal": "Group Decision and Negotiation",
+        "Volume": "22",
+        "Month / Season": "January",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "135--151",
+        "Publisher": "Springer",
+        "DOI": "10.1007/s10726-012-9301-y",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://link.springer.com/10.1007/s10726-012-9301-y",
+        "Description/Abstract": "In this paper we discuss the relationships among negotiations, integrative and distributive speech acts, and classification of negotiation outcome. Our findings present how using automated linguistic analysis can show the trajectory of negotiations towards convergence (resolution) or divergence (non-resolution) and how these trajectories accurately classify negotiation outcomes. Consequently, we present the results of our negotiation outcome classification study, in which we use a corpus of 20 transcripts of actual face-to-face negotiations to build and test two classification models. The first model uses language features and speech acts to place negotiation utterances onto an integrative and distributive scale. The second uses that scale to classify the negotiations themselves as successful or unsuccessful at the midpoint, three-quarters of the way through, and at the end of the negotiation. Classification accuracy rates were 80, 75, and 85 % respectively.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "138602": {
+            "firstname": "Douglas",
+            "middleinitial": "P",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 138602,
+            "scholarlyactivityid": 28254,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138603": {
+            "firstname": "Matthew",
+            "middleinitial": "L",
+            "lastname": "Jensen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138603,
+            "scholarlyactivityid": 28254,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138604": {
+            "firstname": "Douglas",
+            "middleinitial": "C",
+            "lastname": "Derrick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138604,
+            "scholarlyactivityid": 28254,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138605": {
+            "firstname": "Judee",
+            "middleinitial": "K",
+            "lastname": "Burgoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138605,
+            "scholarlyactivityid": 28254,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138606": {
+            "firstname": "Jay",
+            "middleinitial": "F",
+            "lastname": "Nunamaker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138606,
+            "scholarlyactivityid": 28254,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28254,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 28254,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065605",
+    "attachments": [
+        {
+            "attachmentid": 1668,
+            "mimetype": "application/pdf",
+            "filename": "NegotiationClassificationUsingLanguageFeatures.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZK3dDRVQxUWNjOG12QVhQMHRYZ3hWeCtkRDE4MGVTa0YvVXp0NTk3bGx6a2M0REo3VEVmUlN2aktzRXk4Z2tDWXE3bElOeTdzWkE2VHpEQk0zZ1FBMkkyTWMvTFhvNHE4PQ%3D%3D",
+            "filesize": 340458
+        }
+    ]
+}

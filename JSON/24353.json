@@ -1,0 +1,67 @@
+{
+    "activityid": 24353,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Regional differences in physical activity and chronic disease in the United States",
+        "Name of Conference": "",
+        "Month / Season": "2012-05-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "S335",
+        "Publisher": "",
+        "Publisher Location": "Baltimore, MD USA",
+        "Volume": "44",
+        "Issue Number": "5-Suppl",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "80430": {
+            "firstname": "David",
+            "middleinitial": "R.",
+            "lastname": "Bassett",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80430,
+            "scholarlyactivityid": 24353
+        },
+        "80431": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 80431,
+            "scholarlyactivityid": 24353
+        },
+        "80432": {
+            "firstname": "Eugene",
+            "middleinitial": "",
+            "lastname": "Fitzhugh",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80432,
+            "scholarlyactivityid": 24353
+        }
+    },
+    "status": [
+        {
+            "id": 24353,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

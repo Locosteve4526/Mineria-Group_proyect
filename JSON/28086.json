@@ -1,0 +1,58 @@
+{
+    "activityid": 28086,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "What is Implicit Bias?",
+        "Conference/Meeting Name": "Western Society for Kinesiology and Wellness",
+        "Conference Location": "Reno, NV",
+        "Date or Date Range": "Oct. 13, 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Western Society for Kinesiology and Wellness",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669892",
+    "coauthors": {
+        "110749": {
+            "firstname": "Jane",
+            "middleinitial": "Marie",
+            "lastname": "Shimon",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669892",
+            "authorid": 110749,
+            "scholarlyactivityid": 28086,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "110750": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "VanMullum",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 110750,
+            "scholarlyactivityid": 28086,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28086,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669892",
+    "attachments": []
+}

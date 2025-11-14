@@ -1,0 +1,86 @@
+{
+    "activityid": 65703,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Creating an Annual Evaluation Framework for Library Faculty",
+        "Journal": "Journal of Academic Librarianship",
+        "Volume": "47",
+        "Month / Season": "September",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1016/j.acalib.2021.102426",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112088454",
+    "coauthors": {
+        "304632": {
+            "firstname": "Alessandro",
+            "middleinitial": "G",
+            "lastname": "Meregaglia",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114063174",
+            "authorid": 304632,
+            "scholarlyactivityid": 65703
+        },
+        "304631": {
+            "firstname": "Amy",
+            "middleinitial": "Elizabeth",
+            "lastname": "Vecchione",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112088454",
+            "authorid": 304631,
+            "scholarlyactivityid": 65703
+        },
+        "304630": {
+            "firstname": "Patricia",
+            "middleinitial": "M",
+            "lastname": "Armstrong",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112071180",
+            "authorid": 304630,
+            "scholarlyactivityid": 65703
+        },
+        "304629": {
+            "firstname": "Margie",
+            "middleinitial": "",
+            "lastname": "Ruppel",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113030640",
+            "authorid": 304629,
+            "scholarlyactivityid": 65703
+        },
+        "304628": {
+            "firstname": "Kelsey",
+            "middleinitial": "",
+            "lastname": "Keyes",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113139676",
+            "authorid": 304628,
+            "scholarlyactivityid": 65703
+        }
+    },
+    "status": [
+        {
+            "id": 65703,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112088454",
+    "attachments": []
+}

@@ -1,0 +1,72 @@
+{
+    "activityid": 55125,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Adaptation of &quot;Letting Loose the Hounds&quot;",
+        "Name of Performing Group": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Name of Venue/Sponsor": "",
+        "Venue / Sponsor Location (City, State, Country)": "",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110221",
+    "coauthors": {
+        "259092": {
+            "firstname": "Braden",
+            "middleinitial": "R",
+            "lastname": "Udall",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112096852",
+            "authorid": 259092,
+            "scholarlyactivityid": 55125
+        },
+        "259091": {
+            "firstname": "Mitchell",
+            "middleinitial": "John",
+            "lastname": "Wieland",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110221",
+            "authorid": 259091,
+            "scholarlyactivityid": 55125
+        },
+        "259090": {
+            "firstname": "Ru",
+            "middleinitial": "M",
+            "lastname": "Wood",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114059338",
+            "authorid": 259090,
+            "scholarlyactivityid": 55125
+        }
+    },
+    "status": [
+        {
+            "id": 55125,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 55125,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110221",
+    "attachments": []
+}

@@ -1,0 +1,61 @@
+{
+    "activityid": 60585,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Creating a Compelling Teaching Portfolio Faculty Learning Community",
+        "Conference/Meeting Name": "Center for Teaching and Learning",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "Aug - Dec.",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112051767",
+    "coauthors": {
+        "280793": {
+            "firstname": "Shawn",
+            "middleinitial": "R",
+            "lastname": "Simonson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 280793,
+            "scholarlyactivityid": 60585
+        },
+        "280792": {
+            "firstname": "Megan",
+            "middleinitial": "E",
+            "lastname": "Frary",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112051767",
+            "authorid": 280792,
+            "scholarlyactivityid": 60585
+        }
+    },
+    "status": [
+        {
+            "id": 60585,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 60585,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112051767",
+    "attachments": []
+}

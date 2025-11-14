@@ -1,0 +1,56 @@
+{
+    "activityid": 1307,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Teaching presence",
+        "Journal": "The Learning Curve",
+        "Volume": "3",
+        "Month / Season": "2008-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "1-2, 4",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "143687": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 143687,
+            "scholarlyactivityid": 1307
+        },
+        "143688": {
+            "firstname": "Tina",
+            "middleinitial": "",
+            "lastname": "Parscal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 143688,
+            "scholarlyactivityid": 1307
+        }
+    },
+    "status": [
+        {
+            "id": 1307,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

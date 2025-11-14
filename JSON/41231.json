@@ -1,0 +1,58 @@
+{
+    "activityid": 41231,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Pre- and Post-Test Project",
+        "Outlet (if applicable)": "",
+        "Date": "2014",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112096790",
+    "coauthors": {
+        "180900": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Lowe",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112096790",
+            "authorid": 180900,
+            "scholarlyactivityid": 41231
+        }
+    },
+    "status": [
+        {
+            "id": 41231,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 41231,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112096790",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 39162,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Network Centrality and Liquidity",
+        "Name of Conference": "Eastern Finance Association ",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "166854": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086454",
+            "authorid": 166854,
+            "scholarlyactivityid": 39162,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "166855": {
+            "firstname": "William",
+            "middleinitial": "R",
+            "lastname": "McCumber",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 166855,
+            "scholarlyactivityid": 39162,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 39162,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

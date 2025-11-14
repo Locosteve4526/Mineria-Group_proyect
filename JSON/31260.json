@@ -1,0 +1,48 @@
+{
+    "activityid": 31260,
+    "fields": {
+        "Type": "Book",
+        "Title": "Lacan and the Nonhuman",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Palgrave",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This is a co-edited collection of essays.",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116789",
+    "coauthors": {
+        "158667": {
+            "firstname": "Gautam",
+            "middleinitial": "",
+            "lastname": "Basu Thakur",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116789",
+            "authorid": 158667,
+            "scholarlyactivityid": 31260,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31260,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116789",
+    "attachments": []
+}

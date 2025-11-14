@@ -1,0 +1,77 @@
+{
+    "activityid": 24272,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "High Dynamic Performance Programmed PWM Control of a Multilevel Inverter with Capacitor DC Sources",
+        "Name of Conference": "",
+        "Month / Season": "2009-01-01",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "6561 - 6568",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1109/CDC.2009.5399861",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/49",
+        "Description/Abstract": "A cascade multilevel inverter consisting of a standard 3-leg inverter supplied by a DC source and three full H-bridges each supplied by a capacitor is considered for use as a motor drive. The capacitor H-bridges can only supply reactive voltage to the motor while the standard three leg inverter can supply both reactive and active voltage. A switching control algorithm is presented that shows this inverter topology can be used as an AC drive achieving considerable performance advantages (e.g., higher motor speed) compared to using a standard 3-leg inverter while at the same time regulating the capacitor voltages. The converter controller is a fundamental frequency switching controller based on programmed PWM to achieve higher efficiency (less power losses in the switches) compared to high-frequency PWM approaches. As is well known, the programmed PWM switching times are computed assuming the drive is in sinusoidal steady-state, that is, the derived switching angles achieve the fundamental while rejecting specified harmonics if the voltage waveforms are in sinusoidal steady-state. Here it shown that the switching commands to the converter can be implemented in a smooth fashion for voltage waveform commands whose frequency and amplitudes are continuously varying.",
+        "Origin": "Other"
+    },
+    "facultyid": "112103235",
+    "coauthors": {
+        "80244": {
+            "firstname": "John",
+            "middleinitial": "Nelson",
+            "lastname": "Chiasson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112103235",
+            "authorid": 80244,
+            "scholarlyactivityid": 24272
+        },
+        "80245": {
+            "firstname": "Zhong",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80245,
+            "scholarlyactivityid": 24272
+        },
+        "80246": {
+            "firstname": "Burak",
+            "middleinitial": "",
+            "lastname": "\u00d6zpineci",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80246,
+            "scholarlyactivityid": 24272
+        },
+        "80247": {
+            "firstname": "Leon",
+            "middleinitial": "M.",
+            "lastname": "Tolbert",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80247,
+            "scholarlyactivityid": 24272
+        }
+    },
+    "status": [
+        {
+            "id": 24272,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103235",
+    "attachments": []
+}

@@ -1,0 +1,72 @@
+{
+    "activityid": 42021,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Using Speech Act Theory in Conversational Analysis",
+        "Name of Conference": "",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "186477": {
+            "firstname": "Gerry",
+            "middleinitial": "",
+            "lastname": "Dozier",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 186477,
+            "scholarlyactivityid": 42021,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "186478": {
+            "firstname": "Doug",
+            "middleinitial": "",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 186478,
+            "scholarlyactivityid": 42021,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42021,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 42021,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065605",
+    "attachments": []
+}

@@ -1,0 +1,103 @@
+{
+    "activityid": 53845,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Prospects for Nuclear Microreactors: A Review of the Technology, Decision Analysis and Regulatory Considerations",
+        "Journal": "Renewable and Sustainable Energy Reviews",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "273491": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Shropshire",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273491,
+            "scholarlyactivityid": 53845
+        },
+        "273492": {
+            "firstname": "Kathleen",
+            "middleinitial": "M",
+            "lastname": "Araujo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114107930",
+            "authorid": 273492,
+            "scholarlyactivityid": 53845
+        },
+        "273493": {
+            "firstname": "Geoffrey",
+            "middleinitial": "A",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 273493,
+            "scholarlyactivityid": 53845
+        },
+        "273494": {
+            "firstname": "Aliki",
+            "middleinitial": "",
+            "lastname": "Van Heek",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273494,
+            "scholarlyactivityid": 53845
+        }
+    },
+    "status": [
+        {
+            "id": 53845,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 53845,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 53845,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 53845,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

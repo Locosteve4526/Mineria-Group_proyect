@@ -1,0 +1,42 @@
+{
+    "activityid": 77589,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:11pt;&quot;&gt;Development of Visual-based Deep Learning Approaches for Automated Quantification of Aluminum-Magnesium-Alloys Sensitization Screening&lt;/span&gt;",
+        "Conference/Meeting Name": "US Navy Carderock Division ONR Summer Faculty Lecture Series",
+        "Conference Location": "US Navy Surface Warfare Center, Carderock",
+        "Date or Date Range": "July 2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "US Navy Carderock Division ONR",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;The study of microstructures for the accurate control of metal alloy properties under corrosion environments is critical for quality control practices. The 5xxx series (Al-Mg-based) aluminum alloys suffer from intergranular corrosion (IGC) and intergranular stress corrosion cracking (IGSCC) when the alloy has become \u201csensitized.\u201d Sensitization refers to insidious precipitation of \u03b2 phase (Mg2Al3), which is problematic when present at grain boundaries. The \u03b2 phase is electrochemically active and may preferentially dissolve. IGC susceptibility can be evaluated in terms of mass loss per unit area as designated in ASTM G67 tests. However, identification and characterization of Al-Mg-alloy sensitization microstructural properties by manual measurement are challenging due to varied degrees of grain boundary beta-phase continuity and the stochastic morphology in nature. Recently, new methods based on computer vision with deep neural networks have become established as highly competitive approaches to assist materials design using microstructural images. The goals of the project are to aggregate aluminum alloys sensitization data and develop an in-house code executing deep learning (DL) algorithms to make sensitization-related predictions that could inform material quality control decisions. The specific objectives are to 1) aggregate datasets based on G67 test results and microstructural images, and 2) quantify the degree of sensitization (DoS) for a type of 5xxx series alloy using DL-driven prediction methods. Microscopic characterization images will be taken as the training and test datasets. The outcome of this project is expected to be able to predict the degree of sensitization (mass loss value) based on the information hidden in the microstructural image patterns. The produced deep learning model is anticipated to conduct automatic quantification of visual-based Al-Mg-alloy sensitization screening.&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "346957": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 346957,
+            "scholarlyactivityid": 77589
+        }
+    },
+    "status": [
+        {
+            "id": 77589,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001675",
+    "attachments": []
+}

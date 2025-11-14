@@ -1,0 +1,114 @@
+{
+    "activityid": 50919,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Open-source automated chemical vapor deposition system for the production of two- dimensional nanomaterials",
+        "Journal": "PLOS ONE",
+        "Volume": "14",
+        "Month / Season": "01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "1-12",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1371/journal.pone.0210817",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210817",
+        "Description/Abstract": "The study of two- dimensional (2D) materials is a rapidly growing area within nanomaterials research. However, the high equipment costs, which include the processing systems necessary for creating these materials, can be a barrier to entry for some researchers interested in studying these novel materials. Such process systems include those used for chemical vapor deposition, a preferred method for making these materials. To address this challenge, this article presents the first open-source design for an automated chemical vapor deposition system that can be built for less than a third of the cost for a comparable commercial system. The materials and directions for the system are divided by subsystems, which allows the system to be easily built, customized and upgraded, depending upon the needs of the user. We include the details for the specific hardware that will be needed, instructions for completing the build, and the software needed to automate the system. With a chemical vapor deposition system built as described, a variety of 2D nanomaterials and their heterostructures can be grown. Specifically, the experimental results clearly demonstrate the capability of this open-source design in producing high quality, 2D nanomaterials such as graphene and tungsten disulfide, which are at the forefront of research in emerging semiconductor devices, sensors, and energy storage applications.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111698609",
+    "coauthors": {
+        "235223": {
+            "firstname": "Lizandra",
+            "middleinitial": "",
+            "lastname": "Williams- Godwin",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235223,
+            "scholarlyactivityid": 50919
+        },
+        "235222": {
+            "firstname": "Dale",
+            "middleinitial": "",
+            "lastname": "Brown",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235222,
+            "scholarlyactivityid": 50919
+        },
+        "235221": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Livingston",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235221,
+            "scholarlyactivityid": 50919
+        },
+        "235220": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Webb",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235220,
+            "scholarlyactivityid": 50919
+        },
+        "235219": {
+            "firstname": "Lynn",
+            "middleinitial": "",
+            "lastname": "Kariem",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235219,
+            "scholarlyactivityid": 50919
+        },
+        "235218": {
+            "firstname": "Elton",
+            "middleinitial": "",
+            "lastname": "Graugnard",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113022490",
+            "authorid": 235218,
+            "scholarlyactivityid": 50919
+        },
+        "235217": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Estrada",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111698609",
+            "authorid": 235217,
+            "scholarlyactivityid": 50919
+        }
+    },
+    "status": [
+        {
+            "id": 50919,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111698609",
+    "attachments": [
+        {
+            "attachmentid": 24931,
+            "mimetype": "application/pdf",
+            "filename": "journal.pone.0210817_open source.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yVXJJTUxORlYyTzJOQlVJcmU1MVJuOVV4bnBCM3RCN2pLSGM4bFJwSUY4Y1BnRXhabmdOaEVUVnFUQklMR0I0SXFJYitBd3I5VHRBPT0%3D",
+            "filesize": 2480314
+        }
+    ]
+}

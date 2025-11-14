@@ -1,0 +1,76 @@
+{
+    "activityid": 45563,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Chapter 5 Strategy",
+        "Book Title": "Design Thinking and Strategy",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "85-106",
+        "Edition": "1",
+        "Volume": "1",
+        "Publisher": "Mountain Valley Innovations",
+        "Publisher Location": "Boise, ID",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Suciu, Christy &amp; Kaupins, Gundars",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "Suciu, C. &amp; Kaupins, G. are the authors of the book. I am only a co-author (2nd author with Kaupins, G.) on the Strategy chapter of the book.",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114027549",
+    "coauthors": {
+        "238236": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 238236,
+            "scholarlyactivityid": 45563
+        },
+        "238237": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Mattingly",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114027549",
+            "authorid": 238237,
+            "scholarlyactivityid": 45563
+        }
+    },
+    "status": [
+        {
+            "id": 45563,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 45563,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 45563,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114027549",
+    "attachments": []
+}

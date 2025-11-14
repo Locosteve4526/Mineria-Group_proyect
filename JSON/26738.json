@@ -1,0 +1,55 @@
+{
+    "activityid": 26738,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Joy of Science:  The Seven Traits of the Happy Scientist",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Cambridge University Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114022280",
+    "coauthors": {
+        "88211": {
+            "firstname": "Roel",
+            "middleinitial": "",
+            "lastname": "Snieder",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 88211,
+            "scholarlyactivityid": 26738
+        },
+        "88212": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Schneider",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114022280",
+            "authorid": 88212,
+            "scholarlyactivityid": 26738
+        }
+    },
+    "status": [
+        {
+            "id": 26738,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114022280",
+    "attachments": []
+}

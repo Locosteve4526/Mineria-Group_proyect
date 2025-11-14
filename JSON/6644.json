@@ -1,0 +1,56 @@
+{
+    "activityid": 6644,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Spectral Collocation and Waveform Relaxation Methods with Gengenbauer Reconstruction for Nonlinear Conservation Laws",
+        "Journal": "Computational Methods in Applied Mathematics",
+        "Volume": "5",
+        "Month / Season": "2005-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "51-71",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We investigate Chebyshev spectral collocation and waveform relaxation methods for nonlinear conservation laws. Waveform relaxation methods allow to replace the system of nonlinear differential equations resulting from the application of spectral collocation methods by a sequence of linear problems which can be effectively integrated by highly stable implicit methods. The obtained numerical solution is then enhanced on the intervals of smoothness by Gegenbauer reconstruction. The effectiveness of this approach is illustrated by numerical experiments.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20714": {
+            "firstname": "Zdzislaw",
+            "middleinitial": "",
+            "lastname": "Jackiewicz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20714,
+            "scholarlyactivityid": 6644
+        },
+        "20715": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20715,
+            "scholarlyactivityid": 6644
+        }
+    },
+    "status": [
+        {
+            "id": 6644,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

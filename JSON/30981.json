@@ -1,0 +1,62 @@
+{
+    "activityid": 30981,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Exploring How Individual Traits Influence Enjoyment in a Mobile Learning Game",
+        "Journal": "Computers in Human Behavior",
+        "Volume": "69",
+        "Month / Season": "",
+        "Issue Number": "69",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "347-357",
+        "Publisher": "Elsevier",
+        "DOI": "http://dx.doi.org/10.1016/j.chb.2016.12.053",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "115072": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 115072,
+            "scholarlyactivityid": 30981,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "115073": {
+            "firstname": "Achraf",
+            "middleinitial": "",
+            "lastname": "Touati",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 115073,
+            "scholarlyactivityid": 30981,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30981,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

@@ -1,0 +1,66 @@
+{
+    "activityid": 4021,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Challenges in the undergraduate context: Navigating the ethical landscape.",
+        "Journal": "Psi Chi Journal of Undergraduate Research",
+        "Volume": "16",
+        "Month / Season": "2011-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "143-149",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "11855": {
+            "firstname": "D.",
+            "middleinitial": "M.",
+            "lastname": "Niederjohn",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11855,
+            "scholarlyactivityid": 4021
+        },
+        "11856": {
+            "firstname": "Maureen",
+            "middleinitial": "A.",
+            "lastname": "McCarthy",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11856,
+            "scholarlyactivityid": 4021
+        },
+        "11857": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 11857,
+            "scholarlyactivityid": 4021
+        }
+    },
+    "status": [
+        {
+            "id": 4021,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

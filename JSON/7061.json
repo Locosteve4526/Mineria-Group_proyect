@@ -1,0 +1,56 @@
+{
+    "activityid": 7061,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Summarizing can improve metacomprehension accuracy",
+        "Journal": "Contemporary Educational Psychology",
+        "Volume": "28",
+        "Month / Season": "2003-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "129-160",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "100141": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 100141,
+            "scholarlyactivityid": 7061
+        },
+        "100142": {
+            "firstname": "M C M",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 100142,
+            "scholarlyactivityid": 7061
+        }
+    },
+    "status": [
+        {
+            "id": 7061,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2003,
+            "termid": "2003/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

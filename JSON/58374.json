@@ -1,0 +1,89 @@
+{
+    "activityid": 58374,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Negative-Ability Labels Reduce Persistence When Social-Orientation Is Low",
+        "Name of Conference": "APS",
+        "Month / Season": "May 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112062187",
+    "coauthors": {
+        "271620": {
+            "firstname": "Kaitlyn",
+            "middleinitial": "",
+            "lastname": "Lansford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 271620,
+            "scholarlyactivityid": 58374,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "271621": {
+            "firstname": "Mandy",
+            "middleinitial": "",
+            "lastname": "Olson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 271621,
+            "scholarlyactivityid": 58374,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "271622": {
+            "firstname": "Aysia",
+            "middleinitial": "",
+            "lastname": "Kernin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 271622,
+            "scholarlyactivityid": 58374,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "271623": {
+            "firstname": "Cindy",
+            "middleinitial": "E",
+            "lastname": "McCrea",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112062187",
+            "authorid": 271623,
+            "scholarlyactivityid": 58374,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58374,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112062187",
+    "attachments": []
+}

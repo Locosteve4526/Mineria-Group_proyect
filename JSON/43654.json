@@ -1,0 +1,91 @@
+{
+    "activityid": 43654,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The intriguing spatial dynamics of vector-borne pathogen transmission with emergent vectors: while bloodmeals slow mosquito dispersal, host infections spread rapidly",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "A spatial, probabilistic model of vector disease transmission is considered\nwhich focuses principally on the ensemble dynamics of mosquitoes. Mosquitoes\nemerge and randomly explore their proximity to encounter and interact with\navailable hosts, which they may do multiple times for the transmission of\npathogens. The vector population is described as a density cloud that has\ncontact interactions with immobile hosts for realistic bloodmeals and potential\ntransmission events. This formalism is applied to a simple scenario where a\nsingle cohort of mosquitoes emerge from a localized larval bed to encounter a\nuniform background of infected hosts. They emerge, some bite and harbor\npathogens from infected hosts, and further disperse to potentially interact\nwith other hosts. A latency for vector infectiousness is included and the\nmosquito population feeds and perishes according to classic malarial models.\nEncountered hosts throughout are regarded as stationary in order to focus on \nthe infectious dynamics of nocturnal, endophagic vectors. A longer-lived\ninfectious portion of the cohort if found to explore an extended region of\nspace about a larval bed, and whose distal distribution tails are able to\nsuccessfully infect hosts. Transmission is quite local up to and including this\nextended region---that within reach of the infectious portion of the\ncohort---and is otherwise essentially absent, demonstrating the locality and\nthe inherent heterogeneity of spatial transmission for a single, localized\ncohort emergence. This transmission locality, or effective size of the patch\nabout the larval source where pathogens are transferred to and from the host\npopulation, is found to vary with the reproductive number which sets the\nintensity of transmission. Host infections are permitted to vary in space and\ntime with a progressing cohort's bloodmeals, and these feedings are shown to\nslightly impede the cohort's progress in space, crowding the mosquitoes. While \nthe bloodmeals slow the progress of the cohort into the community to a\nsubdiffusive rate, the spread of host infections happens superdiffusively,\naccomplished by the early flights of the cohort. Numerics are carried out for a\nfinite population in two-dimensions, and with only four transmission parameters\nthe transmission theory simply connects with classical Ross/Macdonald dynamics.\n\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067626",
+    "coauthors": {
+        "254816": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067626",
+            "authorid": 254816,
+            "scholarlyactivityid": 43654
+        }
+    },
+    "status": [
+        {
+            "id": 43654,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43654,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43654,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43654,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43654,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43654,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114067626",
+    "attachments": []
+}

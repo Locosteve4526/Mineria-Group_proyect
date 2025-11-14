@@ -1,0 +1,77 @@
+{
+    "activityid": 26809,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Creating a STEM Identity: Investment with Return",
+        "Name of Conference": "",
+        "Month / Season": "1966-01-01",
+        "Actual/Projected Year of Publication/Presentation": 1966,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110041",
+    "coauthors": {
+        "85688": {
+            "firstname": "Janet",
+            "middleinitial": "",
+            "lastname": "Callahan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033791",
+            "authorid": 85688,
+            "scholarlyactivityid": 26809
+        },
+        "85689": {
+            "firstname": "Patricia",
+            "middleinitial": "",
+            "lastname": "Pyke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 85689,
+            "scholarlyactivityid": 26809
+        },
+        "85690": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Shadle",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 85690,
+            "scholarlyactivityid": 26809
+        },
+        "85691": {
+            "firstname": "R.",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 85691,
+            "scholarlyactivityid": 26809
+        }
+    },
+    "status": [
+        {
+            "id": 26809,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110041",
+    "attachments": []
+}

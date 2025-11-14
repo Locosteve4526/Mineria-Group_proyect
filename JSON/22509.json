@@ -1,0 +1,64 @@
+{
+    "activityid": 22509,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "3DTHT-Data-Processing-Setup-Review-and-Selection \u00a9",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Patent Nationality": "",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "Boise State file number 135",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": null,
+        "Description/Abstract": "The creation consists of individual software code components for tasks written in MATLAB that together reorganize hydrologic drawdown data from field pumping tests for 3D transient hydraulic tomography and work interactively with the user to identify and select high-quality data sets for further use in modeling, and then allow the user to select data points for modeling. After selections of data points are made, the software makes data time-consistency adjustments as needed and prepares output files in a format that is compatible with follow-on tomographic modeling to create \u201cimages\u201d of the subsurface spatial distribution of hydrologic properties of the aquifer.",
+        "Web Address": null,
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "78077": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 78077,
+            "scholarlyactivityid": 22509
+        },
+        "78078": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Cardiff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113054278",
+            "authorid": 78078,
+            "scholarlyactivityid": 22509
+        },
+        "78079": {
+            "firstname": "Peter",
+            "middleinitial": "K",
+            "lastname": "Kitanidis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78079,
+            "scholarlyactivityid": 22509
+        }
+    },
+    "status": [
+        {
+            "id": 22509,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

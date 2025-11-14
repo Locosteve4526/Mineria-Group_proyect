@@ -1,0 +1,59 @@
+{
+    "activityid": 27225,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Caregiver and Respite Provider Capacity Assessment",
+        "Outlet (if applicable)": "",
+        "Date": "1966-01-01",
+        "Actual/Projected Year of Publication/Presentation": 1966,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "Boise United States",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "1910 University Drive",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111641510",
+    "coauthors": {
+        "86604": {
+            "firstname": "Tami",
+            "middleinitial": "",
+            "lastname": "Cirerol",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 86604,
+            "scholarlyactivityid": 27225
+        },
+        "86605": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Toevs",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111641510",
+            "authorid": 86605,
+            "scholarlyactivityid": 27225
+        }
+    },
+    "status": [
+        {
+            "id": 27225,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111641510",
+    "attachments": []
+}

@@ -1,0 +1,45 @@
+{
+    "activityid": 42583,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Teaching for Transfer",
+        "Conference/Meeting Name": "Kansas State Physics Colloquium",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "Kansas State Department of Physics",
+        "Presenter(s)": null,
+        "Web Address": "https://www.phys.ksu.edu/news/colloquia/f18/atkins.html",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "190057": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 190057,
+            "scholarlyactivityid": 42583,
+            "classifications": {
+                "Role": "Guest Speaker"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42583,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

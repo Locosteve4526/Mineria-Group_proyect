@@ -1,0 +1,76 @@
+{
+    "activityid": 24089,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Instructional Faculty Development and Student Success",
+        "Name of Conference": "",
+        "Month / Season": "2016-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110582",
+    "coauthors": {
+        "79875": {
+            "firstname": "Janet",
+            "middleinitial": "M",
+            "lastname": "Callahan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033791",
+            "authorid": 79875,
+            "scholarlyactivityid": 24089
+        },
+        "79876": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Bullock",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110582",
+            "authorid": 79876,
+            "scholarlyactivityid": 24089
+        },
+        "79877": {
+            "firstname": "Susan",
+            "middleinitial": "E",
+            "lastname": "Shadle",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 79877,
+            "scholarlyactivityid": 24089
+        }
+    },
+    "status": [
+        {
+            "id": 24089,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 24089,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110582",
+    "attachments": []
+}

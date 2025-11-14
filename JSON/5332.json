@@ -1,0 +1,56 @@
+{
+    "activityid": 5332,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "ICD-10-CM/PCS: Transferring knowledge from ICD-9-CM",
+        "Journal": "Perspectives in Health Information Management",
+        "Volume": "",
+        "Month / Season": "2013-07-31",
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "16266": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 16266,
+            "scholarlyactivityid": 5332
+        },
+        "16267": {
+            "firstname": "Patricia",
+            "middleinitial": "R",
+            "lastname": "Elison-Bowers",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110810",
+            "authorid": 16267,
+            "scholarlyactivityid": 5332
+        }
+    },
+    "status": [
+        {
+            "id": 5332,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

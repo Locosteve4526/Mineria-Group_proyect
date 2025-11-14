@@ -1,0 +1,65 @@
+{
+    "activityid": 24732,
+    "fields": {
+        "Type": "Book",
+        "Title": "Dynamic Modeling and Control of Engineering Systems",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Cambridge University Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Cambridge University Press",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/144",
+        "Description/Abstract": "This textbook is ideal for a course in Engineering System Dynamics and Controls. The work is a comprehensive treatment of the analysis of lumped parameter physical systems. Starting with a discussion of mathematical models in general, and ordinary differential equations, the book covers input/output and state space models, computer simulation and modeling methods and techniques in mechanical, electrical, thermal and fluid domains. Frequency domain methods, transfer functions and frequency response are covered in detail. The book concludes with a treatment of stability, feedback control (PID, lead-lag, root locus) and an introduction to discrete time systems. This new edition features many new and expanded sections on such topics as: Solving Stiff Systems, Operational Amplifiers, Electrohydraulic Servovalves, Using Matlab with Transfer Functions, Using Matlab with Frequency Response, Matlab Tutorial and an expanded Simulink Tutorial. The work has 40% more end-of-chapter exercises and 30% more examples.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643302",
+    "coauthors": {
+        "81226": {
+            "firstname": "Bohdan",
+            "middleinitial": "T.",
+            "lastname": "Kulakowski",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 81226,
+            "scholarlyactivityid": 24732
+        },
+        "81227": {
+            "firstname": "John",
+            "middleinitial": "F",
+            "lastname": "Gardner",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643302",
+            "authorid": 81227,
+            "scholarlyactivityid": 24732
+        },
+        "81228": {
+            "firstname": "J.",
+            "middleinitial": "Lowen",
+            "lastname": "Shearer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 81228,
+            "scholarlyactivityid": 24732
+        }
+    },
+    "status": [
+        {
+            "id": 24732,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643302",
+    "attachments": []
+}

@@ -1,0 +1,66 @@
+{
+    "activityid": 32593,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Developing simulations to reproduce in vivo fluoroscopy kinematics in total knee replacement patients",
+        "Journal": "Journal of biomechanics",
+        "Volume": "47",
+        "Month / Season": null,
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "2398-405",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "For clinically predictive testing and design-phase evaluation of prospective total knee replacement (TKR) implants, devices should ideally be evaluated under physiological loading conditions which incorporate population-level variability. A challenge exists for experimental and computational researchers in determining appropriate loading conditions for wear and kinematic knee simulators which reflect in vivo joint loading conditions. There is a great deal of kinematic data available from fluoroscopy studies. The purpose of this work was to develop computational methods to derive anterior-posterior (A-P) and internal-external (I-E) tibiofemoral (TF) joint loading conditions from in vivo kinematic data. Two computational models were developed, a simple TF model, and a more complex lower limb model. These models were driven through external loads applied to the tibia and femur in the TF model, and applied to the hip, ankle and muscles in the lower limb model. A custom feedback controller was integrated with the finite element environment and used to determine the external loads required to reproduce target kinematics at the TF joint. The computational platform was evaluated using in vivo kinematic data from four fluoroscopy patients, and reproduced in vivo A-P and I-E motions and compressive force with a root-mean-square (RMS) accuracy of less than 1mm, 0.1\u00b0, and 40 N in the TF model and in vivo A-P and I-E motions, TF flexion, and compressive loads with a RMS accuracy of less than 1mm, 0.1\u00b0, 1.4\u00b0, and 48 N in the lower limb model. The external loading conditions derived from these models can ultimately be used to establish population variability in loading conditions, for eventual use in computational as well as experimental activity simulations.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "125724": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125724,
+            "scholarlyactivityid": 32593
+        },
+        "125725": {
+            "firstname": "Richar",
+            "middleinitial": "D",
+            "lastname": "Komistek",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125725,
+            "scholarlyactivityid": 32593
+        },
+        "125726": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125726,
+            "scholarlyactivityid": 32593
+        }
+    },
+    "status": [
+        {
+            "id": 32593,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

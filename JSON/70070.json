@@ -1,0 +1,42 @@
+{
+    "activityid": 70070,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The use of numerical solutions of Nernst-Planck-Poisson equations to understand the induced polarization of geological materials",
+        "Conference/Meeting Name": "2023 Annual Meeting of American Geophysical Union",
+        "Conference Location": "San Francisco",
+        "Date or Date Range": "Dec 11 to 15, 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "American Geophysical Union",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;Induced polarization (IP) has been frequently used in solid earth geophysics, hydrology, and environmental sciences. A mechanistic understanding of the IP responses of geological materials is crucial for correctly interpreting field IP measurements. Recently, numerical solutions of the Nernst-Planck-Poisson equations have been used to analyze the diffuse layer polarization of grains in electrolytes. Two examples are included here to demonstrate its applications. The first study revisits the electrochemical mechanism of diffuse layer polarization. It is found that the diffuse layer polarization is formed by the charge separation between counterions in the diffuse layer and charges on the grain surface. Both tangential and normal movements of counterions in the diffuse layer are involved in the polarization process, but their relative contributions are distinct. Although the normal flux of counterions outweighs the flux in the tangential direction, the latter exerts a much more profound effect on the enhanced permittivity than the former. As the salinity increases, more tangential fluxes are involved in the polarization, and a longer time is required to polarize the diffuse layer fully.&lt;/span&gt;\n&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;The second example studies how the diffuse layer of two adjacent grains interact under the external electric field. It is found that new phenomena emerge once two grains approach each other. For the case where the external electric field is parallel to the radical axis of the two grains, as the two grains move towards each other, the excess charges around the grains will deform due to compression of the ion clouds. This will decrease the total amount of ions contributing to the polarization, lowering the permittivity. Also, since ions are forced to move around the grain surface, the center of the excess charges will be closer to the grain center, making the charge separation shorter. This gives a shorter characteristic time for polarization.&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112754",
+    "coauthors": {
+        "316858": {
+            "firstname": "Qifei",
+            "middleinitial": "",
+            "lastname": "Niu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112754",
+            "authorid": 316858,
+            "scholarlyactivityid": 70070
+        }
+    },
+    "status": [
+        {
+            "id": 70070,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112754",
+    "attachments": []
+}

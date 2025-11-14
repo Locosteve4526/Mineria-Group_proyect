@@ -1,0 +1,56 @@
+{
+    "activityid": 193,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An examination of the recently restated financial statements due to inappropriate lease accounting",
+        "Journal": "Academy of Accounting and Financial Studies Journal",
+        "Volume": "11",
+        "Month / Season": "2007-12-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "69-84",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112188648",
+    "coauthors": {
+        "512": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 512,
+            "scholarlyactivityid": 193
+        },
+        "513": {
+            "firstname": "Brad",
+            "middleinitial": "",
+            "lastname": "Reed",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 513,
+            "scholarlyactivityid": 193
+        }
+    },
+    "status": [
+        {
+            "id": 193,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188648",
+    "attachments": []
+}

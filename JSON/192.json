@@ -1,0 +1,56 @@
+{
+    "activityid": 192,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A survey of the use and perceptions of analytical procedures",
+        "Journal": "Academy of Accounting and Financial Studies Journal",
+        "Volume": "2",
+        "Month / Season": "1998-12-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 1998,
+        "Page Numbers": "29-41",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112188648",
+    "coauthors": {
+        "510": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 510,
+            "scholarlyactivityid": 192
+        },
+        "511": {
+            "firstname": "Rebecca",
+            "middleinitial": "L",
+            "lastname": "Steffen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 511,
+            "scholarlyactivityid": 192
+        }
+    },
+    "status": [
+        {
+            "id": 192,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1998,
+            "termid": "1998/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188648",
+    "attachments": []
+}

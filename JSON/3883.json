@@ -1,0 +1,74 @@
+{
+    "activityid": 3883,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Refining Michener's Classification Based on what Mathematicians say about Examples",
+        "Journal": "Mathematical Thinking and Learning",
+        "Volume": "",
+        "Month / Season": "2014-05-12",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643697",
+    "coauthors": {
+        "11408": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Kinzel",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643697",
+            "authorid": 11408,
+            "scholarlyactivityid": 3883
+        },
+        "11409": {
+            "firstname": "Laurie",
+            "middleinitial": "O",
+            "lastname": "Cavey",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113017246",
+            "authorid": 11409,
+            "scholarlyactivityid": 3883
+        }
+    },
+    "status": [
+        {
+            "id": 3883,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 3883,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 3883,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111643697",
+    "attachments": []
+}

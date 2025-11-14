@@ -1,0 +1,62 @@
+{
+    "activityid": 21207,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "An introduction to OER Recommender",
+        "Conference/Meeting Name": "the Open Education Conference ",
+        "Conference Location": "Vancouver, BC",
+        "Date or Date Range": "2009-08-14",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "76441": {
+            "firstname": "S",
+            "middleinitial": "",
+            "lastname": "Gurrell",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76441,
+            "scholarlyactivityid": 21207
+        },
+        "76442": {
+            "firstname": "D",
+            "middleinitial": "",
+            "lastname": "Wiley",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76442,
+            "scholarlyactivityid": 21207
+        },
+        "76443": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 76443,
+            "scholarlyactivityid": 21207
+        }
+    },
+    "status": [
+        {
+            "id": 21207,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 43708,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Occupational Radiation Exposure of Respiratory Therapists During Manual Ventilation in the Neonatal Intensive Care Unit",
+        "Conference / Meeting Name": "AARC Open Forum",
+        "Conference Location": "Las Vegas, NV",
+        "Date or Date Range": "12/4/2018-12/7/2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://rc.rcjournal.com/content/63/Suppl_10/3025908",
+        "Description/Abstract": "Abstract\n\nBackground: Radiation exposure and associated cancer risk have been studied since the mid-1900s. Cancer risk and increased mortality are well documented in the literature throughout a variety of professions. Respiratory therapists (RTs) commonly provide manual ventilation to neonates during imaging following surfactant administration or endotracheal tube placement/manipulation. Providers are encouraged to wear protective lead whenever risk of occupational exposure is present. Dose used for neonatal images is significantly less than adults, which may provide a false sense of security to providers, leading them to forego protective wear. This bench study measured radiation exposure using a phantom model to simulate the provider's hand, thyroid, and chest using standard dose and distance measurements.\n\nMethods: A dosimeter was used to measure radiation dose in milliroentgens (mR). A standard source to image distance (SID) of 101.6 cm (40 in) and standard technique for the neonatal population of 0.8 milliamperage-seconds (mAs) and 55 kilovoltage peak (kVp) was used. Average provider distance was estimated at 38.1 cm (15 in) at a right angle from the neonatal phantom. A dosimeter was used to measure direct patient dose from the primary beam through the phantom to the image receptor (101.6 cm). Scatter radiation from the patient to the provider was measured using the same dosimeter affixed to the phantom hand (16 cm distance from phantom neonate), chest (42 cm distance), and thyroid (57 cm distance). Scatter dose to palm of hand, chest, and thyroid were recorded over two exposures and averaged.\n\nResults: Dose to hand was 0.315 mR. Dose to the thyroid and chest were 0.0 mR as the dosimeter could not read negligible scatter.\n\nConclusions: Though this is a relatively small exposure in a single episode, it's not unusual for the NICU RT to be exposed to an average of 10 images per week which, over the period of one year, would total 160 mR to the provider's hand. This is not an insignificant overall exposure and requires further study. For added perspective, a single lumbar spine CT scan provides a dose of approximately 150 mR. Repeated doses to RTs choosing not to wear protective apparel can be harmful over time. Without adequate protection, RTs who provide manual ventilation during imaging may significantly increase their radiation exposure and potential cancer risk, even when the dose may seem insignificant.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114068467",
+    "coauthors": {
+        "206865": {
+            "firstname": "Samantha",
+            "middleinitial": "",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114068467",
+            "authorid": 206865,
+            "scholarlyactivityid": 43708
+        },
+        "206866": {
+            "firstname": "Erica",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 206866,
+            "scholarlyactivityid": 43708
+        },
+        "206867": {
+            "firstname": "Ryan",
+            "middleinitial": "K",
+            "lastname": "Forbush",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114042838",
+            "authorid": 206867,
+            "scholarlyactivityid": 43708
+        }
+    },
+    "status": [
+        {
+            "id": 43708,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114068467",
+    "attachments": []
+}

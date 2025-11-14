@@ -1,0 +1,75 @@
+{
+    "activityid": 28742,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A simplified approach to stakeholder engagement in natural resource management: the Five-Feature Framework",
+        "Journal": "Ecology and Society",
+        "Volume": "21",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.5751/ES-08830-210438",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.ecologyandsociety.org/vol21/iss4/art38/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114022280",
+    "coauthors": {
+        "95539": {
+            "firstname": "Jared",
+            "middleinitial": "",
+            "lastname": "Talley",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95539,
+            "scholarlyactivityid": 28742,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "95540": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Schneider",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114022280",
+            "authorid": 95540,
+            "scholarlyactivityid": 28742,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "95541": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Lindquist",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113146311",
+            "authorid": 95541,
+            "scholarlyactivityid": 28742,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28742,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114022280",
+    "attachments": []
+}

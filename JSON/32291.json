@@ -1,0 +1,84 @@
+{
+    "activityid": 32291,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Following a 10-step procedure to evaluate the Administrative Services Qualification Card Program",
+        "Journal": "Performance Improvement",
+        "Volume": "56",
+        "Month / Season": "September",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "6-15",
+        "Publisher": "Wiley",
+        "DOI": "https://doi.org/10.1002/pfi.21717",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1002/pfi.21717",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175165": {
+            "firstname": "Julie",
+            "middleinitial": "",
+            "lastname": "Barkin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175165,
+            "scholarlyactivityid": 32291,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175166": {
+            "firstname": "Seung Youn",
+            "middleinitial": "",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175166,
+            "scholarlyactivityid": 32291,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175167": {
+            "firstname": "Megan",
+            "middleinitial": "",
+            "lastname": "Lemke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175167,
+            "scholarlyactivityid": 32291,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32291,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 32291,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

@@ -1,0 +1,52 @@
+{
+    "activityid": 16991,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Why the United States Needs ICD-10",
+        "Conference / Meeting Name": "IdHIMA Annual Convention",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2008-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "Idaho Health Information Management Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "67095": {
+            "firstname": "Savannah",
+            "middleinitial": "",
+            "lastname": "Gonsalves",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 67095,
+            "scholarlyactivityid": 16991
+        },
+        "67096": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 67096,
+            "scholarlyactivityid": 16991
+        }
+    },
+    "status": [
+        {
+            "id": 16991,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

@@ -1,0 +1,67 @@
+{
+    "activityid": 21962,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Accounting for the Social Element in Access-Based Consumption",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "2015-04-30",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Role:  Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "114026665",
+    "coauthors": {
+        "227855": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Koppenhafer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114026665",
+            "authorid": 227855,
+            "scholarlyactivityid": 21962,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 21962,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 21962,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 21962,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114026665",
+    "attachments": []
+}

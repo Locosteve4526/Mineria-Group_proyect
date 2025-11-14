@@ -1,0 +1,55 @@
+{
+    "activityid": 27618,
+    "fields": {
+        "Type": "Book",
+        "Title": "Reading Unbound: Why kids need to read what they want and why we should let them",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "87308": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 87308,
+            "scholarlyactivityid": 27618
+        },
+        "87309": {
+            "firstname": "Michael",
+            "middleinitial": "W",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87309,
+            "scholarlyactivityid": 27618
+        }
+    },
+    "status": [
+        {
+            "id": 27618,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

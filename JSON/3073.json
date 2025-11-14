@@ -1,0 +1,85 @@
+{
+    "activityid": 3073,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Combining airborne LiDAR and hyperspectral data across local sites for upscaling shrubland structural information: lessons for HyspIRI.",
+        "Journal": "Remote Sensing of Environment",
+        "Volume": "167",
+        "Month / Season": "2014-07-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "98-110",
+        "Publisher": "",
+        "DOI": "doi:10.1016/j.rse.2015.04.015",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114003223",
+    "coauthors": {
+        "123901": {
+            "firstname": "Jessica",
+            "middleinitial": "J.",
+            "lastname": "Mitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123901,
+            "scholarlyactivityid": 3073
+        },
+        "123902": {
+            "firstname": "Rupesh",
+            "middleinitial": "",
+            "lastname": "Shrestha",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123902,
+            "scholarlyactivityid": 3073
+        },
+        "123903": {
+            "firstname": "Lucas",
+            "middleinitial": "",
+            "lastname": "Spaete",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123903,
+            "scholarlyactivityid": 3073
+        },
+        "123904": {
+            "firstname": "Nancy",
+            "middleinitial": "",
+            "lastname": "Glenn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003223",
+            "authorid": 123904,
+            "scholarlyactivityid": 3073
+        }
+    },
+    "status": [
+        {
+            "id": 3073,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 3073,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114003223",
+    "attachments": []
+}

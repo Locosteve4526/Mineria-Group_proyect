@@ -1,0 +1,52 @@
+{
+    "activityid": 76829,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Kernel DM Suite",
+        "Outlet (if applicable)": "Github",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://github.com/gradywright/kerneldmsuite",
+        "Description/Abstract": "&lt;span&gt;A MATLAB suite of methods for constructing differentiation matrices (DMs) on point clouds using kernel methods&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "342186": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 342186,
+            "scholarlyactivityid": 76829,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76829,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

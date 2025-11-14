@@ -1,0 +1,75 @@
+{
+    "activityid": 78026,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Collaborative Practices in SoTL: Capacity building for justice",
+        "Journal": "Journal on Excellence in College Teaching",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113027151",
+    "coauthors": {
+        "350080": {
+            "firstname": "Michal",
+            "middleinitial": "T",
+            "lastname": "Temkin Martinez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113027151",
+            "authorid": 350080,
+            "scholarlyactivityid": 78026,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "350081": {
+            "firstname": "Catherine",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 350081,
+            "scholarlyactivityid": 78026,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "350082": {
+            "firstname": "Kazuko",
+            "middleinitial": "",
+            "lastname": "Hiramatsu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 350082,
+            "scholarlyactivityid": 78026,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 78026,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113027151",
+    "attachments": []
+}

@@ -1,0 +1,93 @@
+{
+    "activityid": 49350,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Faculty Knowledge and Skill in Mentoring Graduate Students",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114003270",
+    "coauthors": {
+        "229335": {
+            "firstname": "Shelley",
+            "middleinitial": "M",
+            "lastname": "Lucas",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669980",
+            "authorid": 229335,
+            "scholarlyactivityid": 49350
+        },
+        "229336": {
+            "firstname": "Cara",
+            "middleinitial": "",
+            "lastname": "Gallegos",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003270",
+            "authorid": 229336,
+            "scholarlyactivityid": 49350
+        },
+        "229337": {
+            "firstname": "Lida",
+            "middleinitial": "",
+            "lastname": "Uribe-Florez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114047750",
+            "authorid": 229337,
+            "scholarlyactivityid": 49350
+        }
+    },
+    "status": [
+        {
+            "id": 49350,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 49350,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 49350,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 49350,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114003270",
+    "attachments": []
+}

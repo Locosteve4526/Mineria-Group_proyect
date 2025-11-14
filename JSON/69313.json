@@ -1,0 +1,71 @@
+{
+    "activityid": 69313,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:11pt;&quot;&gt;Privacy Preserving Location Based Service&lt;/span&gt;",
+        "Conference / Meeting Name": "Idaho Conference on Undergraduate Research 2023",
+        "Conference Location": "Boise, Idaho",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "312651": {
+            "firstname": "Thu",
+            "middleinitial": "",
+            "lastname": "Nguyen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312651,
+            "scholarlyactivityid": 69313,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312652": {
+            "firstname": "Everest",
+            "middleinitial": "",
+            "lastname": "K.C.",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312652,
+            "scholarlyactivityid": 69313,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312653": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 312653,
+            "scholarlyactivityid": 69313,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69313,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": []
+}

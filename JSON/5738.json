@@ -1,0 +1,86 @@
+{
+    "activityid": 5738,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Nesting phenology, mate choice, and genetic divergence within a partially migratory population of American kestrels",
+        "Journal": "The Auk",
+        "Volume": "133",
+        "Month / Season": "2016-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "99-109",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "17738": {
+            "firstname": "Alexandra",
+            "middleinitial": "M",
+            "lastname": "Anderson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17738,
+            "scholarlyactivityid": 5738
+        },
+        "17739": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 17739,
+            "scholarlyactivityid": 5738
+        },
+        "17740": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 17740,
+            "scholarlyactivityid": 5738
+        },
+        "17741": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Steenhof",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17741,
+            "scholarlyactivityid": 5738
+        },
+        "17742": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 17742,
+            "scholarlyactivityid": 5738
+        }
+    },
+    "status": [
+        {
+            "id": 5738,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

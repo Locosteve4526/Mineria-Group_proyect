@@ -1,0 +1,62 @@
+{
+    "activityid": 12445,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Collaborative Communication for Team Science Workshop",
+        "Conference/Meeting Name": "NORDP Research Development Conference",
+        "Conference Location": "Bethesda, MD",
+        "Date or Date Range": "2015-04-28",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "NORDP",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "56705": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 56705,
+            "scholarlyactivityid": 12445
+        },
+        "56706": {
+            "firstname": "Holly",
+            "middleinitial": "J",
+            "lastname": "Falk-Krzesinski",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56706,
+            "scholarlyactivityid": 12445
+        },
+        "56707": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "O'Rourke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56707,
+            "scholarlyactivityid": 12445
+        }
+    },
+    "status": [
+        {
+            "id": 12445,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

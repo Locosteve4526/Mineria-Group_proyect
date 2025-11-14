@@ -1,0 +1,110 @@
+{
+    "activityid": 30901,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Evaluating survey designs to predict wind-wildlife interactions using simulations: an example focused on golden eagles.",
+        "Journal": "Ecological Indicators",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "114620": {
+            "firstname": "Maitreyi",
+            "middleinitial": "",
+            "lastname": "Sur",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114620,
+            "scholarlyactivityid": 30901,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114621": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 114621,
+            "scholarlyactivityid": 30901,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114622": {
+            "firstname": "Emily",
+            "middleinitial": "R",
+            "lastname": "Bjerre",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114622,
+            "scholarlyactivityid": 30901,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114623": {
+            "firstname": "Brian",
+            "middleinitial": "A",
+            "lastname": "Milsap",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114623,
+            "scholarlyactivityid": 30901,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114624": {
+            "firstname": "Todd",
+            "middleinitial": "",
+            "lastname": "Katzner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114624,
+            "scholarlyactivityid": 30901,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30901,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 30901,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

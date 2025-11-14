@@ -1,0 +1,63 @@
+{
+    "activityid": 64263,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:11pt;&quot;&gt;The Effect of Institutional Level on Embedded Agency Among Institutional Entrepreneurs&lt;/span&gt;",
+        "Name of Conference": "Academy of Management Conference ",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114224534",
+    "coauthors": {
+        "296570": {
+            "firstname": "Chad",
+            "middleinitial": "D",
+            "lastname": "Coffman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114224534",
+            "authorid": 296570,
+            "scholarlyactivityid": 64263,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296571": {
+            "firstname": "Sanwar",
+            "middleinitial": "A",
+            "lastname": "Sunny",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296571,
+            "scholarlyactivityid": 64263,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64263,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114224534",
+    "attachments": []
+}

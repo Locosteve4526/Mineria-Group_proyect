@@ -1,0 +1,76 @@
+{
+    "activityid": 3002,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Lactate accumulation in three different volume patterns of power clean",
+        "Journal": "Journal of Strength &amp; Conditioning Research",
+        "Volume": "27",
+        "Month / Season": "2013-12-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "604-610",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112182688",
+    "coauthors": {
+        "8535": {
+            "firstname": "A.",
+            "middleinitial": "",
+            "lastname": "Date",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 8535,
+            "scholarlyactivityid": 3002
+        },
+        "8536": {
+            "firstname": "Shawn",
+            "middleinitial": "Ray",
+            "lastname": "Simonson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 8536,
+            "scholarlyactivityid": 3002
+        },
+        "8537": {
+            "firstname": "Yong",
+            "middleinitial": "",
+            "lastname": "Gao",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112182688",
+            "authorid": 8537,
+            "scholarlyactivityid": 3002
+        },
+        "8538": {
+            "firstname": "Lynda",
+            "middleinitial": "Beth",
+            "lastname": "Ransdell",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112031674",
+            "authorid": 8538,
+            "scholarlyactivityid": 3002
+        }
+    },
+    "status": [
+        {
+            "id": 3002,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112182688",
+    "attachments": []
+}

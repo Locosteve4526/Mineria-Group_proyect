@@ -1,0 +1,71 @@
+{
+    "activityid": 75358,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;p&gt;cTIMS: Correlated Textual and Image based Metrics Suites for Assessing GAN-Synthesized Android Malware Images&lt;/p&gt;",
+        "Name of Conference": "29th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2024)",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;Generative Adversarial Networks (GANs) have revolutionized the generation of\u00a0 synthetic malware images, providing significant applications in cybersecurity.\u00a0 Traditional image-based metrics such as Inception Score (IS) and Fr\u00b4echet Inception Distance (FID) evaluate the visual quality of these images but&lt;br&gt;fail to capture their malicious nature fully. We propose a novel evaluation framework, cTIMS (Correlated Textual-Based and Image-Based Metric Suites), which integrates both image and text-based metrics to provide a comprehensive assessment. Utilizing the multimodal image captioning model BLIP, we extract&lt;br&gt;textual descriptions of GAN-synthesized malware images and analyze the correlation between image metrics (IS, FID) and text metrics (BLEU, METEOR, ROUGE). Additionally, we introduce Kolmogrov-Arnold Network (KAN)-based CNN architectures (VGG16-KAN, VGG19-KAN), demonstrating significant performance improvements in malware classification. The effectiveness of the Train Real Test Synthetic (TRTS) approach in validating these correlations is also evaluated, confirming the method\u2019s reliability in selecting high-quality GAN-generated images.&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "333489": {
+            "firstname": "Md Mashrur",
+            "middleinitial": "",
+            "lastname": "Arifin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333489,
+            "scholarlyactivityid": 75358,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "333490": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 333490,
+            "scholarlyactivityid": 75358,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75358,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 58611,
+            "mimetype": "application/pdf",
+            "filename": "PRDC24-paper131-CameraReady.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yRlVsbm9oaGNKaEtXbXlleFhRUDBHRFBHa1BLdWE3cVlvYnNFUCtXLzJxSUpFeDd0U2M4YUVOTittdXJXKzRhT2lCTGlTMkxQVlZBPT0%3D",
+            "filesize": 4892882
+        }
+    ]
+}

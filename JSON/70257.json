@@ -1,0 +1,80 @@
+{
+    "activityid": 70257,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Benford's Law in the Ring\u00a0&lt;/span&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Z&lt;/span&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;( \u221a&lt;/span&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;D&lt;/span&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;)&lt;br&gt;&lt;/span&gt;&lt;/p&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "15",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "For $D$ a natural number that is not a perfect square and for $k$ a non-zero integer, consider the subset $\\mathbb{Z}_k(\\sqrt{D})$ consisting of elements $x+y\\sqrt{D}$ of the quadratic integer ring $\\mathbb{Z}(\\sqrt{D})$ for which $x^2 - Dy^2 = k$ . For each such $k$ the set $\\mathbb{Z}_k(\\sqrt{D})$ can be arranged naturally into a sequence for which the corresponding sequence of integers $x$, as well as the corresponding sequence of integers $y$, are strong Benford sequences. {\\color{red} This result underlies another proof of the known result that the numerator sequence as well as the denominator sequence of the partial fraction sequence in the continued fraction expansion of $\\sqrt{D}$ are both strong Benford sequences.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "317855": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 317855,
+            "scholarlyactivityid": 70257,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "317856": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 317856,
+            "scholarlyactivityid": 70257,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70257,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70257,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70257,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

@@ -1,0 +1,59 @@
+{
+    "activityid": 25230,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Rock Falls Recorded at Volcan Santiaguito (Guatemala) with Seismic and Infrasound Arrays",
+        "Outlet (if applicable)": "",
+        "Date": "1966-01-01",
+        "Actual/Projected Year of Publication/Presentation": 1966,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "Salt Lake City ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Volcan Santiaguito is an active dome in Guatemala characterized by small explosive eruptions every 0.5 \u2013 2 hours, daily pyroclastic flows, frequent block-and-ash flows from the active lava flow, and rock falls, including many from the neighboring Santa Maria volcano edifice. This high level of activity makes Santiaguito an excellent laboratory for study of gravity flow events using seismic sensors and acoustic arrays. In January and November 2012, two different types of acoustic arrays (using two different types of low-frequency microphones) were used to record rock fall, block-and-ash and pyroclastic flows. A three-element acoustic array of MEMS sensors were deployed in January. Although the MEMS transducers possess a flat amplitude response in the band of interest (~50 s to 50 Hz), their signal-to-noise is inferior to the 8-element electret condenser microphones (ECMs) array that was deployed in November. Unfortunately the low frequency roll-off (~2 Hz) and limited dynamic range (+/- 20 Pa) of the ECMs preclude extensive waveform analysis. We have focused on the MEMS infrasound array recordings of January 2012 and corroborate analyzed signals with observations from a continuous time lapse camera recording at 5 s intervals. We locate events by conducting slowness searches for candidate sources that might be located on the surface of the Santiaguito dome edifice. We find that the MEMS array is capable of effectively locating the moving sources of sound (i.e., block-and-ash and rock fall) for most visible rock falls. A co-located broadband seismic sensor also detected rock fall events, but the single sensor was incapable of effective localization.",
+        "Origin": "Other"
+    },
+    "facultyid": "113150379",
+    "coauthors": {
+        "82270": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Terbush",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82270,
+            "scholarlyactivityid": 25230
+        },
+        "82271": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 82271,
+            "scholarlyactivityid": 25230
+        }
+    },
+    "status": [
+        {
+            "id": 25230,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113150379",
+    "attachments": []
+}

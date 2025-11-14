@@ -1,0 +1,84 @@
+{
+    "activityid": 62715,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Shades of Trade: Dark Trading and Price Efficiency&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Journal": "Journal of Banking &amp; Finance",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "351111": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086454",
+            "authorid": 351111,
+            "scholarlyactivityid": 62715
+        },
+        "351112": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "McBrayer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045846",
+            "authorid": 351112,
+            "scholarlyactivityid": 62715
+        },
+        "351113": {
+            "firstname": "Ethan",
+            "middleinitial": "",
+            "lastname": "Watson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 351113,
+            "scholarlyactivityid": 62715
+        }
+    },
+    "status": [
+        {
+            "id": 62715,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 62715,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 62715,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

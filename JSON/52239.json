@@ -1,0 +1,74 @@
+{
+    "activityid": 52239,
+    "fields": {
+        "Type": "Book",
+        "Title": "Democracy at Work: Pathways to well-being in Brazil",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Edition": "1st",
+        "Volume": "",
+        "Publisher": "Cambridge University Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111670037",
+    "coauthors": {
+        "242237": {
+            "firstname": "Brian",
+            "middleinitial": "D",
+            "lastname": "Wampler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111670037",
+            "authorid": 242237,
+            "scholarlyactivityid": 52239,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "242238": {
+            "firstname": "Natasha",
+            "middleinitial": "",
+            "lastname": "Sugiyama",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242238,
+            "scholarlyactivityid": 52239,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "242239": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Touchton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242239,
+            "scholarlyactivityid": 52239,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52239,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111670037",
+    "attachments": []
+}

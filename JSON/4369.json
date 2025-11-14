@@ -1,0 +1,66 @@
+{
+    "activityid": 4369,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Grip norms and reliability of the hand grip ForceMap system",
+        "Journal": "Journal of Hand Surgery, European",
+        "Volume": "6",
+        "Month / Season": "2013-06-05",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "33-35",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111111948",
+    "coauthors": {
+        "13090": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "DeBeliso",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13090,
+            "scholarlyactivityid": 4369
+        },
+        "13091": {
+            "firstname": "John",
+            "middleinitial": "W",
+            "lastname": "McChesney",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111948",
+            "authorid": 13091,
+            "scholarlyactivityid": 4369
+        },
+        "13092": {
+            "firstname": "Lou",
+            "middleinitial": "",
+            "lastname": "Murdock",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13092,
+            "scholarlyactivityid": 4369
+        }
+    },
+    "status": [
+        {
+            "id": 4369,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111948",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 1547,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tightening the Belt: Austerity and Alliance Formation",
+        "Journal": "International Studies Quarterly",
+        "Volume": "",
+        "Month / Season": "2012-02-03",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113153409",
+    "coauthors": {
+        "126381": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113153409",
+            "authorid": 126381,
+            "scholarlyactivityid": 1547
+        },
+        "126382": {
+            "firstname": "Mathew",
+            "middleinitial": "",
+            "lastname": "Diiuseppe",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 126382,
+            "scholarlyactivityid": 1547
+        }
+    },
+    "status": [
+        {
+            "id": 1547,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 1547,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113153409",
+    "attachments": []
+}

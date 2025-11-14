@@ -1,0 +1,85 @@
+{
+    "activityid": 77277,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Decade-long Utilization Patterns of ICSE Technical Papers and Associated Artifacts",
+        "Name of Conference": "22nd IEEE/ACIS International Conference on Software Engineering Research, Management, and Applications (SERA 2024)",
+        "Month / Season": "May 30 - June 01",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114202830",
+    "coauthors": {
+        "345349": {
+            "firstname": "Sharif",
+            "middleinitial": "",
+            "lastname": "Ahmed",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345349,
+            "scholarlyactivityid": 77277,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345350": {
+            "firstname": "Rey",
+            "middleinitial": "",
+            "lastname": "Ortiz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345350,
+            "scholarlyactivityid": 77277,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345351": {
+            "firstname": "Nasir",
+            "middleinitial": "U",
+            "lastname": "Eisty",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114202830",
+            "authorid": 345351,
+            "scholarlyactivityid": 77277,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77277,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 77277,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114202830",
+    "attachments": []
+}

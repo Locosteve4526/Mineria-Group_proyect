@@ -1,0 +1,75 @@
+{
+    "activityid": 75999,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Trade-offs for Salmon Recovery Strategies in Idaho",
+        "Journal": "Ecology and Society",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111636450",
+    "coauthors": {
+        "337670": {
+            "firstname": "Jared",
+            "middleinitial": "L",
+            "lastname": "Talley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111636450",
+            "authorid": 337670,
+            "scholarlyactivityid": 75999,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "337671": {
+            "firstname": "Monica",
+            "middleinitial": "L",
+            "lastname": "Hubbard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114011762",
+            "authorid": 337671,
+            "scholarlyactivityid": 75999,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "337672": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Maas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337672,
+            "scholarlyactivityid": 75999,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75999,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111636450",
+    "attachments": []
+}

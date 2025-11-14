@@ -1,0 +1,85 @@
+{
+    "activityid": 62993,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Building a Microgravity-Compatible Vibrational Bioreactor: Development and Characterization of a Low-Indensity Vibrational System",
+        "Name of Conference": "Summer biomechanics, Bioengineering and Biotransport Conference",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114084469",
+    "coauthors": {
+        "290016": {
+            "firstname": "Omor",
+            "middleinitial": "",
+            "lastname": "Khan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290016,
+            "scholarlyactivityid": 62993,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "290017": {
+            "firstname": "Gunes",
+            "middleinitial": "",
+            "lastname": "Uzer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062489",
+            "authorid": 290017,
+            "scholarlyactivityid": 62993,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "290018": {
+            "firstname": "Aykut",
+            "middleinitial": "C",
+            "lastname": "Satici",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114084469",
+            "authorid": 290018,
+            "scholarlyactivityid": 62993,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62993,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 62993,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114084469",
+    "attachments": []
+}

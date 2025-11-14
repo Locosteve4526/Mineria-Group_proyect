@@ -1,0 +1,63 @@
+{
+    "activityid": 75448,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "IHI Model for IMprovement: A Path for Enhanced Course Design and Faculty Development",
+        "Name of Conference": "Western Institute of Nursing",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112188730",
+    "coauthors": {
+        "334517": {
+            "firstname": "Jason",
+            "middleinitial": "K",
+            "lastname": "Blomquist",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188730",
+            "authorid": 334517,
+            "scholarlyactivityid": 75448,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "334518": {
+            "firstname": "Renee",
+            "middleinitial": "",
+            "lastname": "Walters",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 334518,
+            "scholarlyactivityid": 75448,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75448,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188730",
+    "attachments": []
+}

@@ -1,0 +1,69 @@
+{
+    "activityid": 58610,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "R Package troopdata",
+        "Outlet (if applicable)": "CRAN",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://github.com/meflynn/troopdata",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113153409",
+    "coauthors": {
+        "273405": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113153409",
+            "authorid": 273405,
+            "scholarlyactivityid": 58610
+        },
+        "273406": {
+            "firstname": "Michael",
+            "middleinitial": "E",
+            "lastname": "Flynn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273406,
+            "scholarlyactivityid": 58610
+        },
+        "273407": {
+            "firstname": "Carla",
+            "middleinitial": "",
+            "lastname": "Martinez Machain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273407,
+            "scholarlyactivityid": 58610
+        }
+    },
+    "status": [
+        {
+            "id": 58610,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113153409",
+    "attachments": []
+}

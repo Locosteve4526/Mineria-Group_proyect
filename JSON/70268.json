@@ -1,0 +1,78 @@
+{
+    "activityid": 70268,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;span&gt;&lt;span style=&quot;font-size:11pt;background-color:transparent;font-style:italic;&quot;&gt;Planning for interactive distance education&lt;/span&gt;&lt;span style=&quot;font-size:11pt;background-color:transparent;&quot;&gt; (3rd ed.). EdTech Books.&lt;/span&gt;&lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://dx.doi.org/10.59668/858",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "317987": {
+            "firstname": "Cindy",
+            "middleinitial": "S",
+            "lastname": "York",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 317987,
+            "scholarlyactivityid": 70268
+        },
+        "317988": {
+            "firstname": "Patrick",
+            "middleinitial": "R",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 317988,
+            "scholarlyactivityid": 70268,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "317989": {
+            "firstname": "Mary",
+            "middleinitial": "",
+            "lastname": "Herring",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 317989,
+            "scholarlyactivityid": 70268
+        },
+        "317990": {
+            "firstname": "S",
+            "middleinitial": "E",
+            "lastname": "Smaldino",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 317990,
+            "scholarlyactivityid": 70268
+        }
+    },
+    "status": [
+        {
+            "id": 70268,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

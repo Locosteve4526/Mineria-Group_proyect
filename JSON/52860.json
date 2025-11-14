@@ -1,0 +1,62 @@
+{
+    "activityid": 52860,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "A336787: Incrementally largest values of minimal x satisfying the equation x^2 - D*y^2 = 2, where D is a prime number.",
+        "Outlet (if applicable)": "Online Encyclopedia of Integer Sequences",
+        "Date": "Aug 05 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Publisher": "Online Encyclopedia of Integer Sequences",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://oeis.org/A336787",
+        "Description/Abstract": "For D=31, the least x for which x^2-Dy^2=2 has a solution is 39. The next prime, D, for which x^2-Dy^2=2 has a solution is 47, but the smallest x in this case is 7, which is less than 39. The next prime, D, after 47 for which x^2-Dy^2=2 has a solution is 71 and the least x for which it has a solution is x=59, which is larger than 39, so it is a new record value. 71 qualifies for membership to the sequence A336786 and 59 qualifies for membership to A336787. 47 does not qualify because the least x for which x^2-47y^2=2 has a solution is not a record value.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "245868": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 245868,
+            "scholarlyactivityid": 52860
+        },
+        "245869": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245869,
+            "scholarlyactivityid": 52860,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52860,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

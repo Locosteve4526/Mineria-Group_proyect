@@ -1,0 +1,67 @@
+{
+    "activityid": 60432,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Transpulmonary pressure monitoring in patients with ARDS",
+        "Conference / Meeting Name": "American Association for Respiratory Care International Congress",
+        "Conference Location": "New Orleans, LA",
+        "Date or Date Range": "11/9/22",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111698779",
+    "coauthors": {
+        "286239": {
+            "firstname": "Kaina",
+            "middleinitial": "",
+            "lastname": "Gomard",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 286239,
+            "scholarlyactivityid": 60432,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "286240": {
+            "firstname": "Megan",
+            "middleinitial": "",
+            "lastname": "Koster",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111698779",
+            "authorid": 286240,
+            "scholarlyactivityid": 60432,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 60432,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 60432,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111698779",
+    "attachments": []
+}

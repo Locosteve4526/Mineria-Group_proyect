@@ -1,0 +1,86 @@
+{
+    "activityid": 24084,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Coherent Calculus Course Design: Creating Faculty Buy-in for Student Success",
+        "Name of Conference": "",
+        "Month / Season": "2015-01-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Seattle, WA ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110582",
+    "coauthors": {
+        "79848": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Bullock",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110582",
+            "authorid": 79848,
+            "scholarlyactivityid": 24084
+        },
+        "79849": {
+            "firstname": "Janet",
+            "middleinitial": "M",
+            "lastname": "Callahan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033791",
+            "authorid": 79849,
+            "scholarlyactivityid": 24084
+        },
+        "79850": {
+            "firstname": "Jude",
+            "middleinitial": "",
+            "lastname": "Garzolini",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 79850,
+            "scholarlyactivityid": 24084
+        },
+        "79851": {
+            "firstname": "Susan",
+            "middleinitial": "E",
+            "lastname": "Shadle",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 79851,
+            "scholarlyactivityid": 24084
+        }
+    },
+    "status": [
+        {
+            "id": 24084,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 24084,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110582",
+    "attachments": []
+}

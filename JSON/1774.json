@@ -1,0 +1,76 @@
+{
+    "activityid": 1774,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Investigating the Stratigraphy of an Alluvial Aquifer Using Crosswell Seismic Traveltime Tomography",
+        "Journal": "Geophysics",
+        "Volume": "71",
+        "Month / Season": "2006-05-24",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "B63\u2013B73",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1190/1.2195487",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/18",
+        "Description/Abstract": "In this study, we investigate the use of crosswell P-wave seismic tomography to obtain spatially extensive information about subsurface sedimentary architecture and heterogeneity in alluvial aquifers. Our field site was a research wellfield in an unconfined aquifer near Boise, Idaho. The aquifer consists of a ~ 20-m-thick sequence of alluvial cobble- and-sand deposits, which have been subdivided into five stratigraphic units based on neutron porosity logs, grainsize analysis, and radar reflection data. We collected crosswell and borehole-to-surface seismic data in wells 17.1 m apart. We carefully considered the impact of well deviation, data quality control, and the choice of inversion parameters. Our linearized inverse routine had a curved-ray forward model and used different grids for forward modeling and inversion. An analysis of the model covariance and resolution matrices showed that the velocity models had an uncertainty of &lt;10 m&gt;/s, a vertical resolution of ~ 1 m, and a horizontal resolution of ~ 5 m. The velocity in the saturated zone varied between 2100 m/s and 2700 m/s. Inclusion of the borehole-to-surface data eliminated the Xshaped pattern that is a common artifact in crosswell tomography, and the increased angular coverage also improved the accuracy of the model near the top of the tomogram. The final velocity model is consistent with previous stratigraphic analyses of the site, although the locations of some of the unit boundaries differ by as much as 2 m in places. The results of this study demonstrate that seismic tomography can be used to image the sedimentary architecture of unconsolidated alluvial aquifers, even when the lithologic contrasts between units are subtle.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4413": {
+            "firstname": "Geoff",
+            "middleinitial": "J.M.",
+            "lastname": "Moret",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4413,
+            "scholarlyactivityid": 1774
+        },
+        "4414": {
+            "firstname": "Michael",
+            "middleinitial": "D.",
+            "lastname": "Knoll",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4414,
+            "scholarlyactivityid": 1774
+        },
+        "4415": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4415,
+            "scholarlyactivityid": 1774
+        },
+        "4416": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Clement",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110004",
+            "authorid": 4416,
+            "scholarlyactivityid": 1774
+        }
+    },
+    "status": [
+        {
+            "id": 1774,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+    "activityid": 29636,
+    "fields": {
+        "Type": "Book",
+        "Title": "Love:  The Biology Behind the Heart",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Transaction Press",
+        "Publisher Location": "New Brunswick, NJ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "104192": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 104192,
+            "scholarlyactivityid": 29636,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29636,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

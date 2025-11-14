@@ -1,0 +1,86 @@
+{
+    "activityid": 63357,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Spatial dependence of the nonlinear BOLD response at short stimulus duration",
+        "Journal": "NeuroImage",
+        "Volume": "18",
+        "Month / Season": null,
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "990-1000",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Most functional magnetic resonance imaging studies use linear models to predict the measured response by convolution of an impulse response with the stimulus profile. Using very short visual presentation times (&lt;2 s), deviation from the linear model in the measured BOLD data from the human brain was found for the response integral, amplitude, and width. In this study, high temporal and spatial resolution were used to quantify nonlinear effects and investigate the spatial dependence. Data at 4 Tesla showed at short stimulus duration a nonlinearity, i.e., deviation from a linear model, with an index up to 400%, whereas data at 7 Tesla exhibited a nonlinearity index up to 40%. The effect was more pronounced for response amplitude than for response area. A reduced width and sharpening of responses at shorter stimulus duration was also found. A voxel-based analysis of 7 Tesla data with 1.2 x 1.2 x 2 mm(3) resolution revealed a correlation between response onset and nonlinearity index. This suggests that the nonlinearity effects are a tissue-specific phenomenon and are likely to be more localized to the site of neuronal activity. The observed magnetic field dependence and the demonstrated nonlinearity in the response width support the hypothesis that the source of the nonlinearity at short stimulus duration has a considerable hemodynamic contribution. The nonlinearity was modeled as a &quot;switch&quot;-type initial hemodynamic response onset. Understanding these nonlinearities in the BOLD response is important for design and the analysis of rapid event-related fMRI experiments with brief stimulus presentations.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114225122",
+    "coauthors": {
+        "291967": {
+            "firstname": "Josef",
+            "middleinitial": "",
+            "lastname": "Pfeuffer",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291967,
+            "scholarlyactivityid": 63357
+        },
+        "291968": {
+            "firstname": "Jeffrey ",
+            "middleinitial": "C",
+            "lastname": "McCullough",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291968,
+            "scholarlyactivityid": 63357
+        },
+        "291969": {
+            "firstname": "Pierre ",
+            "middleinitial": "F",
+            "lastname": "Van de Moortele",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291969,
+            "scholarlyactivityid": 63357
+        },
+        "291970": {
+            "firstname": "Kamil",
+            "middleinitial": "",
+            "lastname": "Ugurbil",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291970,
+            "scholarlyactivityid": 63357
+        },
+        "291971": {
+            "firstname": "Xiaoping",
+            "middleinitial": "",
+            "lastname": "Hu",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291971,
+            "scholarlyactivityid": 63357
+        }
+    },
+    "status": [
+        {
+            "id": 63357,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2003,
+            "termid": "2002/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114225122",
+    "attachments": []
+}

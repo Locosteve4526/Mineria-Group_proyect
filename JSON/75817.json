@@ -1,0 +1,45 @@
+{
+    "activityid": 75817,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Design Choices When Implementing Your API ",
+        "Conference/Meeting Name": "phptek 2025",
+        "Conference Location": "Chicago, IL, USA",
+        "Date or Date Range": "May 20-22, 2025",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "php[architect]",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Application Programming Interfaces (APIs) are fundamental to how information travels across the Internet. They help to standardize communication between different applications using the HTTP protocol. While APIs can be extremely helpful, there are multiple questions that need to be answered before implementation. When is an API really needed? What should its endpoints be? If a database is needed, is raw SQL or an ORM better? These decisions among others will be reviewed in this presentation to help professionals better understand when they need an API and how to implement them.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114197579",
+    "coauthors": {
+        "336819": {
+            "firstname": "Jack",
+            "middleinitial": "D",
+            "lastname": "Polifka",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114197579",
+            "authorid": 336819,
+            "scholarlyactivityid": 75817,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75817,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2025,
+            "termid": "2025/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114197579",
+    "attachments": []
+}

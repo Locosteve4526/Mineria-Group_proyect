@@ -1,0 +1,62 @@
+{
+    "activityid": 17558,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "SWITCH (SouthWest Idaho: The Comprehensive Herbarium)",
+        "Conference/Meeting Name": "Botany 2012",
+        "Conference Location": "Columbus, OH",
+        "Date or Date Range": "2012-07-13",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "ASPT",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "68743": {
+            "firstname": "Alexa",
+            "middleinitial": "",
+            "lastname": "DiNicola",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68743,
+            "scholarlyactivityid": 17558
+        },
+        "68744": {
+            "firstname": "Don",
+            "middleinitial": "E.",
+            "lastname": "Mansfield",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68744,
+            "scholarlyactivityid": 17558
+        },
+        "68745": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 68745,
+            "scholarlyactivityid": 17558
+        }
+    },
+    "status": [
+        {
+            "id": 17558,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

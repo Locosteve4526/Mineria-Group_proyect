@@ -1,0 +1,75 @@
+{
+    "activityid": 44979,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Social Innovation: A multi-lens approach to framing the discussion",
+        "Name of Conference": "ICSB Italy- Salerno University Global Entrepreneurship Conference",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643654",
+    "coauthors": {
+        "204658": {
+            "firstname": "Bastian",
+            "middleinitial": "",
+            "lastname": "Thomsen",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114003452",
+            "authorid": 204658,
+            "scholarlyactivityid": 44979
+        },
+        "204657": {
+            "firstname": "Kent",
+            "middleinitial": "",
+            "lastname": "Neupert",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111643654",
+            "authorid": 204657,
+            "scholarlyactivityid": 44979
+        }
+    },
+    "status": [
+        {
+            "id": 44979,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 44979,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 44979,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643654",
+    "attachments": []
+}

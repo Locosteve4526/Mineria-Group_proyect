@@ -1,0 +1,66 @@
+{
+    "activityid": 44206,
+    "fields": {
+        "Type": "Instructional Publications",
+        "Title": "Navigating Linux Systems",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Organization (if applicable)": "",
+        "Issue Number/Edition": "",
+        "Page Numbers": "1-95",
+        "Publisher": "",
+        "ISBN/ISSN/ASIN #": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "DOI": "",
+        "Author(s)": null,
+        "Web Address": "http://cs.boisestate.edu/~amit/teaching/handouts/cs-linux.pdf",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110305",
+    "coauthors": {
+        "200245": {
+            "firstname": "Amit",
+            "middleinitial": "",
+            "lastname": "Jain",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110305",
+            "authorid": 200245,
+            "scholarlyactivityid": 44206
+        },
+        "200246": {
+            "firstname": "Lucas",
+            "middleinitial": "",
+            "lastname": "Hindman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111604479",
+            "authorid": 200246,
+            "scholarlyactivityid": 44206
+        },
+        "200247": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Rickerd",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200247,
+            "scholarlyactivityid": 44206
+        }
+    },
+    "status": [
+        {
+            "id": 44206,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110305",
+    "attachments": []
+}

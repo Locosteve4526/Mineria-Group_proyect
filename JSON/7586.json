@@ -1,0 +1,53 @@
+{
+    "activityid": 7586,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "You Say Tomato",
+        "Name of Performing Group": "",
+        "Date or Date Range": "2011-03-26",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Name of Venue/Sponsor": " Toi Poneke",
+        "Venue / Sponsor Location (City, State, Country)": "Wellington, NZ",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113088529",
+    "coauthors": {
+        "22482": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113088529",
+            "authorid": 22482,
+            "scholarlyactivityid": 7586
+        },
+        "22483": {
+            "firstname": "Mary",
+            "middleinitial": "Caroline",
+            "lastname": "Earley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113081342",
+            "authorid": 22483,
+            "scholarlyactivityid": 7586
+        }
+    },
+    "status": [
+        {
+            "id": 7586,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113088529",
+    "attachments": []
+}

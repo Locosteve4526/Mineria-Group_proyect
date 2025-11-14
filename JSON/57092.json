@@ -1,0 +1,80 @@
+{
+    "activityid": 57092,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Creating Space for Empathy: Perspectives on Challenges of Teaching Design Thinking to Future Engineers",
+        "Journal": "International Journal of Engineering Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669747",
+    "coauthors": {
+        "264737": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Biaraktarova",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264737,
+            "scholarlyactivityid": 57092,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "264738": {
+            "firstname": "Donald",
+            "middleinitial": "Gene",
+            "lastname": "Plumlee Jr",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669747",
+            "authorid": 264738,
+            "scholarlyactivityid": 57092,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57092,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 57092,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 57092,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111669747",
+    "attachments": []
+}

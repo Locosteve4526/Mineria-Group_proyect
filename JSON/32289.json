@@ -1,0 +1,97 @@
+{
+    "activityid": 32289,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Evidence-based survey design: The use of a midpoint on Likert-like scales",
+        "Journal": "Performance Improvement",
+        "Volume": "56",
+        "Month / Season": "November/December",
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "15-23",
+        "Publisher": "Wiley",
+        "DOI": "10.1002/pfi.21727",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1002/pfi.21727",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175161": {
+            "firstname": "Seung Youn",
+            "middleinitial": "",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175161,
+            "scholarlyactivityid": 32289,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175162": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Roberts",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175162,
+            "scholarlyactivityid": 32289,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "175163": {
+            "firstname": "Ieva",
+            "middleinitial": "",
+            "lastname": "Swanson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175163,
+            "scholarlyactivityid": 32289,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "175164": {
+            "firstname": "Andrea",
+            "middleinitial": "",
+            "lastname": "Hankinson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175164,
+            "scholarlyactivityid": 32289,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32289,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 32289,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

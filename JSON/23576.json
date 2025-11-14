@@ -1,0 +1,55 @@
+{
+    "activityid": 23576,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Curious Reader: Exploring Personal and Academic Inquiry",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Longman",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Longman",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/162",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "78699": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 78699,
+            "scholarlyactivityid": 23576
+        },
+        "78700": {
+            "firstname": "Michelle",
+            "middleinitial": "Marie",
+            "lastname": "Payne",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110239",
+            "authorid": 78700,
+            "scholarlyactivityid": 23576
+        }
+    },
+    "status": [
+        {
+            "id": 23576,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2003,
+            "termid": "2002/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

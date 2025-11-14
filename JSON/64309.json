@@ -1,0 +1,75 @@
+{
+    "activityid": 64309,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:11pt;&quot;&gt;Frustration \u2013 Analyzing a Card Game with Probability&lt;/span&gt;",
+        "Journal": "Mathematics Teacher: Learning and Teaching PK-12",
+        "Volume": "115",
+        "Month / Season": "",
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://pubs.nctm.org/view/journals/mtlt/115/10/article-p713.xml",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114000904",
+    "coauthors": {
+        "296893": {
+            "firstname": "Josie",
+            "middleinitial": "",
+            "lastname": "Derrick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296893,
+            "scholarlyactivityid": 64309,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296894": {
+            "firstname": "Joe",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 296894,
+            "scholarlyactivityid": 64309,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296895": {
+            "firstname": "Ramey",
+            "middleinitial": "A",
+            "lastname": "Uriarte",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111342833",
+            "authorid": 296895,
+            "scholarlyactivityid": 64309,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64309,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114000904",
+    "attachments": []
+}

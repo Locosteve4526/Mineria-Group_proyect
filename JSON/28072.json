@@ -1,0 +1,71 @@
+{
+    "activityid": 28072,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An Exploration of \u2018Sticky\u2019 Inventory Management in Manufacturing",
+        "Journal": "Production Planning &amp; Control",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113108244",
+    "coauthors": {
+        "186131": {
+            "firstname": "James",
+            "middleinitial": "Raymond",
+            "lastname": "Kroes Ph.D.",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113108244",
+            "authorid": 186131,
+            "scholarlyactivityid": 28072,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "186132": {
+            "firstname": "Andrew",
+            "middleinitial": "S",
+            "lastname": "Manikas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 186132,
+            "scholarlyactivityid": 28072,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28072,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 28072,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113108244",
+    "attachments": []
+}

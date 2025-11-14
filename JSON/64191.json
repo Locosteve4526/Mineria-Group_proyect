@@ -1,0 +1,102 @@
+{
+    "activityid": 64191,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Co-Author",
+        "Conference/Meeting Name": "American Academcy of Advertising",
+        "Conference Location": "Denver, CO, USA",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114229877",
+    "coauthors": {
+        "318628": {
+            "firstname": "Hye Jin",
+            "middleinitial": "",
+            "lastname": "Yoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318628,
+            "scholarlyactivityid": 64191,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318629": {
+            "firstname": "Yoon-Joo",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318629,
+            "scholarlyactivityid": 64191,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318630": {
+            "firstname": "Jinho",
+            "middleinitial": "",
+            "lastname": "Joo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114229877",
+            "authorid": 318630,
+            "scholarlyactivityid": 64191,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318631": {
+            "firstname": "Youngjee",
+            "middleinitial": "",
+            "lastname": "Ko",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318631,
+            "scholarlyactivityid": 64191,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64191,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 64191,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 64191,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114229877",
+    "attachments": []
+}

@@ -1,0 +1,102 @@
+{
+    "activityid": 54691,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "How long is a year? A deeper look at 52/53-week reporting conventions",
+        "Journal": "CPA Journal, The",
+        "Volume": "92",
+        "Month / Season": "",
+        "Issue Number": "1/2",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "42-46",
+        "Publisher": "New York State Society of Certified Public Accountants",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106358",
+    "coauthors": {
+        "327014": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 327014,
+            "scholarlyactivityid": 54691
+        },
+        "327015": {
+            "firstname": "S. Allen",
+            "middleinitial": "",
+            "lastname": "Hartt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106358",
+            "authorid": 327015,
+            "scholarlyactivityid": 54691
+        },
+        "327016": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 327016,
+            "scholarlyactivityid": 54691
+        }
+    },
+    "status": [
+        {
+            "id": 54691,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54691,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 54691,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 54691,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 54691,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114106358",
+    "attachments": []
+}

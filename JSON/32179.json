@@ -1,0 +1,65 @@
+{
+    "activityid": 32179,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Confocal polarization Raman spectroscopy and AFM for evaluation of sidewalls in type II superlattices FPAs",
+        "Conference / Meeting Name": "SPIE Photonics West, Conference 9744: Optical Components and Materials XIII",
+        "Conference Location": "San Francisco, CA",
+        "Date or Date Range": "13\u201318 February 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "SPIE",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Long-wave (LW) and multicolor infrared (IR) detectors are desirable in a variety of applications related to remote sensing and object identification.\r\nDetectors based on mercury cadmium telluride (MCT) and quantum well\r\ninfrared detectors (QWIPs) have been the dominant technologies for such\r\napplications. InAs/GaSb type-II strained layer superlattice (T2SL) detectors\r\nare predicted to have a number of advantages over MCT devices, including\r\nlower tunneling currents, suppressed Auger recombination, and an improved\r\nbandgap uniformity over large areas. By optimizing the oscillator strength\r\nin T2SL, a large quantum efficiency may be obtained that surmounts the\r\ninherent problem of QWIP detectors. Moreover, the commercial availability\r\nof substrates with good electro-optical homogeneity, and without large\r\ncluster defects, also offers advantages for T2SL technology.\r\nHowever, due to complexity of InAs/GaSb system, etch and passivation\r\nof T2SL detectors is still an issue especially in LWIR spectral range. We\r\npropose to utilize the confocal Raman spectroscopy combined with the\r\nhigh resolution AFM technique to access the sidewall profiles of etch and\r\npassivated small (24\u03bcm x 24\u03bcm) focal plane array (FPA) features fabricated\r\nusing LW/LWIR T2SL detector material. Special high aspect ratio Si and\r\nGaAs AFM probes, with tip length of 13\u03bcm and tip aperture less than\r\n7\u00b0, allow imaging of sidewall profile through optical sectioning. Raman\r\nspectra measured on etched T2SL FPA single pixels allow to quantify the\r\nnon-uniformity of mesa delineation process. More experimental details on\r\nnon-destructive characterization of T2SL FPAs will be discussed during the\r\npresentation.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112104411",
+    "coauthors": {
+        "123438": {
+            "firstname": "Alexander",
+            "middleinitial": "A",
+            "lastname": "Ukhavov",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123438,
+            "scholarlyactivityid": 32179,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "123439": {
+            "firstname": "Dmitri",
+            "middleinitial": "A",
+            "lastname": "Tenne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112104411",
+            "authorid": 123439,
+            "scholarlyactivityid": 32179
+        },
+        "123440": {
+            "firstname": "et",
+            "middleinitial": "",
+            "lastname": "al",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123440,
+            "scholarlyactivityid": 32179
+        }
+    },
+    "status": [
+        {
+            "id": 32179,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112104411",
+    "attachments": []
+}

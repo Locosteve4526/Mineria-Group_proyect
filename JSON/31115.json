@@ -1,0 +1,71 @@
+{
+    "activityid": 31115,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Burrowing Owl fleas during a ground squirrel plague epizootic",
+        "Conference/Meeting Name": "REU Forum on STEM, 29 June 2016",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "6/29/16",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Four Boise State University REU programs",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "115909": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Elgin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 115909,
+            "scholarlyactivityid": 31115,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "115910": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Bernhardt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 115910,
+            "scholarlyactivityid": 31115,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "115911": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 115911,
+            "scholarlyactivityid": 31115,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31115,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

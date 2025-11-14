@@ -1,0 +1,42 @@
+{
+    "activityid": 12009,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Creating Civility in Nursing Education and Practice",
+        "Conference/Meeting Name": "Fresno City College",
+        "Conference Location": "Fresno, CA",
+        "Date or Date Range": "2012-01-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "Fresno City College",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110314",
+    "coauthors": {
+        "55885": {
+            "firstname": "Cynthia",
+            "middleinitial": "M",
+            "lastname": "Clark",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110314",
+            "authorid": 55885,
+            "scholarlyactivityid": 12009
+        }
+    },
+    "status": [
+        {
+            "id": 12009,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110314",
+    "attachments": []
+}

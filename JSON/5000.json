@@ -1,0 +1,66 @@
+{
+    "activityid": 5000,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The environment, human health, and nursing practice: A survey of Idaho RNs",
+        "Journal": "Creative Education",
+        "Volume": "2",
+        "Month / Season": "2011-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "321-326",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112014101",
+    "coauthors": {
+        "15070": {
+            "firstname": "Patricia",
+            "middleinitial": "R",
+            "lastname": "Elison-Bowers",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110810",
+            "authorid": 15070,
+            "scholarlyactivityid": 5000
+        },
+        "15071": {
+            "firstname": "Nancy",
+            "middleinitial": "S",
+            "lastname": "Otterness",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110315",
+            "authorid": 15071,
+            "scholarlyactivityid": 5000
+        },
+        "15072": {
+            "firstname": "Mary",
+            "middleinitial": "Elizabeth",
+            "lastname": "Pritchard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112014101",
+            "authorid": 15072,
+            "scholarlyactivityid": 5000
+        }
+    },
+    "status": [
+        {
+            "id": 5000,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112014101",
+    "attachments": []
+}

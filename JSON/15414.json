@@ -1,0 +1,52 @@
+{
+    "activityid": 15414,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Read, write, perform two-voice poetry ",
+        "Conference/Meeting Name": "annual conference of the National Council of Teachers of English ",
+        "Conference Location": "New York, NY",
+        "Date or Date Range": "2007-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Sponsoring Organization": "National Council of Teachers of English",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111728011",
+    "coauthors": {
+        "63690": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111728011",
+            "authorid": 63690,
+            "scholarlyactivityid": 15414
+        },
+        "63691": {
+            "firstname": "R",
+            "middleinitial": "",
+            "lastname": "Palmer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 63691,
+            "scholarlyactivityid": 15414
+        }
+    },
+    "status": [
+        {
+            "id": 15414,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728011",
+    "attachments": []
+}

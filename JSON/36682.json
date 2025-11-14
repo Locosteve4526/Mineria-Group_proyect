@@ -1,0 +1,80 @@
+{
+    "activityid": 36682,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Examining the role of humor in leader-subordinate relationships and employee attitudes and behavior",
+        "Conference/Meeting Name": "Academy of Management Annual Conference",
+        "Conference Location": "Boston, Massachusetts ",
+        "Date or Date Range": "August 2012",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065551",
+    "coauthors": {
+        "194975": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Robert",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194975,
+            "scholarlyactivityid": 36682,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "194976": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Dunne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065551",
+            "authorid": 194976,
+            "scholarlyactivityid": 36682,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "194977": {
+            "firstname": "Joyce",
+            "middleinitial": "",
+            "lastname": "Iun",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194977,
+            "scholarlyactivityid": 36682,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 36682,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 36682,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065551",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 77137,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Blood lactate: Friend, foe or fuel? Improving our understanding of a misunderstood substance",
+        "Name of Conference": "American College of Sports Medicine, Midwest Region Meeting",
+        "Month / Season": "Oct",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "343982": {
+            "firstname": "B",
+            "middleinitial": "R",
+            "lastname": "Rider",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343982,
+            "scholarlyactivityid": 77137,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "343983": {
+            "firstname": "A",
+            "middleinitial": "HK",
+            "lastname": "Montoye",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343983,
+            "scholarlyactivityid": 77137,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "343984": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 343984,
+            "scholarlyactivityid": 77137,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77137,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

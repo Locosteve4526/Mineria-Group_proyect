@@ -1,0 +1,52 @@
+{
+    "activityid": 15181,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Instructional design lessons learned from reviewing popular infographics.",
+        "Conference/Meeting Name": "Paper presented at the annual meeting of the American Educational Research Association",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "2015, April",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "145868": {
+            "firstname": "Joanna",
+            "middleinitial": "C.",
+            "lastname": "Dunlap",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145868,
+            "scholarlyactivityid": 15181
+        },
+        "145869": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 145869,
+            "scholarlyactivityid": 15181
+        }
+    },
+    "status": [
+        {
+            "id": 15181,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

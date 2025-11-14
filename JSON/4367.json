@@ -1,0 +1,66 @@
+{
+    "activityid": 4367,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Hand Grip ForceMAP System",
+        "Journal": "International Journal of Science and Engineering Investigations",
+        "Volume": "1",
+        "Month / Season": "2012-09-23",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "76-78",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111111948",
+    "coauthors": {
+        "13081": {
+            "firstname": "John",
+            "middleinitial": "W",
+            "lastname": "McChesney",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111948",
+            "authorid": 13081,
+            "scholarlyactivityid": 4367
+        },
+        "13082": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "DeBeliso",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13082,
+            "scholarlyactivityid": 4367
+        },
+        "13083": {
+            "firstname": "Lou",
+            "middleinitial": "",
+            "lastname": "Murdock",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13083,
+            "scholarlyactivityid": 4367
+        }
+    },
+    "status": [
+        {
+            "id": 4367,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111948",
+    "attachments": []
+}

@@ -1,0 +1,66 @@
+{
+    "activityid": 46777,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An Integrated Framework Based on Latent Variational Autoencoder for Providing Early Warning of At-Risk Students",
+        "Journal": "IEEE ACCESS",
+        "Volume": "8",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "10110-10122",
+        "Publisher": "",
+        "DOI": "10.1109/ACCESS.2020.2964845",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "213643": {
+            "firstname": "Xu",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213643,
+            "scholarlyactivityid": 46777
+        },
+        "213644": {
+            "firstname": "Juan",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213644,
+            "scholarlyactivityid": 46777
+        },
+        "213645": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 213645,
+            "scholarlyactivityid": 46777
+        }
+    },
+    "status": [
+        {
+            "id": 46777,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

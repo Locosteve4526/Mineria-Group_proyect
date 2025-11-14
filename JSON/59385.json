@@ -1,0 +1,96 @@
+{
+    "activityid": 59385,
+    "fields": {
+        "Type": "Book",
+        "Title": "Casing Interpersonal Communication",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "3",
+        "Volume": "",
+        "Publisher": "Kendall Hunt",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114060624",
+    "coauthors": {
+        "294531": {
+            "firstname": "Dawn",
+            "middleinitial": "O",
+            "lastname": "Braithwaite",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294531,
+            "scholarlyactivityid": 59385,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "294532": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Child",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294532,
+            "scholarlyactivityid": 59385,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "294533": {
+            "firstname": "Kelly",
+            "middleinitial": "R",
+            "lastname": "Rossetto",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060624",
+            "authorid": 294533,
+            "scholarlyactivityid": 59385,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "294534": {
+            "firstname": "Julia",
+            "middleinitial": "T",
+            "lastname": "Wood",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294534,
+            "scholarlyactivityid": 59385,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59385,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59385,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114060624",
+    "attachments": []
+}

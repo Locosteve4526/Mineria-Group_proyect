@@ -1,0 +1,84 @@
+{
+    "activityid": 46010,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Understanding Rater Behavior.",
+        "Conference/Meeting Name": "Pacific Coast Research Conference",
+        "Conference Location": "Coronado",
+        "Date or Date Range": "February 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "209803": {
+            "firstname": "Yuzhu",
+            "middleinitial": "",
+            "lastname": "Zheng",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209803,
+            "scholarlyactivityid": 46010,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "209804": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 209804,
+            "scholarlyactivityid": 46010,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "209805": {
+            "firstname": "Angela",
+            "middleinitial": "R",
+            "lastname": "Crawford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209805,
+            "scholarlyactivityid": 46010,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "209806": {
+            "firstname": "Laura",
+            "middleinitial": "A",
+            "lastname": "Moylan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209806,
+            "scholarlyactivityid": 46010,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46010,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

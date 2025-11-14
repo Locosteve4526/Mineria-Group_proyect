@@ -1,0 +1,67 @@
+{
+    "activityid": 70433,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:11pt;&quot;&gt;Establishing a Domestic HALEU Supply Chain&lt;/span&gt;",
+        "Name of Conference": "Transactions of the American Nuclear Society",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111641391",
+    "coauthors": {
+        "318839": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Cole",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318839,
+            "scholarlyactivityid": 70433
+        },
+        "318840": {
+            "firstname": "A",
+            "middleinitial": "",
+            "lastname": "Levin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318840,
+            "scholarlyactivityid": 70433
+        },
+        "318841": {
+            "firstname": "Brian",
+            "middleinitial": "J",
+            "lastname": "Jaques",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111641391",
+            "authorid": 318841,
+            "scholarlyactivityid": 70433
+        }
+    },
+    "status": [
+        {
+            "id": 70433,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111641391",
+    "attachments": []
+}

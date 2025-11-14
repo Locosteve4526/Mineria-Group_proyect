@@ -1,0 +1,45 @@
+{
+    "activityid": 33857,
+    "fields": {
+        "Type": "Book",
+        "Title": "Passing Through:  An Idaho Archaeologist's Memoir",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Big Springs Press",
+        "Publisher Location": "Boise, Idaho",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110261",
+    "coauthors": {
+        "135192": {
+            "firstname": "Mark",
+            "middleinitial": "G",
+            "lastname": "Plew",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110261",
+            "authorid": 135192,
+            "scholarlyactivityid": 33857
+        }
+    },
+    "status": [
+        {
+            "id": 33857,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110261",
+    "attachments": []
+}

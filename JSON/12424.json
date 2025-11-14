@@ -1,0 +1,52 @@
+{
+    "activityid": 12424,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "You Don\u2019t Get Answers if You Don\u2019t Have Questions",
+        "Conference/Meeting Name": "Leonardo da Vinci: Man-Inventor-Genius &amp; Man-Artist-Genius",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2014-08-14",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "Discovery Center",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "56625": {
+            "firstname": "Quincy",
+            "middleinitial": "",
+            "lastname": "Conley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114016527",
+            "authorid": 56625,
+            "scholarlyactivityid": 12424
+        },
+        "56626": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 56626,
+            "scholarlyactivityid": 12424
+        }
+    },
+    "status": [
+        {
+            "id": 12424,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

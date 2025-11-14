@@ -1,0 +1,80 @@
+{
+    "activityid": 10176,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "An Exploration of College Students\u2019 Problems with Construction-related Math Skills",
+        "Conference/Meeting Name": "Conference on Creative Education",
+        "Conference Location": "Beijing",
+        "Date or Date Range": "2015-05-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002217",
+    "coauthors": {
+        "89759": {
+            "firstname": "Jesus",
+            "middleinitial": "",
+            "lastname": "Trespalacios",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002217",
+            "authorid": 89759,
+            "scholarlyactivityid": 10176,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "89760": {
+            "firstname": "Dazhi",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113078547",
+            "authorid": 89760,
+            "scholarlyactivityid": 10176,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "89761": {
+            "firstname": "Kirsten",
+            "middleinitial": "A",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112103256",
+            "authorid": 89761,
+            "scholarlyactivityid": 10176,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 10176,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10176,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114002217",
+    "attachments": []
+}

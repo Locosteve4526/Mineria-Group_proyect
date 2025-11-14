@@ -1,0 +1,60 @@
+{
+    "activityid": 9825,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Why birds fly the coop",
+        "Conference/Meeting Name": "Science Research Symposium",
+        "Conference Location": "Hempstead, NY",
+        "Date or Date Range": "2005-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Sponsoring Organization": "Hofstra University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111277518",
+    "coauthors": {
+        "120987": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 120987,
+            "scholarlyactivityid": 9825
+        }
+    },
+    "status": [
+        {
+            "id": 9825,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9825,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 9825,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111277518",
+    "attachments": []
+}

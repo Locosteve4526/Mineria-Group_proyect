@@ -1,0 +1,55 @@
+{
+    "activityid": 75,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Incentive Effect in Share Contracts: The Case of Finite Resources",
+        "Journal": "International Advances in Economic Research",
+        "Volume": "6",
+        "Month / Season": "2000-07-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Page Numbers": "461-473",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "203369": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 203369,
+            "scholarlyactivityid": 75
+        }
+    },
+    "status": [
+        {
+            "id": 75,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 75,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2000,
+            "termid": "2000/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

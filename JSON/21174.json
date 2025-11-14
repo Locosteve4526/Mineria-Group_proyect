@@ -1,0 +1,62 @@
+{
+    "activityid": 21174,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "GeePerS*Math Android development",
+        "Conference/Meeting Name": "Science Unwrapped",
+        "Conference Location": "Logan, UT",
+        "Date or Date Range": "2012-02-24",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "College of Science, Utah State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "76343": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Manoa",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76343,
+            "scholarlyactivityid": 21174
+        },
+        "76344": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 76344,
+            "scholarlyactivityid": 21174
+        },
+        "76345": {
+            "firstname": "Mary",
+            "middleinitial": "Ann",
+            "lastname": "Parlin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76345,
+            "scholarlyactivityid": 21174
+        }
+    },
+    "status": [
+        {
+            "id": 21174,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 20122,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Intellectual Property Issues as Constraints in Design Thinking Projects",
+        "Name of Conference": "DesignEd Asia",
+        "Month / Season": "2013-12-03",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": null,
+        "Publisher": "Hong Kong Design Centre and Hong Kong Trade Development Council",
+        "Publisher Location": "Hong Kong",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643654",
+    "coauthors": {
+        "134874": {
+            "firstname": "Christy",
+            "middleinitial": "",
+            "lastname": "Suciu",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111259074",
+            "authorid": 134874,
+            "scholarlyactivityid": 20122,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134875": {
+            "firstname": "Kent",
+            "middleinitial": "",
+            "lastname": "Neupert",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643654",
+            "authorid": 134875,
+            "scholarlyactivityid": 20122,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134876": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Baughn",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110250",
+            "authorid": 134876,
+            "scholarlyactivityid": 20122,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20122,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643654",
+    "attachments": []
+}

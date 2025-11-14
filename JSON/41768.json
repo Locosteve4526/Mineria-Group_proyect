@@ -1,0 +1,55 @@
+{
+    "activityid": 41768,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Immunohistology Staining Colon Cancer Stroma in order to Determine Collagen XI Isoforms Expression",
+        "Conference/Meeting Name": "Three Minute Thesis",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "184940": {
+            "firstname": "Kali",
+            "middleinitial": "",
+            "lastname": "Woods",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 184940,
+            "scholarlyactivityid": 41768,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "184941": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 184941,
+            "scholarlyactivityid": 41768
+        }
+    },
+    "status": [
+        {
+            "id": 41768,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

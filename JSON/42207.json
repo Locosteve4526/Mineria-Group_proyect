@@ -1,0 +1,61 @@
+{
+    "activityid": 42207,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Political Will Hunting: Learning Political Will in Organizations",
+        "Conference/Meeting Name": "Interdisciplinary Perspectives on Leadership Symposium",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114105910",
+    "coauthors": {
+        "265710": {
+            "firstname": "Liam",
+            "middleinitial": "P",
+            "lastname": "Maher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114105910",
+            "authorid": 265710,
+            "scholarlyactivityid": 42207
+        },
+        "265711": {
+            "firstname": "Gerald",
+            "middleinitial": "R",
+            "lastname": "Ferris",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 265711,
+            "scholarlyactivityid": 42207
+        }
+    },
+    "status": [
+        {
+            "id": 42207,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42207,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114105910",
+    "attachments": []
+}

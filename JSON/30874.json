@@ -1,0 +1,73 @@
+{
+    "activityid": 30874,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Impedance-based water-quality monitoring sing parallel-plate method",
+        "Name of Conference": "ASCE Geo-Chicago 2016",
+        "Month / Season": "08/2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "ASCE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112176072",
+    "coauthors": {
+        "114458": {
+            "firstname": "Ali",
+            "middleinitial": "",
+            "lastname": "Nazaridaftari",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114458,
+            "scholarlyactivityid": 30874,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114459": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 114459,
+            "scholarlyactivityid": 30874,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114460": {
+            "firstname": "Kenneth",
+            "middleinitial": "A",
+            "lastname": "Cornell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033562",
+            "authorid": 114460,
+            "scholarlyactivityid": 30874
+        }
+    },
+    "status": [
+        {
+            "id": 30874,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112176072",
+    "attachments": []
+}

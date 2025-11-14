@@ -1,0 +1,52 @@
+{
+    "activityid": 12632,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "RTI for gifted and twice  exceptional students",
+        "Conference/Meeting Name": "Edufest",
+        "Conference Location": "Boise ID",
+        "Date or Date Range": "2011-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111346076",
+    "coauthors": {
+        "102905": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Dismuke",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111346076",
+            "authorid": 102905,
+            "scholarlyactivityid": 12632
+        },
+        "102906": {
+            "firstname": "Robin",
+            "middleinitial": "",
+            "lastname": "Sly",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 102906,
+            "scholarlyactivityid": 12632
+        }
+    },
+    "status": [
+        {
+            "id": 12632,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111346076",
+    "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+    "activityid": 26657,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Bundling",
+        "Book Title": "Wiley International Encyclopedia of Marketing",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "1",
+        "Publisher": "John Wiley and Sons",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "85220": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 85220,
+            "scholarlyactivityid": 26657
+        }
+    },
+    "status": [
+        {
+            "id": 26657,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

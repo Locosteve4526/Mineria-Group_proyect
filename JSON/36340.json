@@ -1,0 +1,84 @@
+{
+    "activityid": 36340,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Estimation of porosity and water saturation in dual porosity pyroclastic deposits from joint compression, shear, and electromagnetic velocities",
+        "Journal": "Geophysics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111688329",
+    "coauthors": {
+        "150143": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Gase",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 150143,
+            "scholarlyactivityid": 36340,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "150144": {
+            "firstname": "John",
+            "middleinitial": "H",
+            "lastname": "Bradford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111678864",
+            "authorid": 150144,
+            "scholarlyactivityid": 36340,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "150145": {
+            "firstname": "Brittany",
+            "middleinitial": "",
+            "lastname": "Brand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111688329",
+            "authorid": 150145,
+            "scholarlyactivityid": 36340,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 36340,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 36340,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111688329",
+    "attachments": []
+}

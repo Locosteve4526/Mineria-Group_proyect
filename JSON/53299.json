@@ -1,0 +1,87 @@
+{
+    "activityid": 53299,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Creative Economy: Arts, Cultural Value and Society in Practice",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Routledge Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116029",
+    "coauthors": {
+        "248717": {
+            "firstname": "Amanda",
+            "middleinitial": "G.",
+            "lastname": "Ashley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116029",
+            "authorid": 248717,
+            "scholarlyactivityid": 53299,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "248718": {
+            "firstname": "Shoshanah",
+            "middleinitial": "",
+            "lastname": "Goldberg-Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 248718,
+            "scholarlyactivityid": 53299,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "248719": {
+            "firstname": "Justin",
+            "middleinitial": "",
+            "lastname": "Meyer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 248719,
+            "scholarlyactivityid": 53299,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "248720": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Bubb",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 248720,
+            "scholarlyactivityid": 53299,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53299,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113116029",
+    "attachments": []
+}

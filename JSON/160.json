@@ -1,0 +1,66 @@
+{
+    "activityid": 160,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Do competitive priorities drive adoption of electronic commerce applications",
+        "Journal": "Journal of Supply Chain Management",
+        "Volume": "46",
+        "Month / Season": "2010-07-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "57-69",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112057162",
+    "coauthors": {
+        "429": {
+            "firstname": "Xiaowen",
+            "middleinitial": "",
+            "lastname": "Huang",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 429,
+            "scholarlyactivityid": 160
+        },
+        "430": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Gattiker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112057162",
+            "authorid": 430,
+            "scholarlyactivityid": 160
+        },
+        "431": {
+            "firstname": "Roger",
+            "middleinitial": "",
+            "lastname": "Schroder",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 431,
+            "scholarlyactivityid": 160
+        }
+    },
+    "status": [
+        {
+            "id": 160,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112057162",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 75044,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Leveraging Incrementaility of DFA to Improve Analysis over Octagons",
+        "Name of Conference": "Static Analysis Symposium (SAS)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113164447",
+    "coauthors": {
+        "331760": {
+            "firstname": "Kenny",
+            "middleinitial": "",
+            "lastname": "Ballou",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331760,
+            "scholarlyactivityid": 75044,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "331761": {
+            "firstname": "Elena",
+            "middleinitial": "A",
+            "lastname": "Sherman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113164447",
+            "authorid": 331761,
+            "scholarlyactivityid": 75044,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75044,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "113164447",
+    "attachments": []
+}

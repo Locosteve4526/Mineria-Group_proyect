@@ -1,0 +1,62 @@
+{
+    "activityid": 57157,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Writing a needs analysis: exploring the details",
+        "Journal": "Strength and Conditioning Journal",
+        "Volume": "43",
+        "Month / Season": "",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "87-95",
+        "Publisher": "",
+        "DOI": "doi.org/10.1519/SSC.0000000000000628",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://doi.org/10.1519/SSC.0000000000000628",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112145571",
+    "coauthors": {
+        "264089": {
+            "firstname": "Karis",
+            "middleinitial": "",
+            "lastname": "Scroggs",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264089,
+            "scholarlyactivityid": 57157,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "264090": {
+            "firstname": "Shawn",
+            "middleinitial": "R",
+            "lastname": "Simonson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 264090,
+            "scholarlyactivityid": 57157,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57157,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112145571",
+    "attachments": []
+}

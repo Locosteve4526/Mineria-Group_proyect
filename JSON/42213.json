@@ -1,0 +1,71 @@
+{
+    "activityid": 42213,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "My past and my friends: The role of change history and social influence in employee interpretation and acceptance of organizational change",
+        "Conference/Meeting Name": "Annual Meeting of the Southern Management Association",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114105910",
+    "coauthors": {
+        "260311": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Vardaman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 260311,
+            "scholarlyactivityid": 42213
+        },
+        "260312": {
+            "firstname": "Liam",
+            "middleinitial": "P",
+            "lastname": "Maher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114105910",
+            "authorid": 260312,
+            "scholarlyactivityid": 42213
+        },
+        "260313": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Sterling",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 260313,
+            "scholarlyactivityid": 42213
+        }
+    },
+    "status": [
+        {
+            "id": 42213,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42213,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114105910",
+    "attachments": []
+}

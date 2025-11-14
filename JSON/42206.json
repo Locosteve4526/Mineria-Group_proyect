@@ -1,0 +1,61 @@
+{
+    "activityid": 42206,
+    "fields": {
+        "Type": "Book",
+        "Title": "Victimology: Crime Victimization and Victim Services",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "Wolters Kluwer",
+        "Publisher Location": "Frederick, MD",
+        "ISBN": "978-1-4548-5096-0",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112182213",
+    "coauthors": {
+        "200171": {
+            "firstname": "Lisa",
+            "middleinitial": "Marie",
+            "lastname": "Growette Bostaph",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112002659",
+            "authorid": 200171,
+            "scholarlyactivityid": 42206,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "200172": {
+            "firstname": "Danielle",
+            "middleinitial": "",
+            "lastname": "Swerin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112182213",
+            "authorid": 200172,
+            "scholarlyactivityid": 42206,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42206,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112182213",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 22308,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The bodily sense of ownership: Limbs and tools",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "2016-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "In revision for submission to a different journal.\r\nRole:  Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "114045170",
+    "coauthors": {
+        "93462": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045170",
+            "authorid": 93462,
+            "scholarlyactivityid": 22308,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 22308,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 22308,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 22308,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 22308,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114045170",
+    "attachments": []
+}

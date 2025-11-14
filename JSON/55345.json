@@ -1,0 +1,67 @@
+{
+    "activityid": 55345,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Teaching Principles of Marketing: Student group projects from A to Z",
+        "Name of Conference": "Marketing Educators Association",
+        "Month / Season": "2016, April",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114179860",
+    "coauthors": {
+        "259644": {
+            "firstname": "Frank",
+            "middleinitial": "R",
+            "lastname": "Veltri",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114179860",
+            "authorid": 259644,
+            "scholarlyactivityid": 55345
+        },
+        "259645": {
+            "firstname": "A",
+            "middleinitial": "",
+            "lastname": "Scofield",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 259645,
+            "scholarlyactivityid": 55345
+        },
+        "259646": {
+            "firstname": "C",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 259646,
+            "scholarlyactivityid": 55345
+        }
+    },
+    "status": [
+        {
+            "id": 55345,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114179860",
+    "attachments": []
+}

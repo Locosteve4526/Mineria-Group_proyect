@@ -1,0 +1,58 @@
+{
+    "activityid": 44367,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Bridging the gap between basic research and clinical relevance",
+        "Conference / Meeting Name": "Computer Science Days Conference",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "March 15, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110166",
+    "coauthors": {
+        "201180": {
+            "firstname": "Dan",
+            "middleinitial": "",
+            "lastname": "Greiner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201180,
+            "scholarlyactivityid": 44367,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "201181": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Jorcyk",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 201181,
+            "scholarlyactivityid": 44367,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44367,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110166",
+    "attachments": []
+}

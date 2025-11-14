@@ -1,0 +1,66 @@
+{
+    "activityid": 30678,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Automated Feedback as a Convergence Tool",
+        "Journal": "Journal of Information Systems Education",
+        "Volume": "",
+        "Month / Season": "2016-05-23",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111321988",
+    "coauthors": {
+        "112915": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Chenoweth",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111716923",
+            "authorid": 112915,
+            "scholarlyactivityid": 30678
+        },
+        "112914": {
+            "firstname": "Karen",
+            "middleinitial": "D",
+            "lastname": "Corral",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112155629",
+            "authorid": 112914,
+            "scholarlyactivityid": 30678
+        },
+        "112913": {
+            "firstname": "Christopher",
+            "middleinitial": "Leo",
+            "lastname": "Scott",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111321988",
+            "authorid": 112913,
+            "scholarlyactivityid": 30678
+        }
+    },
+    "status": [
+        {
+            "id": 30678,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111321988",
+    "attachments": []
+}

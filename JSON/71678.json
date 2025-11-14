@@ -1,0 +1,63 @@
+{
+    "activityid": 71678,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Cooperative Verification of PLC Programs Using CoVeriTeam: Towards a reliable and secure Industrial Control Systems",
+        "Name of Conference": "Proceedings of Cyber-Physical Systems and Internet of Things Week 2023",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "37\u201342",
+        "Publisher": "Association for Computing Machinery",
+        "Publisher Location": "New York, NY, USA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1145/3576914.3587490",
+        "ISBN/ISSN #": "9798400700491",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;It is important that the programmed logic controller(PLC), the heart of industrial control systems (ICS), is formally verified to ensure that its safety and security requirements are met. However, the combination of the strengths of two or more verification tools to verify tasks has yet to be fully explored, especially in verification of safety-critical programs such as PLC programs. In this paper, we apply cooperative verification techniques by building a verifier validator (using Symbiotic as a verifier and the CPA checker as a validator). We investigate the possibilities of preventing false positives in verification results and discover how effective and efficient the (verifier-validator) is when compared with a single verification tool. The results show that the verifier validator was able to discover 3 properties that were not properly verified by a single verification tool in a shorter time span.&lt;/span&gt;",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114068806",
+    "coauthors": {
+        "326525": {
+            "firstname": "Chibuzo",
+            "middleinitial": "",
+            "lastname": "Ukegbu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326525,
+            "scholarlyactivityid": 71678,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "326526": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326526,
+            "scholarlyactivityid": 71678,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71678,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114068806",
+    "attachments": []
+}

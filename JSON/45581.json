@@ -1,0 +1,85 @@
+{
+    "activityid": 45581,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Student Paper: Development of a molecular model for understanding the polymer-metal interface in solid state pumps",
+        "Journal": "JOCSE",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "213182": {
+            "firstname": "Jaime",
+            "middleinitial": "D",
+            "lastname": "Guevara",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213182,
+            "scholarlyactivityid": 45581
+        },
+        "213183": {
+            "firstname": "Matthew",
+            "middleinitial": "L",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213183,
+            "scholarlyactivityid": 45581
+        },
+        "213184": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 213184,
+            "scholarlyactivityid": 45581
+        },
+        "213185": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Jankowski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213185,
+            "scholarlyactivityid": 45581
+        }
+    },
+    "status": [
+        {
+            "id": 45581,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 45581,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

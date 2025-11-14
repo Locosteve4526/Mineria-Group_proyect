@@ -1,0 +1,62 @@
+{
+    "activityid": 40200,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The perils of conducting research studies online",
+        "Conference / Meeting Name": "Western Institute of Nursing Annual Communicating Nursing Research Conference",
+        "Conference Location": "Denver, CO",
+        "Date or Date Range": "April 21",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "175545": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 175545,
+            "scholarlyactivityid": 40200
+        },
+        "175546": {
+            "firstname": "Teresa",
+            "middleinitial": "D",
+            "lastname": "Serratt",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114046317",
+            "authorid": 175546,
+            "scholarlyactivityid": 40200
+        },
+        "175547": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Grassley",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113084128",
+            "authorid": 175547,
+            "scholarlyactivityid": 40200
+        }
+    },
+    "status": [
+        {
+            "id": 40200,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

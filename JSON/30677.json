@@ -1,0 +1,55 @@
+{
+    "activityid": 30677,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "Composing Science - website",
+        "Name of Venue": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "http://www.composingscience.com",
+        "Description/Abstract": "",
+        "Activity Type": "Website development and publication",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "112919": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 112919,
+            "scholarlyactivityid": 30677
+        },
+        "112920": {
+            "firstname": "Kim",
+            "middleinitial": "",
+            "lastname": "Jaxon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112920,
+            "scholarlyactivityid": 30677
+        }
+    },
+    "status": [
+        {
+            "id": 30677,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

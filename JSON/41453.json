@@ -1,0 +1,62 @@
+{
+    "activityid": 41453,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An online course design checklist: Development and users\u2019 perceptions. ",
+        "Journal": "Journal of Computing in Higher Education",
+        "Volume": "31",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "156-172",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1007/s12528-018-9199-8",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083497",
+    "coauthors": {
+        "212022": {
+            "firstname": "Sally",
+            "middleinitial": "",
+            "lastname": "Baldwin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 212022,
+            "scholarlyactivityid": 41453,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "212023": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 212023,
+            "scholarlyactivityid": 41453,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41453,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083497",
+    "attachments": []
+}

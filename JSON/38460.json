@@ -1,0 +1,71 @@
+{
+    "activityid": 38460,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Joint Inversion of Compact Operators",
+        "Journal": "Journal of Inverse and Ill-Posed Problems",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "227778": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Ford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 227778,
+            "scholarlyactivityid": 38460,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "227779": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 227779,
+            "scholarlyactivityid": 38460,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 38460,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 38460,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

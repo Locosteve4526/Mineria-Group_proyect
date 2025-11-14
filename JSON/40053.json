@@ -1,0 +1,65 @@
+{
+    "activityid": 40053,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "Visual Query of Multi-Dimensional Temporal Data",
+        "Name of Venue": null,
+        "Date": null,
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Issue": null,
+        "Page Numbers or Number of Pages": null,
+        "Volume": null,
+        "ISSN": null,
+        "Co-contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Activity Type": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114058343",
+    "coauthors": {
+        "174667": {
+            "firstname": "Jerry",
+            "middleinitial": "Alan",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174667,
+            "scholarlyactivityid": 40053
+        },
+        "174668": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Karlson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174668,
+            "scholarlyactivityid": 40053
+        },
+        "174669": {
+            "firstname": "Layla",
+            "middleinitial": "",
+            "lastname": "Shahamat",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174669,
+            "scholarlyactivityid": 40053
+        }
+    },
+    "status": [
+        {
+            "id": 40053,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058343",
+    "attachments": []
+}

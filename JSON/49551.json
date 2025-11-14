@@ -1,0 +1,92 @@
+{
+    "activityid": 49551,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Gentrification and educational quality: An analysis of changing demographics in Portland, OR",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114081229",
+    "coauthors": {
+        "277740": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Wells",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114081229",
+            "authorid": 277740,
+            "scholarlyactivityid": 49551
+        },
+        "277741": {
+            "firstname": "Amanda",
+            "middleinitial": "",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 277741,
+            "scholarlyactivityid": 49551
+        }
+    },
+    "status": [
+        {
+            "id": 49551,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 49551,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 49551,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 49551,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 49551,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114081229",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 75725,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;A typology of gender inequality in organizations&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114109249",
+    "coauthors": {
+        "336238": {
+            "firstname": "Felice",
+            "middleinitial": "",
+            "lastname": "Klein",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114109249",
+            "authorid": 336238,
+            "scholarlyactivityid": 75725,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336239": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Broschak",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336239,
+            "scholarlyactivityid": 75725,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336240": {
+            "firstname": "Elizabeth",
+            "middleinitial": "",
+            "lastname": "McClean",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336240,
+            "scholarlyactivityid": 75725,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75725,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114109249",
+    "attachments": []
+}

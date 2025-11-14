@@ -1,0 +1,58 @@
+{
+    "activityid": 24613,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Universal screening",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Sage",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114046499",
+    "coauthors": {
+        "93837": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Ford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046499",
+            "authorid": 93837,
+            "scholarlyactivityid": 24613
+        },
+        "93838": {
+            "firstname": "John",
+            "middleinitial": "L.",
+            "lastname": "Hosp",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 93838,
+            "scholarlyactivityid": 24613
+        }
+    },
+    "status": [
+        {
+            "id": 24613,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114046499",
+    "attachments": []
+}

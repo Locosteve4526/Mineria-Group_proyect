@@ -1,0 +1,106 @@
+{
+    "activityid": 40891,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Relationship quality and sexuality: A latent class  analysis of long-term heterosexual and LGB partnership",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114087965",
+    "coauthors": {
+        "179452": {
+            "firstname": "Jill",
+            "middleinitial": "M",
+            "lastname": "Chonody",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114087965",
+            "authorid": 179452,
+            "scholarlyactivityid": 40891,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179453": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Killian",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179453,
+            "scholarlyactivityid": 40891,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179454": {
+            "firstname": "Jacqui",
+            "middleinitial": "",
+            "lastname": "Gabb",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179454,
+            "scholarlyactivityid": 40891,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179455": {
+            "firstname": "Priscilla",
+            "middleinitial": "",
+            "lastname": "Dunk-West",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179455,
+            "scholarlyactivityid": 40891,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40891,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40891,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 40891,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114087965",
+    "attachments": []
+}

@@ -1,0 +1,54 @@
+{
+    "activityid": 42037,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "The world's most valuable parasite, caterpillar fungus, can cost up to $63,000 per pound",
+        "Name of Venue": "Business Insider",
+        "Date": "2019-03-07",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "https://www.businessinsider.com/caterpillar-fungus-expensive-most-valuable-parasite-2019-3",
+        "Description/Abstract": "",
+        "Activity Type": "Interview by Chia-Yi Hou and subsequent video piece based on my PNAS publication",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106013",
+    "coauthors": {
+        "217238": {
+            "firstname": "Kelly",
+            "middleinitial": "A",
+            "lastname": "Hopping",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106013",
+            "authorid": 217238,
+            "scholarlyactivityid": 42037
+        }
+    },
+    "status": [
+        {
+            "id": 42037,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42037,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114106013",
+    "attachments": []
+}

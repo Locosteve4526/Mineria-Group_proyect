@@ -1,0 +1,66 @@
+{
+    "activityid": 1763,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A framework to assess evolutionary responses to anthropogenic light and sound. ",
+        "Journal": "Trends in Ecology &amp; Evolution",
+        "Volume": "",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113089601",
+    "coauthors": {
+        "4379": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Swaddle",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4379,
+            "scholarlyactivityid": 1763
+        },
+        "4380": {
+            "firstname": "Clint",
+            "middleinitial": "",
+            "lastname": "Francis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4380,
+            "scholarlyactivityid": 1763
+        },
+        "4381": {
+            "firstname": "Jesse",
+            "middleinitial": "R",
+            "lastname": "Barber",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113089601",
+            "authorid": 4381,
+            "scholarlyactivityid": 1763
+        }
+    },
+    "status": [
+        {
+            "id": 1763,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113089601",
+    "attachments": []
+}

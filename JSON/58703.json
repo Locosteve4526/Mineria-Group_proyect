@@ -1,0 +1,77 @@
+{
+    "activityid": 58703,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Afterword: What's next? ",
+        "Book Title": "Assessing undergraduate learning in psychology: Strategies for measuring and improving student performance ",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "263-266",
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "American Psychological Association",
+        "Publisher Location": "Washington, DC",
+        "ISBN": "https://doi.org/10.1037/0000183-017",
+        "Author/Editor of Larger Work": "",
+        "DOI": "978-1433832277",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "273907": {
+            "firstname": "Susan",
+            "middleinitial": "A.",
+            "lastname": "Nolan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273907,
+            "scholarlyactivityid": 58703,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "273908": {
+            "firstname": "Chris",
+            "middleinitial": "M.",
+            "lastname": "Hakala",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273908,
+            "scholarlyactivityid": 58703,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "273909": {
+            "firstname": "R. Eric",
+            "middleinitial": "",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 273909,
+            "scholarlyactivityid": 58703,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58703,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

@@ -1,0 +1,52 @@
+{
+    "activityid": 15680,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Quantifying Parameter Uncertainty in Nonlinear Models",
+        "Conference/Meeting Name": "SIAM Conference on Uncertainty Quantification",
+        "Conference Location": "Raleigh, NC",
+        "Date or Date Range": "2012-04-04",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "SIAM",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "64281": {
+            "firstname": "Chad",
+            "middleinitial": "",
+            "lastname": "Hammerquist",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64281,
+            "scholarlyactivityid": 15680
+        },
+        "64282": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 64282,
+            "scholarlyactivityid": 15680
+        }
+    },
+    "status": [
+        {
+            "id": 15680,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

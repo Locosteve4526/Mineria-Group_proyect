@@ -1,0 +1,48 @@
+{
+    "activityid": 25315,
+    "fields": {
+        "Type": "Book",
+        "Title": "HR Management Study Games:  Certification Prep and Refresher",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "University Press",
+        "Publisher Location": "",
+        "ISBN": "ISBN 978-0-7618-6378-6",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Page Number:  240",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "91667": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 91667,
+            "scholarlyactivityid": 25315,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 25315,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

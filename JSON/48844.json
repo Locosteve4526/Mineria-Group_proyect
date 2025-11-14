@@ -1,0 +1,75 @@
+{
+    "activityid": 48844,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Synergy and timing: a concurrent mass medical campaign predicted to augment indoor residual spraying for malaria",
+        "Journal": "Malaria Journal",
+        "Volume": "18",
+        "Month / Season": "05-06-2019",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "BioMed Central",
+        "DOI": "https://doi.org/10.1186/s12936-019-2788-9",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Background\n\nControl programmes for high burden countries are tasked with charting effective multi-year strategies for malaria control within significant resource constraints. Synergies between different control tools, in which more than additive benefit accrues from interventions used together, are of interest because they may be used to obtain savings or to maximize health impact per expenditure. One commonly used intervention in sub-Saharan Africa is indoor residual spraying (IRS), typically deployed through a mass campaign. While possible synergies between IRS and long-lasting insecticide-treated nets (LLINs) have been investigated in multiple transmission settings, coordinated synergy between IRS and other mass medical distribution campaigns have not attracted much attention. Recently, a strong timing-dependent synergy between an IRS campaign and a mass drug administration (MDA) was theoretically quantified. These synergistic benefits likely differ across settings depending on transmission intensity and its overall seasonal pattern.\nMethods\n\nHigh coverage interventions are modelled in different transmission environments using two methods: a Ross\u2013Macdonald model variant and openmalaria simulations. The impact of each intervention strategy was measured through its ability to prevent host infections over time, and the effects were compared to the baseline case of deploying interventions in isolation.\nResults\n\nBy modelling IRS and MDA together and varying their deployment times, a strong synergy was found when the administered interventions overlapped. The added benefit of co-timed interventions was robust to differences in the models. In the Ross\u2013Macdonald model, the impact compared was roughly double the sequential interventions in most transmission settings. Openmalaria simulations of this medical control augmentation of an IRS campaign show an even stronger response with the same timing relationship.\nConclusions\n\nThe strong synergies found for these control tools between the complementary interventions demonstrate a general feature of effective concurrent campaign-style vector and medical interventions. A mass treatment campaign is normally short-lived, especially in higher transmission settings. When co-timed, the rapid clearing of the host parasite reservoir via chemotherapy is protected from resurgence by the longer duration of the vector control. An effective synchronous treatment campaign has the potential to greatly augment the impact of indoor residual spraying. Mass screening and treatment (MSAT) with highly sensitive rapid diagnostic tests may demonstrate a comparable trend while mass LLIN campaigns may similarly coordinate with MDA/MSAT.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067626",
+    "coauthors": {
+        "226618": {
+            "firstname": "Richard",
+            "middleinitial": "C",
+            "lastname": "Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067626",
+            "authorid": 226618,
+            "scholarlyactivityid": 48844,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "226619": {
+            "firstname": "David",
+            "middleinitial": "L",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226619,
+            "scholarlyactivityid": 48844,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "226620": {
+            "firstname": "Dorothy",
+            "middleinitial": "",
+            "lastname": "Echodu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226620,
+            "scholarlyactivityid": 48844,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48844,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114067626",
+    "attachments": []
+}

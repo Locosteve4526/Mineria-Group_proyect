@@ -1,0 +1,62 @@
+{
+    "activityid": 10048,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "BEAP aND Beyond",
+        "Conference/Meeting Name": "BPD Conference",
+        "Conference Location": "Myrtle Beach",
+        "Date or Date Range": "2012-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "BPD",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112050330",
+    "coauthors": {
+        "51975": {
+            "firstname": "Ruth",
+            "middleinitial": "",
+            "lastname": " Gerritson-McKANE",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51975,
+            "scholarlyactivityid": 10048
+        },
+        "51976": {
+            "firstname": "Roy",
+            "middleinitial": "W",
+            "lastname": "Rodenhiser",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112050330",
+            "authorid": 51976,
+            "scholarlyactivityid": 10048
+        },
+        "51977": {
+            "firstname": "Patrick Panos",
+            "middleinitial": "",
+            "lastname": "Panos",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51977,
+            "scholarlyactivityid": 10048
+        }
+    },
+    "status": [
+        {
+            "id": 10048,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112050330",
+    "attachments": []
+}

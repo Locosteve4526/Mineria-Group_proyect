@@ -1,0 +1,93 @@
+{
+    "activityid": 71410,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Are Knowledge Ascriptions Sensitive to Psychological Distance?",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "x-phi project with Steve Crowley and Chad Gonnerman",
+        "Origin": "Manual"
+    },
+    "facultyid": "113074305",
+    "coauthors": {
+        "335355": {
+            "firstname": "Alexander",
+            "middleinitial": "P",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113074305",
+            "authorid": 335355,
+            "scholarlyactivityid": 71410,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "335356": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Crowley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 335356,
+            "scholarlyactivityid": 71410,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "335357": {
+            "firstname": "Chad",
+            "middleinitial": "",
+            "lastname": "Gonnerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 335357,
+            "scholarlyactivityid": 71410,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71410,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71410,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71410,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113074305",
+    "attachments": []
+}

@@ -1,0 +1,45 @@
+{
+    "activityid": 58699,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Melancholy of Anatomy",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Shearsman Books",
+        "Publisher Location": "UK",
+        "ISBN": " ISBN-13 \u200f : \u200e 978-1848617582 ",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.shearsman.com/store/Martin-Corless-Smith-The-Melancholy-of-Anatomy-p277830975",
+        "Description/Abstract": "Collection of poems focusing on the death of my father.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "273900": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 273900,
+            "scholarlyactivityid": 58699
+        }
+    },
+    "status": [
+        {
+            "id": 58699,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

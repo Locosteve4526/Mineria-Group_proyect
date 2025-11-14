@@ -1,0 +1,76 @@
+{
+    "activityid": 70503,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Assessing how inclusive geoscience job advertisements are to persons with disabilities",
+        "Name of Conference": "Earth Educators' Rendezvous",
+        "Month / Season": "Summer 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "319240": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Shafer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319240,
+            "scholarlyactivityid": 70503,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "319241": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 319241,
+            "scholarlyactivityid": 70503,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319242": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Egger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319242,
+            "scholarlyactivityid": 70503,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70503,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

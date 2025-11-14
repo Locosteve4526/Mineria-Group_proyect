@@ -1,0 +1,75 @@
+{
+    "activityid": 3396,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Axiom Scheme of Acyclic Comprehension",
+        "Journal": "Notre Dame Journal of Formal Logic",
+        "Volume": "55",
+        "Month / Season": "1",
+        "Issue Number": "not known",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "11-24",
+        "Publisher": "Duke University Press",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "A &quot;new&quot; criterion for set existence is presented, namely, that a set {x|phi} should exist if the multigraph whose nodes are variables\r\nin phi and whose edges are occurrences of atomic formulas in phi is acyclic.  Formulas with acyclic graphs are stratified in the sense of New Foundations, so consistency of the set theory with weak extensionality and acyclic comprehension follows from the consistency of Jensen's system NFU.  It is much less obvious, but turns out to be the case, that this theory is equivalent to NFU:  it appears at first blush that it ought to be weaker.  This paper verifies that acyclic comprehension and stratified comprehension are equivalent, by verifying that each axiom in a finite axiomatization of stratified comprehension follows from acyclic comprehension",
+        "Origin": "Other"
+    },
+    "facultyid": "111110174",
+    "coauthors": {
+        "144992": {
+            "firstname": "Zuhair",
+            "middleinitial": "",
+            "lastname": "al-Johar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 144992,
+            "scholarlyactivityid": 3396
+        },
+        "144993": {
+            "firstname": "Melvin",
+            "middleinitial": "R",
+            "lastname": "Holmes",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110174",
+            "authorid": 144993,
+            "scholarlyactivityid": 3396
+        },
+        "144994": {
+            "firstname": "Nathan",
+            "middleinitial": "",
+            "lastname": "Bowler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 144994,
+            "scholarlyactivityid": 3396
+        }
+    },
+    "status": [
+        {
+            "id": 3396,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 3396,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110174",
+    "attachments": []
+}

@@ -1,0 +1,69 @@
+{
+    "activityid": 30469,
+    "fields": {
+        "Type": "Book",
+        "Title": "Existentialism and Education: An Introduction to Otto Friedrich Bollnow",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Palgrave",
+        "Publisher Location": "London",
+        "ISBN": "3319486365",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.palgrave.com/de/book/9783319486369",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002257",
+    "coauthors": {
+        "111539": {
+            "firstname": "Ralf",
+            "middleinitial": "",
+            "lastname": "Koerrenz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 111539,
+            "scholarlyactivityid": 30469,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "111540": {
+            "firstname": "Norm",
+            "middleinitial": "",
+            "lastname": "Friesen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002257",
+            "authorid": 111540,
+            "scholarlyactivityid": 30469,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30469,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002257",
+    "attachments": [
+        {
+            "attachmentid": 1992,
+            "mimetype": "application/pdf",
+            "filename": "Existentialism_and_Education_An_Introduc.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitaV0Y0Mk1UQmhTVXN4TjFHRklmWnpwMFpNNXlOT1lLYzRuRlBUQk9FM2pqNTlvRkt0WTV2eVBuUVJvVW1qRzBmMGFHa3NnSzFtYTBxNkZnRW1aaU15Lw%3D%3D",
+            "filesize": 1728279
+        }
+    ]
+}

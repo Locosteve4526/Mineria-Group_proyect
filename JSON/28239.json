@@ -1,0 +1,95 @@
+{
+    "activityid": 28239,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "An analysis of text-based deception detection tools",
+        "Name of Conference": "Proceedings of the Twelfth Americas Conference on Information Systems",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://aisel.aisnet.org/amcis2006/418",
+        "Description/Abstract": "The quality of information can be degraded when individuals attempt to deceive others through information manipulation. This can be very influential in a text-based domain. In recent years, tools have been developed that, while not initially designed for this domain, have been adapted successfully for use in identifying deception in text-based communication. These text analysis tools, which utilize features such as parsing and categorizing, are emerging as accurate tools to identify cues that may be useful in distinguishing deceptive from truthful communications. These deception detection tools have been applied to problems such as security screening, criminal incident statements, and evaluation of online communication\npatterns. This paper provides a comparative analysis of the features and capabilities of two of the more promising tools and identifies how their use might fit within existing theoretical constructs..",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "235024": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 235024,
+            "scholarlyactivityid": 28239
+        },
+        "235025": {
+            "firstname": "David P.",
+            "middleinitial": "",
+            "lastname": "Biros",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235025,
+            "scholarlyactivityid": 28239
+        },
+        "235026": {
+            "firstname": "Douglas",
+            "middleinitial": "P",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 235026,
+            "scholarlyactivityid": 28239
+        },
+        "235027": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Adkins",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235027,
+            "scholarlyactivityid": 28239
+        },
+        "235028": {
+            "firstname": "Judee K.",
+            "middleinitial": "",
+            "lastname": "Burgoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235028,
+            "scholarlyactivityid": 28239
+        }
+    },
+    "status": [
+        {
+            "id": 28239,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2006,
+            "termid": "2006/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114065605",
+    "attachments": [
+        {
+            "attachmentid": 5781,
+            "mimetype": "application/pdf",
+            "filename": "9 - Fuller-Text-based deception.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitiQVhlNjBiUVkrUW9aNHRqVzY4TVd3Umt1S1Noa1dJdnZvQlFzZE9VeS9JeFp6dzl0Rm43NjZBWmIxVGJyck4xU2doclplbE1JcjhnPT0%3D",
+            "filesize": 238660
+        }
+    ]
+}

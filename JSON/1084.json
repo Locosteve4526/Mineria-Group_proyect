@@ -1,0 +1,56 @@
+{
+    "activityid": 1084,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The University Author Recognition Reception at Boise State University: A celebration of scholarship",
+        "Journal": "The Idaho Librarian ",
+        "Volume": "62",
+        "Month / Season": "2012-05-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112071180",
+    "coauthors": {
+        "2664": {
+            "firstname": "Patricia",
+            "middleinitial": "M",
+            "lastname": "Armstrong",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112071180",
+            "authorid": 2664,
+            "scholarlyactivityid": 1084
+        },
+        "2665": {
+            "firstname": "Julia",
+            "middleinitial": "",
+            "lastname": "Stringfellow",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083844",
+            "authorid": 2665,
+            "scholarlyactivityid": 1084
+        }
+    },
+    "status": [
+        {
+            "id": 1084,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112071180",
+    "attachments": []
+}

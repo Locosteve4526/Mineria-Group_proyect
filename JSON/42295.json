@@ -1,0 +1,103 @@
+{
+    "activityid": 42295,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Political Skill Meta-Analysis",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114105910",
+    "coauthors": {
+        "222776": {
+            "firstname": "B",
+            "middleinitial": "Parker",
+            "lastname": "Ellen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222776,
+            "scholarlyactivityid": 42295
+        },
+        "222777": {
+            "firstname": "Charn",
+            "middleinitial": "P",
+            "lastname": "McAllister",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222777,
+            "scholarlyactivityid": 42295
+        },
+        "222778": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Mackey",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222778,
+            "scholarlyactivityid": 42295
+        },
+        "222779": {
+            "firstname": "Liam",
+            "middleinitial": "P",
+            "lastname": "Maher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114105910",
+            "authorid": 222779,
+            "scholarlyactivityid": 42295
+        }
+    },
+    "status": [
+        {
+            "id": 42295,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42295,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42295,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42295,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114105910",
+    "attachments": []
+}

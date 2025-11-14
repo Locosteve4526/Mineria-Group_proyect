@@ -1,0 +1,76 @@
+{
+    "activityid": 4505,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Causal Instrument Corrections for Short-Period and Broadband Seismometers",
+        "Journal": "Seismological Research Letters",
+        "Volume": "83",
+        "Month / Season": "2012-09-01",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "834-845",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1785/0220120031",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/173",
+        "Description/Abstract": "Of all the filters applied to recordings of seismic waves, which include source, path, and site effects, the one we know most precisely is the instrument filter. Therefore, it behooves seismologists to accurately remove the effect of the instrument from raw seismograms. Applying instrument corrections allows analysis of the seismogram in terms of physical units (e.g., displacement or particle velocity of the Earth\u2019s surface) instead of the output of the instrument (e.g., digital counts). The instrument correction can be considered the most fundamental processing step in seismology since it relates the raw data to an observable quantity of interest to seismologists. Complicating matters is the fact that, in practice, the term \u201cinstrument correction\u201d refers to more than simply the seismometer. The instrument correction compensates for the complete recording system including the seismometer, telemetry, digitizer, and any anti?alias filters.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111110288",
+    "coauthors": {
+        "13541": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Haney",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113017934",
+            "authorid": 13541,
+            "scholarlyactivityid": 4505
+        },
+        "13542": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Powers",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13542,
+            "scholarlyactivityid": 4505
+        },
+        "13543": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "West",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13543,
+            "scholarlyactivityid": 4505
+        },
+        "13544": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Michaels",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110288",
+            "authorid": 13544,
+            "scholarlyactivityid": 4505
+        }
+    },
+    "status": [
+        {
+            "id": 4505,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110288",
+    "attachments": []
+}

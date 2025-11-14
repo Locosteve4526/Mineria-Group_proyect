@@ -1,0 +1,66 @@
+{
+    "activityid": 6347,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Laboratory Instrumentation:  An Exploration of the Impact of Instrumentation on Student Learning",
+        "Journal": "Journal of Chemical Education",
+        "Volume": "93",
+        "Month / Season": "May 2016",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "1223-1231",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111702068",
+    "coauthors": {
+        "110707": {
+            "firstname": "Don",
+            "middleinitial": "Lewis",
+            "lastname": "Warner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702068",
+            "authorid": 110707,
+            "scholarlyactivityid": 6347
+        },
+        "110708": {
+            "firstname": "Eric",
+            "middleinitial": "Christopher",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112100123",
+            "authorid": 110708,
+            "scholarlyactivityid": 6347
+        },
+        "110709": {
+            "firstname": "Susan",
+            "middleinitial": "E",
+            "lastname": "Shadle",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 110709,
+            "scholarlyactivityid": 6347
+        }
+    },
+    "status": [
+        {
+            "id": 6347,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702068",
+    "attachments": []
+}

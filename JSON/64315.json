@@ -1,0 +1,57 @@
+{
+    "activityid": 64315,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Acoustic and Morphological Properties of Adjustable Plunging Jets.",
+        "Name of Conference": "AGU",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001444",
+    "coauthors": {
+        "296924": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Gauvain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296924,
+            "scholarlyactivityid": 64315
+        },
+        "296925": {
+            "firstname": "Jacob",
+            "middleinitial": "F",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001444",
+            "authorid": 296925,
+            "scholarlyactivityid": 64315
+        }
+    },
+    "status": [
+        {
+            "id": 64315,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001444",
+    "attachments": []
+}

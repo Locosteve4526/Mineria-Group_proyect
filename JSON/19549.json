@@ -1,0 +1,63 @@
+{
+    "activityid": 19549,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Incroporating Internet Reserouces in Teaching Finance and Economics",
+        "Name of Conference": "Allied Social Sciences Association National Meetings",
+        "Month / Season": "1997-01-31",
+        "Actual/Projected Year of Publication/Presentation": 1997,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "New Orleans, Louisiana",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "134449": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 134449,
+            "scholarlyactivityid": 19549,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "134450": {
+            "firstname": "D",
+            "middleinitial": "",
+            "lastname": "Cooper",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134450,
+            "scholarlyactivityid": 19549,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19549,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1997,
+            "termid": "1996/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

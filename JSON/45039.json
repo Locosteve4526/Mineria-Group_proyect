@@ -1,0 +1,95 @@
+{
+    "activityid": 45039,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Exploring Gender Bias in Collaborative Filtering for Book Recommendation",
+        "Name of Conference": "Proceedings of the 12th ACM Conference on Recommender Systems",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "ACM",
+        "Publisher Location": "New York, NY",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1145/3240323.3240373",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://md.ekstrandom.net/pubs/book-author-gender",
+        "Description/Abstract": "Collaborative filtering algorithms find useful patterns in rating and consumption data and exploit these patterns to guide users to good items. Many of the patterns in rating datasets reflect important real-world differences between the various users and items in the data; other patterns may be irrelevant or possibly undesirable for social or ethical reasons, particularly if they reflect undesired discrimination, such as discrimination in publishing or purchasing against authors who are women or ethnic minorities. In this work, we examine the response of collaborative filtering recommender algorithms to the distribution of their input data with respect to a dimension of social concern, namely content creator gender. Using publicly-available book ratings data, we measure the distribution of the genders of the authors of books in user rating profiles and recommendation lists produced from this data. We find that common collaborative filtering algorithms differ in the gender distribution of their recommendation lists, and in the relationship of that output distribution to user profile distribution.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114068806",
+    "coauthors": {
+        "205039": {
+            "firstname": "Michael",
+            "middleinitial": "D",
+            "lastname": "Ekstrand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114059059",
+            "authorid": 205039,
+            "scholarlyactivityid": 45039
+        },
+        "205040": {
+            "firstname": "Mucun",
+            "middleinitial": "",
+            "lastname": "Tian",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 205040,
+            "scholarlyactivityid": 45039
+        },
+        "205041": {
+            "firstname": "Mohammed Imran",
+            "middleinitial": "R",
+            "lastname": "Kazi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 205041,
+            "scholarlyactivityid": 45039
+        },
+        "205042": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114068806",
+            "authorid": 205042,
+            "scholarlyactivityid": 45039
+        },
+        "205043": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Kluver",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 205043,
+            "scholarlyactivityid": 45039
+        }
+    },
+    "status": [
+        {
+            "id": 45039,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114068806",
+    "attachments": [
+        {
+            "attachmentid": 17585,
+            "mimetype": "application/pdf",
+            "filename": "RecSys 2018 - Author Gender.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZdEplL0dRTldsUUp4YktvaGJJcEUxd1J5bi9NMnY2UDc2dDRVem1UYkhtamNSakt3T0VmU3VhRXhpeXZRKy8rU2lCTGlTMkxQVlZBPT0%3D",
+            "filesize": 1493525
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "activityid": 1205,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "To-do List Test Lab",
+        "Journal": "The Idaho Librarian",
+        "Volume": "",
+        "Month / Season": "2014-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Publisher": "The Idaho Library Association",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://theidaholibrarian.wordpress.com/2014/11/24/to-do-list-test-lab/",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112192272",
+    "coauthors": {
+        "123411": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 123411,
+            "scholarlyactivityid": 1205
+        }
+    },
+    "status": [
+        {
+            "id": 1205,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112192272",
+    "attachments": []
+}

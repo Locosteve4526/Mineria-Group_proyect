@@ -1,0 +1,85 @@
+{
+    "activityid": 3068,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Aboveground total and green biomass of dryland shrub derived from terrestrial laser scanning",
+        "Journal": "ISPRS",
+        "Volume": "88",
+        "Month / Season": "2013-10-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "166-173",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.isprsjprs.2013.12.006",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114003223",
+    "coauthors": {
+        "123894": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Olsoy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123894,
+            "scholarlyactivityid": 3068
+        },
+        "123895": {
+            "firstname": "Nancy",
+            "middleinitial": "",
+            "lastname": "Glenn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003223",
+            "authorid": 123895,
+            "scholarlyactivityid": 3068
+        },
+        "123896": {
+            "firstname": "Pat",
+            "middleinitial": "",
+            "lastname": "Clark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123896,
+            "scholarlyactivityid": 3068
+        },
+        "123897": {
+            "firstname": "DeWayne",
+            "middleinitial": "",
+            "lastname": "Derryberry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123897,
+            "scholarlyactivityid": 3068
+        }
+    },
+    "status": [
+        {
+            "id": 3068,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 3068,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114003223",
+    "attachments": []
+}

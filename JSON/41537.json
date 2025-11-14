@@ -1,0 +1,89 @@
+{
+    "activityid": 41537,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Anisotropic Conductive Adhesives for Flexible Hybrid Electronics",
+        "Name of Conference": "FLEX Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111698609",
+    "coauthors": {
+        "182768": {
+            "firstname": "Angel",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 182768,
+            "scholarlyactivityid": 41537,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "182769": {
+            "firstname": "Harish",
+            "middleinitial": "",
+            "lastname": "Subbaraman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 182769,
+            "scholarlyactivityid": 41537,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "182770": {
+            "firstname": "Dale",
+            "middleinitial": "",
+            "lastname": "Wilson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 182770,
+            "scholarlyactivityid": 41537,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "182771": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Estrada",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111698609",
+            "authorid": 182771,
+            "scholarlyactivityid": 41537,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41537,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111698609",
+    "attachments": []
+}

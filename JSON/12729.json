@@ -1,0 +1,62 @@
+{
+    "activityid": 12729,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "BASICS in Application",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2009-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Sponsoring Organization": "Idaho Campus Health Coalition",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111726552",
+    "coauthors": {
+        "57413": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Nichols",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 57413,
+            "scholarlyactivityid": 12729
+        },
+        "57414": {
+            "firstname": "C.",
+            "middleinitial": "",
+            "lastname": "Berg",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 57414,
+            "scholarlyactivityid": 12729
+        },
+        "57415": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Doumas",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111726552",
+            "authorid": 57415,
+            "scholarlyactivityid": 12729
+        }
+    },
+    "status": [
+        {
+            "id": 12729,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111726552",
+    "attachments": []
+}

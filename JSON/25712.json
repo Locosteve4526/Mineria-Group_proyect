@@ -1,0 +1,45 @@
+{
+    "activityid": 25712,
+    "fields": {
+        "Type": "Book",
+        "Title": "Two Basque Stories",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Center for Basque Studies- University of Nevada, Reno",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Mari Jose Olaziregi",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111113612",
+    "coauthors": {
+        "83298": {
+            "firstname": "Nerea",
+            "middleinitial": "",
+            "lastname": "Lete",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111113612",
+            "authorid": 83298,
+            "scholarlyactivityid": 25712
+        }
+    },
+    "status": [
+        {
+            "id": 25712,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111113612",
+    "attachments": []
+}

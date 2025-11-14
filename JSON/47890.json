@@ -1,0 +1,51 @@
+{
+    "activityid": 47890,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Symmetric comprehension revisited",
+        "Book Title": " Research Trends in Contemporary Logic",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "not known",
+        "Edition": "not known",
+        "Volume": "not known",
+        "Publisher": "College Publications",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Melvin Fitting, Dov Gabbay, Massoud Pourmahdian, Adrian Rezus, and Ali Sadegh Daghighi",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "In our paper \\cite{symmetry}, we defined a rather baroque theory of superclasses, classes, and sets in which the criterion for sethood of a superclass was a symmetry criterion, the sets of any model of which would satisfy Quine's New Foundations (the theory described in \\cite{nf}).   We will not give the details of this here:  we will give a simpler implementation of the same general idea, a predicative theory of classes and sets in which the criterion for a class to be a set is stated in terms of symmetry, and the sets of any model of which will similarly satisfy NF.   This is not a contribution toward the consistency question for NF:  we do not address the question of  how to build a model of either of these class theories.\n\nThis work was motivated by a theorem of Forster and others (\\cite{forsterbook}, pp. ???) to the effect  that the stratified formulas of the language of set theory admit a semantic characterization as precisely the formulas which are invariant under setlike permutations in all models.  This suggested  to us that it ought to be possible to develop a semantic motivation for stratified comprehension (the comprehension of NF which is often dismissed as a ``syntactical trick&quot;).",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110174",
+    "coauthors": {
+        "220641": {
+            "firstname": "Melvin",
+            "middleinitial": "R",
+            "lastname": "Holmes",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110174",
+            "authorid": 220641,
+            "scholarlyactivityid": 47890,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47890,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110174",
+    "attachments": []
+}

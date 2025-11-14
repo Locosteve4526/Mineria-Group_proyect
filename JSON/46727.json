@@ -1,0 +1,94 @@
+{
+    "activityid": 46727,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Learning anytime, anywhere: a spatio-temporal analysis for online learning",
+        "Journal": "Interactive Learning Environments",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "DOI:\u00a010.1080/10494820.2019.1633546",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "213616": {
+            "firstname": "Xu",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213616,
+            "scholarlyactivityid": 46727
+        },
+        "213617": {
+            "firstname": "Ming",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213617,
+            "scholarlyactivityid": 46727
+        },
+        "213618": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 213618,
+            "scholarlyactivityid": 46727
+        },
+        "213619": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 213619,
+            "scholarlyactivityid": 46727
+        }
+    },
+    "status": [
+        {
+            "id": 46727,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46727,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 46727,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

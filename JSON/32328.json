@@ -1,0 +1,83 @@
+{
+    "activityid": 32328,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Refining Michener's Classification Based on what Mathematicians say about Examples",
+        "Journal": "TBD",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643697",
+    "coauthors": {
+        "124461": {
+            "firstname": "Laurie",
+            "middleinitial": "O",
+            "lastname": "Cavey",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113017246",
+            "authorid": 124461,
+            "scholarlyactivityid": 32328
+        },
+        "124460": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Kinzel",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111643697",
+            "authorid": 124460,
+            "scholarlyactivityid": 32328
+        }
+    },
+    "status": [
+        {
+            "id": 32328,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 32328,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 32328,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 32328,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111643697",
+    "attachments": []
+}

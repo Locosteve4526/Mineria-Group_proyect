@@ -1,0 +1,70 @@
+{
+    "activityid": 23328,
+    "fields": {
+        "Type": "Book",
+        "Title": "PoliSciFi",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Routledge",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113153409",
+    "coauthors": {
+        "126320": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113153409",
+            "authorid": 126320,
+            "scholarlyactivityid": 23328,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "126321": {
+            "firstname": "Justin",
+            "middleinitial": "",
+            "lastname": "Vaughn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113148846",
+            "authorid": 126321,
+            "scholarlyactivityid": 23328,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 23328,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 23328,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113153409",
+    "attachments": []
+}

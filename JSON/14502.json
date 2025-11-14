@@ -1,0 +1,52 @@
+{
+    "activityid": 14502,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Multi Patient Simulation",
+        "Conference/Meeting Name": "Explore New ideas in Simulation",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "2014-04-26",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "NLN",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111663502",
+    "coauthors": {
+        "61684": {
+            "firstname": "Jayne",
+            "middleinitial": "",
+            "lastname": "Josephsen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111663502",
+            "authorid": 61684,
+            "scholarlyactivityid": 14502
+        },
+        "61685": {
+            "firstname": "Ann",
+            "middleinitial": "",
+            "lastname": "Butt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112107470",
+            "authorid": 61685,
+            "scholarlyactivityid": 14502
+        }
+    },
+    "status": [
+        {
+            "id": 14502,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111663502",
+    "attachments": []
+}

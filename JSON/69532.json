@@ -1,0 +1,62 @@
+{
+    "activityid": 69532,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:16px;&quot;&gt;Susceptibility to Social Influence&lt;/span&gt;",
+        "Conference/Meeting Name": "University of Memphis",
+        "Conference Location": "Memphis",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114105910",
+    "coauthors": {
+        "314140": {
+            "firstname": "Liam",
+            "middleinitial": "P",
+            "lastname": "Maher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114105910",
+            "authorid": 314140,
+            "scholarlyactivityid": 69532
+        },
+        "314141": {
+            "firstname": "B",
+            "middleinitial": "Parker",
+            "lastname": "Ellen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314141,
+            "scholarlyactivityid": 69532
+        },
+        "314142": {
+            "firstname": "C",
+            "middleinitial": "P",
+            "lastname": "McAllister",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314142,
+            "scholarlyactivityid": 69532
+        }
+    },
+    "status": [
+        {
+            "id": 69532,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114105910",
+    "attachments": []
+}

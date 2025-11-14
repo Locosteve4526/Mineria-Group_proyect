@@ -1,0 +1,52 @@
+{
+    "activityid": 18386,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Summarizing improves comprehension monitoring...Sometimes",
+        "Conference/Meeting Name": "the annual meeting of the American Educational Research Association",
+        "Conference Location": "New Orleans, LA",
+        "Date or Date Range": "2000-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Sponsoring Organization": "American Educational Research Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "70294": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 70294,
+            "scholarlyactivityid": 18386
+        },
+        "70295": {
+            "firstname": "M C M ",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 70295,
+            "scholarlyactivityid": 18386
+        }
+    },
+    "status": [
+        {
+            "id": 18386,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

@@ -1,0 +1,70 @@
+{
+    "activityid": 40804,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Empirical models for layered A-site ordering in perovskite titanates",
+        "Journal": "Journal of the American Ceramic Society",
+        "Volume": "102",
+        "Month / Season": "",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "3019-3031",
+        "Publisher": "",
+        "DOI": "10.1111/jace.16168",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "In industry and labs, predictive models describing processing-structure relationships are inherently valuable, yet few exist for cation ordering in perovskites. In this work, fifteen compositions in the [(NayLi1-y)(1-3x)/2La(1+x)/2]TiO3 (NLLT) system (y = 0.25, 0.5, and 0.75; x = 0, 0.0533, 0.1, 0.1733, and 0.225) were synthesized using a conventional solid-state mixed-oxide method. X-ray diffraction data show that some degree of long-range ordering of A-site cations exists for x \u2265 0.1, although electron-diffraction data indicate that short-range ordering exists even for x &lt; 0.1, with the degree of ordering decreasing as the value of x increases. Empirical models have been derived for the A-site ordering parameter (nA) as well as the resultant expansion (DrA) for each y series in the NLLT system, from which two general models were derived for perovskites with any degree of 1:1 layered A-site ordering. These general models allow for the prediction of the order parameter and resulting expansion using only published ionic radii data.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112113480",
+    "coauthors": {
+        "213048": {
+            "firstname": "Evan",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213048,
+            "scholarlyactivityid": 40804,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "213049": {
+            "firstname": "Rick",
+            "middleinitial": "",
+            "lastname": "Ubic PhD, MInstP",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112113480",
+            "authorid": 213049,
+            "scholarlyactivityid": 40804,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40804,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112113480",
+    "attachments": [
+        {
+            "attachmentid": 12182,
+            "mimetype": "application/pdf",
+            "filename": "document.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeUhJRXRBWEhMK1htdFVuNXlGMVpEQjFyVitvZks5RFNHMEZRZlowUC9zeXdxSWIrQXdyOVR0QT09",
+            "filesize": 1520934
+        }
+    ]
+}

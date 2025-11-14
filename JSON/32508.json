@@ -1,0 +1,71 @@
+{
+    "activityid": 32508,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Personas: Breathing life into abstract performance data",
+        "Conference/Meeting Name": "International Society for Performance Improvement",
+        "Conference Location": "San Antonio, TX",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112139967",
+    "coauthors": {
+        "125352": {
+            "firstname": "Steven",
+            "middleinitial": "W",
+            "lastname": "Villachica",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112139967",
+            "authorid": 125352,
+            "scholarlyactivityid": 32508,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125353": {
+            "firstname": "Anthony",
+            "middleinitial": "W",
+            "lastname": "Marker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112056561",
+            "authorid": 125353,
+            "scholarlyactivityid": 32508,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125354": {
+            "firstname": "Cheri",
+            "middleinitial": "L",
+            "lastname": "Zubak",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125354,
+            "scholarlyactivityid": 32508,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32508,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139967",
+    "attachments": []
+}

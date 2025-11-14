@@ -1,0 +1,55 @@
+{
+    "activityid": 30359,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Hands On Health",
+        "Conference/Meeting Name": "Idaho SHAPE Conference",
+        "Conference Location": "Meridian, ID",
+        "Date or Date Range": "October 4",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Idaho SHAPE",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669892",
+    "coauthors": {
+        "110747": {
+            "firstname": "Jane",
+            "middleinitial": "Marie",
+            "lastname": "Shimon",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669892",
+            "authorid": 110747,
+            "scholarlyactivityid": 30359,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "110748": {
+            "firstname": "Terry-Ann",
+            "middleinitial": "Spitzer",
+            "lastname": "Gibson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110311",
+            "authorid": 110748,
+            "scholarlyactivityid": 30359
+        }
+    },
+    "status": [
+        {
+            "id": 30359,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669892",
+    "attachments": []
+}

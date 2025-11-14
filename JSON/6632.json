@@ -1,0 +1,56 @@
+{
+    "activityid": 6632,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Spectral Collocation and Waveform Relaxation Methods for Nonlinear Delay Partial Differential Equations",
+        "Journal": "Applied Numerical Mathematics",
+        "Volume": "56",
+        "Month / Season": "2006-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "433-443",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We investigate Chebyshev spectral collocation and waveform relaxation methods for nonlinear delay partial differential equations. Waveform relaxation methods allow to replace the system of nonlinear differential equations resulting from the application of spectral collocation methods by a sequence of linear problems which can be effectively integrated in a parallel computing environment by highly stable implicit methods. The effectiveness of this approach is illustrated by numerical experiments on the Hutchinson's equation. The boundedness of waveform relaxation iterations is proved for the Hutchinson's equation. This result is used in the proof of the superlinear convergence of the iterations.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20689": {
+            "firstname": "Zdzislaw",
+            "middleinitial": "",
+            "lastname": "Jackiewicz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20689,
+            "scholarlyactivityid": 6632
+        },
+        "20690": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20690,
+            "scholarlyactivityid": 6632
+        }
+    },
+    "status": [
+        {
+            "id": 6632,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

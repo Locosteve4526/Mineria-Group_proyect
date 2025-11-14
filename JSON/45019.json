@@ -1,0 +1,87 @@
+{
+    "activityid": 45019,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Thunderegg: Parallel iterative solvers for the pressure Poisson equation on adaptively refined block structured Cartesian grids",
+        "Outlet (if applicable)": "http://www.github.com/ThunderEgg",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://github.com/ThunderEgg",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "321570": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Aiton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321570,
+            "scholarlyactivityid": 45019,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "321571": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 321571,
+            "scholarlyactivityid": 45019,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "321572": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 321572,
+            "scholarlyactivityid": 45019,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45019,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 45019,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113079626",
+    "attachments": []
+}

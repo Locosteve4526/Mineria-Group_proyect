@@ -1,0 +1,57 @@
+{
+    "activityid": 42970,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Classroom Strategies for Overworked Faculty of Intro to MIS: Harnessing the Power of Cooperative Learning",
+        "Name of Conference": "Proceedings of the Twenty-fourth Americas Conference on Information Systems",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "Association for Information Systems",
+        "Publisher Location": "New Orleans, LA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088737",
+    "coauthors": {
+        "218993": {
+            "firstname": "Amy",
+            "middleinitial": "J",
+            "lastname": "Connolly",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218993,
+            "scholarlyactivityid": 42970
+        },
+        "218994": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Rush",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088737",
+            "authorid": 218994,
+            "scholarlyactivityid": 42970
+        }
+    },
+    "status": [
+        {
+            "id": 42970,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114088737",
+    "attachments": []
+}

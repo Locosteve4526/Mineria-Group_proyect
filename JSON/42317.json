@@ -1,0 +1,62 @@
+{
+    "activityid": 42317,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using technology to support student learning in an integrated STEM learning environment",
+        "Journal": "International Journal of Technology in Education and Science",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://ijtes.net/index.php/ijtes/article/view/22/pdf",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113078547",
+    "coauthors": {
+        "215728": {
+            "firstname": "Dazhi",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113078547",
+            "authorid": 215728,
+            "scholarlyactivityid": 42317,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "215729": {
+            "firstname": "Sally",
+            "middleinitial": "",
+            "lastname": "Baldwin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 215729,
+            "scholarlyactivityid": 42317,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42317,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113078547",
+    "attachments": []
+}

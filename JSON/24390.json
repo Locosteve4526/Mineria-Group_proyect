@@ -1,0 +1,54 @@
+{
+    "activityid": 24390,
+    "fields": {
+        "Type": "Book",
+        "Title": "This Fatal Looking Glass",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "SplitLevel Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "80508": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 80508,
+            "scholarlyactivityid": 24390
+        }
+    },
+    "status": [
+        {
+            "id": 24390,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 24390,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

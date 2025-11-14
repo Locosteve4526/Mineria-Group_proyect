@@ -1,0 +1,63 @@
+{
+    "activityid": 37349,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Conditional Data-Flow Analysis Framework",
+        "Name of Conference": "Idaho Conference on Undergraduate Research",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113164447",
+    "coauthors": {
+        "154837": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Keefe",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 154837,
+            "scholarlyactivityid": 37349,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "154838": {
+            "firstname": "Elena",
+            "middleinitial": "A.",
+            "lastname": "Sherman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113164447",
+            "authorid": 154838,
+            "scholarlyactivityid": 37349,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37349,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113164447",
+    "attachments": []
+}

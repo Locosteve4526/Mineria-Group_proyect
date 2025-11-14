@@ -1,0 +1,76 @@
+{
+    "activityid": 4449,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Application of Time-Lapse ERT Imaging to Watershed Characterization",
+        "Journal": "Geophysics",
+        "Volume": "73",
+        "Month / Season": "2008-05-01",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "G7\u2013G17",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1190/1.2907156",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/geo_facpubs/2",
+        "Description/Abstract": "Time-lapse electrical resistivity tomography (ERT) has many practical applications to the study of subsurface properties and processes. When inverting time-lapse ERT data, it is useful to proceed beyond straightforward inversion of data differences and take advantage of the time-lapse nature of the data. We assess various approaches for inverting and interpreting time-lapse ERT data and determine that two approaches work well. The first approach is model subtraction after separate inversion of the data from two time periods, and the second approach is to use the inverted model from a base data set as the reference model or prior information for subsequent time periods. We prefer this second approach. Data inversion methodology should be consideredwhen designing data acquisition; i.e., to utilize the second approach, it is important to collect one or more data sets for which the bulk of the subsurface is in a background or relatively unperturbed state. A third and commonly used approach to time-lapse inversion, inverting the difference between two data sets, localizes the regions of the model in which change has occurred; however, varying noise levels between the two data sets can be problematic. To further assess the various time-lapse inversion approaches, we acquired field data from a catchment within the Dry Creek Experimental Watershed near Boise, Idaho, U.S.A. We combined the complimentary information from individual static ERT inversions, time-lapse ERT images, and available hydrologic data in a robust interpretation scheme to aid in quantifying seasonal variations in subsurface moisture content.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110360",
+    "coauthors": {
+        "13329": {
+            "firstname": "Carlyle",
+            "middleinitial": "R.",
+            "lastname": "Miller",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13329,
+            "scholarlyactivityid": 4449
+        },
+        "13330": {
+            "firstname": "Partha",
+            "middleinitial": "S.",
+            "lastname": "Routh",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13330,
+            "scholarlyactivityid": 4449
+        },
+        "13331": {
+            "firstname": "Troy",
+            "middleinitial": "R.",
+            "lastname": "Brosten",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13331,
+            "scholarlyactivityid": 4449
+        },
+        "13332": {
+            "firstname": "James",
+            "middleinitial": "P",
+            "lastname": "McNamara",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110360",
+            "authorid": 13332,
+            "scholarlyactivityid": 4449
+        }
+    },
+    "status": [
+        {
+            "id": 4449,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110360",
+    "attachments": []
+}

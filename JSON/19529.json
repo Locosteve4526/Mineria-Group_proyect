@@ -1,0 +1,63 @@
+{
+    "activityid": 19529,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Polycentric Approach to Climate Change: The EPA's Clean Power Plan",
+        "Name of Conference": "Energy Policy Reseach Conference",
+        "Month / Season": "2015-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "Energy Policy Institute",
+        "Publisher Location": "Denver, CO",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "134427": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 134427,
+            "scholarlyactivityid": 19529,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134428": {
+            "firstname": "Wesley",
+            "middleinitial": "",
+            "lastname": "Labor",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134428,
+            "scholarlyactivityid": 19529,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19529,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

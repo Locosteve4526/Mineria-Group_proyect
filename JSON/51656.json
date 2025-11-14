@@ -1,0 +1,58 @@
+{
+    "activityid": 51656,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Third Party Reimbursement for AT services in Idaho- A survey of IATA membership",
+        "Conference/Meeting Name": "Idaho Athletic Trainers Association annual meeting",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "July, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Idaho Athletic Trainers Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111230498",
+    "coauthors": {
+        "238830": {
+            "firstname": "Dave",
+            "middleinitial": "",
+            "lastname": "Hammons",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111230498",
+            "authorid": 238830,
+            "scholarlyactivityid": 51656,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "238831": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Redinger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238831,
+            "scholarlyactivityid": 51656,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51656,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111230498",
+    "attachments": []
+}

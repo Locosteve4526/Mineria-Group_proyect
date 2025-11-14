@@ -1,0 +1,94 @@
+{
+    "activityid": 78973,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Volcano opto-acoustics: mapping the infrasound wavefield at Yasur Volcano (Vanuatu)",
+        "Journal": "Geophysical Research Letters",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113150379",
+    "coauthors": {
+        "352286": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 352286,
+            "scholarlyactivityid": 78973
+        },
+        "352285": {
+            "firstname": "Thomas",
+            "middleinitial": "",
+            "lastname": "Boyer",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352285,
+            "scholarlyactivityid": 78973
+        },
+        "352284": {
+            "firstname": "Leighton",
+            "middleinitial": "",
+            "lastname": "Watson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352284,
+            "scholarlyactivityid": 78973
+        },
+        "352283": {
+            "firstname": "Jacob",
+            "middleinitial": "F",
+            "lastname": "Anderson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114001444",
+            "authorid": 352283,
+            "scholarlyactivityid": 78973
+        }
+    },
+    "status": [
+        {
+            "id": 78973,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 78973,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 78973,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113150379",
+    "attachments": []
+}

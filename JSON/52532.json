@@ -1,0 +1,97 @@
+{
+    "activityid": 52532,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Validating Bad Entity Ranking in the Panama Papers via Open-source Intelligence",
+        "Name of Conference": "Proceedings of the 2020 International Symposium on Foundations of Open Source Intelligence and Security Informatics (FOSINT-SI) in conjunction with ASONAM 2020",
+        "Month / Season": "December",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "8",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048778",
+    "coauthors": {
+        "243659": {
+            "firstname": "Donald",
+            "middleinitial": "J",
+            "lastname": "Winiecki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110059",
+            "authorid": 243659,
+            "scholarlyactivityid": 52532
+        },
+        "243660": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Kappelman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243660,
+            "scholarlyactivityid": 52532
+        },
+        "243661": {
+            "firstname": "Bryant",
+            "middleinitial": "",
+            "lastname": "Hay",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243661,
+            "scholarlyactivityid": 52532
+        },
+        "243662": {
+            "firstname": "Mikel",
+            "middleinitial": "",
+            "lastname": "Joaristi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243662,
+            "scholarlyactivityid": 52532
+        },
+        "243663": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048778",
+            "authorid": 243663,
+            "scholarlyactivityid": 52532
+        },
+        "243664": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048777",
+            "authorid": 243664,
+            "scholarlyactivityid": 52532
+        }
+    },
+    "status": [
+        {
+            "id": 52532,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048778",
+    "attachments": []
+}

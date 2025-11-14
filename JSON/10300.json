@@ -1,0 +1,52 @@
+{
+    "activityid": 10300,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Resveratrol Affects Integrin Behavior and Notch Signaling",
+        "Conference / Meeting Name": "American Society for Matrix Biology",
+        "Conference Location": "Cleveland, OH",
+        "Date or Date Range": "2014-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113156458",
+    "coauthors": {
+        "52577": {
+            "firstname": "Bryce",
+            "middleinitial": "",
+            "lastname": "LaFoya",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52577,
+            "scholarlyactivityid": 10300
+        },
+        "52578": {
+            "firstname": "Allen",
+            "middleinitial": "",
+            "lastname": "Albig",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113156458",
+            "authorid": 52578,
+            "scholarlyactivityid": 10300
+        }
+    },
+    "status": [
+        {
+            "id": 10300,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113156458",
+    "attachments": []
+}

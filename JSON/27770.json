@@ -1,0 +1,45 @@
+{
+    "activityid": 27770,
+    "fields": {
+        "Type": "Book",
+        "Title": "Valley County Idaho: Prehistory to 1920",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Action Publishing",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Action Publishing",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/229",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111111800",
+    "coauthors": {
+        "87614": {
+            "firstname": "Lindsay",
+            "middleinitial": "Shelton",
+            "lastname": "Woods",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111800",
+            "authorid": 87614,
+            "scholarlyactivityid": 27770
+        }
+    },
+    "status": [
+        {
+            "id": 27770,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2002,
+            "termid": "2001/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111800",
+    "attachments": []
+}

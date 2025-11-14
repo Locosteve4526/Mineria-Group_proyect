@@ -1,0 +1,56 @@
+{
+    "activityid": 6513,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Transport Schemes on a Sphere Using Radial Basis Functions",
+        "Journal": "Journal of Computational Physics",
+        "Volume": "226",
+        "Month / Season": "2007-09-10",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "1059-1084",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.jcp.2007.05.009",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/26",
+        "Description/Abstract": "The aim of this work is to introduce the physics community to the high performance of radial basis functions (RBFs) compared to other spectral methods for modeling transport (pure advection) and to provide the first known application of the RBF methodology to hyperbolic partial differential equations on a sphere. First, it is shown that even when the advective operator is posed in spherical coordinates (thus having singularities at the poles), the RBF formulation of it is completely singularity-free. Then, two classical test cases are conducted: 1) linear advection, where the initial condition is simply transported around the sphere and 2) deformational flow (idealized cyclogenesis), where an angular velocity is applied to the initial condition, spinning it up around an axis of rotation. The results show that RBFs allow for a much lower spatial resolution (i.e. lower number of nodes) while being able to take unusually large time-steps to achieve the same accuracy as compared to other commonly used spectral methods on a sphere such as spherical harmonics, double Fourier series, and spectral element methods. Furthermore, RBFs are algorithmically much simpler to program.",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "20288": {
+            "firstname": "Natasha",
+            "middleinitial": "",
+            "lastname": "Flyer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20288,
+            "scholarlyactivityid": 6513
+        },
+        "20289": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 20289,
+            "scholarlyactivityid": 6513
+        }
+    },
+    "status": [
+        {
+            "id": 6513,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

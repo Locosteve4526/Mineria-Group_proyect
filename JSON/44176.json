@@ -1,0 +1,59 @@
+{
+    "activityid": 44176,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Guest Artist Concert",
+        "Name of Performing Group": "Duo Tesoro",
+        "Date or Date Range": "November 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Name of Venue/Sponsor": "College of Southern Idaho",
+        "Venue / Sponsor Location (City, State, Country)": "Department of Music, College of Southern Idaho, Twin Falls, Idaho, USA",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "Invited to participate in Piano Celebration series at the College of Southern Idaho.",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112134675",
+    "coauthors": {
+        "200086": {
+            "firstname": "Mark",
+            "middleinitial": "Russell",
+            "lastname": "Hansen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112134675",
+            "authorid": 200086,
+            "scholarlyactivityid": 44176,
+            "classifications": {
+                "Role": "Performer"
+            }
+        },
+        "200087": {
+            "firstname": "Svetlana",
+            "middleinitial": "Nagachevskaya",
+            "lastname": "Maddox",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200087,
+            "scholarlyactivityid": 44176,
+            "classifications": {
+                "Role": "Performer"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44176,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112134675",
+    "attachments": []
+}

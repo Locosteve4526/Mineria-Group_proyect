@@ -1,0 +1,63 @@
+{
+    "activityid": 57688,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Multiphysics Numerical Modeling of Transient Transport of PFAS",
+        "Name of Conference": "ASCE GeoCongress",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "ASCE",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112176072",
+    "coauthors": {
+        "289965": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 289965,
+            "scholarlyactivityid": 57688,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "289966": {
+            "firstname": "Pierrette",
+            "middleinitial": "",
+            "lastname": "Iradukunda",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 289966,
+            "scholarlyactivityid": 57688,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57688,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112176072",
+    "attachments": []
+}

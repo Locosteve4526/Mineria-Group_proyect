@@ -1,0 +1,105 @@
+{
+    "activityid": 28256,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Real-world deception and the impact of severity",
+        "Journal": "Journal of Computer Information Systems",
+        "Volume": "55",
+        "Month / Season": "December",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "59--67",
+        "Publisher": "",
+        "DOI": "10.1080/08874417.2015.11645757",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.tandfonline.com/doi/abs/10.1080/08874417.2015.11645757",
+        "Description/Abstract": "Previous research has shown that language varies between deceivers and truth tellers. These linguistic differences serve as the foundation to automated text-based deception detection methods. However, few studies have analyzed linguistic cues to deception in real-world environments. Here, we present an analysis of linguistic cues to deception in person-of-interest statements recorded following crimes on a military base. Using automated cue extraction and MANOVA, the analysis indicates that quantity, diversity, nonimmediacy, and cognitive processing cues differ between truthful and deceptive statements. Additionally, this study introduces an exploratory measure of incident severity used to analyze how language changes in both deceivers and truth tellers as situational severity increases.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "195316": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 195316,
+            "scholarlyactivityid": 28256,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195317": {
+            "firstname": "David",
+            "middleinitial": "P",
+            "lastname": "Biros",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195317,
+            "scholarlyactivityid": 28256,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195318": {
+            "firstname": "Douglas",
+            "middleinitial": "P",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 195318,
+            "scholarlyactivityid": 28256,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195319": {
+            "firstname": "Rick L.",
+            "middleinitial": "L",
+            "lastname": "Wilson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195319,
+            "scholarlyactivityid": 28256,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28256,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 28256,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065605",
+    "attachments": [
+        {
+            "attachmentid": 6183,
+            "mimetype": "application/pdf",
+            "filename": "Real World Deception and the Impact of Severity.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZbGRXaGhWMHZ3d1JXQ0J3dzViaGRkWitoaDQ5d1JZZ2JyRjZ4VmZFM3dSYWticFBRMEdPWE1rckVKUUFjZCtlaXd5cXY3dWI3WVpmUnp1aHlPQVpYMG9JYTJYcFRDSy9JPQ%3D%3D",
+            "filesize": 217722
+        }
+    ]
+}

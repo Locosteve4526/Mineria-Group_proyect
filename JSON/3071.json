@@ -1,0 +1,75 @@
+{
+    "activityid": 3071,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Estimating Sagebrush Biomass Using Terrestrial Laser Scanning (TLS)",
+        "Journal": "Rangeland Ecology and Management",
+        "Volume": "67",
+        "Month / Season": "2013-11-30",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "224-228",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114003223",
+    "coauthors": {
+        "123898": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Olsoy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123898,
+            "scholarlyactivityid": 3071
+        },
+        "123899": {
+            "firstname": "Nancy",
+            "middleinitial": "",
+            "lastname": "Glenn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003223",
+            "authorid": 123899,
+            "scholarlyactivityid": 3071
+        },
+        "123900": {
+            "firstname": "Pat",
+            "middleinitial": "",
+            "lastname": "Clark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123900,
+            "scholarlyactivityid": 3071
+        }
+    },
+    "status": [
+        {
+            "id": 3071,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 3071,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114003223",
+    "attachments": []
+}

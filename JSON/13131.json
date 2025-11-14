@@ -1,0 +1,62 @@
+{
+    "activityid": 13131,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Using Progress Monitoring Data to Determine Student Instructional Need",
+        "Conference/Meeting Name": "Special Education Department In-service ",
+        "Conference Location": "Tama, IA",
+        "Date or Date Range": "2011-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "South Tama Community School District",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114046499",
+    "coauthors": {
+        "58507": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Aldrich",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 58507,
+            "scholarlyactivityid": 13131
+        },
+        "58508": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Ford",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114046499",
+            "authorid": 58508,
+            "scholarlyactivityid": 13131
+        },
+        "58509": {
+            "firstname": "Seth",
+            "middleinitial": "",
+            "lastname": "Kite",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 58509,
+            "scholarlyactivityid": 13131
+        }
+    },
+    "status": [
+        {
+            "id": 13131,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114046499",
+    "attachments": []
+}

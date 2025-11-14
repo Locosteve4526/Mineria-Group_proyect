@@ -1,0 +1,56 @@
+{
+    "activityid": 32021,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Hanna and Jones reply",
+        "Journal": "Physical review letters",
+        "Volume": "72",
+        "Month / Season": null,
+        "Issue Number": "22",
+        "Actual/Projected Year of Publication/Presentation": 1994,
+        "Page Numbers": "3628",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "111111505",
+    "coauthors": {
+        "121943": {
+            "firstname": "CB",
+            "middleinitial": "",
+            "lastname": "Hanna",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121943,
+            "scholarlyactivityid": 32021
+        },
+        "121944": {
+            "firstname": "BA",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121944,
+            "scholarlyactivityid": 32021
+        }
+    },
+    "status": [
+        {
+            "id": 32021,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1994,
+            "termid": "1994/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111505",
+    "attachments": []
+}

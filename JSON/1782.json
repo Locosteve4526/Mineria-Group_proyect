@@ -1,0 +1,56 @@
+{
+    "activityid": 1782,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Flow in the Neighborhood of a Confined Aquifer Observation Well",
+        "Journal": "Journal of Hydrology",
+        "Volume": "364",
+        "Month / Season": "2009-01-15",
+        "Issue Number": "2-Jan",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "107-114",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.jhydrol.2008.10.014",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/66",
+        "Description/Abstract": "An analytical solution for flow in the vicinity of an observation well is developed. The observation is emplaced in a homogeneous aquifer of infinite radial extent that is pumped at a constant rate, and satisfies the Theis solution. We attempt to account for the effect of an observation well on the drawdown response in a neighborhood of finite radial extent centered around the well. The model of Black and Kipp [Black, J.H., Kipp Jr., K.L., 1977. Observation well response time and its effect upon aquifer tests. Journal of Hydrology 34, 297\u2013306] only makes a correction to the drawdown response at the well location and does not modify the flow pattern in the neighborhood of the well. This may be sufficient for isolated observation wells but, for well-fields or sites with relatively closely spaced wells, the flow patterns in the neighborhoods of the wells may significantly impact drawdown response. The model we develop is applied to field data and is shown to yield an aquifer hydraulic diffusivity that is comparable to that estimated with the model of Black and Kipp [Black, J.H., Kipp Jr., K.L., 1977. Observation well response time and its effect upon aquifer tests. Journal of Hydrology 34, 297\u2013306]. In addition to providing estimates of formation conductivity and specific storage, the solution yield estimates of the hydraulic conductivity and specific storage of the zone of influence and has the ability to predict the effect of the observation well on drawdown response in a finite region of influence in the vicinity of the well.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4454": {
+            "firstname": "Bwalya",
+            "middleinitial": "",
+            "lastname": "Malama",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4454,
+            "scholarlyactivityid": 1782
+        },
+        "4455": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4455,
+            "scholarlyactivityid": 1782
+        }
+    },
+    "status": [
+        {
+            "id": 1782,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

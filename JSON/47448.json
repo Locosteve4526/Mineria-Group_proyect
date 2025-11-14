@@ -1,0 +1,80 @@
+{
+    "activityid": 47448,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "An integrated experimental and computational approach to determine joint-level changes in response to whole-body adaptation",
+        "Conference/Meeting Name": "American College of Sports Medicine (ACSM) Northwest Annual Meeting",
+        "Conference Location": "",
+        "Date or Date Range": "February",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "255428": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Holcomb",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255428,
+            "scholarlyactivityid": 47448
+        },
+        "255429": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255429,
+            "scholarlyactivityid": 47448
+        },
+        "255430": {
+            "firstname": "Clare",
+            "middleinitial": "",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062491",
+            "authorid": 255430,
+            "scholarlyactivityid": 47448
+        }
+    },
+    "status": [
+        {
+            "id": 47448,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 47448,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 47448,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

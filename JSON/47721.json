@@ -1,0 +1,89 @@
+{
+    "activityid": 47721,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Student Performance Evaluation Based on Online Discussion",
+        "Name of Conference": "Innovative Technologies and Learning. ICITL 2019. Lecture Notes in Computer Science",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "Volume": "11937",
+        "Issue Number": "",
+        "DOI": "https://doi.org/10.1007/978-3-030-35343-8_39",
+        "ISBN/ISSN #": "978-3-030-35343-8",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "219241": {
+            "firstname": "Xu",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219241,
+            "scholarlyactivityid": 47721,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "219242": {
+            "firstname": "Shunian",
+            "middleinitial": "",
+            "lastname": "Lai",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219242,
+            "scholarlyactivityid": 47721,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "219243": {
+            "firstname": "Hao",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219243,
+            "scholarlyactivityid": 47721,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "219244": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 219244,
+            "scholarlyactivityid": 47721,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47721,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

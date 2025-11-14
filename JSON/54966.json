@@ -1,0 +1,74 @@
+{
+    "activityid": 54966,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Accessibility Best Practices, Procedures, and Policies in Northwest United States Academic Libraries",
+        "Journal": "The Journal of Academic Librarianship",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1016/j.acalib.2019.102095",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112088454",
+    "coauthors": {
+        "258433": {
+            "firstname": "Rebeca",
+            "middleinitial": "",
+            "lastname": "Peacock",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113142438",
+            "authorid": 258433,
+            "scholarlyactivityid": 54966
+        },
+        "258432": {
+            "firstname": "Amy",
+            "middleinitial": "Elizabeth",
+            "lastname": "Vecchione",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112088454",
+            "authorid": 258432,
+            "scholarlyactivityid": 54966
+        }
+    },
+    "status": [
+        {
+            "id": 54966,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54966,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 54966,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112088454",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 21206,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Integrating an OpenCourseWare and Institutional Repository",
+        "Conference/Meeting Name": "Open Education Conference ",
+        "Conference Location": "Vancouver, BC",
+        "Date or Date Range": "2009-08-14",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "76438": {
+            "firstname": "H",
+            "middleinitial": "M",
+            "lastname": "Leary",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76438,
+            "scholarlyactivityid": 21206
+        },
+        "76439": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 76439,
+            "scholarlyactivityid": 21206
+        },
+        "76440": {
+            "firstname": "M",
+            "middleinitial": "",
+            "lastname": "Jensen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76440,
+            "scholarlyactivityid": 21206
+        }
+    },
+    "status": [
+        {
+            "id": 21206,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

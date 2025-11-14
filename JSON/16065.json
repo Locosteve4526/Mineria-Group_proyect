@@ -1,0 +1,62 @@
+{
+    "activityid": 16065,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Enzymatic synthesis of acyl-ACP substrates for EsaI AHL synthase",
+        "Conference / Meeting Name": "67th American Chemical Society Northwest Regional Meeting",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2012-06-24",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "American Chemical Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Bacterial infections have become more difficult to treat as communication between bacteria allows for growth and resistance. Bacteria use autoinducer molecules to take a census count of neighboring bacteria in the colony. The autoinducer molecules are synthesized inside the cell by a dedicated set of enzymes and are released outside to aid in intercellular communication. This mechanism of communication, known as quorum sensing, allows bacteria to coordinate their activities that include secretion of virulence factors and formation of biofilms. EsaI is an AHL synthase enzyme in the plant pathogen Pantoea stewartii, which uses S-adenosyl-L-methionine and 3-oxohexanoyl-ACP to make 3-oxohexanoyl-HSL autoinducer molecules inside the cell. This project focused on purification of 3-oxohexanoyl ACP and hexanoyl ACP as substrates for EsaI enzyme. In this reaction, acyl-CoA was reacted with apo-ACP in presence of a phosphopantetheinyl transferase enzyme to form acyl-ACP. The efficiency of Bacillus subtilis Sfp enzyme with E.coli holo-ACP synthase (acpS) was compared in acyl-ACP substrate synthesis. HPLC was used to separate products from the reaction mixture and the identity of the product was confirmed using LC-MS. The activity of these substrates with EsaI enzyme will be measured using a colorimetric assay. The EsaI AHL synthase will be subjected to mechanistic studies using acyl-ACP substrates synthesized above, which will lead to inhibitor design for the enzyme.",
+        "Origin": "Other"
+    },
+    "facultyid": "113083415",
+    "coauthors": {
+        "65150": {
+            "firstname": "Miranda",
+            "middleinitial": "",
+            "lastname": "Ghali",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65150,
+            "scholarlyactivityid": 16065
+        },
+        "65151": {
+            "firstname": "Dastagiri",
+            "middleinitial": "",
+            "lastname": "Dudekula",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65151,
+            "scholarlyactivityid": 16065
+        },
+        "65152": {
+            "firstname": "Rajesh",
+            "middleinitial": "",
+            "lastname": "Nagarajan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083415",
+            "authorid": 65152,
+            "scholarlyactivityid": 16065
+        }
+    },
+    "status": [
+        {
+            "id": 16065,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083415",
+    "attachments": []
+}

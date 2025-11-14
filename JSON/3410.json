@@ -1,0 +1,76 @@
+{
+    "activityid": 3410,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Utah Numerical Scoring System",
+        "Journal": "Polygraph",
+        "Volume": "28",
+        "Month / Season": "1999-01-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 1999,
+        "Page Numbers": "9-Jan",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/psych_facpubs/62",
+        "Description/Abstract": "The Utah method for numerically evaluating polygraph charts is a highly reliable and valid method for scoring specific-incident, comparison-question tests. For respiration, electrodermal activity (skin conductance or skin resistance), relative blood pressure (cardiograph), and peripheral vasomotor activity (finger plethysmograph), a score from +3 to -3 is assigned for each presentation of a relevant question. The reaction to the relevant question is compared to the reaction to a nearby comparison (control) question. A positive score is assigned when the psychophysiological reaction is greater to the comparison question than to the relevant question, a negative score is assigned when the reaction is greater to the relevant question, and a zero is assigned when the responses to the relevant and comparison questions are approximately equal. Scores are based on the criteria described in the present report. Common artifacts that may affect numerical evaluations are discussed, as are limitations of this scoring system.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110183",
+    "coauthors": {
+        "9900": {
+            "firstname": "Brian",
+            "middleinitial": "G.",
+            "lastname": "Bell",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9900,
+            "scholarlyactivityid": 3410
+        },
+        "9901": {
+            "firstname": "David",
+            "middleinitial": "C.",
+            "lastname": "Raskin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9901,
+            "scholarlyactivityid": 3410
+        },
+        "9902": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Honts",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110183",
+            "authorid": 9902,
+            "scholarlyactivityid": 3410
+        },
+        "9903": {
+            "firstname": "John",
+            "middleinitial": "C.",
+            "lastname": "Kircher",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9903,
+            "scholarlyactivityid": 3410
+        }
+    },
+    "status": [
+        {
+            "id": 3410,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1999,
+            "termid": "1998/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110183",
+    "attachments": []
+}

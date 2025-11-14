@@ -1,0 +1,102 @@
+{
+    "activityid": 53121,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Understanding Packing of New Compounds for Inexpensive Solar Panels",
+        "Name of Conference": "Idaho Conference on Undergraduate Research",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114031140",
+    "coauthors": {
+        "247500": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247500,
+            "scholarlyactivityid": 53121,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "247501": {
+            "firstname": "Mia",
+            "middleinitial": "",
+            "lastname": "Klopfenstein",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247501,
+            "scholarlyactivityid": 53121,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "247502": {
+            "firstname": "Emily",
+            "middleinitial": "",
+            "lastname": "Epstein",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247502,
+            "scholarlyactivityid": 53121,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "247503": {
+            "firstname": "Gwen",
+            "middleinitial": "",
+            "lastname": "White",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247503,
+            "scholarlyactivityid": 53121,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "247504": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Jankowski",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114031140",
+            "authorid": 247504,
+            "scholarlyactivityid": 53121,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53121,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114031140",
+    "attachments": []
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 51996,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Student Assessment in the POGIL Classroom",
+        "Conference/Meeting Name": "The POGIL Project eSeris",
+        "Conference Location": "",
+        "Date or Date Range": "October",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "The POGIL Project",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112145571",
+    "coauthors": {
+        "240749": {
+            "firstname": "Shawn",
+            "middleinitial": "R",
+            "lastname": "Simonson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 240749,
+            "scholarlyactivityid": 51996,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "240750": {
+            "firstname": "Tracy",
+            "middleinitial": "",
+            "lastname": "Andrejko",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 240750,
+            "scholarlyactivityid": 51996,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "240751": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Aspaas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 240751,
+            "scholarlyactivityid": 51996,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51996,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112145571",
+    "attachments": []
+}

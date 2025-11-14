@@ -1,0 +1,76 @@
+{
+    "activityid": 19788,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Client acceptance: A decision aid",
+        "Name of Conference": "The American Academy of Accounting and Finance Annual Meeting",
+        "Month / Season": "1995-12-31",
+        "Actual/Projected Year of Publication/Presentation": 1995,
+        "Page Numbers": null,
+        "Publisher": "The American Academy of Accounting and Finance",
+        "Publisher Location": "New Orleans, LA",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112188648",
+    "coauthors": {
+        "134575": {
+            "firstname": "Gary",
+            "middleinitial": "P",
+            "lastname": "Braun",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134575,
+            "scholarlyactivityid": 19788,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134576": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 134576,
+            "scholarlyactivityid": 19788,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134577": {
+            "firstname": "Mark",
+            "middleinitial": "H",
+            "lastname": "Taylor",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134577,
+            "scholarlyactivityid": 19788,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19788,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1995,
+            "termid": "1995/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188648",
+    "attachments": []
+}

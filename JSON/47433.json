@@ -1,0 +1,86 @@
+{
+    "activityid": 47433,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Computational evaluation of TKR stability using feedback-controlled compressive loading",
+        "Journal": "Journal of orthopaedic research : official publication of the Orthopaedic Research Society",
+        "Volume": "36",
+        "Month / Season": "",
+        "Issue Number": "7",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "1901-1909",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Pre-clinical assessment of stability in total knee replacement is crucial for developing preferred implant performance. Current total knee replacement patients often experience joint instability that the human body addresses with compensatory strategies. Specifically, an increased quadriceps-hamstrings co-contraction serves to increase joint stability through an increased compressive force across the tibiofemoral joint. The aim of this study is to introduce a novel method to evaluate total knee replacement by determining the compressive loading required to achieve natural knee stability. Four current total knee replacement geometries in both their cruciate-retaining and posterior-stabilized forms are modeled in a finite-element framework. The finite-element model is initially validated experimentally using traditional knee laxity testing with a constant compressive load and anterior-posterior displacement or internal-external rotation. Model predictions of constraint are in reasonable agreement with experimental results (average root mean square errors: 0.46\u2009Nm, 62.5\u2009N). The finite-element model is subsequently interfaced with a feedback controller to vary the compressive force that the implant requires in order to match experimental natural knee internal-external and anterior-posterior stability at different flexion angles. Results show that the lower constraint total knee replacement designs require on average 66.7% more compressive load than the higher constraint designs to achieve natural knee constraint. As expected, total knee replacement stability and compressive load requirements to replicate natural kinematics vary with inclusion of tibiofemoral ligaments. The current study represents a novel approach to evaluate stability in existing total knee replacement geometries and to design implants that better restore natural knee mechanics. \u00a9 2018 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 36:1901-1909, 2018.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "217753": {
+            "firstname": "Irene",
+            "middleinitial": "",
+            "lastname": "Sintini",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217753,
+            "scholarlyactivityid": 47433
+        },
+        "217754": {
+            "firstname": "Clare",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217754,
+            "scholarlyactivityid": 47433
+        },
+        "217755": {
+            "firstname": "Chadd",
+            "middleinitial": "W",
+            "lastname": "Clary",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217755,
+            "scholarlyactivityid": 47433
+        },
+        "217756": {
+            "firstname": "Vincenzo",
+            "middleinitial": "P",
+            "lastname": "Castelli",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217756,
+            "scholarlyactivityid": 47433
+        },
+        "217757": {
+            "firstname": "Paul",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217757,
+            "scholarlyactivityid": 47433
+        }
+    },
+    "status": [
+        {
+            "id": 47433,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

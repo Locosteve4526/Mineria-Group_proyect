@@ -1,0 +1,53 @@
+{
+    "activityid": 33273,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Art of OUR Century",
+        "Name of Performing Group": "",
+        "Date or Date Range": "6/1/2017-9/9/2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Name of Venue/Sponsor": "Woodbury Art Museum",
+        "Venue / Sponsor Location (City, State, Country)": "Utah Valley University, Orem, UT",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114028031",
+    "coauthors": {
+        "150113": {
+            "firstname": "Lily",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114028031",
+            "authorid": 150113,
+            "scholarlyactivityid": 33273
+        },
+        "150114": {
+            "firstname": "John",
+            "middleinitial": "Max",
+            "lastname": "Francis",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669635",
+            "authorid": 150114,
+            "scholarlyactivityid": 33273
+        }
+    },
+    "status": [
+        {
+            "id": 33273,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114028031",
+    "attachments": []
+}

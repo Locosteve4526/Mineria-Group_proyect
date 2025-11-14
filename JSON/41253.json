@@ -1,0 +1,61 @@
+{
+    "activityid": 41253,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Holocene Prehistory of Guyana",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Edition": "1st",
+        "Volume": "",
+        "Publisher": "Ian Randle",
+        "Publisher Location": "Miami",
+        "ISBN": "not yet assigned",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110261",
+    "coauthors": {
+        "181049": {
+            "firstname": "Mark",
+            "middleinitial": "G",
+            "lastname": "Plew",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110261",
+            "authorid": 181049,
+            "scholarlyactivityid": 41253,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "181050": {
+            "firstname": "Louisa",
+            "middleinitial": "B",
+            "lastname": "Daggers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181050,
+            "scholarlyactivityid": 41253,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41253,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110261",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 44100,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Image Fusion: an Introduction to Multispectral Signal Processing",
+        "Name of Conference": "2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "112139424",
+    "coauthors": {
+        "200213": {
+            "firstname": "Cameron",
+            "middleinitial": "HG",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200213,
+            "scholarlyactivityid": 44100,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "200214": {
+            "firstname": "Thad",
+            "middleinitial": "B",
+            "lastname": "Welch",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200214,
+            "scholarlyactivityid": 44100,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44100,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139424",
+    "attachments": []
+}

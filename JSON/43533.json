@@ -1,0 +1,98 @@
+{
+    "activityid": 43533,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Homologous, Multi-level Theory of Network Structure: Examining Strategic Alliance Portfolios and Performance",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114105970",
+    "coauthors": {
+        "195541": {
+            "firstname": "Curt",
+            "middleinitial": "B",
+            "lastname": "Moore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195541,
+            "scholarlyactivityid": 43533,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195542": {
+            "firstname": "Karen",
+            "middleinitial": "R",
+            "lastname": "Nicholas",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114105970",
+            "authorid": 195542,
+            "scholarlyactivityid": 43533,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43533,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43533,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43533,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43533,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43533,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114105970",
+    "attachments": []
+}

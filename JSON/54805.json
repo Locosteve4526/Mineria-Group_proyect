@@ -1,0 +1,96 @@
+{
+    "activityid": 54805,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Handwritten English word recognition using a deep learning based object detection architecture",
+        "Journal": "MULTIMEDIA TOOLS AND APPLICATIONS",
+        "Volume": "81",
+        "Month / Season": "January",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "975-1000",
+        "Publisher": "Springer US",
+        "DOI": "DOI: 10.1007/s11042-021-11425-7",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://link.springer.com/article/10.1007/s11042-021-11425-7",
+        "Description/Abstract": "Handwriting is used to distribute information among people. To access this information for further analysis the page needs to be optically scanned and converted to machine recognizable form. Due to unconstrained writing styles along with connected and overlapping characters, handwriting recognition remains a challenging task. Most of the methods in the literature use lexicon-based approaches and train their models on large datasets having near 50 K word samples to achieve good results. This results in high computational requirements. While these models use around 50 K words in their dictionary when recognizing handwritten English text, the actual number of words in the dictionary is much higher than this. To this end, we propose a handwriting recognition technique to recognize handwritten English text based on a YOLOv3 object recognition model that is lexicon-free and that performs sequential character detection and identification with a low number of training samples (only 1200 word images). This model works well without any dependency on writers\u2019 style of writing. This is tested on the IAM dataset and it is able to achieve 29.21% Word Error Rate and 9.53% Character Error Rate without a predefined vocabulary, which is on par with the state-of-the-art lexicon-based word recognition models.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "268708": {
+            "firstname": "Riktim",
+            "middleinitial": "",
+            "lastname": "Mondal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268708,
+            "scholarlyactivityid": 54805,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268709": {
+            "firstname": "Samir;",
+            "middleinitial": "",
+            "lastname": "Malakar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268709,
+            "scholarlyactivityid": 54805,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268710": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 268710,
+            "scholarlyactivityid": 54805,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268711": {
+            "firstname": "Ram",
+            "middleinitial": "",
+            "lastname": "Sarkar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268711,
+            "scholarlyactivityid": 54805,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54805,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": [
+        {
+            "attachmentid": 35031,
+            "mimetype": "application/pdf",
+            "filename": "Mondal_HandwrittenEnglishWordRecognition-MTAP2021.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yUkE5UzdyK0xwKzhmS1FTL2tCMkd1d2k5MWxpK2ZvTHFnYTVnaDdMV0ZyVEJzQ0hNM21OUnFWQjRJQ1phVmljVGk5RXR5MXl0N0ZsTlRobDlNTGdBRSsvRW9JclAxMWI4PQ%3D%3D",
+            "filesize": 2889944
+        }
+    ]
+}

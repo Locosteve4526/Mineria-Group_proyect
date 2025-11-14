@@ -1,0 +1,55 @@
+{
+    "activityid": 78440,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Information Security Plans for Tax Professionals - A Review of Existing Guidance",
+        "Journal": "Today's CPA Magazine",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "Texas Society of CPAs",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111333118",
+    "coauthors": {
+        "351504": {
+            "firstname": "Eric",
+            "middleinitial": "S",
+            "lastname": "Gooden",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111333118",
+            "authorid": 351504,
+            "scholarlyactivityid": 78440
+        }
+    },
+    "status": [
+        {
+            "id": 78440,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 78440,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111333118",
+    "attachments": []
+}

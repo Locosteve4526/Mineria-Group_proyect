@@ -1,0 +1,56 @@
+{
+    "activityid": 4302,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Common Core: Missing \tthe mark for writing standards",
+        "Journal": "Language Arts",
+        "Volume": "93",
+        "Month / Season": "2015-11-30",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "302-303",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111728011",
+    "coauthors": {
+        "12867": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111728011",
+            "authorid": 12867,
+            "scholarlyactivityid": 4302
+        },
+        "12868": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Dismuke",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111346076",
+            "authorid": 12868,
+            "scholarlyactivityid": 4302
+        }
+    },
+    "status": [
+        {
+            "id": 4302,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111728011",
+    "attachments": []
+}

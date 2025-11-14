@@ -1,0 +1,55 @@
+{
+    "activityid": 44125,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Network Governance of Natural Resources: Making Collaboration Count",
+        "Conference / Meeting Name": "International Symposium on Society and Resource Management",
+        "Conference Location": "Salt Lake City, Utah",
+        "Date or Date Range": "June 17-21",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067010",
+    "coauthors": {
+        "199902": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Clark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 199902,
+            "scholarlyactivityid": 44125,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "199903": {
+            "firstname": "Anthony",
+            "middleinitial": "Vicken",
+            "lastname": "Hillis",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067010",
+            "authorid": 199903,
+            "scholarlyactivityid": 44125
+        }
+    },
+    "status": [
+        {
+            "id": 44125,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114067010",
+    "attachments": []
+}

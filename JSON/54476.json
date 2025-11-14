@@ -1,0 +1,84 @@
+{
+    "activityid": 54476,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Prerecorded simulation: A creative short-term solution with long-term potential",
+        "Journal": "Teaching and Learning in Nursing",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114003270",
+    "coauthors": {
+        "255650": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 255650,
+            "scholarlyactivityid": 54476
+        },
+        "255649": {
+            "firstname": "Cara",
+            "middleinitial": "",
+            "lastname": "Gallegos",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114003270",
+            "authorid": 255649,
+            "scholarlyactivityid": 54476
+        },
+        "255648": {
+            "firstname": "Kim",
+            "middleinitial": "",
+            "lastname": "Copeland",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114049134",
+            "authorid": 255648,
+            "scholarlyactivityid": 54476
+        }
+    },
+    "status": [
+        {
+            "id": 54476,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 54476,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 54476,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114003270",
+    "attachments": []
+}

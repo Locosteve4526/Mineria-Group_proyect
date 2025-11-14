@@ -1,0 +1,66 @@
+{
+    "activityid": 6670,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical Solution of Volterra Integro-Differential Equations Modeling Thalamo-Cortical Systems",
+        "Journal": "PAMM Wiley Interscience Journal",
+        "Volume": "7",
+        "Month / Season": "2008-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Our study concerns thalamo-cortical systems which are modelled by nonlinear systems of Volterra integro-differential equa- tions of convolution type. The thalamo-cortical systems describe a new architecture for a neurocomputer. Such a computer employs principles of human brain. It consists of oscillators which have different frequencies and are weakly connected via a common medium forced by an external input. Since a neurocomputer consists of many interconnected oscillators (referred also as neurons), the thalamo-cortical systems include large numbers of Volterra integro-differential equations. Solving such systems numerically is expensive not only because of their large dimensions but also because of many kernel evaluations which are needed over the whole interval from the initial point, where the initial condition is imposed, up to the present point, where the computations are currently executed. Moreover, the whole computed history of the solution has to be stored in the memory of the computing machine. Therefore, robust and efficient numerical algorithms are needed for computer simulations for the solutions to the thalamo- cortical systems. In this paper, we illustrate an iteration technique to solve the thalamo-cortical systems. The proposed successive iterates are vector functions of time, which change the original problems into systems of easier and separated equations. Such separated equations can then be solved in parallel computing environments. Results of numerical experiments are presented for large numbers of oscillators.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20770": {
+            "firstname": "Frank",
+            "middleinitial": "C.",
+            "lastname": "Hoppensteadt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20770,
+            "scholarlyactivityid": 6670
+        },
+        "20771": {
+            "firstname": "Zdzislaw",
+            "middleinitial": "",
+            "lastname": "Jackiewicz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20771,
+            "scholarlyactivityid": 6670
+        },
+        "20772": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20772,
+            "scholarlyactivityid": 6670
+        }
+    },
+    "status": [
+        {
+            "id": 6670,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

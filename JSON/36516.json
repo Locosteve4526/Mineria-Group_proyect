@@ -1,0 +1,111 @@
+{
+    "activityid": 36516,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "IPA Illustration of Somali Chizigula (Mushunguli)",
+        "Journal": "The Journal of the International Phonetic Association",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113027151",
+    "coauthors": {
+        "150805": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Hout",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 150805,
+            "scholarlyactivityid": 36516,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "150806": {
+            "firstname": "Marisa",
+            "middleinitial": "",
+            "lastname": "Mejia",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 150806,
+            "scholarlyactivityid": 36516,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "150807": {
+            "firstname": "Michal",
+            "middleinitial": "",
+            "lastname": "Temkin Martinez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113027151",
+            "authorid": 150807,
+            "scholarlyactivityid": 36516,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 36516,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 36516,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 36516,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 36516,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 36516,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113027151",
+    "attachments": []
+}

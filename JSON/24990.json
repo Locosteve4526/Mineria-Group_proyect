@@ -1,0 +1,59 @@
+{
+    "activityid": 24990,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "The Problem Is The Thing: An authentic approach to problem based learning",
+        "Outlet (if applicable)": "",
+        "Date": "2015-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": " ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "\nExplanation of Other:  Summary of Case Study",
+        "Origin": "Other"
+    },
+    "facultyid": "111308555",
+    "coauthors": {
+        "81725": {
+            "firstname": "Micah",
+            "middleinitial": "",
+            "lastname": "Lauer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 81725,
+            "scholarlyactivityid": 24990
+        },
+        "81726": {
+            "firstname": "Serena",
+            "middleinitial": "",
+            "lastname": "Hicks",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111308555",
+            "authorid": 81726,
+            "scholarlyactivityid": 24990
+        }
+    },
+    "status": [
+        {
+            "id": 24990,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 7,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111308555",
+    "attachments": []
+}

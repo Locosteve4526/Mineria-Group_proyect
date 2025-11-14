@@ -1,0 +1,63 @@
+{
+    "activityid": 40089,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Coupled Numerical Analysis of Variations in the Capacity of Driven Energy Piles in Clay",
+        "Name of Conference": "ASCE GeoCongress 2019",
+        "Month / Season": "March",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "ASCE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Energy piles are an emerging alternative for the reduction of energy consumption to heat and cool buildings. Most of the research to date has focused on thermodynamic properties or axial and radial stress and strain of piles. This paper focuses on the effects of temperature fluctuation on the capacity of driven energy piles in clayey soils. Consolidation of clay surrounding driven piles affects the pile capacity (i.e., set up in clay). The heating and cooling periods of energy piles can create the excess pore-water pressure (EPWP, ue) or relax the existing one (e.g., due to pile driving or previous thermal loads) in clayey soils (due to the contraction and expansion of water) affecting the pile capacity. In the meantime, the thermal expansion and contraction of the pile also generate or relax the EPWP in the soil, which can be computed using the cavity-expansion theory. This paper studies the resulting changes in the pile capacity due to the daily and seasonal thermal cycles. The results show that thermal cycles in an energy pile can cause a decrease in the pile capacity leading to a delay in reaching the capacity after a complete clay set up.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112176072",
+    "coauthors": {
+        "219707": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 219707,
+            "scholarlyactivityid": 40089,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "219708": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Zimmerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219708,
+            "scholarlyactivityid": 40089,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40089,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112176072",
+    "attachments": []
+}

@@ -1,0 +1,109 @@
+{
+    "activityid": 31647,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Survey for Very Short-period Planets in the Kepler Data",
+        "Journal": "Astrophysical Journal",
+        "Volume": "779",
+        "Month / Season": "Dec",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "165",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2013ApJ...779..165J",
+        "Description/Abstract": "We conducted a search for very short-period transiting objects in the publicly available Kepler data set. Our preliminary survey has revealed four planetary candidates, all with orbital periods less than 12 hr. We have analyzed the data for these candidates using photometric models that include transit light curves, ellipsoidal variations, and secondary eclipses to constrain the candidates' radii, masses, and effective temperatures. Even with masses of only a few Earth masses, the candidates' short periods mean that they may induce stellar radial velocity signals (a few m s-1) detectable by currently operating facilities. The origins of such short-period planets are unclear, but we discuss the possibility that they may be the remnants of disrupted hot Jupiters. Whatever their origins, if confirmed as planets, these candidates would be among the shortest-period planets ever discovered. Such planets would be particularly amenable to discovery by the planned TESS mission.",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "119575": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119575,
+            "scholarlyactivityid": 31647,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119576": {
+            "firstname": "C.",
+            "middleinitial": "C.",
+            "lastname": "Stark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119576,
+            "scholarlyactivityid": 31647,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119577": {
+            "firstname": "E.",
+            "middleinitial": "R.",
+            "lastname": "Adams",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119577,
+            "scholarlyactivityid": 31647,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119578": {
+            "firstname": "J.",
+            "middleinitial": "",
+            "lastname": "Chambers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119578,
+            "scholarlyactivityid": 31647,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119579": {
+            "firstname": "D.",
+            "middleinitial": "",
+            "lastname": "Deming",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119579,
+            "scholarlyactivityid": 31647,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31647,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": [
+        {
+            "attachmentid": 3838,
+            "mimetype": "application/pdf",
+            "filename": "1308.1379.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZaGorZHBXb2pQK1NqV2xiemhCWGR5cGtZVWc3WVZ1ZTRxSWIrQXdyOVR0QT09",
+            "filesize": 2315355
+        }
+    ]
+}

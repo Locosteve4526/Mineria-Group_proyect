@@ -1,0 +1,88 @@
+{
+    "activityid": 70530,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Longitudinal monitoring of workloads in women\u2019s Division I (DI) collegiate basketball across four training periods.\u00a0&lt;/span&gt;",
+        "Journal": "Frontiers in Sports and Active Living",
+        "Volume": "5",
+        "Month / Season": "April",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.3389/fspor.2023.1108965",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.frontiersin.org/articles/10.3389/fspor.2023.1108965/full",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112182688",
+    "coauthors": {
+        "346429": {
+            "firstname": "Randy",
+            "middleinitial": "R",
+            "lastname": "Towner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346429,
+            "scholarlyactivityid": 70530,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "346430": {
+            "firstname": "Abigail",
+            "middleinitial": "",
+            "lastname": "Larson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346430,
+            "scholarlyactivityid": 70530,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "346431": {
+            "firstname": "Yong",
+            "middleinitial": "",
+            "lastname": "Gao",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112182688",
+            "authorid": 346431,
+            "scholarlyactivityid": 70530,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "346432": {
+            "firstname": "Lynda",
+            "middleinitial": "B",
+            "lastname": "Ransdell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031674",
+            "authorid": 346432,
+            "scholarlyactivityid": 70530,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70530,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112182688",
+    "attachments": []
+}

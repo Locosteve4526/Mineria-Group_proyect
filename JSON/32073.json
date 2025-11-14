@@ -1,0 +1,42 @@
+{
+    "activityid": 32073,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Choice of TV Regularization Parameter for Electrical Resistance Tomography",
+        "Conference/Meeting Name": "SIAM Conference on Imaging Science",
+        "Conference Location": "Albuquerque, NM",
+        "Date or Date Range": "May, 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "In subsurface Electrical Resistance Tomography an image of electrical conductivity profiles is recovered from apparent resistivity measurements. L2 regularization smooths conductivity estimates, so Total Variation is used to detect sharp boundaries. The artifacts produced by TV regularization are mitigated by focusing on regularization parameter choices that result in identifying true anomalies. The methods are tested on measurements at the Boise Hydrogeophysical Research site, a field laboratory where conductivity regions are well understood.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "122190": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 122190,
+            "scholarlyactivityid": 32073
+        }
+    },
+    "status": [
+        {
+            "id": 32073,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 26475,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Archaeology of Antelope Creek Overhang, Southeastern Oregon",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Boise State University, Dept. of Anthropology",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Boise State University, Dept. of Anthropology",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/158",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110261",
+    "coauthors": {
+        "84858": {
+            "firstname": "Sharon",
+            "middleinitial": "",
+            "lastname": "Plager",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 84858,
+            "scholarlyactivityid": 26475
+        },
+        "84859": {
+            "firstname": "Mark",
+            "middleinitial": "G",
+            "lastname": "Plew",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110261",
+            "authorid": 84859,
+            "scholarlyactivityid": 26475
+        },
+        "84860": {
+            "firstname": "Christopher",
+            "middleinitial": "A.",
+            "lastname": "Willson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 84860,
+            "scholarlyactivityid": 26475
+        }
+    },
+    "status": [
+        {
+            "id": 26475,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110261",
+    "attachments": []
+}

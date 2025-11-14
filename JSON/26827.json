@@ -1,0 +1,45 @@
+{
+    "activityid": 26827,
+    "fields": {
+        "Type": "Book",
+        "Title": "Idaho Microbes",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Boise State University",
+        "Publisher Location": "",
+        "ISBN": "9.78099E+12",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "\nPage Number:  268",
+        "Origin": "Other"
+    },
+    "facultyid": "111111926",
+    "coauthors": {
+        "85735": {
+            "firstname": "Todd",
+            "middleinitial": "A",
+            "lastname": "Shallat",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111926",
+            "authorid": 85735,
+            "scholarlyactivityid": 26827
+        }
+    },
+    "status": [
+        {
+            "id": 26827,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111926",
+    "attachments": []
+}

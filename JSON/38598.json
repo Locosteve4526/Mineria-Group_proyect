@@ -1,0 +1,68 @@
+{
+    "activityid": 38598,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Curious Writer",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "6th ",
+        "Volume": "",
+        "Publisher": "Pearson",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We are working on two versions of the The Curious Writer -- one for the digital platform (Revel) and a print version. Our revision deadline is May 2019.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114004157",
+    "coauthors": {
+        "349848": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349848,
+            "scholarlyactivityid": 38598,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349849": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Myers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114004157",
+            "authorid": 349849,
+            "scholarlyactivityid": 38598
+        },
+        "349850": {
+            "firstname": "Michelle",
+            "middleinitial": "",
+            "lastname": "Payne",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349850,
+            "scholarlyactivityid": 38598
+        }
+    },
+    "status": [
+        {
+            "id": 38598,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114004157",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 44398,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "HR Manager Comparisons of Mobile Versus Wired Technologies",
+        "Journal": "SAM Advanced Management Journal",
+        "Volume": "72",
+        "Month / Season": "2007-07-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "26-34",
+        "Publisher": "Society for Advancement in Management",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "201255": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 201255,
+            "scholarlyactivityid": 44398
+        },
+        "201256": {
+            "firstname": "Malcolm",
+            "middleinitial": "",
+            "lastname": "Coco",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201256,
+            "scholarlyactivityid": 44398
+        },
+        "201257": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "McIntosh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112047089",
+            "authorid": 201257,
+            "scholarlyactivityid": 44398
+        }
+    },
+    "status": [
+        {
+            "id": 44398,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2007,
+            "termid": "2007/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 44398,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

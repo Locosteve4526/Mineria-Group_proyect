@@ -1,0 +1,114 @@
+{
+    "activityid": 37648,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Skin conductance, heart rate, and aggressive behavior type",
+        "Journal": "Biological Psychology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114081229",
+    "coauthors": {
+        "201875": {
+            "firstname": "Todd",
+            "middleinitial": "",
+            "lastname": "Armstrong",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201875,
+            "scholarlyactivityid": 37648
+        },
+        "201876": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Wells",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114081229",
+            "authorid": 201876,
+            "scholarlyactivityid": 37648
+        },
+        "201877": {
+            "firstname": "Danielle",
+            "middleinitial": "",
+            "lastname": "Boisvert",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201877,
+            "scholarlyactivityid": 37648
+        },
+        "201878": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Lewis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201878,
+            "scholarlyactivityid": 37648
+        },
+        "201879": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Cooke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201879,
+            "scholarlyactivityid": 37648
+        },
+        "201880": {
+            "firstname": "Matthias",
+            "middleinitial": "",
+            "lastname": "Woeckener",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201880,
+            "scholarlyactivityid": 37648
+        }
+    },
+    "status": [
+        {
+            "id": 37648,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 37648,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 37648,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114081229",
+    "attachments": []
+}

@@ -1,0 +1,92 @@
+{
+    "activityid": 75122,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Framework of Considerations for Online Discussions",
+        "Journal": "Online Learning Journal",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114178462",
+    "coauthors": {
+        "332426": {
+            "firstname": "Kristen",
+            "middleinitial": "L",
+            "lastname": "McHenry",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114178462",
+            "authorid": 332426,
+            "scholarlyactivityid": 75122,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "332427": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332427,
+            "scholarlyactivityid": 75122,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "332428": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Saba",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332428,
+            "scholarlyactivityid": 75122,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75122,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 75122,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114178462",
+    "attachments": [
+        {
+            "attachmentid": 58265,
+            "mimetype": "application/pdf",
+            "filename": "OLJ Submission Acknowledgement.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlodlhlUlNIZ3AwbHROUzZxNWtUTUVLbDA3QTdLMDlZT2o4SlZ1SE85S3ZLVFlGMkF6bFhkWVl2OW9GZG9hU2tGbWdoclplbE1JcjhnPT0%3D",
+            "filesize": 115324
+        }
+    ]
+}

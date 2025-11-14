@@ -1,0 +1,66 @@
+{
+    "activityid": 3711,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical Experiments for Mammary Adenocarcinoma Cell Progression",
+        "Journal": "Integral Methods in Science and Engineering, Computational and Analytic Aspects",
+        "Volume": "",
+        "Month / Season": "2011-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "213-224",
+        "Publisher": "Birkhauser",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "An estimated 192,370 women in the United States were diagnosed with breast cancer during 2009. Of these, over 40,000 will succumb to the disease as a result of widespread metastasis to secondary organs such as bone, lungs, and liver. These statistics suggest the need for improved early detection techniques and treatment options. The most common types of breast cancer originate either in the milk ducts or in the milk producing glands of the breast. Breast cancer arising from ducts is called invasive ductal carcinoma (IDC), while cancer arising from glandular tissue is called invasive lobular carcinoma (ILC). IDC comprises 70-80% of all breast cancer, while ILC makes up only 8-14% of breast cancer cases. More rare forms of breast cancer include inflammatory breast cancer and Paget's disease of the breast.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110166",
+    "coauthors": {
+        "10865": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 10865,
+            "scholarlyactivityid": 3711
+        },
+        "10866": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Jorcyk",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 10866,
+            "scholarlyactivityid": 3711
+        },
+        "10867": {
+            "firstname": "Mikhail",
+            "middleinitial": "",
+            "lastname": "Kolev",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10867,
+            "scholarlyactivityid": 3711
+        }
+    },
+    "status": [
+        {
+            "id": 3711,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110166",
+    "attachments": []
+}

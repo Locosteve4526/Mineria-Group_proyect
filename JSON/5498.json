@@ -1,0 +1,75 @@
+{
+    "activityid": 5498,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Performance of Alternative European Wine grape Cultivars in Southwestern Idaho: Cold Hardiness, Berry Maturity and Yield",
+        "Journal": "HortTechnology",
+        "Volume": "24",
+        "Month / Season": "2014-01-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "138-147",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111116958",
+    "coauthors": {
+        "114496": {
+            "firstname": "Krista",
+            "middleinitial": "",
+            "lastname": "Shellie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114496,
+            "scholarlyactivityid": 5498
+        },
+        "114497": {
+            "firstname": "Jacob",
+            "middleinitial": "",
+            "lastname": "Cragin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114497,
+            "scholarlyactivityid": 5498
+        },
+        "114498": {
+            "firstname": "Marcelo",
+            "middleinitial": "",
+            "lastname": "Serpe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111116958",
+            "authorid": 114498,
+            "scholarlyactivityid": 5498
+        }
+    },
+    "status": [
+        {
+            "id": 5498,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 5498,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111116958",
+    "attachments": []
+}

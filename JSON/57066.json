@@ -1,0 +1,76 @@
+{
+    "activityid": 57066,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Faculty views of CBE, self-efficacy, and institutional support: An exploratory study",
+        "Journal": "The Journal of Competency-Based Education",
+        "Volume": "6",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "1-12",
+        "Publisher": "",
+        "DOI": "10.1002/cbe2.1263",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1002/cbe2.1263",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111319147",
+    "coauthors": {
+        "263589": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Prokes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 263589,
+            "scholarlyactivityid": 57066
+        },
+        "263590": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 263590,
+            "scholarlyactivityid": 57066
+        },
+        "263591": {
+            "firstname": "Chareen",
+            "middleinitial": "Lee",
+            "lastname": "Snelson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111319147",
+            "authorid": 263591,
+            "scholarlyactivityid": 57066
+        },
+        "263592": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 263592,
+            "scholarlyactivityid": 57066
+        }
+    },
+    "status": [
+        {
+            "id": 57066,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111319147",
+    "attachments": []
+}

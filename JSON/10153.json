@@ -1,0 +1,63 @@
+{
+    "activityid": 10153,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Promoting Supplier Performance with Incentives: An Empirical Study",
+        "Name of Conference": "44th Annual Meeting of the Decision Science Institute",
+        "Month / Season": "2014-07-01",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Publisher": "Decision Sciences Institute",
+        "Publisher Location": "Tampa, FL",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112095616",
+    "coauthors": {
+        "158887": {
+            "firstname": "Regis",
+            "middleinitial": "",
+            "lastname": "Terpend",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112095616",
+            "authorid": 158887,
+            "scholarlyactivityid": 10153,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "158888": {
+            "firstname": "Daniel",
+            "middleinitial": "R",
+            "lastname": "Krause",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 158888,
+            "scholarlyactivityid": 10153,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 10153,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112095616",
+    "attachments": []
+}

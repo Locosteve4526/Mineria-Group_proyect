@@ -1,0 +1,84 @@
+{
+    "activityid": 71457,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Utilizing a comparative approach to assess genome evolution during diploidization in Artemisia tridentat (Asteraceae), a keystone species of western North America",
+        "Journal": "American Journal of Botany",
+        "Volume": "",
+        "Month / Season": "December, 2023",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110143",
+    "coauthors": {
+        "325023": {
+            "firstname": "Anthony",
+            "middleinitial": "E.",
+            "lastname": "melton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325023,
+            "scholarlyactivityid": 71457,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325024": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 325024,
+            "scholarlyactivityid": 71457,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325025": {
+            "firstname": "Sven",
+            "middleinitial": "",
+            "lastname": "Buerki",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325025,
+            "scholarlyactivityid": 71457,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71457,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 71457,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110143",
+    "attachments": []
+}

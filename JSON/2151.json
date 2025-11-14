@@ -1,0 +1,46 @@
+{
+    "activityid": 2151,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Hermite Collocation Solution of Partial Differential Equations via Preconditioned Krylov Methods",
+        "Journal": "Numerical Methods for Partial Differential Equations",
+        "Volume": "17",
+        "Month / Season": "2001-03-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "120-136",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1002/1098-2426(200103)17:2&lt;120::AID-NUM3&gt;3.0.CO;2-P",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/87",
+        "Description/Abstract": "We are concerned with the numerical solution of partial differential equations (PDEs) in two spatial dimensions discretized via Hermite collocation. To efficiently solve the resulting systems of linear algebraic equations, we choose a Krylov subspace method. We implement two such methods: Bi-CGSTAB [1] and GMRES [2]. In addition, we utilize two different preconditioners: one based on the Gauss\u2013Seidel method with a block red-black ordering (RBGS); the other based upon a block incomplete LU factorization (ILU). Our results suggest that, at least in the context of Hermite collocation, the RBGS preconditioner is superior to the ILU preconditioner and that the Bi-CGSTAB method is superior to GMRES.",
+        "Origin": "Other"
+    },
+    "facultyid": "111358874",
+    "coauthors": {
+        "5609": {
+            "firstname": "Stephen",
+            "middleinitial": "H",
+            "lastname": "Brill",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358874",
+            "authorid": 5609,
+            "scholarlyactivityid": 2151
+        }
+    },
+    "status": [
+        {
+            "id": 2151,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2001,
+            "termid": "2000/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358874",
+    "attachments": []
+}

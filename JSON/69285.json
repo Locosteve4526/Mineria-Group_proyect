@@ -1,0 +1,58 @@
+{
+    "activityid": 69285,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Simplifying Blood Pressure Measurements in Clinical Settings",
+        "Conference/Meeting Name": "Clinical and Translatinal Scholarship Conference",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "March",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "http://Boise State University 1910 University Drive",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111699531",
+    "coauthors": {
+        "312365": {
+            "firstname": "Uwe",
+            "middleinitial": "",
+            "lastname": "Reischl",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111699531",
+            "authorid": 312365,
+            "scholarlyactivityid": 69285,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312366": {
+            "firstname": "Conrad",
+            "middleinitial": "",
+            "lastname": "Colby",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312366,
+            "scholarlyactivityid": 69285,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69285,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111699531",
+    "attachments": []
+}

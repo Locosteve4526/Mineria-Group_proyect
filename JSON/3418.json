@@ -1,0 +1,66 @@
+{
+    "activityid": 3418,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A literature review of Polygraph Countermeasures and the Comparison Question Technique",
+        "Journal": "Polygraph",
+        "Volume": "44",
+        "Month / Season": "2015-04-30",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "129-139",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110183",
+    "coauthors": {
+        "9923": {
+            "firstname": "Mark ",
+            "middleinitial": "",
+            "lastname": "Handler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9923,
+            "scholarlyactivityid": 3418
+        },
+        "9924": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Honts",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110183",
+            "authorid": 9924,
+            "scholarlyactivityid": 3418
+        },
+        "9925": {
+            "firstname": "Walt",
+            "middleinitial": "",
+            "lastname": "Goodson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9925,
+            "scholarlyactivityid": 3418
+        }
+    },
+    "status": [
+        {
+            "id": 3418,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110183",
+    "attachments": []
+}

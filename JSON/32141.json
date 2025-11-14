@@ -1,0 +1,58 @@
+{
+    "activityid": 32141,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Substrate and Inhibitor Specificities of a Mutant Form of Human Carbonyl Reductase",
+        "Conference / Meeting Name": "Undergraduate Research Conference",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "April 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Human carbonyl reductase (HCBR) catalyzes the NADPH-dependent reduction of a wide variety of carbonyl compounds.  Many anthracycline chemotherapy agents are carbonyl substrates of HCBR.  When the anthracyclines are reduced to their alcohol forms, they no longer have anti-cancer properties and instead are known to cause a potentially lethal chronic cardiotoxicity. Given its role in this process, HCBR is a therapeutic target for treatments aimed at preventing the cardiotoxic side effects.  One approach to preventing the HCBR reduction of the anthracyclines is to design non-substrate anthracyclines.  To design such anthracycline it is important to understand how HCBR recognizes and binds to its substrates.  Toward this end, a mutant form of HCBR was created where methione-234 was replaced with alanine.  Preliminary steady-state kinetics with one of the best known substrates for HCBR, isatin, show that the Km values are significantly elevated for the mutant when compared to the native enzyme.  Further studies with a well-known inhibitor will also be discussed.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643674",
+    "coauthors": {
+        "122960": {
+            "firstname": "Billal",
+            "middleinitial": "",
+            "lastname": "Sultani",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 122960,
+            "scholarlyactivityid": 32141,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "122961": {
+            "firstname": "Henry",
+            "middleinitial": "",
+            "lastname": "Charlier Jr.",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643674",
+            "authorid": 122961,
+            "scholarlyactivityid": 32141,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32141,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643674",
+    "attachments": []
+}

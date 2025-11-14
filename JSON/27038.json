@@ -1,0 +1,58 @@
+{
+    "activityid": 27038,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Creating a Scene with Text Sets",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "D. Litt, S. Martin, and N. Place",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112180267",
+    "coauthors": {
+        "86195": {
+            "firstname": "Margaret",
+            "middleinitial": "Elaine",
+            "lastname": "Chase",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111142773",
+            "authorid": 86195,
+            "scholarlyactivityid": 27038
+        },
+        "86196": {
+            "firstname": "EunHye",
+            "middleinitial": "",
+            "lastname": "Son",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112180267",
+            "authorid": 86196,
+            "scholarlyactivityid": 27038
+        }
+    },
+    "status": [
+        {
+            "id": 27038,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112180267",
+    "attachments": []
+}

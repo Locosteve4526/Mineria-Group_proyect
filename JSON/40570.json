@@ -1,0 +1,76 @@
+{
+    "activityid": 40570,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Who is Really Affected by Fraudulent Reviews? An analysis of shilling attacks on recommender systems in real-world scenarios",
+        "Name of Conference": "Late-Breaking Results track of the 12th ACM Conference on Recommender Systems (RecSys'18)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048777",
+    "coauthors": {
+        "177516": {
+            "firstname": "Anu",
+            "middleinitial": "",
+            "lastname": "Shrestha",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 177516,
+            "scholarlyactivityid": 40570,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "177517": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048777",
+            "authorid": 177517,
+            "scholarlyactivityid": 40570,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "177518": {
+            "firstname": "Sole",
+            "middleinitial": "",
+            "lastname": "Pera",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114027303",
+            "authorid": 177518,
+            "scholarlyactivityid": 40570,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40570,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048777",
+    "attachments": []
+}

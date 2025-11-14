@@ -1,0 +1,63 @@
+{
+    "activityid": 46489,
+    "fields": {
+        "Type": "Book",
+        "Title": "Environmental Federalism: Old Legacies and New Challenges",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Routledge",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065177",
+    "coauthors": {
+        "236495": {
+            "firstname": "Nicholas",
+            "middleinitial": "L",
+            "lastname": "Fowler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065177",
+            "authorid": 236495,
+            "scholarlyactivityid": 46489
+        }
+    },
+    "status": [
+        {
+            "id": 46489,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46489,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 46489,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065177",
+    "attachments": []
+}

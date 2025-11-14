@@ -1,0 +1,77 @@
+{
+    "activityid": 26578,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Learning from the past: An educational technology content analysis",
+        "Name of Conference": "Proceedings of Society for Information Technology &amp; Teacher Education International Conference 2011",
+        "Month / Season": "2011-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "2445-2450",
+        "Publisher": "AACE",
+        "Publisher Location": "Chesapeake, VA USA",
+        "Volume": "2011",
+        "Issue Number": "1",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://www.editlib.org/p/36676",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "85044": {
+            "firstname": "Mike",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 85044,
+            "scholarlyactivityid": 26578
+        },
+        "85045": {
+            "firstname": "Constance",
+            "middleinitial": "J",
+            "lastname": "Wyzard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111499",
+            "authorid": 85045,
+            "scholarlyactivityid": 26578
+        },
+        "85046": {
+            "firstname": "Chareen",
+            "middleinitial": "Lee",
+            "lastname": "Snelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111319147",
+            "authorid": 85046,
+            "scholarlyactivityid": 26578
+        },
+        "85047": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 85047,
+            "scholarlyactivityid": 26578
+        }
+    },
+    "status": [
+        {
+            "id": 26578,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

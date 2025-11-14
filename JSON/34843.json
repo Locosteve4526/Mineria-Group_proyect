@@ -1,0 +1,92 @@
+{
+    "activityid": 34843,
+    "fields": {
+        "Type": "Book",
+        "Title": "American journalism and fake news: Examining the facts",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "ABC-CLIO",
+        "Publisher Location": "",
+        "ISBN": "978-1440861833",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Ashley, S., Maksl, A., &amp; Roberts, J. (2018). American journalism and fake news: Examining the facts. ABC-CLIO: Santa Barbara, Calif.",
+        "Origin": "Manual"
+    },
+    "facultyid": "113106816",
+    "coauthors": {
+        "181116": {
+            "firstname": "Seth",
+            "middleinitial": "",
+            "lastname": "Ashley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113106816",
+            "authorid": 181116,
+            "scholarlyactivityid": 34843,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "181117": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Roberts",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181117,
+            "scholarlyactivityid": 34843,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "181118": {
+            "firstname": "Adam",
+            "middleinitial": "",
+            "lastname": "Maksl",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181118,
+            "scholarlyactivityid": 34843,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34843,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 34843,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 34843,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113106816",
+    "attachments": []
+}

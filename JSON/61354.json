@@ -1,0 +1,106 @@
+{
+    "activityid": 61354,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Full Steam Ahead: A Conceptual Analysis of User-Supplied Tags on Steam",
+        "Journal": "Cataloging &amp; Classification Quarterly",
+        "Volume": "54",
+        "Month / Season": "Oct",
+        "Issue Number": "7",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "418--441",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "308372": {
+            "firstname": "Travis",
+            "middleinitial": "W.",
+            "lastname": "Windleharth",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308372,
+            "scholarlyactivityid": 61354,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "308373": {
+            "firstname": "Jacob",
+            "middleinitial": "",
+            "lastname": "Jett",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308373,
+            "scholarlyactivityid": 61354,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "308374": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 308374,
+            "scholarlyactivityid": 61354,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "308375": {
+            "firstname": "Jin",
+            "middleinitial": "Ha",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308375,
+            "scholarlyactivityid": 61354,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61354,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61354,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 61354,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

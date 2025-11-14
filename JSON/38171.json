@@ -1,0 +1,57 @@
+{
+    "activityid": 38171,
+    "fields": {
+        "Type": "Book",
+        "Title": "Special Publication, Geohazards, Environmental Geotechncis, and Biotreated Gomaterials and Foundations ",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "TBD",
+        "Volume": "TBD",
+        "Publisher": "Chinese Civil Engineering Soceity / China Institution of Civil Engineers",
+        "Publisher Location": "Shanghai China",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112176072",
+    "coauthors": {
+        "174911": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 174911,
+            "scholarlyactivityid": 38171,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 38171,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 38171,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112176072",
+    "attachments": []
+}

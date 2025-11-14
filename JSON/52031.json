@@ -1,0 +1,84 @@
+{
+    "activityid": 52031,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Growing Tea With Subnational Roots: Predicting Tea Party Affiliation in State Legislatures",
+        "Journal": "American Politics Research",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114132815",
+    "coauthors": {
+        "309189": {
+            "firstname": "Stella",
+            "middleinitial": "",
+            "lastname": "Rouse",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 309189,
+            "scholarlyactivityid": 52031,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "309190": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Hunt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114132815",
+            "authorid": 309190,
+            "scholarlyactivityid": 52031,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "309191": {
+            "firstname": "Kristen",
+            "middleinitial": "",
+            "lastname": "Essel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 309191,
+            "scholarlyactivityid": 52031,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52031,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 52031,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114132815",
+    "attachments": []
+}

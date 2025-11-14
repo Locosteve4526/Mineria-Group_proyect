@@ -1,0 +1,49 @@
+{
+    "activityid": 27949,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Operator splitting for nonautonomous delay equations",
+        "Outlet (if applicable)": "",
+        "Date": "2013-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Publisher": "Comput. Math. Appl.",
+        "Location of Publisher (City, State, Country)": " ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "65",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper concerns non-autonomous abstract delay differential equations in Banach spaces. The equations are formulated in terms of time-dependent operators on which the authors impose natural conditions to derive formulas for their solutions. They consider operator splitting to solve the equations numerically. Under additional assumptions imposed on the operators and initial data corresponding to the problem, they derive error bounds and prove results on the order of convergence of the splitting method. The convergence is illustrated by means of numerical examples with different delay operators and with autonomous and non-autonomous equations.\nExplanation of Other:  Mathematical Review",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "87969": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 87969,
+            "scholarlyactivityid": 27949
+        }
+    },
+    "status": [
+        {
+            "id": 27949,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

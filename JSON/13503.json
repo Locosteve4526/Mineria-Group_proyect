@@ -1,0 +1,52 @@
+{
+    "activityid": 13503,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The benefit of undergraduate research assistantships in nursing ",
+        "Conference / Meeting Name": "Western Insitute of Nursing 2013",
+        "Conference Location": "Anaheim, CA",
+        "Date or Date Range": "2013-04-15",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Western Insitute of Nursing",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113084128",
+    "coauthors": {
+        "59369": {
+            "firstname": "Ryoko",
+            "middleinitial": "",
+            "lastname": "Pentecost",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 59369,
+            "scholarlyactivityid": 13503
+        },
+        "59370": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Grassley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113084128",
+            "authorid": 59370,
+            "scholarlyactivityid": 13503
+        }
+    },
+    "status": [
+        {
+            "id": 13503,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113084128",
+    "attachments": []
+}

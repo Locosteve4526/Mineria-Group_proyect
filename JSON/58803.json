@@ -1,0 +1,71 @@
+{
+    "activityid": 58803,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Skills geoscience employers look for in bachelors-level geoscientists",
+        "Conference/Meeting Name": "Earth Educators' Rendezvous",
+        "Conference Location": "virtual",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "274521": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Shafer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274521,
+            "scholarlyactivityid": 58803,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274522": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 274522,
+            "scholarlyactivityid": 58803,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274523": {
+            "firstname": "Anne",
+            "middleinitial": "E",
+            "lastname": "Egger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274523,
+            "scholarlyactivityid": 58803,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58803,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

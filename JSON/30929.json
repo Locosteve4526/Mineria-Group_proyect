@@ -1,0 +1,58 @@
+{
+    "activityid": 30929,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "A Thermal Study of Cyanide Reactions: Relevance to Secondary Processing in Asteroids",
+        "Conference/Meeting Name": "Department of Chemistry and Biochemistry Seminar",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "9/23/2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114044110",
+    "coauthors": {
+        "114844": {
+            "firstname": "Phillip",
+            "middleinitial": "G",
+            "lastname": "Hammer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114844,
+            "scholarlyactivityid": 30929,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "114845": {
+            "firstname": "Michael",
+            "middleinitial": "P",
+            "lastname": "Callahan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114044110",
+            "authorid": 114845,
+            "scholarlyactivityid": 30929,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30929,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114044110",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 31728,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Tidal Alignment of Exoplanets Around Low Mass Stars",
+        "Conference/Meeting Name": "American Astronomical Society Meeting Abstracts #224",
+        "Conference Location": "",
+        "Date or Date Range": "Jun",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2014AAS...22441601P",
+        "Description/Abstract": "Using the Rossiter-McLaughlin effect, the projected spin-orbit angle for many exoplanetary systems has now been measured. Thanks to this rapidly increasing sample it is becoming clear that stars with surface convective zones appear to be well aligned while those without span a wide range of inclinations. The explanation proposed (Winn et al 2010) is that perhaps only the convective zones align with the planet, while the cores remain misaligned. This explanation suffers from two problems however: the core-envelope coupling in low mass stars appears to be strong enough to prevent long-lived differential rotation and even if only the convective zone is aligned, the planet generally does not survive for long after that. Since tides due to a planet on a misaligned orbit have a component at the rotational frequency of the star, and for an aligned planet the only frequency is the difference between the generally fast planet and the slowly rotating star, it is conceivable that misaligned systems are subject to much enhanced dissipation, acting for example on resonantly excited inertial waves in the star. However, Rogers &amp; Lin (2013) point out that under inertial mode dissipation, in addition to aligned orbits one would expect a pile-up on polar and/or exactly counter-rotating orbits. We propose that the extra equilibrium solutions disappear if one includes in the evolution the fact that stars evolve and shed angular momentum throughout their lifetime. We have built a model including all those effects and will show results exploring this explanation. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "120137": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Penev",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120137,
+            "scholarlyactivityid": 31728,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120138": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120138,
+            "scholarlyactivityid": 31728,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31728,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

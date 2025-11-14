@@ -1,0 +1,106 @@
+{
+    "activityid": 1775,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Potential-Based Inversion of Unconfined Steady-State Hydraulic Tomography",
+        "Journal": "Ground Water",
+        "Volume": "47",
+        "Month / Season": "2009-03-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "259-270",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1111/j.1745-6584.2008.00541.x",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/71",
+        "Description/Abstract": "The importance of estimating spatially variable aquifer parameters such as transmissivity is widely recognized for studies in resource evaluation and contaminant transport. A useful approach for mapping such parameters is inverse modeling of data from series of pumping tests, that is, via hydraulic tomography. This inversion of field hydraulic tomographic data requires development of numerical forward models that can accurately represent test conditions while maintaining computational efficiency. One issue this presents is specification of boundary and initial conditions, whose location, type, and value may be poorly constrained. To circumvent this issue when modeling unconfined steady-state pumping tests, we present a strategy that analyzes field data using a potential difference method and that uses dipole pumping tests as the aquifer stimulation. By using our potential difference approach, which is similar to modeling drawdown in confined settings, we remove the need for specifying poorly known boundary condition values and natural source/sink terms within the problem domain. Dipole pumping tests are complementary to this strategy in that they can be more realistically modeled than single-well tests due to their conservative nature, quick achievement of steady state, and the insensitivity of near-field response to far-field boundary conditions. After developing the mathematical theory, our approach is first validated through a synthetic example. We then apply our method to the inversion of data from a field campaign at the Boise Hydrogeophysical Research Site. Results from inversion of nine pumping tests show expected geologic features, and uncertainty bounds indicate that hydraulic conductivity is well constrained within the central site area.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4417": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Cardiff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113054278",
+            "authorid": 4417,
+            "scholarlyactivityid": 1775
+        },
+        "4418": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4418,
+            "scholarlyactivityid": 1775
+        },
+        "4419": {
+            "firstname": "P.",
+            "middleinitial": "K.",
+            "lastname": "Kitanidis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4419,
+            "scholarlyactivityid": 1775
+        },
+        "4420": {
+            "firstname": "Bwalya",
+            "middleinitial": "",
+            "lastname": "Malama",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4420,
+            "scholarlyactivityid": 1775
+        },
+        "4421": {
+            "firstname": "A.",
+            "middleinitial": "",
+            "lastname": "Revil",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4421,
+            "scholarlyactivityid": 1775
+        },
+        "4422": {
+            "firstname": "S.",
+            "middleinitial": "",
+            "lastname": "Straface",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4422,
+            "scholarlyactivityid": 1775
+        },
+        "4423": {
+            "firstname": "E.",
+            "middleinitial": "",
+            "lastname": "Rizzo",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4423,
+            "scholarlyactivityid": 1775
+        }
+    },
+    "status": [
+        {
+            "id": 1775,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 56824,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Tinkering with theoretical objects: Designing theories in scientific inquiry",
+        "Name of Conference": "American Society for Engineering Education (ASeE) ",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "262287": {
+            "firstname": "ShaKayla",
+            "middleinitial": "",
+            "lastname": "Moran",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 262287,
+            "scholarlyactivityid": 56824,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "262288": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 262288,
+            "scholarlyactivityid": 56824,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 56824,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

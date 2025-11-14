@@ -1,0 +1,70 @@
+{
+    "activityid": 54821,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Demonstration of Three True Random Number Generator Cir-cuits Using Memristor Created Entropy and Commercial Off-the-Shelf Components",
+        "Journal": "Entropy",
+        "Volume": "23",
+        "Month / Season": "March",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "371",
+        "Publisher": "MDPI",
+        "DOI": "https://doi.org/10.3390/e23030371",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.mdpi.com/1099-4300/23/3/371",
+        "Description/Abstract": "In this work, we build and test three memristor-based true random number generator (TRNG) circuits: two previously presented in the literature and one which is our own design. The func-tionality of each circuit is assessed using the National Institute of Standards and Technology (NIST) Statistical Test Suite (STS). The TRNG circuits were built using commercially available off-the-shelf parts, including the memristor. The results of this work confirm the usefulness of memristors for successful implementation of TRNG circuits, as well as the ease with which a TRNG can be built using simple circuit designs and off-the-shelf breadboard circuit components.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112017702",
+    "coauthors": {
+        "257826": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Stoller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257826,
+            "scholarlyactivityid": 54821,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "257827": {
+            "firstname": "Kristy",
+            "middleinitial": "A",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112017702",
+            "authorid": 257827,
+            "scholarlyactivityid": 54821,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54821,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112017702",
+    "attachments": [
+        {
+            "attachmentid": 31093,
+            "mimetype": "application/pdf",
+            "filename": "entropy-23-00371-v2_finalpublished.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWpuRllEYTF1bVgyUlAvUlc2dFNab0xOLy9qeUlUMHQ2WlFoamg4ZHpnTjlqb3ZjdmZEZGkxRmVxVHNUZ280aERzNE10TUJEV0ZnUVpzejRsMlhidTB3PT0%3D",
+            "filesize": 3634442
+        }
+    ]
+}

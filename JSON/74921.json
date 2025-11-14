@@ -1,0 +1,71 @@
+{
+    "activityid": 74921,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Rusty Linux: Advances in Rust for Linux Kernel Development",
+        "Name of Conference": "ESEM 2024 Emerging Results, Vision and Reflection Papers Track",
+        "Month / Season": "24 October 2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "496-502",
+        "Publisher": "ACM/IEEE",
+        "Publisher Location": "Barcelona Spain ",
+        "Volume": "18",
+        "Issue Number": "",
+        "DOI": "https://dl.acm.org/doi/10.1145/3674805.3690756",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://dl.acm.org/doi/10.1145/3674805.3690756",
+        "Description/Abstract": "Context: The integration of Rust into kernel development is a transformative endeavor aimed at enhancing system security and reliability by leveraging Rust's strong memory safety guarantees. Objective: We aim to find the current advances in using Rust in Kernel development to reduce the number of memory safety vulnerabilities in one of the most critical pieces of software that underpins all modern applications. Method: By analyzing a broad spectrum of studies, we identify the advantages Rust offers, highlight the challenges faced, and emphasize the need for community consensus on Rust's adoption. Results: Our findings suggest that while the initial implementations of Rust in the kernel show promising results in terms of safety and stability, significant challenges remain. These challenges include achieving seamless interoperability with existing kernel components, maintaining performance, and ensuring adequate support and tooling for developers. Conclusions: This study underscores the need for continued research and practical implementation efforts to fully realize the benefits of Rust. By addressing these challenges, the integration of Rust could mark a significant step forward in the evolution of operating system development towards safer and more reliable systems [Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "111607015",
+    "coauthors": {
+        "331598": {
+            "firstname": "Shane",
+            "middleinitial": "K",
+            "lastname": "Panter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331598,
+            "scholarlyactivityid": 74921,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331599": {
+            "firstname": "Nasir",
+            "middleinitial": "U",
+            "lastname": "Eisty",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331599,
+            "scholarlyactivityid": 74921,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74921,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111607015",
+    "attachments": [
+        {
+            "attachmentid": 57898,
+            "mimetype": "application/pdf",
+            "filename": "esem24-50.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yS3RMQnVtQzczcWQ1UEtiWHE3VnlLaUV3NDFHNWpNcDA2WmdxbThJSUUzZz09",
+            "filesize": 586301
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 77187,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p style=&quot;text-align:center;&quot;&gt;Self-potential signals of soil columns experiencing evaporation and transpiration&lt;/p&gt;",
+        "Journal": "Vadose Zone Journal",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112754",
+    "coauthors": {
+        "344641": {
+            "firstname": "Courtney",
+            "middleinitial": "",
+            "lastname": "McDavid",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344641,
+            "scholarlyactivityid": 77187,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "344642": {
+            "firstname": "Qifei",
+            "middleinitial": "",
+            "lastname": "Niu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112754",
+            "authorid": 344642,
+            "scholarlyactivityid": 77187,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77187,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114112754",
+    "attachments": []
+}

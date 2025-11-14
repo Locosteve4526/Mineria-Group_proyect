@@ -1,0 +1,87 @@
+{
+    "activityid": 65838,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;color:#282828;background-color:#f9f9f9;&quot;&gt;FuDGE: Modeling Full Dynamic Graph Evolution&lt;/span&gt;",
+        "Name of Conference": "",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048778",
+    "coauthors": {
+        "305137": {
+            "firstname": "Angelica",
+            "middleinitial": "",
+            "lastname": "Liguori",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 305137,
+            "scholarlyactivityid": 65838
+        },
+        "305138": {
+            "firstname": "Simone",
+            "middleinitial": "",
+            "lastname": "Mungari",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 305138,
+            "scholarlyactivityid": 65838
+        },
+        "305139": {
+            "firstname": "Ettore",
+            "middleinitial": "",
+            "lastname": "Ritacco",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 305139,
+            "scholarlyactivityid": 65838
+        },
+        "305140": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048778",
+            "authorid": 305140,
+            "scholarlyactivityid": 65838
+        },
+        "305141": {
+            "firstname": "Giuseppe",
+            "middleinitial": "",
+            "lastname": "Manco",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 305141,
+            "scholarlyactivityid": 65838
+        }
+    },
+    "status": [
+        {
+            "id": 65838,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114048778",
+    "attachments": []
+}

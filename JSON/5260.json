@@ -1,0 +1,66 @@
+{
+    "activityid": 5260,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Autism as the Early Closure of a Neuroplastic Critical Period Normally Seen in Adolescence",
+        "Journal": "Biological Systems",
+        "Volume": "2",
+        "Month / Season": "2013-09-30",
+        "Issue Number": "118",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.4172/2329-6577.1000118",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643741",
+    "coauthors": {
+        "16018": {
+            "firstname": "Julia",
+            "middleinitial": "M",
+            "lastname": "Berger",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16018,
+            "scholarlyactivityid": 5260
+        },
+        "16019": {
+            "firstname": "Troy",
+            "middleinitial": "T",
+            "lastname": "Rohn",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643741",
+            "authorid": 16019,
+            "scholarlyactivityid": 5260
+        },
+        "16020": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 16020,
+            "scholarlyactivityid": 5260
+        }
+    },
+    "status": [
+        {
+            "id": 5260,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643741",
+    "attachments": []
+}

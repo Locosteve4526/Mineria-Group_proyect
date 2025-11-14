@@ -1,0 +1,82 @@
+{
+    "activityid": 63898,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;span style=&quot;font-size:12pt;&quot;&gt;The Journey into College and Career: Cultivating Resilience among Challenges&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "Kendall Hunt Publishing",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114060624",
+    "coauthors": {
+        "314923": {
+            "firstname": "Kelly",
+            "middleinitial": "R",
+            "lastname": "Rossetto",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060624",
+            "authorid": 314923,
+            "scholarlyactivityid": 63898
+        },
+        "314924": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114063271",
+            "authorid": 314924,
+            "scholarlyactivityid": 63898
+        }
+    },
+    "status": [
+        {
+            "id": 63898,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 63898,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 63898,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 63898,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114060624",
+    "attachments": []
+}

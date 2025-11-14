@@ -1,0 +1,75 @@
+{
+    "activityid": 75405,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Forensic Techniques for Detecting Election Fraud",
+        "Journal": "Election Law Journal",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114025971",
+    "coauthors": {
+        "333817": {
+            "firstname": "Nahid",
+            "middleinitial": "",
+            "lastname": "Anwar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333817,
+            "scholarlyactivityid": 75405
+        },
+        "333818": {
+            "firstname": "Amit",
+            "middleinitial": "",
+            "lastname": "Jain",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110305",
+            "authorid": 333818,
+            "scholarlyactivityid": 75405
+        },
+        "333819": {
+            "firstname": "Jaclyn",
+            "middleinitial": "J",
+            "lastname": "Kettler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114025971",
+            "authorid": 333819,
+            "scholarlyactivityid": 75405
+        }
+    },
+    "status": [
+        {
+            "id": 75405,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 75405,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114025971",
+    "attachments": []
+}

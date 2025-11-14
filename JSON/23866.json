@@ -1,0 +1,55 @@
+{
+    "activityid": 23866,
+    "fields": {
+        "Type": "Book",
+        "Title": "External review for promotion and tenure, SPEC Kit No. 293",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Association of Research Libraries",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://digitalcommons.unl.edu/libraryscience/142",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113171989",
+    "coauthors": {
+        "79398": {
+            "firstname": "Tracy",
+            "middleinitial": "",
+            "lastname": "Bicknell-Holmes",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113171989",
+            "authorid": 79398,
+            "scholarlyactivityid": 23866
+        },
+        "79399": {
+            "firstname": "Kay",
+            "middleinitial": "",
+            "lastname": "Logan-Peters",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 79399,
+            "scholarlyactivityid": 23866
+        }
+    },
+    "status": [
+        {
+            "id": 23866,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113171989",
+    "attachments": []
+}

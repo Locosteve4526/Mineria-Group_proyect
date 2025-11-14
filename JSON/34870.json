@@ -1,0 +1,89 @@
+{
+    "activityid": 34870,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cTowards Improved Paper-Based Election Technology&quot;",
+        "Name of Conference": "Proc. International Conference on Document Analysis and Recognition",
+        "Month / Season": "September",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "pp. 1255-1259",
+        "Publisher": "",
+        "Publisher Location": "Beijing, China",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Vote counting accuracy has become a well-known\r\nissue in the vote collection process. Digital image processing\r\ntechniques can be incorporated in the analysis of printed\r\nelection ballots. Current image processing techniques in the\r\nvote collection process are heavily dependent on the\r\nanticipated, geometric positioning of the vote. These\r\ntechniques don\u2019t account for markings made outside of the\r\nrequested field of input. Using various form dropout\r\ntechniques, however, every mark on the form can be\r\nextracted and used by the machine to make an intelligent\r\ndecision. Most methods will still miss a few marks and result\r\nin a few false alarms. This paper explores methods of voting\r\nbetween the results of the different mark extraction methods\r\nto improve recognition. To provide diversity a simple image\r\nsubtraction technique is paired with a distance transform\r\nand a morphology based algorithm. The result has a higher\r\ndetection rate and a lower false alarm rate.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142273": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142273,
+            "scholarlyactivityid": 34870,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142274": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Lopresti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142274,
+            "scholarlyactivityid": 34870,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142275": {
+            "firstname": "George",
+            "middleinitial": "",
+            "lastname": "Nagy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142275,
+            "scholarlyactivityid": 34870,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142276": {
+            "firstname": "Ziyan",
+            "middleinitial": "",
+            "lastname": "Wu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142276,
+            "scholarlyactivityid": 34870,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34870,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

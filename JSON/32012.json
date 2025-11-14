@@ -1,0 +1,66 @@
+{
+    "activityid": 32012,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Van der Waals interactions with soft interfaces",
+        "Journal": "Journal of Physics: Condensed Matter",
+        "Volume": "18",
+        "Month / Season": null,
+        "Issue Number": "35",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "8129",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "111111505",
+    "coauthors": {
+        "121905": {
+            "firstname": "Charles B",
+            "middleinitial": "",
+            "lastname": "Hanna",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121905,
+            "scholarlyactivityid": 32012
+        },
+        "121906": {
+            "firstname": "DA",
+            "middleinitial": "",
+            "lastname": "Pink",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121906,
+            "scholarlyactivityid": 32012
+        },
+        "121907": {
+            "firstname": "BE",
+            "middleinitial": "",
+            "lastname": "Quinn",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121907,
+            "scholarlyactivityid": 32012
+        }
+    },
+    "status": [
+        {
+            "id": 32012,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2006,
+            "termid": "2006/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111505",
+    "attachments": []
+}

@@ -1,0 +1,82 @@
+{
+    "activityid": 35543,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Examining faculty motivation to participate in professional development",
+        "Conference/Meeting Name": "Paper presented at the annual meeting of the Association for the Study of Higher Education",
+        "Conference Location": "Anaheim, CA",
+        "Date or Date Range": "2006, Fall",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "146032": {
+            "firstname": "Ellen",
+            "middleinitial": "",
+            "lastname": "Stevens",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 146032,
+            "scholarlyactivityid": 35543
+        },
+        "146033": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Wray",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 146033,
+            "scholarlyactivityid": 35543
+        },
+        "146034": {
+            "firstname": "Teri",
+            "middleinitial": "",
+            "lastname": "Swtizer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 146034,
+            "scholarlyactivityid": 35543
+        },
+        "146035": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Bates",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 146035,
+            "scholarlyactivityid": 35543
+        },
+        "146036": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 146036,
+            "scholarlyactivityid": 35543
+        }
+    },
+    "status": [
+        {
+            "id": 35543,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

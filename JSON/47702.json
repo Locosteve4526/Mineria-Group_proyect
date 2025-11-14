@@ -1,0 +1,58 @@
+{
+    "activityid": 47702,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Educational Gerrymanders: Creating Unequal School Districts in North Carolina",
+        "Journal": "North Carolina Central Law Review",
+        "Volume": "40",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "1",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126306",
+    "coauthors": {
+        "283141": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Lingwall",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126306",
+            "authorid": 283141,
+            "scholarlyactivityid": 47702,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47702,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 47702,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114126306",
+    "attachments": []
+}

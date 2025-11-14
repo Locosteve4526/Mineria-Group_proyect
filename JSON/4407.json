@@ -1,0 +1,56 @@
+{
+    "activityid": 4407,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Acetylcholine Promotes Binding of alpha-Conotoxin MII at alpha3beta2 Nicotinic Acetylcholine Receptors",
+        "Journal": "ChemBioChem",
+        "Volume": "15",
+        "Month / Season": "2014-02-04",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "413-424",
+        "Publisher": "Wiley",
+        "DOI": "10.1002/cbic.201300577",
+        "PubMed Central ID Number": "24420650",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "1910 University Drive",
+        "Description/Abstract": "alpha-Conotoxin MII (alpha-CTxMII) is a 16 amino acid peptide with the sequence GCCSNPVCHLEHSNLC containing disulfide bonds between Cys2-Cys8 and Cys3-Cys16. This peptide, isolated from the venom of the marine cone snail Conus magus, is a potent and selective antagonist of neuronal nicotinic acetylcholine receptors (nAChRs). To evaluate the impact of channel-ligand interactions on ligand binding affinity, homology models of the  heteropentameric alpha3beta2-nAChR were constructed. The models were created in MODELLER using both the Torpedo marmorata-nAChR (TmnAChR, PDB ID: 2BG9) and the Aplysia californica-acetylcholine binding protein (Ac-AChBP, PDB ID: 2BR8) crystal structures as templates for the alpha3 and beta2 subunit isoforms derived from rat neuronal\nnAChR primary amino acid sequences. Molecular docking calculations were then performed with\nAutoDock to evaluate interactions of the heteropentameric nAChR homology models with the ligands acetylcholine (ACh) and alpha-CTxMII. The nAChR homology models described here bind ACh with commensurate binding energies to previously reported systems, and identify critical interactions that facilitate both ACh and alpha-CTxMII ligand binding. The docking calculations revealed an increased binding affinity of the alpha3beta2-nAChR for alpha-CTxMII with ACh bound to the receptor. These findings provide insights into the inhibition and mechanism of electrostatically driven low-nanomolar antagonist properties of the alpha-CTxMIIs on nAChRs.",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "13183": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 13183,
+            "scholarlyactivityid": 4407
+        },
+        "13184": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Mallory",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13184,
+            "scholarlyactivityid": 4407
+        }
+    },
+    "status": [
+        {
+            "id": 4407,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 77946,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;Comparative Analysis of Fresh and Recycled 316L Stainless Steel Powders in LPBF Printing: Implications on Microstructure and Corrosion Properties&lt;/span&gt;",
+        "Journal": "Additive Manufacturing",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112132208",
+    "coauthors": {
+        "349853": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Guillen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349853,
+            "scholarlyactivityid": 77946,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349854": {
+            "firstname": "Michael",
+            "middleinitial": "F",
+            "lastname": "Hurley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112132208",
+            "authorid": 349854,
+            "scholarlyactivityid": 77946,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77946,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112132208",
+    "attachments": []
+}

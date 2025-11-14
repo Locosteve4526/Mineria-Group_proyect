@@ -1,0 +1,84 @@
+{
+    "activityid": 76750,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Defense Spillovers",
+        "Journal": "Working Paper",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114252156",
+    "coauthors": {
+        "341823": {
+            "firstname": "Andrew",
+            "middleinitial": "M",
+            "lastname": "Smyth",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114252156",
+            "authorid": 341823,
+            "scholarlyactivityid": 76750,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341824": {
+            "firstname": "Walter",
+            "middleinitial": "",
+            "lastname": "Melnik",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341824,
+            "scholarlyactivityid": 76750,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341825": {
+            "firstname": "Shir",
+            "middleinitial": "",
+            "lastname": "Bloch",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341825,
+            "scholarlyactivityid": 76750,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76750,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 76750,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114252156",
+    "attachments": []
+}

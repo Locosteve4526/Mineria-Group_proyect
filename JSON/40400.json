@@ -1,0 +1,76 @@
+{
+    "activityid": 40400,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Placing Objects in Gesture Space: Toward Real-Time Understanding of Spatial Descriptions",
+        "Name of Conference": "The Thirty-second AAAI Conference on Artificial Intelligence (AAAI18)",
+        "Month / Season": "February",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "AAAI",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "When describing routes not in the current environment, a\ncommon strategy is to anchor the description in configura-\ntions of salient landmarks, complementing the verbal descrip-\ntions by \u201cplacing\u201d the non-visible landmarks in the gesture\nspace. Understanding such multimodal descriptions and later\nlocating the landmarks from real world is a challenging task\nfor the hearer, who must interpret speech and gestures in par-\nallel, fuse information from both modalities, build a mental\nrepresentation of the description, and ground the knowledge\nto real world landmarks. In this paper, we model the hearer\u2019s\ntask, using a multimodal spatial description corpus we col-\nlected. To reduce the variability of verbal descriptions, we\nsimplified the setup to use simple objects as landmarks. We\ndescribe a real-time system to evaluate the separate and joint\ncontributions of the modalities. We show that gestures not\nonly help to improve the overall system performance, even\nif to a large extent they encode redundant information, but\nalso result in earlier final correct interpretations. Being able\nto build and apply representations incrementally will be of\nuse in more dialogical settings, we argue, where it can enable\nimmediate clarification in cases of mismatch.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062811",
+    "coauthors": {
+        "176809": {
+            "firstname": "Ting",
+            "middleinitial": "",
+            "lastname": "Han",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176809,
+            "scholarlyactivityid": 40400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176810": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062811",
+            "authorid": 176810,
+            "scholarlyactivityid": 40400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176811": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schlangen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176811,
+            "scholarlyactivityid": 40400,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40400,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

@@ -1,0 +1,95 @@
+{
+    "activityid": 69723,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span&gt;&lt;span style=&quot;font-size:10pt;font-family:Calibri, sans-serif;color:#222222;&quot;&gt;Faculty readiness and learning needs for incorporating virtual healthcare into the curriculum&lt;/span&gt;&lt;/span&gt;",
+        "Journal": "Journal of Modern Nursing Practice and Research",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114031004",
+    "coauthors": {
+        "315493": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 315493,
+            "scholarlyactivityid": 69723
+        },
+        "315492": {
+            "firstname": "Jason",
+            "middleinitial": "K",
+            "lastname": "Blomquist",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112188730",
+            "authorid": 315492,
+            "scholarlyactivityid": 69723
+        },
+        "315491": {
+            "firstname": "Darci",
+            "middleinitial": "",
+            "lastname": "McCall",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114031004",
+            "authorid": 315491,
+            "scholarlyactivityid": 69723
+        },
+        "315490": {
+            "firstname": "Cara",
+            "middleinitial": "",
+            "lastname": "Gallegos",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114003270",
+            "authorid": 315490,
+            "scholarlyactivityid": 69723
+        },
+        "315489": {
+            "firstname": "Janet",
+            "middleinitial": "",
+            "lastname": "Reis",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 315489,
+            "scholarlyactivityid": 69723
+        }
+    },
+    "status": [
+        {
+            "id": 69723,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 69723,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "114031004",
+    "attachments": []
+}

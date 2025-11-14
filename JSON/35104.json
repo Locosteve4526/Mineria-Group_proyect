@@ -1,0 +1,58 @@
+{
+    "activityid": 35104,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Horton hears a tweet",
+        "Book Title": "The CU Online Handbook, 2011 ",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "137-142",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Lulu",
+        "Publisher Location": "Raleigh, NC",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "P. R. Lowenthal, D. Thomas, A. Thai, B. Yuhnke, M. Edwards, &amp; C. Gasell",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "143630": {
+            "firstname": "Joanna",
+            "middleinitial": "C.",
+            "lastname": "Dunlap",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 143630,
+            "scholarlyactivityid": 35104
+        },
+        "143631": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 143631,
+            "scholarlyactivityid": 35104
+        }
+    },
+    "status": [
+        {
+            "id": 35104,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

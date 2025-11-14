@@ -1,0 +1,65 @@
+{
+    "activityid": 25202,
+    "fields": {
+        "Type": "Book",
+        "Title": "How RTI Works in Secondary Schools",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Corwin",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Corwin",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/52",
+        "Description/Abstract": "Featuring real-world examples and instructional strategies for secondary schools, this research-based book provides the guidance secondary administrators need to implement RTI and improve student outcomes.",
+        "Origin": "Other"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "82190": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 82190,
+            "scholarlyactivityid": 25202
+        },
+        "82191": {
+            "firstname": "Lori",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82191,
+            "scholarlyactivityid": 25202
+        },
+        "82192": {
+            "firstname": "Monica",
+            "middleinitial": "L.",
+            "lastname": "Harris",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82192,
+            "scholarlyactivityid": 25202
+        }
+    },
+    "status": [
+        {
+            "id": 25202,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

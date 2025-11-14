@@ -1,0 +1,72 @@
+{
+    "activityid": 14319,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": " Inversion of Acoustic and Electromagnetic Recordings for Mapping Current Flow in Lightning Strikes",
+        "Conference/Meeting Name": "American Geophysical Union Fall Meeting 2012",
+        "Conference Location": "San Francisco, CA",
+        "Date or Date Range": "1966-01-01",
+        "Actual/Projected Year of Publication/Presentation": 1966,
+        "Sponsoring Organization": "AGU",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Acoustic recordings can be used to map current-carrying conduits in lightning strikes. Unlike stepped leaders, whose very high frequency (VHF) radio emissions have short (meter-scale) wavelengths and can be located by lightning-mapping arrays, current pulses emit longer (kilometer-scale) waves and cannot be mapped precisely by electromagnetic observations alone. While current pulses are constrained to conductive channels created by stepped leaders, these leaders often branch as they propagate, and most branches fail to carry current.\n\nHere, we present a method to use thunder recordings to map current pulses, and we apply it to acoustic and VHF data recorded in 2009 in the Magdalena mountains in central New Mexico, USA. Thunder is produced by rapid heating and expansion of the atmosphere along conductive channels in response to current flow, and therefore can be used to recover the geometry of the current-carrying channel. Toward this goal, we use VHF pulse maps to identify candidate conductive channels where we treat each channel as a superposition of finely-spaced acoustic point sources. We apply ray tracing in variable atmospheric structures to forward model the thunder that our microphone network would record for each candidate channel. Because multiple channels could potentially carry current, a non-linear inversion is performed to determine the acoustic source strength of each channel. For each combination of acoustic source strengths, synthetic thunder is modeled as a superposition of thunder signals produced by each channel, and a power envelope of this stack is then calculated. The inversion iteratively minimizes the misfit between power envelopes of recorded and modeled thunder. Because the atmospheric sound speed structure through which the waves propagate during these events is unknown, we repeat the procedure on many plausible atmospheres to find an optimal fit. We then determine the candidate channel, or channels, that minimizes residuals between synthetic and acoustic recordings. We demonstrate the usefulness of this method on both intracloud and cloud-to-ground strikes, and discuss factors affecting our ability to replicate recorded thunder.",
+        "Origin": "Other"
+    },
+    "facultyid": "113150379",
+    "coauthors": {
+        "61301": {
+            "firstname": "Jacob",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 61301,
+            "scholarlyactivityid": 14319
+        },
+        "61302": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 61302,
+            "scholarlyactivityid": 14319
+        },
+        "61303": {
+            "firstname": "Rene",
+            "middleinitial": "",
+            "lastname": "Arechiga",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 61303,
+            "scholarlyactivityid": 14319
+        },
+        "61304": {
+            "firstname": "Ronald",
+            "middleinitial": "",
+            "lastname": "Thomas",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 61304,
+            "scholarlyactivityid": 14319
+        }
+    },
+    "status": [
+        {
+            "id": 14319,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113150379",
+    "attachments": []
+}

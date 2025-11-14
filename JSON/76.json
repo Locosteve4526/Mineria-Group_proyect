@@ -1,0 +1,65 @@
+{
+    "activityid": 76,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Is Hotelling's Rule Relevant to Domestic Oil Production?",
+        "Journal": "Journal of Environmental Economics and Management",
+        "Volume": "36",
+        "Month / Season": "1998-01-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 1998,
+        "Page Numbers": "149-169",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "203359": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 203359,
+            "scholarlyactivityid": 76
+        },
+        "203360": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "LaFrance",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 203360,
+            "scholarlyactivityid": 76
+        }
+    },
+    "status": [
+        {
+            "id": 76,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1998,
+            "termid": "1998/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 76,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1998,
+            "termid": "1997/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

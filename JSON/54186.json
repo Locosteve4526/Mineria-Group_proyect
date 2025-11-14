@@ -1,0 +1,93 @@
+{
+    "activityid": 54186,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Implicit Surface Reconstruction with a Curl-free Radial Basis Function Partition of Unity Method",
+        "Journal": "SIAM J. Sci. Comput. ",
+        "Volume": "42",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "A3018-A3040",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1137/22M1474485",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "290803": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Drake",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290803,
+            "scholarlyactivityid": 54186,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "290804": {
+            "firstname": "Edward",
+            "middleinitial": "",
+            "lastname": "Fuselier",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290804,
+            "scholarlyactivityid": 54186,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "290805": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 290805,
+            "scholarlyactivityid": 54186,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54186,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54186,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 54186,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

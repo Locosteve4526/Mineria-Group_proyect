@@ -1,0 +1,67 @@
+{
+    "activityid": 54252,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "A Descriptive Study of the Characteristics of Introductory Accounting Courses Offered by Community Colleges",
+        "Conference/Meeting Name": "American Accounting Association Northeast Region Meeting",
+        "Conference Location": "New York, NY",
+        "Date or Date Range": "October",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106358",
+    "coauthors": {
+        "327284": {
+            "firstname": "S. Allen",
+            "middleinitial": "",
+            "lastname": "Hartt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106358",
+            "authorid": 327284,
+            "scholarlyactivityid": 54252,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "327285": {
+            "firstname": "Jonathan",
+            "middleinitial": "",
+            "lastname": "Nash",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327285,
+            "scholarlyactivityid": 54252,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54252,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54252,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114106358",
+    "attachments": []
+}

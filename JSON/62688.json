@@ -1,0 +1,78 @@
+{
+    "activityid": 62688,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Basic steps for dealing with problematic value pluralism",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Publisher": "i2s",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://i2insights.org/2022/02/22/problematic-value-pluralism/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "288134": {
+            "firstname": "Bethany",
+            "middleinitial": "",
+            "lastname": "Laursen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 288134,
+            "scholarlyactivityid": 62688,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "288135": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 288135,
+            "scholarlyactivityid": 62688,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "288136": {
+            "firstname": "Chad",
+            "middleinitial": "",
+            "lastname": "Gonnerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 288136,
+            "scholarlyactivityid": 62688,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62688,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

@@ -1,0 +1,96 @@
+{
+    "activityid": 43585,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Data Storage in Cellular DNA: Contextualizing Diverse Encoding Schemes",
+        "Journal": "Evolutionary Intelligence (EVIN)",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "Springer",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Nature has been using DNA to store biological data for millions of years, and finally humans are learning to use the same medium for our own data.\nIn this paper, we survey the field of cellular DNA encoding, where encoding schemes are used to insert data into pcDNA and ncDNA areas while bypassing the biological restrictions associated with those areas. We first characterize the unique bio-restrictions associated with existing cellular DNA encoding schemes, then we contrast the schemes with respect to the restrictions they meet, supported features, and implementation details. We discuss the pros and cons of the implementation of each encoding scheme, and make recommendations accordingly. Finally, we highlight existing gaps, and provide our insight into future research directions.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "195949": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 195949,
+            "scholarlyactivityid": 43585
+        },
+        "195950": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Ferguson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002276",
+            "authorid": 195950,
+            "scholarlyactivityid": 43585
+        },
+        "195951": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Machado",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195951,
+            "scholarlyactivityid": 43585
+        },
+        "195952": {
+            "firstname": "Eddie",
+            "middleinitial": "",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195952,
+            "scholarlyactivityid": 43585
+        },
+        "195953": {
+            "firstname": "Thomas",
+            "middleinitial": "",
+            "lastname": "Green",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195953,
+            "scholarlyactivityid": 43585
+        },
+        "195954": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195954,
+            "scholarlyactivityid": 43585
+        }
+    },
+    "status": [
+        {
+            "id": 43585,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

@@ -1,0 +1,64 @@
+{
+    "activityid": 37807,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "School Social Work",
+        "Book Title": "Introduction to Social Work",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Sage Publications",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113158701",
+    "coauthors": {
+        "157494": {
+            "firstname": "Joelle",
+            "middleinitial": "",
+            "lastname": "Powers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113158701",
+            "authorid": 157494,
+            "scholarlyactivityid": 37807,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "157495": {
+            "firstname": "Danielle",
+            "middleinitial": "C",
+            "lastname": "Swick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 157495,
+            "scholarlyactivityid": 37807,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37807,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113158701",
+    "attachments": []
+}

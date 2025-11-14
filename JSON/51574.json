@@ -1,0 +1,97 @@
+{
+    "activityid": 51574,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Poor vector competence of the human flea, Pulex irritans, to transmit Yersinia pestis",
+        "Journal": "Parasites &amp; Vectors",
+        "Volume": "14",
+        "Month / Season": "June",
+        "Issue Number": "       ",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "1-15",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1186/s13071-021-04805-3",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "276585": {
+            "firstname": "Adelaide",
+            "middleinitial": "",
+            "lastname": "Miarinjara",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276585,
+            "scholarlyactivityid": 51574,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "276586": {
+            "firstname": "David",
+            "middleinitial": "M",
+            "lastname": "Bland",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276586,
+            "scholarlyactivityid": 51574,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "276587": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 276587,
+            "scholarlyactivityid": 51574,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "276588": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Hinnebusch",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276588,
+            "scholarlyactivityid": 51574,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51574,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 51574,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

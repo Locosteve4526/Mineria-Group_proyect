@@ -1,0 +1,45 @@
+{
+    "activityid": 23385,
+    "fields": {
+        "Type": "Book",
+        "Title": "iBook, Lengua e Identidad",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113145983",
+    "coauthors": {
+        "118784": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Arispe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113145983",
+            "authorid": 118784,
+            "scholarlyactivityid": 23385
+        }
+    },
+    "status": [
+        {
+            "id": 23385,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113145983",
+    "attachments": []
+}

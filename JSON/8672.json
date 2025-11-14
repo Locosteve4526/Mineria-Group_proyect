@@ -1,0 +1,53 @@
+{
+    "activityid": 8672,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Faculty Artist Recital--Solo Recital",
+        "Name of Performing Group": "",
+        "Date or Date Range": "2012-11-02",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Name of Venue/Sponsor": " ",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, ID",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "Solo recital presented as part of the Faculty Artist Series. The Faculty Quintet performed one piece on the program",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112145056",
+    "coauthors": {
+        "23701": {
+            "firstname": "Leslie",
+            "middleinitial": "Mae",
+            "lastname": "Moreau",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112145056",
+            "authorid": 23701,
+            "scholarlyactivityid": 8672
+        },
+        "23702": {
+            "firstname": "Barton",
+            "middleinitial": "",
+            "lastname": "Moreau",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 23702,
+            "scholarlyactivityid": 8672
+        }
+    },
+    "status": [
+        {
+            "id": 8672,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112145056",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 19548,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Information Technology and Pedagogy in Finance and Economics",
+        "Name of Conference": "Financial Management Association Annual National Meetings",
+        "Month / Season": "1997-10-31",
+        "Actual/Projected Year of Publication/Presentation": 1997,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Honolulu, Hawaii",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "134446": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 134446,
+            "scholarlyactivityid": 19548,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "134447": {
+            "firstname": "Dan",
+            "middleinitial": "",
+            "lastname": "Cooper",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134447,
+            "scholarlyactivityid": 19548,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134448": {
+            "firstname": "B",
+            "middleinitial": "",
+            "lastname": "Grinder",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134448,
+            "scholarlyactivityid": 19548,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19548,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1997,
+            "termid": "1997/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

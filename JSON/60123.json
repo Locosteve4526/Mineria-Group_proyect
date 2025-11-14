@@ -1,0 +1,77 @@
+{
+    "activityid": 60123,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Effectiveness of an intelligently adaptive CAI environment with cognitive apprenticeship on self-regulated learning skills",
+        "Name of Conference": "Educational Multimedia and Hypermedia &amp; Educational Telecommunications",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 1997,
+        "Page Numbers": "1415-1417",
+        "Publisher": "AACE",
+        "Publisher Location": "Charlottesville, VA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "280169": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 280169,
+            "scholarlyactivityid": 60123
+        },
+        "280168": {
+            "firstname": "Judith",
+            "middleinitial": "",
+            "lastname": "Repman",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 280168,
+            "scholarlyactivityid": 60123
+        },
+        "280167": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Lan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 280167,
+            "scholarlyactivityid": 60123
+        },
+        "280166": {
+            "firstname": "Donald",
+            "middleinitial": "J",
+            "lastname": "Winiecki",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110059",
+            "authorid": 280166,
+            "scholarlyactivityid": 60123
+        }
+    },
+    "status": [
+        {
+            "id": 60123,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1997,
+            "termid": "1997/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

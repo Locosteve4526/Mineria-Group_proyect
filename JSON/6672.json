@@ -1,0 +1,56 @@
+{
+    "activityid": 6672,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Waveform Relaxation for Functional Differential Equations",
+        "Journal": "SIAM Journal On Scientific Computing",
+        "Volume": "21",
+        "Month / Season": "1999-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 1999,
+        "Page Numbers": "207-226",
+        "Publisher": "Society for Industrial and Applied Mathematics",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The convergence of waveform relaxation techniques for solving functional-differential equations is studied. New error estimates are derived that hold under linear and nonlinear conditions for the right-hand side of the equation. Sharp error bounds are obtained under generalized time-dependent Lipschitz conditions. The convergence of the waveform method and the quality of the a priori error bounds are illustrated by means of extensive numerical data obtained by applying the method of lines to three partial functional-differential equations.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20774": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20774,
+            "scholarlyactivityid": 6672
+        },
+        "20775": {
+            "firstname": "Stefan",
+            "middleinitial": "",
+            "lastname": "Vandewalle",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20775,
+            "scholarlyactivityid": 6672
+        }
+    },
+    "status": [
+        {
+            "id": 6672,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1999,
+            "termid": "1999/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

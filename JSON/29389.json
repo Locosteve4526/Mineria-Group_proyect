@@ -1,0 +1,74 @@
+{
+    "activityid": 29389,
+    "fields": {
+        "Type": "Book",
+        "Title": "Microwave Materials and Applications",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Wiley",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112113480",
+    "coauthors": {
+        "137525": {
+            "firstname": "Mailadil",
+            "middleinitial": "",
+            "lastname": "Sebastian",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 137525,
+            "scholarlyactivityid": 29389,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "137526": {
+            "firstname": "Rick",
+            "middleinitial": "J",
+            "lastname": "Ubic MInstP",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112113480",
+            "authorid": 137526,
+            "scholarlyactivityid": 29389,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "137527": {
+            "firstname": "Heli",
+            "middleinitial": "",
+            "lastname": "Jantunen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 137527,
+            "scholarlyactivityid": 29389,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29389,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112113480",
+    "attachments": []
+}

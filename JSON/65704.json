@@ -1,0 +1,58 @@
+{
+    "activityid": 65704,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Number of Sales Digits as a Window into Future Sales Growth",
+        "Conference/Meeting Name": "COBE Research Share Day",
+        "Conference Location": "COBE",
+        "Date or Date Range": "4/14/2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "304633": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 304633,
+            "scholarlyactivityid": 65704,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "304634": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Peterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 304634,
+            "scholarlyactivityid": 65704,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 65704,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

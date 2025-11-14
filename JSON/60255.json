@@ -1,0 +1,56 @@
+{
+    "activityid": 60255,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Higher education for students who are incarcerated",
+        "Journal": "The Blue Review",
+        "Volume": "",
+        "Month / Season": "April",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.boisestate.edu/bluereview/higher-education-for-incarcerated/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112176689",
+    "coauthors": {
+        "280237": {
+            "firstname": "Sara",
+            "middleinitial": "Winstead",
+            "lastname": "Fry",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176689",
+            "authorid": 280237,
+            "scholarlyactivityid": 60255
+        },
+        "280238": {
+            "firstname": "Georgann",
+            "middleinitial": "",
+            "lastname": "Kurtz-Shaw",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114163026",
+            "authorid": 280238,
+            "scholarlyactivityid": 60255
+        }
+    },
+    "status": [
+        {
+            "id": 60255,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112176689",
+    "attachments": []
+}

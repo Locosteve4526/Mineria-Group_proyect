@@ -1,0 +1,106 @@
+{
+    "activityid": 3190,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling the Solid-Liquid Phase Transition in Saturated Triglycerides",
+        "Journal": "Journal of Chemical Physics",
+        "Volume": "132",
+        "Month / Season": "2010-02-07",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "054502-1 - 054502-12",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1063/1.3276108",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/physics_facpubs/35",
+        "Description/Abstract": "We investigated theoretically two competing published scenarios for the melting transition of the triglyceride trilaurin (TL): those of (1) Corkery et al. [Langmuir 23, 7241 (2007)] , in which the average state of each TL molecule in the liquid phase is a discotic &quot;Y&quot; conformer whose three chains are dynamically twisted, with an average angle of ~ 120\u00b0 between them, and those of (2) Cebula et al. [J. Am. Oil Chem. Soc. 69, 130 (1992)] , in which the liquid-state conformation of the TL molecule in the liquid phase is a nematic h\u2021-conformer whose three chains are in a modified &quot;chair&quot; conformation. We developed two competing models for the two scenarios, in which TL molecules are in a nematic compact-chair (or &quot;h&quot;) conformation, with extended, possibly all-trans, chains at low-temperatures, and in either a Y conformation or an h\u2021 conformation in the liquid state at temperatures higher than the phase-transition temperature, T\u2021 = 319?K. We defined an h-Y model as a realization of the proposal of Corkery et al. [Langmuir 23, 7241 (2007)] , and explored its predictions by mapping it onto an Ising model in a temperature-dependent field, performing a mean-field approximation, and calculating the transition enthalpy ?H. We found that the most plausible realization of the h-Y model, as applied to the solid-liquid phase transition in TL, and likely to all saturated triglycerides, gave a value of ?H in reasonable agreement with the experiment. We then defined an alternative h-h\u2021 model as a realization of the proposal of Cebula et al. [J. Am. Oil Chem. Soc. 69, 130 (1992)] , in which the liquid phase exhibits an average symmetry breaking similar to an h conformation, but with twisted chains, to see whether it could describe the TL phase transition. The h-h\u2021 model gave a value of ?H that was too small by a factor of ? 3\u20134. We also predicted the temperature dependence of the 1132?cm?1 Raman band for both models, and performed measurements of the ratios of three TL Raman bands in the temperature range of ?20?\u00b0C ? T ? 90?\u00b0C. The experimental results were in accord with the predictions of the h-Y model and support the proposal of Corkery et al. [Langmuir 23, 7241 (2007)] that the liquid state is made up of molecules that are each, on average, in a Y conformation. Finally, we carried out computer simulations of minimal-model TLs in the liquid phase, and concluded that although the individual TL molecules are, on average, Y conformers, long-range discotic order is unlikely to exist.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111505",
+    "coauthors": {
+        "9263": {
+            "firstname": "David",
+            "middleinitial": "A.",
+            "lastname": "Pink",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9263,
+            "scholarlyactivityid": 3190
+        },
+        "9264": {
+            "firstname": "Charles",
+            "middleinitial": "B",
+            "lastname": "Hanna",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111505",
+            "authorid": 9264,
+            "scholarlyactivityid": 3190
+        },
+        "9265": {
+            "firstname": "Christophe",
+            "middleinitial": "",
+            "lastname": "Sandt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9265,
+            "scholarlyactivityid": 3190
+        },
+        "9266": {
+            "firstname": "Adam",
+            "middleinitial": "J.",
+            "lastname": "MacDonald",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9266,
+            "scholarlyactivityid": 3190
+        },
+        "9267": {
+            "firstname": "Ronald",
+            "middleinitial": "",
+            "lastname": "MacEachern",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9267,
+            "scholarlyactivityid": 3190
+        },
+        "9268": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Corkery",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9268,
+            "scholarlyactivityid": 3190
+        },
+        "9269": {
+            "firstname": "D\u00e9rick",
+            "middleinitial": "",
+            "lastname": "Rousseau",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9269,
+            "scholarlyactivityid": 3190
+        }
+    },
+    "status": [
+        {
+            "id": 3190,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111505",
+    "attachments": []
+}

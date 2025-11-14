@@ -1,0 +1,63 @@
+{
+    "activityid": 62963,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Faculty Artist Series: Nicole Molumby, Flute; Barton Moreau, Piano; Leslie Moreau, Clarinet",
+        "Name of Performing Group": "Le Bois Chamber Players",
+        "Date or Date Range": "11-02-2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Name of Venue/Sponsor": "Boise State University",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, ID 83725",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "A performance of solo and collaborative works including works by Phillip Parker, Jean Fran\u00e7aix, Fr\u00e9d\u00e9ric Chopin, Robert Muczynski, Eve Behlarian, and Blaz Pucihar. The same program was given two weeks later at Arizona State University, and the performance is on You Tube.",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112060963",
+    "coauthors": {
+        "289868": {
+            "firstname": "Barton",
+            "middleinitial": "Andrew",
+            "lastname": "Moreau",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146468",
+            "authorid": 289868,
+            "scholarlyactivityid": 62963
+        },
+        "289867": {
+            "firstname": "Nicole",
+            "middleinitial": "Lena",
+            "lastname": "Molumby",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112060963",
+            "authorid": 289867,
+            "scholarlyactivityid": 62963
+        },
+        "289866": {
+            "firstname": "Leslie",
+            "middleinitial": "Mae",
+            "lastname": "Moreau",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112145056",
+            "authorid": 289866,
+            "scholarlyactivityid": 62963
+        }
+    },
+    "status": [
+        {
+            "id": 62963,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112060963",
+    "attachments": []
+}

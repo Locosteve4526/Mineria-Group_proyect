@@ -1,0 +1,94 @@
+{
+    "activityid": 2879,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Response letter to \u201dSelf-medication in animals,\u201d J. C. de Roode et al., Perspectives, 12 April, p. 150",
+        "Journal": "Science",
+        "Volume": "",
+        "Month / Season": "2013-04-12",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112172788",
+    "coauthors": {
+        "8201": {
+            "firstname": "B",
+            "middleinitial": "D",
+            "lastname": "Moore",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 8201,
+            "scholarlyactivityid": 2879
+        },
+        "8202": {
+            "firstname": "W",
+            "middleinitial": "J",
+            "lastname": "Foley",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 8202,
+            "scholarlyactivityid": 2879
+        },
+        "8203": {
+            "firstname": "Jennifer",
+            "middleinitial": "S",
+            "lastname": "Forbey",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112172788",
+            "authorid": 8203,
+            "scholarlyactivityid": 2879
+        },
+        "8204": {
+            "firstname": "J",
+            "middleinitial": "L",
+            "lastname": "DeGabriel",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 8204,
+            "scholarlyactivityid": 2879
+        }
+    },
+    "status": [
+        {
+            "id": 2879,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 2879,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 2879,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112172788",
+    "attachments": []
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 63901,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "SoC Re-configurable Architecture for Implementing Software Trained Recurrent Neural Networks on FPGA",
+        "Journal": "EEE Transactions on Circuits and Systems I",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "294636": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Wasef",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294636,
+            "scholarlyactivityid": 63901,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294637": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 294637,
+            "scholarlyactivityid": 63901,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63901,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 63901,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

@@ -1,0 +1,115 @@
+{
+    "activityid": 52569,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Modernization of a Civil Engineering Curriculum",
+        "Name of Conference": "ASEE Annual Conference",
+        "Month / Season": "July/2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114080133",
+    "coauthors": {
+        "244091": {
+            "firstname": "Robert",
+            "middleinitial": "W",
+            "lastname": "Hamilton",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110009",
+            "authorid": 244091,
+            "scholarlyactivityid": 52569
+        },
+        "244090": {
+            "firstname": "Sondra",
+            "middleinitial": "M",
+            "lastname": "Miller",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112045153",
+            "authorid": 244090,
+            "scholarlyactivityid": 52569
+        },
+        "244089": {
+            "firstname": "Bhaskar",
+            "middleinitial": "C.S.",
+            "lastname": "Chittoori",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114001930",
+            "authorid": 244089,
+            "scholarlyactivityid": 52569
+        },
+        "244088": {
+            "firstname": "Nicholas",
+            "middleinitial": "W",
+            "lastname": "Hudyma",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114136465",
+            "authorid": 244088,
+            "scholarlyactivityid": 52569
+        },
+        "244087": {
+            "firstname": "Briceland",
+            "middleinitial": "M",
+            "lastname": "McLaughlin",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 244087,
+            "scholarlyactivityid": 52569
+        },
+        "244086": {
+            "firstname": "Mojtaba",
+            "middleinitial": "",
+            "lastname": "Sadegh",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114080133",
+            "authorid": 244086,
+            "scholarlyactivityid": 52569
+        }
+    },
+    "status": [
+        {
+            "id": 52569,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 52569,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 52569,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114080133",
+    "attachments": []
+}

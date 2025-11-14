@@ -1,0 +1,62 @@
+{
+    "activityid": 20888,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "How do online faculty perceive their professional development opportunity? A case study",
+        "Conference/Meeting Name": "Paper presented at the annual meeting of the American Educational Research Association",
+        "Conference Location": "Washington, DC",
+        "Date or Date Range": "2016, April",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "145850": {
+            "firstname": "Ken-zen",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145850,
+            "scholarlyactivityid": 20888
+        },
+        "145851": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 145851,
+            "scholarlyactivityid": 20888
+        },
+        "145852": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Bauer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145852,
+            "scholarlyactivityid": 20888
+        }
+    },
+    "status": [
+        {
+            "id": 20888,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

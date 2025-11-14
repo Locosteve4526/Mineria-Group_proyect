@@ -1,0 +1,65 @@
+{
+    "activityid": 34648,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "Graphene-Based Sensor",
+        "Name of Venue": null,
+        "Date": null,
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Issue": null,
+        "Page Numbers or Number of Pages": null,
+        "Volume": null,
+        "ISSN": null,
+        "Co-contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Activity Type": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "111698609",
+    "coauthors": {
+        "140891": {
+            "firstname": "Richard",
+            "middleinitial": "I",
+            "lastname": "Masel",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140891,
+            "scholarlyactivityid": 34648
+        },
+        "140892": {
+            "firstname": "Amin",
+            "middleinitial": "",
+            "lastname": "Salehi-khojin",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140892,
+            "scholarlyactivityid": 34648
+        },
+        "140893": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Estrada",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140893,
+            "scholarlyactivityid": 34648
+        }
+    },
+    "status": [
+        {
+            "id": 34648,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111698609",
+    "attachments": []
+}

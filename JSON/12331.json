@@ -1,0 +1,42 @@
+{
+    "activityid": 12331,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Poetry Reading",
+        "Conference/Meeting Name": "Bad Blood 29",
+        "Conference Location": "Portland, OR",
+        "Date or Date Range": "2015-11-06",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Bad Blood reading series",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "56424": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 56424,
+            "scholarlyactivityid": 12331
+        }
+    },
+    "status": [
+        {
+            "id": 12331,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

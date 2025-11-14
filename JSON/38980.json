@@ -1,0 +1,62 @@
+{
+    "activityid": 38980,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Near Surface Seismic Hazard Characterization in the Presence of High Velocity Contrasts",
+        "Conference / Meeting Name": "AGU Annual Meeting",
+        "Conference Location": "New Orleans",
+        "Date or Date Range": "2017-12-11",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "AGU",
+        "Presenter(s)": null,
+        "Web Address": "https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/263585",
+        "Description/Abstract": "We present new multicomponent surface wave processing techniques that provide accurate characterization of near-surface conditions in the presence of large lateral or vertical shear wave velocity boundaries. A common problem with vertical component Rayleigh wave analysis in the presence of high contrast subsurface conditions is Rayleigh wave propagation mode misidentification due to an overlap of frequency-phase velocity domain dispersion, leading to an overestimate of shear wave velocities. By using the vertical and horizontal inline component signals, we isolate retrograde and prograde particle motions to separate fundamental and higher mode signals, leading to more accurate and confident dispersion curve picks and shear wave velocity estimates. Shallow, high impedance scenarios, such as the case with shallow bedrock, are poorly constrained when using surface wave dispersion information alone. By using a joint inversion of dispersion and horizontal-to-vertical (H/V) curves within active source frequency ranges (down to ~3 Hz), we can accurately estimate the depth to high impedance boundaries, a significant improvement compared to the estimates based on dispersion information alone. We compare our approach to body wave results that show comparable estimates of bedrock topography. For lateral velocity contrasts, we observe horizontal polarization of Rayleigh waves identified by an increase in amplitude and broadening of the horizontal spectra with little variation in the vertical component spectra. The horizontal spectra offer a means to identify and map near surface faults where there is no topographic or clear body wave expression. With these new multicomponent active source seismic data processing and inversion techniques, we better constrain a variety of near surface conditions critical to the estimation of local site response and seismic hazards.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110034",
+    "coauthors": {
+        "165739": {
+            "firstname": "Gabriel",
+            "middleinitial": "",
+            "lastname": "Gribler",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 165739,
+            "scholarlyactivityid": 38980
+        },
+        "165738": {
+            "firstname": "Dylan",
+            "middleinitial": "",
+            "lastname": "Mikesell",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112102731",
+            "authorid": 165738,
+            "scholarlyactivityid": 38980
+        },
+        "165737": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Liberty",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110034",
+            "authorid": 165737,
+            "scholarlyactivityid": 38980
+        }
+    },
+    "status": [
+        {
+            "id": 38980,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110034",
+    "attachments": []
+}

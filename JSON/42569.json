@@ -1,0 +1,63 @@
+{
+    "activityid": 42569,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Multirate RKC time stepping on adaptively refined meshes",
+        "Conference/Meeting Name": "Integrating the Integrators for nonlinear evolution equations : from Analysis to Numerical Methods, High Performance Computing and Applications",
+        "Conference Location": "Banff, Canada",
+        "Date or Date Range": "December 2-7, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "Banff International Research Station",
+        "Presenter(s)": null,
+        "Web Address": "https://www.birs.ca/events/2018/5-day-workshops/18w5152",
+        "Description/Abstract": "Title : Multirate RKC time stepping on adaptively refined meshes\n\nAbstract : Adaptive mesh refinement (AMR) has been widely used for solving a variety of PDEs in which solution features of interest are spatially localized.  In the past three decades, much attention has been devoted to spatial discretization in the AMR setting, while relatively little attention has been paid to time stepping on a multi-resolution hierarchy of grids.  Adaptive time stepping, aimed at preserving a constant CFL number across the mesh hierarchy, was built into the original Berger-Oliger and Berger-Collela approaches to adaptive mesh refinement, but in its original form, this adaptive time stepping was only well suited to single-step, single-stage time stepping schemes.  While more sophisticated schemes can be easily implemented if the same size time step is used on all grids (global time stepping), little attention has been given to combining adaptive time stepping with multi-step or multi-stage schemes.\n\nIn this talk, we present our current efforts to combine the multi-stage, explicit Runge-Kutta-Chebyshev (RKC) integration scheme with adaptive time stepping.  Using the RKC scheme, we can solve parabolic equations using explicit time stepping in a manner that is competitive, if not superior to alternative implicit approaches.  The multi-stage nature of the scheme requires special algorithmic structures be built into the core AMR time stepping strategy.  In particular, for finite volume schemes, extra effort may be required to ensure that the resulting scheme is conservative. We have developed a algorithmic approach to implementing the RKC scheme on an one-dimensional adaptively refined mesh using adaptive time stepping, and are currently working on a two dimensional approach in our block-structured adaptive code ForestClaw. We will present results from typical reaction diffusion problems. ",
+        "Origin": "Manual"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "189774": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 189774,
+            "scholarlyactivityid": 42569,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42569,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42569,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 42569,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113079626",
+    "attachments": []
+}

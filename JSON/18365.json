@@ -1,0 +1,62 @@
+{
+    "activityid": 18365,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "What does it mean to learn from and understand science text?",
+        "Conference/Meeting Name": "Annual Meeting of the American Educational Research Association",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "2007-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Sponsoring Organization": "American Educational Research Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "70234": {
+            "firstname": "J ",
+            "middleinitial": "",
+            "lastname": "Wiley ",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 70234,
+            "scholarlyactivityid": 18365
+        },
+        "70235": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 70235,
+            "scholarlyactivityid": 18365
+        },
+        "70236": {
+            "firstname": "T D ",
+            "middleinitial": "",
+            "lastname": "Griffin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 70236,
+            "scholarlyactivityid": 18365
+        }
+    },
+    "status": [
+        {
+            "id": 18365,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

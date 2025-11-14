@@ -1,0 +1,56 @@
+{
+    "activityid": 4957,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tips for new scholars on academic publishing.",
+        "Journal": "Academic Leadership",
+        "Volume": "9",
+        "Month / Season": "2011-03-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113158701",
+    "coauthors": {
+        "14947": {
+            "firstname": "Joelle",
+            "middleinitial": "",
+            "lastname": "Powers",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113158701",
+            "authorid": 14947,
+            "scholarlyactivityid": 4957
+        },
+        "14948": {
+            "firstname": "Danielle",
+            "middleinitial": "C",
+            "lastname": "Swick",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 14948,
+            "scholarlyactivityid": 4957
+        }
+    },
+    "status": [
+        {
+            "id": 4957,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113158701",
+    "attachments": []
+}

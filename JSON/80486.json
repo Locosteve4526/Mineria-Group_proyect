@@ -1,0 +1,75 @@
+{
+    "activityid": 80486,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;&lt;span&gt;Beyond Passwords: A Review of the Hidden Risks in Two-Factor Authentication&lt;/span&gt;&lt;/p&gt;",
+        "Journal": "Journal of Systems and Information Technology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114176725",
+    "coauthors": {
+        "354616": {
+            "firstname": "Pengcheng",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354616,
+            "scholarlyactivityid": 80486,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "354617": {
+            "firstname": "Maheshwar",
+            "middleinitial": "",
+            "lastname": "Boodraj",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114176725",
+            "authorid": 354617,
+            "scholarlyactivityid": 80486,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "354618": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Baskerville",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354618,
+            "scholarlyactivityid": 80486,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 80486,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2025,
+            "termid": "2025/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114176725",
+    "attachments": []
+}

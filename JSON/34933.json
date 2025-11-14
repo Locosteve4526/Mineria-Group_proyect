@@ -1,0 +1,76 @@
+{
+    "activityid": 34933,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cA Document Analysis System for Supporting Electronic Voting Research\u201d",
+        "Name of Conference": "Eighth IAPR International Workshop on Document Analysis Systems",
+        "Month / Season": "16-19 September",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "pp. 167-174",
+        "Publisher": "",
+        "Publisher Location": "Nara, Japan",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "As a result of well-publicized security concerns with direct\r\nrecording electronic (DRE) voting, there is a growing\r\ncall for systems that employ some form of paper artifact to\r\nprovide a verifiable physical record of a voter\u2019s choices. In\r\nthis paper, we present a system we are developing to support\r\na multi-institution, cross-disciplinary research project\r\nexamining issues that arise when paper ballots are used\r\nin elections. We survey the motivating factors behind our\r\nwork, discuss the special constraints raised in processing\r\nballots as opposed to more general document images, and\r\ndescribe the current status of our system.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142645": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Lopresti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142645,
+            "scholarlyactivityid": 34933,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142646": {
+            "firstname": "George",
+            "middleinitial": "",
+            "lastname": "Nagy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142646,
+            "scholarlyactivityid": 34933,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142647": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142647,
+            "scholarlyactivityid": 34933,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34933,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

@@ -1,0 +1,84 @@
+{
+    "activityid": 22209,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Influence of Supervisory Narratives in Implementing Strategic Change in Marketing",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Role:  Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "118378": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118378,
+            "scholarlyactivityid": 22209,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "118379": {
+            "firstname": "Ajay",
+            "middleinitial": "",
+            "lastname": "Kohli",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118379,
+            "scholarlyactivityid": 22209,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "118380": {
+            "firstname": "Gautam",
+            "middleinitial": "",
+            "lastname": "Challagalla",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118380,
+            "scholarlyactivityid": 22209,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 22209,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 22209,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

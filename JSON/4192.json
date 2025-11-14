@@ -1,0 +1,56 @@
+{
+    "activityid": 4192,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Review of the book The cognitive style of  PowerPoint: Pitching out corrupts within",
+        "Journal": "Education Review",
+        "Volume": "",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "12521": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 12521,
+            "scholarlyactivityid": 4192
+        },
+        "12522": {
+            "firstname": "John",
+            "middleinitial": "W.",
+            "lastname": "White",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12522,
+            "scholarlyactivityid": 4192
+        }
+    },
+    "status": [
+        {
+            "id": 4192,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

@@ -1,0 +1,43 @@
+{
+    "activityid": 8600,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Nutcracker ballet",
+        "Name of Performing Group": "Boise Philharmonic",
+        "Date or Date Range": "2010-12-10",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Name of Venue/Sponsor": "Morrison Center Boise Philharmonic",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, ID",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "This concert was part of the 2010-2011 Concert series by the Boise Philharmonic.",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110088",
+    "coauthors": {
+        "23610": {
+            "firstname": "David",
+            "middleinitial": "G",
+            "lastname": "Mathie",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110088",
+            "authorid": 23610,
+            "scholarlyactivityid": 8600
+        }
+    },
+    "status": [
+        {
+            "id": 8600,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110088",
+    "attachments": []
+}

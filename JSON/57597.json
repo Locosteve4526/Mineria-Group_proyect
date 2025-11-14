@@ -1,0 +1,111 @@
+{
+    "activityid": 57597,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Engineering Instruction, Inclusion, and Comics \u2013 Reflections from a Student Illustrator and an Instructor",
+        "Name of Conference": "ASEE Annual Conference",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113161429",
+    "coauthors": {
+        "302691": {
+            "firstname": "Addie",
+            "middleinitial": "",
+            "lastname": "Totman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302691,
+            "scholarlyactivityid": 57597,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "302692": {
+            "firstname": "Sreyoshi",
+            "middleinitial": "",
+            "lastname": "Bhaduri",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302692,
+            "scholarlyactivityid": 57597,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "302693": {
+            "firstname": "Krishna",
+            "middleinitial": "",
+            "lastname": "Pakala",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113161429",
+            "authorid": 302693,
+            "scholarlyactivityid": 57597,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "302694": {
+            "firstname": "Cherie",
+            "middleinitial": "",
+            "lastname": "Edwards",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302694,
+            "scholarlyactivityid": 57597,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "302695": {
+            "firstname": "Michelle",
+            "middleinitial": "",
+            "lastname": "Soledad",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302695,
+            "scholarlyactivityid": 57597,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57597,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 57597,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113161429",
+    "attachments": []
+}

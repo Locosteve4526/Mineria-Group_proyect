@@ -1,0 +1,54 @@
+{
+    "activityid": 44011,
+    "fields": {
+        "Type": "Book",
+        "Title": "Not sure yet",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Edition": "N/A",
+        "Volume": "N/A",
+        "Publisher": "Center for Baque Studies. University of Nevada, Reno",
+        "Publisher Location": " University of Nevada, Reno",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Author, Eider Rodriguez. Nere Lete translator.",
+        "Title of Larger Work": "An  Anthology of short stories by Eider Rodriguez.",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "A collection of short stories listed on this page.\n\nThe publication of this collection has been postponed while the author and her agent look for another non-academic venue to publish this work.\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "111113612",
+    "coauthors": {
+        "217337": {
+            "firstname": "Nerea",
+            "middleinitial": "",
+            "lastname": "Lete",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111113612",
+            "authorid": 217337,
+            "scholarlyactivityid": 44011
+        }
+    },
+    "status": [
+        {
+            "id": 44011,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 44011,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111113612",
+    "attachments": []
+}

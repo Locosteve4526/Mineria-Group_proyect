@@ -1,0 +1,58 @@
+{
+    "activityid": 24661,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Interaction",
+        "Book Title": "Handbook of Distance Education, 3rd Ed.",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Michael Moore",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002257",
+    "coauthors": {
+        "81095": {
+            "firstname": "Norm",
+            "middleinitial": "",
+            "lastname": "Friesen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114002257",
+            "authorid": 81095,
+            "scholarlyactivityid": 24661
+        },
+        "81096": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Kuskis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 81096,
+            "scholarlyactivityid": 24661
+        }
+    },
+    "status": [
+        {
+            "id": 24661,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002257",
+    "attachments": []
+}

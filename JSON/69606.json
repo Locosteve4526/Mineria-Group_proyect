@@ -1,0 +1,76 @@
+{
+    "activityid": 69606,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;p style=&quot;text-align:center;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:18pt;&quot;&gt;Commonality in Liquidity and Executive Networks&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;",
+        "Name of Conference": "Southern Finance Association Annual Meeting",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "314735": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086454",
+            "authorid": 314735,
+            "scholarlyactivityid": 69606,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "314736": {
+            "firstname": "Miran",
+            "middleinitial": "",
+            "lastname": "Hossain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314736,
+            "scholarlyactivityid": 69606,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "314737": {
+            "firstname": "Ethan",
+            "middleinitial": "",
+            "lastname": "Watson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314737,
+            "scholarlyactivityid": 69606,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69606,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

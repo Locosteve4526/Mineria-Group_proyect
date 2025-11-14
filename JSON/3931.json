@@ -1,0 +1,85 @@
+{
+    "activityid": 3931,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Comparsion of three morphological structures used to estimate Bluegill age.",
+        "Journal": "Transactions of the American Fisheries Society",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110405",
+    "coauthors": {
+        "103571": {
+            "firstname": "Dennis",
+            "middleinitial": "A",
+            "lastname": "Daw",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 103571,
+            "scholarlyactivityid": 3931
+        },
+        "103572": {
+            "firstname": "Daniel",
+            "middleinitial": "J",
+            "lastname": "Schill",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 103572,
+            "scholarlyactivityid": 3931
+        },
+        "103573": {
+            "firstname": "Elizabeth",
+            "middleinitial": "R",
+            "lastname": "Mamer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 103573,
+            "scholarlyactivityid": 3931
+        },
+        "103574": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Koetsier",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110405",
+            "authorid": 103574,
+            "scholarlyactivityid": 3931
+        }
+    },
+    "status": [
+        {
+            "id": 3931,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 3931,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110405",
+    "attachments": []
+}

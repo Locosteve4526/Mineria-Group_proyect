@@ -1,0 +1,52 @@
+{
+    "activityid": 15243,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Half the Road Documentary ",
+        "Conference/Meeting Name": "Western Society for Physical Education of College Women",
+        "Conference Location": "Pacific Grove, CA",
+        "Date or Date Range": "2015-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111669980",
+    "coauthors": {
+        "63322": {
+            "firstname": "Shelley",
+            "middleinitial": "M",
+            "lastname": "Lucas",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669980",
+            "authorid": 63322,
+            "scholarlyactivityid": 15243
+        },
+        "63323": {
+            "firstname": "Robin",
+            "middleinitial": "",
+            "lastname": "Farina",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 63323,
+            "scholarlyactivityid": 15243
+        }
+    },
+    "status": [
+        {
+            "id": 15243,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669980",
+    "attachments": []
+}

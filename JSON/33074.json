@@ -1,0 +1,71 @@
+{
+    "activityid": 33074,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Heat Transfer at an Evaporating Front in Porous Media, Proceedings of HT2009",
+        "Name of Conference": "2009 ASME Summer Heat Transfer Conference",
+        "Month / Season": "July",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113161429",
+    "coauthors": {
+        "226098": {
+            "firstname": "Krishna",
+            "middleinitial": "",
+            "lastname": "Pakala",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113161429",
+            "authorid": 226098,
+            "scholarlyactivityid": 33074,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "226099": {
+            "firstname": "Gus",
+            "middleinitial": "",
+            "lastname": "Plumb",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226099,
+            "scholarlyactivityid": 33074,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33074,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113161429",
+    "attachments": [
+        {
+            "attachmentid": 22794,
+            "mimetype": "application/pdf",
+            "filename": "HT2009-88240.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTZiSU1lSTc3SUgxSk1KUjRXcDg4ejVwRmJKMFRZcHRSeG9ZekdHK3c1WStiZDFteEhPZTNsbnl4VGZsNDNsdHE%3D",
+            "filesize": 258337
+        }
+    ]
+}

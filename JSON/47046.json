@@ -1,0 +1,61 @@
+{
+    "activityid": 47046,
+    "fields": {
+        "Type": "Book",
+        "Title": "Social presence and identity in online learning",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Routledge",
+        "Publisher Location": "New York, NY:",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "219779": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 219779,
+            "scholarlyactivityid": 47046,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "219780": {
+            "firstname": "Vanessa",
+            "middleinitial": "P.",
+            "lastname": "Dennen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219780,
+            "scholarlyactivityid": 47046,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47046,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

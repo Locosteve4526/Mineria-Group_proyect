@@ -1,0 +1,60 @@
+{
+    "activityid": 54545,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Damage Modeling of the Human Meniscus: Validating Finite Element Models with Digital Image Correlation",
+        "Name of Conference": "Summer Biomechanics, Bioengineering, and Biotransport Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "347168": {
+            "firstname": "Derek",
+            "middleinitial": "",
+            "lastname": "Nesbitt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347168,
+            "scholarlyactivityid": 54545,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "347169": {
+            "firstname": "Trevor",
+            "middleinitial": "Justin",
+            "lastname": "Lujan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113124248",
+            "authorid": 347169,
+            "scholarlyactivityid": 54545
+        }
+    },
+    "status": [
+        {
+            "id": 54545,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 1417,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "What's in a name? An Identity Shift at Utah State University",
+        "Journal": "Educational Technology",
+        "Volume": "49",
+        "Month / Season": "2009-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "38-41",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "3388": {
+            "firstname": "U",
+            "middleinitial": "",
+            "lastname": "SU ITLS Faculty",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 3388,
+            "scholarlyactivityid": 1417
+        },
+        "3389": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 3389,
+            "scholarlyactivityid": 1417
+        }
+    },
+    "status": [
+        {
+            "id": 1417,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

@@ -1,0 +1,50 @@
+{
+    "activityid": 75392,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;p&gt;Robust Data-centric Graph Structure Learning for Text Classification&lt;/p&gt;",
+        "Name of Conference": "Companion Proceedings of the ACM on Web Conference 2024",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "1486--1495",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://dl.acm.org/doi/abs/10.1145/3589335.3651915",
+        "Description/Abstract": "&lt;p&gt;&lt;span&gt;Over the past decades, text classification underwent remarkable evolution across diverse domains. Despite these advancements, most existing model-centric methods in text classification cannot generalize well on class-imbalanced datasets that contain high-similarity textual information. Instead of developing new model architectures, data-centric approaches enhance the performance by manipulating the data structure. In this study, we aim to investigate robust data-centric approaches that can help text classification in our collected dataset, the metadata of survey papers about Large Language Models (LLMs). In the experiments, we explore four paradigms and observe that leveraging arXiv's co-category information on graphs can help robustly classify the text data over the other three paradigms, conventional machine-learning algorithms, pre-trained language models' fine-tuning, and zero-shot / few-shot classifications using LLMs.&lt;/span&gt;&lt;/p&gt;",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114254397",
+    "coauthors": {
+        "333705": {
+            "firstname": "Jun",
+            "middleinitial": "",
+            "lastname": "Zhuang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333705,
+            "scholarlyactivityid": 75392,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75392,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254397",
+    "attachments": []
+}

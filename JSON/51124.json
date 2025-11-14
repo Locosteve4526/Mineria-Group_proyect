@@ -1,0 +1,89 @@
+{
+    "activityid": 51124,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An improved upper bound for the Waring rank of the determinant",
+        "Journal": "J. Commut. Alg.",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/2004.06158v1",
+        "Description/Abstract": "",
+        "Origin": "arXiv"
+    },
+    "facultyid": "113078387",
+    "coauthors": {
+        "285347": {
+            "firstname": "Garritt",
+            "middleinitial": "",
+            "lastname": "Johns",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 285347,
+            "scholarlyactivityid": 51124,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "285348": {
+            "firstname": "Zach",
+            "middleinitial": "",
+            "lastname": "Teitler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 285348,
+            "scholarlyactivityid": 51124,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51124,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 51124,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 51124,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 51124,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "113078387",
+    "attachments": []
+}

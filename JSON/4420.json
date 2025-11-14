@@ -1,0 +1,56 @@
+{
+    "activityid": 4420,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "pKa Determination of Histidine Residues in alpha-Conotoxin MII Peptides by Proton NMR and Constant pH Molecular Dynamics Simulations",
+        "Journal": "Journal of Physical Chemistry B",
+        "Volume": "117",
+        "Month / Season": "2013-02-25",
+        "Issue Number": "9",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "2653-2661",
+        "Publisher": "American Chemical Society",
+        "DOI": "10.1021/jp3117227",
+        "PubMed Central ID Number": "23336579",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "?-Conotoxin MII (?-CTxMII) is a potent and selective peptide antagonist of neuronal nicotinic acetylcholine receptors (nAChR's). Studies have shown that His9 and His12 are significant determinants of toxin binding affinity for nAChR, while Glu11 may dictate differential toxin affinity between nAChR isoforms. The protonation state of these histidine residues and therefore the charge on the ?-CTx may contribute to the observed differences in binding affinity and selectivity. In this study, we assess the pH dependence of the protonation state of His9 and His12 by (1)H NMR spectroscopy and constant pH molecular dynamics (CpHMD) in ?-CTxMII, ?-CTxMII[E11A], and the triple mutant, ?-CTxMII[N5R:E11A:H12K]. The E11A mutation does not significantly perturb the pKa of His9 or His12, while N5R:E11A:H12K results in a significant decrease in the pKa value of His9. The pKa values predicted by CpHMD simulations are in good agreement with (1)H NMR spectroscopy, with a mean absolute deviation from experiment of 0.3 pKa units. These results support the use of CpHMD as an efficient and inexpensive predictive tool to determine pKa values and structural features of small peptides critical to their function.",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "13242": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 13242,
+            "scholarlyactivityid": 4420
+        },
+        "13243": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Swartz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13243,
+            "scholarlyactivityid": 4420
+        }
+    },
+    "status": [
+        {
+            "id": 4420,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

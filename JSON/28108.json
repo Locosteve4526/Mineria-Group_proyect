@@ -1,0 +1,61 @@
+{
+    "activityid": 28108,
+    "fields": {
+        "Type": "Book",
+        "Title": "Diving deep into nonfiction: transferable tools for reading any nonfiction text",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "First",
+        "Volume": "",
+        "Publisher": "Corwin",
+        "Publisher Location": "Thousand Oaks, CA",
+        "ISBN": "9781483386058",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "89285": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 89285,
+            "scholarlyactivityid": 28108,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "89286": {
+            "firstname": "Michael",
+            "middleinitial": "W",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 89286,
+            "scholarlyactivityid": 28108,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28108,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 14318,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": " Integrated video and infrasound observations at Mount Erebus, Antarctica",
+        "Conference/Meeting Name": "American Geophysical Union Fall Meeting 2012",
+        "Conference Location": "San Francisco, CA",
+        "Date or Date Range": "1966-01-01",
+        "Actual/Projected Year of Publication/Presentation": 1966,
+        "Sponsoring Organization": "AGU",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": " Erebus volcano is ideally suited for infrasound studies because it produces frequent, discrete, short-duration Strombolian eruptions that generate simple, high-amplitude (10^3 - 10^4 Pa-m), high signal-to-noise, acoustic pulses. Some explosions have been recorded by a video camera situated 300 m from the lava lake. Here we analyze the infrasound signal recordings from 256 eruptions, 10 were accompanied by high-quality video. We have developed image processing scripts in MATLAB to measure the explosive expansion of eject in consecutive 30 fps video. An ellipse was fitted to the expanding surface, which begins as an intact bubble and then fragments into radially-projected ballistics. The volume of the magma bubble was estimated in each frame of the video and used to produce a synthetic infrasound wave. We assumed an acoustic monopole point source model where the volumetric acceleration was proportional to the radiated pressure waveform. In a comparison of synthetic and recorded infrasound we find a consistent match in both frequency and amplitude. The synthetic infrasound amplitude is generally greater than the amplitude of the observed infrasound. This suggests some non-linear decay in acoustic energy between the fluid ejection source and the infrasound recording sites. The infrasound signals were also analyzed to determine if a precursory pulse (or shoulder) in the waveforms, was related to distension of an unbroken magma bubble membrane prior to rupture. We examined the pressure slope (at the onset of an eruption) and the scaled asymmetry (of the bimodal pulses), and relate them to the initial magma overburden and source overpressure respectively. For significantly asymmetric infrasound pulses, with large rarefactions compared to initial compression, we speculate that rupture occurs for bubble slugs with very low overpressures.",
+        "Origin": "Other"
+    },
+    "facultyid": "113150379",
+    "coauthors": {
+        "61298": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Krzesni",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 61298,
+            "scholarlyactivityid": 14318
+        },
+        "61299": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 61299,
+            "scholarlyactivityid": 14318
+        },
+        "61300": {
+            "firstname": "Philip",
+            "middleinitial": "",
+            "lastname": "Kyle",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 61300,
+            "scholarlyactivityid": 14318
+        }
+    },
+    "status": [
+        {
+            "id": 14318,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113150379",
+    "attachments": []
+}

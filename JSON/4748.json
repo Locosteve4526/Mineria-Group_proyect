@@ -1,0 +1,62 @@
+{
+    "activityid": 4748,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Conspiracies and Secrecy",
+        "Journal": "Episteme",
+        "Volume": "",
+        "Month / Season": "2015-12-21",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "1-18",
+        "Publisher": "Cambridge University Press",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.cambridge.org/core/journals/episteme/article/secrecy-and-conspiracy/4A9A8CB9AD858835E532956380E9E0B4",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111111648",
+    "coauthors": {
+        "133639": {
+            "firstname": "Matthew",
+            "middleinitial": "R. X.",
+            "lastname": "Dentith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 133639,
+            "scholarlyactivityid": 4748,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "133640": {
+            "firstname": "Martin",
+            "middleinitial": "Bernard",
+            "lastname": "Orr",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111648",
+            "authorid": 133640,
+            "scholarlyactivityid": 4748,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 4748,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111648",
+    "attachments": []
+}

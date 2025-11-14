@@ -1,0 +1,75 @@
+{
+    "activityid": 69588,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Elastic Thermobarometry",
+        "Journal": "Annual Review of Earth and Planetary Sciences",
+        "Volume": "51",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "331-366",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "112110324",
+    "coauthors": {
+        "314563": {
+            "firstname": "Matthew",
+            "middleinitial": "J.",
+            "lastname": "Kohn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314563,
+            "scholarlyactivityid": 69588,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "314564": {
+            "firstname": "Mattia",
+            "middleinitial": "L.",
+            "lastname": "Mazzucchelli",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314564,
+            "scholarlyactivityid": 69588,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "314565": {
+            "firstname": "Matteo",
+            "middleinitial": "",
+            "lastname": "Alvaro",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314565,
+            "scholarlyactivityid": 69588,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69588,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112110324",
+    "attachments": []
+}

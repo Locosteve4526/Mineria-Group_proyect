@@ -1,0 +1,64 @@
+{
+    "activityid": 22511,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "3DTHT-Geostatistical-Inversion-Model-Setup-and-Output-Editing-and-Uncertainty-Calculation \u00a9",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Patent Nationality": "",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "Boise State file number 137",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": null,
+        "Description/Abstract": "The creation consists of individual software code components for tasks written in MATLAB that together interact with the MODFLOW groundwater model and perform organizational and computational tasks for inversion or tomographic modeling to generate 3D \u201cimages\u201d or 3D distributions of aquifer properties and to calculate the uncertainties associated with the aquifer property values.",
+        "Web Address": null,
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "78083": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 78083,
+            "scholarlyactivityid": 22511
+        },
+        "78084": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Cardiff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113054278",
+            "authorid": 78084,
+            "scholarlyactivityid": 22511
+        },
+        "78085": {
+            "firstname": "Peter",
+            "middleinitial": "K",
+            "lastname": "Kitanidis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78085,
+            "scholarlyactivityid": 22511
+        }
+    },
+    "status": [
+        {
+            "id": 22511,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

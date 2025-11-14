@@ -1,0 +1,80 @@
+{
+    "activityid": 64563,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Engineering Cell-ECM-Material Interactions for Musculoskeletal Regeneration",
+        "Journal": "Bioengineering",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114225286",
+    "coauthors": {
+        "298593": {
+            "firstname": "Calvin",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298593,
+            "scholarlyactivityid": 64563,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298594": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Penney",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298594,
+            "scholarlyactivityid": 64563,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298595": {
+            "firstname": "Sophia",
+            "middleinitial": "K",
+            "lastname": "Theodossiou",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114225286",
+            "authorid": 298595,
+            "scholarlyactivityid": 64563
+        }
+    },
+    "status": [
+        {
+            "id": 64563,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114225286",
+    "attachments": [
+        {
+            "attachmentid": 44786,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filename": "Bioengineering submission SKT 1-22-23.docx",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWhWcTBXY1RCaTQ4cVZpM0RvUElwVktMMndVVFM5NnIzeVF0blZNS0JGVlZpcUYrSHRxZWY2NnVBNndOZzFZOE03SHpIVmdaaTZXME51Q0dKcUFZV2FCTk55b29Tb1pBdA%3D%3D",
+            "filesize": 3065059
+        }
+    ]
+}

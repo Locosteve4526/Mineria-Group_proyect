@@ -1,0 +1,71 @@
+{
+    "activityid": 28748,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Enzymatic assays to investigate acyl-homoserine lactone autoinducer synthases",
+        "Journal": "Methods in Molecular Biology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Bacteria use chemical molecules called autoinducers as votes to poll their numerical strength in a colony. This polling mechanism, commonly referred to as quorum sensing, enables bacteria to build a social network and provide a collective response for fighting off common threats. In Gram-negative bacteria, AHL synthases synthesize acyl-homoserine lactones (AHLs) autoinducers to turn on expression of several virulent genes including biofilm formation, protease secretion and toxin production. Therefore, inhibiting AHL signal synthase would limit quorum sensing and virulence. In this chapter, we describe four enzymatic methods that could be adopted to investigate a broad array of AHL synthases. The enzymatic assays described here should accelerate our mechanistic understanding of quorum sensing signal synthesis that could pave the way for discovery of potent antivirulent compounds.",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083415",
+    "coauthors": {
+        "95576": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Shin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95576,
+            "scholarlyactivityid": 28748,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "95577": {
+            "firstname": "Rajesh",
+            "middleinitial": "",
+            "lastname": "Nagarajan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083415",
+            "authorid": 95577,
+            "scholarlyactivityid": 28748,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28748,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 28748,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113083415",
+    "attachments": []
+}

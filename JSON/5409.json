@@ -1,0 +1,56 @@
+{
+    "activityid": 5409,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Thermophoresis of Dissolved Molecules and Polymers: Consideration of the Temperature-Induced Macroscopic Pressure Gradient",
+        "Journal": "Physical Reviews E",
+        "Volume": "69",
+        "Month / Season": "2004-01-30",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "011201-1 - 011201-8",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1103/PhysRevE.69.011201",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/chem_facpubs/32",
+        "Description/Abstract": "The movement of molecules and homopolymer chains dissolved in a  nonelectrolyte solvent in response to a temperature gradient is  considered a consequence of temperature-induced pressure gradients in  the solvent layer surrounding the solute molecules. Local pressure  gradients are produced by nonuniform London\u2013van der Waals interactions,  established by gradients in the concentration (density) of solvent  molecules. The density gradient is produced by variations in solvent  thermal expansion within the nonuniform temperature field. The resulting  expression for the velocity of the solute contains the Hamaker  constants for solute-solvent and solute-solute interactions, the radius  of the solute molecule, and the viscosity and cubic coefficient of  thermal expansion of the solvent. In this paper we consider an  additional force that arises from directional asymmetry in the  interaction between solvent molecules. In a closed cell, the resulting  macroscopic pressure gradient gives rise to a volume force that affects  the motion of dissolved solutes. An expression for this macroscopic  pressure gradient is derived and the resulting force is incorporated  into the expression for the solute velocity. The expression is used to  calculate thermodiffusion coefficients for polystyrene in several  organic solvents. When these values are compared to those measured in  the laboratory, the consistency is better than that found in previous  reports, which did not consider the macroscopic pressure gradient that  arises in a closed thermodiffusion cell. The model also allows for the  movement of solute in either direction, depending on the relative values  of the solvent and solute Hamaker constants.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111683",
+    "coauthors": {
+        "16420": {
+            "firstname": "Semen",
+            "middleinitial": "N.",
+            "lastname": "Semenov",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16420,
+            "scholarlyactivityid": 5409
+        },
+        "16421": {
+            "firstname": "Martin",
+            "middleinitial": "E",
+            "lastname": "Schimpf",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111683",
+            "authorid": 16421,
+            "scholarlyactivityid": 5409
+        }
+    },
+    "status": [
+        {
+            "id": 5409,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2004,
+            "termid": "2003/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111683",
+    "attachments": []
+}

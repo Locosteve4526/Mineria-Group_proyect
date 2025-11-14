@@ -1,0 +1,76 @@
+{
+    "activityid": 48465,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Crash Prediction Model for I-84 in Boise, Idaho",
+        "Conference/Meeting Name": "2020 ATMAE and IAJC Virtual Joint Conference",
+        "Conference Location": "Virtual",
+        "Date or Date Range": "4 November 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The Highway Safety Manual (HSM), published by the American Association of State Highway and Transportation Officials (AASHTO),  provides a comprehensive set of directions for managing and measuring safety [1]. The expected average crash frequency, crash type, or crash severity for a freeway network can be predicted by using the HSM. The predictive method of the HSM enables us to figure the adjustment in accident recurrence or seriousness on a roadway because of changes in traffic volume or roadway geometry. This paper presents an overview of the predictive methodology of HSM with a discussion of its application to Interstate 84 from Milepost (MP) 41- MP 49 in Boise, Idaho. Because of the crash reporting thresholds, weather, terrains, and animals, which may have a significant impact on crashes in various ways, we also calibrated the result locally to account for local influence from these factors. The use of Crash Modification Factors (CMF) to account for deviations from base conditions is also illustrated. We considered data from 2011 to 2018 to calculate the predicted average crash frequency and estimated the expected crash frequency for 2018 and compared it with the actual, observed crashes for 2018. Our expected average crash frequency for fatal accidents in 2018 was 54.1 crashes/year, and the expected average crash frequency for property damage was 35.6 crashes/year. The actual, observed crash frequency was only 16 crashes/year in each category. This discrepancy is significant and warrants further investigation. The potential difficulties that highway agencies may face when using the HSM are also highlighted with the hope that all agencies in the USA may benefit from this paper as they develop safety management systems for their jurisdictions.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110292",
+    "coauthors": {
+        "243507": {
+            "firstname": "Mandar",
+            "middleinitial": "",
+            "lastname": "Khanal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110292",
+            "authorid": 243507,
+            "scholarlyactivityid": 48465,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "243508": {
+            "firstname": "Mahamudul",
+            "middleinitial": "",
+            "lastname": "Hasan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243508,
+            "scholarlyactivityid": 48465,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48465,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 48465,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 48465,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110292",
+    "attachments": []
+}

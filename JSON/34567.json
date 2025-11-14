@@ -1,0 +1,62 @@
+{
+    "activityid": 34567,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Magnetic Torque in Single Crystal Ni-Mn-Ga",
+        "Journal": "Shape Memory and Superelasticity ",
+        "Volume": "3",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "139-148",
+        "Publisher": "Springer",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "140413": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Hobza",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140413,
+            "scholarlyactivityid": 34567,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "140414": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 140414,
+            "scholarlyactivityid": 34567,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34567,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

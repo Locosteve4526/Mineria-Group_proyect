@@ -1,0 +1,66 @@
+{
+    "activityid": 1887,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Factors associated with flammulated owl and northern saw-whet owl occupancy in southern Idaho.",
+        "Journal": "Journal of Raptor Research",
+        "Volume": "",
+        "Month / Season": "2013-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "4803": {
+            "firstname": "Micah",
+            "middleinitial": "N",
+            "lastname": "Scholer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4803,
+            "scholarlyactivityid": 1887
+        },
+        "4804": {
+            "firstname": "Matthias",
+            "middleinitial": "",
+            "lastname": "Leu",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4804,
+            "scholarlyactivityid": 1887
+        },
+        "4805": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 4805,
+            "scholarlyactivityid": 1887
+        }
+    },
+    "status": [
+        {
+            "id": 1887,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

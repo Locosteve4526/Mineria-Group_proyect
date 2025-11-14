@@ -1,0 +1,62 @@
+{
+    "activityid": 16071,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Enzymatic Synthesis of acyl-ACP",
+        "Conference / Meeting Name": "9th Annual Undergraduate Research Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2012-04-16",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "Boise State University ",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Bacteria use quorum sensing to communicate with each other. This communication is done through chemical signaling that give rise to form protective layers of support called bio-film. One chemical signal is the production of acyl-homoserine-L-lactone (AHL), which is an autoinducer that promotes biofilm formation and intercellular communication. A bacterium of interest that uses AHL biosignaling is the Pseudomonas aeruginosa. These bacteria tend to infect immune-compromised individuals and can cause pathological conditions such as pneumonia, urinary tract infections, cystic fibrosis and meningitis; all of which can lead to death. LasI AHL synthase in P. aeruginosa synthesize 3-oxo-C12-HSL autoinducer by using S-adenosyl-L-methionine (SAM) and 3-oxo-C12-ACP (Acyl-ACP) as substrates. Athough LasI is an attractive target to reduce pathogenic effects in P. aeruginosa, the difficulty in the synthesis of acyl-ACP substrate impedes mechanistic studies and inhibitor design for this enzyme. So, acyl-ACP substrate has to be synthesized in sufficient amounts to assay and study the kinetic properties of LasI AHL synthase. The goal of this project is to optimize the purification of acyl-ACP by an enzymatic pathway from acyl-CoA and apo-ACP using holo-ACP synthase enzyme. The reaction temperature and concentrations of apo-ACP, acyl-CoA and holo-ACP synthase will be varied to select for the best reaction condition that maximizes acyl-ACP yield. The acyl-ACP product will be identified and characterized using Native-PAGE, Tris-Tricine SDS-PAGE and LC-MS techniques. This substrate will be used to conduct mechanistic studies on lasI AHL synthase, which will inform the design of LasI inhibitors. LasI inhibitors will prevent the synthesis of autoinducers, interrupt communication among P. aeruginosa bacteria thereby limiting the ability of this bacterium to form biofilms.",
+        "Origin": "Other"
+    },
+    "facultyid": "113083415",
+    "coauthors": {
+        "65174": {
+            "firstname": "Pete",
+            "middleinitial": "",
+            "lastname": "Barnes",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65174,
+            "scholarlyactivityid": 16071
+        },
+        "65175": {
+            "firstname": "Rose",
+            "middleinitial": "",
+            "lastname": "Nguyen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65175,
+            "scholarlyactivityid": 16071
+        },
+        "65176": {
+            "firstname": "Rajesh",
+            "middleinitial": "",
+            "lastname": "Nagarajan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083415",
+            "authorid": 65176,
+            "scholarlyactivityid": 16071
+        }
+    },
+    "status": [
+        {
+            "id": 16071,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083415",
+    "attachments": []
+}

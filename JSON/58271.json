@@ -1,0 +1,98 @@
+{
+    "activityid": 58271,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Harnessing large-scale biodiversity data to infer the current distribution of Vanilla planifolia (Orchidaceae).",
+        "Journal": "Botanical Journal of the Linnean Society",
+        "Volume": "196",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "407-422",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111116958",
+    "coauthors": {
+        "271120": {
+            "firstname": "Paige",
+            "middleinitial": "",
+            "lastname": "Ellestad",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 271120,
+            "scholarlyactivityid": 58271,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "271121": {
+            "firstname": "Felix",
+            "middleinitial": "",
+            "lastname": "Forest",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 271121,
+            "scholarlyactivityid": 58271,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "271122": {
+            "firstname": "Marcelo",
+            "middleinitial": "",
+            "lastname": "Serpe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111116958",
+            "authorid": 271122,
+            "scholarlyactivityid": 58271,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "271123": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 271123,
+            "scholarlyactivityid": 58271,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "271124": {
+            "firstname": "Sven",
+            "middleinitial": "C",
+            "lastname": "Buerki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088564",
+            "authorid": 271124,
+            "scholarlyactivityid": 58271
+        }
+    },
+    "status": [
+        {
+            "id": 58271,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111116958",
+    "attachments": []
+}

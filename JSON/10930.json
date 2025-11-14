@@ -1,0 +1,52 @@
+{
+    "activityid": 10930,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Community Apgar Project: Comparing Results in Region E",
+        "Conference/Meeting Name": "National Organization of State Offices of Rural Health Region E Meeting",
+        "Conference Location": "Boise, Idaho",
+        "Date or Date Range": "2012-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "National Organization of State Offices of Rural Health",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "53547": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 53547,
+            "scholarlyactivityid": 10930
+        },
+        "53548": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 53548,
+            "scholarlyactivityid": 10930
+        }
+    },
+    "status": [
+        {
+            "id": 10930,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

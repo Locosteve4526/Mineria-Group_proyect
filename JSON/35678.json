@@ -1,0 +1,62 @@
+{
+    "activityid": 35678,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "From the Fringe to the National Fabric: A Resurgence of Disinformation and How to Neutralize It",
+        "Journal": "The Blue Review",
+        "Volume": "",
+        "Month / Season": "November",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://thebluereview.org/fringe-national-fabric/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111203681",
+    "coauthors": {
+        "146604": {
+            "firstname": "Deana",
+            "middleinitial": "",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114024835",
+            "authorid": 146604,
+            "scholarlyactivityid": 35678,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "146605": {
+            "firstname": "Memo",
+            "middleinitial": "",
+            "lastname": "Cordova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111203681",
+            "authorid": 146605,
+            "scholarlyactivityid": 35678,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 35678,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111203681",
+    "attachments": []
+}

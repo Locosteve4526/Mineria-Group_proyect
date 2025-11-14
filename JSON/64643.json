@@ -1,0 +1,54 @@
+{
+    "activityid": 64643,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;span style=&quot;font-size:11pt;&quot;&gt;Shared Stories: Campus Oral History Collection &lt;/span&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;we continue to add selections to this Provost-funded Pressbooks OER collection of oral histories]&lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Pressbooks",
+        "Publisher Location": "Booise State University",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Eds. Jill Heney and Tiffany Hitesman",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://boisestate.pressbooks.pub/sharedstories/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112417",
+    "coauthors": {
+        "299102": {
+            "firstname": "Jill",
+            "middleinitial": "",
+            "lastname": "Heney",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112417",
+            "authorid": 299102,
+            "scholarlyactivityid": 64643
+        }
+    },
+    "status": [
+        {
+            "id": 64643,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 64643,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111112417",
+    "attachments": []
+}

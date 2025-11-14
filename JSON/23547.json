@@ -1,0 +1,77 @@
+{
+    "activityid": 23547,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Recruitment Tool for Rural Family Physicians: The Community Apgar Project",
+        "Name of Conference": "",
+        "Month / Season": "2013-06-10",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Prague Czech Republic",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "78639": {
+            "firstname": "David ",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78639,
+            "scholarlyactivityid": 23547
+        },
+        "78640": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 78640,
+            "scholarlyactivityid": 23547
+        },
+        "78641": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Doty",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78641,
+            "scholarlyactivityid": 23547
+        },
+        "78642": {
+            "firstname": "Ted",
+            "middleinitial": "",
+            "lastname": "Epperly",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78642,
+            "scholarlyactivityid": 23547
+        }
+    },
+    "status": [
+        {
+            "id": 23547,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

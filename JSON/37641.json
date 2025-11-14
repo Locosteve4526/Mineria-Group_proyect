@@ -1,0 +1,74 @@
+{
+    "activityid": 37641,
+    "fields": {
+        "Type": "Book",
+        "Title": "Correctional Assessment, Casework &amp; Counseling",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Edition": "6",
+        "Volume": "",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Tony asked Jessica and myself to join him as authors on the newest edition of the Correctional Assessment, Casework &amp; Counseling book. We began discussing revisions last semester (Fall 2017) and expect to submit the new edition to the publisher by this summer (2018).",
+        "Origin": "Manual"
+    },
+    "facultyid": "114081229",
+    "coauthors": {
+        "256063": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 256063,
+            "scholarlyactivityid": 37641
+        },
+        "256064": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Wells",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114081229",
+            "authorid": 256064,
+            "scholarlyactivityid": 37641
+        },
+        "256065": {
+            "firstname": "Shaun",
+            "middleinitial": "M",
+            "lastname": "Gann",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114081230",
+            "authorid": 256065,
+            "scholarlyactivityid": 37641
+        }
+    },
+    "status": [
+        {
+            "id": 37641,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 37641,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114081229",
+    "attachments": []
+}

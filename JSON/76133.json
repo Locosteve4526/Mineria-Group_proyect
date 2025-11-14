@@ -1,0 +1,101 @@
+{
+    "activityid": 76133,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Lomatium refugianum &lt;/span&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;(Apiaceae), a new species from the Cascades of Washington State. &lt;/span&gt;",
+        "Journal": "Phytoneuron",
+        "Volume": "2024-71",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "1-13",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "338370": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Darrach",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338370,
+            "scholarlyactivityid": 76133,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338371": {
+            "firstname": "Gary",
+            "middleinitial": "",
+            "lastname": "Brill",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338371,
+            "scholarlyactivityid": 76133,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338372": {
+            "firstname": "Donald",
+            "middleinitial": "",
+            "lastname": "Mansfield",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338372,
+            "scholarlyactivityid": 76133,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338373": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Ottenlips",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338373,
+            "scholarlyactivityid": 76133,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338374": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 338374,
+            "scholarlyactivityid": 76133,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76133,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

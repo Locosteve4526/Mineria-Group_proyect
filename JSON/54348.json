@@ -1,0 +1,55 @@
+{
+    "activityid": 54348,
+    "fields": {
+        "Type": "Book",
+        "Title": "SHARED STORIES: CAMPUS ORAL HISTORY COLLECTION",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Edition": "1",
+        "Volume": "1",
+        "Publisher": "Boise State Pressbooks",
+        "Publisher Location": "Boise ID",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://boisestate.pressbooks.pub/sharedstories/front-matter/introduction/",
+        "Description/Abstract": "Shared Stories Lab at Boise State University is an oral history project based on the belief that the campus community benefits from hearing the experiences of alumni, faculty, staff, and other students. The goal of this collection was not perfection; it was learning\u2013learning how to ethically ask for the stories of others, learning how to ethically listen, learning from our mistakes and learning from our successes.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112417",
+    "coauthors": {
+        "254724": {
+            "firstname": "Jill",
+            "middleinitial": "",
+            "lastname": "Heney",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112417",
+            "authorid": 254724,
+            "scholarlyactivityid": 54348
+        },
+        "254725": {
+            "firstname": "Tiffany",
+            "middleinitial": "",
+            "lastname": "Hitesman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111605164",
+            "authorid": 254725,
+            "scholarlyactivityid": 54348
+        }
+    },
+    "status": [
+        {
+            "id": 54348,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112417",
+    "attachments": []
+}

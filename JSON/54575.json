@@ -1,0 +1,82 @@
+{
+    "activityid": 54575,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Revolutionizing Mechanical Engineering Undergraduate Curriculum",
+        "Name of Conference": "ASEE Annual Conference",
+        "Month / Season": "06/2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669747",
+    "coauthors": {
+        "256650": {
+            "firstname": "Shelby",
+            "middleinitial": "",
+            "lastname": "McNeilly",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256650,
+            "scholarlyactivityid": 54575
+        },
+        "256649": {
+            "firstname": "Krishna",
+            "middleinitial": "",
+            "lastname": "Pakala",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113161429",
+            "authorid": 256649,
+            "scholarlyactivityid": 54575
+        },
+        "256648": {
+            "firstname": "Donald",
+            "middleinitial": "Gene",
+            "lastname": "Plumlee Jr",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669747",
+            "authorid": 256648,
+            "scholarlyactivityid": 54575
+        }
+    },
+    "status": [
+        {
+            "id": 54575,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669747",
+    "attachments": [
+        {
+            "attachmentid": 30787,
+            "mimetype": "application/pdf",
+            "filename": "Revolutionizing the Mechanical Engineering Undergraduate Curricul.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25vZ2N1eEEwR0Uyc2pERTVCL0ppS3lsU2RVT1dNQ2tXZFVWRGdpejZObmc0ME5NUExHa3kvS2g1c3NOcXA0b3JMeGpPK2FXY2xqend6b1JNRnNkRDg4enVFTHZZV243YmtJdWdyb25Za3gzdEdPemJnZkpGQUU3",
+            "filesize": 438834
+        },
+        {
+            "attachmentid": 30788,
+            "mimetype": "application/pdf",
+            "filename": "RMEUC_ASEE Paper_Feb 2, 2020.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25vZ2N1eEEwR0Uyc21KaVBHYUVsaEZIOWRZeE4wZGFJNm82Sm1jYklXNWdBdGdKM1pUZmtVNGhCeUpIUFJ5UHREZWdoclplbE1JcjhnPT0%3D",
+            "filesize": 270950
+        }
+    ]
+}

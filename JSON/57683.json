@@ -1,0 +1,63 @@
+{
+    "activityid": 57683,
+    "fields": {
+        "Type": "Book",
+        "Title": "Rethinking Christian Martyrdom: The Blood is the Seed?",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Bloomsbury Academic",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111341916",
+    "coauthors": {
+        "266795": {
+            "firstname": "Matthew",
+            "middleinitial": "J",
+            "lastname": "Recla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111341916",
+            "authorid": 266795,
+            "scholarlyactivityid": 57683
+        }
+    },
+    "status": [
+        {
+            "id": 57683,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 57683,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 57683,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111341916",
+    "attachments": []
+}

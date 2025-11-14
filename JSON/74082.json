@@ -1,0 +1,91 @@
+{
+    "activityid": 74082,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "&lt;span style=&quot;color:#333333;&quot;&gt;UW/SIMM Video Game Metadata Schema Version&lt;/span&gt;\u00a04.2",
+        "Outlet (if applicable)": "University of Washington Information School Game Research Group Website",
+        "Date": "2024-09-04",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://github.com/uwgamergroup/video-game-metadata-schema/blob/main/VGMS_Version4.2_20240904.pdf",
+        "Description/Abstract": "The Video Game Metadata Schema (VGMS) has been developed to advance the cataloging and classification of digital games as cultural artifacts and support the use of games in education and science.&lt;br&gt;&lt;br&gt;The original version of the VGMS was designed to be a useful resource for a wide variety of users who may be interested in describing and organizing a video game collection. As such, the design considered six different types of users, aiming to represent a range of\u00a0different needs they may have: game players, parents of youth game players, collectors, academic scholars, game professionals, and curators/librarians.&lt;br&gt;&lt;br&gt;We anticipate that VGMS and the associated controlled vocabularies (CVs) will be applicable in a variety of settings, including cultural heritage institutions such as libraries and museums, game companies, and non-profit organizations. Each institution should determine the level of adoption that best suits its needs, such as incorporating specific metadata elements or using particular CVs.&lt;br&gt;&lt;br&gt;The GAMER Group at the University of Washington periodically updates the VGMS and its associated CVs with input from MLIS (Master of Library and Information Science) students enrolled in the graduate course \u2018Metadata for Interactive Media\u2019. As the original VGMS was created with console games as the primary focus, the updates have been focused on expanding it to better represent mobile games.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "345750": {
+            "firstname": "Jin",
+            "middleinitial": "Ha",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345750,
+            "scholarlyactivityid": 74082,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345751": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 345751,
+            "scholarlyactivityid": 74082,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345752": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Newman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345752,
+            "scholarlyactivityid": 74082,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345753": {
+            "firstname": "Lane",
+            "middleinitial": "D",
+            "lastname": "Koughan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345753,
+            "scholarlyactivityid": 74082,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74082,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

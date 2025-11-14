@@ -1,0 +1,76 @@
+{
+    "activityid": 6665,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Nonlinear Modeling with Mammographic Evidence of Carcinoma",
+        "Journal": "Nonlinear Analysis: Real World Applications",
+        "Volume": "11",
+        "Month / Season": "2010-10-10",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "4326-4334",
+        "Publisher": "Elsevier",
+        "DOI": "http://dx.doi.org/10.1016/j.nonrwa.2010.05.017",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/32",
+        "Description/Abstract": "The goal of this paper is to apply oncological data for mathematical modeling of breast cancer progression. The studied model is composed of nonlinear partial integro-differential equations, which are formulated with unknown parameters. It is demonstrated that it is possible to find such parameter values for the nonlinear model so that its solutions correspond to the oncological data, therefore showing the potential and extending the applications of the model to breast cancer. The nonlinear model equations are solved numerically and the numerical results confirm the oncological data.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20759": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Drucis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20759,
+            "scholarlyactivityid": 6665
+        },
+        "20760": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Kolev",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20760,
+            "scholarlyactivityid": 6665
+        },
+        "20761": {
+            "firstname": "W.",
+            "middleinitial": "",
+            "lastname": "Majda",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20761,
+            "scholarlyactivityid": 6665
+        },
+        "20762": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20762,
+            "scholarlyactivityid": 6665
+        }
+    },
+    "status": [
+        {
+            "id": 6665,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

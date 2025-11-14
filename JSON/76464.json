@@ -1,0 +1,57 @@
+{
+    "activityid": 76464,
+    "fields": {
+        "Type": "Book",
+        "Title": "What Sebasti\u00e1n Dreamt",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Translation of Guatemalan author Rodrigo Rey Rosa's 1994 novel\u00a0&lt;em&gt;Lo que so\u00f1\u00f3 Sebasti\u00e1n&lt;/em&gt;.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112093478",
+    "coauthors": {
+        "340040": {
+            "firstname": "Adrian",
+            "middleinitial": "T",
+            "lastname": "Kane",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112093478",
+            "authorid": 340040,
+            "scholarlyactivityid": 76464,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76464,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 76464,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112093478",
+    "attachments": []
+}

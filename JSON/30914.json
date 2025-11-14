@@ -1,0 +1,80 @@
+{
+    "activityid": 30914,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Sibling Warmth Moderates the Intergenerational Transmission of Romantic Relationship Hostility",
+        "Journal": "Journal of Marriage and Family",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111690596",
+    "coauthors": {
+        "219034": {
+            "firstname": "April",
+            "middleinitial": "S.",
+            "lastname": "Masarik",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111690596",
+            "authorid": 219034,
+            "scholarlyactivityid": 30914,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "219035": {
+            "firstname": "Christy",
+            "middleinitial": "R.",
+            "lastname": "Rogers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219035,
+            "scholarlyactivityid": 30914,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30914,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 30914,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 30914,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111690596",
+    "attachments": []
+}

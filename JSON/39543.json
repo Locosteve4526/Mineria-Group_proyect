@@ -1,0 +1,57 @@
+{
+    "activityid": 39543,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Simulation of a distributed current source in a linear format CFA",
+        "Name of Conference": "APS Meeting Abstracts",
+        "Month / Season": null,
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": null,
+        "Publisher": null,
+        "Publisher Location": null,
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "112088556",
+    "coauthors": {
+        "170763": {
+            "firstname": "Marcus",
+            "middleinitial": "",
+            "lastname": "Pearlman",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 170763,
+            "scholarlyactivityid": 39543
+        },
+        "170764": {
+            "firstname": "Jim",
+            "middleinitial": "",
+            "lastname": "Browning",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 170764,
+            "scholarlyactivityid": 39543
+        }
+    },
+    "status": [
+        {
+            "id": 39543,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112088556",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 55510,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Government-Business Relationships in Environmental Protection: The New York City Water Supply",
+        "Journal": "International Applied Business Research",
+        "Volume": "vol 6",
+        "Month / Season": "Fall",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "259999": {
+            "firstname": "Geoffrey",
+            "middleinitial": "A",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 259999,
+            "scholarlyactivityid": 55510,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "260000": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Kent",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 260000,
+            "scholarlyactivityid": 55510,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 55510,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

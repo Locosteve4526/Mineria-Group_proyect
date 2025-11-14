@@ -1,0 +1,49 @@
+{
+    "activityid": 27948,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Time-domain finite element methods for Maxwell's equations in metamaterials",
+        "Outlet (if applicable)": "",
+        "Date": "2013-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Publisher": "Springer Series in Computational Mathematics, 43. Springer, Heidelberg.",
+        "Location of Publisher (City, State, Country)": " ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "978-3-642-33788-8; 978-3-642-33789-5",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Metamaterials are a relatively new topic of extensive research that has been rapidly developing since about 2000. The book is devoted to simulations of electromagnetic phenomena in metamaterials by using the finite element method (FEM). Many numerical methods have been recently developed for metamaterial simulations and the book includes descriptive illustrations and a lucid exposition of important applications of the FEM, for example, metamaterial electromagnetic cloaking through solving Maxwell's equations, demonstration of wave propagation in metamaterials, and solar cell design with metamaterials. The authors put a major emphasis on analyzing time-domain FEMs for solving the metamaterial model equations and provide readers with a comprehensive guide to the subject. The book begins with the basic FEM theory and is concerned with the constructions and usage of the divergence and curl conforming finite elements, the interpolation error estimates, finite element error analysis, derivation of the upper and lower a posteriori error estimates, a discussion of the well-posedness of the Drude model, and investigations of the perfectly matched layers developed for free space, lossy and dispersive media, and metamaterials. Although the book is essentially based on results previously published in papers, it also includes original proofs of superconvergence results. Moreover, the book also serves as a guide to standard coding techniques and leads the reader through the entire programming process with mesh generation, calculation of the element matrices, the assembly process, and post-processing of numerical solutions. The authors also provide sample commented Matlab source codes that may be used in conjunction with the topics covered, or may be modified to solve other problems of interest to the reader. The book is rigorous, clearly presented, and written for research mathematicians as well as graduate students in the fields of mathematics, physics, engineering, material sciences, and optics. Its pedagogical style allows the reader to get a better understanding of the mathematical analysis and metamaterial simulations.\nExplanation of Other:  Mathematical Review (Book)",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "87968": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 87968,
+            "scholarlyactivityid": 27948
+        }
+    },
+    "status": [
+        {
+            "id": 27948,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

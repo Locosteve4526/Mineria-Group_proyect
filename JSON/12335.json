@@ -1,0 +1,42 @@
+{
+    "activityid": 12335,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Reading and Panel",
+        "Conference/Meeting Name": "Montana Book Festival",
+        "Conference Location": "Missoula, MT",
+        "Date or Date Range": "2015-09-12",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Montana Book Festival",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "56428": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 56428,
+            "scholarlyactivityid": 12335
+        }
+    },
+    "status": [
+        {
+            "id": 12335,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

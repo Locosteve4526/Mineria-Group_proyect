@@ -1,0 +1,125 @@
+{
+    "activityid": 38191,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An Examination of Finish Time Variation for Collegiate Cross Country National Championships by Gender",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669980",
+    "coauthors": {
+        "195329": {
+            "firstname": "Kevin",
+            "middleinitial": "",
+            "lastname": "Peters",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195329,
+            "scholarlyactivityid": 38191
+        },
+        "195330": {
+            "firstname": "Shelley",
+            "middleinitial": "M",
+            "lastname": "Lucas",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669980",
+            "authorid": 195330,
+            "scholarlyactivityid": 38191,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195331": {
+            "firstname": "Linda",
+            "middleinitial": "",
+            "lastname": "Petlichkoff",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195331,
+            "scholarlyactivityid": 38191,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195332": {
+            "firstname": "Yong",
+            "middleinitial": "",
+            "lastname": "Gao",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112182688",
+            "authorid": 195332,
+            "scholarlyactivityid": 38191,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195333": {
+            "firstname": "Lynda",
+            "middleinitial": "",
+            "lastname": "Ransdell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195333,
+            "scholarlyactivityid": 38191,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 38191,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 38191,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 38191,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 38191,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111669980",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 24653,
+    "fields": {
+        "Type": "Book",
+        "Title": "Get it Done!: Writing and Analyzing Informational Texts to Make Things Happen",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Heinemann",
+        "Publisher Location": "Portsmouth, NH",
+        "ISBN": "9.78033E+12",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/316",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112184269",
+    "coauthors": {
+        "81085": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 81085,
+            "scholarlyactivityid": 24653
+        },
+        "81086": {
+            "firstname": "Michael",
+            "middleinitial": "W",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 81086,
+            "scholarlyactivityid": 24653
+        },
+        "81087": {
+            "firstname": "Jim",
+            "middleinitial": "",
+            "lastname": "Fredricksen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112184269",
+            "authorid": 81087,
+            "scholarlyactivityid": 24653
+        }
+    },
+    "status": [
+        {
+            "id": 24653,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112184269",
+    "attachments": []
+}

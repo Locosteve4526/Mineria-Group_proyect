@@ -1,0 +1,71 @@
+{
+    "activityid": 41440,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Project SEED at Boise State University, part 2: student experiences",
+        "Conference/Meeting Name": "73rd Northwest Regional Meeting of the American Chemical Society",
+        "Conference Location": "Richland, WA",
+        "Date or Date Range": "06/2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "American Chemical Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702068",
+    "coauthors": {
+        "182092": {
+            "firstname": "Don",
+            "middleinitial": "Lewis",
+            "lastname": "Warner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702068",
+            "authorid": 182092,
+            "scholarlyactivityid": 41440,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "182093": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Phero",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 182093,
+            "scholarlyactivityid": 41440,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "182094": {
+            "firstname": "Andrea",
+            "middleinitial": "",
+            "lastname": "Nguyen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 182094,
+            "scholarlyactivityid": 41440,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41440,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702068",
+    "attachments": []
+}

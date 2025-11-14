@@ -1,0 +1,92 @@
+{
+    "activityid": 70172,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;p style=&quot;font-size:medium;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;Ukraine Matters: Studies in Medieval and Early Modern History and Art&lt;/span&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;. Co-edited with Alice Sullivan and Maria Alessia Rossi (Dumbarton Oaks, Washington, D.C, 2025). Under contract.&lt;/span&gt;&lt;/p&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Dumbarton Oaks / Harvard University Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088661",
+    "coauthors": {
+        "342577": {
+            "firstname": "Tomasz",
+            "middleinitial": "",
+            "lastname": "Grusiecki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088661",
+            "authorid": 342577,
+            "scholarlyactivityid": 70172,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "342578": {
+            "firstname": "Alice",
+            "middleinitial": "I",
+            "lastname": "Sullivan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342578,
+            "scholarlyactivityid": 70172,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "342579": {
+            "firstname": "Maria",
+            "middleinitial": "A",
+            "lastname": "Rossi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342579,
+            "scholarlyactivityid": 70172,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70172,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70172,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 70172,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114088661",
+    "attachments": []
+}

@@ -1,0 +1,84 @@
+{
+    "activityid": 45141,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Nature's Diversity Problem",
+        "Conference/Meeting Name": "Conference on Communication and the Environment",
+        "Conference Location": "Vancouver, BC",
+        "Date or Date Range": "June 19, 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "International Environmental Communication Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114022280",
+    "coauthors": {
+        "205813": {
+            "firstname": "Pete",
+            "middleinitial": "",
+            "lastname": "Bsumek",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 205813,
+            "scholarlyactivityid": 45141,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "205814": {
+            "firstname": "Steve",
+            "middleinitial": "",
+            "lastname": "Schwarze",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 205814,
+            "scholarlyactivityid": 45141,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "205815": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Peeples",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 205815,
+            "scholarlyactivityid": 45141,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "205816": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Schneider",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114022280",
+            "authorid": 205816,
+            "scholarlyactivityid": 45141,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45141,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114022280",
+    "attachments": []
+}

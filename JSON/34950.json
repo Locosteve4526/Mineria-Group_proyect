@@ -1,0 +1,47 @@
+{
+    "activityid": 34950,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cScanner Parameter Estimation Using Bilevel Scans of Star Charts\u201d",
+        "Name of Conference": "International Conference on Document Analysis and Recognition (ICDAR 2001)",
+        "Month / Season": "September",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "pp. 1164-1168",
+        "Publisher": "",
+        "Publisher Location": "Seattle, WA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Scanning a high contrast image in bilevel mode results in\r\nimage degradation. This is caused by two primary effects:\r\nblurring and thresholding. This paper expands on a\r\nmethod of estimating a joint distortion parameter, called\r\nthe edge spread, from a star sector test chart in order to\r\ncalculate the values of the point spread function width and\r\nbinarization threshold. This theory is also described for\r\nvariations in the source pattern which can represent\r\ndegradations caused by repetition of the bilevel process as\r\nwould be seen in printing then scanning, or in repeated\r\nphotocopying. Estimation results are shown for the basic\r\nand extended cases.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142722": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142722,
+            "scholarlyactivityid": 34950
+        }
+    },
+    "status": [
+        {
+            "id": 34950,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2001,
+            "termid": "2001/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

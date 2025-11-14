@@ -1,0 +1,55 @@
+{
+    "activityid": 65238,
+    "fields": {
+        "Type": "Book",
+        "Title": "Boise State Esports Curriculum: Professional Esports Development",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "1.0",
+        "Volume": "",
+        "Publisher": "Boise State Pressbooks",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://boisestate.pressbooks.pub/esports/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "303072": {
+            "firstname": "Marc",
+            "middleinitial": "C",
+            "lastname": "DeArmond",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 303072,
+            "scholarlyactivityid": 65238
+        },
+        "303073": {
+            "firstname": "Brett",
+            "middleinitial": "E",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 303073,
+            "scholarlyactivityid": 65238
+        }
+    },
+    "status": [
+        {
+            "id": 65238,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

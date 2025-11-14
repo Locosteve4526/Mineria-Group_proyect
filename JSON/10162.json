@@ -1,0 +1,52 @@
+{
+    "activityid": 10162,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Characterization of ArtAB from Salmonella enterica Typhimurium DT104",
+        "Conference / Meeting Name": "American Society for Microbiology General Meeting",
+        "Conference Location": "Denver, CO",
+        "Date or Date Range": "2013-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "American Society for Microbiology",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "196883": {
+            "firstname": "Emily",
+            "middleinitial": "",
+            "lastname": "Price",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 196883,
+            "scholarlyactivityid": 10162
+        },
+        "196884": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 196884,
+            "scholarlyactivityid": 10162
+        }
+    },
+    "status": [
+        {
+            "id": 10162,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

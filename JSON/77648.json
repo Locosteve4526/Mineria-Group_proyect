@@ -1,0 +1,136 @@
+{
+    "activityid": 77648,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Data-Driven and Cell-Specific Determination of Nuclei-Associated Actin Structure",
+        "Journal": "Small structures",
+        "Volume": "5",
+        "Month / Season": null,
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": "10.1002/sstr.202300204",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Quantitative and volumetric assessment of filamentous actin fibers (F-actin) remains challenging due to their interconnected nature, leading researchers to utilize threshold based or qualitative measurement methods with poor reproducibility. Here we introduce a novel machine learning based methodology for accurate quantification and reconstruction of nuclei-associated F-actin. Utilizing a Convolutional Neural Network (CNN), we segment actin filaments and nuclei from 3D confocal microscopy images and then reconstruct each fiber by connecting intersecting contours on cross-sectional slices. This allowed measurement of the total number of actin filaments and individual actin filament length and volume in a reproducible fashion. Focusing on the role of F-actin in supporting nucleocytoskeletal connectivity, we quantified apical F-actin, basal F-actin, and nuclear architecture in mesenchymal stem cells (MSCs) following the disruption of the Linker of Nucleoskeleton and Cytoskeleton (LINC) Complexes. Disabling LINC in mesenchymal stem cells (MSCs) generated F-actin disorganization at the nuclear envelope characterized by shorter length and volume of actin fibers contributing a less elongated nuclear shape. Our findings not only present a new tool for mechanobiology but introduce a novel pipeline for developing realistic computational models based on quantitative measures of F-actin.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062489",
+    "coauthors": {
+        "347329": {
+            "firstname": "Nina",
+            "middleinitial": "",
+            "lastname": "Nikitina",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347329,
+            "scholarlyactivityid": 77648
+        },
+        "347330": {
+            "firstname": "Nurbanu",
+            "middleinitial": "",
+            "lastname": "Bursa",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347330,
+            "scholarlyactivityid": 77648
+        },
+        "347331": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Goelzer",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347331,
+            "scholarlyactivityid": 77648
+        },
+        "347332": {
+            "firstname": "Madison",
+            "middleinitial": "",
+            "lastname": "Goldfeldt",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347332,
+            "scholarlyactivityid": 77648
+        },
+        "347333": {
+            "firstname": "Chase",
+            "middleinitial": "",
+            "lastname": "Crandall",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347333,
+            "scholarlyactivityid": 77648
+        },
+        "347334": {
+            "firstname": "Sean",
+            "middleinitial": "",
+            "lastname": "Howard",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347334,
+            "scholarlyactivityid": 77648
+        },
+        "347335": {
+            "firstname": "Janet",
+            "middleinitial": "",
+            "lastname": "Rubin",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347335,
+            "scholarlyactivityid": 77648
+        },
+        "347336": {
+            "firstname": "Anamaria",
+            "middleinitial": "",
+            "lastname": "Zavala",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347336,
+            "scholarlyactivityid": 77648
+        },
+        "347337": {
+            "firstname": "Aykut",
+            "middleinitial": "",
+            "lastname": "Satici",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347337,
+            "scholarlyactivityid": 77648
+        },
+        "347338": {
+            "firstname": "Gunes",
+            "middleinitial": "",
+            "lastname": "Uzer",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347338,
+            "scholarlyactivityid": 77648
+        }
+    },
+    "status": [
+        {
+            "id": 77648,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062489",
+    "attachments": []
+}

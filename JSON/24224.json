@@ -1,0 +1,57 @@
+{
+    "activityid": 24224,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Using advising and enrollment data to inform a first-year math placement program",
+        "Name of Conference": "",
+        "Month / Season": "2010-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114000904",
+    "coauthors": {
+        "80175": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 80175,
+            "scholarlyactivityid": 24224
+        },
+        "80176": {
+            "firstname": "K",
+            "middleinitial": "",
+            "lastname": "King",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80176,
+            "scholarlyactivityid": 24224
+        }
+    },
+    "status": [
+        {
+            "id": 24224,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114000904",
+    "attachments": []
+}

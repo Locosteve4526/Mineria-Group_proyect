@@ -1,0 +1,102 @@
+{
+    "activityid": 64433,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Design principles for conservation and natural resource management",
+        "Journal": "Conservation Biology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114136811",
+    "coauthors": {
+        "345474": {
+            "firstname": "Matthew",
+            "middleinitial": "A",
+            "lastname": "Williamson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345474,
+            "scholarlyactivityid": 64433,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345475": {
+            "firstname": "Gwen",
+            "middleinitial": "B",
+            "lastname": "Arnold",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345475,
+            "scholarlyactivityid": 64433,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345476": {
+            "firstname": "Mark",
+            "middleinitial": "W",
+            "lastname": "Schwartz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345476,
+            "scholarlyactivityid": 64433,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64433,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2025,
+            "termid": "2025/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 64433,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 64433,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 64433,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114136811",
+    "attachments": []
+}

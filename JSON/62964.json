@@ -1,0 +1,78 @@
+{
+    "activityid": 62964,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "College Music Society: Les Bois Trio",
+        "Name of Performing Group": "Les Bois Trio: Nicole Molbumy, flute; Leslie Moreau, clarinet; Barton Moreau, piano",
+        "Date or Date Range": "October 26",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Name of Venue/Sponsor": "College Music Society",
+        "Venue / Sponsor Location (City, State, Country)": "Louisville, KY, USA",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112060963",
+    "coauthors": {
+        "289871": {
+            "firstname": "Barton",
+            "middleinitial": "Andrew",
+            "lastname": "Moreau",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146468",
+            "authorid": 289871,
+            "scholarlyactivityid": 62964
+        },
+        "289870": {
+            "firstname": "Nicole",
+            "middleinitial": "Lena",
+            "lastname": "Molumby",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112060963",
+            "authorid": 289870,
+            "scholarlyactivityid": 62964
+        },
+        "289869": {
+            "firstname": "Leslie",
+            "middleinitial": "Mae",
+            "lastname": "Moreau",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112145056",
+            "authorid": 289869,
+            "scholarlyactivityid": 62964
+        }
+    },
+    "status": [
+        {
+            "id": 62964,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112060963",
+    "attachments": [
+        {
+            "attachmentid": 41915,
+            "mimetype": "application/pdf",
+            "filename": "CMS_Invitation_2019.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWpuRllEYTF1bVgxN2k2N3BLMkpOSlVGcGVQc3gxck1ORExhY21ScFE0TGd6UkJDZE5wYmx0Ynp1a2VYbjVvTUxvZ1M0a3RpejFWUT0%3D",
+            "filesize": 718484
+        },
+        {
+            "attachmentid": 41916,
+            "mimetype": "application/pdf",
+            "filename": "CMS_Program_10.26.19.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWpuRllEYTF1bVgxN2k2N3BLMkpOSmRUMzVrZm96ckNpMUNaMS94cmM0WHFEM2RhTzN4RlB5YjQ3UDZaODFUVk1mTEZOK1hqZVcybz0%3D",
+            "filesize": 289377
+        }
+    ]
+}

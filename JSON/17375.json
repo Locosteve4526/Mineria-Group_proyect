@@ -1,0 +1,52 @@
+{
+    "activityid": 17375,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Add variety to your teaching",
+        "Conference/Meeting Name": "Health, Physical Education, Recreation, and Dance Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2010-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "Health, Physical Education, Recreation, and Dance",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111669892",
+    "coauthors": {
+        "68287": {
+            "firstname": "Jane",
+            "middleinitial": "Marie",
+            "lastname": "Shimon",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669892",
+            "authorid": 68287,
+            "scholarlyactivityid": 17375
+        },
+        "68288": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112179883",
+            "authorid": 68288,
+            "scholarlyactivityid": 17375
+        }
+    },
+    "status": [
+        {
+            "id": 17375,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669892",
+    "attachments": []
+}

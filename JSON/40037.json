@@ -1,0 +1,56 @@
+{
+    "activityid": 40037,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Magic Wand: The True Universal Remote Control",
+        "Journal": "URL accessed July",
+        "Volume": null,
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": null,
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114058343",
+    "coauthors": {
+        "174613": {
+            "firstname": "Jerry",
+            "middleinitial": "",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174613,
+            "scholarlyactivityid": 40037
+        },
+        "174614": {
+            "firstname": ",",
+            "middleinitial": "",
+            "lastname": "Olsen Jr",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174614,
+            "scholarlyactivityid": 40037
+        }
+    },
+    "status": [
+        {
+            "id": 40037,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2003,
+            "termid": "2003/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058343",
+    "attachments": []
+}

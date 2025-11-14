@@ -1,0 +1,66 @@
+{
+    "activityid": 2311,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Professional Development for Mathematics Teachers",
+        "Journal": "Texas Mathematics Teacher",
+        "Volume": "61",
+        "Month / Season": "2014-11-30",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "18-20",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114000904",
+    "coauthors": {
+        "6124": {
+            "firstname": "Faye",
+            "middleinitial": "",
+            "lastname": "Bruun",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6124,
+            "scholarlyactivityid": 2311
+        },
+        "6125": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 6125,
+            "scholarlyactivityid": 2311
+        },
+        "6126": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Ives",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6126,
+            "scholarlyactivityid": 2311
+        }
+    },
+    "status": [
+        {
+            "id": 2311,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114000904",
+    "attachments": []
+}

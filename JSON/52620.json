@@ -1,0 +1,89 @@
+{
+    "activityid": 52620,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Critical Assessment of Participation in Stakeholder Engagement in Agrifood System Research",
+        "Journal": "Socio-Ecological Practice Research",
+        "Volume": "4",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "221-234",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1007/s42532-022-00116-8",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001406",
+    "coauthors": {
+        "291604": {
+            "firstname": "Rebecca",
+            "middleinitial": "L.",
+            "lastname": "Som Castellano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001406",
+            "authorid": 291604,
+            "scholarlyactivityid": 52620,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "291605": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Mooks",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291605,
+            "scholarlyactivityid": 52620,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52620,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 52620,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 52620,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 52620,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114001406",
+    "attachments": []
+}

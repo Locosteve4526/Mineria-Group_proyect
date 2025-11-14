@@ -1,0 +1,45 @@
+{
+    "activityid": 69493,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Permutation resemblance",
+        "Conference/Meeting Name": "TATERS",
+        "Conference Location": "Boise State University (online)",
+        "Date or Date Range": "9/15/2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "https://sites.google.com/boisestate.edu/taters/2023C",
+        "Description/Abstract": "&lt;span&gt;One of the most important problems in the research area of cryptographic functions is the construction of permutations (bijections) that have a strong resistance against differential cryptanalysis. In this talk, we introduce the notion of permutation resemblance, which is a way to measure the distance of a given polynomial over a finite field from being a permutation. We introduce an integer programming approach to compute the permutation resemblance. Moreover, using the information of permutation resemblance and integer programming methods, we give an algorithm that constructs permutations with a good resistance against differential attack.\u00a0&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114254618",
+    "coauthors": {
+        "313843": {
+            "firstname": "Li-An",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114254618",
+            "authorid": 313843,
+            "scholarlyactivityid": 69493,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69493,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254618",
+    "attachments": []
+}

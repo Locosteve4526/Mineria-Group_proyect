@@ -1,0 +1,62 @@
+{
+    "activityid": 20181,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Going to School in the Team: Individual Learning from Team Experience",
+        "Conference/Meeting Name": "Academy of Management Conference",
+        "Conference Location": "Anaheim, CA",
+        "Date or Date Range": "2008-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "Academy of Management",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "73909": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Dillon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 73909,
+            "scholarlyactivityid": 20181
+        },
+        "73910": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Edmondson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 73910,
+            "scholarlyactivityid": 20181
+        },
+        "73911": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 73911,
+            "scholarlyactivityid": 20181
+        }
+    },
+    "status": [
+        {
+            "id": 20181,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2008,
+            "termid": "2008/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

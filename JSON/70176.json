@@ -1,0 +1,79 @@
+{
+    "activityid": 70176,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;p style=&quot;font-size:medium;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;Connected Central European Worlds: Material Entanglements, 1500&lt;/span&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;\u20131700. Co-edited with Suzanna Ivani\u010d (special issue of\u00a0&lt;/span&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;European History Quarterly&lt;/span&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;, 2025). In progress.&lt;/span&gt;&lt;/p&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Edition": "European History Quarterly",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088661",
+    "coauthors": {
+        "342835": {
+            "firstname": "Tomasz",
+            "middleinitial": "",
+            "lastname": "Grusiecki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088661",
+            "authorid": 342835,
+            "scholarlyactivityid": 70176,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "342836": {
+            "firstname": "Suzanna",
+            "middleinitial": "",
+            "lastname": "Ivanic",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342836,
+            "scholarlyactivityid": 70176,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70176,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 70176,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70176,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114088661",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 42641,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Two-stage predictive modeling for identifying at-risk students",
+        "Journal": "Lecture Notes on Computer Science",
+        "Volume": "11003",
+        "Month / Season": "Innovative Technologies and Learning",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "578-583",
+        "Publisher": "Springer",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "192628": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 192628,
+            "scholarlyactivityid": 42641
+        },
+        "192629": {
+            "firstname": "Yuan",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 192629,
+            "scholarlyactivityid": 42641
+        },
+        "192630": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 192630,
+            "scholarlyactivityid": 42641
+        },
+        "192631": {
+            "firstname": "Xu",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 192631,
+            "scholarlyactivityid": 42641
+        }
+    },
+    "status": [
+        {
+            "id": 42641,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

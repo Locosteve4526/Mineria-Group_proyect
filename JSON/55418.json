@@ -1,0 +1,85 @@
+{
+    "activityid": 55418,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Methodology for Managing FOSS Migration Projects",
+        "Name of Conference": "10th International Conference on Open Source Systems",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114176725",
+    "coauthors": {
+        "306293": {
+            "firstname": "Angel",
+            "middleinitial": "",
+            "lastname": "Go\u00f1i",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 306293,
+            "scholarlyactivityid": 55418,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "306294": {
+            "firstname": "Maheshwar",
+            "middleinitial": "",
+            "lastname": "Boodraj",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114176725",
+            "authorid": 306294,
+            "scholarlyactivityid": 55418,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "306295": {
+            "firstname": "Yordanis",
+            "middleinitial": "",
+            "lastname": "Cabreja",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 306295,
+            "scholarlyactivityid": 55418,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 55418,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 55418,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114176725",
+    "attachments": []
+}

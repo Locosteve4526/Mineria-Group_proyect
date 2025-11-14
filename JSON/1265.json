@@ -1,0 +1,56 @@
+{
+    "activityid": 1265,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Taiwan higher education\u2019s e-learning: status and critical reflections",
+        "Journal": "New Waves: Educational Research &amp; Development",
+        "Volume": "3",
+        "Month / Season": "2005-12-31",
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "3056": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 3056,
+            "scholarlyactivityid": 1265
+        },
+        "3057": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 3057,
+            "scholarlyactivityid": 1265
+        }
+    },
+    "status": [
+        {
+            "id": 1265,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

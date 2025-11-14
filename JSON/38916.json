@@ -1,0 +1,104 @@
+{
+    "activityid": 38916,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Speciation within Columnea section Angustiflorae (Gesneriaceae): Islands, pollinators and climate",
+        "Journal": "Molecular Phylogenetics and Evolution",
+        "Volume": "84",
+        "Month / Season": "2014-12-04",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "125-144",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110143",
+    "coauthors": {
+        "165009": {
+            "firstname": "Lacie",
+            "middleinitial": "J.",
+            "lastname": "Schulte",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 165009,
+            "scholarlyactivityid": 38916
+        },
+        "165010": {
+            "firstname": "John",
+            "middleinitial": "L.",
+            "lastname": "Clark",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 165010,
+            "scholarlyactivityid": 38916
+        },
+        "165011": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 165011,
+            "scholarlyactivityid": 38916
+        },
+        "165012": {
+            "firstname": "Shandra",
+            "middleinitial": "K.",
+            "lastname": "Jeffries",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 165012,
+            "scholarlyactivityid": 38916
+        },
+        "165013": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 165013,
+            "scholarlyactivityid": 38916
+        }
+    },
+    "status": [
+        {
+            "id": 38916,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 38916,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 38916,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110143",
+    "attachments": []
+}

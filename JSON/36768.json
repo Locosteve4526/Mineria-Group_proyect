@@ -1,0 +1,56 @@
+{
+    "activityid": 36768,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Real-time Data Acquisition of Physiological Signals For an Instrumentation Course",
+        "Journal": "age",
+        "Volume": "6",
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "1",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "112139424",
+    "coauthors": {
+        "152473": {
+            "firstname": "Josette",
+            "middleinitial": "L",
+            "lastname": "Rice",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152473,
+            "scholarlyactivityid": 36768
+        },
+        "152474": {
+            "firstname": "Thad",
+            "middleinitial": "B",
+            "lastname": "Welch",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152474,
+            "scholarlyactivityid": 36768
+        }
+    },
+    "status": [
+        {
+            "id": 36768,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2001,
+            "termid": "2001/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139424",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 33854,
+    "fields": {
+        "Type": "Book",
+        "Title": "Archaeology of Danskin Rockshelter",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Boise State University",
+        "Publisher Location": "Boise",
+        "ISBN": "978-0-9779515-01-2",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110261",
+    "coauthors": {
+        "135156": {
+            "firstname": "Mark",
+            "middleinitial": "G",
+            "lastname": "Plew",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110261",
+            "authorid": 135156,
+            "scholarlyactivityid": 33854,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "135157": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Osgood",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 135157,
+            "scholarlyactivityid": 33854
+        }
+    },
+    "status": [
+        {
+            "id": 33854,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110261",
+    "attachments": []
+}

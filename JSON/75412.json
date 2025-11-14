@@ -1,0 +1,58 @@
+{
+    "activityid": 75412,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Fine Structure of Real Quadratic Integer Rings",
+        "Conference/Meeting Name": "2024 Canadian Mathematical Society Winter Meeting",
+        "Conference Location": "Richmond, British Columbia, Canada",
+        "Date or Date Range": "Nov. 29 - Dec. 02, 2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "Canadian Mathematical Society",
+        "Presenter(s)": null,
+        "Web Address": "https://www2.cms.math.ca/Events/winter24/abs/cao#ms",
+        "Description/Abstract": "&lt;p&gt;For a fixed non-square integer N &gt; 1, represent the set Z(\u221aN) = {a + b\u221aN : a, b \u2208 Z} by the set Z x Z. The norm of an element (a, b) of Z x Z, denoted N(a, b), is the integer&lt;/p&gt;\n&lt;p&gt;a&lt;sup&gt;&lt;span&gt;2&lt;/span&gt;&lt;/sup&gt;\u2013N * b&lt;sup&gt;&lt;span&gt;2&lt;/span&gt;&lt;/sup&gt;. For each integer k, Z&lt;sub&gt;&lt;span&gt;k &lt;/span&gt;&lt;/sub&gt;denotes the k-norm class {(a, b) \u2208 Z x Z : k = N(a, b)}.&lt;/p&gt;\n&lt;p&gt;For N the set V (N) = {k : Z&lt;sub&gt;&lt;span&gt;k &lt;/span&gt;&lt;/sub&gt;is nonempty} is closed under integer multiplication, suggesting an algebraic structure on the corresponding set of norm classes. Towards analyzing this suggested algebraic structure, the generating sets of these norm classes are examined. It is shown that each of these generating elements produces a structural component satisfying a well-known distribution known as Benford\u2019s Law. Benford\u2019s Law is&lt;/p&gt;\n&lt;p&gt;perpetuated, via algebraic properties of Z x Z to each norm class, as well as to&lt;/p&gt;\n&lt;p&gt;larger substructures of Z x Z.&lt;/p&gt;\n&lt;p&gt;In this talk we present results on these structural aspects of the quadratic integer ring Z(\u221aN)).&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "333847": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 333847,
+            "scholarlyactivityid": 75412,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "333848": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333848,
+            "scholarlyactivityid": 75412,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75412,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

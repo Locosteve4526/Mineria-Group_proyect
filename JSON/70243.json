@@ -1,0 +1,60 @@
+{
+    "activityid": 70243,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Choice of Model Error Variance for Data Assimilation with the Transport Equations&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Name of Conference": "SIAM PNW",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "317731": {
+            "firstname": "Sandra",
+            "middleinitial": "",
+            "lastname": "Babyale",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 317731,
+            "scholarlyactivityid": 70243,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "317732": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 317732,
+            "scholarlyactivityid": 70243
+        }
+    },
+    "status": [
+        {
+            "id": 70243,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 59571,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Genetic analysis of Bromus tectorum (Poaceae) in the Mediterranean region: biogeographical pattern of native populations.",
+        "Journal": "Heredity",
+        "Volume": "126",
+        "Month / Season": "January",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "178-193",
+        "Publisher": "Springer Nature",
+        "DOI": "doi.org/10.1038/s4137-020-00354-0",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110143",
+    "coauthors": {
+        "278406": {
+            "firstname": "Lauren",
+            "middleinitial": "J",
+            "lastname": "Kelly",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278406,
+            "scholarlyactivityid": 59571,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278407": {
+            "firstname": "Richard",
+            "middleinitial": "N",
+            "lastname": "Mack",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278407,
+            "scholarlyactivityid": 59571,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278408": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak PhD",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 278408,
+            "scholarlyactivityid": 59571,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59571,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110143",
+    "attachments": []
+}

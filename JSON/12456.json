@@ -1,0 +1,52 @@
+{
+    "activityid": 12456,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Toolbox Project: Collaborative Communication Workshop",
+        "Conference/Meeting Name": "Science of Team Science Conference",
+        "Conference Location": "Northwestern University",
+        "Date or Date Range": "2012-04-16",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "NUCATS Institute",
+        "Presenter(s)": null,
+        "Web Address": "http://www.scienceofteamscience.org/index.php?option=com_content&amp;view=article&amp;id=93",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "56726": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 56726,
+            "scholarlyactivityid": 12456
+        },
+        "56727": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "O'Rourke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56727,
+            "scholarlyactivityid": 12456
+        }
+    },
+    "status": [
+        {
+            "id": 12456,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

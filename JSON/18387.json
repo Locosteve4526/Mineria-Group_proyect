@@ -1,0 +1,72 @@
+{
+    "activityid": 18387,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Does self-pacing study require resource capacity",
+        "Conference/Meeting Name": "the annual meeting of the Psychonomic Society",
+        "Conference Location": "New Orleans, LA",
+        "Date or Date Range": "2000-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Sponsoring Organization": "Psychonomic Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "70296": {
+            "firstname": "J ",
+            "middleinitial": "",
+            "lastname": "Dunlosky",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 70296,
+            "scholarlyactivityid": 18387
+        },
+        "70297": {
+            "firstname": "G ",
+            "middleinitial": "",
+            "lastname": "Matvey",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 70297,
+            "scholarlyactivityid": 18387
+        },
+        "70298": {
+            "firstname": "C A ",
+            "middleinitial": "",
+            "lastname": "Lamb",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 70298,
+            "scholarlyactivityid": 18387
+        },
+        "70299": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 70299,
+            "scholarlyactivityid": 18387
+        }
+    },
+    "status": [
+        {
+            "id": 18387,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

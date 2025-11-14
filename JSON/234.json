@@ -1,0 +1,56 @@
+{
+    "activityid": 234,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Improved Forward Buying of Commodity Materials",
+        "Journal": "International Journal of Production Research",
+        "Volume": "",
+        "Month / Season": "2015-08-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113108244",
+    "coauthors": {
+        "267639": {
+            "firstname": "Andrew",
+            "middleinitial": "S.",
+            "lastname": "Manikas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 267639,
+            "scholarlyactivityid": 234
+        },
+        "267640": {
+            "firstname": "James",
+            "middleinitial": "Raymond",
+            "lastname": "Kroes",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113108244",
+            "authorid": 267640,
+            "scholarlyactivityid": 234
+        }
+    },
+    "status": [
+        {
+            "id": 234,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113108244",
+    "attachments": []
+}

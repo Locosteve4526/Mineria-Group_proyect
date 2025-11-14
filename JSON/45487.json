@@ -1,0 +1,71 @@
+{
+    "activityid": 45487,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Segmentation-Free Bangla Offline Handwriting Recognition using Sequential Detection of Characters and Diacritics with a Faster R-CNN",
+        "Name of Conference": "International Conference on Document Analysis and Recognition (ICDAR 2019)",
+        "Month / Season": "September 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "207191": {
+            "firstname": "Nishatul",
+            "middleinitial": "",
+            "lastname": "Majid",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207191,
+            "scholarlyactivityid": 45487,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "207192": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 207192,
+            "scholarlyactivityid": 45487,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45487,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": [
+        {
+            "attachmentid": 17906,
+            "mimetype": "application/pdf",
+            "filename": "ICDAR2019-published.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yRUppTWhwNGYycUhUSVArcUExMVJhbkhXUWYra05idkNJQWxSeDlqMzFiYXIxWlVOdHlrL2lvZ1M0a3RpejFWUT0%3D",
+            "filesize": 1573372
+        }
+    ]
+}

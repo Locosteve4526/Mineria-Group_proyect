@@ -1,0 +1,63 @@
+{
+    "activityid": 19546,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Transaction copsts, Risk Sharing, and Petroleum Exploration",
+        "Name of Conference": "International Society for New Institutional Economics Annual Conference",
+        "Month / Season": "1999-09-30",
+        "Actual/Projected Year of Publication/Presentation": 1999,
+        "Page Numbers": null,
+        "Publisher": "International Society for New Institutional Economics",
+        "Publisher Location": "Washington, DC",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "134444": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 134444,
+            "scholarlyactivityid": 19546,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "134445": {
+            "firstname": "Keith",
+            "middleinitial": "",
+            "lastname": "Leffler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134445,
+            "scholarlyactivityid": 19546,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19546,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1999,
+            "termid": "1999/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

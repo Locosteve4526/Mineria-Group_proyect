@@ -1,0 +1,66 @@
+{
+    "activityid": 71624,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Guidelines for Accurate Multi-Temporal Model Registration of 3D Scanned Objects",
+        "Journal": "Journal of imaging",
+        "Volume": "9",
+        "Month / Season": null,
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": "10.3390/jimaging9020043",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Changes in object morphology can be quantified using 3D optical scanning to generate 3D models of an object at different time points. This process requires registration techniques that align target and reference 3D models using mapping functions based on common object features that are unaltered over time. The goal of this study was to determine guidelines when selecting these localized features to ensure robust and accurate 3D model registration. For this study, an object of interest (tibia bone replica) was 3D scanned at multiple time points, and the acquired 3D models were aligned using a simple cubic registration block attached to the object. The size of the registration block and the number of planar block surfaces selected to calculate the mapping functions used for 3D model registration were varied. Registration error was then calculated as the average linear surface variation between the target and reference tibial plateau surfaces. We obtained very low target registration errors when selecting block features with an area equivalent to at least 4% of the scanning field of view. Additionally, we found that at least two orthogonal surfaces should be selected to minimize registration error. Therefore, when registering 3D models to measure multi-temporal morphological change (e.g., mechanical wear), we recommend selecting multiplanar features that account for at least 4% of the scanning field of view. For the first time, this study has provided guidelines for selecting localized object features that can provide accurate 3D model registration for 3D scanned objects.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "326259": {
+            "firstname": "Kate ",
+            "middleinitial": "J",
+            "lastname": "Benfield",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326259,
+            "scholarlyactivityid": 71624
+        },
+        "326260": {
+            "firstname": "Dylan ",
+            "middleinitial": "E",
+            "lastname": "Burruel",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326260,
+            "scholarlyactivityid": 71624
+        },
+        "326261": {
+            "firstname": "Trevor ",
+            "middleinitial": "J",
+            "lastname": "Lujan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326261,
+            "scholarlyactivityid": 71624
+        }
+    },
+    "status": [
+        {
+            "id": 71624,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

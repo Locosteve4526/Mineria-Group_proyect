@@ -1,0 +1,95 @@
+{
+    "activityid": 63930,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Fertility",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Publisher": "Springer",
+        "Location of Publisher (City, State, Country)": "New York",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "Todd Shackelford",
+        "Title of larger work": "Encyclopedia of Sexual Psychology and Behavior",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114026821",
+    "coauthors": {
+        "309949": {
+            "firstname": "Wyndy",
+            "middleinitial": "",
+            "lastname": "Wurtenberger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 309949,
+            "scholarlyactivityid": 63930,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "309950": {
+            "firstname": "Sequoia",
+            "middleinitial": "",
+            "lastname": "Solmorales",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 309950,
+            "scholarlyactivityid": 63930,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "309951": {
+            "firstname": "Kristin",
+            "middleinitial": "",
+            "lastname": "Snopkowski",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114026821",
+            "authorid": 309951,
+            "scholarlyactivityid": 63930,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63930,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 63930,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114026821",
+    "attachments": [
+        {
+            "attachmentid": 49350,
+            "mimetype": "application/pdf",
+            "filename": "Wurtenberger, Solmorales, Snopkowski 2023.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZQVo2bXY1RURmTnQwTWxiMS9ZS05hVk9kbU1DY3MzSWk5eDdTOW95dFkrcUU0VExNV3IvTm9PUTR0VHZ6eTBXb0ZVRHRIZnpyanhlSnRGT0FGRjJ4UEkyTWMvTFhvNHE4PQ%3D%3D",
+            "filesize": 266587
+        }
+    ]
+}

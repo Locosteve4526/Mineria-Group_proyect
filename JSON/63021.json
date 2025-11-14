@@ -1,0 +1,76 @@
+{
+    "activityid": 63021,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Centralized project-specific metadata platforms: toolkit provides new perspectives on open data management within multi-institution and multidisciplinary research projects",
+        "Journal": "BMC research notes",
+        "Volume": "15",
+        "Month / Season": null,
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "106",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Open science and open data within scholarly research programs are growing both in popularity and by requirement from grant funding agencies and journal publishers. A central component of open data management, especially on collaborative, multidisciplinary, and multi-institutional science projects, is documentation of complete and accurate metadata, workflow, and source code in addition to access to raw data and data products to uphold FAIR (Findable, Accessible, Interoperable, Reusable) principles. Although best practice in data/metadata management is to use established internationally accepted metadata schemata, many of these standards are discipline-specific making it difficult to catalog multidisciplinary data and data products in a way that is easily findable and accessible. Consequently, scattered and incompatible metadata records create a barrier to scientific innovation, as researchers are burdened to find and link multidisciplinary datasets. One possible solution to increase data findability, accessibility, interoperability, reproducibility, and integrity within multi-institutional and interdisciplinary projects is a centralized and integrated data management platform. Overall, this type of interoperable framework supports reproducible open science and its dissemination to various stakeholders and the public in a FAIR manner by providing direct access to raw data and linking protocols, metadata and supporting workflow materials.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114088564",
+    "coauthors": {
+        "290150": {
+            "firstname": "Andre",
+            "middleinitial": "W",
+            "lastname": "Child",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290150,
+            "scholarlyactivityid": 63021
+        },
+        "290151": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Hinds",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290151,
+            "scholarlyactivityid": 63021
+        },
+        "290152": {
+            "firstname": "Lucas",
+            "middleinitial": "",
+            "lastname": "Sheneman",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290152,
+            "scholarlyactivityid": 63021
+        },
+        "290153": {
+            "firstname": "Sven",
+            "middleinitial": "",
+            "lastname": "Buerki",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290153,
+            "scholarlyactivityid": 63021
+        }
+    },
+    "status": [
+        {
+            "id": 63021,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114088564",
+    "attachments": []
+}

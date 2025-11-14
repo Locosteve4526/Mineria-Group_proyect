@@ -1,0 +1,84 @@
+{
+    "activityid": 60002,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Pediatric Nursing has accepted your manuscript, Problematic Gaming in Children and Adolescents: A Scoping Review",
+        "Journal": "Pediatric Nursing",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114003270",
+    "coauthors": {
+        "279891": {
+            "firstname": "Cara",
+            "middleinitial": "",
+            "lastname": "Gallegos",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003270",
+            "authorid": 279891,
+            "scholarlyactivityid": 60002,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "279892": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 279892,
+            "scholarlyactivityid": 60002,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "279893": {
+            "firstname": "Lauren",
+            "middleinitial": "",
+            "lastname": "Zuba",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279893,
+            "scholarlyactivityid": 60002,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 60002,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 60002,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114003270",
+    "attachments": []
+}

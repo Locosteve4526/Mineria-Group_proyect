@@ -1,0 +1,99 @@
+{
+    "activityid": 34927,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cStyle Based Ballot Mark Recognition\u201d",
+        "Name of Conference": "International Conference on Document Analysis and Recognition",
+        "Month / Season": "26-29 July",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Barcelona, Spain",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "The push toward voting via hand-marked paper ballots\r\nhas focused attention on the limitations of current optical\r\nscan systems. Discrepancies between human and machine\r\ninterpretations of ballot markings can lead to a loss of trust\r\nin the election process. In this paper, a style-based approach\r\nto ballot recognition is proposed in which marks are\r\nrecognized collectively rather than in isolation. The consistency\r\nof a voter\u2019s style is leveraged to improve the overall\r\naccuracy of the system. We compare style-based recognition\r\nto various kinds of singlet classifiers and show that it\r\noutperforms them by a substantial margin.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142617": {
+            "firstname": "Pingping",
+            "middleinitial": "",
+            "lastname": "Xiu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142617,
+            "scholarlyactivityid": 34927,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142618": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Lopresti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142618,
+            "scholarlyactivityid": 34927,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142619": {
+            "firstname": "Henry",
+            "middleinitial": "",
+            "lastname": "Baird",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142619,
+            "scholarlyactivityid": 34927
+        },
+        "142620": {
+            "firstname": "George",
+            "middleinitial": "",
+            "lastname": "Nagy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142620,
+            "scholarlyactivityid": 34927,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142621": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142621,
+            "scholarlyactivityid": 34927,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34927,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

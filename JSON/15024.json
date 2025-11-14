@@ -1,0 +1,52 @@
+{
+    "activityid": 15024,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Assessing the APA learning goals: Student- and course-level challenges ",
+        "Conference/Meeting Name": "American Psychological Association",
+        "Conference Location": "Washington, DC",
+        "Date or Date Range": "2011-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "PT@CC Invited Symposium",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "62889": {
+            "firstname": "Maureen",
+            "middleinitial": "",
+            "lastname": "McCarthy",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62889,
+            "scholarlyactivityid": 15024
+        },
+        "62890": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 62890,
+            "scholarlyactivityid": 15024
+        }
+    },
+    "status": [
+        {
+            "id": 15024,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 31733,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Ellipsoidal Variation Analysis of Kepler Observations Using the EVIL-MC Model",
+        "Conference / Meeting Name": "AAS/Division for Planetary Sciences Meeting Abstracts \\#44",
+        "Conference Location": "",
+        "Date or Date Range": "Oct",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2012DPS....4411316J",
+        "Description/Abstract": "Follow-up and confirmation of the thousands of planetary candidates from the Kepler mission requires a sizable investment of astronomical resources. Thus, it is essential to identify signals already present in the data that can elucidate the nature of the transiting objects. Tidal distortion of a star by a close companion produces such a signal: as a short-period companion orbits, the tidal bulge raised on the primary rotates in and out of view, and the amplitude of these ``ellipsoidal variations'' (EVs) depends, among other things, on the mass ratio between the primary and companion. For example, a few Jupiter-mass planet orbiting 4 stellar radii from a solar mass star can induce brightness variations 30 parts per million, small but measurable for some Kepler targets. EVs induced by such low-mass companions have been observed for only a handful of Kepler (and CoRoT) targets. Here we report the discovery of EVs in another Kepler system with a candidate transiting companion. The Kepler Input Catalog suggests the host star is an evolved red giant, and the star shows signs of solar-like oscillations, similar to p-mode acoustic oscillations observed in the Sun. Such oscillations have been observed for thousand other red giants observed by Kepler, providing tight constraints on the stars' masses and radii, if the effective temperatures are known. In this presentation, we will discuss constraints on the transiting companion's mass and brightness temperature derived from analysis of the transits and EVs present in the publicly available Kepler data using the recently developed EVIL-MC model. Preliminary results suggest the candidate transiting object has a mass comparable to Jupiter's but a radius many times larger, while the apparent lack of a secondary eclipse suggests its brightness temperature is less than 2700 K. BKJ acknowledges support from Carnegie DTM. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "120185": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120185,
+            "scholarlyactivityid": 31733,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120186": {
+            "firstname": "J.",
+            "middleinitial": "",
+            "lastname": "Carlberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120186,
+            "scholarlyactivityid": 31733,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31733,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

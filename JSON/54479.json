@@ -1,0 +1,75 @@
+{
+    "activityid": 54479,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Investigating Correlations between Biochemical Biomarkers and Quantitative Osteoarthritis Metrics",
+        "Name of Conference": "Annual Meeting of the Orthopaedic Research Society 2021",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "255766": {
+            "firstname": "Vahid",
+            "middleinitial": "",
+            "lastname": "Malbouby",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255766,
+            "scholarlyactivityid": 54479
+        },
+        "255767": {
+            "firstname": "Clare",
+            "middleinitial": "",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062491",
+            "authorid": 255767,
+            "scholarlyactivityid": 54479
+        }
+    },
+    "status": [
+        {
+            "id": 54479,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54479,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 54479,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

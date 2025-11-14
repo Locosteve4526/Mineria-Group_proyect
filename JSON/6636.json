@@ -1,0 +1,46 @@
+{
+    "activityid": 6636,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Stability in the Numerical Solution of Linear Parabolic Equations with a Delay Term",
+        "Journal": "BIT Numerical Mathematics",
+        "Volume": "41",
+        "Month / Season": "2001-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "191-206",
+        "Publisher": "Springer",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper is concerned with the stability of numerical processes that arise after semi-discretization of linear parabolic equations wit a delay term. These numerical processes are obtained by applying step-by-step methods to the resulting systems of ordinary delay differential equations. Under the assumption that the semi-discretization matrix is normal we establish upper bounds for the growth of errors in the numerical processes under consideration, and thus arrive at conclusions about their stability. More detailed upper bounds are obtained for ?-methods under the additional assumption that the eigenvalues of the semi-discretization matrix are real and negative. In particular, we derive contractivity properties in this case. Contractivity properties are also obtained for the ?-methods applied to the one-dimensional test equation with real coefficients and a delay term. Numerical experiments confirming the derived contractivity properties for parabolic equations with a delay term are presented.\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20698": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20698,
+            "scholarlyactivityid": 6636
+        }
+    },
+    "status": [
+        {
+            "id": 6636,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2001,
+            "termid": "2001/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

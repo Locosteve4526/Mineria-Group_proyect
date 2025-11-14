@@ -1,0 +1,108 @@
+{
+    "activityid": 33255,
+    "fields": {
+        "Type": "Book",
+        "Title": "War and the Environment: A Very Short Introduction",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Oxford University Press",
+        "Publisher Location": "New York",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111727002",
+    "coauthors": {
+        "341101": {
+            "firstname": "Lisa",
+            "middleinitial": "Marie",
+            "lastname": "Brady",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111727002",
+            "authorid": 341101,
+            "scholarlyactivityid": 33255
+        }
+    },
+    "status": [
+        {
+            "id": 33255,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 33255,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 33255,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 33255,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 33255,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 33255,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 33255,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 33255,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111727002",
+    "attachments": []
+}

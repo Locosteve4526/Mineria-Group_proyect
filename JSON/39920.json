@@ -1,0 +1,89 @@
+{
+    "activityid": 39920,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "2nd Women in Data Science (WinDS) Workshop Chairs' Welcome",
+        "Name of Conference": "The Web Conference 2018 - Workshops Track",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://www2018.thewebconf.org/program/workshops-track/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048777",
+    "coauthors": {
+        "177499": {
+            "firstname": "Ana",
+            "middleinitial": "Paula",
+            "lastname": "Appel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 177499,
+            "scholarlyactivityid": 39920,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "177500": {
+            "firstname": "Marisa",
+            "middleinitial": "",
+            "lastname": "Vasconcelos",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 177500,
+            "scholarlyactivityid": 39920,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "177501": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048777",
+            "authorid": 177501,
+            "scholarlyactivityid": 39920,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "177502": {
+            "firstname": "Leman",
+            "middleinitial": "",
+            "lastname": "Akoglu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 177502,
+            "scholarlyactivityid": 39920,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 39920,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048777",
+    "attachments": []
+}

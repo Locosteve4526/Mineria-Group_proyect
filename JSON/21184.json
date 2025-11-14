@@ -1,0 +1,62 @@
+{
+    "activityid": 21184,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Investigating cyber-enabled learning usage, access, and beliefs",
+        "Conference/Meeting Name": "American Educational Research Association",
+        "Conference Location": "Vancouver, BC",
+        "Date or Date Range": "2012-04-14",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "76360": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Olsen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76360,
+            "scholarlyactivityid": 21184
+        },
+        "76361": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 76361,
+            "scholarlyactivityid": 21184
+        },
+        "76362": {
+            "firstname": "David",
+            "middleinitial": "T",
+            "lastname": "Campbell",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76362,
+            "scholarlyactivityid": 21184
+        }
+    },
+    "status": [
+        {
+            "id": 21184,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

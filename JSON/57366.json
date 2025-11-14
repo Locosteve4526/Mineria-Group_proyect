@@ -1,0 +1,56 @@
+{
+    "activityid": 57366,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Actuating a magnetic shape memory element locally with a set of coils",
+        "Journal": "Metals",
+        "Volume": "11",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "536",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "266335": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Armstrong",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 266335,
+            "scholarlyactivityid": 57366
+        },
+        "266336": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 266336,
+            "scholarlyactivityid": 57366
+        }
+    },
+    "status": [
+        {
+            "id": 57366,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

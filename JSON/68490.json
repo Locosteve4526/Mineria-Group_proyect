@@ -1,0 +1,63 @@
+{
+    "activityid": 68490,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Adjunct Faculty Mentoring Experience Impact on Professional Development\u00a0",
+        "Name of Conference": "AARC Congress",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "Respiratory Care",
+        "Publisher Location": "",
+        "Volume": "68",
+        "Issue Number": "Suppl 10, 3907032",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://rc.rcjournal.com/content/68/Suppl_10/3907032",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114178462",
+    "coauthors": {
+        "332442": {
+            "firstname": "Adrian",
+            "middleinitial": "M",
+            "lastname": "Hoyal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332442,
+            "scholarlyactivityid": 68490,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "332443": {
+            "firstname": "Kristen",
+            "middleinitial": "L",
+            "lastname": "McHenry",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114178462",
+            "authorid": 332443,
+            "scholarlyactivityid": 68490,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68490,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114178462",
+    "attachments": []
+}

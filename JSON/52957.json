@@ -1,0 +1,80 @@
+{
+    "activityid": 52957,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Integrated Collaborative International Service Learning for Engineering and Construction Management Education",
+        "Journal": "ASCE Journal of Construction Engineering and Management",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112207077",
+    "coauthors": {
+        "246618": {
+            "firstname": "Anthony",
+            "middleinitial": "D",
+            "lastname": "Songer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112207077",
+            "authorid": 246618,
+            "scholarlyactivityid": 52957,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246619": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Breitkreuz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246619,
+            "scholarlyactivityid": 52957,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52957,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 52957,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 52957,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112207077",
+    "attachments": []
+}

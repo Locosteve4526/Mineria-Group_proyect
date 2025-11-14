@@ -1,0 +1,89 @@
+{
+    "activityid": 64599,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Do course syllabi reflect observed teaching practices? Using regression analysis with K-fold cross validation to build a predictive model",
+        "Name of Conference": "Geological Society of America GSA Connects",
+        "Month / Season": "Fall 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "298825": {
+            "firstname": "Charles",
+            "middleinitial": "Doug",
+            "lastname": "Czajka",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298825,
+            "scholarlyactivityid": 64599,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298826": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Ryker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298826,
+            "scholarlyactivityid": 64599,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298827": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Teasdale",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298827,
+            "scholarlyactivityid": 64599,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298828": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 298828,
+            "scholarlyactivityid": 64599,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64599,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

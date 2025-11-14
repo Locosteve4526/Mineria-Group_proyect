@@ -1,0 +1,66 @@
+{
+    "activityid": 78802,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Magnetomechanical characterization of Ni-Mn-Ga after micropeening surface treatment",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045890",
+    "coauthors": {
+        "351843": {
+            "firstname": "Aaron",
+            "middleinitial": "R",
+            "lastname": "Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112045890",
+            "authorid": 351843,
+            "scholarlyactivityid": 78802
+        },
+        "351842": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 351842,
+            "scholarlyactivityid": 78802
+        },
+        "351841": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 351841,
+            "scholarlyactivityid": 78802
+        }
+    },
+    "status": [
+        {
+            "id": 78802,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112045890",
+    "attachments": []
+}

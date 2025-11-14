@@ -1,0 +1,104 @@
+{
+    "activityid": 63601,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Non-hydrostatic unified model of the ocean with application to ice/ocean interaction modeling.",
+        "Journal": "GEM-International Journal on Geomathematics",
+        "Volume": "14",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "1-22",
+        "Publisher": "SpringerNature",
+        "DOI": "https://doi.org/10.1007/s13137-022-00212-7",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://link.springer.com/article/10.1007/s13137-022-00212-7#citeas",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112680",
+    "coauthors": {
+        "293138": {
+            "firstname": "Michal",
+            "middleinitial": "A",
+            "lastname": "Kopera",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114108611",
+            "authorid": 293138,
+            "scholarlyactivityid": 63601
+        },
+        "293137": {
+            "firstname": "Yao",
+            "middleinitial": "",
+            "lastname": "Gahounzo",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 293137,
+            "scholarlyactivityid": 63601
+        },
+        "293136": {
+            "firstname": "Ellyn",
+            "middleinitial": "M",
+            "lastname": "Enderlin",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114112680",
+            "authorid": 293136,
+            "scholarlyactivityid": 63601
+        },
+        "293135": {
+            "firstname": "Francis",
+            "middleinitial": "X",
+            "lastname": "Giraldo",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 293135,
+            "scholarlyactivityid": 63601
+        },
+        "293134": {
+            "firstname": "Wieslaw",
+            "middleinitial": "",
+            "lastname": "Maslowski",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 293134,
+            "scholarlyactivityid": 63601
+        }
+    },
+    "status": [
+        {
+            "id": 63601,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 63601,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 63601,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114112680",
+    "attachments": []
+}

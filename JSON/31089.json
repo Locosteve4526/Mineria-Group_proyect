@@ -1,0 +1,45 @@
+{
+    "activityid": 31089,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Politics of Intergovernmental Relations",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "3rd",
+        "Volume": "",
+        "Publisher": "Birkdale Publishing",
+        "Publisher Location": "San Diego, CA",
+        "ISBN": "978-1-942456-04-9",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110214",
+    "coauthors": {
+        "115622": {
+            "firstname": "Stephanie",
+            "middleinitial": "L",
+            "lastname": "Witt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110214",
+            "authorid": 115622,
+            "scholarlyactivityid": 31089
+        }
+    },
+    "status": [
+        {
+            "id": 31089,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110214",
+    "attachments": []
+}

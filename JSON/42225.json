@@ -1,0 +1,45 @@
+{
+    "activityid": 42225,
+    "fields": {
+        "Type": "Book",
+        "Title": "A Biography of Frederick Douglass: Fighting for Civil Rights through Literacy",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "American Reading Company",
+        "Publisher Location": "King of Prussia, PA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "187793": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 187793,
+            "scholarlyactivityid": 42225
+        }
+    },
+    "status": [
+        {
+            "id": 42225,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 53885,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Idaho Public Defense Workload Study",
+        "Journal": null,
+        "Volume": null,
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": null,
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "113168713",
+    "coauthors": {
+        "252106": {
+            "firstname": "Vanessa",
+            "middleinitial": "Crossgrove",
+            "lastname": "Fry",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252106,
+            "scholarlyactivityid": 53885
+        },
+        "252107": {
+            "firstname": "Sally",
+            "middleinitial": "",
+            "lastname": "Sargeant-Hu",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252107,
+            "scholarlyactivityid": 53885
+        },
+        "252108": {
+            "firstname": "Lantz",
+            "middleinitial": "",
+            "lastname": "McGinnis-Brown",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252108,
+            "scholarlyactivityid": 53885
+        },
+        "252109": {
+            "firstname": "Greg",
+            "middleinitial": "",
+            "lastname": "Hill",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252109,
+            "scholarlyactivityid": 53885
+        }
+    },
+    "status": [
+        {
+            "id": 53885,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113168713",
+    "attachments": []
+}

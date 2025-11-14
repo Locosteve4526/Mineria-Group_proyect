@@ -1,0 +1,56 @@
+{
+    "activityid": 2223,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Discussion of the Special Issue on Growth Models for Longitudinal Data in Educational Research",
+        "Journal": "Educational Research and Evaluation",
+        "Volume": "14",
+        "Month / Season": "2008-08-01",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "377-390",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113146329",
+    "coauthors": {
+        "5820": {
+            "firstname": "Peter",
+            "middleinitial": "C.M.",
+            "lastname": "Molenaar",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5820,
+            "scholarlyactivityid": 2223
+        },
+        "5821": {
+            "firstname": "Cynthia",
+            "middleinitial": "",
+            "lastname": "Campbell",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113146329",
+            "authorid": 5821,
+            "scholarlyactivityid": 2223
+        }
+    },
+    "status": [
+        {
+            "id": 2223,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2008,
+            "termid": "2008/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113146329",
+    "attachments": []
+}

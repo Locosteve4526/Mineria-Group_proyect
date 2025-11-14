@@ -1,0 +1,98 @@
+{
+    "activityid": 61361,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Challenges in Organizing and Accessing Video Game Development Artifacts",
+        "Name of Conference": "Proceedings of the 2020 iConference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "352106": {
+            "firstname": "Jin",
+            "middleinitial": "Ha",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352106,
+            "scholarlyactivityid": 61361,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352107": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 352107,
+            "scholarlyactivityid": 61361,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352108": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Keating",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352108,
+            "scholarlyactivityid": 61361,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352109": {
+            "firstname": "Jeewon",
+            "middleinitial": "",
+            "lastname": "Ha",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352109,
+            "scholarlyactivityid": 61361,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61361,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61361,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

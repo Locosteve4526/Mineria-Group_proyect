@@ -1,0 +1,93 @@
+{
+    "activityid": 33075,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Developing computational thinking with educational technologies for young learners",
+        "Journal": "TechTrends",
+        "Volume": "62",
+        "Month / Season": "",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "563-573",
+        "Publisher": "Springer",
+        "DOI": "doi.org/10.1007/s11528-018-0292-7",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://link.springer.com/article/10.1007%2Fs11528-018-0292-7",
+        "Description/Abstract": "In this paper, we provide an overview of the current efforts in maker education, supported by a review of empirical studies. Our synthesis will inform the community about learning outcomes, potential and common issues, challenges, resources, and future research direction regarding maker education.",
+        "Origin": "Manual"
+    },
+    "facultyid": "113075443",
+    "coauthors": {
+        "174985": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174985,
+            "scholarlyactivityid": 33075,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "174986": {
+            "firstname": "Yu-Chang",
+            "middleinitial": "",
+            "lastname": "Hsu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113075443",
+            "authorid": 174986,
+            "scholarlyactivityid": 33075,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "174987": {
+            "firstname": "Sally",
+            "middleinitial": "",
+            "lastname": "Baldwin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174987,
+            "scholarlyactivityid": 33075,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33075,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 33075,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 33075,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113075443",
+    "attachments": []
+}

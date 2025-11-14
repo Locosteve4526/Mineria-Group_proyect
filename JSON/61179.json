@@ -1,0 +1,71 @@
+{
+    "activityid": 61179,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Local Roots and Electoral Advantages in U.S. State Legislatures",
+        "Journal": "State Politics and Policy Quarterly",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114132815",
+    "coauthors": {
+        "305997": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Hunt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114132815",
+            "authorid": 305997,
+            "scholarlyactivityid": 61179,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "305998": {
+            "firstname": "Stella",
+            "middleinitial": "",
+            "lastname": "Rouse",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 305998,
+            "scholarlyactivityid": 61179,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61179,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61179,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114132815",
+    "attachments": []
+}

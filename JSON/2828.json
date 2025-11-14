@@ -1,0 +1,85 @@
+{
+    "activityid": 2828,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Recognizing and Modeling Variable Drawdown Due to Evapotranspiration in a Semi-Arid Riparian Zone Considering Local Differences in Vegetation and Distance from a River Source",
+        "Journal": "Water Resources Research",
+        "Volume": "49",
+        "Month / Season": "2013-01-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.1002/wrcr.20122",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Riparian zones in semi-arid regions often exhibit high rates of evapotranspiration (ET) in spite of low soil moisture content due to the presence of phreatophytic vegetation that is able to withdraw water from shallow aquifers. This work seeks to better define the relationship between ET, the saturated zone and the river boundary by comparing observed water table drawdown records to analytically modeled drawdown in fully penetrating wells of an unconfined aquifer in response to daily ET flux. ET at the Boise Hydrogeophysical Research Site (BHRS), a riparian zone in a temperate, semi-arid environment, is calculated using a radiation-based method to provide ET values at four different wells with different vegetation densities. Analytically modeled drawdown response to ET forcing shows that drawdown magnitude increases with increasing distance from the river edge even as the surficial ET forcing remains constant. This behavior is also observed in well hydrographs and shows the buffering effect that flow from the river has on drawdown in fully penetrating riparian wells in highly permeable, unconfined aquifers. Relative contributions of river water to aquifer storage are calculated for ET-induced diurnal fluctuations of the water table at increasing distances from the river boundary. Failure to account for these spatial differences in drawdown related to the river source may explain some errors associated with estimating ET from well hydrographs alone.",
+        "Origin": "Other"
+    },
+    "facultyid": "112188448",
+    "coauthors": {
+        "7961": {
+            "firstname": "Brady",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7961,
+            "scholarlyactivityid": 2828
+        },
+        "7962": {
+            "firstname": "Bwalya",
+            "middleinitial": "",
+            "lastname": "Malama",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7962,
+            "scholarlyactivityid": 2828
+        },
+        "7963": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 7963,
+            "scholarlyactivityid": 2828
+        },
+        "7964": {
+            "firstname": "Alejandro",
+            "middleinitial": "Nicolas",
+            "lastname": "Flores",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188448",
+            "authorid": 7964,
+            "scholarlyactivityid": 2828
+        }
+    },
+    "status": [
+        {
+            "id": 2828,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 2828,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112188448",
+    "attachments": []
+}

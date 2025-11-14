@@ -1,0 +1,75 @@
+{
+    "activityid": 74025,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Decreased cortisol among hikers who preferentially visit and value biodiverse riparian zones",
+        "Journal": "Scientific Reports",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "11",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "848",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111277518",
+    "coauthors": {
+        "329902": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Opdahl",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 329902,
+            "scholarlyactivityid": 74025
+        },
+        "329901": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Demps",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113160599",
+            "authorid": 329901,
+            "scholarlyactivityid": 74025
+        },
+        "329900": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 329900,
+            "scholarlyactivityid": 74025
+        }
+    },
+    "status": [
+        {
+            "id": 74025,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 74025,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111277518",
+    "attachments": []
+}

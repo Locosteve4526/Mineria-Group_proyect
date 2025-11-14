@@ -1,0 +1,45 @@
+{
+    "activityid": 77944,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Curious Researcher",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Edition": "10th ",
+        "Volume": "",
+        "Publisher": "Pearson",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114004157",
+    "coauthors": {
+        "349844": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Myers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114004157",
+            "authorid": 349844,
+            "scholarlyactivityid": 77944
+        }
+    },
+    "status": [
+        {
+            "id": 77944,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114004157",
+    "attachments": []
+}

@@ -1,0 +1,57 @@
+{
+    "activityid": 25752,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Unified Wireless Sensor Network Framework",
+        "Name of Conference": "",
+        "Month / Season": "2012-03-19",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "6-Jan",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1109/SysCon.2012.6189450",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/195",
+        "Description/Abstract": "Wireless sensor networks (WSNs) have been a significant area of research over the past decade. WSN systems are used in a wide range of applications such as surveillance, environmental monitoring, target tracking, wildlife tracking, personal health monitoring, machinery monitoring, and many others. With such wide ranging applications, there is active research in nearly every facet of the field including network topologies, communication protocols, node localization, time synchronization, and sensor data processing. This movement has largely been the result of the advances in microelectronics and low-power radio systems. These advancements have enabled the design and implementation of small, powerful, low-power, wireless sensor network systems. Like any emerging technology, a standard needs to be established to allow the advances in the field to be directly leveraged rather than requiring reinvention. This paper outlines the traditional approaches to WSN system design, and in contrast, proposes the necessary components of a unified WSN framework that would support the majority of present applications as well as providing the foundation for further advancements in the field.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "83392": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Kiepert",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83392,
+            "scholarlyactivityid": 25752
+        },
+        "83393": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 83393,
+            "scholarlyactivityid": 25752
+        }
+    },
+    "status": [
+        {
+            "id": 25752,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

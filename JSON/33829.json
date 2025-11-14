@@ -1,0 +1,84 @@
+{
+    "activityid": 33829,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Hospital focus and differentiation: An exploration into Triple Aim performance",
+        "Journal": "Journal of Operations Management",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065599",
+    "coauthors": {
+        "238220": {
+            "firstname": "Matthew",
+            "middleinitial": "J",
+            "lastname": "Castel",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065599",
+            "authorid": 238220,
+            "scholarlyactivityid": 33829,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "238221": {
+            "firstname": "Sriram",
+            "middleinitial": "",
+            "lastname": "Narayanan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238221,
+            "scholarlyactivityid": 33829,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "238222": {
+            "firstname": "Shawnee",
+            "middleinitial": "K",
+            "lastname": "Vickery",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238222,
+            "scholarlyactivityid": 33829,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33829,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 33829,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065599",
+    "attachments": []
+}

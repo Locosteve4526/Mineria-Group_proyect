@@ -1,0 +1,65 @@
+{
+    "activityid": 75050,
+    "fields": {
+        "Type": "Book",
+        "Title": "Making Sense of Governance",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065177",
+    "coauthors": {
+        "331878": {
+            "firstname": "Nicholas",
+            "middleinitial": "L",
+            "lastname": "Fowler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065177",
+            "authorid": 331878,
+            "scholarlyactivityid": 75050
+        },
+        "331879": {
+            "firstname": "Christopher",
+            "middleinitial": "C",
+            "lastname": "Birdsall",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067658",
+            "authorid": 331879,
+            "scholarlyactivityid": 75050
+        },
+        "331880": {
+            "firstname": "Jared",
+            "middleinitial": "L",
+            "lastname": "Talley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111636450",
+            "authorid": 331880,
+            "scholarlyactivityid": 75050
+        }
+    },
+    "status": [
+        {
+            "id": 75050,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065177",
+    "attachments": []
+}

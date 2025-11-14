@@ -1,0 +1,62 @@
+{
+    "activityid": 63943,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Reframing Violence, Power, and Education",
+        "Journal": "Journal for Critical Education Policy Studies",
+        "Volume": "20",
+        "Month / Season": "July 22",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112125622",
+    "coauthors": {
+        "294796": {
+            "firstname": "Kevin",
+            "middleinitial": "",
+            "lastname": "Magill",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294796,
+            "scholarlyactivityid": 63943,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294797": {
+            "firstname": "Arturo",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112125622",
+            "authorid": 294797,
+            "scholarlyactivityid": 63943,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63943,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112125622",
+    "attachments": []
+}

@@ -1,0 +1,88 @@
+{
+    "activityid": 1696,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Simplified and Generalized Treatment of DES Related Ciphers",
+        "Journal": "Cryptologia",
+        "Volume": "39",
+        "Month / Season": "2012-06-02",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "24-Mar",
+        "Publisher": "Taylor and Francis",
+        "DOI": "10.1080/01611194.2014.915255",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "118428": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 118428,
+            "scholarlyactivityid": 1696,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "118429": {
+            "firstname": "Kameryn",
+            "middleinitial": "J",
+            "lastname": "Williams",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118429,
+            "scholarlyactivityid": 1696,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "118430": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Kimball",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118430,
+            "scholarlyactivityid": 1696,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "118431": {
+            "firstname": "Alyssa",
+            "middleinitial": "",
+            "lastname": "Bowden",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118431,
+            "scholarlyactivityid": 1696,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 1696,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111716691",
+    "attachments": []
+}

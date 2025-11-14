@@ -1,0 +1,89 @@
+{
+    "activityid": 40402,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": " A Data-Driven Model For Avoiding Silence While Task-Related Information Cannot Yet Be Presented. ",
+        "Name of Conference": "The 22nd Workshop on the Semantics and Pragmatics of Dialogue ",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://f-origin.hypotheses.org/wp-content/blogs.dir/4280/files/2018/11/l_paper_11.pdf",
+        "Description/Abstract": "Current dialogue systems typically do not explicitly manage time. Where attempts are made at\nrectifying this, this is often done with a focus on turn-taking, aiming at making the system take\nthe turn more quickly and naturally. Here we look at another, related phenomenon: what to do\nwhen the turn has been taken, but the expected task-related content cannot yet be produced. We\nimplemented a system that can produce what we call \u201ctime buying\u201d acts whenever it needs to\nbridge time until it can present a task-level reply (in our case, flight information). The range of\nacts and, crucially, the sequencing of these acts (including their temporal placement) are learned\nfrom an existing corpus in which such situations were created on purpose. We evaluate this\nsystem by letting participants interact with it as well as with two baseline systems: one that\nonly produces one type of act (namely explicitly asking the user to wait) at regular intervals,\nand another one that produces the full range of acts, but sequenced randomly. We find that\nparticipants rate the full system as more human-like than the other systems and that they also\nreport enjoying interacting with it more. We conclude that \u201cbuying time\u201d in a natural fashion is\npossible and beneficial for interaction quality, but only if sequencing constraints found in natural\ndata are reproduced.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062811",
+    "coauthors": {
+        "176821": {
+            "firstname": "Soledad",
+            "middleinitial": "",
+            "lastname": "Lopez Gambino",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176821,
+            "scholarlyactivityid": 40402,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176822": {
+            "firstname": "Sina",
+            "middleinitial": "",
+            "lastname": "Zarie\u00df",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176822,
+            "scholarlyactivityid": 40402,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176823": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062811",
+            "authorid": 176823,
+            "scholarlyactivityid": 40402,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176824": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schlangen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176824,
+            "scholarlyactivityid": 40402,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40402,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

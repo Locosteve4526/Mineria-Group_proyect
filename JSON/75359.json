@@ -1,0 +1,84 @@
+{
+    "activityid": 75359,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;Unveiling the Efficacy of BERT's Attention in Memory Obfuscated Malware Detection&lt;/span&gt;&lt;/p&gt;",
+        "Name of Conference": "19th International Conference on Information Security Practice and Experience (ISPEC 2024)",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;The study addresses the challenge of detecting obfuscated malware, particularly memory-obfuscated variants, which evade conventional detection methods by targeting a system\u2019s volatile memory. By leveraging transformer-based models, notably BERT, the research demonstrates promising advancements in malware detection. Through data augmentation and rigorous feature selection processes, the study enhances the CIC-MlMem-2022 dataset, improving its quality for training classification models. Comparative analysis with conventional machine learning techniques highlights the superior performance of BERT and DistilBERT, achieving approximately 74% accuracy in classifying malware families. Notably, BERT exhibits exceptional capability in generalizing to unseen malware, achieving a remarkable 100% success rate in categorizing new families. These findings underscore the\u00a0 potential of transformer-based models for effectively detecting obfuscated malware, emphasizing the need for intelligent detection mechanisms in cybersecurity.&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "333468": {
+            "firstname": "Md Mashrur",
+            "middleinitial": "",
+            "lastname": "Arifin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333468,
+            "scholarlyactivityid": 75359,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "333469": {
+            "firstname": "Troy",
+            "middleinitial": "",
+            "lastname": "Tolman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333469,
+            "scholarlyactivityid": 75359,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "333470": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 333470,
+            "scholarlyactivityid": 75359,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75359,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 58612,
+            "mimetype": "application/pdf",
+            "filename": "ISPEC2024+Camera Ready+Paper ID 29.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yRlVsbm9oaGNKaENqL0cyYWZVajhGV2o3V3dHd2xXdWpJSWJqem9zakw3TCtmemNpWTF3ajN6bEJNMVk5aXYzL01hQk81azl5SDk2Q0d0bDZVd2l2eQ%3D%3D",
+            "filesize": 1429355
+        }
+    ]
+}

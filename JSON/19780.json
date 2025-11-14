@@ -1,0 +1,63 @@
+{
+    "activityid": 19780,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The effects of overconfidence and personal capability knowledge on employment contract selection and turnover",
+        "Name of Conference": "The Association for Global Business Annual Meeting",
+        "Month / Season": "2004-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": null,
+        "Publisher": "The Association for Global Business",
+        "Publisher Location": "Cancun, Mexico",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112188648",
+    "coauthors": {
+        "134571": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 134571,
+            "scholarlyactivityid": 19780,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134572": {
+            "firstname": "Mark",
+            "middleinitial": "H",
+            "lastname": "Taylor",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134572,
+            "scholarlyactivityid": 19780,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19780,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188648",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 41102,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Synthesis of Chalcogenide Glasses",
+        "Journal": null,
+        "Volume": null,
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": null,
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "112111607",
+    "coauthors": {
+        "180249": {
+            "firstname": "Bryan",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 180249,
+            "scholarlyactivityid": 41102
+        },
+        "180250": {
+            "firstname": "Maria",
+            "middleinitial": "",
+            "lastname": "Mitkova",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 180250,
+            "scholarlyactivityid": 41102
+        }
+    },
+    "status": [
+        {
+            "id": 41102,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112111607",
+    "attachments": []
+}

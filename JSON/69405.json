@@ -1,0 +1,97 @@
+{
+    "activityid": 69405,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "EFFECTS OF DISCHARGE AND MORPHOLOGY ON FLUVIAL SOUND",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001444",
+    "coauthors": {
+        "313154": {
+            "firstname": "Scott",
+            "middleinitial": "J",
+            "lastname": "Gauvain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313154,
+            "scholarlyactivityid": 69405,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313155": {
+            "firstname": "Jacob",
+            "middleinitial": "F",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001444",
+            "authorid": 313155,
+            "scholarlyactivityid": 69405,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313156": {
+            "firstname": "Elowyn",
+            "middleinitial": "",
+            "lastname": "Yager",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313156,
+            "scholarlyactivityid": 69405,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313157": {
+            "firstname": "James",
+            "middleinitial": "P",
+            "lastname": "McNamara",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110360",
+            "authorid": 313157,
+            "scholarlyactivityid": 69405,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69405,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 69405,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114001444",
+    "attachments": []
+}

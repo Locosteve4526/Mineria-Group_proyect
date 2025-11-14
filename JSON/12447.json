@@ -1,0 +1,52 @@
+{
+    "activityid": 12447,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Toolbox Presentation",
+        "Conference/Meeting Name": "GLEON Fellows Workshop",
+        "Conference Location": "Lake Sunapee, NH",
+        "Date or Date Range": "2013-01-15",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "GLEON",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "56710": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 56710,
+            "scholarlyactivityid": 12447
+        },
+        "56711": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "O'Rourke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56711,
+            "scholarlyactivityid": 12447
+        }
+    },
+    "status": [
+        {
+            "id": 12447,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

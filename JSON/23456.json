@@ -1,0 +1,48 @@
+{
+    "activityid": 23456,
+    "fields": {
+        "Type": "Review",
+        "Title of Review": "Journal of Planning Education and Research: Review of Habits of the Heartland by Lun C MacGregor",
+        "Actual/Projected Year of Publication/Presentation": 1966,
+        "Page Numbers of Number of Pages": "",
+        "Publisher": "Journal of Planning Education and Research",
+        "Publisher Location": " ",
+        "Month / Season": "1966-01-01",
+        "Title of larger work": "",
+        "Volume": "",
+        "Issue Number": "",
+        "Author/Editor of larger work": "",
+        "DOI": "",
+        "ISSN/ISBN #": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113116029",
+    "coauthors": {
+        "78413": {
+            "firstname": "Amanda",
+            "middleinitial": "G.",
+            "lastname": "Ashley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113116029",
+            "authorid": 78413,
+            "scholarlyactivityid": 23456
+        }
+    },
+    "status": [
+        {
+            "id": 23456,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113116029",
+    "attachments": []
+}

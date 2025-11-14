@@ -1,0 +1,63 @@
+{
+    "activityid": 34949,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cRelating statistical image differences and degradation features\u201d",
+        "Name of Conference": "5th International Workshop, Document Analysis Symposium",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "pp. 1-12",
+        "Publisher": "Springer Verlag",
+        "Publisher Location": "Princeton, NJ",
+        "Volume": "LNCS 2423",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Document images are degraded through bilevel processes such as scanning, printing, and photocopying. The\r\nresulting image degradations can be categorized based either on observable degradation features or on degradation model\r\nparameters. The degradation features can be related mathematically to model parameters. In this paper we statistically\r\ncompare pairs of populations of degraded character images created with different model parameters. The changes in the\r\nprobability that the characters are from different populations when the model parameters vary correlate with the relationship\r\nbetween observable degradation features and the model parameters. The paper also shows which features have the\r\nlargest impact on the image.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142720": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142720,
+            "scholarlyactivityid": 34949,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142721": {
+            "firstname": "Xiaohui",
+            "middleinitial": "",
+            "lastname": "Qiu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142721,
+            "scholarlyactivityid": 34949,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34949,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2002,
+            "termid": "2002/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

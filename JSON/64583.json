@@ -1,0 +1,93 @@
+{
+    "activityid": 64583,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tax Increment Financing (TIF): A Review of TIF's Economic and Fiscal Effects",
+        "Journal": "Advances in Taxation",
+        "Volume": "31",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106358",
+    "coauthors": {
+        "326939": {
+            "firstname": "S. Allen",
+            "middleinitial": "",
+            "lastname": "Hartt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106358",
+            "authorid": 326939,
+            "scholarlyactivityid": 64583,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "326940": {
+            "firstname": "Jonathan",
+            "middleinitial": "",
+            "lastname": "Nash",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326940,
+            "scholarlyactivityid": 64583,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "326941": {
+            "firstname": "Catherine",
+            "middleinitial": "",
+            "lastname": "Plante",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326941,
+            "scholarlyactivityid": 64583,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64583,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 64583,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 64583,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114106358",
+    "attachments": []
+}

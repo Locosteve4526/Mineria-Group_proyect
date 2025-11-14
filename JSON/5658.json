@@ -1,0 +1,56 @@
+{
+    "activityid": 5658,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "What is the role of exercise in inflammatory disease prevention and management?",
+        "Journal": "Health and Fitness Journal of Canada",
+        "Volume": "6",
+        "Month / Season": "2013-05-30",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "91-100",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112145571",
+    "coauthors": {
+        "17453": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Schotzko",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17453,
+            "scholarlyactivityid": 5658
+        },
+        "17454": {
+            "firstname": "Shawn",
+            "middleinitial": "Ray",
+            "lastname": "Simonson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 17454,
+            "scholarlyactivityid": 5658
+        }
+    },
+    "status": [
+        {
+            "id": 5658,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112145571",
+    "attachments": []
+}

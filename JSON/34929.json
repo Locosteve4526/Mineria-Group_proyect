@@ -1,0 +1,76 @@
+{
+    "activityid": 34929,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&quot;Noise Effects in Bilevel Document Images&quot;",
+        "Name of Conference": "3rd Workshop on Analytics for Noisy Unstructured Text Data (AND-09)",
+        "Month / Season": "23-24 July",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "pp.17-24",
+        "Publisher": "",
+        "Publisher Location": "Barcelona, Spain",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "A degradation model that describes many image degradations\r\nproduced by desktop scanning is used to study the\r\nedge noise that is present in bilevel document images. The\r\nstandard deviation of the additive noise does not adequately\r\ndescribe the noise present after the image is converted to a\r\nbilevel image. A measure of noise called Noise Spread is\r\ndeveloped which describes the edge noise and is a function\r\nof the scanner parameters. If phase effects are removed this\r\nNoise Spread quantity is directly proportional to the expected\r\nvalue of the Hamming distance between scans with\r\nand without edge noise. The Noise Spread has also been\r\ncorrelated with the ability to accurately estimate edge locations.\r\nA simple method to estimate this quantity is proposed.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142627": {
+            "firstname": "Craig",
+            "middleinitial": "",
+            "lastname": "McGillivary",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142627,
+            "scholarlyactivityid": 34929,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "142628": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Hale",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142628,
+            "scholarlyactivityid": 34929,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "142629": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142629,
+            "scholarlyactivityid": 34929,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34929,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

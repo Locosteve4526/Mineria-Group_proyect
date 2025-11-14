@@ -1,0 +1,86 @@
+{
+    "activityid": 39553,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "Flat panel display, method of high vacuum sealing",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Patent Nationality": "United States",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "US Patent 6,554,672",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "Micron",
+        "Inventor(s)": null,
+        "URL": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112088556",
+    "coauthors": {
+        "170810": {
+            "firstname": "Jimmy",
+            "middleinitial": "Jay",
+            "lastname": "Browning",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112088556",
+            "authorid": 170810,
+            "scholarlyactivityid": 39553,
+            "classifications": {
+                "Role": "Inventor"
+            }
+        },
+        "170811": {
+            "firstname": "Craig",
+            "middleinitial": "",
+            "lastname": "Dunahm",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 170811,
+            "scholarlyactivityid": 39553,
+            "classifications": {
+                "Role": "Inventor"
+            }
+        },
+        "170812": {
+            "firstname": "Seungwoo",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 170812,
+            "scholarlyactivityid": 39553,
+            "classifications": {
+                "Role": "Inventor"
+            }
+        },
+        "170813": {
+            "firstname": "Michel",
+            "middleinitial": "",
+            "lastname": "Garcia",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 170813,
+            "scholarlyactivityid": 39553,
+            "classifications": {
+                "Role": "Inventor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 39553,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2003,
+            "termid": "2003/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112088556",
+    "attachments": []
+}

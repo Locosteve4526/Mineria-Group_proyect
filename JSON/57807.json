@@ -1,0 +1,71 @@
+{
+    "activityid": 57807,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Neuroscience with Counseling Consultation Panel. ",
+        "Conference/Meeting Name": "Association for Counselor Education and Supervision Annual Conference ",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114023975",
+    "coauthors": {
+        "268090": {
+            "firstname": "Chad",
+            "middleinitial": "",
+            "lastname": "Luke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268090,
+            "scholarlyactivityid": 57807,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "268091": {
+            "firstname": "Laura",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268091,
+            "scholarlyactivityid": 57807,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "268092": {
+            "firstname": "Raissa",
+            "middleinitial": "",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114023975",
+            "authorid": 268092,
+            "scholarlyactivityid": 57807,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57807,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114023975",
+    "attachments": []
+}

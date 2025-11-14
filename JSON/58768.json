@@ -1,0 +1,64 @@
+{
+    "activityid": 58768,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Principal Oboe, Boise Baroque Orchestra, 1 year appointment",
+        "Name of Performing Group": "Boise Baroque Orchestra",
+        "Date or Date Range": "June 2021-May 2022",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Name of Venue/Sponsor": "",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, ID",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114177349",
+    "coauthors": {
+        "294944": {
+            "firstname": "Rachel",
+            "middleinitial": "N",
+            "lastname": "Becker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114177349",
+            "authorid": 294944,
+            "scholarlyactivityid": 58768,
+            "classifications": {
+                "Role": "Performer"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58768,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 58768,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 58768,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114177349",
+    "attachments": []
+}

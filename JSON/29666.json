@@ -1,0 +1,58 @@
+{
+    "activityid": 29666,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Occipital Neuralgia and Ventral Intercanicular Cysts",
+        "Conference / Meeting Name": "The American Association of Neurological Surgeons 84th Annual Scientific Meeting",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "April 30 - May 4, 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111850",
+    "coauthors": {
+        "104279": {
+            "firstname": "Christian",
+            "middleinitial": "G",
+            "lastname": "Zimmerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 104279,
+            "scholarlyactivityid": 29666,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "104280": {
+            "firstname": "Pennie",
+            "middleinitial": "S",
+            "lastname": "Seibert",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111850",
+            "authorid": 104280,
+            "scholarlyactivityid": 29666,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29666,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111850",
+    "attachments": []
+}

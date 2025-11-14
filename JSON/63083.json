@@ -1,0 +1,58 @@
+{
+    "activityid": 63083,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Out in Idaho: Queer Spaces Beyond Boise",
+        "Conference/Meeting Name": "Fettuccine Forum",
+        "Conference Location": "Boise",
+        "Date or Date Range": "02/02/2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "Boise City Department of Arts &amp; History",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669995",
+    "coauthors": {
+        "290546": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "McClain",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669995",
+            "authorid": 290546,
+            "scholarlyactivityid": 63083,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "290547": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Taylor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290547,
+            "scholarlyactivityid": 63083,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63083,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669995",
+    "attachments": []
+}

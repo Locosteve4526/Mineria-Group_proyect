@@ -1,0 +1,68 @@
+{
+    "activityid": 48308,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Diversification of Notch signaling",
+        "Conference / Meeting Name": "NAVBO",
+        "Conference Location": "Pacific Grove, CA",
+        "Date or Date Range": "October 27-31",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113156458",
+    "coauthors": {
+        "321199": {
+            "firstname": "Allan",
+            "middleinitial": "",
+            "lastname": "Albig",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113156458",
+            "authorid": 321199,
+            "scholarlyactivityid": 48308
+        },
+        "321200": {
+            "firstname": "Jacob",
+            "middleinitial": "",
+            "lastname": "Crow",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321200,
+            "scholarlyactivityid": 48308,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "321201": {
+            "firstname": "Hannah",
+            "middleinitial": "",
+            "lastname": "Theriault",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321201,
+            "scholarlyactivityid": 48308,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48308,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113156458",
+    "attachments": []
+}

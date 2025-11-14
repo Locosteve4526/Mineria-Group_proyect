@@ -1,0 +1,72 @@
+{
+    "activityid": 61359,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Mining for Social Skills: Minecraft in Home and Therapy for Neurodiverse Youth",
+        "Name of Conference": "50th Hawaii International Conference on System Sciences (HICSS)",
+        "Month / Season": "Apr",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "352094": {
+            "firstname": "Annuska",
+            "middleinitial": "",
+            "lastname": "Zolyomi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352094,
+            "scholarlyactivityid": 61359,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352095": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 352095,
+            "scholarlyactivityid": 61359,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61359,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61359,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 2546,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Principle of Necessary Reason",
+        "Journal": "Faith and Philosophy",
+        "Volume": "10",
+        "Month / Season": "1993-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 1993,
+        "Page Numbers": "60-67",
+        "Publisher": "Society of Christian Philosophers",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.faithandphilosophy.com/",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110046",
+    "coauthors": {
+        "6997": {
+            "firstname": "Andrew",
+            "middleinitial": "J",
+            "lastname": "Cortens",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110046",
+            "authorid": 6997,
+            "scholarlyactivityid": 2546
+        },
+        "6998": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "O'Leary-Hawthorne",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6998,
+            "scholarlyactivityid": 2546
+        }
+    },
+    "status": [
+        {
+            "id": 2546,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1993,
+            "termid": "1993/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110046",
+    "attachments": []
+}

@@ -1,0 +1,95 @@
+{
+    "activityid": 64368,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "The benefits and costs of agglomeration: insights from economics and complexity",
+        "Book Title": "Compendium of Urban Complexity",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113146926",
+    "coauthors": {
+        "297228": {
+            "firstname": "Andres",
+            "middleinitial": "",
+            "lastname": "Gomez-Lievano",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 297228,
+            "scholarlyactivityid": 64368,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "297229": {
+            "firstname": "Michail",
+            "middleinitial": "",
+            "lastname": "Fragkias",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113146926",
+            "authorid": 297229,
+            "scholarlyactivityid": 64368,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "297230": {
+            "firstname": "Diego",
+            "middleinitial": "",
+            "lastname": "Rybski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 297230,
+            "scholarlyactivityid": 64368,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64368,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 64368,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 64368,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113146926",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 57188,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "How accurately can religious educators predict student achievement?",
+        "Journal": "Religion and Education",
+        "Volume": "48",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "198-215",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "264260": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Lyons",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264260,
+            "scholarlyactivityid": 57188,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "264261": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 264261,
+            "scholarlyactivityid": 57188,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "264262": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Osguthorpe",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264262,
+            "scholarlyactivityid": 57188,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57188,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

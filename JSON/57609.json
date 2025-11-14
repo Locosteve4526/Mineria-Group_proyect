@@ -1,0 +1,82 @@
+{
+    "activityid": 57609,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Fundamental Facts Can Be Logically Simple",
+        "Journal": "Nous",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1111/nous.12487",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113074305",
+    "coauthors": {
+        "324540": {
+            "firstname": "Alexander",
+            "middleinitial": "P.V.",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113074305",
+            "authorid": 324540,
+            "scholarlyactivityid": 57609
+        }
+    },
+    "status": [
+        {
+            "id": 57609,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 57609,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 57609,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 57609,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 57609,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113074305",
+    "attachments": []
+}

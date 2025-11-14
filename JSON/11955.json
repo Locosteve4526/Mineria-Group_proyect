@@ -1,0 +1,52 @@
+{
+    "activityid": 11955,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Coordinating learning outcomes assessment at a large, research- intensive university",
+        "Conference/Meeting Name": "The 2010 Assessment Institute in Indianapolis",
+        "Conference Location": "Indianapolis, Indiana",
+        "Date or Date Range": "2010-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "Assessment Institute in Indianapolis",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113083497",
+    "coauthors": {
+        "55808": {
+            "firstname": "Suzanne",
+            "middleinitial": "",
+            "lastname": "Weinstein",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 55808,
+            "scholarlyactivityid": 11955
+        },
+        "55809": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 55809,
+            "scholarlyactivityid": 11955
+        }
+    },
+    "status": [
+        {
+            "id": 11955,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083497",
+    "attachments": []
+}

@@ -1,0 +1,80 @@
+{
+    "activityid": 61875,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using writing to promote understanding in physical education",
+        "Journal": "Journal of Physical Education, Recreation &amp; Dance",
+        "Volume": "94",
+        "Month / Season": "",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "22-28",
+        "Publisher": "Taylor &amp; Francis Online",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669970",
+    "coauthors": {
+        "307948": {
+            "firstname": "Roger",
+            "middleinitial": "Heathcot",
+            "lastname": "Munger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669970",
+            "authorid": 307948,
+            "scholarlyactivityid": 61875,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "307949": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112179883",
+            "authorid": 307949,
+            "scholarlyactivityid": 61875,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61875,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61875,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 61875,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111669970",
+    "attachments": []
+}

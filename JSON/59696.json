@@ -1,0 +1,97 @@
+{
+    "activityid": 59696,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Side-channel Leakage Assessment Of Ternary S-Boxes",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "278885": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 278885,
+            "scholarlyactivityid": 59696,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278886": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278886,
+            "scholarlyactivityid": 59696,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278887": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Unger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278887,
+            "scholarlyactivityid": 59696,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "278888": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Erbes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278888,
+            "scholarlyactivityid": 59696,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59696,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 59696,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111716691",
+    "attachments": []
+}

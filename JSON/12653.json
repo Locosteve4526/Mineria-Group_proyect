@@ -1,0 +1,52 @@
+{
+    "activityid": 12653,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Understanding twice exceptional learners",
+        "Conference/Meeting Name": "Idaho Council for Exceptional Children",
+        "Conference Location": "Sun Valley Idaho",
+        "Date or Date Range": "2010-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "Idaho Talented and Gifted",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111346076",
+    "coauthors": {
+        "102907": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Dismuke",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111346076",
+            "authorid": 102907,
+            "scholarlyactivityid": 12653
+        },
+        "102908": {
+            "firstname": "Robin",
+            "middleinitial": "",
+            "lastname": "Sly",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 102908,
+            "scholarlyactivityid": 12653
+        }
+    },
+    "status": [
+        {
+            "id": 12653,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111346076",
+    "attachments": []
+}

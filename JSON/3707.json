@@ -1,0 +1,66 @@
+{
+    "activityid": 3707,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Bleach gel: a simple agarose gel for analyzing RNA quality",
+        "Journal": "Electrophoresis",
+        "Volume": "",
+        "Month / Season": "2012-12-31",
+        "Issue Number": "33",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "366-9",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "22222980",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110166",
+    "coauthors": {
+        "10840": {
+            "firstname": "P.S.",
+            "middleinitial": "",
+            "lastname": "Aranda",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10840,
+            "scholarlyactivityid": 3707
+        },
+        "10841": {
+            "firstname": "D.M.",
+            "middleinitial": "",
+            "lastname": "LaJole",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10841,
+            "scholarlyactivityid": 3707
+        },
+        "10842": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Jorcyk",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 10842,
+            "scholarlyactivityid": 3707
+        }
+    },
+    "status": [
+        {
+            "id": 3707,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110166",
+    "attachments": []
+}

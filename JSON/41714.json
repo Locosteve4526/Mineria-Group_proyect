@@ -1,0 +1,147 @@
+{
+    "activityid": 41714,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Integrity Coded Databases - Protecting Data Integrity for Outsourced Databases&lt;/p&gt;",
+        "Journal": "Computers and Security",
+        "Volume": "136",
+        "Month / Season": "January",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "Elsevier",
+        "DOI": "https://doi.org/10.1016/j.cose.2023.103569",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;In recent years, cloud storage has become a viable option for businesses to store and retrieve information.\u00a0This storage service allows its clients releasing from financial burden of hiring professionals to maintain local\u00a0databases. However, it comes at a cost of requiring the clients to relinquish control of their data to cloud service\u00a0providers. There remains the possibility of malicious attacks to make the data no longer correct, fresh nor\u00a0complete. This paper presents a novel database model called the Integrity Coded Database (ICDB), where the\u00a0model allows the client to insert Integrity Codes (ICs), as well as fake tuples, to an outsourced database, run\u00a0queries against the server, and verify that the queried data from the cloud is both correct, fresh and complete.&lt;br&gt;We have benchmarked and evaluated six IC DB schemes with different combinations of three IC generation\u00a0algorithms and two integrity verification modes&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "333528": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 333528,
+            "scholarlyactivityid": 41714,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333529": {
+            "firstname": "Md. Mashrur",
+            "middleinitial": "",
+            "lastname": "Arifin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333529,
+            "scholarlyactivityid": 41714,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "333530": {
+            "firstname": "Ning",
+            "middleinitial": "",
+            "lastname": "Shen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333530,
+            "scholarlyactivityid": 41714,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "333531": {
+            "firstname": "Ujwal",
+            "middleinitial": "",
+            "lastname": "Karki",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333531,
+            "scholarlyactivityid": 41714,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "333532": {
+            "firstname": "Yi",
+            "middleinitial": "",
+            "lastname": "Xie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333532,
+            "scholarlyactivityid": 41714,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "333533": {
+            "firstname": "Archana",
+            "middleinitial": "",
+            "lastname": "Nanjundarao",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333533,
+            "scholarlyactivityid": 41714,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41714,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 41714,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 41714,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 49972,
+            "mimetype": "application/pdf",
+            "filename": "final-pulication-version.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yY0VtU3l4TXl1eHdUVGlHK3dLZ0FLbGZXRklScnhsNGo1a1ZpTDZQRURoblhGU0VUZlRSS0pLaUcvZ01LL1U3UT0%3D",
+            "filesize": 1249212
+        },
+        {
+            "attachmentid": 58620,
+            "mimetype": "application/pdf",
+            "filename": "final-pulication-version.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yRlVsbm9oaGNKaEhDeml5SlQ4RE5wbGZXRklScnhsNGo1a1ZpTDZQRURoblhGU0VUZlRSS0pLaUcvZ01LL1U3UT0%3D",
+            "filesize": 1249212
+        }
+    ]
+}

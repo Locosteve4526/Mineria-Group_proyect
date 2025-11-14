@@ -1,0 +1,64 @@
+{
+    "activityid": 45594,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "Sensor Device",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Patent Nationality": "United States",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "US 8,966,991",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "207696": {
+            "firstname": "Kari",
+            "middleinitial": "",
+            "lastname": "Ullakko",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207696,
+            "scholarlyactivityid": 45594
+        },
+        "207697": {
+            "firstname": "K",
+            "middleinitial": "",
+            "lastname": "Sasaki",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207697,
+            "scholarlyactivityid": 45594
+        },
+        "207698": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 207698,
+            "scholarlyactivityid": 45594
+        }
+    },
+    "status": [
+        {
+            "id": 45594,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

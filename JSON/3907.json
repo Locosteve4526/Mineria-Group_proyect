@@ -1,0 +1,66 @@
+{
+    "activityid": 3907,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Wavelet-Based Bayesian Estimation of Partially Linear Regression Models with Long Memory Errors",
+        "Journal": "Statistica Sinica",
+        "Volume": "19",
+        "Month / Season": "2009-10-01",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "1463-1478",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/21",
+        "Description/Abstract": "In this paper we focus on partially linear regression models with long memory errors, and propose a wavelet-based Bayesian procedure that allows the simultaneous estimation of the model parameters and the nonparametric part of the model. Employing discrete wavelet transforms is crucial in order to simplify the dense variance-covariance matrix of the long memory error. We achieve a fully Bayesian inference by adopting a Metropolis algorithm within a Gibbs sampler. We evaluate the performances of the proposed method on simulated data. In addition, we present an application to Northern hemisphere temperature data, a benchmark in the long memory literature.",
+        "Origin": "Other"
+    },
+    "facultyid": "112033907",
+    "coauthors": {
+        "11518": {
+            "firstname": "Kyungduk",
+            "middleinitial": "",
+            "lastname": "Ko",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033907",
+            "authorid": 11518,
+            "scholarlyactivityid": 3907
+        },
+        "11519": {
+            "firstname": "Leming",
+            "middleinitial": "",
+            "lastname": "Qu",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702326",
+            "authorid": 11519,
+            "scholarlyactivityid": 3907
+        },
+        "11520": {
+            "firstname": "Marina",
+            "middleinitial": "",
+            "lastname": "Vannucci",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11520,
+            "scholarlyactivityid": 3907
+        }
+    },
+    "status": [
+        {
+            "id": 3907,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112033907",
+    "attachments": []
+}

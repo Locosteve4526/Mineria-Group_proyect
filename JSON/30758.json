@@ -1,0 +1,84 @@
+{
+    "activityid": 30758,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Computing with functions in spherical and polar geometries II. The disk",
+        "Journal": "SIAM Journal On Scientific Computing",
+        "Volume": "39",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "C238-C262",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1137/16M1070207",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://epubs.siam.org/doi/abs/10.1137/16M1070207",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "149025": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 149025,
+            "scholarlyactivityid": 30758,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "149026": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Townsend",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 149026,
+            "scholarlyactivityid": 30758,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "149027": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Wilber",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 149027,
+            "scholarlyactivityid": 30758,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30758,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 30758,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

@@ -1,0 +1,88 @@
+{
+    "activityid": 30234,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Idaho rural physician technology usage over time",
+        "Journal": "Journal of Hospital Administration",
+        "Volume": "5",
+        "Month / Season": "",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "14-18",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "109734": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 109734,
+            "scholarlyactivityid": 30234,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109735": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109735,
+            "scholarlyactivityid": 30234,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109736": {
+            "firstname": "Sophia",
+            "middleinitial": "",
+            "lastname": "Brasil",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109736,
+            "scholarlyactivityid": 30234,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "109737": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "MacKenzie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109737,
+            "scholarlyactivityid": 30234,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30234,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

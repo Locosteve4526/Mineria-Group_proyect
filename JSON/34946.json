@@ -1,0 +1,63 @@
+{
+    "activityid": 34946,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cPrinter Modeling for Document Imaging\u201d",
+        "Name of Conference": "2004 International Conference on Imaging Science, Systems, and Technology (CISST'04)",
+        "Month / Season": "21-24 June",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "pp. 14-20",
+        "Publisher": "",
+        "Publisher Location": "Las Vegas, Nevada, USA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "The microscopic details of printing often are unnoticed by humans, but can make differences that affect machine\r\nrecogniton of printed text. Models of the defects introduced into images by printing can be used to improve machine\r\nrecognition. A probabilistic model used to generate images showing toner placement bears similarities to actual\r\nprinted images. An equation derived for the average coverage of paper by toner particles having probabilistic placement\r\nis developed using geometric probability. Simulations show that averages of images of \u2018printed images\u2019 do have\r\nthe same average coverage as the derived average coverage equations.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142701": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Norris",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142701,
+            "scholarlyactivityid": 34946,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "142702": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142702,
+            "scholarlyactivityid": 34946,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34946,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2004,
+            "termid": "2004/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

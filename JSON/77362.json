@@ -1,0 +1,75 @@
+{
+    "activityid": 77362,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;State Preemption Through the Lens of Idaho Local Officials&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114275327",
+    "coauthors": {
+        "345859": {
+            "firstname": "Alexandra",
+            "middleinitial": "",
+            "lastname": "Artiles",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114275327",
+            "authorid": 345859,
+            "scholarlyactivityid": 77362,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345860": {
+            "firstname": "Lance",
+            "middleinitial": "",
+            "lastname": "Sayers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345860,
+            "scholarlyactivityid": 77362,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345861": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Witt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345861,
+            "scholarlyactivityid": 77362,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77362,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114275327",
+    "attachments": []
+}

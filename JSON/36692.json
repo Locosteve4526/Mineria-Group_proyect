@@ -1,0 +1,67 @@
+{
+    "activityid": 36692,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Funding from the head or the heart: An examination of crowdfunded micro-lending",
+        "Conference/Meeting Name": "Academy of Management Annual Conference",
+        "Conference Location": "Vancouver, British Columbia",
+        "Date or Date Range": "August 2015",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065551",
+    "coauthors": {
+        "194931": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Berns",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194931,
+            "scholarlyactivityid": 36692,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "194932": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Dunne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065551",
+            "authorid": 194932,
+            "scholarlyactivityid": 36692,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 36692,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 36692,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065551",
+    "attachments": []
+}

@@ -1,0 +1,97 @@
+{
+    "activityid": 42795,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "CBRAM Devices Based on a Nanotube Chalcogenide Glass Structure",
+        "Journal": "Journal of Materials Science: Materials in Electronics",
+        "Volume": "",
+        "Month / Season": "December",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.1007/s10854-018-0512-0",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://link.springer.com/article/10.1007/s10854-018-0512-0#citeas",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643701",
+    "coauthors": {
+        "226216": {
+            "firstname": "Muhammad",
+            "middleinitial": "R.",
+            "lastname": "Latif",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226216,
+            "scholarlyactivityid": 42795,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "226217": {
+            "firstname": "Paul",
+            "middleinitial": "H.",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226217,
+            "scholarlyactivityid": 42795,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "226218": {
+            "firstname": "Bill",
+            "middleinitial": "",
+            "lastname": "Knowlton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643701",
+            "authorid": 226218,
+            "scholarlyactivityid": 42795,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "226219": {
+            "firstname": "Maria",
+            "middleinitial": "",
+            "lastname": "Mitkova",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226219,
+            "scholarlyactivityid": 42795,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42795,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42795,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111643701",
+    "attachments": []
+}

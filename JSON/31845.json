@@ -1,0 +1,84 @@
+{
+    "activityid": 31845,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Simulations reveal the power and peril of artificial breeding sites for monitoring and managing animals.",
+        "Journal": "Ecological Applications",
+        "Volume": "27",
+        "Month / Season": "2016-08-15",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "1155\u20131166",
+        "Publisher": "",
+        "DOI": "10.1002/eap.1509",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://1910 University Dr",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111277518",
+    "coauthors": {
+        "148473": {
+            "firstname": "Christopher",
+            "middleinitial": "J.W.",
+            "lastname": "McClure",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 148473,
+            "scholarlyactivityid": 31845
+        },
+        "148474": {
+            "firstname": "Benjamin",
+            "middleinitial": "",
+            "lastname": "Pauli",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 148474,
+            "scholarlyactivityid": 31845
+        },
+        "148475": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 148475,
+            "scholarlyactivityid": 31845
+        }
+    },
+    "status": [
+        {
+            "id": 31845,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 31845,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 31845,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111277518",
+    "attachments": []
+}

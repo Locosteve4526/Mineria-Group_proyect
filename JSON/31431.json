@@ -1,0 +1,76 @@
+{
+    "activityid": 31431,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "An Empirical Exploration of the Effect of Application Selection on Learning From, and Performance of Major Innovations",
+        "Name of Conference": "Product Development and Management Association International Research Conference",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "",
+        "Publisher": "Product Development and Management Association",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "118411": {
+            "firstname": "Narongsak",
+            "middleinitial": "&quot;Tek&quot;",
+            "lastname": "Thongpapanl",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118411,
+            "scholarlyactivityid": 31431,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "118412": {
+            "firstname": "Gina",
+            "middleinitial": "C.",
+            "lastname": "O'Connor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118412,
+            "scholarlyactivityid": 31431,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "118413": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 118413,
+            "scholarlyactivityid": 31431,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31431,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

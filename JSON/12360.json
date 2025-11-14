@@ -1,0 +1,72 @@
+{
+    "activityid": 12360,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Metabolic",
+        "Conference / Meeting Name": "The 8th Annual INBRE Conference",
+        "Conference Location": "Moscow, ID",
+        "Date or Date Range": "2010-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112033562",
+    "coauthors": {
+        "56497": {
+            "firstname": "Mark",
+            "middleinitial": "M",
+            "lastname": "Swartz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56497,
+            "scholarlyactivityid": 12360
+        },
+        "56498": {
+            "firstname": "Seth",
+            "middleinitial": "",
+            "lastname": "Eidemiller",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56498,
+            "scholarlyactivityid": 12360
+        },
+        "56499": {
+            "firstname": "Kenneth",
+            "middleinitial": "Allison",
+            "lastname": "Cornell",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033562",
+            "authorid": 56499,
+            "scholarlyactivityid": 12360
+        },
+        "56500": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 56500,
+            "scholarlyactivityid": 12360
+        }
+    },
+    "status": [
+        {
+            "id": 12360,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112033562",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 63563,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p style=&quot;text-align:center;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Conspiracy Theorist or \u201cConspiracy Theory Illiterate\u201d&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615774",
+    "coauthors": {
+        "292902": {
+            "firstname": "Virginia",
+            "middleinitial": "A",
+            "lastname": "Husting",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615774",
+            "authorid": 292902,
+            "scholarlyactivityid": 63563,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "292903": {
+            "firstname": "Martin",
+            "middleinitial": "Bernard",
+            "lastname": "Orr",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111648",
+            "authorid": 292903,
+            "scholarlyactivityid": 63563,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "292904": {
+            "firstname": "M",
+            "middleinitial": "",
+            "lastname": "Dentith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 292904,
+            "scholarlyactivityid": 63563,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63563,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111615774",
+    "attachments": []
+}

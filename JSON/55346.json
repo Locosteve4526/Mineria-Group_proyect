@@ -1,0 +1,57 @@
+{
+    "activityid": 55346,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "An exploration of where social media marketing is taught across  the university campus",
+        "Name of Conference": "Marketing Educators Association",
+        "Month / Season": "2016, April",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114179860",
+    "coauthors": {
+        "259647": {
+            "firstname": "Frank",
+            "middleinitial": "R",
+            "lastname": "Veltri",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114179860",
+            "authorid": 259647,
+            "scholarlyactivityid": 55346
+        },
+        "259648": {
+            "firstname": "R",
+            "middleinitial": "",
+            "lastname": "Moody",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 259648,
+            "scholarlyactivityid": 55346
+        }
+    },
+    "status": [
+        {
+            "id": 55346,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114179860",
+    "attachments": []
+}

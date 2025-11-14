@@ -1,0 +1,66 @@
+{
+    "activityid": 70004,
+    "fields": {
+        "Type": "Book",
+        "Title": "Stories from the Basque Diaspora",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Invited translation from Spanish to English of a collection of 16 short stories from the Basque diaspora by Albert Irigoyen and Xabier Irujo.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110006",
+    "coauthors": {
+        "340168": {
+            "firstname": "Teresa",
+            "middleinitial": "C",
+            "lastname": "Boucher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110006",
+            "authorid": 340168,
+            "scholarlyactivityid": 70004,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70004,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70004,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70004,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110006",
+    "attachments": []
+}

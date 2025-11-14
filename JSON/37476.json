@@ -1,0 +1,66 @@
+{
+    "activityid": 37476,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Negative Epistasis in Experimental RNA Fitness Landscapes",
+        "Journal": "Journal of molecular evolution",
+        "Volume": "85",
+        "Month / Season": null,
+        "Issue Number": "5-6",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "159-168",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Mutations and their effects on fitness are a fundamental component of evolution. The effects of some mutations change in the presence of other mutations, and this is referred to as epistasis. Epistasis can occur between mutations in different genes or within the same gene. A systematic study of epistasis requires the analysis of numerous mutations and their combinations, which has recently become feasible with advancements in DNA synthesis and sequencing. Here we review the mutational effects and epistatic interactions within RNA molecules revealed by several recent high-throughput mutational studies involving two ribozymes studied in vitro, as well as a tRNA and a snoRNA studied in yeast. The data allow an analysis of the distribution of fitness effects of individual mutations as well as combinations of two or more mutations. Two different approaches to measuring epistasis in the data both reveal a predominance of negative epistasis, such that higher combinations of two or more mutations are typically lower in fitness than expected from the effect of each individual mutation. These data are in contrast to past studies of epistasis that used computationally predicted secondary structures of RNA that revealed a predominance of positive epistasis. The RNA data reviewed here are more similar to that found from mutational experiments on individual protein enzymes, suggesting that a common thermodynamic framework may explain negative epistasis between mutations within macromolecules.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114001941",
+    "coauthors": {
+        "155643": {
+            "firstname": "Devin ",
+            "middleinitial": "P",
+            "lastname": "Bendixsen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 155643,
+            "scholarlyactivityid": 37476
+        },
+        "155644": {
+            "firstname": "Bj\u00f8rn",
+            "middleinitial": "",
+            "lastname": "\u00d8stman",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 155644,
+            "scholarlyactivityid": 37476
+        },
+        "155645": {
+            "firstname": "Eric ",
+            "middleinitial": "J",
+            "lastname": "Hayden",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 155645,
+            "scholarlyactivityid": 37476
+        }
+    },
+    "status": [
+        {
+            "id": 37476,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001941",
+    "attachments": []
+}

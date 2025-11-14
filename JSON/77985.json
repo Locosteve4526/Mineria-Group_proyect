@@ -1,0 +1,76 @@
+{
+    "activityid": 77985,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;font-size:small;font-style:normal;font-weight:400;background-color:#ffffff;&quot;&gt;Transcriptome Expression of Key Proteins Involved in the Oxidative Response in T-Cells Exposed to Zinc Oxide Nanoparticles&lt;/span&gt;",
+        "Name of Conference": "SACNAS, Phoenix, AZ",
+        "Month / Season": "October 31-November 2nd",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://s6.goeshow.com/sachn/ndsc/2024/Abstract_Book.cfm?session_key=0C647E43-9B82-EF11-8102-B95C44E1822F&amp;session_date=Friday,%20Nov%2001,%202024#",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111195534",
+    "coauthors": {
+        "349898": {
+            "firstname": "Maria",
+            "middleinitial": "",
+            "lastname": "Figueroa Rosado",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349898,
+            "scholarlyactivityid": 77985,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "349899": {
+            "firstname": "Hunter",
+            "middleinitial": "",
+            "lastname": "Covert",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349899,
+            "scholarlyactivityid": 77985,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        },
+        "349900": {
+            "firstname": "Denise",
+            "middleinitial": "G",
+            "lastname": "Wingett",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111195534",
+            "authorid": 349900,
+            "scholarlyactivityid": 77985,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77985,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111195534",
+    "attachments": []
+}

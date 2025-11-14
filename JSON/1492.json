@@ -1,0 +1,55 @@
+{
+    "activityid": 1492,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Resisting the Seduction of John Stuart Mill",
+        "Journal": "Modern Age",
+        "Volume": "57",
+        "Month / Season": "2014-03-25",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "28-35",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643642",
+    "coauthors": {
+        "3562": {
+            "firstname": "Scott",
+            "middleinitial": "E",
+            "lastname": "Yenor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643642",
+            "authorid": 3562,
+            "scholarlyactivityid": 1492
+        }
+    },
+    "status": [
+        {
+            "id": 1492,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 1492,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643642",
+    "attachments": []
+}

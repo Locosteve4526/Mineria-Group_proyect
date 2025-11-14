@@ -1,0 +1,50 @@
+{
+    "activityid": 20200,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "IT Project Escalation: Translation Outcomes as Antecedents to the Four Factors of Escalation Theory",
+        "Name of Conference": "AMCIS 2005",
+        "Month / Season": "2005-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": null,
+        "Publisher": "AIS",
+        "Publisher Location": "Omaha, NE",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111321988",
+    "coauthors": {
+        "134719": {
+            "firstname": "Christopher",
+            "middleinitial": "Leo",
+            "lastname": "Scott",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111321988",
+            "authorid": 134719,
+            "scholarlyactivityid": 20200,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20200,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2005,
+            "termid": "2005/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111321988",
+    "attachments": []
+}

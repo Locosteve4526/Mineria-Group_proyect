@@ -1,0 +1,76 @@
+{
+    "activityid": 1721,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Idaho Rural Family Physician Workforce Study:  The Community Apgar Questionnaire",
+        "Journal": "Rural and Remote Health",
+        "Volume": "11",
+        "Month / Season": "2011-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "4262": {
+            "firstname": "David",
+            "middleinitial": "F",
+            "lastname": "Schmitz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4262,
+            "scholarlyactivityid": 1721
+        },
+        "4263": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 4263,
+            "scholarlyactivityid": 1721
+        },
+        "4264": {
+            "firstname": "Ayaka",
+            "middleinitial": "",
+            "lastname": "Nukui",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4264,
+            "scholarlyactivityid": 1721
+        },
+        "4265": {
+            "firstname": "Epperly",
+            "middleinitial": "",
+            "lastname": "Ted",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4265,
+            "scholarlyactivityid": 1721
+        }
+    },
+    "status": [
+        {
+            "id": 1721,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

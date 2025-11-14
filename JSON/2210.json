@@ -1,0 +1,105 @@
+{
+    "activityid": 2210,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Efficient Numerical Method to Solve the Multiple Compartment Bloch-Torrey Equation",
+        "Journal": "Physics in Biology and Medicine",
+        "Volume": "59",
+        "Month / Season": "2013-11-30",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "441\u2013454",
+        "Publisher": "",
+        "DOI": "10.1088/0031-9155/59/2/441",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The effect on the MRI signal of water diffusion in biological tissues in the presence of applied magnetic field gradient pulses can be modelled by a multiple compartment Bloch\u2013Torrey partial differential equation. We present a method for the numerical solution of this equation by coupling a standard Cartesian spatial discretization with an adaptive time discretization. The time discretization is done using the explicit Runge\u2013Kutta\u2013Chebyshev method, which is more efficient than the forward Euler time discretization for diffusive- type problems. We use this approach to simulate the diffusion MRI signal from the extra-cylindrical compartment in a tissue model of the brain gray matter consisting of cylindrical and spherical cells and illustrate the effect of cell membrane permeability.",
+        "Origin": "Other"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "321411": {
+            "firstname": "Jing-Rebecca",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321411,
+            "scholarlyactivityid": 2210,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "321412": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 321412,
+            "scholarlyactivityid": 2210,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "321413": {
+            "firstname": "Cyril",
+            "middleinitial": "",
+            "lastname": "Poupon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321413,
+            "scholarlyactivityid": 2210,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "321414": {
+            "firstname": "Denis",
+            "middleinitial": "",
+            "lastname": "Le Bihan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321414,
+            "scholarlyactivityid": 2210,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 2210,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 2210,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113079626",
+    "attachments": [
+        {
+            "attachmentid": 4024,
+            "mimetype": "application/pdf",
+            "filename": "li-ca-po-le-2014.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeThPWXVmQUU2RmFTbGFSSUswOUo1V1NNR1FMam90b1liRmlvYXo1SnRJQXR2T29vL1lkQmlDYTZGZ0VtWmlNeS8%3D",
+            "filesize": 723673
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "activityid": 69775,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "\u2018Entertaining\u2019 a New College Athlete Unionization Structure",
+        "Journal": "Journal of Legal Aspects of Sport",
+        "Volume": "34",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "26-76",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.18060/28013",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://journals.iupui.edu/index.php/jlas/article/view/28013",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114171943",
+    "coauthors": {
+        "326858": {
+            "firstname": "Joe",
+            "middleinitial": "",
+            "lastname": "Sabin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326858,
+            "scholarlyactivityid": 69775,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "326859": {
+            "firstname": "Sam",
+            "middleinitial": "C",
+            "lastname": "Ehrlich",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114171943",
+            "authorid": 326859,
+            "scholarlyactivityid": 69775,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "326860": {
+            "firstname": "Flory",
+            "middleinitial": "",
+            "lastname": "Bierma",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326860,
+            "scholarlyactivityid": 69775,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "326861": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Goldsmith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326861,
+            "scholarlyactivityid": 69775,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69775,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114171943",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 57924,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Unveiling \u2018Extinct\u2019 Chemistry on Early Earth",
+        "Conference/Meeting Name": "Department of Chemistry and Biochemistry Seminar",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114044110",
+    "coauthors": {
+        "268734": {
+            "firstname": "Rebecca",
+            "middleinitial": "K",
+            "lastname": "Torres",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268734,
+            "scholarlyactivityid": 57924,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "268735": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Callahan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114044110",
+            "authorid": 268735,
+            "scholarlyactivityid": 57924,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57924,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114044110",
+    "attachments": []
+}

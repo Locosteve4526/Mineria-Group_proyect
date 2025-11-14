@@ -1,0 +1,57 @@
+{
+    "activityid": 27569,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Teaching Software Defined Radio Using the USRP and LabVIEW",
+        "Name of Conference": "",
+        "Month / Season": "2012-03-25",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "2789-2792",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1109/ICASSP.2012.6288496",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/213",
+        "Description/Abstract": "The universal software radio peripheral (USRP) family of products has become a popular platform for hardware-based research and test bed validations conducted by universities in the software defined radio (SDR) and cognitive radio (CR) fields. With the recently released version of National Instruments (NI) LabVIEW, the USRP now offers a scalable, simpler, and easier to use combined platform. The new software support broadens the accessibility of the USRP platform for teaching applications and will spur further adoption within university communication systems classrooms, teaching laboratories, and their natural follow-on coursework. This paper will discuss the utilization of LabVIEW-based virtual instrumentation with the USRP to rapidly create real-time communication systems demonstrations for the classroom and/or laboratory settings. The combination of the USRP, LabVIEW, and Windows support enables implementation and exploration of both foundational and more advanced concepts related to signal processing and communications.\n",
+        "Origin": "Other"
+    },
+    "facultyid": "112139424",
+    "coauthors": {
+        "87232": {
+            "firstname": "Thaddeus",
+            "middleinitial": "Baynard",
+            "lastname": "Welch",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112139424",
+            "authorid": 87232,
+            "scholarlyactivityid": 27569
+        },
+        "87233": {
+            "firstname": "Sam",
+            "middleinitial": "",
+            "lastname": "Shearman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87233,
+            "scholarlyactivityid": 27569
+        }
+    },
+    "status": [
+        {
+            "id": 27569,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139424",
+    "attachments": []
+}

@@ -1,0 +1,46 @@
+{
+    "activityid": 4481,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Discontinuous parameter estimates with least squares estimators",
+        "Journal": "Applied Mathematics and Computation",
+        "Volume": "219",
+        "Month / Season": "2012-12-01",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "5210-5223",
+        "Publisher": "Elselvier",
+        "DOI": "10.1016/j.amc.2012.11.067",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Least squares estimates of ill-conditioned linear inverse problems where weights are chosen to be inverse error covariance matrices.  Weights for the estimator are found by ensuring its minimum follows a chi-squared distribution.  Results with diagonal matrices are given for benchmark discontinuous inverse problem.  In addition, the method is used to estimate soil moisture from data collected in the Dry Creek Watershed near Boise, ID.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "13490": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 13490,
+            "scholarlyactivityid": 4481
+        }
+    },
+    "status": [
+        {
+            "id": 4481,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

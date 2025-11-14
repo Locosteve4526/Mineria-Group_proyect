@@ -1,0 +1,56 @@
+{
+    "activityid": 1083,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "No fees required: Opening access to university content",
+        "Journal": "The Idaho Librarian",
+        "Volume": "61",
+        "Month / Season": "2011-04-30",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112071180",
+    "coauthors": {
+        "2662": {
+            "firstname": "Patricia",
+            "middleinitial": "M",
+            "lastname": "Armstrong",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112071180",
+            "authorid": 2662,
+            "scholarlyactivityid": 1083
+        },
+        "2663": {
+            "firstname": "Julia",
+            "middleinitial": "",
+            "lastname": "Stringfellow",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083844",
+            "authorid": 2663,
+            "scholarlyactivityid": 1083
+        }
+    },
+    "status": [
+        {
+            "id": 1083,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112071180",
+    "attachments": []
+}

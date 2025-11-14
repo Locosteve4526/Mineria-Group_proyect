@@ -1,0 +1,76 @@
+{
+    "activityid": 34871,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cDescreening of Color Halftone Images in the Frequency Domain,\u201d ",
+        "Name of Conference": "Proc. SPIE Electronic Imaging - Color Imaging XVI: Displaying, Processing, Hardcopy, and Applications",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "SPIE",
+        "Publisher Location": "San Francisco, CA",
+        "Volume": "7866",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Scanning a halftone image introduces halftone artifacts, known as Moir\u00b4e patterns, which significantly degrade the\r\nimage quality. Printers that use amplitude modulation (AM) screening for halftone printing position dots in a\r\nperiodic pattern. Therefore, frequencies relating halftoning are easily identifiable in the frequency domain. This\r\npaper proposes a method for descreening scanned color halftone images using a custom band reject filter designed\r\nto isolate and remove only the frequencies related to halftoning while leaving image edges sharp without image\r\nsegmentation or edge detection. To enable hardware acceleration, the image is processed in small overlapped\r\nwindows. The windows are filtered individually in the frequency domain, then pieced back together in a method\r\nthat does not show blocking artifacts.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142277": {
+            "firstname": "C. J.",
+            "middleinitial": "",
+            "lastname": "Stanger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142277,
+            "scholarlyactivityid": 34871,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142278": {
+            "firstname": "Thanh",
+            "middleinitial": "",
+            "lastname": "Tran",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142278,
+            "scholarlyactivityid": 34871,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142279": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142279,
+            "scholarlyactivityid": 34871,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34871,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

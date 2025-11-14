@@ -1,0 +1,110 @@
+{
+    "activityid": 64011,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Hello world: Introducing the learning and performance support of content moderation",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114204687",
+    "coauthors": {
+        "295173": {
+            "firstname": "Seth-Aaron",
+            "middleinitial": "",
+            "lastname": "Martinez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114204687",
+            "authorid": 295173,
+            "scholarlyactivityid": 64011,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "295174": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Harrington",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295174,
+            "scholarlyactivityid": 64011,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "295175": {
+            "firstname": "Nahari",
+            "middleinitial": "",
+            "lastname": "Leija",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295175,
+            "scholarlyactivityid": 64011,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "295176": {
+            "firstname": "Eunjae",
+            "middleinitial": "",
+            "lastname": "Kim",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295176,
+            "scholarlyactivityid": 64011,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "295177": {
+            "firstname": "Mandy",
+            "middleinitial": "",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295177,
+            "scholarlyactivityid": 64011,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64011,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64011,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114204687",
+    "attachments": []
+}

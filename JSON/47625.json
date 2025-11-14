@@ -1,0 +1,58 @@
+{
+    "activityid": 47625,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The interactive effects of fire and recreation on golden eagles",
+        "Conference/Meeting Name": "137th Stated Meeting American Ornithological Society",
+        "Conference Location": "Anchorage, AK",
+        "Date or Date Range": "June 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "American Ornithological Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111277518",
+    "coauthors": {
+        "218737": {
+            "firstname": "C",
+            "middleinitial": "M",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218737,
+            "scholarlyactivityid": 47625,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "218738": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 218738,
+            "scholarlyactivityid": 47625,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47625,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111277518",
+    "attachments": []
+}

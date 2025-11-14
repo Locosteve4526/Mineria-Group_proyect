@@ -1,0 +1,97 @@
+{
+    "activityid": 63618,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An introductory, unified approach to finite element modeling with several glacier flow approximations: Hydrostatic, Blatter-Pattyn, SIA, and SSA&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Journal": "Journal of Glaciology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112680",
+    "coauthors": {
+        "311922": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Miele",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311922,
+            "scholarlyactivityid": 63618,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "311923": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Bartholomaus",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311923,
+            "scholarlyactivityid": 63618,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311924": {
+            "firstname": "Ellyn",
+            "middleinitial": "M",
+            "lastname": "Enderlin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112680",
+            "authorid": 311924,
+            "scholarlyactivityid": 63618,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311925": {
+            "firstname": "Gabriel",
+            "middleinitial": "",
+            "lastname": "Portirniche",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311925,
+            "scholarlyactivityid": 63618,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63618,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 63618,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114112680",
+    "attachments": []
+}

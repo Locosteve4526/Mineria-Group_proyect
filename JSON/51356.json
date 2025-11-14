@@ -1,0 +1,80 @@
+{
+    "activityid": 51356,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The relationship between macroporosity and Young's modulus of various rocks and analog materials",
+        "Name of Conference": "56TH US ROCK MECHANICS / GEOMECHANICS SYMPOSIUM",
+        "Month / Season": "June 26-29, 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "American Rock Mechanics Association",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114136465",
+    "coauthors": {
+        "290714": {
+            "firstname": "Bahri",
+            "middleinitial": "B",
+            "lastname": "Avar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290714,
+            "scholarlyactivityid": 51356,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "290715": {
+            "firstname": "Nicholas",
+            "middleinitial": "W",
+            "lastname": "Hudyma",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114136465",
+            "authorid": 290715,
+            "scholarlyactivityid": 51356,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51356,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 51356,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 7,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114136465",
+    "attachments": [
+        {
+            "attachmentid": 42237,
+            "mimetype": "application/pdf",
+            "filename": "ARMA 22-2262 Avar &amp; Hudyma - Macroporosity.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzloZHZWTHB6L05MV2w0UzFQcndTUGR0bVlLRXNVZkw3OTdGUXVmK2RORmJZY3BEczRKWXZ2UVFDWFpLWnhUVkdNVFNhNUp6NGNwZEtpbE14TFFhRHB3ZVNZVmQ4b1VySG1nPQ%3D%3D",
+            "filesize": 652167
+        }
+    ]
+}

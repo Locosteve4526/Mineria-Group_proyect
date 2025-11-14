@@ -1,0 +1,46 @@
+{
+    "activityid": 1198,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Interlibrary Loan on the Web",
+        "Journal": "Library Computing",
+        "Volume": "18",
+        "Month / Season": "1999-12-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 1999,
+        "Page Numbers": "235-244",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112192272",
+    "coauthors": {
+        "123401": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 123401,
+            "scholarlyactivityid": 1198
+        }
+    },
+    "status": [
+        {
+            "id": 1198,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1999,
+            "termid": "1999/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112192272",
+    "attachments": []
+}

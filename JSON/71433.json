@@ -1,0 +1,96 @@
+{
+    "activityid": 71433,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;A Computational Framework For Predicting Cell-specific Nucleo-cytoskeletal Forces In Mesenchymal Stem Cells&lt;/span&gt;",
+        "Name of Conference": "Annual Meeting of the Orthopaedic Research Society 2024",
+        "Month / Season": "February",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114084469",
+    "coauthors": {
+        "324760": {
+            "firstname": "Madison",
+            "middleinitial": "",
+            "lastname": "Goldfeldt",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324760,
+            "scholarlyactivityid": 71433
+        },
+        "324759": {
+            "firstname": "Nina",
+            "middleinitial": "",
+            "lastname": "Nikitina",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324759,
+            "scholarlyactivityid": 71433
+        },
+        "324758": {
+            "firstname": "Clare",
+            "middleinitial": "",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114062491",
+            "authorid": 324758,
+            "scholarlyactivityid": 71433
+        },
+        "324757": {
+            "firstname": "Aykut",
+            "middleinitial": "C",
+            "lastname": "Satici",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114084469",
+            "authorid": 324757,
+            "scholarlyactivityid": 71433
+        },
+        "324756": {
+            "firstname": "Gunes",
+            "middleinitial": "",
+            "lastname": "Uzer",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114062489",
+            "authorid": 324756,
+            "scholarlyactivityid": 71433
+        }
+    },
+    "status": [
+        {
+            "id": 71433,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 71433,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114084469",
+    "attachments": []
+}

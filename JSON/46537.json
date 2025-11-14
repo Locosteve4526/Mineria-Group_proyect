@@ -1,0 +1,110 @@
+{
+    "activityid": 46537,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using convolutional neural networks to recognize learning images for early warning of at-risk students",
+        "Journal": "IEEE Transactions on Learning Technologies (TLT)",
+        "Volume": "13",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "617-630",
+        "Publisher": "",
+        "DOI": "10.1109/TLT.2020.2988253",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "246499": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 246499,
+            "scholarlyactivityid": 46537,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246500": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 246500,
+            "scholarlyactivityid": 46537,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246501": {
+            "firstname": "Juan",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246501,
+            "scholarlyactivityid": 46537,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246502": {
+            "firstname": "D",
+            "middleinitial": "",
+            "lastname": "Xu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246502,
+            "scholarlyactivityid": 46537,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246503": {
+            "firstname": "Z",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246503,
+            "scholarlyactivityid": 46537,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46537,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46537,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

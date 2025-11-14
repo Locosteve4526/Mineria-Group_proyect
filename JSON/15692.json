@@ -1,0 +1,52 @@
+{
+    "activityid": 15692,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "A statistical technique for estimating regularization parameter in Total Variation",
+        "Conference / Meeting Name": "PNWNAS",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2012-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "NSF, Boise State",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "64298": {
+            "firstname": "Anna",
+            "middleinitial": "",
+            "lastname": "Nelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64298,
+            "scholarlyactivityid": 15692
+        },
+        "64299": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 64299,
+            "scholarlyactivityid": 15692
+        }
+    },
+    "status": [
+        {
+            "id": 15692,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

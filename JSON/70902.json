@@ -1,0 +1,70 @@
+{
+    "activityid": 70902,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;background-color:transparent;font-style:italic;&quot;&gt;A guide for K-12 humanities teachers on best practices for\u00a0&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size:12pt;background-color:transparent;font-style:italic;&quot;&gt;integrating Digital Humanities&lt;/span&gt;&lt;/p&gt;\n&lt;span&gt;&lt;span style=&quot;font-size:12pt;background-color:transparent;font-style:italic;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Pressbooks",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://boisestate.pressbooks.pub/pathwaysguide/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113145983",
+    "coauthors": {
+        "321590": {
+            "firstname": "Amber",
+            "middleinitial": "",
+            "lastname": "Hoye",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321590,
+            "scholarlyactivityid": 70902,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "321591": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Arispe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113145983",
+            "authorid": 321591,
+            "scholarlyactivityid": 70902,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70902,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 70902,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "113145983",
+    "attachments": []
+}

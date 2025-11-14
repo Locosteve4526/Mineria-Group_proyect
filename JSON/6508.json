@@ -1,0 +1,75 @@
+{
+    "activityid": 6508,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Radial Basis Function-generated Finite Differences: A Mesh-free Method for Computational Geosciences",
+        "Journal": "Handbook of Geomathematics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.1007/978-3-642-27793-1_61-1",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "113211": {
+            "firstname": "N",
+            "middleinitial": "",
+            "lastname": "Flyer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113211,
+            "scholarlyactivityid": 6508
+        },
+        "113212": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 113212,
+            "scholarlyactivityid": 6508
+        },
+        "113213": {
+            "firstname": "B",
+            "middleinitial": "",
+            "lastname": "Fornberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113213,
+            "scholarlyactivityid": 6508
+        }
+    },
+    "status": [
+        {
+            "id": 6508,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 6508,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

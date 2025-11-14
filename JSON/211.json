@@ -1,0 +1,56 @@
+{
+    "activityid": 211,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Selecting faculty for Christian business colleges:  basic policies and the role of religious commitment",
+        "Journal": "Global Education Journal",
+        "Volume": "2005",
+        "Month / Season": "2005-06-15",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "49-68",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "557": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 557,
+            "scholarlyactivityid": 211
+        },
+        "558": {
+            "firstname": "Malcolm ",
+            "middleinitial": "",
+            "lastname": "Coco",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 558,
+            "scholarlyactivityid": 211
+        }
+    },
+    "status": [
+        {
+            "id": 211,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2005,
+            "termid": "2005/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

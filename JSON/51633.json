@@ -1,0 +1,111 @@
+{
+    "activityid": 51633,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "A Christmas Carol",
+        "Name of Performing Group": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Name of Venue/Sponsor": "",
+        "Venue / Sponsor Location (City, State, Country)": "",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114059338",
+    "coauthors": {
+        "238687": {
+            "firstname": "Gordon",
+            "middleinitial": "D",
+            "lastname": "Reinhart",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112348",
+            "authorid": 238687,
+            "scholarlyactivityid": 51633
+        },
+        "238688": {
+            "firstname": "Ann",
+            "middleinitial": "M",
+            "lastname": "Price",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111113551",
+            "authorid": 238688,
+            "scholarlyactivityid": 51633
+        },
+        "238689": {
+            "firstname": "Raquel",
+            "middleinitial": "C",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113115225",
+            "authorid": 238689,
+            "scholarlyactivityid": 51633
+        },
+        "238690": {
+            "firstname": "Darrin",
+            "middleinitial": "",
+            "lastname": "Pufall",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113111455",
+            "authorid": 238690,
+            "scholarlyactivityid": 51633
+        },
+        "238691": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Cannon",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114024949",
+            "authorid": 238691,
+            "scholarlyactivityid": 51633
+        },
+        "238692": {
+            "firstname": "Ru",
+            "middleinitial": "M",
+            "lastname": "Wood",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114059338",
+            "authorid": 238692,
+            "scholarlyactivityid": 51633
+        }
+    },
+    "status": [
+        {
+            "id": 51633,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 51633,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 51633,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114059338",
+    "attachments": []
+}

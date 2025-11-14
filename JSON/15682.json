@@ -1,0 +1,42 @@
+{
+    "activityid": 15682,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Regularization of nonlinear inverse problems",
+        "Conference/Meeting Name": "12th Copper Mountain Conference on Iterative Methods",
+        "Conference Location": "Copper Mountain, Colorado ",
+        "Date or Date Range": "2012-03-28",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "Sandia, LLNL, IBM, DOE, LANL, NSF",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "In this talk we describe how the $ \\chi^2$ method can be applied to nonlinear problems. We will show both analytically and numerically that each iterate of of the Gauss-Newton and Levenburg-Marquart methods follow a $ \\chi^2$ distribution. This property can be used to find regularization parameters as is done with the discrepancy principle in Occam's method. However, our approach differs in that we used the regularized residual rather than the data residual, and can estimate a different regularization parameter at each iterate. ",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "64284": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 64284,
+            "scholarlyactivityid": 15682
+        }
+    },
+    "status": [
+        {
+            "id": 15682,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

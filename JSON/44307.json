@@ -1,0 +1,76 @@
+{
+    "activityid": 44307,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Crowdsourcing Semi-Supervised LSTM Training Approach to Identify Novel Items in Emerging Artificial Intelligent Environments.",
+        "Name of Conference": "2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA). ",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048778",
+    "coauthors": {
+        "200821": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048778",
+            "authorid": 200821,
+            "scholarlyactivityid": 44307,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "200822": {
+            "firstname": "Haritha",
+            "middleinitial": "",
+            "lastname": "Akella",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200822,
+            "scholarlyactivityid": 44307,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "200823": {
+            "firstname": "Alfredo",
+            "middleinitial": "",
+            "lastname": "Cuzzocrea",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200823,
+            "scholarlyactivityid": 44307,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44307,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048778",
+    "attachments": []
+}

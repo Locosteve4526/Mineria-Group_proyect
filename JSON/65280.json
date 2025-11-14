@@ -1,0 +1,75 @@
+{
+    "activityid": 65280,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;\u201c&lt;/span&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;Participatory Budgeting and Community Development: A Global Perspective\u201d.&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Journal": "American Behavioral Scientist",
+        "Volume": "",
+        "Month / Season": "June 2022",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111670037",
+    "coauthors": {
+        "303224": {
+            "firstname": "Brian",
+            "middleinitial": "D",
+            "lastname": "Wampler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111670037",
+            "authorid": 303224,
+            "scholarlyactivityid": 65280,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "303225": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "McNulty",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 303225,
+            "scholarlyactivityid": 65280,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "303226": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Touchton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 303226,
+            "scholarlyactivityid": 65280,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 65280,
+            "status": "In Press",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111670037",
+    "attachments": []
+}

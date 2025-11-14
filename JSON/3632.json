@@ -1,0 +1,56 @@
+{
+    "activityid": 3632,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Response to intervention in middle school: A case story",
+        "Journal": "Middle School Journal",
+        "Volume": "42",
+        "Month / Season": "2010-12-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "24-33",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "10582": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 10582,
+            "scholarlyactivityid": 3632
+        },
+        "10583": {
+            "firstname": "L.",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10583,
+            "scholarlyactivityid": 3632
+        }
+    },
+    "status": [
+        {
+            "id": 3632,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

@@ -1,0 +1,54 @@
+{
+    "activityid": 23593,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Curious Writer 5e",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "5th",
+        "Volume": "",
+        "Publisher": "Pearson",
+        "Publisher Location": "New York",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "101924": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 101924,
+            "scholarlyactivityid": 23593
+        }
+    },
+    "status": [
+        {
+            "id": 23593,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 23593,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

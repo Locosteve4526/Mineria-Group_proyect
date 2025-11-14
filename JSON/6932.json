@@ -1,0 +1,86 @@
+{
+    "activityid": 6932,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling the Spatially Varying Water Balance Processes in a Semi- Arid Mountainous Watershed of Idaho",
+        "Journal": "JAWRA: Journal of the American Water Resources AssociationJAWRA: Journal of the American Water Resources Association",
+        "Volume": "45",
+        "Month / Season": "2009-12-01",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "1390-1408",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1111/j.1752-1688.2009.00371.x",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/civileng_facpubs/13",
+        "Description/Abstract": "Mountainous watersheds in semi-arid regions are complex hydrologic systems. To critically evaluate the hydrological processes, high resolution spatio-temporal information is necessary. Also, calibrating and validating a watershed-scale model is necessary to enable our understanding of the water balance components in the gauged watersheds. The distributed Soil Water Assessment Tool (SWAT) hydrologic model was applied to a research watershed, the Dry Creek Experimental Watershed (DCEW), near Boise Idaho to investigate its water balance components both temporally and spatially. Daily streamflow data from four streamflow gauges were used for calibration and validation of the model. Monthly estimates of streamflow during the calibration phase by SWAT produced satisfactory results with a Nash Sutcliffe coefficient of model efficiency 0.79. Since it is a continuous simulation model, as opposed to an event-based model, it demonstrated the limited ability in capturing both streamflow and soil moisture for selected rain-on-snow events during the validation period between 2005-07. Our implementation of SWAT showed that seasonal and annual water balance partitioning of precipitation into evapotranspiration, streamflow, soil moisture and drainage was not only possible but closely followed the trends of a typical semiarid watershed in the intermountain west. This study highlights the necessity for better techniques to precisely identify and drive the model with commonly observed climatic inversion-related snowmelt or rain-on-snow weather events. Estimation of key parameters pertaining to soil (e.g., available water content and saturated hydraulic conductivity), snow (e.g., lapse rates, melting) and vegetation (e.g., leaf area index and maximum canopy index) using additional field observations in the watershed is critical for better prediction.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110360",
+    "coauthors": {
+        "21498": {
+            "firstname": "Benjamin",
+            "middleinitial": "T.",
+            "lastname": "Stratton",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21498,
+            "scholarlyactivityid": 6932
+        },
+        "21499": {
+            "firstname": "Venkataramana",
+            "middleinitial": "R",
+            "lastname": "Sridhar",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112124336",
+            "authorid": 21499,
+            "scholarlyactivityid": 6932
+        },
+        "21500": {
+            "firstname": "Molly",
+            "middleinitial": "",
+            "lastname": "Gribb",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643696",
+            "authorid": 21500,
+            "scholarlyactivityid": 6932
+        },
+        "21501": {
+            "firstname": "James",
+            "middleinitial": "P",
+            "lastname": "McNamara",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110360",
+            "authorid": 21501,
+            "scholarlyactivityid": 6932
+        },
+        "21502": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Narasimhan",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21502,
+            "scholarlyactivityid": 6932
+        }
+    },
+    "status": [
+        {
+            "id": 6932,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110360",
+    "attachments": []
+}

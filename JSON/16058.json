@@ -1,0 +1,52 @@
+{
+    "activityid": 16058,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Enzymatic assay study of EsaI AHL synthase",
+        "Conference / Meeting Name": "11th Annual INBRE Research Conference",
+        "Conference Location": "Moscow, ID",
+        "Date or Date Range": "2012-08-06",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "Idaho INBRE",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Bacteria communicate via quorum sensing, an intercellular signaling pathway that uses small chemical molecules called autoinducers to take a census count of neighboring bacteria in a colony. Quorum sensing helps bacteria to work as a unit to form biofilms, an extracellular matrix designed to protect them from antibiotic attack. Pantoea stewartii is a plant pathogen that causes Stewart\u2019s wilt and leaf blight in sweet corn and maize. P. stewartii uses EsaI AHL synthase to form 3-oxohexanoyl homoserine lactone (AHL) autoinducers from 3-oxohexanoyl ACP and S-adenosyl-L-methionine (SAM) substrates. Inhibition of autoinducer synthesis would limit interbacterial communication, and thus EsaI inhibitors hold the potential to reduce bacterial virulence in this organism. Unfortunately, the rational design of EsaI inhibitors is not straightforward because mechanistic details for this enzyme are not well understood, probably due to the difficulty in getting access to 3-oxohexanoyl ACP substrate in sufficient amounts for routine biochemical assays. In this context, we will determine the catalytic efficiency and kinetic mechanism of 3-oxohexanoyl CoA and hexanoyl CoA substrates using a colorimetric and spectrophotometric based assay for EsaI enzyme. The colorimetric assay uses DCPIP dye to quantify the amount of thiol released over time whereas the spectrophotometric assay would monitor the C-S bond cleavage at the acyl transfer step in EsaI catalyzed reaction. These assays will be utilized to perform substrate specificity measurements and mechanistic studies that will eventually lead to inhibitor design for the enzyme. \n",
+        "Origin": "Other"
+    },
+    "facultyid": "113083415",
+    "coauthors": {
+        "65132": {
+            "firstname": "Jesse",
+            "middleinitial": "",
+            "lastname": "Keeler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65132,
+            "scholarlyactivityid": 16058
+        },
+        "65133": {
+            "firstname": "Rajesh",
+            "middleinitial": "",
+            "lastname": "Nagarajan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083415",
+            "authorid": 65133,
+            "scholarlyactivityid": 16058
+        }
+    },
+    "status": [
+        {
+            "id": 16058,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083415",
+    "attachments": []
+}

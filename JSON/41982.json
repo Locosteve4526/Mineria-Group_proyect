@@ -1,0 +1,84 @@
+{
+    "activityid": 41982,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Dodd-Frank's federal deposit insurance reform",
+        "Journal": "Journal of Banking Regulation",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106877",
+    "coauthors": {
+        "283233": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106877",
+            "authorid": 283233,
+            "scholarlyactivityid": 41982,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "283234": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Hein",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 283234,
+            "scholarlyactivityid": 41982,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "283235": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Whitledge",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 283235,
+            "scholarlyactivityid": 41982,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41982,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 41982,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114106877",
+    "attachments": []
+}

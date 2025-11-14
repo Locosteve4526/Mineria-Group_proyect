@@ -1,0 +1,75 @@
+{
+    "activityid": 37110,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Medical and entomological malarial interventions, a comparison and synergy of two control measures using a Ross/Macdonald model variant and \\emph{openmalaria} simulation",
+        "Journal": "Mathematical Biosciences",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Using an established Ross/Macdonald model variant for mosquito-born parasite\ntransmission, we extend the formalism to simply incorporate time-dependent\ncontrol measures. In particular, two interventions are considered, mass drug\nadministration (MDA) and indoor residual spraying (IRS), whose individual\nintensities during their respective campaigns are set to the same\nintervention-reduced reproductive number $R_0$. The impacts of these\ninterventions, measured as each campaign's ability over time to reduce\ninfections in a community, are found based on the transmission setting,\ncoverage, and their associated durations. These impacts are compared for both\ninterventions and their joint deployment. Synchronous campaigns of IRS deployed\nwith MDA have a cooperative, synergistic effect whose impact exceeds that when\nthe campaigns are deployed in isolation. Simulations with \\emph{openmalaria},\nwith its more complex model of transmission, are separately performed and show\na similar impact enhancement with these interventions. A new, associated\nanalysis yields simple scaling relationships that estimate the dynamical\nresurgence time, post-intervention, to disease proliferation in a community.\n\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067626",
+    "coauthors": {
+        "196194": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067626",
+            "authorid": 196194,
+            "scholarlyactivityid": 37110
+        },
+        "196195": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 196195,
+            "scholarlyactivityid": 37110
+        },
+        "196196": {
+            "firstname": "Dorothy",
+            "middleinitial": "",
+            "lastname": "Echodu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 196196,
+            "scholarlyactivityid": 37110
+        }
+    },
+    "status": [
+        {
+            "id": 37110,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 37110,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114067626",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 34932,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cBallot Mark Detection\u201d",
+        "Name of Conference": "Nineteenth International Conference on Pattern Recognition (ICPR)",
+        "Month / Season": "4-6 December",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Tampa, Florida",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Optical mark sensing, i.e., detecting whether a\r\n\u201cbubble\u201d has been filled in, may seem straightforward.\r\nHowever, the context of the US voting system adds the\r\nchallenge that the shape, intensity, size and position of\r\nthe marks, while specified, are highly variable due to a\r\ndiverse electorate. The ballots may be produced and\r\nscanned by poorly maintained equipment. Yet nearperfect\r\nresults are required. To improve the current\r\ntechnology, which has been subject to criticism,\r\ncomponents of a process for identifying marks on an\r\noptical sense ballot leads are evaluated.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142642": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142642,
+            "scholarlyactivityid": 34932,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142643": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Lopresti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142643,
+            "scholarlyactivityid": 34932,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142644": {
+            "firstname": "George",
+            "middleinitial": "",
+            "lastname": "Nagy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142644,
+            "scholarlyactivityid": 34932,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34932,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 30233,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Community assets and capabilities to recruit and retain GPs: The Community Apgar Questionnaire in rural Victoria",
+        "Journal": "Rural and Remote Health",
+        "Volume": "16",
+        "Month / Season": "",
+        "Issue Number": "3990",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "109725": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Terry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109725,
+            "scholarlyactivityid": 30233,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109726": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 109726,
+            "scholarlyactivityid": 30233,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109727": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109727,
+            "scholarlyactivityid": 30233,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30233,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

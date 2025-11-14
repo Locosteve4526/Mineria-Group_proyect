@@ -1,0 +1,84 @@
+{
+    "activityid": 70490,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Geoscience job advertisements as a barrier to employment for people with disabilities",
+        "Journal": "Earth Science, Systems and Society",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "319198": {
+            "firstname": "Gregory",
+            "middleinitial": "W",
+            "lastname": "Shafer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319198,
+            "scholarlyactivityid": 70490,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "319199": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 319199,
+            "scholarlyactivityid": 70490,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319200": {
+            "firstname": "Anne",
+            "middleinitial": "E",
+            "lastname": "Egger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319200,
+            "scholarlyactivityid": 70490,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70490,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 70490,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

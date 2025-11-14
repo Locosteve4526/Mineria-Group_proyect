@@ -1,0 +1,58 @@
+{
+    "activityid": 27040,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Questioning",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "723-728",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Gale/Cengage",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "E. Anderman",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112180267",
+    "coauthors": {
+        "86199": {
+            "firstname": "Ian",
+            "middleinitial": "A. G.",
+            "lastname": "Wilkinson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 86199,
+            "scholarlyactivityid": 27040
+        },
+        "86200": {
+            "firstname": "EunHye",
+            "middleinitial": "",
+            "lastname": "Son",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112180267",
+            "authorid": 86200,
+            "scholarlyactivityid": 27040
+        }
+    },
+    "status": [
+        {
+            "id": 27040,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112180267",
+    "attachments": []
+}

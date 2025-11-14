@@ -1,0 +1,71 @@
+{
+    "activityid": 44536,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Hydraulic Fracturing in the Unita Basin: Impacts and Consequences to Local Water Resources and Communities",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114011762",
+    "coauthors": {
+        "201936": {
+            "firstname": "M.",
+            "middleinitial": "L.",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201936,
+            "scholarlyactivityid": 44536,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "201937": {
+            "firstname": "Monica",
+            "middleinitial": "",
+            "lastname": "Hubbard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114011762",
+            "authorid": 201937,
+            "scholarlyactivityid": 44536,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44536,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 44536,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114011762",
+    "attachments": []
+}

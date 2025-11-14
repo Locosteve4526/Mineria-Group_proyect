@@ -1,0 +1,64 @@
+{
+    "activityid": 21923,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Two Objections to Benatar's Asymmetry Argument",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "journal article",
+        "Origin": "Other"
+    },
+    "facultyid": "111194862",
+    "coauthors": {
+        "165975": {
+            "firstname": "Brian",
+            "middleinitial": "B",
+            "lastname": "Kierland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111194862",
+            "authorid": 165975,
+            "scholarlyactivityid": 21923
+        }
+    },
+    "status": [
+        {
+            "id": 21923,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 21923,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 21923,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111194862",
+    "attachments": []
+}

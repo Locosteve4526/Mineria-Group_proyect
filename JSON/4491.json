@@ -1,0 +1,56 @@
+{
+    "activityid": 4491,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Least Squares Problems with Inequality Constraints as Quadratic Constraints",
+        "Journal": "Linear Algebra and Its Applications",
+        "Volume": "432",
+        "Month / Season": "2010-01-01",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "1936-1949",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.laa.2009.04.017",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/15",
+        "Description/Abstract": "Linear least squares problems with box constraints are commonly solved to find model parameters within bounds based on physical considerations. Common algorithms include Bounded Variable Least Squares (BVLS) and the Matlab function lsqlin. Here, the goal is to find solutions to ill-posed inverse problems that lie within box constraints. To do this, we formulate the box constraints as quadratic constraints, and solve the corresponding unconstrained regularized least squares problem. Using box constraints as quadratic constraints is an efficient approach because the optimization problem has a closed form solution.\nThe effectiveness of the proposed algorithm is investigated through solving three benchmark problems and one from a hydrological application. Results are compared with solutions found by lsqlin, and the quadratically constrained formulation is solved using the L-curve, maximum a posteriori estimation (MAP), and the X2  regularization method. The X2 regularization method with quadratic constraints is the most effective method for solving least squares problems with box constraints.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "13509": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 13509,
+            "scholarlyactivityid": 4491
+        },
+        "13510": {
+            "firstname": "Rosemary",
+            "middleinitial": "A",
+            "lastname": "Renaut",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13510,
+            "scholarlyactivityid": 4491
+        }
+    },
+    "status": [
+        {
+            "id": 4491,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

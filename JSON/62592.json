@@ -1,0 +1,71 @@
+{
+    "activityid": 62592,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;Supporting Children Through Escalating Behavior in\u00a0&lt;/span&gt;&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;Early&lt;/span&gt;&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;\u00a0&lt;/span&gt;&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;Childhood&lt;/span&gt;&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;\u00a0&lt;/span&gt;&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;Education&lt;/span&gt;",
+        "Journal": "Early Childhood Education Journal",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111663911",
+    "coauthors": {
+        "287610": {
+            "firstname": "Melissa",
+            "middleinitial": "",
+            "lastname": "Buck",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 287610,
+            "scholarlyactivityid": 62592,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "287611": {
+            "firstname": "Deborah",
+            "middleinitial": "Russell",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111663911",
+            "authorid": 287611,
+            "scholarlyactivityid": 62592,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62592,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 62592,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111663911",
+    "attachments": []
+}

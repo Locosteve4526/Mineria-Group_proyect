@@ -1,0 +1,89 @@
+{
+    "activityid": 34293,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Robust \u201cMaximum Daily Return Effect as Demand for Lottery\u201d and \u201cIdiosyncratic Volatility Puzzle\u201d",
+        "Journal": "Journal of Empirical Finance",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "314756": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086454",
+            "authorid": 314756,
+            "scholarlyactivityid": 34293,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "314757": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "Hur",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314757,
+            "scholarlyactivityid": 34293,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34293,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 34293,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 34293,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 34293,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

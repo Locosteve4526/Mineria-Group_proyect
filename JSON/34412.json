@@ -1,0 +1,63 @@
+{
+    "activityid": 34412,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Attracting and retaining the physician workforce:  Use of the Community Apgar Tool",
+        "Name of Conference": "Washington State Hospital Association &amp; AWPHD Hospital Leadership Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Chelan, Washington",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "139460": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 139460,
+            "scholarlyactivityid": 34412,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "139461": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 139461,
+            "scholarlyactivityid": 34412,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34412,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

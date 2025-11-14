@@ -1,0 +1,146 @@
+{
+    "activityid": 41326,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An improved method for utilizing high-throughput amplicon sequencing to determine the diets of insectivorous animals",
+        "Journal": "Molecular ecology resources",
+        "Volume": "",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "DNA analysis of predator feces using high-throughput amplicon sequencing (HTS) enhances our understanding of predator-prey interactions. However, conclusions drawn from this technique are constrained by biases that occur in multiple steps of the HTS workflow. To better characterize insectivorous animal diets, we used DNA from a diverse set of arthropods to assess PCR biases of commonly used and novel primer pairs for the mitochondrial gene, cytochrome oxidase C subunit 1 (COI). We compared diversity recovered from HTS of bat guano samples using a commonly used primer pair &quot;ZBJ&quot; to results using the novel primer pair &quot;ANML&quot;. To parameterize our bioinformatics pipeline, we created an arthropod mock community consisting of single-copy (cloned) COI sequences. To examine biases associated with both PCR and HTS, mock community members were combined in equimolar amounts both pre- and post-PCR. We validated our system using guano from bats fed known-diets and using composite samples of morphologically identified insects collected in pitfall traps. In PCR tests, the ANML primer pair amplified 58 of 59 arthropod taxa (98%) whereas ZBJ amplified 24-40 of 59 taxa (41-68%). Furthermore, in an HTS comparison of field-collected samples, the ANML primers detected nearly four-fold more arthropod taxa than the ZBJ primers. The additional arthropods detected include medically and economically relevant insect groups such as mosquitoes. Results revealed biases at both the PCR and sequencing levels, demonstrating the pitfalls associated with using HTS read numbers as proxies for abundance. The use of an arthropod mock community allowed for improved bioinformatics pipeline parameterization. This article is protected by copyright. All rights reserved.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113089601",
+    "coauthors": {
+        "181368": {
+            "firstname": "Michelle ",
+            "middleinitial": "A",
+            "lastname": "Jusino",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181368,
+            "scholarlyactivityid": 41326
+        },
+        "181369": {
+            "firstname": "Mark ",
+            "middleinitial": "T",
+            "lastname": "Banik",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181369,
+            "scholarlyactivityid": 41326
+        },
+        "181370": {
+            "firstname": "Jonathan ",
+            "middleinitial": "M",
+            "lastname": "Palmer",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181370,
+            "scholarlyactivityid": 41326
+        },
+        "181371": {
+            "firstname": "Amy ",
+            "middleinitial": "K",
+            "lastname": "Wray",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181371,
+            "scholarlyactivityid": 41326
+        },
+        "181372": {
+            "firstname": "Lei",
+            "middleinitial": "",
+            "lastname": "Xiao",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181372,
+            "scholarlyactivityid": 41326
+        },
+        "181373": {
+            "firstname": "Emma",
+            "middleinitial": "",
+            "lastname": "Pelton",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181373,
+            "scholarlyactivityid": 41326
+        },
+        "181374": {
+            "firstname": "Jesse ",
+            "middleinitial": "R",
+            "lastname": "Barber",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181374,
+            "scholarlyactivityid": 41326
+        },
+        "181375": {
+            "firstname": "Akito ",
+            "middleinitial": "Y",
+            "lastname": "Kawahara",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181375,
+            "scholarlyactivityid": 41326
+        },
+        "181376": {
+            "firstname": "Claudio",
+            "middleinitial": "",
+            "lastname": "Gratton",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181376,
+            "scholarlyactivityid": 41326
+        },
+        "181377": {
+            "firstname": "M",
+            "middleinitial": "",
+            "lastname": "Zachariah Peery",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181377,
+            "scholarlyactivityid": 41326
+        },
+        "181378": {
+            "firstname": "Danie",
+            "middleinitial": "L",
+            "lastname": "Lindner",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181378,
+            "scholarlyactivityid": 41326
+        }
+    },
+    "status": [
+        {
+            "id": 41326,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113089601",
+    "attachments": []
+}

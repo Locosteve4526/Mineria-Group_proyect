@@ -1,0 +1,67 @@
+{
+    "activityid": 40782,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "How to design survey items &amp; analyze pre-post data",
+        "Conference/Meeting Name": "Serve Idaho Conference",
+        "Conference Location": "Boise, Idaho",
+        "Date or Date Range": "March 27, 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "Idaho Department of Labor",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "205932": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 205932,
+            "scholarlyactivityid": 40782,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "205933": {
+            "firstname": "Melissa",
+            "middleinitial": "",
+            "lastname": "Medloff",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 205933,
+            "scholarlyactivityid": 40782,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40782,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40782,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

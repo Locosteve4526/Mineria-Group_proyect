@@ -1,0 +1,58 @@
+{
+    "activityid": 52991,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Influence of the Interfacial Polarization on Electrical Properties of Granular Materials",
+        "Conference / Meeting Name": "American Geophysical Union Fall meeting",
+        "Conference Location": "online",
+        "Date or Date Range": "7 December 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Many electric/electromagnetic methods are operating in the frequency range between kHz to MHz, during which, the interfacial polarization (or Maxwell-Wagner polarization) may dominate. In porous media, the interfacial polarization occurs where discontinuity (i.e., interface) separates two phases with different electrical properties. To properly interpret these geophysical data, it is critical to understand how the interfacial polarization affects the electrical conductivity and permittivity spectra of geological materials. In this study, we employ the discrete element method to generate a series of granular samples made of grains with different shapes and sizes. Then, the Laplace equation is solved in the representative elementary volumes of these samples to determine the electrical conductivity and permittivity spectra. The numerical results are used to analyze the influence of material texture (e.g., grain shape and packing density) on the variations of electrical conductivity and permittivity of granular materials. It shows that both the grain shape and porosity have a profound effect on the electrical properties of the samples. As the porosity decreases, the permittivity change due to the interfacial polarization becomes bigger and the associated characteristic frequency shifts towards to a lower frequency. The numerical results are also compared with the results of the Hanai-Bruggeman equation. It shows that, when the porosity is large (e.g., &gt;70%), the characteristic frequency and permittivity change are similar for numerical simulation and theoretical calculations, especially for spherical particles. However, they deviate significantly from each other when the porosity is small (e.g., &lt;40%). This discrepancy could be because, when the porosity is small, two neighboring grains will affect the electric field around individual grains, which was not considered in the Hanai-Bruggeman equation. This study suggests that the Hanai-Bruggeman equation may need to be adapted to calculate the effective electrical properties of geological materials with low porosity.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112754",
+    "coauthors": {
+        "246759": {
+            "firstname": "Hang",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246759,
+            "scholarlyactivityid": 52991,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "246760": {
+            "firstname": "Qifei",
+            "middleinitial": "",
+            "lastname": "Niu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112754",
+            "authorid": 246760,
+            "scholarlyactivityid": 52991,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52991,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112754",
+    "attachments": []
+}

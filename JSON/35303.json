@@ -1,0 +1,141 @@
+{
+    "activityid": 35303,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Further examining differences in two content area curriculum-based measurement tools",
+        "Journal": "Journal of Psychological Assessment",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114046499",
+    "coauthors": {
+        "223906": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Conoyer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 223906,
+            "scholarlyactivityid": 35303,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "223907": {
+            "firstname": "Jeremy",
+            "middleinitial": "W",
+            "lastname": "Ford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046499",
+            "authorid": 223907,
+            "scholarlyactivityid": 35303,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "223908": {
+            "firstname": "Erica",
+            "middleinitial": "",
+            "lastname": "Lembke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 223908,
+            "scholarlyactivityid": 35303,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "223909": {
+            "firstname": "R.",
+            "middleinitial": "Alex",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 223909,
+            "scholarlyactivityid": 35303,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "223910": {
+            "firstname": "Erica",
+            "middleinitial": "",
+            "lastname": "Mason",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 223910,
+            "scholarlyactivityid": 35303,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "223911": {
+            "firstname": "John",
+            "middleinitial": "L",
+            "lastname": "Hosp",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 223911,
+            "scholarlyactivityid": 35303,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 35303,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 35303,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 35303,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 35303,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114046499",
+    "attachments": []
+}

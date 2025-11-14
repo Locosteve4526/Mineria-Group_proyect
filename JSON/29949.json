@@ -1,0 +1,71 @@
+{
+    "activityid": 29949,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Real-Time Multimedia Medical Information System in Mobile Environments",
+        "Name of Conference": "The 6th World Multi-Conference on Systemics, Cybernetics and Informatics",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "312630": {
+            "firstname": "Chung-wei",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312630,
+            "scholarlyactivityid": 29949,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312631": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 312631,
+            "scholarlyactivityid": 29949,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29949,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2002,
+            "termid": "2002/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 1422,
+            "mimetype": "application/pdf",
+            "filename": "sci02.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25xY1hDRERkbzQyTlhCdy9TbjBEeDNsYU45MUZPbC9MTE44c1UzNWVONWJhZz09",
+            "filesize": 153571
+        }
+    ]
+}

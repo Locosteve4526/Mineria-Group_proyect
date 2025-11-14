@@ -1,0 +1,76 @@
+{
+    "activityid": 1788,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Field, laboratory, and modeling investigation of the skin effect at wells with slotted casing, Boise Hydrogeophysical Research Site",
+        "Journal": "Journal of Hydrology",
+        "Volume": "326",
+        "Month / Season": "2006-12-31",
+        "Issue Number": "4-Jan",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "181-198",
+        "Publisher": "",
+        "DOI": "doi:10.1016/j.jhydrol.2005.10.029",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Understanding and quantification of wellbore skin improves our ability to accurately measure or estimate hydrologic\nparameters with tests at wells such as pumping tests, flowmeter tests, and slug tests. This paper presents observations and results from a series of field, laboratory, and modeling tests which, together, explain the source of wellbore skin at wells at a research wellfield and which support estimation of skin thickness (ds) and skin hydraulic conductivity (Ks). Positive wellbore skin effects were recognized at wells in the shallow, unconfined, coarse-grained fluvial aquifer at the Boise Hydrogeophysical Research Site (BHRS). Well development efforts at the BHRS removed residual drilling fines but only marginally reduced the skin effect. Likely causes for the remaining wellbore skin effect were examined; partial clogging of screen slots with sand is consistent with\nfield observations and can account for the magnitude of wellbore skin effect observed. We then use the WTAQ code (Barlow and Moench, 1999) with a redefinition of the term for delayed observation well response to include skin effects at observation wells (in addition to pumping wells) in order to analyze aquifer tests at the BHRS for average Ks values at individual wells. Systematic differences in Ks values are recognized in results at pumping (Ks_Q) and observation (Ks_obs) wells: larger values are seen at observation wells (average Ks_obsZ0.0023 cm/s) than pumping wells. Two possible causes are recognized for the occurrence of higher Ks values at observation wells than pumping wells: (1) flow diversion between aquifer layers on approach to a pumping well with positive skin; and (2) larger portion of flow passing through lower-K zones in the heterogeneous aquifer near the pumping well than the observation wells due to strongly radially convergent flow near the pumping well. For the well aquifer system at the BHRS, modeling analyses of drawdown vs time at observation wells provide better Ks estimates than those from pumping wells.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4479": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4479,
+            "scholarlyactivityid": 1788
+        },
+        "4480": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Clemo",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4480,
+            "scholarlyactivityid": 1788
+        },
+        "4481": {
+            "firstname": "Jessica",
+            "middleinitial": "J.",
+            "lastname": "Fox",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4481,
+            "scholarlyactivityid": 1788
+        },
+        "4482": {
+            "firstname": "Timothy",
+            "middleinitial": "C.",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4482,
+            "scholarlyactivityid": 1788
+        }
+    },
+    "status": [
+        {
+            "id": 1788,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

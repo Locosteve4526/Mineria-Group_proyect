@@ -1,0 +1,97 @@
+{
+    "activityid": 51654,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The rural nursing workforce hierarchy of needs:  Decision making concerning future rural healthcare employment.",
+        "Journal": "Healthcare",
+        "Volume": "9",
+        "Month / Season": "",
+        "Issue Number": "1232",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.3390/healthcare9091232",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "263053": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Terry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 263053,
+            "scholarlyactivityid": 51654,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "263054": {
+            "firstname": "B",
+            "middleinitial": "",
+            "lastname": "Peck",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 263054,
+            "scholarlyactivityid": 51654,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "263055": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 263055,
+            "scholarlyactivityid": 51654,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "263056": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 263056,
+            "scholarlyactivityid": 51654,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51654,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 51654,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

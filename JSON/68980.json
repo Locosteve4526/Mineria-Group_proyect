@@ -1,0 +1,65 @@
+{
+    "activityid": 68980,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;Using a logic model to navigate CACREP program evaluation&lt;/span&gt;&lt;/p&gt;",
+        "Conference/Meeting Name": "ACES Bi-Annual Conference",
+        "Conference Location": "Denver",
+        "Date or Date Range": "10-2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "Association for Counselor Education and Supervision",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111726552",
+    "coauthors": {
+        "310533": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Doumas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 310533,
+            "scholarlyactivityid": 68980,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "310534": {
+            "firstname": "Aida",
+            "middleinitial": "H",
+            "lastname": "Midgett",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113026222",
+            "authorid": 310534,
+            "scholarlyactivityid": 68980
+        },
+        "310535": {
+            "firstname": "Raissa",
+            "middleinitial": "M",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114023975",
+            "authorid": 310535,
+            "scholarlyactivityid": 68980
+        }
+    },
+    "status": [
+        {
+            "id": 68980,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111726552",
+    "attachments": []
+}

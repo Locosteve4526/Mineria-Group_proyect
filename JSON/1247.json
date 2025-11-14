@@ -1,0 +1,66 @@
+{
+    "activityid": 1247,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A literature review of polygraph countermeasures and the comparison question technique",
+        "Journal": "APA magazine: The magazine for the polygraph professional",
+        "Volume": "48",
+        "Month / Season": "2015-07-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "81-96",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110183",
+    "coauthors": {
+        "118203": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Handler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118203,
+            "scholarlyactivityid": 1247
+        },
+        "118204": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Honts",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110183",
+            "authorid": 118204,
+            "scholarlyactivityid": 1247
+        },
+        "118205": {
+            "firstname": "Ben",
+            "middleinitial": "",
+            "lastname": "Blalock",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118205,
+            "scholarlyactivityid": 1247
+        }
+    },
+    "status": [
+        {
+            "id": 1247,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110183",
+    "attachments": []
+}

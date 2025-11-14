@@ -1,0 +1,48 @@
+{
+    "activityid": 62643,
+    "fields": {
+        "Type": "Book",
+        "Title": "Laboratory Activities for Exercise Physiology",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "1st",
+        "Volume": "",
+        "Publisher": "Kendall Hunt",
+        "Publisher Location": "Dubuque, IA",
+        "ISBN": "9798765711712",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "290849": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 290849,
+            "scholarlyactivityid": 62643,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62643,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

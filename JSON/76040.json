@@ -1,0 +1,76 @@
+{
+    "activityid": 76040,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Instantaneous Generation of Subject-Specific Finite Element Models of the Hip Capsule",
+        "Journal": "Bioengineering (Basel, Switzerland)",
+        "Volume": "11",
+        "Month / Season": null,
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": "10.3390/bioengineering11010037",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Subject-specific hip capsule models could offer insights into impingement and dislocation risk when coupled with computer-aided surgery, but model calibration is time-consuming using traditional techniques. This study developed a framework for instantaneously generating subject-specific finite element (FE) capsule representations from regression models trained with a probabilistic approach. A validated FE model of the implanted hip capsule was evaluated probabilistically to generate a training dataset relating capsule geometry and material properties to hip laxity. Multivariate regression models were trained using 90% of trials to predict capsule properties based on hip laxity and attachment site information. The regression models were validated using the remaining 10% of the training set by comparing differences in hip laxity between the original trials and the regression-derived capsules. Root mean square errors (RMSEs) in laxity predictions ranged from 1.8\u00b0 to 2.3\u00b0, depending on the type of laxity used in the training set. The RMSE, when predicting the laxity measured from five cadaveric specimens with total hip arthroplasty, was 4.5\u00b0. Model generation time was reduced from days to milliseconds. The results demonstrated the potential of regression-based training to instantaneously generate subject-specific FE models and have implications for integrating subject-specific capsule models into surgical planning software.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "337867": {
+            "firstname": "Ahilan",
+            "middleinitial": "",
+            "lastname": "Anantha-Krishnan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337867,
+            "scholarlyactivityid": 76040
+        },
+        "337868": {
+            "firstname": "Casey ",
+            "middleinitial": "A",
+            "lastname": "Myers",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337868,
+            "scholarlyactivityid": 76040
+        },
+        "337869": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337869,
+            "scholarlyactivityid": 76040
+        },
+        "337870": {
+            "firstname": "Chadd ",
+            "middleinitial": "W",
+            "lastname": "Clary",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337870,
+            "scholarlyactivityid": 76040
+        }
+    },
+    "status": [
+        {
+            "id": 76040,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

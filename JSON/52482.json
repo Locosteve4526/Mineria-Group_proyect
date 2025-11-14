@@ -1,0 +1,128 @@
+{
+    "activityid": 52482,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Classifying Permutations under Context-Directed Swaps and the CDS Game",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "A special sorting operation called Context Directed Swap, and denoted cds, involves block interchanges of permuted lists.  In biology literature cds is hypothesized to be performed on the genomic material of ciliates.  Among those permutations which are sortable by cds, cds sorts them using the fewest possible block interchanges of any kind.  Adamyk et al.  (2013) discovered an efficient way of quantifying the non-cds-sortability of a permutation by means of an object called the strategic pile of the permutation.  We partially classify the permutations with maximal strategic pile by their number of available cds moves.  We complete this characterization when the number of available moves is close to maximal as well as when the number of available moves is minimal.We  discover  a Zn \u00d7 Zn-action  on  permutations  in Sn+1 that  preserves  the  number  of  available cds moves.  Using the orbit-stabilizer theorem, we obtain some enumerative results regarding the number of permutations with maximal strategic pile and a given number of moves mod (2n\u22121)2.We also discover new conditions for player ONE to have a winning strategy in a two-person game played on non-cds-sortable permutations, improving results from Adamyk et al.  (2013).",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "243340": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 243340,
+            "scholarlyactivityid": 52482,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "243341": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243341,
+            "scholarlyactivityid": 52482,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "243342": {
+            "firstname": "Angelina",
+            "middleinitial": "",
+            "lastname": "Mitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243342,
+            "scholarlyactivityid": 52482,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "243343": {
+            "firstname": "Rushil",
+            "middleinitial": "",
+            "lastname": "Raghavan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243343,
+            "scholarlyactivityid": 52482,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "243344": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Rogge",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243344,
+            "scholarlyactivityid": 52482,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52482,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 52482,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 52482,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 52482,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

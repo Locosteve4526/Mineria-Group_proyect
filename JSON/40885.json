@@ -1,0 +1,84 @@
+{
+    "activityid": 40885,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Are social work students concerned about the environment?: The role of personal beliefs",
+        "Journal": "Journal of Social Work Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114087965",
+    "coauthors": {
+        "245198": {
+            "firstname": "Jill",
+            "middleinitial": "M",
+            "lastname": "Chonody",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114087965",
+            "authorid": 245198,
+            "scholarlyactivityid": 40885,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "245199": {
+            "firstname": "Vickie",
+            "middleinitial": "",
+            "lastname": "Sultzman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245199,
+            "scholarlyactivityid": 40885,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "245200": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Hippie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245200,
+            "scholarlyactivityid": 40885,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40885,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40885,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "114087965",
+    "attachments": []
+}

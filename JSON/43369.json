@@ -1,0 +1,78 @@
+{
+    "activityid": 43369,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Walter's Ferry skeletal data collection",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088853",
+    "coauthors": {
+        "318497": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088853",
+            "authorid": 318497,
+            "scholarlyactivityid": 43369
+        },
+        "318498": {
+            "firstname": "Katie",
+            "middleinitial": "",
+            "lastname": "Taylor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318498,
+            "scholarlyactivityid": 43369
+        },
+        "318499": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Harrod",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318499,
+            "scholarlyactivityid": 43369
+        }
+    },
+    "status": [
+        {
+            "id": 43369,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 43369,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114088853",
+    "attachments": []
+}

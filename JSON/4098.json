@@ -1,0 +1,86 @@
+{
+    "activityid": 4098,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Thermally-Assisted Bottleneck Etching of CdSe Nanocrystal by Amines",
+        "Journal": "Journal of the American Chemical Society",
+        "Volume": "127",
+        "Month / Season": "2005-12-31",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "2524-2532",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112181986",
+    "coauthors": {
+        "12085": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "li",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12085,
+            "scholarlyactivityid": 4098
+        },
+        "12086": {
+            "firstname": "Jeunghoon",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112181986",
+            "authorid": 12086,
+            "scholarlyactivityid": 4098
+        },
+        "12087": {
+            "firstname": "F.",
+            "middleinitial": "",
+            "lastname": "Papadimitrakopoulos",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12087,
+            "scholarlyactivityid": 4098
+        },
+        "12088": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Aindow",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12088,
+            "scholarlyactivityid": 4098
+        },
+        "12089": {
+            "firstname": "D.",
+            "middleinitial": "",
+            "lastname": "Horspool",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12089,
+            "scholarlyactivityid": 4098
+        }
+    },
+    "status": [
+        {
+            "id": 4098,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112181986",
+    "attachments": []
+}

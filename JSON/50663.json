@@ -1,0 +1,114 @@
+{
+    "activityid": 50663,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Clinical Management of Pressure Control Ventilation: An Algorithmic Method of Patient Management",
+        "Journal": "Journal of Critical Care",
+        "Volume": "43",
+        "Month / Season": "January",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "169-182",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111698779",
+    "coauthors": {
+        "234497": {
+            "firstname": "Lonny",
+            "middleinitial": "J",
+            "lastname": "Ashworth",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110855",
+            "authorid": 234497,
+            "scholarlyactivityid": 50663
+        },
+        "234498": {
+            "firstname": "Yasuhiro",
+            "middleinitial": "",
+            "lastname": "Norisue",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 234498,
+            "scholarlyactivityid": 50663
+        },
+        "234499": {
+            "firstname": "Megan",
+            "middleinitial": "",
+            "lastname": "Koster",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111698779",
+            "authorid": 234499,
+            "scholarlyactivityid": 50663
+        },
+        "234500": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 234500,
+            "scholarlyactivityid": 50663
+        },
+        "234501": {
+            "firstname": "Junko",
+            "middleinitial": "",
+            "lastname": "Takada",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 234501,
+            "scholarlyactivityid": 50663
+        },
+        "234502": {
+            "firstname": "Hatsuyo",
+            "middleinitial": "",
+            "lastname": "Ebisu",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 234502,
+            "scholarlyactivityid": 50663
+        }
+    },
+    "status": [
+        {
+            "id": 50663,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 50663,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 50663,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111698779",
+    "attachments": []
+}

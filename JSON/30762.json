@@ -1,0 +1,77 @@
+{
+    "activityid": 30762,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Spherefun",
+        "Book Title": "Chebfun Guide",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "Chapter 17",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "113293": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 113293,
+            "scholarlyactivityid": 30762,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "113294": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Townsend",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113294,
+            "scholarlyactivityid": 30762,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "113295": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Wilber",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113295,
+            "scholarlyactivityid": 30762,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30762,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

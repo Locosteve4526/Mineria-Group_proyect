@@ -1,0 +1,78 @@
+{
+    "activityid": 65008,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "&lt;span style=&quot;font-size:12pt;&quot;&gt;BSU #266; Rigid Linkers to Promote J-Packing and Enhance k&lt;sub&gt;r&lt;/sub&gt;&lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Patent Nationality": "United States",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643701",
+    "coauthors": {
+        "301916": {
+            "firstname": "Bill",
+            "middleinitial": "",
+            "lastname": "Knowlton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643701",
+            "authorid": 301916,
+            "scholarlyactivityid": 65008,
+            "classifications": {
+                "Role": "Other Contributor"
+            }
+        },
+        "301917": {
+            "firstname": "Olga",
+            "middleinitial": "",
+            "lastname": "Mass",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301917,
+            "scholarlyactivityid": 65008,
+            "classifications": {
+                "Role": "Inventor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 65008,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 65008,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 65008,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111643701",
+    "attachments": []
+}

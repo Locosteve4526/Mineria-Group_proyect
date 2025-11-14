@@ -1,0 +1,123 @@
+{
+    "activityid": 57684,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Governing Model of Electromagnetic Alteration of Hydraulic Conductivity of Clay",
+        "Journal": "Journal of Geotechnics",
+        "Volume": "3",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "561-583",
+        "Publisher": "",
+        "DOI": "10.20944/preprints202306.0687.v1",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Electromagnetic (EM) waves, used for purposes such as geophysical characterization, impact properties to be measured. This paper describes the effects of radio frequency (RF) waves on the hydraulic conductivity of glass beads and natural sand. A series of tests were conducted using a customized, rigid-wall, cylindrical permeameter inside a resonant cavity made of Plexiglas covered with electrically conductive transparent films. Constant-head ASTM-D2434 tests were performed to measure the samples\u2019 hydraulic conductivity. RF stimulation was performed using a magnetically coupled loop antenna at various frequencies and input RF-power levels. The hydraulic conductivity of both natural sand and glass-bead samples increased with RF stimulation. Furthermore, measurement of the electric field component of RF waves was also performed to illustrate the pattern of the electric field, as well as evaluate RF\u2019s impact on the hydraulic conductivity tests. The electric field was numerically simulated and validated against experimentally measured electric fields. A finite-difference numerical model was developed in MATLAB to analyze the seepage flow, which was then validated against the experimental results. An optimization scheme was then used to develop a governing equation for RF\u2019s impact on hydraulic conductivity.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112176072",
+    "coauthors": {
+        "322485": {
+            "firstname": "Holly",
+            "middleinitial": "",
+            "lastname": "Gunderson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 322485,
+            "scholarlyactivityid": 57684,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "322486": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 322486,
+            "scholarlyactivityid": 57684,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "322487": {
+            "firstname": "Pierrette",
+            "middleinitial": "",
+            "lastname": "Iradukunda",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 322487,
+            "scholarlyactivityid": 57684,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "322488": {
+            "firstname": "Sahba",
+            "middleinitial": "",
+            "lastname": "Azad",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 322488,
+            "scholarlyactivityid": 57684,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "322489": {
+            "firstname": "Jimmy",
+            "middleinitial": "Jay",
+            "lastname": "Browning",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112088556",
+            "authorid": 322489,
+            "scholarlyactivityid": 57684,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "322490": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 322490,
+            "scholarlyactivityid": 57684,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57684,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 57684,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "112176072",
+    "attachments": []
+}

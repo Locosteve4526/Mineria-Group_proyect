@@ -1,0 +1,58 @@
+{
+    "activityid": 64753,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Managerial Ability and Financial Statement Comparability",
+        "Conference/Meeting Name": "Mountain Plains Business Conference",
+        "Conference Location": "Kearney, NE",
+        "Date or Date Range": "10/14/2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126866",
+    "coauthors": {
+        "299943": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Bjornsen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 299943,
+            "scholarlyactivityid": 64753,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "299944": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Stallings",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126866",
+            "authorid": 299944,
+            "scholarlyactivityid": 64753,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64753,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114126866",
+    "attachments": []
+}

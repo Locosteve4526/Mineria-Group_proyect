@@ -1,0 +1,62 @@
+{
+    "activityid": 31682,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Injective labeled oriented trees are aspherical",
+        "Journal": "Mathematische Zeitschrift",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "DOI 10.1007/s00209-016-1823-6",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112135119",
+    "coauthors": {
+        "119786": {
+            "firstname": "Jens",
+            "middleinitial": "",
+            "lastname": "Harlander",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112135119",
+            "authorid": 119786,
+            "scholarlyactivityid": 31682,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119787": {
+            "firstname": "Stephan",
+            "middleinitial": "",
+            "lastname": "Rosebrock",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119787,
+            "scholarlyactivityid": 31682,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31682,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112135119",
+    "attachments": []
+}

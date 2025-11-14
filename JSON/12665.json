@@ -1,0 +1,62 @@
+{
+    "activityid": 12665,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Navigating CACREP Program Evaluation: Let's Use a Logic Model",
+        "Conference/Meeting Name": "RMACES",
+        "Conference Location": "Grant Teton National Park, WY",
+        "Date or Date Range": "2014-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "RMACES",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111726552",
+    "coauthors": {
+        "57216": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Doumas",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111726552",
+            "authorid": 57216,
+            "scholarlyactivityid": 12665
+        },
+        "57217": {
+            "firstname": "Robin",
+            "middleinitial": "",
+            "lastname": "Hausheer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 57217,
+            "scholarlyactivityid": 12665
+        },
+        "57218": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Esp",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111336395",
+            "authorid": 57218,
+            "scholarlyactivityid": 12665
+        }
+    },
+    "status": [
+        {
+            "id": 12665,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111726552",
+    "attachments": []
+}

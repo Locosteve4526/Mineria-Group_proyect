@@ -1,0 +1,76 @@
+{
+    "activityid": 30030,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Issues in evaluating special education teachers: Challenges and current perspectives",
+        "Journal": "Texas Education Review",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "108031": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 108031,
+            "scholarlyactivityid": 30030
+        },
+        "108030": {
+            "firstname": "Angela",
+            "middleinitial": "",
+            "lastname": "Crawford",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 108030,
+            "scholarlyactivityid": 30030
+        },
+        "108029": {
+            "firstname": "Laura",
+            "middleinitial": "A",
+            "lastname": "Moylan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 108029,
+            "scholarlyactivityid": 30030
+        },
+        "108028": {
+            "firstname": "Jeremy",
+            "middleinitial": "W",
+            "lastname": "Ford",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114046499",
+            "authorid": 108028,
+            "scholarlyactivityid": 30030
+        }
+    },
+    "status": [
+        {
+            "id": 30030,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

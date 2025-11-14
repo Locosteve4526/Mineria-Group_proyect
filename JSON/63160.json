@@ -1,0 +1,97 @@
+{
+    "activityid": 63160,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:10.5pt;color:#727272;&quot;&gt;Generalized moving least squares vs. radial basis function finite difference methods for approximating surface derivatives&lt;/span&gt;",
+        "Journal": "Comput. Math. Appl.",
+        "Volume": "147",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "1-13",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1016/j.camwa.2023.07.015",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "318031": {
+            "firstname": "Andrew",
+            "middleinitial": "M",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318031,
+            "scholarlyactivityid": 63160,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318032": {
+            "firstname": "Peter",
+            "middleinitial": "A",
+            "lastname": "Bosler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318032,
+            "scholarlyactivityid": 63160,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318033": {
+            "firstname": "Paul",
+            "middleinitial": "A",
+            "lastname": "Kuberry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318033,
+            "scholarlyactivityid": 63160,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318034": {
+            "firstname": "Grady",
+            "middleinitial": "B",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 318034,
+            "scholarlyactivityid": 63160,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63160,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 63160,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

@@ -1,0 +1,84 @@
+{
+    "activityid": 34807,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Development of Graduate Student Professional Identity Through Teaching",
+        "Journal": "American Journal of Physics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112051767",
+    "coauthors": {
+        "177992": {
+            "firstname": "Julianne",
+            "middleinitial": "",
+            "lastname": "Wenner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046498",
+            "authorid": 177992,
+            "scholarlyactivityid": 34807,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "177993": {
+            "firstname": "Megan",
+            "middleinitial": "",
+            "lastname": "Frary",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112051767",
+            "authorid": 177993,
+            "scholarlyactivityid": 34807,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "177994": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Simmonds",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114029918",
+            "authorid": 177994,
+            "scholarlyactivityid": 34807,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34807,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 34807,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112051767",
+    "attachments": []
+}

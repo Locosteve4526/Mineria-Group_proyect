@@ -1,0 +1,45 @@
+{
+    "activityid": 34519,
+    "fields": {
+        "Type": "Book",
+        "Title": "TBA",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "The Song Cave",
+        "Publisher Location": "Brooklyn, New York",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Chapbook of poems accepted for publication by New York Press.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "140006": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 140006,
+            "scholarlyactivityid": 34519
+        }
+    },
+    "status": [
+        {
+            "id": 34519,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 20014,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Successful multi-disciplinary collaboration between academics and industry: Research on the process",
+        "Conference/Meeting Name": "AofM Annual Conference",
+        "Conference Location": "Boston, MA",
+        "Date or Date Range": "1997-12-31",
+        "Actual/Projected Year of Publication/Presentation": 1997,
+        "Sponsoring Organization": "Academy of Management",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113079943",
+    "coauthors": {
+        "73611": {
+            "firstname": "Sara",
+            "middleinitial": "L",
+            "lastname": "Rynes",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 73611,
+            "scholarlyactivityid": 20014
+        },
+        "73612": {
+            "firstname": " Donald Brian",
+            "middleinitial": "",
+            "lastname": "McNatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 73612,
+            "scholarlyactivityid": 20014
+        },
+        "73613": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Bretz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 73613,
+            "scholarlyactivityid": 20014
+        }
+    },
+    "status": [
+        {
+            "id": 20014,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1997,
+            "termid": "1997/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113079943",
+    "attachments": []
+}

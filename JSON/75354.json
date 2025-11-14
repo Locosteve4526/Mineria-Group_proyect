@@ -1,0 +1,68 @@
+{
+    "activityid": 75354,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Oxygen and hydrogen isotope compositions in dentine collagen correlate strongly with oxygen isotope compositions of enamel carbonate&lt;/p&gt;",
+        "Journal": "Geochimica et Cosmochimica Acta",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114175877",
+    "coauthors": {
+        "354242": {
+            "firstname": "Linda",
+            "middleinitial": "M.",
+            "lastname": "Reynard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114175877",
+            "authorid": 354242,
+            "scholarlyactivityid": 75354,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "354243": {
+            "firstname": "Matt",
+            "middleinitial": "J",
+            "lastname": "Kohn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112110324",
+            "authorid": 354243,
+            "scholarlyactivityid": 75354
+        }
+    },
+    "status": [
+        {
+            "id": 75354,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2025,
+            "termid": "2025/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 75354,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114175877",
+    "attachments": []
+}

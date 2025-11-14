@@ -1,0 +1,92 @@
+{
+    "activityid": 12603,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Time Distribution of Faculty Workload at Boise State University",
+        "Conference / Meeting Name": "Boise State Undergraduate Research Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2014-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113160599",
+    "coauthors": {
+        "57101": {
+            "firstname": "Allyanna",
+            "middleinitial": "",
+            "lastname": "Wintermote",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 57101,
+            "scholarlyactivityid": 12603
+        },
+        "57102": {
+            "firstname": "Katie",
+            "middleinitial": "",
+            "lastname": "Meinhardt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 57102,
+            "scholarlyactivityid": 12603
+        },
+        "57103": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Ziker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111715805",
+            "authorid": 57103,
+            "scholarlyactivityid": 12603
+        },
+        "57104": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Nolin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113160606",
+            "authorid": 57104,
+            "scholarlyactivityid": 12603
+        },
+        "57105": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Demps",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113160599",
+            "authorid": 57105,
+            "scholarlyactivityid": 12603
+        },
+        "57106": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Genuchi",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113107763",
+            "authorid": 57106,
+            "scholarlyactivityid": 12603
+        }
+    },
+    "status": [
+        {
+            "id": 12603,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113160599",
+    "attachments": []
+}

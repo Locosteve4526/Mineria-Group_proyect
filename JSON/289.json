@@ -1,0 +1,65 @@
+{
+    "activityid": 289,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Relationship Between Equity Dependence and Environmental Performance",
+        "Journal": "Journal of Leadership, Accountability and Ethics",
+        "Volume": "10",
+        "Month / Season": "2013-05-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "35",
+        "Publisher": "North American Business Press",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643320",
+    "coauthors": {
+        "128442": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "MacDonald",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643320",
+            "authorid": 128442,
+            "scholarlyactivityid": 289
+        },
+        "128443": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Maher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110321",
+            "authorid": 128443,
+            "scholarlyactivityid": 289
+        }
+    },
+    "status": [
+        {
+            "id": 289,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 289,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643320",
+    "attachments": []
+}

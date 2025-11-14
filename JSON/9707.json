@@ -1,0 +1,61 @@
+{
+    "activityid": 9707,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Artist Perspective: Lessons on Economic and Workforce Development",
+        "Conference/Meeting Name": "Idaho Chapter of the American Planning Association",
+        "Conference Location": "",
+        "Date or Date Range": "2014-08-01",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111669985",
+    "coauthors": {
+        "51215": {
+            "firstname": "Amanda",
+            "middleinitial": "G.",
+            "lastname": "Ashley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113116029",
+            "authorid": 51215,
+            "scholarlyactivityid": 9707
+        },
+        "51216": {
+            "firstname": "Leslie",
+            "middleinitial": "A",
+            "lastname": "Durham",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669985",
+            "authorid": 51216,
+            "scholarlyactivityid": 9707
+        }
+    },
+    "status": [
+        {
+            "id": 9707,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9707,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111669985",
+    "attachments": []
+}

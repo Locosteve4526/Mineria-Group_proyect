@@ -1,0 +1,119 @@
+{
+    "activityid": 72829,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Towards a General Recipe for Combinatorial Optimization with Multi-Filter GNNs",
+        "Name of Conference": "Learning on Graphs Conference (LoG)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;Graph neural networks (GNNs) have achieved great success for a variety of tasks such as node classification, graph classification, and link prediction. However, the use of GNNs (and machine learning more generally) to solve combinatorial optimization (CO) problems is much less explored. Here, we introduce a novel GNN architecture which leverages a complex filter bank and localized attention mechanisms designed to solve CO problems on graphs. We show how our method differentiates itself from prior GNN-based CO solvers and how it can be effectively applied to the maximum clique, minimum dominating set, and maximum cut problems in a self-supervised learning setting. In addition to demonstrating competitive overall performance across all tasks, we establish state-of-the-art results for the max cut problem.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114253049",
+    "coauthors": {
+        "331215": {
+            "firstname": "Frederik",
+            "middleinitial": "",
+            "lastname": "Wenkel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331215,
+            "scholarlyactivityid": 72829,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331216": {
+            "firstname": "Semih",
+            "middleinitial": "",
+            "lastname": "Canturk",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331216,
+            "scholarlyactivityid": 72829,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331217": {
+            "firstname": "Stefan",
+            "middleinitial": "",
+            "lastname": "Horoi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331217,
+            "scholarlyactivityid": 72829,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331218": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Perlmutter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114253049",
+            "authorid": 331218,
+            "scholarlyactivityid": 72829,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331219": {
+            "firstname": "Guy",
+            "middleinitial": "",
+            "lastname": "Wolf",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331219,
+            "scholarlyactivityid": 72829,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 72829,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 72829,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114253049",
+    "attachments": [
+        {
+            "attachmentid": 55870,
+            "mimetype": "application/pdf",
+            "filename": "14249_towards_a_general_gnn_framewor (1).pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWhWcTBXY1RCaTQrbkFnMm5NUHp1Z2Flb2ZabStYUzNDY2g4NHZBVk5Md1ltTHNzekNZem1oOTdxd2FlejRCOEh0TlJsUlY1NzFwQ2NZaHNSVWdLSk12UUZydllHS21TT2ZMRk4rWGplVzJvPQ%3D%3D",
+            "filesize": 512036
+        }
+    ]
+}

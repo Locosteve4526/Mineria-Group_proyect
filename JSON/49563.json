@@ -1,0 +1,84 @@
+{
+    "activityid": 49563,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Academic careers: There are no bad questions",
+        "Conference/Meeting Name": "MIdwestern Association of Criminal Justice",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "September",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112002659",
+    "coauthors": {
+        "230311": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Matusiak",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 230311,
+            "scholarlyactivityid": 49563,
+            "classifications": {
+                "Role": "Discussant"
+            }
+        },
+        "230312": {
+            "firstname": "Lisa",
+            "middleinitial": "Marie",
+            "lastname": "Growette Bostaph",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112002659",
+            "authorid": 230312,
+            "scholarlyactivityid": 49563,
+            "classifications": {
+                "Role": "Discussant"
+            }
+        },
+        "230313": {
+            "firstname": "Alicia",
+            "middleinitial": "",
+            "lastname": "Jurek",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 230313,
+            "scholarlyactivityid": 49563,
+            "classifications": {
+                "Role": "Discussant"
+            }
+        },
+        "230314": {
+            "firstname": "Andrea",
+            "middleinitial": "",
+            "lastname": "Krieg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 230314,
+            "scholarlyactivityid": 49563,
+            "classifications": {
+                "Role": "Discussant"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 49563,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112002659",
+    "attachments": []
+}

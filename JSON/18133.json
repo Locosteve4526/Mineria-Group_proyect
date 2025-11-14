@@ -1,0 +1,52 @@
+{
+    "activityid": 18133,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Promoting student engagement in the general education classroom: A how-to guide",
+        "Conference/Meeting Name": "Association of General and Liberal Studies Annual Conference",
+        "Conference Location": "Milwaukee, WI",
+        "Date or Date Range": "2016-09-25",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Association of General and Liberal Studies",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113122305",
+    "coauthors": {
+        "69769": {
+            "firstname": "Cory",
+            "middleinitial": "",
+            "lastname": "Lock",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 69769,
+            "scholarlyactivityid": 18133
+        },
+        "69770": {
+            "firstname": "Vicki",
+            "middleinitial": "",
+            "lastname": "Stieha",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113122305",
+            "authorid": 69770,
+            "scholarlyactivityid": 18133
+        }
+    },
+    "status": [
+        {
+            "id": 18133,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113122305",
+    "attachments": []
+}

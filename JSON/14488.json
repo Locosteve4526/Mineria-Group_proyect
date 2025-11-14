@@ -1,0 +1,52 @@
+{
+    "activityid": 14488,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Multi Patient Simulation",
+        "Conference / Meeting Name": "Great Ideas Poster Session",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2015-01-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Center for Teaching and Learning",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111663502",
+    "coauthors": {
+        "61660": {
+            "firstname": "Jayne",
+            "middleinitial": "",
+            "lastname": "Josephsen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111663502",
+            "authorid": 61660,
+            "scholarlyactivityid": 14488
+        },
+        "61661": {
+            "firstname": "Ann",
+            "middleinitial": "",
+            "lastname": "Butt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112107470",
+            "authorid": 61661,
+            "scholarlyactivityid": 14488
+        }
+    },
+    "status": [
+        {
+            "id": 14488,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111663502",
+    "attachments": []
+}

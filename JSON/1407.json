@@ -1,0 +1,62 @@
+{
+    "activityid": 1407,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Advancing the academic transition to ICD-10-CM/PCS",
+        "Journal": "Journal of AHIMA",
+        "Volume": "81",
+        "Month / Season": "2010-06-30",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "62-66",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "88263": {
+            "firstname": "",
+            "middleinitial": "",
+            "lastname": "ICD-10-CM/PCS Academic Transition Workgroup",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 88263,
+            "scholarlyactivityid": 1407,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "88264": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 88264,
+            "scholarlyactivityid": 1407,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 1407,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

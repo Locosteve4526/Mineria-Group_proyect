@@ -1,0 +1,80 @@
+{
+    "activityid": 49601,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&quot;Extinction in the Americas\u201d Forum ",
+        "Journal": "Environmental History",
+        "Volume": "",
+        "Month / Season": "April ",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113144224",
+    "coauthors": {
+        "268328": {
+            "firstname": "Emily",
+            "middleinitial": "",
+            "lastname": "Wakild",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113144224",
+            "authorid": 268328,
+            "scholarlyactivityid": 49601,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "268329": {
+            "firstname": "Germ\u00e1n",
+            "middleinitial": "",
+            "lastname": "Vergara",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268329,
+            "scholarlyactivityid": 49601,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 49601,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 49601,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 49601,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113144224",
+    "attachments": []
+}

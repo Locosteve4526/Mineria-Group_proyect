@@ -1,0 +1,63 @@
+{
+    "activityid": 29293,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Exploring Active Learning Methodologies for Language Learners in the Scientific Curriculum",
+        "Name of Conference": "Education and New Developments",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "168-171",
+        "Publisher": "World Institute for Advanced Research and Science",
+        "Publisher Location": "Lisbon, Portugal",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "101848": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 101848,
+            "scholarlyactivityid": 29293,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "101849": {
+            "firstname": "Melissa",
+            "middleinitial": "D",
+            "lastname": "Caspary",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 101849,
+            "scholarlyactivityid": 29293,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29293,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

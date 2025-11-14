@@ -1,0 +1,58 @@
+{
+    "activityid": 54010,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Supporting graduate students through acute stressors",
+        "Conference/Meeting Name": "GradWell Faculty Connections",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114060624",
+    "coauthors": {
+        "252888": {
+            "firstname": "Kelly",
+            "middleinitial": "R",
+            "lastname": "Rossetto",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060624",
+            "authorid": 252888,
+            "scholarlyactivityid": 54010,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "252889": {
+            "firstname": "Brette",
+            "middleinitial": "",
+            "lastname": "Stephenson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252889,
+            "scholarlyactivityid": 54010,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54010,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114060624",
+    "attachments": []
+}

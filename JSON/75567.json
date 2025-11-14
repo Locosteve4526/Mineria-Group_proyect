@@ -1,0 +1,58 @@
+{
+    "activityid": 75567,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;Gender differences in older\u00a0&lt;/span&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;adult exercise program attraction and adherence\u00a0&lt;/span&gt;&lt;/p&gt;",
+        "Conference/Meeting Name": "Rocky Mountain Psychological Association",
+        "Conference Location": "Denver, CO",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112014101",
+    "coauthors": {
+        "335260": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Copple",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 335260,
+            "scholarlyactivityid": 75567,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "335261": {
+            "firstname": "Mary",
+            "middleinitial": "E",
+            "lastname": "Pritchard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112014101",
+            "authorid": 335261,
+            "scholarlyactivityid": 75567,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75567,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112014101",
+    "attachments": []
+}

@@ -1,0 +1,105 @@
+{
+    "activityid": 3062,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Fearscapes: mapping functional properties of cover for prey with terrestrial LiDAR",
+        "Journal": "BioScience",
+        "Volume": "65",
+        "Month / Season": "2014-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "74-80",
+        "Publisher": "",
+        "DOI": "doi: 10.1093/biosci/biu189",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114003223",
+    "coauthors": {
+        "123888": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Olsoy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123888,
+            "scholarlyactivityid": 3062
+        },
+        "123889": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Forbey",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112172788",
+            "authorid": 123889,
+            "scholarlyactivityid": 3062
+        },
+        "123890": {
+            "firstname": "Janet",
+            "middleinitial": "",
+            "lastname": "Rachlow",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123890,
+            "scholarlyactivityid": 3062
+        },
+        "123891": {
+            "firstname": "Jordon",
+            "middleinitial": "",
+            "lastname": "Nobler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123891,
+            "scholarlyactivityid": 3062
+        },
+        "123892": {
+            "firstname": "Nancy",
+            "middleinitial": "",
+            "lastname": "Glenn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003223",
+            "authorid": 123892,
+            "scholarlyactivityid": 3062
+        },
+        "123893": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Shipley",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123893,
+            "scholarlyactivityid": 3062
+        }
+    },
+    "status": [
+        {
+            "id": 3062,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 3062,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114003223",
+    "attachments": []
+}

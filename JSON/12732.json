@@ -1,0 +1,62 @@
+{
+    "activityid": 12732,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Media exposure and  grade point average. ",
+        "Conference/Meeting Name": "Idaho Counselor Association",
+        "Conference Location": "",
+        "Date or Date Range": "2008-01-31",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111726552",
+    "coauthors": {
+        "57422": {
+            "firstname": "C.",
+            "middleinitial": "",
+            "lastname": "Groth-Landis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 57422,
+            "scholarlyactivityid": 12732
+        },
+        "57423": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Lunstrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 57423,
+            "scholarlyactivityid": 12732
+        },
+        "57424": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Doumas",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111726552",
+            "authorid": 57424,
+            "scholarlyactivityid": 12732
+        }
+    },
+    "status": [
+        {
+            "id": 12732,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111726552",
+    "attachments": []
+}

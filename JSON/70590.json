@@ -1,0 +1,63 @@
+{
+    "activityid": 70590,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:10pt;color:#000000;background-color:transparent;font-weight:400;font-style:italic;text-decoration:none;&quot;&gt;Empathy is Unrelated to Implicit Bias Toward Muslims &lt;/span&gt;",
+        "Name of Conference": "",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112062187",
+    "coauthors": {
+        "319681": {
+            "firstname": "Danielle",
+            "middleinitial": "",
+            "lastname": "Louie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319681,
+            "scholarlyactivityid": 70590,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "319682": {
+            "firstname": "Cindy",
+            "middleinitial": "",
+            "lastname": "McCrea",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112062187",
+            "authorid": 319682,
+            "scholarlyactivityid": 70590,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70590,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112062187",
+    "attachments": []
+}

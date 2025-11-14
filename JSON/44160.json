@@ -1,0 +1,84 @@
+{
+    "activityid": 44160,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Connecting Nonprofits with Boise State University",
+        "Conference/Meeting Name": "Boise Metro Chamber of Commerce: Nonprofit Council",
+        "Conference Location": "Boise",
+        "Date or Date Range": "12/19",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110020",
+    "coauthors": {
+        "200030": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Evans",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200030,
+            "scholarlyactivityid": 44160,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "200031": {
+            "firstname": "Caile",
+            "middleinitial": "E",
+            "lastname": "Spear",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110020",
+            "authorid": 200031,
+            "scholarlyactivityid": 44160,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "200032": {
+            "firstname": "Lonnie",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200032,
+            "scholarlyactivityid": 44160,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "200033": {
+            "firstname": "Henry",
+            "middleinitial": "",
+            "lastname": "Ebert",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200033,
+            "scholarlyactivityid": 44160,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44160,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110020",
+    "attachments": []
+}

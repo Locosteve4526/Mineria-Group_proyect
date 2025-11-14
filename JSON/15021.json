@@ -1,0 +1,62 @@
+{
+    "activityid": 15021,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Your questions (and our answers) about graduate school admissions: Three heads ARE better than one.",
+        "Conference/Meeting Name": "Psi Chi symposium presented at the Midwestern Psychological Association annual meeting, Chicago, IL",
+        "Conference Location": "Psi Chi symposium presented at the Midwestern Psychological Association annual meeting, Chicago, IL",
+        "Date or Date Range": "2012-05-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "Psi Chi symposium presented at the Midwestern Psychological Association annual meeting, Chicago, IL",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "62882": {
+            "firstname": "Mitch",
+            "middleinitial": "",
+            "lastname": "Handelsman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62882,
+            "scholarlyactivityid": 15021
+        },
+        "62883": {
+            "firstname": "Scott ",
+            "middleinitial": "",
+            "lastname": "VanderStoep",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62883,
+            "scholarlyactivityid": 15021
+        },
+        "62884": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 62884,
+            "scholarlyactivityid": 15021
+        }
+    },
+    "status": [
+        {
+            "id": 15021,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

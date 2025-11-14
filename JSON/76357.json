@@ -1,0 +1,106 @@
+{
+    "activityid": 76357,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;&lt;span style=&quot;color:#222222;font-size:12px;&quot;&gt;Academic Research in the Classroom: Risk Disclosures and Audit Committees&lt;/span&gt;&lt;/p&gt;",
+        "Journal": "Issues in Accounting Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "352978": {
+            "firstname": "Cristina",
+            "middleinitial": "",
+            "lastname": "Bailey",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352978,
+            "scholarlyactivityid": 76357,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352979": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 352979,
+            "scholarlyactivityid": 76357,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352980": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Shonka McCoy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352980,
+            "scholarlyactivityid": 76357,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352981": {
+            "firstname": "Matias",
+            "middleinitial": "",
+            "lastname": "Sokolowski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352981,
+            "scholarlyactivityid": 76357,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76357,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2025,
+            "termid": "2025/01",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 76357,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 76357,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

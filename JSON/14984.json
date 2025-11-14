@@ -1,0 +1,52 @@
+{
+    "activityid": 14984,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "APA writing project",
+        "Conference / Meeting Name": "Boise State University Undergraduate Research and Scholarship conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2013-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "62748": {
+            "firstname": "Charlotte",
+            "middleinitial": "",
+            "lastname": "Tomevi",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62748,
+            "scholarlyactivityid": 14984
+        },
+        "62749": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 62749,
+            "scholarlyactivityid": 14984
+        }
+    },
+    "status": [
+        {
+            "id": 14984,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

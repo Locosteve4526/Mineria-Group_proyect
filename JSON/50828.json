@@ -1,0 +1,88 @@
+{
+    "activityid": 50828,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "What is the State of K-12 Energy Education in Idaho? ",
+        "Journal": "Blue Review",
+        "Volume": "",
+        "Month / Season": "Jan",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "Boise State",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.boisestate.edu/bluereview/what-is-the-state-of-k-12-energy-education-in-idaho/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114107930",
+    "coauthors": {
+        "254247": {
+            "firstname": "Cassie",
+            "middleinitial": "",
+            "lastname": "Koerner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254247,
+            "scholarlyactivityid": 50828,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "254248": {
+            "firstname": "Kathleen",
+            "middleinitial": "M",
+            "lastname": "Araujo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114107930",
+            "authorid": 254248,
+            "scholarlyactivityid": 50828,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "254249": {
+            "firstname": "Tais",
+            "middleinitial": "",
+            "lastname": "Mitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254249,
+            "scholarlyactivityid": 50828,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "254250": {
+            "firstname": "Hadyn",
+            "middleinitial": "",
+            "lastname": "Bryan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254250,
+            "scholarlyactivityid": 50828,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 50828,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114107930",
+    "attachments": []
+}

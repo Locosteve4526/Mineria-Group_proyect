@@ -1,0 +1,52 @@
+{
+    "activityid": 17411,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Understanding student characteristics when selecting online vs. face-to face course delivery.",
+        "Conference / Meeting Name": "Council on Social Work Education",
+        "Conference Location": "Washington DC",
+        "Date or Date Range": "2012-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114046497",
+    "coauthors": {
+        "68375": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Richardson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68375,
+            "scholarlyactivityid": 17411
+        },
+        "68376": {
+            "firstname": "Carl",
+            "middleinitial": "",
+            "lastname": "Siebert",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114046497",
+            "authorid": 68376,
+            "scholarlyactivityid": 17411
+        }
+    },
+    "status": [
+        {
+            "id": 17411,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114046497",
+    "attachments": []
+}

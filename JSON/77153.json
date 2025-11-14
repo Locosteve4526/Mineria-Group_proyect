@@ -1,0 +1,84 @@
+{
+    "activityid": 77153,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Blood lactate: Friend, foe, or fuel? Improving our understanding of a misunderstood substance",
+        "Journal": "ACSM Health and Fitness Journal",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "344231": {
+            "firstname": "B",
+            "middleinitial": "R",
+            "lastname": "Rider",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344231,
+            "scholarlyactivityid": 77153,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "344232": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 344232,
+            "scholarlyactivityid": 77153,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "344233": {
+            "firstname": "A",
+            "middleinitial": "HK",
+            "lastname": "Montoye",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344233,
+            "scholarlyactivityid": 77153,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77153,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 77153,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

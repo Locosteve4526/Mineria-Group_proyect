@@ -1,0 +1,97 @@
+{
+    "activityid": 69406,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Mapping infrasound emissions for tracking fire activity",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001444",
+    "coauthors": {
+        "313158": {
+            "firstname": "Jacob",
+            "middleinitial": "F",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001444",
+            "authorid": 313158,
+            "scholarlyactivityid": 69406,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313159": {
+            "firstname": "Madeline",
+            "middleinitial": "A",
+            "lastname": "Hunt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313159,
+            "scholarlyactivityid": 69406,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313160": {
+            "firstname": "Kara",
+            "middleinitial": "",
+            "lastname": "Yedinak",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313160,
+            "scholarlyactivityid": 69406,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313161": {
+            "firstname": "Jeffrey",
+            "middleinitial": "B",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 313161,
+            "scholarlyactivityid": 69406,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69406,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 69406,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114001444",
+    "attachments": []
+}

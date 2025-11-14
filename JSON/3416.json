@@ -1,0 +1,56 @@
+{
+    "activityid": 3416,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Information gain of the relevant-irrelevant test",
+        "Journal": "Polygraph",
+        "Volume": "43",
+        "Month / Season": "2014-10-12",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "137-147",
+        "Publisher": "American Polygraph Association",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We adapted the Information Gain (IG) analysis procedures described by Honts and Schweinle (2009) to the Relevant \u2013 Irrelevant technique (RIT) using data from Krapohl &amp; Rosales (2014). The RIT is used in a number of screening settings, including public safety applicant screening and security screening for U.S. Federal employees (Honts &amp; Amato, 2007). IG provides an index of the increase in information gained by using a test result over predicting the base rate of the target event. We found that deceptive outcomes from the RIT examinations in Krapohl &amp; Rosales (2013) failed to provide a significant increase in IG over unassisted professional lie catchers across the complete range of base rates of deception. For truthful outcomes IG peaked at 0.268 at a base rate of deception of 0.63. For truthful results, there was a significant (1-tailed, p &lt; .05) increase in IG over unassisted professionals for base rates ranging from 0.12 through 0.98 inclusive. In comparison to available alternatives, such as the Directed Lie Screening Test (Handler, Honts, &amp; Nelson, 2013), the RIT provides markedly inferior performance across the range of base rates with both truthful and deceptive outcomes.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110183",
+    "coauthors": {
+        "9920": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Honts",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110183",
+            "authorid": 9920,
+            "scholarlyactivityid": 3416
+        },
+        "9921": {
+            "firstname": "Mark ",
+            "middleinitial": "",
+            "lastname": "Handler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9921,
+            "scholarlyactivityid": 3416
+        }
+    },
+    "status": [
+        {
+            "id": 3416,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110183",
+    "attachments": []
+}

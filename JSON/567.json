@@ -1,0 +1,56 @@
+{
+    "activityid": 567,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Live case options for human resource management classes.  ",
+        "Journal": "Western Journal of Human Resource Management",
+        "Volume": "",
+        "Month / Season": "2008-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.blurb.com/bookstore/invited/388849/d3ef72c2b657a3e92fd306fb3a75a903",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "1429": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 1429,
+            "scholarlyactivityid": 567
+        },
+        "1430": {
+            "firstname": "Nancy",
+            "middleinitial": "",
+            "lastname": "Bodie",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110262",
+            "authorid": 1430,
+            "scholarlyactivityid": 567
+        }
+    },
+    "status": [
+        {
+            "id": 567,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

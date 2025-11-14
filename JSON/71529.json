@@ -1,0 +1,77 @@
+{
+    "activityid": 71529,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Conversational Agents and Children: Let Children Learn",
+        "Name of Conference": null,
+        "Month / Season": "feb",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": null,
+        "Publisher": null,
+        "Publisher Location": null,
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114058343",
+    "coauthors": {
+        "325489": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325489,
+            "scholarlyactivityid": 71529
+        },
+        "325490": {
+            "firstname": "Jerry",
+            "middleinitial": "",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325490,
+            "scholarlyactivityid": 71529
+        },
+        "325491": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325491,
+            "scholarlyactivityid": 71529
+        },
+        "325492": {
+            "firstname": "Maria",
+            "middleinitial": "",
+            "lastname": "Pera",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325492,
+            "scholarlyactivityid": 71529
+        }
+    },
+    "status": [
+        {
+            "id": 71529,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058343",
+    "attachments": []
+}

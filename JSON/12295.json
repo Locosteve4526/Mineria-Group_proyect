@@ -1,0 +1,52 @@
+{
+    "activityid": 12295,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Transforming learning: Using a multi-user virtual environment for simulation",
+        "Conference/Meeting Name": "The 9th Annual Health Informatics New Zealand Conference",
+        "Conference Location": "Wellington, NZ",
+        "Date or Date Range": "2010-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "56317": {
+            "firstname": "Michelle",
+            "middleinitial": "L",
+            "lastname": "Honey",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56317,
+            "scholarlyactivityid": 12295
+        },
+        "56318": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 56318,
+            "scholarlyactivityid": 12295
+        }
+    },
+    "status": [
+        {
+            "id": 12295,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

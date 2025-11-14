@@ -1,0 +1,51 @@
+{
+    "activityid": 10222,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Abraham Lincoln and Free Labor",
+        "Conference/Meeting Name": "Ada County Lincoln Day Dinner",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2011-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Ada County Lincoln Day",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643642",
+    "coauthors": {
+        "52399": {
+            "firstname": "Scott",
+            "middleinitial": "E",
+            "lastname": "Yenor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643642",
+            "authorid": 52399,
+            "scholarlyactivityid": 10222
+        }
+    },
+    "status": [
+        {
+            "id": 10222,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 10222,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643642",
+    "attachments": []
+}

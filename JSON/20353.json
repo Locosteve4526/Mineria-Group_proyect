@@ -1,0 +1,86 @@
+{
+    "activityid": 20353,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Assessing Mobile Learning Strategies: Meeting Faculty Where They Are",
+        "Name of Conference": "Professional and Organizational Development Network Conference",
+        "Month / Season": "2012-02-18",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "",
+        "Publisher": "Professional and Organizational Development",
+        "Publisher Location": "Seattle WA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "120238": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Lincoln",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110058",
+            "authorid": 120238,
+            "scholarlyactivityid": 20353
+        },
+        "120239": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 120239,
+            "scholarlyactivityid": 20353
+        },
+        "120240": {
+            "firstname": "Susan",
+            "middleinitial": "E",
+            "lastname": "Shadle",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 120240,
+            "scholarlyactivityid": 20353
+        },
+        "120241": {
+            "firstname": "Ross",
+            "middleinitial": "Andrew",
+            "lastname": "Perkins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112180039",
+            "authorid": 120241,
+            "scholarlyactivityid": 20353
+        }
+    },
+    "status": [
+        {
+            "id": 20353,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 20353,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

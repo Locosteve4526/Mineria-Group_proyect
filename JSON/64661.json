@@ -1,0 +1,58 @@
+{
+    "activityid": 64661,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Using cholera toxin chimera for a Staphylococcus aureus vaccine",
+        "Conference / Meeting Name": "INBRE Annual Research Conference",
+        "Conference Location": "Moscow, ID",
+        "Date or Date Range": "August 8, 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "299238": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Walgren",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 299238,
+            "scholarlyactivityid": 64661,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "299239": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 299239,
+            "scholarlyactivityid": 64661,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64661,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

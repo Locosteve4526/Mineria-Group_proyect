@@ -1,0 +1,75 @@
+{
+    "activityid": 59641,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Questions (and answers) about whether to take time off before graduate school. Three heads are better than one",
+        "Journal": "Eye on Psi Chi",
+        "Volume": "25",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "16-17",
+        "Publisher": "Psi Chi",
+        "DOI": "https://doi.org/10.24839/2164-9812.Eye25.4.16 ",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "278708": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Radico",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278708,
+            "scholarlyactivityid": 59641,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278709": {
+            "firstname": "R. Eric",
+            "middleinitial": "",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 278709,
+            "scholarlyactivityid": 59641,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278710": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "VanderStoep",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278710,
+            "scholarlyactivityid": 59641,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59641,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

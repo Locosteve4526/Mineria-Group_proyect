@@ -1,0 +1,66 @@
+{
+    "activityid": 4959,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Promoting student achievement and faculty trust with home learning activities.",
+        "Journal": "Academic Leadership",
+        "Volume": "8",
+        "Month / Season": "2011-06-30",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113158701",
+    "coauthors": {
+        "14951": {
+            "firstname": "Heather",
+            "middleinitial": "A",
+            "lastname": "Bower",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 14951,
+            "scholarlyactivityid": 4959
+        },
+        "14952": {
+            "firstname": "Joelle",
+            "middleinitial": "",
+            "lastname": "Powers",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113158701",
+            "authorid": 14952,
+            "scholarlyactivityid": 4959
+        },
+        "14953": {
+            "firstname": "Laurie",
+            "middleinitial": "",
+            "lastname": "Graham",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 14953,
+            "scholarlyactivityid": 4959
+        }
+    },
+    "status": [
+        {
+            "id": 4959,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113158701",
+    "attachments": []
+}

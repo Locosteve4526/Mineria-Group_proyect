@@ -1,0 +1,76 @@
+{
+    "activityid": 23616,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Edge Noise Removal in Bilevel Graphical Document Images Using Sparse Representation",
+        "Name of Conference": "International Conference on Image Processing",
+        "Month / Season": "2011-09-11",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "3549-3552",
+        "Publisher": "",
+        "Publisher Location": " Brussels, Belgium",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1109/ICIP.2011.6116482",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/186",
+        "Description/Abstract": "A new parametric method for edge noise removal in graphical document  images is presented using geometrical regularities of the graphics  contours that exists in the images. Denoising is understood as a  recovery problem and is done by employing a sparse representation  framework with a basis pursuit denoising algorithm for denoising and  curvelet frames for encoding directional information of the graphics  contours. The optimal precision parameter used in this framework is  shown to have linear relationship with the level of the noise.  Experimental results show the superiority of the proposed method over  existing ones in terms of image recovery and contour raggedness.",
+        "Origin": "Other"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142263": {
+            "firstname": "Thai",
+            "middleinitial": "V.",
+            "lastname": "Hoang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142263,
+            "scholarlyactivityid": 23616,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142264": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142264,
+            "scholarlyactivityid": 23616,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142265": {
+            "firstname": "Salvatore",
+            "middleinitial": "",
+            "lastname": "Tabbone",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142265,
+            "scholarlyactivityid": 23616,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 23616,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

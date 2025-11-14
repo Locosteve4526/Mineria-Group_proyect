@@ -1,0 +1,71 @@
+{
+    "activityid": 54379,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Variance: Secure Two-Party Protocol for Ef\ufb01cient Asset Comparison in Bitcoin",
+        "Name of Conference": "3rd IEEE Blockchain Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "[IEEE Outstanding Paper Award]",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "254927": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Holmes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254927,
+            "scholarlyactivityid": 54379,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "254928": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 254928,
+            "scholarlyactivityid": 54379,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54379,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": [
+        {
+            "attachmentid": 30313,
+            "mimetype": "application/pdf",
+            "filename": "GD_Variance_IEEE_Blockchain_2020.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitiTE5NZSsycy8wS09ZY0kzc2poRG8yUVJpTlZHbU5tRVRpRVpzcEdiVW1EajAzbk5QZlBIa1A2QUg4RkduZWJvVXFJYitBd3I5VHRBPT0%3D",
+            "filesize": 815332
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "activityid": 35414,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "To attend or not to attend: Is that a good question?",
+        "Journal": "Journal of Instructional Psychology",
+        "Volume": "30",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "220-224",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111618272",
+    "coauthors": {
+        "145362": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Clump",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145362,
+            "scholarlyactivityid": 35414
+        },
+        "145363": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Bauer (Witt)",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111618272",
+            "authorid": 145363,
+            "scholarlyactivityid": 35414
+        },
+        "145364": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Whiteleather",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145364,
+            "scholarlyactivityid": 35414
+        }
+    },
+    "status": [
+        {
+            "id": 35414,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2003,
+            "termid": "2002/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111618272",
+    "attachments": []
+}

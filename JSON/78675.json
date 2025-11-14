@@ -1,0 +1,76 @@
+{
+    "activityid": 78675,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Community Resilience",
+        "Book Title": "Journey into College and Career",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114060599",
+    "coauthors": {
+        "351575": {
+            "firstname": "Matthew",
+            "middleinitial": "G.",
+            "lastname": "Isbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060599",
+            "authorid": 351575,
+            "scholarlyactivityid": 78675
+        },
+        "351576": {
+            "firstname": "Michael",
+            "middleinitial": "C",
+            "lastname": "Coker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114227907",
+            "authorid": 351576,
+            "scholarlyactivityid": 78675
+        }
+    },
+    "status": [
+        {
+            "id": 78675,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 78675,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 78675,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114060599",
+    "attachments": []
+}

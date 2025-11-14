@@ -1,0 +1,62 @@
+{
+    "activityid": 62714,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using writing to promote understanding in physical education",
+        "Journal": "Journal of Physical Education, Recreation &amp; Dance",
+        "Volume": "94",
+        "Month / Season": "",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "22-28",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112179883",
+    "coauthors": {
+        "312640": {
+            "firstname": "Roger",
+            "middleinitial": "Heathcot",
+            "lastname": "Munger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669970",
+            "authorid": 312640,
+            "scholarlyactivityid": 62714,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312641": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112179883",
+            "authorid": 312641,
+            "scholarlyactivityid": 62714,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62714,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112179883",
+    "attachments": []
+}

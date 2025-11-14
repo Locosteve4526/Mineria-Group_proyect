@@ -1,0 +1,66 @@
+{
+    "activityid": 31438,
+    "fields": {
+        "Type": "Book",
+        "Title": "Empires of Light: Vision and Power in Colonial India",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Manchester University Press",
+        "Publisher Location": "Manchester",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Author",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112102649",
+    "coauthors": {
+        "219171": {
+            "firstname": "Niharika",
+            "middleinitial": "",
+            "lastname": "Dinkar",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112102649",
+            "authorid": 219171,
+            "scholarlyactivityid": 31438,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31438,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 31438,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 31438,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112102649",
+    "attachments": []
+}

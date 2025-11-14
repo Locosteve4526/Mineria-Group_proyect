@@ -1,0 +1,106 @@
+{
+    "activityid": 71136,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Operationalizing the social capital of collaborative environmental governance with network metrics",
+        "Journal": "Environmental Research Letters",
+        "Volume": "19",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "113003",
+        "Publisher": "",
+        "DOI": "10.1088/1748-9326/ad7bd0",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114136811",
+    "coauthors": {
+        "344603": {
+            "firstname": "Holly",
+            "middleinitial": "K",
+            "lastname": "Nesbitt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344603,
+            "scholarlyactivityid": 71136,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        },
+        "344604": {
+            "firstname": "Nicola",
+            "middleinitial": "",
+            "lastname": "Ulibarri",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344604,
+            "scholarlyactivityid": 71136,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "344605": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Hamilton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344605,
+            "scholarlyactivityid": 71136,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "344606": {
+            "firstname": "Matthew",
+            "middleinitial": "A",
+            "lastname": "Williamson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114136811",
+            "authorid": 344606,
+            "scholarlyactivityid": 71136,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71136,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 71136,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 71136,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114136811",
+    "attachments": []
+}

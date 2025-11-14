@@ -1,0 +1,49 @@
+{
+    "activityid": 27955,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Essentially non-oscillatory stencil selection and subcell resolution in uncertainty quantification.",
+        "Outlet (if applicable)": "",
+        "Date": "2015-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Publisher": " Lect. Notes Comput. Sci. Eng., Springer, Heidelberg",
+        "Location of Publisher (City, State, Country)": " ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper concerns stochastic computational problems and in particular addresses the reliable approximation of discontinuities and the associated uncertainty quantification. The authors extend the essentially non-oscillatory (ENO) type stencil selection and subcell resolution robustness principles from finite volume methods for computational fluid dynamics and apply them in conjunction with the simplex stochastic collocation uncertainty quantification method to achieve a sharp refinement of discontinuities in probability space and a genuinely discontinuous representation of random spacial discontinuities. The authors demonstrate the effectiveness of their approach on various physical problems, including a linear advection problem, a shock tube Riemann problem and the transonic flow over an airfoil.\nExplanation of Other:  Mathematical Reviews",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "87975": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 87975,
+            "scholarlyactivityid": 27955
+        }
+    },
+    "status": [
+        {
+            "id": 27955,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

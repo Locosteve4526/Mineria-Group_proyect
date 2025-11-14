@@ -1,0 +1,91 @@
+{
+    "activityid": 49777,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Research Workshop: Arts and Civic Innovation",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116029",
+    "coauthors": {
+        "231492": {
+            "firstname": "Amanda",
+            "middleinitial": "G.",
+            "lastname": "Ashley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116029",
+            "authorid": 231492,
+            "scholarlyactivityid": 49777,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "231493": {
+            "firstname": "Leslie",
+            "middleinitial": "A",
+            "lastname": "Durham",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669985",
+            "authorid": 231493,
+            "scholarlyactivityid": 49777,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "231494": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Bubb",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 231494,
+            "scholarlyactivityid": 49777,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "231495": {
+            "firstname": "Carolyn",
+            "middleinitial": "",
+            "lastname": "Loh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 231495,
+            "scholarlyactivityid": 49777,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 49777,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116029",
+    "attachments": []
+}

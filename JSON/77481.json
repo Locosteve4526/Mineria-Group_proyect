@@ -1,0 +1,58 @@
+{
+    "activityid": 77481,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Bridging the Gap: Using School Campuses for Scientific Exploration and Language Acquisition",
+        "Conference/Meeting Name": "New Perspectives in Science Education",
+        "Conference Location": "Florence, Italy",
+        "Date or Date Range": "March, 2025",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "Pixel",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "346479": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 346479,
+            "scholarlyactivityid": 77481,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "346480": {
+            "firstname": "Melissa",
+            "middleinitial": "D",
+            "lastname": "Caspary",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346480,
+            "scholarlyactivityid": 77481,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77481,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

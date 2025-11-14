@@ -1,0 +1,63 @@
+{
+    "activityid": 29648,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Embracing New Neurosurgical Metrics and Technologies of the Future",
+        "Name of Conference": "The American Association of Neurological Surgeons 84th Annual Scientific Meeting",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111850",
+    "coauthors": {
+        "104223": {
+            "firstname": "Christian",
+            "middleinitial": "G",
+            "lastname": "Zimmerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 104223,
+            "scholarlyactivityid": 29648,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "104224": {
+            "firstname": "Pennie",
+            "middleinitial": "S",
+            "lastname": "Seibert",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111850",
+            "authorid": 104224,
+            "scholarlyactivityid": 29648,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29648,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111850",
+    "attachments": []
+}

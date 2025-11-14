@@ -1,0 +1,80 @@
+{
+    "activityid": 6509,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A radial basis function method for computing Helmholtz-Hodge decompositions",
+        "Journal": "IMA Journal of Numerical Analysis",
+        "Volume": "37",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "774-797",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1093/imanum/drw027",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "149021": {
+            "firstname": "Edward",
+            "middleinitial": "J",
+            "lastname": "Fuselier",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 149021,
+            "scholarlyactivityid": 6509,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "149022": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 149022,
+            "scholarlyactivityid": 6509,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 6509,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 6509,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 6509,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

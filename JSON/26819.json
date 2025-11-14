@@ -1,0 +1,65 @@
+{
+    "activityid": 26819,
+    "fields": {
+        "Type": "Book",
+        "Title": "Down and Out in Ada County: Coping with the Great Recession 2008-2012",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Boise State University, College of Social Sciences and Public Affairs",
+        "Publisher Location": "Boise",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Larry Burke",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/310",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111111926",
+    "coauthors": {
+        "85723": {
+            "firstname": "Todd",
+            "middleinitial": "A",
+            "lastname": "Shallat",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111926",
+            "authorid": 85723,
+            "scholarlyactivityid": 26819
+        },
+        "85724": {
+            "firstname": "Larry ",
+            "middleinitial": "",
+            "lastname": "Burke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 85724,
+            "scholarlyactivityid": 26819
+        },
+        "85725": {
+            "firstname": "Bethann",
+            "middleinitial": "",
+            "lastname": "Stewart",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 85725,
+            "scholarlyactivityid": 26819
+        }
+    },
+    "status": [
+        {
+            "id": 26819,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111926",
+    "attachments": []
+}

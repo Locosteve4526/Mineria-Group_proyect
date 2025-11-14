@@ -1,0 +1,73 @@
+{
+    "activityid": 68825,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Congressional Letter",
+        "Outlet (if applicable)": "United States Department of Agriculture",
+        "Date": "4/3/2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "I wrote a letter to USDA leadership on behalf of a community partner.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111636450",
+    "coauthors": {
+        "309714": {
+            "firstname": "Jared",
+            "middleinitial": "L",
+            "lastname": "Talley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111636450",
+            "authorid": 309714,
+            "scholarlyactivityid": 68825,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "309715": {
+            "firstname": "Agee",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 309715,
+            "scholarlyactivityid": 68825,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68825,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111636450",
+    "attachments": [
+        {
+            "attachmentid": 49308,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filename": "FS Letter.docx",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25wd1ZKLy9TSmY1Z0hRREdiVjhIVWovYjVIUmZzOGgvZ01mUGVFYUVZWndEYUlFdUpMWXM5VlU%3D",
+            "filesize": 22378
+        }
+    ]
+}

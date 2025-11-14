@@ -1,0 +1,73 @@
+{
+    "activityid": 74101,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Faculty Artists Series Recital - Woodwind Chamber Music",
+        "Name of Performing Group": "",
+        "Date or Date Range": "5 March 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Name of Venue/Sponsor": "",
+        "Venue / Sponsor Location (City, State, Country)": "",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112060963",
+    "coauthors": {
+        "330123": {
+            "firstname": "Rachel",
+            "middleinitial": "N",
+            "lastname": "Becker",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114177349",
+            "authorid": 330123,
+            "scholarlyactivityid": 74101
+        },
+        "330122": {
+            "firstname": "Nicole",
+            "middleinitial": "Lena",
+            "lastname": "Molumby",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112060963",
+            "authorid": 330122,
+            "scholarlyactivityid": 74101
+        },
+        "330121": {
+            "firstname": "Leslie",
+            "middleinitial": "Mae",
+            "lastname": "Moreau",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112145056",
+            "authorid": 330121,
+            "scholarlyactivityid": 74101
+        },
+        "330120": {
+            "firstname": "Chad",
+            "middleinitial": "D",
+            "lastname": "Spears",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114114199",
+            "authorid": 330120,
+            "scholarlyactivityid": 74101
+        }
+    },
+    "status": [
+        {
+            "id": 74101,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112060963",
+    "attachments": []
+}

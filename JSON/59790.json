@@ -1,0 +1,71 @@
+{
+    "activityid": 59790,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Moving toward an integrated model of the father-daughter relationship during adolescence",
+        "Journal": "Family Relations",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1111/fare.12787",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113146329",
+    "coauthors": {
+        "289688": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Blickman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 289688,
+            "scholarlyactivityid": 59790,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "289689": {
+            "firstname": "Cynthia",
+            "middleinitial": "G",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113146329",
+            "authorid": 289689,
+            "scholarlyactivityid": 59790,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59790,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59790,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113146329",
+    "attachments": []
+}

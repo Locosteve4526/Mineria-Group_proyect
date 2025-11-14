@@ -1,0 +1,95 @@
+{
+    "activityid": 67847,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Connecting Incident Reporting Infrastructure to Election Day Proceedings",
+        "Name of Conference": "Computer Security. ESORICS 2022 International Workshops",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "Springer International Publishing",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;Incidents that occur during elections are alarming if not handled properly. Currently, election incident research focuses solely on reporting incidents but not on the response that resolves the incidents. This paper attempts to understand the landscape of election incidents in Idaho in order to propose new methods to solve them. Idaho election incident resolution protocols vary from county to county so, we believe there is a sufficient need to have a framework and tool in place to unify incident reporting and resolutions in Idaho. A survey was distributed to Idaho election administrators to understand current practices and the findings indicated a clear disconnect from reporting, resolving, and general protocols for incidents on election day. The survey responses helped us design the framework for a communication tool to handle election day incidents quickly and efficiently with the intention of limiting the delay in voting.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114025971",
+    "coauthors": {
+        "307626": {
+            "firstname": "Kamryn",
+            "middleinitial": "",
+            "lastname": "Parker",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307626,
+            "scholarlyactivityid": 67847
+        },
+        "307625": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307625,
+            "scholarlyactivityid": 67847
+        },
+        "307624": {
+            "firstname": "Jaclyn",
+            "middleinitial": "",
+            "lastname": "Kettler",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307624,
+            "scholarlyactivityid": 67847
+        },
+        "307623": {
+            "firstname": "Chad",
+            "middleinitial": "",
+            "lastname": "Houck",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307623,
+            "scholarlyactivityid": 67847
+        },
+        "307622": {
+            "firstname": "Jaclyn",
+            "middleinitial": "J",
+            "lastname": "Kettler",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114025971",
+            "authorid": 307622,
+            "scholarlyactivityid": 67847
+        }
+    },
+    "status": [
+        {
+            "id": 67847,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114025971",
+    "attachments": [
+        {
+            "attachmentid": 48383,
+            "mimetype": "application/pdf",
+            "filename": "EIS-paper 8998 (1).pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRithU2htWG5YUkNrdFNoeFhZNlpGYU1QelYrOHdUVExVc0RKbVRjNW83YjljUWFGU21USHY3V01vSWEyWHBUQ0svST0%3D",
+            "filesize": 297199
+        }
+    ]
+}

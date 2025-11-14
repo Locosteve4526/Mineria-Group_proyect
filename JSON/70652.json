@@ -1,0 +1,104 @@
+{
+    "activityid": 70652,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Prevalence of Workplace Violence Against Young Workers in the United States",
+        "Journal": "American Journal of Industrial Medicine",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114136199",
+    "coauthors": {
+        "319943": {
+            "firstname": "Kimberly",
+            "middleinitial": "J",
+            "lastname": "Rauscher",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114136199",
+            "authorid": 319943,
+            "scholarlyactivityid": 70652
+        },
+        "319942": {
+            "firstname": "Carri",
+            "middleinitial": "",
+            "lastname": "Casteel",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319942,
+            "scholarlyactivityid": 70652
+        },
+        "319941": {
+            "firstname": "Jonathan",
+            "middleinitial": "",
+            "lastname": "Davis",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319941,
+            "scholarlyactivityid": 70652
+        },
+        "319940": {
+            "firstname": "Douglas",
+            "middleinitial": "J",
+            "lastname": "Myers",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114136311",
+            "authorid": 319940,
+            "scholarlyactivityid": 70652
+        },
+        "319939": {
+            "firstname": "Corinne",
+            "middleinitial": "",
+            "lastname": "Peek-Asa",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319939,
+            "scholarlyactivityid": 70652
+        }
+    },
+    "status": [
+        {
+            "id": 70652,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 70652,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 70652,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114136199",
+    "attachments": []
+}

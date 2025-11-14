@@ -1,0 +1,63 @@
+{
+    "activityid": 19826,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Effectiveness of client-based projects across two disciplines",
+        "Name of Conference": "Business and Leadership Symposium",
+        "Month / Season": "2009-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": null,
+        "Publisher": "Fort Hays State University",
+        "Publisher Location": "Fort Hays, Kansas",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "134355": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 134355,
+            "scholarlyactivityid": 19826,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "134356": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "McCale",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134356,
+            "scholarlyactivityid": 19826,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19826,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

@@ -1,0 +1,54 @@
+{
+    "activityid": 32456,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Improved model for 3-D virtual concrete: Anm model",
+        "Journal": "Journal of Computing in Civil Engineering",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "04015027",
+        "Publisher": "ASCE",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://ascelibrary.org/doi/abs/10.1061/(ASCE)CP.1943-5487.0000494",
+        "Description/Abstract": "Construction aggregate particles, fine or coarse, can be scanned by X-ray computed tomography and mathematically characterized using spherical harmonic series, and can then be used to simulate random parking of irregular aggregates to form a virtual mortar or concrete using the Anm model. Any other similar composite system of irregular (star-shaped) particles in a matrix can also be simulated. This paper integrates two new algorithms into the Anm model. The first new algorithm is the extent overlap box (EOB) method that detects interparticle contact, and the second is the capability of adding a uniform-thickness shell to each particle. Parameter analysis has shown that the EOB method leads to a more accurate detection of interparticle contact with a smaller computational cost than the previously used Newton-Raphson method. The uniform-thickness shell provides a customizable tool to control the minimum intersurface distance of particles during the parking process, as well as to simulate processes and microstructure that are dependent on the Euclidean distance from a particle surface. For mortar and concrete, the uniform-thickness shell can represent the observed interfacial transition zone (ITZ) structure. A parallel processing application programming interface (API) was integrated into the Anm model to accelerate the particle placement process by parallel optimization, which results in significant improvements in the packing efficiency on multicore processor systems. This significant speedup as well the improved contact function and new uniform-thickness shell algorithm greatly extend the range, size, and type of particle systems that can be studied. - See more at: http://ascelibrary.org/doi/abs/10.1061/(ASCE)CP.1943-5487.0000494#sthash.EUIfIYmM.dpuf",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "125196": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 125196,
+            "scholarlyactivityid": 32456
+        }
+    },
+    "status": [
+        {
+            "id": 32456,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001675",
+    "attachments": [
+        {
+            "attachmentid": 4876,
+            "mimetype": "application/pdf",
+            "filename": "%28ASCE%29CP%2E1943-5487%2E0000494.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitaM2lIR0hZTkY3VzVmdnRrbWFVNG5ZK0cxb0EwNUpySzBDaXF2c2daUzlhQzZHT0FGd091YXhvN2xJeUwydnRldFkyekwxZXdDcHFZYW9GTDQxbEtwRQ%3D%3D",
+            "filesize": 10308883
+        }
+    ]
+}

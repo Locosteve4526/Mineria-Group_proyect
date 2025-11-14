@@ -1,0 +1,65 @@
+{
+    "activityid": 25765,
+    "fields": {
+        "Type": "Book",
+        "Title": "\u201cHousing Market Impacts of Inclusionary Zoning Programs\u201d ",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "National Center for Smart Growth Research and Education",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112096790",
+    "coauthors": {
+        "83421": {
+            "firstname": "Gerrit",
+            "middleinitial": "",
+            "lastname": "Knaap",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83421,
+            "scholarlyactivityid": 25765
+        },
+        "83422": {
+            "firstname": "Antonio",
+            "middleinitial": "",
+            "lastname": "Bento",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83422,
+            "scholarlyactivityid": 25765
+        },
+        "83423": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Lowe",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112096790",
+            "authorid": 83423,
+            "scholarlyactivityid": 25765
+        }
+    },
+    "status": [
+        {
+            "id": 25765,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112096790",
+    "attachments": []
+}

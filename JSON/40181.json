@@ -1,0 +1,48 @@
+{
+    "activityid": 40181,
+    "fields": {
+        "Type": "Book",
+        "Title": "Training professionals\u2019 web design toolkit (FrontPage 2003)",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "HRD Press",
+        "Publisher Location": "Amherst, MA",
+        "ISBN": "0-87425-779-4",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175355": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175355,
+            "scholarlyactivityid": 40181,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40181,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

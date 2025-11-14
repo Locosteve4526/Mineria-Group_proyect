@@ -1,0 +1,98 @@
+{
+    "activityid": 58979,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Managerial Ability and Financial Statement Comparability",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126866",
+    "coauthors": {
+        "330104": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Stallings",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126866",
+            "authorid": 330104,
+            "scholarlyactivityid": 58979,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "330105": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Bjornsen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 330105,
+            "scholarlyactivityid": 58979,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58979,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 58979,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 58979,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 58979,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 58979,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114126866",
+    "attachments": []
+}

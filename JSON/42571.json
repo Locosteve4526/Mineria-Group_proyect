@@ -1,0 +1,42 @@
+{
+    "activityid": 42571,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Highly scalable adaptive mesh refinement for natural hazards modeling",
+        "Conference/Meeting Name": "2018 AGU Fall Meeting",
+        "Conference Location": "Washington, DC",
+        "Date or Date Range": "Dec. 10-14, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "American Geophysical UnionTitle :  Highly scalable adaptive mesh refinement for natural hazards modeling  Abstract :   Mathematical models and numerical simulations are routinely used to understand and predict the behavior of tsunamis, earthquakes, volcanic eruptions, flooding, debris flows and so on. Challenges in modeling these events include unknown initial conditions, modeling coupled events (e.g. landslide or earthquake generated tsunamis) and the many temporal and spatial scales involved. Numerical simulations must be able to track small scale events over long time and distances, and computational domains must be large enough to handle the entire event. To be useful in an operational setting, simulations should also provide forecasts in real time. Logically Cartesian, adaptive grid methods are widely applicable to problems in hazards modeling. Moreover, dynamically evolving, adaptive meshes that can follow ash plumes or flooding zones over large distances and durations lasting several days or more provide flexibility not afforded by uniform Cartesian meshes and have become critical to obtaining high fidelity solutions.  We present results from ForestClaw, a general purpose parallel, adaptive mesh code for solving PDEs modeling natural hazards.  Our particular focus will be on using depth-averaged model for the flooding resulting from the 1976 Teton Dam failure and a 3d model of volcanic ash transport on extruded latitude-longitude meshes (joint work with H. Schwaiger and others at the USGS, Vancouver, WA).  The underlying solvers are based on explicit finite volume wave-propagation algorithms from the widely used Clawpack and GeoClaw software packages (R. J. LeVeque, Univ. of Washington and others).  Using user provided refinement criteria, ForestClaw automatically updates the adaptive mesh at regular time intervals to follow ash plumes or flood zones.  We also present scalability results on distributed memory machines.  Preliminary results on our current efforts to build a GPU capable version of ForestClaw may also be shown.  Plain language summary ----------------------  We show results of numerical simulations of the flooding resulting 1976 Teton Dam failure (eastern Idaho), and the transport of volcano ash resulting from the 1980 eruption of Mt. St. Helens (Washington State). Our results show excellent agreement with historical data and other comparison codes. We use the ForestClaw\u00ac\u2020code, a software library with extensions for solving a variety of problems in natural hazards modeling and well as more general flow settings. \u00ac\u2020 ForestClaw runs efficiently on desktop machines, local clusters and super computers, and so can be used by students new to the field of high performance computing and numerical modeling, researchers interested in geophysical flow modeling and emergency planners needing to develop hazard maps for local communities.",
+        "Presenter(s)": null,
+        "Web Address": "https://fallmeeting.agu.org/2018/",
+        "Description/Abstract": "Title : \nHighly scalable adaptive mesh refinement for natural hazards modeling\n\nAbstract : \n\nMathematical models and numerical simulations are routinely used to understand and predict the behavior of tsunamis, earthquakes, volcanic eruptions, flooding, debris flows and so on. Challenges in modeling these events include unknown initial conditions, modeling coupled events (e.g. landslide or earthquake generated tsunamis) and the many temporal and spatial scales involved. Numerical simulations must be able to track small scale events over long time and distances, and computational domains must be large enough to handle the entire event. To be useful in an operational setting, simulations should also provide forecasts in real time. Logically Cartesian, adaptive grid methods are widely applicable to problems in hazards modeling. Moreover, dynamically evolving, adaptive meshes that can follow ash plumes or flooding zones over large distances and durations lasting several days or more provide flexibility not afforded by uniform Cartesian meshes and have become critical to obtaining high fidelity solutions.\n\nWe present results from ForestClaw, a general purpose parallel, adaptive mesh code for solving PDEs modeling natural hazards.  Our particular focus will be on using depth-averaged model for the flooding resulting from the 1976 Teton Dam failure and a 3d model of volcanic ash transport on extruded latitude-longitude meshes (joint work with H. Schwaiger and others at the USGS, Vancouver, WA).  The underlying solvers are based on explicit finite volume wave-propagation algorithms from the widely used Clawpack and GeoClaw software packages (R. J. LeVeque, Univ. of Washington and others).  Using user provided refinement criteria, ForestClaw automatically updates the adaptive mesh at regular time intervals to follow ash plumes or flood zones.  We also present scalability results on distributed memory machines.  Preliminary results on our current efforts to build a GPU capable version of ForestClaw may also be shown.\n\nPlain language summary\n----------------------------------------\n\nWe show results of numerical simulations of the flooding resulting 1976 Teton Dam failure (eastern Idaho), and the transport of volcano ash resulting from the 1980 eruption of Mt. St. Helens (Washington State). Our results show excellent agreement with historical data and other comparison codes. We use the ForestClaw\u00ac\u2020code, a software library with extensions for solving a variety of problems in natural hazards modeling and well as more general flow settings. \u00ac\u2020 ForestClaw runs efficiently on desktop machines, local clusters and super computers, and so can be used by students new to the field of high performance computing and numerical modeling, researchers interested in geophysical flow modeling and emergency planners needing to develop hazard maps for local communities.\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "190025": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 190025,
+            "scholarlyactivityid": 42571
+        }
+    },
+    "status": [
+        {
+            "id": 42571,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113079626",
+    "attachments": []
+}

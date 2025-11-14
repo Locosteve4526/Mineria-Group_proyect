@@ -1,0 +1,58 @@
+{
+    "activityid": 54783,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Sagebrush Communications Training",
+        "Conference/Meeting Name": "GEM3 Seminar Series",
+        "Conference Location": "Virtual",
+        "Date or Date Range": "March 23, 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "Idaho EPSCoR GEM3",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106013",
+    "coauthors": {
+        "257620": {
+            "firstname": "Kelly",
+            "middleinitial": "A",
+            "lastname": "Hopping",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106013",
+            "authorid": 257620,
+            "scholarlyactivityid": 54783,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257621": {
+            "firstname": "Leigh",
+            "middleinitial": "",
+            "lastname": "Cooper",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257621,
+            "scholarlyactivityid": 54783,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54783,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114106013",
+    "attachments": []
+}

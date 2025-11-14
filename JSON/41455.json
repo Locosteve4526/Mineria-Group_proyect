@@ -1,0 +1,84 @@
+{
+    "activityid": 41455,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Decreased cortisol among hikers who preferentially visit and value biodiverse riparian zones",
+        "Journal": "Scientific Reports",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "11",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "848",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113160599",
+    "coauthors": {
+        "264564": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Opdahl",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264564,
+            "scholarlyactivityid": 41455,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "264565": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Demps",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113160599",
+            "authorid": 264565,
+            "scholarlyactivityid": 41455,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "264566": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 264566,
+            "scholarlyactivityid": 41455,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41455,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 41455,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "113160599",
+    "attachments": []
+}

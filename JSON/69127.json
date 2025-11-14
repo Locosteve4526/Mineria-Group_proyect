@@ -1,0 +1,93 @@
+{
+    "activityid": 69127,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Gender-incongruent Consumption",
+        "Journal": "Journal of Marketing",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135517",
+    "coauthors": {
+        "311460": {
+            "firstname": "Niusha",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114135578",
+            "authorid": 311460,
+            "scholarlyactivityid": 69127
+        },
+        "311459": {
+            "firstname": "Blair",
+            "middleinitial": "",
+            "lastname": "Kidwell",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311459,
+            "scholarlyactivityid": 69127
+        },
+        "311458": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Hamby",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114135517",
+            "authorid": 311458,
+            "scholarlyactivityid": 69127
+        }
+    },
+    "status": [
+        {
+            "id": 69127,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 69127,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 69127,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 69127,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114135517",
+    "attachments": []
+}

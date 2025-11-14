@@ -1,0 +1,58 @@
+{
+    "activityid": 52877,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Closing the Gap - Math Transitions",
+        "Conference/Meeting Name": "",
+        "Conference Location": "orth Idaho College Campus, Coeur d'Alene, ID",
+        "Date or Date Range": "2020-03-02",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Idaho State Board of Education",
+        "Presenter(s)": null,
+        "Web Address": "https://docs.google.com/presentation/d/12rkeH_uiCalRsPoqENI7vY5yH1uwAvcGT-eFaXWlJGg/edit?usp=sharing",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114000904",
+    "coauthors": {
+        "245905": {
+            "firstname": "Joe",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 245905,
+            "scholarlyactivityid": 52877,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "245906": {
+            "firstname": "Abe",
+            "middleinitial": "",
+            "lastname": "Wallin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245906,
+            "scholarlyactivityid": 52877,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52877,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114000904",
+    "attachments": []
+}

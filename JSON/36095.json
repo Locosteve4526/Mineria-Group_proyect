@@ -1,0 +1,45 @@
+{
+    "activityid": 36095,
+    "fields": {
+        "Type": "Book",
+        "Title": "An Introduction to System Modeling and Control",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "first",
+        "Volume": "",
+        "Publisher": "Lulu Press (Self Published)",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112103235",
+    "coauthors": {
+        "149065": {
+            "firstname": "John",
+            "middleinitial": "Nelson",
+            "lastname": "Chiasson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112103235",
+            "authorid": 149065,
+            "scholarlyactivityid": 36095
+        }
+    },
+    "status": [
+        {
+            "id": 36095,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103235",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 17447,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Research Application",
+        "Conference/Meeting Name": "Annual Meeting",
+        "Conference Location": "Oklahoma City, Oklahoma",
+        "Date or Date Range": "2015-10-17",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "American Society of Exercise Physiologists",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112145571",
+    "coauthors": {
+        "68467": {
+            "firstname": "Shawn",
+            "middleinitial": "Ray",
+            "lastname": "Simonson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 68467,
+            "scholarlyactivityid": 17447
+        },
+        "68468": {
+            "firstname": "Frank",
+            "middleinitial": "B",
+            "lastname": "Wyatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68468,
+            "scholarlyactivityid": 17447
+        },
+        "68469": {
+            "firstname": "Sarju",
+            "middleinitial": "",
+            "lastname": "Raiyana",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68469,
+            "scholarlyactivityid": 17447
+        }
+    },
+    "status": [
+        {
+            "id": 17447,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112145571",
+    "attachments": []
+}

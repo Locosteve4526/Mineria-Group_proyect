@@ -1,0 +1,94 @@
+{
+    "activityid": 41305,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Development and calibration of a probabilistic finite element hip capsule representation",
+        "Journal": "Computer Methods and Biomechanics and Biomedical Engineering",
+        "Volume": "23",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "755-764",
+        "Publisher": "",
+        "DOI": "DOI: 10.1080/10255842.2020.1764543",
+        "PubMed Central ID Number": "PMID: 32432892",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "In total hip arthroplasty (THA) patients, excessive laxity of the hip capsule has been related to complications, including wear and dislocation. The objective of this study was to develop a probabilistic representation of the hip capsule, which is calibrated to experimental capsular torque-rotation behavior and captures the observed variability for use in population-based studies. A finite element model of the hip capsule was developed in Abaqus/Explicit. Each structure was composed of a fiber-reinforced membrane, represented by 2D quadrilateral elements embedded with tension-only non-linear spring. The behavior of each structure was defined by structure-specific linear stiffness and reference strain parameters. An average capsule representation was developed by calibrating the properties (linear stiffness, reference strain) of each ligament so that the torque-rotation behavior matched mean data for cadaveric tests. Following calibration, a probabilistic capsule representation was produced by determining the ligament property input variability which resulted in model kinematic variability to represent \u00b1 2 standard deviations as measured in the experiment. For the average model, RMS errors between experimental and model positions at full extension and full flexion were 2.54\u00b0. Differences between experimental and model kinematics for all the remaining poses were small with an overall RMS error of 4.70\u00b0. Output bounds from the optimized probabilistic capsule representation were consistent with \u00b12 SD of experimental data; the overall RMS error was 5.10\u00b0. This model can be employed in population-based finite-element studies of THA to assess mechanics in realistic scenarios considering implant design, as well as surgical and patient factors. ",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "255455": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Myers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255455,
+            "scholarlyactivityid": 41305
+        },
+        "255456": {
+            "firstname": "Clare",
+            "middleinitial": "",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062491",
+            "authorid": 255456,
+            "scholarlyactivityid": 41305
+        },
+        "255457": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Huff",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255457,
+            "scholarlyactivityid": 41305
+        },
+        "255458": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Laz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255458,
+            "scholarlyactivityid": 41305
+        },
+        "255459": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Rullkoetter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255459,
+            "scholarlyactivityid": 41305
+        }
+    },
+    "status": [
+        {
+            "id": 41305,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": [
+        {
+            "attachmentid": 30554,
+            "mimetype": "application/pdf",
+            "filename": "2020_HipCapsule_Myers_CMBBE.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZRjFxZGFkVFdmS1hkd3plMnZEbE1ZZUtrWWpFdjZXQmZJMHRnYmpsRUg4cTZXeStGbmRzQmw0TkYrdWd2MFp6Q2lCTGlTMkxQVlZBPT0%3D",
+            "filesize": 2222332
+        }
+    ]
+}

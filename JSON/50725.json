@@ -1,0 +1,102 @@
+{
+    "activityid": 50725,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Contextualizing Self-Disclosure to the Online Environment: An Assessment of the Literature",
+        "Journal": "Communications of the Association for Information Systems",
+        "Volume": "50",
+        "Month / Season": "June",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "754-802",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114172679",
+    "coauthors": {
+        "336258": {
+            "firstname": "Teagen",
+            "middleinitial": "M",
+            "lastname": "Nabity-Grover",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114172679",
+            "authorid": 336258,
+            "scholarlyactivityid": 50725
+        },
+        "336259": {
+            "firstname": "Jason",
+            "middleinitial": "B",
+            "lastname": "Thatcher",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336259,
+            "scholarlyactivityid": 50725
+        },
+        "336260": {
+            "firstname": "Allen",
+            "middleinitial": "",
+            "lastname": "Johnston",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336260,
+            "scholarlyactivityid": 50725
+        }
+    },
+    "status": [
+        {
+            "id": 50725,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 50725,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 50725,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 50725,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 50725,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114172679",
+    "attachments": []
+}

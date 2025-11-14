@@ -1,0 +1,88 @@
+{
+    "activityid": 46340,
+    "fields": {
+        "Type": "Book",
+        "Title": "Design Thinking &amp; Strategy (2nd ed.)",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Edition": "2nd",
+        "Volume": "",
+        "Publisher": "Mountain Valley Innovations Publishing",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "324255": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 324255,
+            "scholarlyactivityid": 46340,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "324256": {
+            "firstname": "Christy",
+            "middleinitial": "",
+            "lastname": "Suciu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111259074",
+            "authorid": 324256,
+            "scholarlyactivityid": 46340,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46340,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 46340,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 46340,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 46340,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

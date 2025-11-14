@@ -1,0 +1,65 @@
+{
+    "activityid": 24739,
+    "fields": {
+        "Type": "Book",
+        "Title": "Supply management\u2019s role in environmental management projects",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "CAPS Research",
+        "Publisher Location": "",
+        "ISBN": "USA",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112057162",
+    "coauthors": {
+        "81243": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Gattiker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112057162",
+            "authorid": 81243,
+            "scholarlyactivityid": 24739
+        },
+        "81244": {
+            "firstname": "Wendy",
+            "middleinitial": "L",
+            "lastname": "Tate",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 81244,
+            "scholarlyactivityid": 24739
+        },
+        "81245": {
+            "firstname": "Craig",
+            "middleinitial": "R",
+            "lastname": "Carter",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 81245,
+            "scholarlyactivityid": 24739
+        }
+    },
+    "status": [
+        {
+            "id": 24739,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112057162",
+    "attachments": []
+}

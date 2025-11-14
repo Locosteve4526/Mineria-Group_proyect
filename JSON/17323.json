@@ -1,0 +1,42 @@
+{
+    "activityid": 17323,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Framing the Empty",
+        "Conference/Meeting Name": "Teaching American History ",
+        "Conference Location": "Boise",
+        "Date or Date Range": "2012-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "Yale University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111111926",
+    "coauthors": {
+        "68157": {
+            "firstname": "Todd",
+            "middleinitial": "A",
+            "lastname": "Shallat",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111926",
+            "authorid": 68157,
+            "scholarlyactivityid": 17323
+        }
+    },
+    "status": [
+        {
+            "id": 17323,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111926",
+    "attachments": []
+}

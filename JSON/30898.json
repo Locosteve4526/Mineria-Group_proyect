@@ -1,0 +1,58 @@
+{
+    "activityid": 30898,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Understanding aspects of barn owl-vehicle collisions in Idaho",
+        "Conference/Meeting Name": "2016 Annual conference of MJ Murdock Charitable Trust Partners in Science",
+        "Conference Location": "San Diego, CA",
+        "Date or Date Range": "1/16/16",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "MJ Murdock Charitable Trust",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "114610": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Thompson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114610,
+            "scholarlyactivityid": 30898,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "114611": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 114611,
+            "scholarlyactivityid": 30898,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30898,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

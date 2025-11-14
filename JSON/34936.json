@@ -1,0 +1,63 @@
+{
+    "activityid": 34936,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cHuman Image Preference and Document Degradation Models\u201d",
+        "Name of Conference": "International Conference on Document Analysis and Recognition (ICDAR 2007)",
+        "Month / Season": "September",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "pp. 250-254",
+        "Publisher": "",
+        "Publisher Location": "Curitiba, Brazil",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Because most degraded documents are created by people,\r\nthe preferences individuals have in relation to degraded\r\ndocuments are quite important. Their preferences may\r\ndetermine whether or not the documents they created are\r\nappropriate for machines. The goal of this study was to\r\nfind relationships between preference and several parameters\r\nof a scanner degradation model. It was found that the\r\ndifference in binarization threshold and the difference in\r\nedge displacement caused by the degradation both had\r\nstrong linear relationships to preference. The width of the\r\npoint spread function did not show such a relationship.\r\nThese relationships were counterintuitive because\r\ndegraded characters with thicker stroke widths than the\r\noriginal were preferred to those that had stroke widths\r\ncloser to the original character.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142651": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Hale",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142651,
+            "scholarlyactivityid": 34936,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "142652": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142652,
+            "scholarlyactivityid": 34936,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34936,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 4485,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Newton Root-Finding Algorithm For Estimating the Regularization Parameter For Solving Ill-Conditioned Least Squares Problems",
+        "Journal": "Inverse Problems",
+        "Volume": "25",
+        "Month / Season": "2009-01-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1088/0266-5611/25/2/025002",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/14",
+        "Description/Abstract": "We discuss the solution of numerically ill-posed overdetermined systems of equations using Tikhonov a-priori-based regularization. When the noise distribution on the measured data is available to appropriately weight the fidelity term, and the regularization is assumed to be weighted by inverse covariance information on the model parameters, the underlying cost functional becomes a random variable that follows a X2 distribution. The regularization parameter can then be found so that the optimal cost functional has this property. Under this premise a scalar Newton root-finding algorithm for obtaining the regularization parameter is presented. The algorithm, which uses the singular value decomposition of the system matrix is found to be very efficient for parameter estimation, requiring on average about 10 Newton steps. Additionally, the theory and algorithm apply for Generalized Tikhonov regularization using the generalized singular value decomposition. The performance of the Newton algorithm is contrasted with standard techniques, including the L-curve, generalized cross validation and unbiased predictive risk estimation. This X2-curve Newton method of parameter estimation is seen to be robust and cost effective in comparison to other methods, when white or colored noise information on the measured data is incorporated.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "13499": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 13499,
+            "scholarlyactivityid": 4485
+        },
+        "13500": {
+            "firstname": "Rosemary",
+            "middleinitial": "",
+            "lastname": "Renaut",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13500,
+            "scholarlyactivityid": 4485
+        }
+    },
+    "status": [
+        {
+            "id": 4485,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

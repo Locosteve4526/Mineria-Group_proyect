@@ -1,0 +1,87 @@
+{
+    "activityid": 29116,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "An analysis of text-based deception detection tools",
+        "Name of Conference": "Proceedings of the Twelfth Americas Conference on Information Systems",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://aisel.aisnet.org/amcis2006/418",
+        "Description/Abstract": "The quality of information can be degraded when individuals attempt to deceive others through information manipulation. This can be very influential in a text-based domain. In recent years, tools have been developed that, while not initially designed for this domain, have been adapted successfully for use in identifying deception in text-based communication. These text analysis tools, which utilize features such as parsing and categorizing, are emerging as accurate tools to identify cues that may be useful in distinguishing deceptive from truthful communications. These deception detection tools have been applied to problems such as security screening, criminal incident statements, and evaluation of online communication\r\npatterns. This paper provides a comparative analysis of the features and capabilities of two of the more promising tools and identifies how their use might fit within existing theoretical constructs..",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065991",
+    "coauthors": {
+        "100960": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 100960,
+            "scholarlyactivityid": 29116
+        },
+        "100961": {
+            "firstname": "David P.",
+            "middleinitial": "",
+            "lastname": "Biros",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 100961,
+            "scholarlyactivityid": 29116
+        },
+        "100962": {
+            "firstname": "Douglas",
+            "middleinitial": "P",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 100962,
+            "scholarlyactivityid": 29116
+        },
+        "100963": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Adkins",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 100963,
+            "scholarlyactivityid": 29116
+        },
+        "100964": {
+            "firstname": "Judee K.",
+            "middleinitial": "",
+            "lastname": "Burgoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 100964,
+            "scholarlyactivityid": 29116
+        }
+    },
+    "status": [
+        {
+            "id": 29116,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2006,
+            "termid": "2006/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114065991",
+    "attachments": []
+}

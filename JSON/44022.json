@@ -1,0 +1,58 @@
+{
+    "activityid": 44022,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Viewing FYC from a Multilingual Lens",
+        "Conference/Meeting Name": "Conference on College Composition and Communication",
+        "Conference Location": "Kansas City, MO",
+        "Date or Date Range": "March 14-17, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "National Council of Teachers of English",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111670030",
+    "coauthors": {
+        "199384": {
+            "firstname": "Gail",
+            "middleinitial": "E",
+            "lastname": "Shuck",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111670030",
+            "authorid": 199384,
+            "scholarlyactivityid": 44022,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "199385": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Wilber",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 199385,
+            "scholarlyactivityid": 44022,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44022,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111670030",
+    "attachments": []
+}

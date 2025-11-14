@@ -1,0 +1,102 @@
+{
+    "activityid": 32305,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Construct Maps and Item Frameworks: An Example in Proportional Reasoning",
+        "Journal": "Mathematics Education Research Journal",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "1-29",
+        "Publisher": "",
+        "DOI": "doi.org/10.1007/s13394-022-00415-z",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://link.springer.com/article/10.1007/s13394-022-00415-z",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111351647",
+    "coauthors": {
+        "288391": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 288391,
+            "scholarlyactivityid": 32305,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "288392": {
+            "firstname": "Everett",
+            "middleinitial": "V",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 288392,
+            "scholarlyactivityid": 32305,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "288393": {
+            "firstname": "Gwyneth",
+            "middleinitial": "",
+            "lastname": "Hughes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 288393,
+            "scholarlyactivityid": 32305,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32305,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 32305,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 32305,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 32305,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111351647",
+    "attachments": []
+}

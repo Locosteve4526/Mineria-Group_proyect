@@ -1,0 +1,75 @@
+{
+    "activityid": 3080,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A pilot study of breastfeeding support on the night shift",
+        "Journal": "Clinical Lactation",
+        "Volume": "6",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "1-5",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113084128",
+    "coauthors": {
+        "147925": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Grassley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113084128",
+            "authorid": 147925,
+            "scholarlyactivityid": 3080,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "147926": {
+            "firstname": "Betsy",
+            "middleinitial": "",
+            "lastname": "Ayres",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 147926,
+            "scholarlyactivityid": 3080,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "147927": {
+            "firstname": "Kristin",
+            "middleinitial": "",
+            "lastname": "Koprowski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 147927,
+            "scholarlyactivityid": 3080,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 3080,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113084128",
+    "attachments": []
+}

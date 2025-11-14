@@ -1,0 +1,58 @@
+{
+    "activityid": 69932,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Reading in Salt Lake City",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Salt Lake City",
+        "Date or Date Range": "March 31st, 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Poetry reading with poet Dan Beachy-Quick at the Art BArn, Salt Lake City, organized by University of Utah Adjunct Faculty Boyd Nielson.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "316366": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 316366,
+            "scholarlyactivityid": 69932,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "316367": {
+            "firstname": "Dan",
+            "middleinitial": "",
+            "lastname": "Beachy-Quick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316367,
+            "scholarlyactivityid": 69932,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69932,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

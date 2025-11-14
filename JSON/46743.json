@@ -1,0 +1,75 @@
+{
+    "activityid": 46743,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Interaction of Alpha-Crystallin with Phospholipid Membranes",
+        "Journal": "Current Eye Research",
+        "Volume": "46",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "185-194",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://pubmed.ncbi.nlm.nih.gov/32564617/",
+        "Description/Abstract": "Purpose/Aim: The amount of membrane-bound \u03b1-crystallin increases significantly with age and cataract formation, accompanied by a corresponding decline in the level of \u03b1-crystallin in the lens cytoplasm. The purpose of this research is to evaluate the binding affinity of \u03b1-crystallin to the phospholipid membranes as well as the physical properties of the membranes after \u03b1-crystallin binding.\n\nMaterials and Methods: The continuous wave and saturation recovery electron paramagnetic resonance (EPR) methods were used to obtain the information about the binding affinity and the physical properties of the membrane. In this approach, the cholesterol analog spin label CSL was incorporated in the membrane and the binding of \u03b1-crystallin to the membrane was monitored by this spin label. Small uni-lamellar vesicles were prepared from 1-palmitoyl-2-oleoylphosphatidylcholine (POPC) with 1% of CSL. The measured membrane properties included the mobility parameter, fluidity, and the oxygen transport parameter.\n\nResults: The binding affinity (Ka ) of \u03b1-crystallin with the POPC membrane was estimated to be 4.9 \u00b1 2.4 \u00b5M\u22121. The profiles of mobility parameter showed that mobility parameter decreased with an increase in the binding of \u03b1-crystallin. The profiles of spin-lattice relaxation rate showed that the spin-lattice relaxation rate decreased with an increase in binding. These results show that the binding of \u03b1-crystallin makes the membrane more immobilized near the head group region of the phospholipids. Furthermore, the profiles of the oxygen transport parameter indicated that the oxygen transport parameter decreased with an increase of binding, indicating the binding of \u03b1-crystallin forms a barrier for the passage of non-polar molecules which supports the barrier hypothesis.\n\nConclusions: The binding of \u03b1-crystallin to the membrane alters the physical properties of the membranes, and this plays a significant role in modulating the integrity of the membranes. EPR techniques are useful in studying \u03b1-crystallin membrane interactions.\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "114134034",
+    "coauthors": {
+        "267944": {
+            "firstname": "Laxman",
+            "middleinitial": "",
+            "lastname": "Mainali",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114134034",
+            "authorid": 267944,
+            "scholarlyactivityid": 46743,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "267945": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "O'Brien",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 267945,
+            "scholarlyactivityid": 46743,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "267946": {
+            "firstname": "Raju",
+            "middleinitial": "",
+            "lastname": "Timsina",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 267946,
+            "scholarlyactivityid": 46743,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46743,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114134034",
+    "attachments": []
+}

@@ -1,0 +1,45 @@
+{
+    "activityid": 68686,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Invitation to Waring rank",
+        "Conference/Meeting Name": "NMSU Algebra Seminar",
+        "Conference Location": "New Mexico State University",
+        "Date or Date Range": "11/13/2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "https://math.nmsu.edu/activities/algebra-seminar.html",
+        "Description/Abstract": "The Waring rank of a homogeneous form is the number of terms needed to write the form as a sum of powers of linear forms. I will give an introduction and overview of some of the questions around Waring rank. First, motivated by conjectures in complexity theory, it is of interest to determine and compare the Waring ranks of the determinant and permanent. At this time very little is known; in fact, there are very few forms whose Waring rank is known. I will discuss some of the known lower bounds for Waring rank and approaches to determining Waring ranks. The maximum value of Waring rank is unknown in all but a handful of cases; it is even unknown in most cases whether forms with higher than generic rank exist. I will describe ongoing work on apolarity of general hyperplane arrangements. The symmetric analogue of Strassen's conjecture asserts that Waring rank is additive for forms in independent variables. This remains open, despite Shitov's recent counterexample for Strassen's conjecture in the tensor (non-symmetric) case. Time permitting, I will discuss some sufficient conditions for forms to satisfy the assertion of the conjecture.",
+        "Origin": "Manual"
+    },
+    "facultyid": "113078387",
+    "coauthors": {
+        "327405": {
+            "firstname": "Zachariah",
+            "middleinitial": "",
+            "lastname": "Teitler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113078387",
+            "authorid": 327405,
+            "scholarlyactivityid": 68686,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68686,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113078387",
+    "attachments": []
+}

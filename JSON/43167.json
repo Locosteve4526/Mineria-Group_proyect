@@ -1,0 +1,82 @@
+{
+    "activityid": 43167,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Assessing the Adequacy of Synthetic Programs for Learning SPF's Configurations",
+        "Name of Conference": "Java Pathfinder Workshop ",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Static program analysis is a powerful technique that reasons about a program's behavior without actually executing the program. To balance between the precision and the efficiency of an analyzer, developers often manually tune-up analyzer's parameters for a specific program. However, this task can be tedious and time-consuming. To automate the search for the optimal parameters for a program, researchers employ machine learning (ML) techniques, that from the existing data learn the relationship between the program and the optimal parameters, which it encodes in an ML model. The existing, or training, data set, plays an important role in the correctness of an ML model. In this work we investigate whether automatically generated programs are adequate for training an ML model, which determines SPF's configurations for a given Java method. To do this, we compare the performance of a model trained on real programs with that of a model trained on synthetic programs. Our results indicate that while synthetic programs are inadequate for training a model alone, adding them to the training set of real programs improves the classification power of the resulting model.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110305",
+    "coauthors": {
+        "253103": {
+            "firstname": "Maria",
+            "middleinitial": "",
+            "lastname": "Paquin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 253103,
+            "scholarlyactivityid": 43167,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "253104": {
+            "firstname": "Elena",
+            "middleinitial": "A.",
+            "lastname": "Sherman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113164447",
+            "authorid": 253104,
+            "scholarlyactivityid": 43167
+        },
+        "253105": {
+            "firstname": "Amit",
+            "middleinitial": "",
+            "lastname": "Jain",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110305",
+            "authorid": 253105,
+            "scholarlyactivityid": 43167,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43167,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 43167,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110305",
+    "attachments": []
+}

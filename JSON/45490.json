@@ -1,0 +1,75 @@
+{
+    "activityid": 45490,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Self Controlled RDP Approach for Feature Extraction in Online Handwriting Recognition using Deep Learning",
+        "Journal": "Applied Intelligence (APIN)",
+        "Volume": "50",
+        "Month / Season": "",
+        "Issue Number": "7",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "2093-2104",
+        "Publisher": "Springer",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "257729": {
+            "firstname": "Sukhdeep",
+            "middleinitial": "",
+            "lastname": "Singh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257729,
+            "scholarlyactivityid": 45490,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        },
+        "257730": {
+            "firstname": "Vinod",
+            "middleinitial": "",
+            "lastname": "Kumar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257730,
+            "scholarlyactivityid": 45490,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257731": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 257731,
+            "scholarlyactivityid": 45490,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45490,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

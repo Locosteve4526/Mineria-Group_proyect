@@ -1,0 +1,46 @@
+{
+    "activityid": 3896,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Inducing Normality from Non-Gaussian Long Memory Time Series and its Application to Stock Return Data",
+        "Journal": "Applied Stochastic Models in Business and Industry",
+        "Volume": "26",
+        "Month / Season": "2010-07-01",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "374-388",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1002/asmb.784",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/43",
+        "Description/Abstract": "Motivated by Lee and Ko (Appl. Stochastic Models. Bus. Ind. 2007; 23:493\u2013502)  but not limited to the study, this paper proposes a wavelet-based  Bayesian power transformation procedure through the well-known Box\u2013Cox  transformation to induce normality from non-Gaussian long memory  processes. We consider power transformations of non-Gaussian long memory  time series under the assumption of an unknown transformation  parameter, a situation that arises commonly in practice, while most  research has been devoted to non-linear transformations of Gaussian long  memory time series with known transformation parameter.  Specially, this study is mainly focused on the simultaneous estimation  of the transformation parameter and long memory parameter. To this end,  posterior estimations via Markov chain Monte Carlo methods are performed  in the wavelet domain. Performances are assessed on a simulation study  and a German stock return data set.",
+        "Origin": "Other"
+    },
+    "facultyid": "112033907",
+    "coauthors": {
+        "11473": {
+            "firstname": "Kyungduk",
+            "middleinitial": "",
+            "lastname": "Ko",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033907",
+            "authorid": 11473,
+            "scholarlyactivityid": 3896
+        }
+    },
+    "status": [
+        {
+            "id": 3896,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112033907",
+    "attachments": []
+}

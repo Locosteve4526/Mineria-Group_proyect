@@ -1,0 +1,76 @@
+{
+    "activityid": 42801,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Sex Dimorphism in Peroneal Muscle Parameters with Functional Ankle Instability",
+        "Name of Conference": "American Society of Biomechanics",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045105",
+    "coauthors": {
+        "191256": {
+            "firstname": "Wyatt",
+            "middleinitial": "D",
+            "lastname": "Ihmels",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191256,
+            "scholarlyactivityid": 42801,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "191257": {
+            "firstname": "Kayla",
+            "middleinitial": "D",
+            "lastname": "Seymore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191257,
+            "scholarlyactivityid": 42801,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "191258": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045105",
+            "authorid": 191258,
+            "scholarlyactivityid": 42801,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42801,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114045105",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 31020,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Usefulness of Automated Deception Detection Systems",
+        "Journal": "Journal of Management Information Systems",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Since the events of 9/11, there has been an increased interest in automated deception detection technologies for use in screening.  These technologies use various means, both invasive and non-invasive, to ascertain individual intent to deceive or engage in malicious behavior.  Many of the papers introducing these technologies use signal detection theory's ROC analysis to compare the technique's ability to detect malicious intent to other techniques.  In this paper we argue that ROC analysis, since it disregards base rates, costs, and benefits, does not provide a full picture of the usefulness of the technology.  Using lessons learned in medical diagnostics and elsewhere we provide a framework and a tool for estimating the usefulness of screening technologies.\r\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065991",
+    "coauthors": {
+        "115522": {
+            "firstname": "Douglas",
+            "middleinitial": "P",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 115522,
+            "scholarlyactivityid": 31020
+        },
+        "115523": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 115523,
+            "scholarlyactivityid": 31020
+        }
+    },
+    "status": [
+        {
+            "id": 31020,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 31020,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065991",
+    "attachments": []
+}

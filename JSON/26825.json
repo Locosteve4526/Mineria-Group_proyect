@@ -1,0 +1,45 @@
+{
+    "activityid": 26825,
+    "fields": {
+        "Type": "Book",
+        "Title": "Snake: The Plain and Its People",
+        "Actual/Projected Year of Publication/Presentation": 1994,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Shallat edited and coauthored this popular science book for the Carters of the Moon National Monument.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111926",
+    "coauthors": {
+        "85732": {
+            "firstname": "Todd",
+            "middleinitial": "A",
+            "lastname": "Shallat",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111926",
+            "authorid": 85732,
+            "scholarlyactivityid": 26825
+        }
+    },
+    "status": [
+        {
+            "id": 26825,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1994,
+            "termid": "1994/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111926",
+    "attachments": []
+}

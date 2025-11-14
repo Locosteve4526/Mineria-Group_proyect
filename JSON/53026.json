@@ -1,0 +1,56 @@
+{
+    "activityid": 53026,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Environmental change exposes beneficial epistatic interactions in a catalytic RNA",
+        "Journal": "Proceedings. Biological sciences",
+        "Volume": "279",
+        "Month / Season": null,
+        "Issue Number": "1742",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "3418-25",
+        "Publisher": null,
+        "DOI": "10.1098/rspb.2012.0956",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Natural selection drives populations of individuals towards local peaks in a fitness landscape. These peaks are created by the interactions between individual mutations. Fitness landscapes may change as an environment changes. In a previous contribution, we discovered a variant of the Azoarcus group I ribozyme that represents a local peak in the RNA fitness landscape. The genotype at this peak is distinguished from the wild-type by four point mutations. We here report ribozyme fitness data derived from constructing all possible combinations of these point mutations. We find that these mutations interact epistatically. Importantly, we show that these epistatic interactions change qualitatively in the three different environments that we studied. We find examples where the relative fitness of a ribozyme can change from neutral or negative in one environment, to positive in another. We also show that the fitness effect of a specific GC-AU base pair switch is dependent on both the environment and the genetic context. Moreover, the mutations that we study improve activity at the cost of decreased structural stability. Environmental change is ubiquitous in nature. Our results suggest that such change can facilitate adaptive evolution by exposing new peaks of a fitness landscape. They highlight a prominent role for genotype-environment interactions in doing so.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114001941",
+    "coauthors": {
+        "247001": {
+            "firstname": "Eric ",
+            "middleinitial": "J",
+            "lastname": "Hayden",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247001,
+            "scholarlyactivityid": 53026
+        },
+        "247002": {
+            "firstname": "Andreas",
+            "middleinitial": "",
+            "lastname": "Wagner",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247002,
+            "scholarlyactivityid": 53026
+        }
+    },
+    "status": [
+        {
+            "id": 53026,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001941",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 33907,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "DICER1 Syndrome",
+        "Conference / Meeting Name": "Undergraduate Research Conference",
+        "Conference Location": " Boise, ID ",
+        "Date or Date Range": "April 17, 2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "135418": {
+            "firstname": "Jake",
+            "middleinitial": "",
+            "lastname": "Robertson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 135418,
+            "scholarlyactivityid": 33907,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "135419": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 135419,
+            "scholarlyactivityid": 33907,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33907,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 49474,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Observational Evidence for Circular Time",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111194862",
+    "coauthors": {
+        "229883": {
+            "firstname": "Brian",
+            "middleinitial": "Bodily",
+            "lastname": "Kierland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111194862",
+            "authorid": 229883,
+            "scholarlyactivityid": 49474
+        },
+        "229884": {
+            "firstname": "Cody",
+            "middleinitial": "",
+            "lastname": "Gilmore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 229884,
+            "scholarlyactivityid": 49474
+        }
+    },
+    "status": [
+        {
+            "id": 49474,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 49474,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111194862",
+    "attachments": []
+}

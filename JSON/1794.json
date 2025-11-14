@@ -1,0 +1,76 @@
+{
+    "activityid": 1794,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Hydrological Parameter Estimations from a Conservative Tracer Test with Variable-Density Effects at the Boise Hydrogeophysical Research Site",
+        "Journal": "Water Resources Research",
+        "Volume": "47",
+        "Month / Season": "2011-12-15",
+        "Issue Number": "12",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "W12513",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2011wr010789",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/149",
+        "Description/Abstract": "Reliable predictions of groundwater flow and solute transport require an  estimation of the detailed distribution of the parameters                         (e.g., hydraulic conductivity, effective  porosity) controlling these processes. However, such parameters are  difficult to                         estimate because of the inaccessibility and  complexity of the subsurface. In this regard, developments in parameter  estimation                         techniques and investigations of field  experiments are still challenging and necessary to improve our  understanding and the                         prediction of hydrological processes. Here we  analyze a conservative tracer test conducted at the Boise  Hydrogeophysical Research                         Site in 2001 in a heterogeneous unconfined  fluvial aquifer. Some relevant characteristics of this test include:  variable-density                         (sinking) effects because of the injection  concentration of the bromide tracer, the relatively small size of the  experiment,                         and the availability of various sources of  geophysical and hydrological information. The information contained in  this experiment                         is evaluated through several parameter  estimation approaches, including a grid-search-based strategy,  stochastic simulation                         of hydrological property distributions, and  deterministic inversion using regularization and pilot-point techniques.  Doing                         this allows us to investigate hydraulic  conductivity and effective porosity distributions and to compare the  effects of assumptions                         from several methods and parameterizations. Our  results provide new insights into the understanding of variable-density  transport                         processes and the hydrological relevance of  incorporating various sources of information in parameter estimation  approaches.                         Among others, the variable-density effect and  the effective porosity distribution, as well as their coupling with the  hydraulic                         conductivity structure, are seen to be  significant in the transport process. The results also show that assumed  prior information                         can strongly influence the estimated  distributions of hydrological properties.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4498": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Dafflon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4498,
+            "scholarlyactivityid": 1794
+        },
+        "4499": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4499,
+            "scholarlyactivityid": 1794
+        },
+        "4500": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Cardiff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113054278",
+            "authorid": 4500,
+            "scholarlyactivityid": 1794
+        },
+        "4501": {
+            "firstname": "T.",
+            "middleinitial": "C.",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112179883",
+            "authorid": 4501,
+            "scholarlyactivityid": 1794
+        }
+    },
+    "status": [
+        {
+            "id": 1794,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

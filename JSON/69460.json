@@ -1,0 +1,97 @@
+{
+    "activityid": 69460,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:11pt;&quot;&gt;Defining successful aging: An international comparison&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114087965",
+    "coauthors": {
+        "313720": {
+            "firstname": "Elissa",
+            "middleinitial": "",
+            "lastname": "Burton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313720,
+            "scholarlyactivityid": 69460,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313721": {
+            "firstname": "Brett",
+            "middleinitial": "",
+            "lastname": "Alford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313721,
+            "scholarlyactivityid": 69460,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313722": {
+            "firstname": "Barbra",
+            "middleinitial": "",
+            "lastname": "Teater",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313722,
+            "scholarlyactivityid": 69460,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313723": {
+            "firstname": "Jill",
+            "middleinitial": "",
+            "lastname": "Chonody",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114087965",
+            "authorid": 313723,
+            "scholarlyactivityid": 69460,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69460,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 69460,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114087965",
+    "attachments": []
+}

@@ -1,0 +1,80 @@
+{
+    "activityid": 46345,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Career Experiences of Individuals with Autism",
+        "Conference/Meeting Name": "Academy of Management",
+        "Conference Location": "Boston",
+        "Date or Date Range": "August 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "339348": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 339348,
+            "scholarlyactivityid": 46345,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "339349": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Chenoweth",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716923",
+            "authorid": 339349,
+            "scholarlyactivityid": 46345,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "339350": {
+            "firstname": "Felice",
+            "middleinitial": "B",
+            "lastname": "Klein",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114109249",
+            "authorid": 339350,
+            "scholarlyactivityid": 46345,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46345,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46345,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

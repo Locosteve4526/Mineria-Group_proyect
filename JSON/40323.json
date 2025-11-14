@@ -1,0 +1,63 @@
+{
+    "activityid": 40323,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Commonality in Limit Order Cancellations",
+        "Name of Conference": "Southern Finance Association ",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "176272": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086454",
+            "authorid": 176272,
+            "scholarlyactivityid": 40323,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176273": {
+            "firstname": "Ethan",
+            "middleinitial": "D",
+            "lastname": "Watson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176273,
+            "scholarlyactivityid": 40323,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40323,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

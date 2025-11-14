@@ -1,0 +1,52 @@
+{
+    "activityid": 11043,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The keratin killers: Feather degrading bacteria on burrowing owls",
+        "Conference/Meeting Name": "REU forum on STEM: Boise State Univesity",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2015-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "53775": {
+            "firstname": "Montana",
+            "middleinitial": "",
+            "lastname": "Marks",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 53775,
+            "scholarlyactivityid": 11043
+        },
+        "53776": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 53776,
+            "scholarlyactivityid": 11043
+        }
+    },
+    "status": [
+        {
+            "id": 11043,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

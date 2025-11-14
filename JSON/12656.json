@@ -1,0 +1,52 @@
+{
+    "activityid": 12656,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Creating student writing profiles",
+        "Conference/Meeting Name": "Literacy Reseach Association",
+        "Conference Location": "Fort Worth, TX",
+        "Date or Date Range": "2010-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "Teacher Education Research Study group",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111346076",
+    "coauthors": {
+        "57193": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111728011",
+            "authorid": 57193,
+            "scholarlyactivityid": 12656
+        },
+        "57194": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Dismuke",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111346076",
+            "authorid": 57194,
+            "scholarlyactivityid": 12656
+        }
+    },
+    "status": [
+        {
+            "id": 12656,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111346076",
+    "attachments": []
+}

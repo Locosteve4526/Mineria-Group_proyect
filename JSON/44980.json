@@ -1,0 +1,65 @@
+{
+    "activityid": 44980,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Social Innovation: A multi-lens approach to framing the discussion",
+        "Journal": "Journal of Small Business Management",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643654",
+    "coauthors": {
+        "204660": {
+            "firstname": "Bastian",
+            "middleinitial": "",
+            "lastname": "Thomsen",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114003452",
+            "authorid": 204660,
+            "scholarlyactivityid": 44980
+        },
+        "204659": {
+            "firstname": "Kent",
+            "middleinitial": "",
+            "lastname": "Neupert",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111643654",
+            "authorid": 204659,
+            "scholarlyactivityid": 44980
+        }
+    },
+    "status": [
+        {
+            "id": 44980,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 44980,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111643654",
+    "attachments": []
+}

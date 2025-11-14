@@ -1,0 +1,46 @@
+{
+    "activityid": 6660,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "On First Order Partial Differential-Functional Inequalities",
+        "Journal": "Mathematica Balkanica",
+        "Volume": "6",
+        "Month / Season": "1992-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 1992,
+        "Page Numbers": "75-82",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Suppose that f:E\u00d7R\u00d7C(E0?E,R)\u00d7Rn ?R, where E0,E?R1+n are given sets. Differential-functional\tinequalities Dxz(x, y) ? f(x, y, z(x, y), z, Dyz(x, y)) = P[z](x,y) ? 0, (x,y) ? IntE, are considered, where Dyz = (Dy1z,\u00b7\u00b7\u00b7,Dynz) and z denotes an element of the space of continuous functions from E0 ? E to R. We prove the following result. Suppose that P[u](x,y) ? 0 and P[v](x,y) ? 0 on IntE. If u(x,y) ? v(x,y) on the initial set E0 then under certain conditions concerning f and E we have u(x, y) ? v(x, y) on E. Our result is a generalization of previous results on first-order partial differential or differential-functional inequalities. It is an essential fact in our considerations that f satisfies the Volterra condition and that it is nondecreasing with respect to the functional argument.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20745": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20745,
+            "scholarlyactivityid": 6660
+        }
+    },
+    "status": [
+        {
+            "id": 6660,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1992,
+            "termid": "1992/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

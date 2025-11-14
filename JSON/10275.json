@@ -1,0 +1,52 @@
+{
+    "activityid": 10275,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "INBRE Research Conference",
+        "Conference/Meeting Name": "INBRE Research Conference",
+        "Conference Location": "Moscow, ID",
+        "Date or Date Range": "2013-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113156458",
+    "coauthors": {
+        "52506": {
+            "firstname": "Allen",
+            "middleinitial": "",
+            "lastname": "Albig",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113156458",
+            "authorid": 52506,
+            "scholarlyactivityid": 10275
+        },
+        "52507": {
+            "firstname": "A.",
+            "middleinitial": "",
+            "lastname": "Malik",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52507,
+            "scholarlyactivityid": 10275
+        }
+    },
+    "status": [
+        {
+            "id": 10275,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113156458",
+    "attachments": []
+}

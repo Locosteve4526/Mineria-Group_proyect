@@ -1,0 +1,97 @@
+{
+    "activityid": 56137,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Identifying ATT&amp;CK Tactics in a Control Flow Graph by Applying Graph Neural Networks on Android Malware",
+        "Conference / Meeting Name": "Idaho Conference on Undergraduate Research",
+        "Conference Location": "Boise, Idaho",
+        "Date or Date Range": "July 22",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "National Science Foundation",
+        "Presenter(s)": null,
+        "Web Address": "https://scholarworks.boisestate.edu/icur/2021/poster_session/7/",
+        "Description/Abstract": "To  mitigate  a  malware  threat  it  is  important  to understand  the  malware\u2019s  behavior.  The  MITRE  ATT&amp;ACK ontology  specifies  an  enumeration  of  tactics,  techniques,  and procedures  (TTP)  that  characterize  malware.  However,  absent are  automated  procedures  that  would  characterize,  given  the malware executable, which part of the execution flow is connected with a specific TTP. This paper is the first in providing an automation methodology to locate TTP in a sub-part of the control flow graph that describes the execution flow of a malware executable.This methodology merges graph representation learning and tools for  machine  learning  explanation.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "278944": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 278944,
+            "scholarlyactivityid": 56137,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278945": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048778",
+            "authorid": 278945,
+            "scholarlyactivityid": 56137,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278946": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278946,
+            "scholarlyactivityid": 56137,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "278947": {
+            "firstname": "Andres",
+            "middleinitial": "",
+            "lastname": "Orbe",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278947,
+            "scholarlyactivityid": 56137,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "278948": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Fairbanks",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278948,
+            "scholarlyactivityid": 56137,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 56137,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

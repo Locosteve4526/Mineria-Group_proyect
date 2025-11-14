@@ -1,0 +1,66 @@
+{
+    "activityid": 5520,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Article",
+        "Journal": "Journal of Chemical Education",
+        "Volume": "",
+        "Month / Season": "2015-07-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110041",
+    "coauthors": {
+        "16910": {
+            "firstname": "Don",
+            "middleinitial": "Lewis",
+            "lastname": "Warner",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702068",
+            "authorid": 16910,
+            "scholarlyactivityid": 5520
+        },
+        "16911": {
+            "firstname": "Eric",
+            "middleinitial": "Christopher",
+            "lastname": "Brown",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100123",
+            "authorid": 16911,
+            "scholarlyactivityid": 5520
+        },
+        "16912": {
+            "firstname": "Susan",
+            "middleinitial": "E",
+            "lastname": "Shadle",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 16912,
+            "scholarlyactivityid": 5520
+        }
+    },
+    "status": [
+        {
+            "id": 5520,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110041",
+    "attachments": []
+}

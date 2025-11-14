@@ -1,0 +1,70 @@
+{
+    "activityid": 52032,
+    "fields": {
+        "Type": "Book",
+        "Title": "Congress Explained: Lawmaking and Representation in the First Branch",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "CQ Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114132815",
+    "coauthors": {
+        "281601": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Hunt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114132815",
+            "authorid": 281601,
+            "scholarlyactivityid": 52032,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "281602": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Burgat",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 281602,
+            "scholarlyactivityid": 52032,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52032,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 52032,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114132815",
+    "attachments": []
+}

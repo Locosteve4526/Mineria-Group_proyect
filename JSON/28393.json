@@ -1,0 +1,51 @@
+{
+    "activityid": 28393,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&quot;The Power of Narrative Thinking&quot;",
+        "Conference/Meeting Name": "Conference on College Composition and Communication",
+        "Conference Location": "Portland, OR",
+        "Date or Date Range": "March",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "92666": {
+            "firstname": "Bruce",
+            "middleinitial": "P",
+            "lastname": "Ballenger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 92666,
+            "scholarlyactivityid": 28393
+        }
+    },
+    "status": [
+        {
+            "id": 28393,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 28393,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

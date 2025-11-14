@@ -1,0 +1,105 @@
+{
+    "activityid": 70664,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:10pt;&quot;&gt;Self-storytelling Interventions to Promote Engineering Student Success&lt;/span&gt;",
+        "Name of Conference": "2024 ASEE Annual Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114031140",
+    "coauthors": {
+        "320012": {
+            "firstname": "Krishna",
+            "middleinitial": "",
+            "lastname": "Pakala",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113161429",
+            "authorid": 320012,
+            "scholarlyactivityid": 70664
+        },
+        "320011": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Jankowski",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114031140",
+            "authorid": 320011,
+            "scholarlyactivityid": 70664
+        },
+        "320010": {
+            "firstname": "Sara",
+            "middleinitial": "",
+            "lastname": "Hagenah",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114046496",
+            "authorid": 320010,
+            "scholarlyactivityid": 70664
+        },
+        "320009": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Hamby",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114135517",
+            "authorid": 320009,
+            "scholarlyactivityid": 70664
+        },
+        "320008": {
+            "firstname": "Brooke",
+            "middleinitial": "",
+            "lastname": "Ward",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320008,
+            "scholarlyactivityid": 70664
+        }
+    },
+    "status": [
+        {
+            "id": 70664,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 70664,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70664,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114031140",
+    "attachments": []
+}

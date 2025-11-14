@@ -1,0 +1,45 @@
+{
+    "activityid": 71270,
+    "fields": {
+        "Type": "Book",
+        "Title": "Learning through Practice: Statistical Reasoning, Fourth edition",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "4",
+        "Volume": "",
+        "Publisher": "Van Griner",
+        "Publisher Location": "Cincinatti OHIO",
+        "ISBN": "ISBN-13: 978-1-64565-281-6",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112597",
+    "coauthors": {
+        "323971": {
+            "firstname": "Kathrine",
+            "middleinitial": "E",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112597",
+            "authorid": 323971,
+            "scholarlyactivityid": 71270
+        }
+    },
+    "status": [
+        {
+            "id": 71270,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112597",
+    "attachments": []
+}

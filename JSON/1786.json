@@ -1,0 +1,66 @@
+{
+    "activityid": 1786,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Semi-Analytical Solution for Flow in Leaky Unconfined Aquifer\u2013Aquitard Systems",
+        "Journal": "Journal of Hydrology",
+        "Volume": "346",
+        "Month / Season": "2007-11-15",
+        "Issue Number": "2-Jan",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "59-68",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.jhydrol.2007.08.018",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/78",
+        "Description/Abstract": "This study presents a semi-analytical solution for the problem of leakage in an unconfined aquifer bounded below by an aquitard of finite or semi-infinite extent. The homogeneous anisotropic unconfined aquifer of infinite radial extent is pumped continuously at a constant rate from a well of infinitesimal radius. The aquitard is also homogeneous, anisotropic and of infinite radial extent. Flow in both the aquifer and the aquitard is allowed to occur both vertically and horizontally. Exact solutions to the governing equations given in this work are developed in the double Laplace\u2013Hankel transform space for drawdown response in the unconfined aquifer and the underlying aquitard. The inverse transforms of the solutions are obtained numerically. The theoretical results show that leakage can cause significant departure, at both early and late times, from the solution with no leakage. The solution presented here can be used in least-squares routines for estimation of hydraulic parameters for two-layered unconfined aquifer\u2013aquitard systems.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4472": {
+            "firstname": "Bwalya",
+            "middleinitial": "",
+            "lastname": "Malama",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4472,
+            "scholarlyactivityid": 1786
+        },
+        "4473": {
+            "firstname": "Kristopher",
+            "middleinitial": "L.",
+            "lastname": "Kuhlman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4473,
+            "scholarlyactivityid": 1786
+        },
+        "4474": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4474,
+            "scholarlyactivityid": 1786
+        }
+    },
+    "status": [
+        {
+            "id": 1786,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

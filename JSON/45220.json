@@ -1,0 +1,55 @@
+{
+    "activityid": 45220,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Toiler in the Academic Vineyards",
+        "Journal": "Tax Notes Federal",
+        "Volume": "164",
+        "Month / Season": "Aug. 5, 2019",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "897-899",
+        "Publisher": "Tax Analysts",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Introduces a new column on teaching taxation called &quot;The Call of the Classroom&quot;",
+        "Origin": "Manual"
+    },
+    "facultyid": "112033523",
+    "coauthors": {
+        "283112": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Cowan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033523",
+            "authorid": 283112,
+            "scholarlyactivityid": 45220
+        }
+    },
+    "status": [
+        {
+            "id": 45220,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 45220,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112033523",
+    "attachments": []
+}

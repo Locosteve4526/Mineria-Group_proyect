@@ -1,0 +1,55 @@
+{
+    "activityid": 42110,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&quot;Sometimes I'm Wearing the Prosecutor Down&quot;",
+        "Conference/Meeting Name": "American Society of Criminology",
+        "Conference Location": "Atlanta, GA",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114081231",
+    "coauthors": {
+        "187061": {
+            "firstname": "Jacqueline",
+            "middleinitial": "G",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114081231",
+            "authorid": 187061,
+            "scholarlyactivityid": 42110
+        },
+        "187062": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Ropp",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 187062,
+            "scholarlyactivityid": 42110,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42110,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114081231",
+    "attachments": []
+}

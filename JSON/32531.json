@@ -1,0 +1,57 @@
+{
+    "activityid": 32531,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Engineering Students as Global Citizens; a Collaborative, Interdisciplinary Approach",
+        "Name of Conference": "American Society of Engineering Education, Northwest Chapter Conference",
+        "Month / Season": "Spring",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112207077",
+    "coauthors": {
+        "125422": {
+            "firstname": "Anthony",
+            "middleinitial": "D",
+            "lastname": "Songer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112207077",
+            "authorid": 125422,
+            "scholarlyactivityid": 32531
+        },
+        "125423": {
+            "firstname": "Karen",
+            "middleinitial": "R",
+            "lastname": "Breitkreuz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116287",
+            "authorid": 125423,
+            "scholarlyactivityid": 32531
+        }
+    },
+    "status": [
+        {
+            "id": 32531,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112207077",
+    "attachments": []
+}

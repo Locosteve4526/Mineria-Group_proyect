@@ -1,0 +1,46 @@
+{
+    "activityid": 5398,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Polymer Analysis by Thermal Field-Flow Fractionation",
+        "Journal": "Journal of Liquid Chromatography &amp; Related Technologies",
+        "Volume": "25",
+        "Month / Season": "2002-09-01",
+        "Issue Number": "13-15",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "2101-2134",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/chem_facpubs/27",
+        "Description/Abstract": "Thermal field-flow fractionation (ThFFF) is an analytical technique used to separate lipophilic polymers according to differences in their molecular weight or chemical composition. When Giddings conceptualized FFF,[1] he was searching for a separation technique that could be more precisely modeled than the chromatographic techniques that were used at the time. His success in this regard forms the basis for one of the great strengths of FFF, which is its ability to directly calculate physicochemical parameters of analytes from their residence times in the separation channel. ThFFF, which is one of several FFF subtechniques, separates polymers by magnifying their differential response to a temperature gradient. The physicochemical parameter that quantifies the movement of polymers in a temperature gradient is the Soret coefficient (S), and can be calculated directly from a polymer's residence time in the ThFFF channel. From S, the molecular weight of the polymer can be calculated, provided the system is first calibrated using a well-characterized polymer standard of the same composition and the intrinsic viscosity of the component is known. Thus, from a single calibration run and a viscosity detector, ThFFF can be used to separate and characterize the molecular weight distribution (MWD) of polymer samples.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111683",
+    "coauthors": {
+        "16396": {
+            "firstname": "Martin",
+            "middleinitial": "E",
+            "lastname": "Schimpf",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111683",
+            "authorid": 16396,
+            "scholarlyactivityid": 5398
+        }
+    },
+    "status": [
+        {
+            "id": 5398,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2002,
+            "termid": "2002/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111683",
+    "attachments": []
+}

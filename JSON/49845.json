@@ -1,0 +1,81 @@
+{
+    "activityid": 49845,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Visions of quality assurance in online MBA programs",
+        "Conference/Meeting Name": "Paper presented at the annual meeting of the American Educational Research Association",
+        "Conference Location": "New York, NY",
+        "Date or Date Range": "2018, April",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "231783": {
+            "firstname": "Glori",
+            "middleinitial": "",
+            "lastname": "Hinck",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 231783,
+            "scholarlyactivityid": 49845
+        },
+        "231782": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 231782,
+            "scholarlyactivityid": 49845
+        },
+        "231781": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 231781,
+            "scholarlyactivityid": 49845
+        },
+        "231780": {
+            "firstname": "Ross",
+            "middleinitial": "Andrew",
+            "lastname": "Perkins",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112180039",
+            "authorid": 231780,
+            "scholarlyactivityid": 49845
+        }
+    },
+    "status": [
+        {
+            "id": 49845,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 49845,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

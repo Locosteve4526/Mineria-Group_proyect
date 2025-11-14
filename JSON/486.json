@@ -1,0 +1,56 @@
+{
+    "activityid": 486,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Purchasing-Logistics Interface: A 'Scope of Responsibility' Taxonomy",
+        "Journal": "Journal of Business Logistics",
+        "Volume": "31",
+        "Month / Season": "2010-10-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "177-194",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112095616",
+    "coauthors": {
+        "1249": {
+            "firstname": "Bryan",
+            "middleinitial": "",
+            "lastname": "Ashenbaum",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 1249,
+            "scholarlyactivityid": 486
+        },
+        "1250": {
+            "firstname": "Regis",
+            "middleinitial": "",
+            "lastname": "Terpend",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112095616",
+            "authorid": 1250,
+            "scholarlyactivityid": 486
+        }
+    },
+    "status": [
+        {
+            "id": 486,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112095616",
+    "attachments": []
+}

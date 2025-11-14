@@ -1,0 +1,66 @@
+{
+    "activityid": 28703,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Untapped Pipeline and the Math Myth",
+        "Journal": "age",
+        "Volume": "10",
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "1",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "Manual"
+    },
+    "facultyid": "111643645",
+    "coauthors": {
+        "95317": {
+            "firstname": "John F",
+            "middleinitial": "",
+            "lastname": "Gardner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95317,
+            "scholarlyactivityid": 28703
+        },
+        "95316": {
+            "firstname": "Patricia A",
+            "middleinitial": "",
+            "lastname": "Pyke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95316,
+            "scholarlyactivityid": 28703
+        },
+        "95315": {
+            "firstname": "Amy J",
+            "middleinitial": "",
+            "lastname": "Moll",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95315,
+            "scholarlyactivityid": 28703
+        }
+    },
+    "status": [
+        {
+            "id": 28703,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2005,
+            "termid": "2005/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643645",
+    "attachments": []
+}

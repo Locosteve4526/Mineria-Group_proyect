@@ -1,0 +1,45 @@
+{
+    "activityid": 23573,
+    "fields": {
+        "Type": "Book",
+        "Title": "Beyond Note Cards: Rethinking the Freshman Research Paper",
+        "Actual/Projected Year of Publication/Presentation": 1999,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Boynton/Cook Publishers",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Boynton/Cook Publishers",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/219",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "78695": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 78695,
+            "scholarlyactivityid": 23573
+        }
+    },
+    "status": [
+        {
+            "id": 23573,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1999,
+            "termid": "1998/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

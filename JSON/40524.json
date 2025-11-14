@@ -1,0 +1,58 @@
+{
+    "activityid": 40524,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Inductive Qualitative Social Science Research as a Necessary Element of Data Science",
+        "Conference/Meeting Name": "Pacific Sociological Association",
+        "Conference Location": "Oakland, CA",
+        "Date or Date Range": "2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "Pacific Sociological Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Second author is an undergraduate Sociology student employed as Research Assistant in this project.\n\nData science is a new scientific field that seeks to make use of large and heterogeneous data sets to produce statistical inductions and deductions in order to aid understanding of currently intractable phenomena. It is often characterized in terms of artificial intelligence and in that framework it can appear to be something that aims to replace human analytic ability in general, and qualitative research in particular. However, data science research often actually requires participation from knowledgeable and experienced qualitative researchers. In this presentation we will describe the work of qualitative social scientists (a Sociology undergraduate research assistant and a Sociologist tenured in a College of Engineering) collaborating with data scientists who are attempting to develop and validate models and algorithms that reliably predict criminal activity from the `Panama Papers database` and which can subsequently be generalized to perform similarly with other heterogeneous datasets. We focus specifically on (a) how we designed our components of the project to span gaps in their data science, (b) how we implemented our research processes, and (c) how products of our qualitative social science is used by data scientists to refine and improve the efficacy of their models and algorithms. ",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110059",
+    "coauthors": {
+        "177233": {
+            "firstname": "Donald",
+            "middleinitial": "J",
+            "lastname": "Winiecki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110059",
+            "authorid": 177233,
+            "scholarlyactivityid": 40524,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "177234": {
+            "firstname": "Bryant",
+            "middleinitial": "",
+            "lastname": "Hay",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 177234,
+            "scholarlyactivityid": 40524,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40524,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110059",
+    "attachments": []
+}

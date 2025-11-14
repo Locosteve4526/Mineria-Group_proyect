@@ -1,0 +1,55 @@
+{
+    "activityid": 27491,
+    "fields": {
+        "Type": "Book",
+        "Title": "From Law to Order: The Theory and Practice of Law and Justice",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "American Correctional Association",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "American Correctional Association",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/259",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "87082": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 87082,
+            "scholarlyactivityid": 27491
+        },
+        "87083": {
+            "firstname": "Craig",
+            "middleinitial": "Thomas",
+            "lastname": "Hemmens",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110193",
+            "authorid": 87083,
+            "scholarlyactivityid": 27491
+        }
+    },
+    "status": [
+        {
+            "id": 27491,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2000,
+            "termid": "1999/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

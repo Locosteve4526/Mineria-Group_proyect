@@ -1,0 +1,66 @@
+{
+    "activityid": 4419,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Origin and Correction of Magnetic Field Inhomogeneity at the Interface in Biphasic NMR Samples",
+        "Journal": "Journal of Magnetic Resonance",
+        "Volume": "218",
+        "Month / Season": "2012-05-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "147-152",
+        "Publisher": "Elsevier",
+        "DOI": "10.1016/j.jmr.2012.02.012",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://dx.doi.org/10.1016/j.jmr.2012.02.012",
+        "Description/Abstract": "The use of susceptibility matching to minimize spectral distortion of biphasic samples layered in a standard 5 mm NMR tube is described. The approach uses magic angle spinning (MAS) to first extract chemical shift differences by suppressing bulk magnetization. Then, using biphasic coaxial samples, magnetic susceptibilities are matched by titration with a paramagnetic salt. The matched phases are then layered in a standard NMR tube where they can be shimmed and examined. Linewidths of two distinct spectral lines, selected to characterize homogeneity in each phase, are simultaneously optimized. Two-dimensional distortion-free, slice-resolved spectra of an octanol/water system illustrate the method. These data are obtained using a 2D stepped-gradient pulse sequence devised for this application. Advantages of this sequence over slice-selective methods are that acquisition efficiency is increased and processing requires only conventional software.",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "13239": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 13239,
+            "scholarlyactivityid": 4419
+        },
+        "13240": {
+            "firstname": "Gerry",
+            "middleinitial": "",
+            "lastname": "Chingas",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13240,
+            "scholarlyactivityid": 4419
+        },
+        "13241": {
+            "firstname": "Bryan",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13241,
+            "scholarlyactivityid": 4419
+        }
+    },
+    "status": [
+        {
+            "id": 4419,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

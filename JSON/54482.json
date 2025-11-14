@@ -1,0 +1,115 @@
+{
+    "activityid": 54482,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Development of an Automated Segmentation Pipeline: Medical Images to Finite Element Hex Meshes in an Extensible Python Package",
+        "Name of Conference": "Annual Meeting of the Orthopaedic Research Society 2021",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "255741": {
+            "firstname": "Kalin",
+            "middleinitial": "",
+            "lastname": "Gibbons",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255741,
+            "scholarlyactivityid": 54482
+        },
+        "255742": {
+            "firstname": "Oliver",
+            "middleinitial": "",
+            "lastname": "Alvarez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255742,
+            "scholarlyactivityid": 54482
+        },
+        "255743": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Burton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255743,
+            "scholarlyactivityid": 54482
+        },
+        "255744": {
+            "firstname": "Donovan",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255744,
+            "scholarlyactivityid": 54482
+        },
+        "255745": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Rullkoetter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255745,
+            "scholarlyactivityid": 54482
+        },
+        "255746": {
+            "firstname": "Clare",
+            "middleinitial": "",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062491",
+            "authorid": 255746,
+            "scholarlyactivityid": 54482
+        }
+    },
+    "status": [
+        {
+            "id": 54482,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54482,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 54482,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

@@ -1,0 +1,77 @@
+{
+    "activityid": 68315,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Cultural Planning for Diversity, Equity and Inclusion",
+        "Name of Conference": "Idaho Chapter of the American Planning Association",
+        "Month / Season": "Fall 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669985",
+    "coauthors": {
+        "308211": {
+            "firstname": "Amanda",
+            "middleinitial": "G.",
+            "lastname": "Ashley",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113116029",
+            "authorid": 308211,
+            "scholarlyactivityid": 68315
+        },
+        "308210": {
+            "firstname": "Leslie",
+            "middleinitial": "A",
+            "lastname": "Durham",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669985",
+            "authorid": 308210,
+            "scholarlyactivityid": 68315
+        },
+        "308209": {
+            "firstname": "Carolyn",
+            "middleinitial": "",
+            "lastname": "Loh",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308209,
+            "scholarlyactivityid": 68315
+        },
+        "308208": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Bubb",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308208,
+            "scholarlyactivityid": 68315
+        }
+    },
+    "status": [
+        {
+            "id": 68315,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669985",
+    "attachments": []
+}

@@ -1,0 +1,54 @@
+{
+    "activityid": 24959,
+    "fields": {
+        "Type": "Book",
+        "Title": "A Writer's Topography: Space and Place in the Life and Works of Albert Camus",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Brill-Rodopi Press",
+        "Publisher Location": "Boston / Leiden",
+        "ISBN": "978-9004298231",
+        "Author/Editor of Larger Work": "Jason Herbeck and Vincent Gr\u00e9goire",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.brill.com/products/book/writers-topography",
+        "Description/Abstract": "Page Number:  279\r\nExplanation of Other:  This is a book of articles, of which I am a co-editor",
+        "Origin": "Other"
+    },
+    "facultyid": "112052765",
+    "coauthors": {
+        "111807": {
+            "firstname": "Jason",
+            "middleinitial": "Ryan",
+            "lastname": "Herbeck",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112052765",
+            "authorid": 111807,
+            "scholarlyactivityid": 24959
+        }
+    },
+    "status": [
+        {
+            "id": 24959,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 24959,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112052765",
+    "attachments": []
+}

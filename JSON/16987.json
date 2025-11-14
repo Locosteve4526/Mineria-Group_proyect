@@ -1,0 +1,62 @@
+{
+    "activityid": 16987,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Strategies for managing large online courses",
+        "Conference/Meeting Name": "International Conference  on Learning",
+        "Conference Location": "University of Mauritus, Mauritus",
+        "Date or Date Range": "2011-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "The Learner",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "67083": {
+            "firstname": "Patricia",
+            "middleinitial": "R",
+            "lastname": "Elison-Bowers",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110810",
+            "authorid": 67083,
+            "scholarlyactivityid": 16987
+        },
+        "67084": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 67084,
+            "scholarlyactivityid": 16987
+        },
+        "67085": {
+            "firstname": "Thomas",
+            "middleinitial": "Jack",
+            "lastname": "Wing II",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111308224",
+            "authorid": 67085,
+            "scholarlyactivityid": 16987
+        }
+    },
+    "status": [
+        {
+            "id": 16987,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

@@ -1,0 +1,46 @@
+{
+    "activityid": 34954,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "\u201cCharacterization of Image Degradation Caused by Scanning\u201d",
+        "Journal": "Pattern Recognition Letters",
+        "Volume": "19",
+        "Month / Season": "November",
+        "Issue Number": "13",
+        "Actual/Projected Year of Publication/Presentation": 1998,
+        "Page Numbers": "pp. 1191-1197",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": " A single parameter value that represents the difference between the original and the digitized\r\ncharacters is determined from a binary scan of a test chart. It represents the combined effect\r\nof the point spread function diameter and the binary intensity threshold and is used to generate\r\nsynthetic characters that are similar to characters scanned under the same conditions as the test\r\nchart.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142727": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142727,
+            "scholarlyactivityid": 34954
+        }
+    },
+    "status": [
+        {
+            "id": 34954,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1998,
+            "termid": "1998/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

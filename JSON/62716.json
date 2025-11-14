@@ -1,0 +1,76 @@
+{
+    "activityid": 62716,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;color:#333333;font-size:16px;&quot;&gt;Shades of Trade: Dark Trading and Price Efficiency&lt;/span&gt;",
+        "Name of Conference": "FMA Atlanta 2022",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "289592": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086454",
+            "authorid": 289592,
+            "scholarlyactivityid": 62716,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "289593": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "McBrayer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045846",
+            "authorid": 289593,
+            "scholarlyactivityid": 62716,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "289594": {
+            "firstname": "Ethan",
+            "middleinitial": "",
+            "lastname": "Watson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 289594,
+            "scholarlyactivityid": 62716,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62716,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

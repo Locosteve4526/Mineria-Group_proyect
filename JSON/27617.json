@@ -1,0 +1,65 @@
+{
+    "activityid": 27617,
+    "fields": {
+        "Type": "Book",
+        "Title": "Uncommon Core: Where the author of the standards get it wrong and how you can get it right",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "87305": {
+            "firstname": "Debra",
+            "middleinitial": "",
+            "lastname": "Appleman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87305,
+            "scholarlyactivityid": 27617
+        },
+        "87306": {
+            "firstname": "Michael ",
+            "middleinitial": "W",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87306,
+            "scholarlyactivityid": 27617
+        },
+        "87307": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 87307,
+            "scholarlyactivityid": 27617
+        }
+    },
+    "status": [
+        {
+            "id": 27617,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

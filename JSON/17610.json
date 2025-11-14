@@ -1,0 +1,52 @@
+{
+    "activityid": 17610,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Student-initiated multimedia blogging",
+        "Conference/Meeting Name": "SLOAN-C 5th Annual International Symposium",
+        "Conference Location": "Las Vegas, NV",
+        "Date or Date Range": "2012-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "SLOAN-C",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111319147",
+    "coauthors": {
+        "68860": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Miller",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68860,
+            "scholarlyactivityid": 17610
+        },
+        "68861": {
+            "firstname": "Chareen",
+            "middleinitial": "Lee",
+            "lastname": "Snelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111319147",
+            "authorid": 68861,
+            "scholarlyactivityid": 17610
+        }
+    },
+    "status": [
+        {
+            "id": 17610,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111319147",
+    "attachments": []
+}

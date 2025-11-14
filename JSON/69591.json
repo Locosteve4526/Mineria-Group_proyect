@@ -1,0 +1,48 @@
+{
+    "activityid": 69591,
+    "fields": {
+        "Type": "Book",
+        "Title": "Tested: Adventures of an American scientist in pandemic China",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Two-track Press",
+        "Publisher Location": "Boise, ID",
+        "ISBN": "979-8987408834",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112110324",
+    "coauthors": {
+        "314665": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Kohn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112110324",
+            "authorid": 314665,
+            "scholarlyactivityid": 69591,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69591,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112110324",
+    "attachments": []
+}

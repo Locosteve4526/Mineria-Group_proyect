@@ -1,0 +1,71 @@
+{
+    "activityid": 44162,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Surviving APA style: How to engage students to advance scholarly writing and career readiness",
+        "Conference/Meeting Name": "American Psychological Association",
+        "Conference Location": "San Francisco, CA",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "200036": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Mack",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200036,
+            "scholarlyactivityid": 44162,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "200037": {
+            "firstname": "Robin",
+            "middleinitial": "",
+            "lastname": "Musselman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200037,
+            "scholarlyactivityid": 44162,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "200038": {
+            "firstname": "R.",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 200038,
+            "scholarlyactivityid": 44162,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44162,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

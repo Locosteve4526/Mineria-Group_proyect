@@ -1,0 +1,66 @@
+{
+    "activityid": 32591,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Computationally efficient prediction of bone-implant interface micromotion of a cementless tibial tray during gait",
+        "Journal": "Journal of biomechanics",
+        "Volume": "47",
+        "Month / Season": null,
+        "Issue Number": "7",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "1718-26",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Cementless tibial fixation in total knee replacement (TKR) has potential for improved fixation and ease of revision. Achieving primary stability in cementless TKR is critical to the performance of the components. Excessive micromotion may prevent osseointegration at the bone-implant interface. Computational finite element (FE) studies have been used to predict micromotion at the interface, but analysis of an entire activity cycle is computational expensive, prohibiting large numbers of analyses. Surrogate modeling methods can be used to train a numerical model to predict the response of an FE model. These models are computationally efficient and are suitable for high-volume or iterative analyses requiring probabilistic, statistical or optimization methods. The objective of this work was to train a surrogate model capable of predicting micromotion over the entire bone-implant interface. A proximal tibial bone with mapped material properties was virtually implanted with a tibial tray. A FE model, with six-degree-of-freedom loads sampled from telemetric patients during walking, was used to generate training data for the surrogate model. The linear response surrogate model was evaluated for six full gait cycles; the average and peak micromotion across the interface, and the percentage of bone-implant interface surface area experiencing micromotions less than 50 and greater than 150\u00b5m were calculated both as a function of the activity cycle and as the composite peak micromotion throughout the cycle. Differences in root-mean-square (RMS) micromotion between FE and surrogate models were less than 14\u00b5m. FE analysis time for a complete gait cycle was 15h, compared to 30s for the surrogate model. Surrogate models have significant potential to rapidly predict micromotion over the entire bone-implant interface, allowing greater range in loading conditions to be explored than is possible through conventional methods.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "125716": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125716,
+            "scholarlyactivityid": 32591
+        },
+        "125717": {
+            "firstname": "Pleun",
+            "middleinitial": "",
+            "lastname": "Hemelaar",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125717,
+            "scholarlyactivityid": 32591
+        },
+        "125718": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Taylor",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125718,
+            "scholarlyactivityid": 32591
+        }
+    },
+    "status": [
+        {
+            "id": 32591,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

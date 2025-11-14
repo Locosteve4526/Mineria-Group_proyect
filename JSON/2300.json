@@ -1,0 +1,75 @@
+{
+    "activityid": 2300,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Arithmagons and Geometrically Invariant Multiplicative Integer Partitions",
+        "Journal": "Acta Mathematica Universitatis Comenianae",
+        "Volume": "",
+        "Month / Season": "2015-01-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "8",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114000904",
+    "coauthors": {
+        "6092": {
+            "firstname": "Jose",
+            "middleinitial": "A",
+            "lastname": "Franco",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6092,
+            "scholarlyactivityid": 2300
+        },
+        "6093": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 6093,
+            "scholarlyactivityid": 2300
+        },
+        "6094": {
+            "firstname": "Jeffrey",
+            "middleinitial": "W",
+            "lastname": "Lyons",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113059727",
+            "authorid": 6094,
+            "scholarlyactivityid": 2300
+        }
+    },
+    "status": [
+        {
+            "id": 2300,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 2300,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114000904",
+    "attachments": []
+}

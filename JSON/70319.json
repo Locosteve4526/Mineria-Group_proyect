@@ -1,0 +1,62 @@
+{
+    "activityid": 70319,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;font-size:13px;&quot;&gt;SoC Reconfigurable Architecture for Implementing Software Trained Recurrent Neural Networks on FPGA.&lt;/span&gt;",
+        "Journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+        "Volume": "70",
+        "Month / Season": "Apr, 2023",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "2497 - 2510",
+        "Publisher": "IEEE",
+        "DOI": "10.1109/TCSI.2023.3262479",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://ieeexplore.ieee.org/abstract/document/10097519?casa_token=yFfBwMDhcpYAAAAA:R73mrzUqTgpVqcok3ysUig7D1FscltXHk_-zcYyCydE36M7H4POk7jMLfYfYf2r2wNKlQzJ8-Cw",
+        "Description/Abstract": "&lt;span&gt;Recurrent neural networks (RNNs) are used extensively in time series data applications. Modern RNNs consist of three layer types: recurrent, Fully-Connected (FC), and attention. This paper introduces the design, acceleration, implementation, and verification of a complete reconfigurable RNN using a system-on-chip approach on an FPGA. This design is suitable for small-scale projects and Internet of Things (IoT) end devices as the design utilizes a small number of hardware resources compared to previous configurable architectures. The proposed reconfigurable architecture consists of three layers. The first layer is a Python software layer that contains a function serving as the architecture\u2019s user interface. The output of the python function is three binary files containing the RNN architecture description and trained parameters. The embedded software layer implemented on an on-chip ARM microcontroller is the second layer of that architecture. This layer reads the first layer output files and configures the hardware layer with the required configuration and parameters to execute each layer in the RNN. The hardware layer consists of two Intellectual Properties (IPs) with different configurations. The Recurrent Layer Hardware IP implements the recurrent layer using either Long Short Term Memory (LSTM) or Gated Recurrent Unit (GRU) as basic building blocks, while the ATTENTION/FC IP implements the attention layer and the FC layer. The proposed design allows the implementation of a recurrent layer on an FPGA with variable input and a hidden vector length of up to 100 elements for each vector. It also supports implementing an attention layer with up to 64 input vectors and a maximum vector length of 100 items. The FC layers can be configured to support a maximum value of 256 for the input vector length and the number of neurons in each layer. The hardware design of the recurrent layer achieves a maximum performance of 1.958 and 2.479 GOPS for the GRU and LSTM models, respectively. The maximum performance of the attention and FC layers is 2.641 GOPS and 634.3 MOPS, respectively. The hardware design works at a maximum frequency of 100 MHz.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "318208": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Wasef",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318208,
+            "scholarlyactivityid": 70319,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "318209": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 318209,
+            "scholarlyactivityid": 70319,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70319,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

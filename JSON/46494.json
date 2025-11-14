@@ -1,0 +1,101 @@
+{
+    "activityid": 46494,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A System for Multi-Person, Multi-Modal Data Collection and Analysis -- Predicting Perceived Dominance in Group Interaction",
+        "Journal": "Journal of Management Information Systems",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The objective is to determine in a group who is the leader, who is trustworthy, who is dominant and likable from kinesic, ocularmetric, vocalic and linguistic cues. This paper describes the design and implementation of a system (M3SSAGE) to collect data during group interaction. This system collected structured, yet natural, behavioral data from participants in an adversarial group setting. It must have the capacity to store and process large quantities of audio and video data. We detail our design process, and then demonstrate a proof-of-concept system. We test the efficacy of M3SSAGE by running a large-scale, international experiment with participants in an adversarial group game. We describe the experiment and how we collected verbal and nonverbal data from participants and in-game ratings of dominance\u2014an important behavior that shapes group dynamics. Using this data, we build several models to predict how dominant a person is perceived by other members of the group. The study concludes with a discussion of lessons learned during this process and avenues for future research using this system.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106117",
+    "coauthors": {
+        "237981": {
+            "firstname": "Bradley",
+            "middleinitial": "",
+            "lastname": "Dorn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 237981,
+            "scholarlyactivityid": 46494,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "237982": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Pentland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106117",
+            "authorid": 237982,
+            "scholarlyactivityid": 46494,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "237983": {
+            "firstname": "Jay",
+            "middleinitial": "",
+            "lastname": "Nunamaker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 237983,
+            "scholarlyactivityid": 46494,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "237984": {
+            "firstname": "Norah",
+            "middleinitial": "",
+            "lastname": "Dunbar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 237984,
+            "scholarlyactivityid": 46494,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "237985": {
+            "firstname": "Judee",
+            "middleinitial": "",
+            "lastname": "Burgoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 237985,
+            "scholarlyactivityid": 46494,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46494,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 7,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114106117",
+    "attachments": []
+}

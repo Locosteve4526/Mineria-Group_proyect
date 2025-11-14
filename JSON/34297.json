@@ -1,0 +1,72 @@
+{
+    "activityid": 34297,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Lieutenant Nun - Translation",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "1st",
+        "Volume": "",
+        "Publisher": "Routledge",
+        "Publisher Location": "London",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This is a scholarly edition and translation of the 1626 play, La Monja Alf\u00e9rez, written by Juan Perez de Montalban. I am co-translating the play with Marta Albala Peregrin",
+        "Origin": "Manual"
+    },
+    "facultyid": "112179795",
+    "coauthors": {
+        "311514": {
+            "firstname": "Edward",
+            "middleinitial": "McLean",
+            "lastname": "Test",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112179795",
+            "authorid": 311514,
+            "scholarlyactivityid": 34297
+        }
+    },
+    "status": [
+        {
+            "id": 34297,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 34297,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 34297,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 34297,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112179795",
+    "attachments": []
+}

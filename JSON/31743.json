@@ -1,0 +1,71 @@
+{
+    "activityid": 31743,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Tidal Evolution of Close-in Extra-Solar Planets",
+        "Conference/Meeting Name": "American Astronomical Society Meeting Abstracts",
+        "Conference Location": "",
+        "Date or Date Range": "Dec",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2007AAS...211.6801J",
+        "Description/Abstract": "Eccentricities e of extra-solar planets with semi-major axes a &gt; 0.2 AU are large, averaging 0.24 and broadly distributed up to near 1. For smaller a, eccentricities are much smaller (most &lt; 0.2), which is widely attributed to damping by tides after the planets formed and the gaseous disk dissipated. Previous estimates of the damping rates considered the tide raised on the planet by the star, but ignored the tide raised on the star. Also, specific values were assumed for the planet's poorly constrained tidal dissipation parameter Q. Perhaps most important, the strongly coupled evolution between a and e was ignored. We have now integrated the full coupled tidal evolution equations for e and a over the estimated age of each planet, and confirm that the distribution of initial e values of close-in planets can match that of the general population. Eccentricity distributions are best matched for stellar and planetary Q values of 1e5.5 and 1e6.5, respectively. The accompanying coupled tidal evolution of a values (mutually dependent on the evolution of e) was also significant: At the start of tidal migration, all planets had a &gt; 0.04 AU, typically &gt; twice their current values. It appears that gas disk migration did not bring planets closer than 0.04 AU, and that the current smaller values of a were only reached gradually due to tides over the lifetimes of the planets. For many planets, we also find that the past tidal heating rate was probably much larger than at present. For example, HD 209458 b may have experienced orders of magnitude more tidal heating within the past &lt; 1 Gyr, which might help explain its anomalously large radius. Models of the early physical evolution of &quot;hot Jupiters\u201d should include tidal migration and account for the much larger tidal heating in the past. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "120278": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120278,
+            "scholarlyactivityid": 31743,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120279": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Barnes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120279,
+            "scholarlyactivityid": 31743,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "120280": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Greenberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120280,
+            "scholarlyactivityid": 31743,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31743,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2007,
+            "termid": "2007/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

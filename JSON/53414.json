@@ -1,0 +1,65 @@
+{
+    "activityid": 53414,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The advancement of breast cancer treatment by developing cytokine inhibitors",
+        "Conference / Meeting Name": "The Boise State University Undergraduate Research Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "04-24-20",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110166",
+    "coauthors": {
+        "249331": {
+            "firstname": "Grace",
+            "middleinitial": "",
+            "lastname": "Coughlin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 249331,
+            "scholarlyactivityid": 53414,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "249332": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Jorcyk",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 249332,
+            "scholarlyactivityid": 53414
+        },
+        "249333": {
+            "firstname": "Don",
+            "middleinitial": "",
+            "lastname": "Warner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 249333,
+            "scholarlyactivityid": 53414
+        }
+    },
+    "status": [
+        {
+            "id": 53414,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110166",
+    "attachments": []
+}

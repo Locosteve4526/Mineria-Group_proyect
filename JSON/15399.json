@@ -1,0 +1,62 @@
+{
+    "activityid": 15399,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Beginning teachers and curriculum materials: Navigating the terrain",
+        "Conference/Meeting Name": "National Reading Conference ",
+        "Conference Location": "Scottsdale, AZ",
+        "Date or Date Range": "2000-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Sponsoring Organization": "National Reading Conference",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111728011",
+    "coauthors": {
+        "63660": {
+            "firstname": "S",
+            "middleinitial": "",
+            "lastname": "Valencia",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 63660,
+            "scholarlyactivityid": 15399
+        },
+        "63661": {
+            "firstname": "N",
+            "middleinitial": "",
+            "lastname": "Place",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 63661,
+            "scholarlyactivityid": 15399
+        },
+        "63662": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111728011",
+            "authorid": 63662,
+            "scholarlyactivityid": 15399
+        }
+    },
+    "status": [
+        {
+            "id": 15399,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728011",
+    "attachments": []
+}

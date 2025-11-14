@@ -1,0 +1,52 @@
+{
+    "activityid": 11371,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Addressing learning challenges of special populations",
+        "Conference/Meeting Name": "Chapter I Conference",
+        "Conference Location": "San Diego, CA",
+        "Date or Date Range": "1990-05-31",
+        "Actual/Projected Year of Publication/Presentation": 1990,
+        "Sponsoring Organization": "Chapter I",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "54569": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Church",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111113668",
+            "authorid": 54569,
+            "scholarlyactivityid": 11371
+        },
+        "54570": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 54570,
+            "scholarlyactivityid": 11371
+        }
+    },
+    "status": [
+        {
+            "id": 11371,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1990,
+            "termid": "1989/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

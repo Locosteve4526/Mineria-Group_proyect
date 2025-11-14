@@ -1,0 +1,125 @@
+{
+    "activityid": 37626,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Perceptions of Engagement and Learning with Mobile Technology in a University Setting",
+        "Journal": "College Teaching",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112063053",
+    "coauthors": {
+        "324191": {
+            "firstname": "Laura",
+            "middleinitial": "Jones",
+            "lastname": "Petranek",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112063053",
+            "authorid": 324191,
+            "scholarlyactivityid": 37626,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "324192": {
+            "firstname": "Cara",
+            "middleinitial": "",
+            "lastname": "Gallegos",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003270",
+            "authorid": 324192,
+            "scholarlyactivityid": 37626,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37626,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 37626,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 37626,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 37626,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 37626,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 37626,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 37626,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 37626,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112063053",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 10299,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "ECM Control of Cell Physiology and Angiogenesis",
+        "Conference / Meeting Name": "American Society for Matrix Biology",
+        "Conference Location": "Cleveland, OH",
+        "Date or Date Range": "2014-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "ASMB",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113156458",
+    "coauthors": {
+        "52574": {
+            "firstname": "Arpita",
+            "middleinitial": "",
+            "lastname": "Malik",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52574,
+            "scholarlyactivityid": 10299
+        },
+        "52575": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Deford",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52575,
+            "scholarlyactivityid": 10299
+        },
+        "52576": {
+            "firstname": "Allen",
+            "middleinitial": "",
+            "lastname": "Albig",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113156458",
+            "authorid": 52576,
+            "scholarlyactivityid": 10299
+        }
+    },
+    "status": [
+        {
+            "id": 10299,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113156458",
+    "attachments": []
+}

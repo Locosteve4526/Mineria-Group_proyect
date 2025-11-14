@@ -1,0 +1,56 @@
+{
+    "activityid": 31358,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Applying Sun Tzu's Terrain and Ground to the Study of Marketing Strategy",
+        "Journal": "Journal of Strategic Marketing",
+        "Volume": "13",
+        "Month / Season": "2005-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "293-304",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643654",
+    "coauthors": {
+        "117947": {
+            "firstname": "Jason",
+            "middleinitial": "Blaire",
+            "lastname": "MacDonald",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111643320",
+            "authorid": 117947,
+            "scholarlyactivityid": 31358
+        },
+        "117946": {
+            "firstname": "Kent",
+            "middleinitial": "",
+            "lastname": "Neupert",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111643654",
+            "authorid": 117946,
+            "scholarlyactivityid": 31358
+        }
+    },
+    "status": [
+        {
+            "id": 31358,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643654",
+    "attachments": []
+}

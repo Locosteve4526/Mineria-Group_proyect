@@ -1,0 +1,116 @@
+{
+    "activityid": 6505,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling of Tsunami Waves and Atmospheric Swirling Flows with Graphics Processing Unit (GPU) and Radial Basis Functions (RBF)",
+        "Journal": "Concurrency and Computation: Practice and Experience",
+        "Volume": "22",
+        "Month / Season": "2010-08-25",
+        "Issue Number": "12",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "1813-1835",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1002/cpe.1507",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/57",
+        "Description/Abstract": "The faster growth curves in the speed of graphics processing units  (GPUs) relative to CPUs have spawned a new area of development in  computational technology. There is much potential in utilizing GPUs for  solving evolutionary partial differential equations and producing the  attendant visualization. We are concerned with modeling tsunami waves,  where computational time is of extreme essence in broadcasting warnings.  We employed an NVIDIA board on a MacPro to test the efficacy of the GPU  on the set of shallow-water equations, and compared the relative speeds  between CPU and GPU for two types of spatial discretization based on  second-order finite differences and radial basis functions (RBFs). We  found that the GPU produced a speedup by a factor of 8 in favor of the  finite difference method and a factor of 7 for the RBF scheme. We also  studied the atmospheric dynamics problem of swirling flows over a  spherical surface and found a speedup of 5.3 by the GPU. The time steps  employed for the RBF method are larger than those used in finite  differences, because of the fewer number of nodal points needed by RBF.  Thus, RBF acting in concert with GPU would hold great promise for  tsunami modeling because of the spectacular reduction in the  computational time.",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "20256": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Schmidt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20256,
+            "scholarlyactivityid": 6505
+        },
+        "20257": {
+            "firstname": "C\u00e9cile",
+            "middleinitial": "",
+            "lastname": "Piret",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20257,
+            "scholarlyactivityid": 6505
+        },
+        "20258": {
+            "firstname": "Nan",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20258,
+            "scholarlyactivityid": 6505
+        },
+        "20259": {
+            "firstname": "Benjamin",
+            "middleinitial": "J.",
+            "lastname": "Kadlec",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20259,
+            "scholarlyactivityid": 6505
+        },
+        "20260": {
+            "firstname": "David",
+            "middleinitial": "A.",
+            "lastname": "Yuen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20260,
+            "scholarlyactivityid": 6505
+        },
+        "20261": {
+            "firstname": "Yingchun",
+            "middleinitial": "",
+            "lastname": "Liu",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20261,
+            "scholarlyactivityid": 6505
+        },
+        "20262": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 20262,
+            "scholarlyactivityid": 6505
+        },
+        "20263": {
+            "firstname": "Erik",
+            "middleinitial": "O. D.",
+            "lastname": "Sevre",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20263,
+            "scholarlyactivityid": 6505
+        }
+    },
+    "status": [
+        {
+            "id": 6505,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

@@ -1,0 +1,46 @@
+{
+    "activityid": 6655,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Error Bounds for Spatial Discretization and Waveform Relaxation Applied to Parabolic Functional-Differential Equations",
+        "Journal": "Journal of Mathematical Analysis and Applications",
+        "Volume": "293",
+        "Month / Season": "2004-12-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "496-510",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The process of semi-discretization and waveform relaxation are applied to general nonlinear parabolic functional differential equations. Two new theorems are presented, which extend and improve some of the classical results. The first of these theorems gives an upper bound for the norm of the error of finite difference semi-discretization. This upper bound is sharper than the classical error bound. The second of these theorems gives an upper bound for the norm of the error, which is caused by both semi-discretization and waveform relaxation. The focus in the paper is on estimating this error directly without using the upper bound for the error, which is caused by the process of semi-discretization and the upper bound for the error, which is caused by the waveform relaxation method. Such estimating gives sharper error bound than the bound, which is obtained by estimating both errors separately.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20734": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20734,
+            "scholarlyactivityid": 6655
+        }
+    },
+    "status": [
+        {
+            "id": 6655,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

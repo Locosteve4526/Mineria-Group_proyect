@@ -1,0 +1,92 @@
+{
+    "activityid": 45562,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Consideration Sets as Resources for Business Model Generation",
+        "Journal": "International Journal of Entrepreneurship and Small Business",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114027549",
+    "coauthors": {
+        "265898": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Mattingly",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114027549",
+            "authorid": 265898,
+            "scholarlyactivityid": 45562
+        },
+        "265899": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "McBrayer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045846",
+            "authorid": 265899,
+            "scholarlyactivityid": 45562
+        }
+    },
+    "status": [
+        {
+            "id": 45562,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 45562,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 45562,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 45562,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 45562,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114027549",
+    "attachments": []
+}

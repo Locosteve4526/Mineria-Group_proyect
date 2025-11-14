@@ -1,0 +1,56 @@
+{
+    "activityid": 5542,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Immersive technology and the elderly",
+        "Journal": "Gerontology",
+        "Volume": "61",
+        "Month / Season": "2015-01-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "175-185",
+        "Publisher": "",
+        "DOI": "10.1159/000365754",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "17008": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 17008,
+            "scholarlyactivityid": 5542
+        },
+        "17009": {
+            "firstname": "Cigdem",
+            "middleinitial": "",
+            "lastname": "Uz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17009,
+            "scholarlyactivityid": 5542
+        }
+    },
+    "status": [
+        {
+            "id": 5542,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

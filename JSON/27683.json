@@ -1,0 +1,87 @@
+{
+    "activityid": 27683,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Performance Comparison of Oxygen Delivery Devices in Patients with Varying Inspiratory Demands",
+        "Name of Conference": "",
+        "Month / Season": "2013-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111308224",
+    "coauthors": {
+        "87437": {
+            "firstname": "Gwendolyn",
+            "middleinitial": "A",
+            "lastname": "Hinten",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87437,
+            "scholarlyactivityid": 27683
+        },
+        "87438": {
+            "firstname": "Melynda",
+            "middleinitial": "",
+            "lastname": "Lewis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87438,
+            "scholarlyactivityid": 27683
+        },
+        "87439": {
+            "firstname": "Jared",
+            "middleinitial": "B",
+            "lastname": "Eardley",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87439,
+            "scholarlyactivityid": 27683
+        },
+        "87440": {
+            "firstname": "Thomas",
+            "middleinitial": "Jack",
+            "lastname": "Wing II",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111308224",
+            "authorid": 87440,
+            "scholarlyactivityid": 27683
+        },
+        "87441": {
+            "firstname": "Lonny",
+            "middleinitial": "J",
+            "lastname": "Ashworth",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110855",
+            "authorid": 87441,
+            "scholarlyactivityid": 27683
+        }
+    },
+    "status": [
+        {
+            "id": 27683,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111308224",
+    "attachments": []
+}

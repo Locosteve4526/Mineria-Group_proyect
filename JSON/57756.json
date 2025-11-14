@@ -1,0 +1,112 @@
+{
+    "activityid": 57756,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Nexus of Active Learning and Student Thriving in STEM",
+        "Journal": "CBE Life Sciences",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111620933",
+    "coauthors": {
+        "267662": {
+            "firstname": "Vicki",
+            "middleinitial": "",
+            "lastname": "Stieha",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113122305",
+            "authorid": 267662,
+            "scholarlyactivityid": 57756
+        },
+        "267663": {
+            "firstname": "Brittnee",
+            "middleinitial": "",
+            "lastname": "Earl",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 267663,
+            "scholarlyactivityid": 57756
+        },
+        "267664": {
+            "firstname": "Amy",
+            "middleinitial": "C",
+            "lastname": "Ulappa",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111620933",
+            "authorid": 267664,
+            "scholarlyactivityid": 57756
+        },
+        "267665": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 267665,
+            "scholarlyactivityid": 57756
+        }
+    },
+    "status": [
+        {
+            "id": 57756,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 57756,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 57756,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 57756,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 57756,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111620933",
+    "attachments": []
+}

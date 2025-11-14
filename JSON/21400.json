@@ -1,0 +1,62 @@
+{
+    "activityid": 21400,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Looking for a needle in a haystack: CALL and Advanced Language Proficiency",
+        "Journal": "CALICO",
+        "Volume": "35",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "CALICO",
+        "DOI": "10.1558/cj.31594",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1558/cj.31594",
+        "Description/Abstract": "Role:  Co-Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "113145983",
+    "coauthors": {
+        "145258": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Arispe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113145983",
+            "authorid": 145258,
+            "scholarlyactivityid": 21400,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "145259": {
+            "firstname": "Jack",
+            "middleinitial": "",
+            "lastname": "Burston",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145259,
+            "scholarlyactivityid": 21400,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 21400,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113145983",
+    "attachments": []
+}

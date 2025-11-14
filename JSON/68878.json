@@ -1,0 +1,58 @@
+{
+    "activityid": 68878,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Demystifying the genre of tenure and promotion letters in the field of L2 writing.",
+        "Conference/Meeting Name": "Symposium on Second Language Writing",
+        "Conference Location": "Tempe, AZ",
+        "Date or Date Range": "October 28, 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111670030",
+    "coauthors": {
+        "310015": {
+            "firstname": "Tanita",
+            "middleinitial": "",
+            "lastname": "Saenkhum",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 310015,
+            "scholarlyactivityid": 68878,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "310016": {
+            "firstname": "Gail",
+            "middleinitial": "E",
+            "lastname": "Shuck",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111670030",
+            "authorid": 310016,
+            "scholarlyactivityid": 68878,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68878,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111670030",
+    "attachments": []
+}

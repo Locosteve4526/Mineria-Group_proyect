@@ -1,0 +1,104 @@
+{
+    "activityid": 1698,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Elliptic Reciprocity",
+        "Journal": "Involve",
+        "Volume": "",
+        "Month / Season": "2013-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "4203": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 4203,
+            "scholarlyactivityid": 1698
+        },
+        "4204": {
+            "firstname": "K",
+            "middleinitial": "W",
+            "lastname": "Bombardier",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4204,
+            "scholarlyactivityid": 1698
+        },
+        "4205": {
+            "firstname": "M",
+            "middleinitial": "C",
+            "lastname": "Cole",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4205,
+            "scholarlyactivityid": 1698
+        },
+        "4206": {
+            "firstname": "T",
+            "middleinitial": "A",
+            "lastname": "Morrell",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4206,
+            "scholarlyactivityid": 1698
+        },
+        "4207": {
+            "firstname": "C",
+            "middleinitial": "B",
+            "lastname": "Scott",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111321988",
+            "authorid": 4207,
+            "scholarlyactivityid": 1698
+        }
+    },
+    "status": [
+        {
+            "id": 1698,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 1698,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 1698,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111716691",
+    "attachments": []
+}

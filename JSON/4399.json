@@ -1,0 +1,83 @@
+{
+    "activityid": 4399,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Accessing the utility and limitations of high throughput virtual screening",
+        "Journal": "AIMS Molecular Science",
+        "Volume": "3",
+        "Month / Season": "2016-03-24",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "238-245",
+        "Publisher": "",
+        "DOI": "DOI: 10.3934/molsci.2016.2.238",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Abstract: Due to low cost, speed, and unmatched ability to explore large numbers of compounds, high throughput virtual screening and molecular docking engines have become widely utilized by computational scientists. It is generally accepted that docking engines, such as AutoDock, produce reliable qualitative results for ligand-macromolecular receptor binding, and molecular docking results are commonly reported in literature in the absence of complementary wet lab experimental data. In this investigation, three variants of the sixteen amino acid peptide, \u03b1-conotoxin MII, were docked to a\r\nhomology model of the a3\u03b22-nicotinic acetylcholine receptor. DockoMatic version 2.0 was used to perform a virtual screen of each peptide ligand to the receptor for ten docking trials consisting of 100 AutoDock cycles per trial. The results were analyzed for both variation in the calculated binding energy\r\nobtained from AutoDock, and the orientation of bound peptide within the receptor. The results show that, while no clear correlation exists between consistent ligand binding pose and the calculated binding energy, AutoDock is able to determine a consistent positioning of bound peptide in the majority\r\nof trials when at least ten trials were evaluated.",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "99671": {
+            "firstname": "Paul",
+            "middleinitial": "Daniel",
+            "lastname": "Phillips",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 99671,
+            "scholarlyactivityid": 4399
+        },
+        "99672": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 99672,
+            "scholarlyactivityid": 4399
+        },
+        "99673": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 99673,
+            "scholarlyactivityid": 4399
+        }
+    },
+    "status": [
+        {
+            "id": 4399,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 4399,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112100122",
+    "attachments": [
+        {
+            "attachmentid": 678,
+            "mimetype": "application/pdf",
+            "filename": "Phillips_AIMSmolsci-03-00238_HTVS limitations 2016.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeUhJRXRBWEhMK1htTk11anpqbEQzNlpBTWxwSmdTRVhUTm00OWR0SnFzbktEQ2NyWTdlbzVwTVhkeVdHclBBeHJqeW1XWHhHL2JvSElwbVhNTFcrNjhpTS92ZS9sOWxxZ0tpRy9nTUsvVTdRPQ%3D%3D",
+            "filesize": 783330
+        }
+    ]
+}

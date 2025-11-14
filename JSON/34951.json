@@ -1,0 +1,47 @@
+{
+    "activityid": 34951,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cBilevel Image Degradations: Effects and Estimation\u201d",
+        "Name of Conference": "2001 Symposium on Document Image Understanding Technology",
+        "Month / Season": "23-25 April",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "pp. 49-55",
+        "Publisher": "",
+        "Publisher Location": "Columbia, MD",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "The two most significant parameters affecting degradations\r\nof bilevel images are the point spread function\r\n(PSF) width and the binarization threshold. Each pair of\r\nthese values will affect an image differently. However,\r\nseveral combinations of these parameters will affect\r\nimages in a similar fashion. This paper looks at two\r\naspects of image degradation: the displacement of an\r\nedge, which determines stroke width, and the erosion of\r\na corner, which affects crispness. The relationship\r\nbetween the PSF width and the binarization threshold\r\nand these two effects will be described. Sample characters,\r\nfirst with similar edge displacement and second\r\nwith similar corner erosion, will show the effect of estimating\r\nthe broader degradation versus the exact system\r\nparameters. Methods of estimating these degradations\r\nwill also be briefly discussed.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142723": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142723,
+            "scholarlyactivityid": 34951
+        }
+    },
+    "status": [
+        {
+            "id": 34951,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2001,
+            "termid": "2000/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 54532,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "A336800: Incrementally largest values of minimal y satisfying the equation x^2 - D*y^2 = 3, where D is a prime number.",
+        "Outlet (if applicable)": "Online Encyclopedia of Integer Sequences",
+        "Date": "Feb 04 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Publisher": "Online Encyclopedia of Integer Sequences",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://oeis.org/A336800",
+        "Description/Abstract": "A336800: Incrementally largest values of minimal y satisfying the equation x^2 - D*y^2 = 3, where D is a prime number.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "256276": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 256276,
+            "scholarlyactivityid": 54532
+        },
+        "256277": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256277,
+            "scholarlyactivityid": 54532,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54532,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

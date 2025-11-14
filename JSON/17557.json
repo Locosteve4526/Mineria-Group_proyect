@@ -1,0 +1,52 @@
+{
+    "activityid": 17557,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "A Phylogeny of the Neotropical tribe Episcieae (Gesneriaceae): convergent evolution of reproductive and vegetative characters.",
+        "Conference/Meeting Name": "Botany 2012",
+        "Conference Location": "Columbus, OH",
+        "Date or Date Range": "2012-07-14",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "ASPT",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "68741": {
+            "firstname": "John",
+            "middleinitial": "L.",
+            "lastname": "Clark",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68741,
+            "scholarlyactivityid": 17557
+        },
+        "68742": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 68742,
+            "scholarlyactivityid": 17557
+        }
+    },
+    "status": [
+        {
+            "id": 17557,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

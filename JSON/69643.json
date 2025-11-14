@@ -1,0 +1,70 @@
+{
+    "activityid": 69643,
+    "fields": {
+        "Type": "Book",
+        "Title": "Interoganizational Colloabration: Communication, and ethic 2nd Eds",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114060599",
+    "coauthors": {
+        "314925": {
+            "firstname": "Matthew",
+            "middleinitial": "G",
+            "lastname": "Isbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060599",
+            "authorid": 314925,
+            "scholarlyactivityid": 69643,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "314926": {
+            "firstname": "Renee",
+            "middleinitial": "G",
+            "lastname": "Heath",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314926,
+            "scholarlyactivityid": 69643,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69643,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 69643,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114060599",
+    "attachments": []
+}

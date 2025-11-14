@@ -1,0 +1,66 @@
+{
+    "activityid": 6510,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Parallel Computational Method for Simulating Two-Phase Gel Dynamics",
+        "Journal": "International Journal for Numerical Methods in Fluids",
+        "Volume": "60",
+        "Month / Season": "2008-09-10",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "633-649",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1002/fld.1907",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/24",
+        "Description/Abstract": "We develop a parallel computational algorithm for simulating models of gel dynamics where the gel is described by two phases, a networked polymer and a fluid solvent. The models consist of transport equations for the two phases, two coupled momentum equations, and a volumeaveraged incompressibility constraint. Multigrid with Vanka-type box relaxation scheme is used as preconditioner for the Krylov subspace solver (GMRES) to solve the momentum and incompressibility equations. Through numerical experiments of a model problem, the efficiency, robustness and scalability of the algorithm are illustrated.",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "20276": {
+            "firstname": "Jian",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20276,
+            "scholarlyactivityid": 6510
+        },
+        "20277": {
+            "firstname": "Aaron",
+            "middleinitial": "L.",
+            "lastname": "Fogelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20277,
+            "scholarlyactivityid": 6510
+        },
+        "20278": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 20278,
+            "scholarlyactivityid": 6510
+        }
+    },
+    "status": [
+        {
+            "id": 6510,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

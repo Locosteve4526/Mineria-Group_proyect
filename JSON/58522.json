@@ -1,0 +1,76 @@
+{
+    "activityid": 58522,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "An Analytic, Vertically Shearing Ice Shelf Model",
+        "Name of Conference": "American Geophysical Union Fall Meeting",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "Eos Transactions AGU, Fall Meet. Suppl. Abstract C15C-0813",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112680",
+    "coauthors": {
+        "272791": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Miele",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 272791,
+            "scholarlyactivityid": 58522,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "272792": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Bartholomaus",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 272792,
+            "scholarlyactivityid": 58522,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "272793": {
+            "firstname": "Ellyn",
+            "middleinitial": "M",
+            "lastname": "Enderlin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112680",
+            "authorid": 272793,
+            "scholarlyactivityid": 58522,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58522,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112680",
+    "attachments": []
+}

@@ -1,0 +1,101 @@
+{
+    "activityid": 43327,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "OEIS Sequence A319536",
+        "Outlet (if applicable)": "Online Encyclopedia of Integer Sequences",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Publisher": "Online Encyclopedia of Integer Sequences",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "Number of signed permutations of length n where numbers occur in consecutive order",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://oeis.org/A319536",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "194354": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 194354,
+            "scholarlyactivityid": 43327
+        },
+        "194355": {
+            "firstname": "Henry",
+            "middleinitial": "",
+            "lastname": "Fessler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194355,
+            "scholarlyactivityid": 43327,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "194356": {
+            "firstname": "Elizabeth",
+            "middleinitial": "L",
+            "lastname": "Foster",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194356,
+            "scholarlyactivityid": 43327,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "194357": {
+            "firstname": "Maniswanee",
+            "middleinitial": "",
+            "lastname": "Bezbaruah",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194357,
+            "scholarlyactivityid": 43327,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "194358": {
+            "firstname": "George",
+            "middleinitial": "",
+            "lastname": "Spahn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194358,
+            "scholarlyactivityid": 43327,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43327,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

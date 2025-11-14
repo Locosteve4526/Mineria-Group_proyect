@@ -1,0 +1,93 @@
+{
+    "activityid": 52605,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Accuracy and practical considerations for doubly labeled water analysis in nutrition studies using a laser-based isotope instrument (OA-ICOS)",
+        "Journal": "Journal of Nutrition",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1093/jn/nxab324",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1093/jn/nxab324",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114175877",
+    "coauthors": {
+        "261534": {
+            "firstname": "Linda",
+            "middleinitial": "M.",
+            "lastname": "Reynard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114175877",
+            "authorid": 261534,
+            "scholarlyactivityid": 52605,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "261535": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Wong",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 261535,
+            "scholarlyactivityid": 52605,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "261536": {
+            "firstname": "Noreen",
+            "middleinitial": "",
+            "lastname": "Tuross",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 261536,
+            "scholarlyactivityid": 52605,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52605,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 52605,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 52605,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114175877",
+    "attachments": []
+}

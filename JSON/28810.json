@@ -1,0 +1,58 @@
+{
+    "activityid": 28810,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Coaching today\u2019s millennial athlete",
+        "Conference/Meeting Name": "Women in Sport Leadership",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114063271",
+    "coauthors": {
+        "104500": {
+            "firstname": "Martha",
+            "middleinitial": "",
+            "lastname": "Ewing",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 104500,
+            "scholarlyactivityid": 28810,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "104501": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114063271",
+            "authorid": 104501,
+            "scholarlyactivityid": 28810,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28810,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114063271",
+    "attachments": []
+}

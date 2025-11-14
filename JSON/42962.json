@@ -1,0 +1,126 @@
+{
+    "activityid": 42962,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "WAND: A 128-channel, closed-loop, wireless artifact-free neuromodulation\n  device",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/1708.00556v3",
+        "Description/Abstract": "Closed-loop neuromodulation systems aim to treat a variety of neurological\nconditions by dynamically delivering and adjusting therapeutic electrical\nstimulation in response to a patient's neural state, recorded in real-time.\nExisting systems are limited by low channel counts, lack of algorithmic\nflexibility, and distortion of recorded signals from large, persistent\nstimulation artifacts. Here, we describe a device that enables new research\napplications requiring high-throughput data streaming, low-latency biosignal\nprocessing, and truly simultaneous sensing and stimulation. The Wireless\nArtifact-free Neuromodulation Device (WAND) is a miniaturized, wireless neural\ninterface capable of recording and stimulating on 128 channels with on-board\nprocessing to fully cancel stimulation artifacts, detect neural biomarkers, and\nautomatically adjust stimulation parameters in a closed-loop fashion. It\ncombines custom application specific integrated circuits (ASICs), an on-board\nFPGA, and a low-power bidirectional radio. We validate wireless, long-term\nrecordings of local field potentials (LFP) and real-time cancellation of\nstimulation artifacts in a behaving nonhuman primate (NHP). We use WAND to\ndemonstrate a closed-loop stimulation paradigm to disrupt movement preparatory\nactivity during a delayed-reach task in a NHP in vivo. This wireless device,\nleveraging custom ASICs for both neural recording and electrical stimulation\nmodalities, makes possible a neural interface platform technology to\nsignificantly advance both neuroscientific discovery and preclinical\ninvestigations of stimulation-based therapeutic interventions.\n[Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "112063074",
+    "coauthors": {
+        "191859": {
+            "firstname": "Andy Zhou",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191859,
+            "scholarlyactivityid": 42962
+        },
+        "191860": {
+            "firstname": "Samantha R. Santacruz",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191860,
+            "scholarlyactivityid": 42962
+        },
+        "191861": {
+            "firstname": "Benjamin C. Johnson",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191861,
+            "scholarlyactivityid": 42962
+        },
+        "191862": {
+            "firstname": "George Alexandrov",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191862,
+            "scholarlyactivityid": 42962
+        },
+        "191863": {
+            "firstname": "Ali Moin",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191863,
+            "scholarlyactivityid": 42962
+        },
+        "191864": {
+            "firstname": "Fred L. Burghardt",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191864,
+            "scholarlyactivityid": 42962
+        },
+        "191865": {
+            "firstname": "Jan M. Rabaey",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191865,
+            "scholarlyactivityid": 42962
+        },
+        "191866": {
+            "firstname": "Jose M. Carmena",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191866,
+            "scholarlyactivityid": 42962
+        },
+        "191867": {
+            "firstname": "Rikky Muller",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191867,
+            "scholarlyactivityid": 42962
+        }
+    },
+    "status": [
+        {
+            "id": 42962,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112063074",
+    "attachments": []
+}

@@ -1,0 +1,77 @@
+{
+    "activityid": 26897,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "What is Retention?",
+        "Book Title": "A Rhetoric for Writing Program Administrators",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113118110",
+    "coauthors": {
+        "234933": {
+            "firstname": "Heidi",
+            "middleinitial": "Klareen",
+            "lastname": "Estrem",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112096853",
+            "authorid": 234933,
+            "scholarlyactivityid": 26897
+        },
+        "234934": {
+            "firstname": "Dawn",
+            "middleinitial": "Renee",
+            "lastname": "Shepherd",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113118110",
+            "authorid": 234934,
+            "scholarlyactivityid": 26897
+        },
+        "234935": {
+            "firstname": "Pegeen",
+            "middleinitial": "",
+            "lastname": "Reichert Powell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 234935,
+            "scholarlyactivityid": 26897
+        }
+    },
+    "status": [
+        {
+            "id": 26897,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 26897,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113118110",
+    "attachments": []
+}

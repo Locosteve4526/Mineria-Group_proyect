@@ -1,0 +1,46 @@
+{
+    "activityid": 6643,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Solutions for the Cell Cycle in Cell Lines Derived from Human Tumors",
+        "Journal": "Computational &amp; Mathematical Methods in Medicine",
+        "Volume": "7",
+        "Month / Season": "2006-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "215-228",
+        "Publisher": "Taylor and Francis",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The goal of the paper is to compute efficiently solutions for model equations that have the potential to describe the growth of human tumor cells and their responses to radiotherapy or chemotherapy. The mathematical model involves four unknown functions of two independent variables: the time variable t and dimensionless relative DNA content x. The unknown functions can be thought of as the number density of cells and are solutions of a system of four partial differential equations. We construct solutions of the system, which allow us to observe the number density of cells for different t and x values. We present results of our experiments which simulate population kinetics of human cancer cells in vitro. Our results show a correspondence between predicted and experimental data.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20713": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20713,
+            "scholarlyactivityid": 6643
+        }
+    },
+    "status": [
+        {
+            "id": 6643,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

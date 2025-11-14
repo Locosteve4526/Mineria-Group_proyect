@@ -1,0 +1,75 @@
+{
+    "activityid": 75388,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Improving Trainability of Variational Quantum Circuits via Regularization Strategies&lt;/p&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/2405.01606v1",
+        "Description/Abstract": "&lt;p&gt;In the era of noisy intermediate-scale quantum (NISQ), variational quantum circuits (VQCs) have been widely applied in various domains, advancing the superiority of quantum circuits against classic models. Similar to classic models, regular VQCs can be optimized by various gradient-based methods. However, the optimization may be initially trapped in barren plateaus or eventually entangled in saddle points during training. These gradient issues can significantly undermine the trainability of VQC. In this work, we propose a strategy that regularizes model parameters with prior knowledge of the train data and Gaussian noise diffusion. We conduct ablation studies to verify the effectiveness of our strategy across four public datasets and demonstrate that our method can improve the trainability of VQCs against the above-mentioned gradient issues.&lt;/p&gt;",
+        "Origin": "arXiv"
+    },
+    "facultyid": "114254397",
+    "coauthors": {
+        "333645": {
+            "firstname": "Jun",
+            "middleinitial": "",
+            "lastname": "Zhuang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333645,
+            "scholarlyactivityid": 75388,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333646": {
+            "firstname": "Jack",
+            "middleinitial": "",
+            "lastname": "Cunningham",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333646,
+            "scholarlyactivityid": 75388,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "333647": {
+            "firstname": "Chaowen",
+            "middleinitial": "",
+            "lastname": "Guan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333647,
+            "scholarlyactivityid": 75388,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75388,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254397",
+    "attachments": []
+}

@@ -1,0 +1,89 @@
+{
+    "activityid": 75393,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;p&gt;All-printed multifunctional sensors for structural health monitoring of inflatable habitats&lt;/p&gt;",
+        "Name of Conference": "Health Monitoring of Structural and Biological Systems XVIII",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "445--453",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "12951",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12951/1295123/All-printed-multifunctional-sensors-for-structural-health-monitoring-of-inflatable/10.1117/12.3009977.short",
+        "Description/Abstract": "&lt;p&gt;Inflatable structures present an efficient solution for deep space habitats, enabling compact storage during launch and providing a large operational volume once deployed in space. However, their lightweight and thin-walled design makes them susceptible to Micro-Meteoroids and Orbital Debris (MMODs), as well as the cumulative effects of creep strain. To ensure the safety of these inflatable habitats, this study used a commercial material extrusion system to prototype a flexible and multifunctional sensor for non-destructive structural health monitoring. This unique sensor consists of a piezoelectric polyvinylidene fluoride-trifluoroethylene (PVDF-trFE) film sandwiched between a pair of electrodes. The piezoelectric layer detects dynamic impact force due to MMODs and the electrodes printed into piezoresistive strain gauges are capable of measuring creep strain. In this study, a comprehensive sensor fabrication technique, including piezoelectric ink synthesis, printer settings, and material post-processing method, was first developed. Subsequent experiments using a mechanical load frame and impact hammer quantified the sensor sensitivity in piezoresistive and piezoelectric mode, respectively. The printed sensor achieved a gauge factor exceeding 8 in piezoresistive mode. An additional machine learning model predicted impact magnitude and impact width with linear correlation coefficients of 0.99 and 0.89, respectively, when compared to the tested values. These promising results underscore the potential for in-situ manufacturing of such multifunctional sensors, paving the way for sustainable deep space missions that not only minimize launch mass but also diminish reliance on exhaustive pre-launch designs.&lt;/p&gt;",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114254397",
+    "coauthors": {
+        "333714": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Zuzelski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333714,
+            "scholarlyactivityid": 75393,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333715": {
+            "firstname": "Isaac",
+            "middleinitial": "",
+            "lastname": "Little",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333715,
+            "scholarlyactivityid": 75393,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333716": {
+            "firstname": "Jun",
+            "middleinitial": "",
+            "lastname": "Zhuang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333716,
+            "scholarlyactivityid": 75393,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333717": {
+            "firstname": "Zhangxian",
+            "middleinitial": "",
+            "lastname": "Deng",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333717,
+            "scholarlyactivityid": 75393,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75393,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254397",
+    "attachments": []
+}

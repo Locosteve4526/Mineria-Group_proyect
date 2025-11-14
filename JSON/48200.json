@@ -1,0 +1,86 @@
+{
+    "activityid": 48200,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Age and environmental effects on flight performance of California condors",
+        "Journal": "TBD",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "222939": {
+            "firstname": "Sophie",
+            "middleinitial": "",
+            "lastname": "Bonner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222939,
+            "scholarlyactivityid": 48200
+        },
+        "222940": {
+            "firstname": "Sharon",
+            "middleinitial": "",
+            "lastname": "Poessel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222940,
+            "scholarlyactivityid": 48200
+        },
+        "222941": {
+            "firstname": "joseph",
+            "middleinitial": "",
+            "lastname": "Brandt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222941,
+            "scholarlyactivityid": 48200
+        },
+        "222942": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 222942,
+            "scholarlyactivityid": 48200
+        },
+        "222943": {
+            "firstname": "Todd",
+            "middleinitial": "",
+            "lastname": "Katzner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222943,
+            "scholarlyactivityid": 48200
+        }
+    },
+    "status": [
+        {
+            "id": 48200,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

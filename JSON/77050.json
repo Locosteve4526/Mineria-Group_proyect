@@ -1,0 +1,85 @@
+{
+    "activityid": 77050,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Rights Protections Across Courts and Judges\u00a0",
+        "Name of Conference": "APSA Annual Meeting",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112062498",
+    "coauthors": {
+        "343478": {
+            "firstname": "Lori",
+            "middleinitial": "J",
+            "lastname": "Hausegger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112062498",
+            "authorid": 343478,
+            "scholarlyactivityid": 77050,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "343479": {
+            "firstname": "Danielle",
+            "middleinitial": "",
+            "lastname": "McNabb",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343479,
+            "scholarlyactivityid": 77050,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "343480": {
+            "firstname": "Troy",
+            "middleinitial": "",
+            "lastname": "Riddell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343480,
+            "scholarlyactivityid": 77050,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77050,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 77050,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112062498",
+    "attachments": []
+}

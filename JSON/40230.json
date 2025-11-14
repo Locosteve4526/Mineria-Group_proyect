@@ -1,0 +1,86 @@
+{
+    "activityid": 40230,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tibetan Lake Expansion from A Pastoral Perspective: Local Observations and Coping Strategies for a Changing Environment",
+        "Journal": "Society and Natural Resources",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "1-18",
+        "Publisher": "",
+        "DOI": "10.1080/08941920.2019.1590667",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106013",
+    "coauthors": {
+        "217170": {
+            "firstname": "Yonten",
+            "middleinitial": "",
+            "lastname": "Nyima",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217170,
+            "scholarlyactivityid": 40230,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "217171": {
+            "firstname": "Kelly",
+            "middleinitial": "A",
+            "lastname": "Hopping",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106013",
+            "authorid": 217171,
+            "scholarlyactivityid": 40230,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40230,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40230,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114106013",
+    "attachments": [
+        {
+            "attachmentid": 17561,
+            "mimetype": "application/pdf",
+            "filename": "Nyima_Hopping_2019_Tibetan Lake Expansion from a Pastoral Perspective.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlqQlZZMFdlSVh5MjB0UEpicUMwOVNBemhMbENqSGEvVExxRzhqbmNtQ2g1QTJZRDl3VmtHLy9PdmhOQ2todnI2N1JjMVlMUzVMYXdnb3RrYmd3SmZFa0tITGE2Z0NRdjdpdm9WdGRnYk5jaWR3T1p2WjZBMTh1STJNYy9MWG80cTg9",
+            "filesize": 1746191
+        },
+        {
+            "attachmentid": 20316,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filename": "Nyima_Hopping_2019_Tibetan Lake Expansion from a Pastoral Perspective SI.docx",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlqVkUxaDV4VENZWnJUb1h5c20vRmMwS0pncVYxZk9Bb3JrUCt1RTVDZHhzOUFYWU9VOFhNVnBsaVAzWTRnRDBqbDUrOGZUaEFpQVNDRlFTNkUvUk9Db21QL2JDWlFxYmxOaFo3STdTODdkdXR6NWJIemdMUE9pNStYZXVCZlNTWDQ9",
+            "filesize": 3623875
+        }
+    ]
+}

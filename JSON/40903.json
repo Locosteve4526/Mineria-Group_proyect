@@ -1,0 +1,79 @@
+{
+    "activityid": 40903,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "NUMO - a new non-hydrostatic ice-sheet/ocean interaction model for Greenland fjords",
+        "Conference / Meeting Name": "American Geophysical Union Fall Meeting 2018",
+        "Conference Location": "Washington, DC",
+        "Date or Date Range": "December 10-14, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "American Geophysical Union",
+        "Presenter(s)": null,
+        "Web Address": "https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/49860",
+        "Description/Abstract": "Ice-sheet/ocean interaction in Greenland is one of the key outstanding challenges in climate modeling, yet present-day climate models are not able to resolve fine-scale processes in the fjords. This is due to orders of magnitude difference in spatial scales between the open ocean (~1000km) and fjord (&lt;1km) as well as small-scale processes at the glacier terminus, complicated bathymetry and coastline.\nThe NUMO project aims to address the issues arising in fjord modeling by developing a three-dimensional, unstructured mesh model using high-order Galerkin methods. Local non-conforming refinement allows for resolving particular areas of interests (i.e. ice-sheet / ocean interface), while maintaining coarser resolution in the rest of the domain.\nWe will present progress of the project, with the goal to develop a non-hydrostatic ocean model able to resolve ice-sheet / ocean interactions, circulation within the fjord and exchanges with the ocean. Recent developments include a streamlined modeling process from GIS bathymetry information (i.e. BedMachine 3.0), through 3D geometry modeling, meshing, and simulations. We will present both simplified (box-fjord) and more realistic (3D Sermilik Fjord) simulations.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108611",
+    "coauthors": {
+        "179629": {
+            "firstname": "Michal",
+            "middleinitial": "A",
+            "lastname": "Kopera",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108611",
+            "authorid": 179629,
+            "scholarlyactivityid": 40903,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "179630": {
+            "firstname": "Wieslaw",
+            "middleinitial": "",
+            "lastname": "Maslowski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179630,
+            "scholarlyactivityid": 40903,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179631": {
+            "firstname": "Francis",
+            "middleinitial": "X",
+            "lastname": "Giraldo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179631,
+            "scholarlyactivityid": 40903,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40903,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114108611",
+    "attachments": [
+        {
+            "attachmentid": 12313,
+            "mimetype": "application/pdf",
+            "filename": "NUMO_poster.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlpWHg5L1dWR3NmNCtZY0kzc2poRG8yZjdkbjZLR1UwNXhSd1dNaWQwVTJUcUlFdUpMWXM5VlU%3D",
+            "filesize": 4622099
+        }
+    ]
+}

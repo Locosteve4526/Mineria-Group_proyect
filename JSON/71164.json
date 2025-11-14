@@ -1,0 +1,58 @@
+{
+    "activityid": 71164,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "&lt;span style=&quot;color:#333333;background-color:rgba(0,0,0,0.05);&quot;&gt;CTB as an adjuvant in microneedles&lt;/span&gt;",
+        "Conference / Meeting Name": "ASM Intermountain Branch annual conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "February 18, 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "ASM, USDA, Boise State BRC, Osher",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "323292": {
+            "firstname": "Hannah",
+            "middleinitial": "",
+            "lastname": "Hedlius",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 323292,
+            "scholarlyactivityid": 71164,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "323293": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 323293,
+            "scholarlyactivityid": 71164,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71164,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

@@ -1,0 +1,101 @@
+{
+    "activityid": 30552,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Lomatium basalticum (Apiaceae):  A new species form the vicinity of Hells Canyon in Oregon and Idaho",
+        "Journal": "Phytoneuron",
+        "Volume": "2016-74",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "1-13",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "112196": {
+            "firstname": "Donald",
+            "middleinitial": "H.",
+            "lastname": "Mansfield",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112196,
+            "scholarlyactivityid": 30552,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "112197": {
+            "firstname": "McKayla",
+            "middleinitial": "",
+            "lastname": "Stevens",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112197,
+            "scholarlyactivityid": 30552,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "112198": {
+            "firstname": "Lauren",
+            "middleinitial": "",
+            "lastname": "Polito",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112198,
+            "scholarlyactivityid": 30552,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "112199": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 112199,
+            "scholarlyactivityid": 30552,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "112200": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Darrach",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112200,
+            "scholarlyactivityid": 30552,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30552,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

@@ -1,0 +1,81 @@
+{
+    "activityid": 76592,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Assessing the Impacts of a Novel Dissolved Oxygen Infusion System Using Comprehensive Correlation Analysis",
+        "Journal": "Water Research",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045153",
+    "coauthors": {
+        "341193": {
+            "firstname": "Gregor",
+            "middleinitial": "",
+            "lastname": "Posadas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341193,
+            "scholarlyactivityid": 76592,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "341194": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341194,
+            "scholarlyactivityid": 76592,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341195": {
+            "firstname": "Sondra",
+            "middleinitial": "M",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045153",
+            "authorid": 341195,
+            "scholarlyactivityid": 76592
+        }
+    },
+    "status": [
+        {
+            "id": 76592,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 76592,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112045153",
+    "attachments": []
+}

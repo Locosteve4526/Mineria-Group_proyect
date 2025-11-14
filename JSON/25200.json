@@ -1,0 +1,55 @@
+{
+    "activityid": 25200,
+    "fields": {
+        "Type": "Book",
+        "Title": "Preparing on-line instructors: beyond using the technology",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Idea Group Inc.",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Orvis, K. L. &amp; Lassiter, A.",
+        "Title of Larger Work": "Computer supported Collaborative Learning: Best practices and principles for instructors",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "82186": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 82186,
+            "scholarlyactivityid": 25200
+        },
+        "82187": {
+            "firstname": "J.",
+            "middleinitial": "",
+            "lastname": "Pitcock",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82187,
+            "scholarlyactivityid": 25200
+        }
+    },
+    "status": [
+        {
+            "id": 25200,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

@@ -1,0 +1,51 @@
+{
+    "activityid": 43082,
+    "fields": {
+        "Type": "Review",
+        "Title of Review": "Review of EdSurvey v.2 Package",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers of Number of Pages": "25",
+        "Publisher": "National Center of Educational Statistics Technical Report",
+        "Publisher Location": "",
+        "Month / Season": "",
+        "Title of larger work": "",
+        "Volume": "",
+        "Issue Number": "",
+        "Author/Editor of larger work": "",
+        "DOI": "",
+        "ISSN/ISBN #": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "  This new R package EdSurvey is to be made available to the public by NCES for the purpose of analyzing NCES public data. As primary software for unlimited use, verification of code and function required challenging the R package to perform under the kinds of tests that reveal weakness in the code that could lead to misinterpretation of results as well as flaws that would cause the package to fail to deliver the results of an analysis task.\u00a0 Additionally, extensive comparison with standard commercial and proprietary software currently in use as a standard for the discipline was essential to ensure the credibility as well as the correctness of the new R package. These comparisons and test needed to be extensive and very detailed; user-friendliness also needed a serious evaluation. Thus the checking and verification was a task with extremely high impact as NCES prepares to make the package openly available. I was the sole reviewer of EdSurvey R package version 1 and version 2 and the sole author of the technical reports submitted to NCES.\u00a0",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108320",
+    "coauthors": {
+        "197199": {
+            "firstname": "Ya",
+            "middleinitial": "",
+            "lastname": "Mo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108320",
+            "authorid": 197199,
+            "scholarlyactivityid": 43082,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43082,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114108320",
+    "attachments": []
+}

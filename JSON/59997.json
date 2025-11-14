@@ -1,0 +1,101 @@
+{
+    "activityid": 59997,
+    "fields": {
+        "Type": "Book",
+        "Title": "Innovative approaches to teaching and assessing teamwork in higher education: Setting priorities, using evidence-informed practices, and avoiding pitfalls.",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Taylor &amp; Francis",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135309",
+    "coauthors": {
+        "329795": {
+            "firstname": "Cynthia",
+            "middleinitial": "G",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113146329",
+            "authorid": 329795,
+            "scholarlyactivityid": 59997,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "329796": {
+            "firstname": "Iryna",
+            "middleinitial": "",
+            "lastname": "Babik",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135309",
+            "authorid": 329796,
+            "scholarlyactivityid": 59997,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "329797": {
+            "firstname": "R. Eric",
+            "middleinitial": "",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 329797,
+            "scholarlyactivityid": 59997,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59997,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59997,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 59997,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 59997,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114135309",
+    "attachments": []
+}

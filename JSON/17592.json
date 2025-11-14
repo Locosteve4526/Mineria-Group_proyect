@@ -1,0 +1,72 @@
+{
+    "activityid": 17592,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Learning from the past: An educational technology content analysis",
+        "Conference/Meeting Name": "Society for Information Technology &amp; Teacher Education",
+        "Conference Location": "Nashville, TN",
+        "Date or Date Range": "2011-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "Association for the Advancement of Computing in Education",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111319147",
+    "coauthors": {
+        "68830": {
+            "firstname": "Mike",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68830,
+            "scholarlyactivityid": 17592
+        },
+        "68831": {
+            "firstname": "Constance",
+            "middleinitial": "J",
+            "lastname": "Wyzard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111499",
+            "authorid": 68831,
+            "scholarlyactivityid": 17592
+        },
+        "68832": {
+            "firstname": "Chareen",
+            "middleinitial": "Lee",
+            "lastname": "Snelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111319147",
+            "authorid": 68832,
+            "scholarlyactivityid": 17592
+        },
+        "68833": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 68833,
+            "scholarlyactivityid": 17592
+        }
+    },
+    "status": [
+        {
+            "id": 17592,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111319147",
+    "attachments": []
+}

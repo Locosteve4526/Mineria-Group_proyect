@@ -1,0 +1,58 @@
+{
+    "activityid": 64973,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:12pt;&quot;&gt;PsychSessions everywhere, what do you want to listen to [Water, water, everywhere, nor any drop to drink]&lt;/span&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;.&lt;/span&gt;",
+        "Conference/Meeting Name": "Eastern Psychological Association",
+        "Conference Location": "New York City, NY",
+        "Date or Date Range": "March 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "301276": {
+            "firstname": "Garth",
+            "middleinitial": "",
+            "lastname": "Neufeld",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301276,
+            "scholarlyactivityid": 64973,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "301277": {
+            "firstname": "R. Eric",
+            "middleinitial": "",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 301277,
+            "scholarlyactivityid": 64973,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64973,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 7062,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Market Analysis of Priority Populations to Health and Public Health Professional Associations",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "2016-01-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111641510",
+    "coauthors": {
+        "21851": {
+            "firstname": "Taylor",
+            "middleinitial": "",
+            "lastname": "Neher",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21851,
+            "scholarlyactivityid": 7062
+        },
+        "21852": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Toevs",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111641510",
+            "authorid": 21852,
+            "scholarlyactivityid": 7062
+        }
+    },
+    "status": [
+        {
+            "id": 7062,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 7,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111641510",
+    "attachments": []
+}

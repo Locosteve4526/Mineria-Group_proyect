@@ -1,0 +1,84 @@
+{
+    "activityid": 49092,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Joint inversion of full-waveform ground-penetrating radar and electrical resistivity data: Part 2: Enhancing low frequencies with the envelope transform and cross gradients",
+        "Journal": "Geophysics",
+        "Volume": "85",
+        "Month / Season": "",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "H115\u2013H132",
+        "Publisher": "SEG",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "247821": {
+            "firstname": "Diego",
+            "middleinitial": "",
+            "lastname": "Domenzain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247821,
+            "scholarlyactivityid": 49092,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "247822": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Bradford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247822,
+            "scholarlyactivityid": 49092,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "247823": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 247823,
+            "scholarlyactivityid": 49092,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 49092,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 49092,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

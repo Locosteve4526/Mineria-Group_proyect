@@ -1,0 +1,101 @@
+{
+    "activityid": 45489,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Normalization of unconstrained handwritten words in terms of Slope and Slant Correction",
+        "Journal": "Pattern Recognition Letters",
+        "Volume": "128",
+        "Month / Season": "December",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "488-495",
+        "Publisher": "Elsevier",
+        "DOI": "https://doi.org/10.1016/j.patrec.2019.10.025",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "257716": {
+            "firstname": "Suman Kumar",
+            "middleinitial": "",
+            "lastname": "Bera",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257716,
+            "scholarlyactivityid": 45489,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257717": {
+            "firstname": "Akash",
+            "middleinitial": "",
+            "lastname": "Chakrabarti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257717,
+            "scholarlyactivityid": 45489,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257718": {
+            "firstname": "Sagnik",
+            "middleinitial": "",
+            "lastname": "Lahiri",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257718,
+            "scholarlyactivityid": 45489,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257719": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 257719,
+            "scholarlyactivityid": 45489,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257720": {
+            "firstname": "Ram",
+            "middleinitial": "",
+            "lastname": "Sarkar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257720,
+            "scholarlyactivityid": 45489,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45489,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 47311,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Relative Combinatorial Asphericity",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/1904.08253v1",
+        "Description/Abstract": "We introduce relative versions of diagrammatic reducibility (DR) and vertex\nasphericity (VA). The definition of diagrammatic reducibility of a 2-complex\ngoes back to Sieradski 1983 who developed it as a tool for detecting\nasphericity of a 2-complex. We characterize relative DR in terms of finite\nsubcomplexes of the universal covering analogous to such a characterization of\nCorson and Trace in the non-relative case and compare relative DR and VA with\nexisting notions of relative asphericity that are in the literature. We present\ntests for relative DR and DA and apply them to LOT-complexes. We give a simpler\nproof for the asphericity of injective LOTs, a result obtained by the authors\nin 2017, using a relative weight test.\n[Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "112135119",
+    "coauthors": {
+        "216870": {
+            "firstname": "Stephan Rosebrock",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216870,
+            "scholarlyactivityid": 47311
+        },
+        "216871": {
+            "firstname": "Jens Harlander",
+            "middleinitial": "",
+            "lastname": "",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216871,
+            "scholarlyactivityid": 47311
+        }
+    },
+    "status": [
+        {
+            "id": 47311,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112135119",
+    "attachments": []
+}

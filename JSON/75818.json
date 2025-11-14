@@ -1,0 +1,45 @@
+{
+    "activityid": 75818,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Amazon Web Services: What Services Should You Use For Hosting Your Applications?",
+        "Conference/Meeting Name": "phptek 2025",
+        "Conference Location": "Chicago, IL, USA",
+        "Date or Date Range": "May 20-22",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "php[architect]",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "According to the 2024 Stackoverflow Developer survey, 48% of all respondents and 52.2% of professional respondents stated that they use Amazon Web Services (AWS) extensively. These numbers are no surprise given the flexibility and customization of over a hundred services offered by AWS. This presentation will focus on three services used for application hosting: (1) Elastic Compute Cloud, (2) Beanstalk, and (3) Lambda. We will compare and contrast these services to better understand the best choice for a given business scenario.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114197579",
+    "coauthors": {
+        "336820": {
+            "firstname": "Jack",
+            "middleinitial": "D",
+            "lastname": "Polifka",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114197579",
+            "authorid": 336820,
+            "scholarlyactivityid": 75818,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75818,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114197579",
+    "attachments": []
+}

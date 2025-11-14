@@ -1,0 +1,54 @@
+{
+    "activityid": 24382,
+    "fields": {
+        "Type": "Book",
+        "Title": "Bitter Green",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Fence Books",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Rebecca Wolff",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Book of poems dealing with love and loss, especially the death of the author's mother.\nPage Number:  200",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "80500": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 80500,
+            "scholarlyactivityid": 24382
+        }
+    },
+    "status": [
+        {
+            "id": 24382,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 24382,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

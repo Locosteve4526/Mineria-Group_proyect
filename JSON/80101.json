@@ -1,0 +1,88 @@
+{
+    "activityid": 80101,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;The impact of anesthesia on traumatic brain injuries&lt;/span&gt;&lt;/p&gt;",
+        "Journal": "RN Idaho",
+        "Volume": "48",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083957",
+    "coauthors": {
+        "353777": {
+            "firstname": "Emma",
+            "middleinitial": "",
+            "lastname": "Watson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 353777,
+            "scholarlyactivityid": 80101,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "353778": {
+            "firstname": "Amber",
+            "middleinitial": "",
+            "lastname": "Baranek",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 353778,
+            "scholarlyactivityid": 80101,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "353779": {
+            "firstname": "Ryoko",
+            "middleinitial": "H",
+            "lastname": "Kausler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083942",
+            "authorid": 353779,
+            "scholarlyactivityid": 80101,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "353780": {
+            "firstname": "Yunchuan",
+            "middleinitial": "L",
+            "lastname": "Zhao",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083957",
+            "authorid": 353780,
+            "scholarlyactivityid": 80101,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 80101,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083957",
+    "attachments": []
+}

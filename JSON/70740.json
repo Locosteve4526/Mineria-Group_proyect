@@ -1,0 +1,79 @@
+{
+    "activityid": 70740,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Culture and well-being among sworn officers: An empirical examination.&lt;/span&gt;",
+        "Journal": "Policing: An International Journal, ",
+        "Volume": "46",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "179-193",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114125301",
+    "coauthors": {
+        "323023": {
+            "firstname": "Silas",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 323023,
+            "scholarlyactivityid": 70740,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "323024": {
+            "firstname": "William",
+            "middleinitial": "R",
+            "lastname": "King",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114125301",
+            "authorid": 323024,
+            "scholarlyactivityid": 70740,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70740,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 70740,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114125301",
+    "attachments": [
+        {
+            "attachmentid": 52733,
+            "mimetype": "application/pdf",
+            "filename": "Patterson_and_King_2023_Police_culture_and_wellbeing_PIJPSM_final.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlpRUJiYWFnOFNhekN5bHVsMmYyK1hrdE0vOGpEVVl3aTlXRzZOVkhSUUZhRm82OEtodG1NY1I0UFltOTBFL1ByV25GYzNkWkYrWkxvYXN4RjcwVXRoVTE1blpUcC9Fa08xZEJ5Wk5UYmo0T0dPemJnZkpGQUU3",
+            "filesize": 153540
+        }
+    ]
+}

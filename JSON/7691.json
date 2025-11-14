@@ -1,0 +1,53 @@
+{
+    "activityid": 7691,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "",
+        "Name of Performing Group": "",
+        "Date or Date Range": "2015-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Name of Venue/Sponsor": " Whitireia Community Polytechnic",
+        "Venue / Sponsor Location (City, State, Country)": "Porirua, NZ",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113088529",
+    "coauthors": {
+        "22591": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113088529",
+            "authorid": 22591,
+            "scholarlyactivityid": 7691
+        },
+        "22592": {
+            "firstname": "Mary",
+            "middleinitial": "Caroline",
+            "lastname": "Earley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113081342",
+            "authorid": 22592,
+            "scholarlyactivityid": 7691
+        }
+    },
+    "status": [
+        {
+            "id": 7691,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113088529",
+    "attachments": []
+}

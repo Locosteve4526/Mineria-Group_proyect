@@ -1,0 +1,74 @@
+{
+    "activityid": 30679,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "The Seconds",
+        "Name of Venue": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "http://studentsdoingscience.tufts.edu/case-studies/seconds/view-the-case/",
+        "Description/Abstract": "",
+        "Activity Type": "website for video analysis of classroom science",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "112916": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 112916,
+            "scholarlyactivityid": 30679,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "112917": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Hammer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112917,
+            "scholarlyactivityid": 30679,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "112918": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Watkins",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112918,
+            "scholarlyactivityid": 30679,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30679,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

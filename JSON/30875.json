@@ -1,0 +1,93 @@
+{
+    "activityid": 30875,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Electromagnetic enhancement of microbially induced Calcite precipitation",
+        "Name of Conference": "Indo-US Workshop, ASCE Geo-Chicago 2016",
+        "Month / Season": "08/2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112176072",
+    "coauthors": {
+        "114453": {
+            "firstname": "Jon",
+            "middleinitial": "",
+            "lastname": "Bender",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114453,
+            "scholarlyactivityid": 30875,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114454": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 114454,
+            "scholarlyactivityid": 30875,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114455": {
+            "firstname": "Kenneth",
+            "middleinitial": "A",
+            "lastname": "Cornell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033562",
+            "authorid": 114455,
+            "scholarlyactivityid": 30875
+        },
+        "114456": {
+            "firstname": "Jim",
+            "middleinitial": "",
+            "lastname": "Browning",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112088556",
+            "authorid": 114456,
+            "scholarlyactivityid": 30875
+        },
+        "114457": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 114457,
+            "scholarlyactivityid": 30875
+        }
+    },
+    "status": [
+        {
+            "id": 30875,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112176072",
+    "attachments": []
+}

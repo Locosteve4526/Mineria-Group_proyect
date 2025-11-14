@@ -1,0 +1,80 @@
+{
+    "activityid": 71607,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Benford's Law in the ring $\\mathbb{Z}(\\sqrt{D})$",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "For $D$ a natural number that is not a perfect square and for $k$ a non-zero integer, consider the subset $\\mathbb{Z}_k(\\sqrt{D})$ of the quadratic integer ring $\\mathbb{Z}(\\sqrt{D})$ consisting of elements $x+y\\sqrt{D}$ for which $x^2 - Dy^2 = k$ . For each $k$ such that the set $\\mathbb{Z}_k(\\sqrt{D})$ is nonempty, $\\mathbb{Z}_k(\\sqrt{D})$ has a natural arrangement into a sequence for which the corresponding sequence of integers $x$, as well as the corresponding sequence of integers $y$, are strong Benford sequences.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "333849": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 333849,
+            "scholarlyactivityid": 71607,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333850": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333850,
+            "scholarlyactivityid": 71607,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71607,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71607,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 71607,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

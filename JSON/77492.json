@@ -1,0 +1,89 @@
+{
+    "activityid": 77492,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Regulating College Sports and Collateral Estoppel",
+        "Conference/Meeting Name": "Sport and Recreation Law Ass\u2019n (SRLA) Annual Conference",
+        "Conference Location": "Myrtle Beach, SC",
+        "Date or Date Range": "Feb. 26 \u2013 Mar. 2, 2025",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "Sport and Recreation Law Ass\u2019n (SRLA) ",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114171943",
+    "coauthors": {
+        "351362": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "White",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 351362,
+            "scholarlyactivityid": 77492,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "351363": {
+            "firstname": "Sam",
+            "middleinitial": "C",
+            "lastname": "Ehrlich",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114171943",
+            "authorid": 351363,
+            "scholarlyactivityid": 77492,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "351364": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Rodenberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 351364,
+            "scholarlyactivityid": 77492,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77492,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 77492,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 77492,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114171943",
+    "attachments": []
+}

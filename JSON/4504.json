@@ -1,0 +1,46 @@
+{
+    "activityid": 4504,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Relating Damping to Soil Permeability",
+        "Journal": "Journal of Geomechanics",
+        "Volume": "6",
+        "Month / Season": "2006-01-01",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "158-165",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1061/(ASCE)1532-3641(2006)6:3(158)",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/23",
+        "Description/Abstract": "Published comparisons of complex moduli in dry and saturated soils have shown that viscous behavior is only evident when a sufficiently massive viscous fluid (like water) is present. That is, the loss tangent is frequency dependent for water saturated specimens, but nearly frequency independent for dry samples. While the Kelvin-Voigt (KV) representation of a soil captures the general viscous behavior using a dashpot, it fails to account for the possibly separate motions of the fluid and frame (there is only a single mass element). An alternative representation which separates the two masses, water and frame, is presented here. This Kelvin-Voigt-Maxwell-Biot (KVMB) model draws on elements of the long standing linear viscoelastic models in a way that connects the viscous damping to permeability and inertial mass coupling. A mathematical mapping between the KV and KVMB representations is derived and permits continued use of the KV model, while retaining an understanding of the separate mass motions.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110288",
+    "coauthors": {
+        "13540": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Michaels",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110288",
+            "authorid": 13540,
+            "scholarlyactivityid": 4504
+        }
+    },
+    "status": [
+        {
+            "id": 4504,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110288",
+    "attachments": []
+}

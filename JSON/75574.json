@@ -1,0 +1,76 @@
+{
+    "activityid": 75574,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Leadership in Action&lt;b&gt;: &lt;/b&gt;Cultivating Authentic Relationships&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Name of Conference": "Beacon Leadership Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643735",
+    "coauthors": {
+        "335298": {
+            "firstname": "Heidi",
+            "middleinitial": "",
+            "lastname": "Reeder",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643735",
+            "authorid": 335298,
+            "scholarlyactivityid": 75574,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "335299": {
+            "firstname": "Brian",
+            "middleinitial": "N",
+            "lastname": "Thompson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111628618",
+            "authorid": 335299,
+            "scholarlyactivityid": 75574,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "335300": {
+            "firstname": "C",
+            "middleinitial": "E",
+            "lastname": "Lanuza",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 335300,
+            "scholarlyactivityid": 75574,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75574,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643735",
+    "attachments": []
+}

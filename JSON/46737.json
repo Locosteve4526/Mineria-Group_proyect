@@ -1,0 +1,94 @@
+{
+    "activityid": 46737,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Improving predictive power through deep learning analysis of K-12 online student behaviors and discussion board content",
+        "Journal": "Information Discovery and Delivery",
+        "Volume": "48",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "192-212",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.emerald.com/insight/content/doi/10.1108/IDD-02-2020-0019/full/html",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "250611": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 250611,
+            "scholarlyactivityid": 46737
+        },
+        "250612": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 250612,
+            "scholarlyactivityid": 46737
+        },
+        "250613": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Kepka",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 250613,
+            "scholarlyactivityid": 46737
+        },
+        "250614": {
+            "firstname": "Yuan",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 250614,
+            "scholarlyactivityid": 46737
+        }
+    },
+    "status": [
+        {
+            "id": 46737,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46737,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 46737,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

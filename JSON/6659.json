@@ -1,0 +1,56 @@
+{
+    "activityid": 6659,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Pseudospectral Iterated Method for Differential Equations with Delay Terms",
+        "Journal": "Lecture Notes in Computer Science",
+        "Volume": "3039",
+        "Month / Season": "2004-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "451-458",
+        "Publisher": "Springer-Verlag",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "New efficient numerical methods for hyperbolic and parabolic partial differential equations with delay terms are investigated. These equations model a development of cancer cells in human bodies. Our goal is to study numerical methods which can be applied in a parallel computing environment. We apply our new numerical method to the delay partial differential equations and analyse the error of the method. Numerical experiments confirm our theoretical results.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20743": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20743,
+            "scholarlyactivityid": 6659
+        },
+        "20744": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 20744,
+            "scholarlyactivityid": 6659
+        }
+    },
+    "status": [
+        {
+            "id": 6659,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

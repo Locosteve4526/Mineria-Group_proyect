@@ -1,0 +1,76 @@
+{
+    "activityid": 40575,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Detecting Suspicious Entities in the Panama Papers",
+        "Name of Conference": "Complex Networks",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "978-2-9557050-2-5",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048777",
+    "coauthors": {
+        "177536": {
+            "firstname": "Mikel",
+            "middleinitial": "",
+            "lastname": "Joaristi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 177536,
+            "scholarlyactivityid": 40575,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "177537": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048778",
+            "authorid": 177537,
+            "scholarlyactivityid": 40575,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "177538": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048777",
+            "authorid": 177538,
+            "scholarlyactivityid": 40575,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40575,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048777",
+    "attachments": []
+}

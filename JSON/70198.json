@@ -1,0 +1,60 @@
+{
+    "activityid": 70198,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:10pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;&quot;&gt;\u00a0Identifying Psychology Students at Risk of Dropout.&lt;/span&gt;",
+        "Name of Conference": "Rocky Mountain Psychological Association Conference",
+        "Month / Season": "4/2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112062187",
+    "coauthors": {
+        "317567": {
+            "firstname": "Karly",
+            "middleinitial": "",
+            "lastname": "Moore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 317567,
+            "scholarlyactivityid": 70198,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "317568": {
+            "firstname": "Cindy",
+            "middleinitial": "",
+            "lastname": "McCrea",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112062187",
+            "authorid": 317568,
+            "scholarlyactivityid": 70198
+        }
+    },
+    "status": [
+        {
+            "id": 70198,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112062187",
+    "attachments": []
+}

@@ -1,0 +1,55 @@
+{
+    "activityid": 32157,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A New Approach to the Future Dependence Issue",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "journal article",
+        "Origin": "Manual"
+    },
+    "facultyid": "111194862",
+    "coauthors": {
+        "165976": {
+            "firstname": "Brian",
+            "middleinitial": "B",
+            "lastname": "Kierland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111194862",
+            "authorid": 165976,
+            "scholarlyactivityid": 32157
+        }
+    },
+    "status": [
+        {
+            "id": 32157,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 32157,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111194862",
+    "attachments": []
+}

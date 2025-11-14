@@ -1,0 +1,86 @@
+{
+    "activityid": 44661,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Three-dimensional finite element modeling of ligaments: technical aspects",
+        "Journal": "Medical engineering &amp; physics",
+        "Volume": "27",
+        "Month / Season": null,
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "845-61",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "The objective of this paper is to describe strategies for addressing technical aspects of the computational modeling of ligaments with the finite element (FE) method. Strategies for FE modeling of ligament mechanics are described, differentiating between whole-joint models and models of individual ligaments. Common approaches to obtain three-dimensional ligament geometry are reviewed, with an emphasis on techniques that rely on volumetric medical image data. Considerations for the three-dimensional constitutive modeling of ligaments are reviewed in the context of ligament composition and structure. A novel approach to apply in situ strain to FE models of ligaments is described, and test problems are presented that demonstrate the efficacy of the approach. Approaches for the verification and validation of ligament FE models are outlined. The paper concludes with a discussion of future research directions.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "202671": {
+            "firstname": "Jeffrey ",
+            "middleinitial": "A",
+            "lastname": "Weiss",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202671,
+            "scholarlyactivityid": 44661
+        },
+        "202672": {
+            "firstname": "John ",
+            "middleinitial": "C",
+            "lastname": "Gardiner",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202672,
+            "scholarlyactivityid": 44661
+        },
+        "202673": {
+            "firstname": "Ben",
+            "middleinitial": "J",
+            "lastname": "Ellis",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202673,
+            "scholarlyactivityid": 44661
+        },
+        "202674": {
+            "firstname": "Trevor ",
+            "middleinitial": "J",
+            "lastname": "Lujan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202674,
+            "scholarlyactivityid": 44661
+        },
+        "202675": {
+            "firstname": "Nikhil ",
+            "middleinitial": "S",
+            "lastname": "Phatak",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202675,
+            "scholarlyactivityid": 44661
+        }
+    },
+    "status": [
+        {
+            "id": 44661,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

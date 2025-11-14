@@ -1,0 +1,74 @@
+{
+    "activityid": 61476,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Cross-Fertilizing the Tax Classroom",
+        "Journal": "Pittsburgh Tax Review",
+        "Volume": "19",
+        "Month / Season": "Spring 2022",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "329-369",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111671285",
+    "coauthors": {
+        "327500": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Cowan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033523",
+            "authorid": 327500,
+            "scholarlyactivityid": 61476
+        },
+        "327501": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Cutler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111671285",
+            "authorid": 327501,
+            "scholarlyactivityid": 61476
+        }
+    },
+    "status": [
+        {
+            "id": 61476,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61476,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 61476,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111671285",
+    "attachments": []
+}

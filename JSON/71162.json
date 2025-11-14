@@ -1,0 +1,58 @@
+{
+    "activityid": 71162,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "&lt;span style=&quot;color:#333333;background-color:rgba(0,0,0,0.05);&quot;&gt;EsxA: Staphylococcus aureus protein vaccine\u00a0&lt;/span&gt;",
+        "Conference / Meeting Name": "ASM Intermountain Branch annual conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "February 18, 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "ASM, USDA",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "323285": {
+            "firstname": "Kylee",
+            "middleinitial": "",
+            "lastname": "Denny",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 323285,
+            "scholarlyactivityid": 71162,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "323286": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 323286,
+            "scholarlyactivityid": 71162,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71162,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

@@ -1,0 +1,86 @@
+{
+    "activityid": 42116,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "GHWR, a multi-method global heatwave and warm-spell record and toolbox",
+        "Journal": "Scientific data",
+        "Volume": "5",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "180206",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Heatwaves are extended periods of unusually high temperatures with significant societal and environmental impacts. Despite their significance, there is not a generalized definition for heatwaves. In this paper, we introduce a multi-method global heatwave and warm-spell data record and analysis toolbox (named GHWR). In addition to a comprehensive long-term global data record of heatwaves, GHWR allows processing and extracting heatwave records for any location efficiently. We use traditional constant temperature threshold methods, as well as spatially and temporally localized threshold approaches to identify heatwaves. GHWR includes binary (0/1) occurrence records of heatwaves/warm-spells, and annual summary files with detailed information on their frequency, duration, magnitude and amplitude. GHWR also introduces the standardized heat index (SHI) as a generalized statistical metric to identify heatwave/warm-spells. SHI has direct association with the probability distribution function of long-term daily temperatures for any given calendar day and spatial grid. Finally, GHWR offers a unique opportunity for users to select the type of heatwave/warm-spell information from a plethora of methods based on their needs and applications.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114080133",
+    "coauthors": {
+        "187127": {
+            "firstname": "Ehsan",
+            "middleinitial": "",
+            "lastname": "Raei",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 187127,
+            "scholarlyactivityid": 42116
+        },
+        "187128": {
+            "firstname": "Mohammad ",
+            "middleinitial": "R",
+            "lastname": "Nikoo",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 187128,
+            "scholarlyactivityid": 42116
+        },
+        "187129": {
+            "firstname": "Amir",
+            "middleinitial": "",
+            "lastname": "AghaKouchak",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 187129,
+            "scholarlyactivityid": 42116
+        },
+        "187130": {
+            "firstname": "Omid",
+            "middleinitial": "",
+            "lastname": "Mazdiyasni",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 187130,
+            "scholarlyactivityid": 42116
+        },
+        "187131": {
+            "firstname": "Mojtaba",
+            "middleinitial": "",
+            "lastname": "Sadegh",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 187131,
+            "scholarlyactivityid": 42116
+        }
+    },
+    "status": [
+        {
+            "id": 42116,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114080133",
+    "attachments": []
+}

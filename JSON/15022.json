@@ -1,0 +1,62 @@
+{
+    "activityid": 15022,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Questions (and answers) about successful psychology graduate admissions: Three heads ARE better than one",
+        "Conference/Meeting Name": "American Psychological Association",
+        "Conference Location": "Washington, DC",
+        "Date or Date Range": "2011-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "Psi Chi",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "62885": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 62885,
+            "scholarlyactivityid": 15022
+        },
+        "62886": {
+            "firstname": "Mitchell",
+            "middleinitial": "",
+            "lastname": "Handelsman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62886,
+            "scholarlyactivityid": 15022
+        },
+        "62887": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "VanderStoep",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62887,
+            "scholarlyactivityid": 15022
+        }
+    },
+    "status": [
+        {
+            "id": 15022,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

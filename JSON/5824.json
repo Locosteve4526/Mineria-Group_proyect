@@ -1,0 +1,76 @@
+{
+    "activityid": 5824,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Read-alouds worth remembering",
+        "Journal": "Language Arts",
+        "Volume": "84",
+        "Month / Season": "2007-07-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "293-299",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112180267",
+    "coauthors": {
+        "18021": {
+            "firstname": "Bandre",
+            "middleinitial": "E",
+            "lastname": "Patricia",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 18021,
+            "scholarlyactivityid": 5824
+        },
+        "18022": {
+            "firstname": "Lesley",
+            "middleinitial": "",
+            "lastname": "Colabucci",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 18022,
+            "scholarlyactivityid": 5824
+        },
+        "18023": {
+            "firstname": "Linda",
+            "middleinitial": "L",
+            "lastname": "Parsons",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 18023,
+            "scholarlyactivityid": 5824
+        },
+        "18024": {
+            "firstname": "EunHye",
+            "middleinitial": "",
+            "lastname": "Son",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112180267",
+            "authorid": 18024,
+            "scholarlyactivityid": 5824
+        }
+    },
+    "status": [
+        {
+            "id": 5824,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2007,
+            "termid": "2007/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112180267",
+    "attachments": []
+}

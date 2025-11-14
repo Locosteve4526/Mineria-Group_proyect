@@ -1,0 +1,52 @@
+{
+    "activityid": 13504,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The benefit of undergraduate research assistantships in nursing",
+        "Conference / Meeting Name": "2013 Undergraduate Student Research and Creative Arts Symposium",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2013-04-12",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113084128",
+    "coauthors": {
+        "59371": {
+            "firstname": "Ryoko",
+            "middleinitial": "",
+            "lastname": "Pentecost",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 59371,
+            "scholarlyactivityid": 13504
+        },
+        "59372": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Grassley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113084128",
+            "authorid": 59372,
+            "scholarlyactivityid": 13504
+        }
+    },
+    "status": [
+        {
+            "id": 13504,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113084128",
+    "attachments": []
+}

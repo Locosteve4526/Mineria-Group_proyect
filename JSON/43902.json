@@ -1,0 +1,81 @@
+{
+    "activityid": 43902,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Case Study in OER Adoption for Art 100 at BSU",
+        "Name of Conference": "Open Education Conference II",
+        "Month / Season": "October 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper outlines the results of a small study comparing the outcomes and student perceptions of an OER text to a publisher text with online components (ebook and assessments).  The study was done in the Fall semester of 2017 and involved 296 students in total, 149 using the publisher\u2019s text and 147 using an OER text prepared especially for the course from a number of open resources.  The goal in this initial study was to establish whether there was a significant difference in the outcomes between the two sections, and whether students preferred/did not prefer the OER text to a regular published text.  The statistical results were tabulated by my colleague, Rob Nyland, and are published in the body of the paper.\n\nIn addition to examining student responses to the survey, we also compared outcomes from the section of the Art 100 course that used the OER textbook with another section of the course, taught by the same instructor that used a traditional textbook (using McGraw Hill Connect).  The mean grade in the section that used a traditional section was 86.9%, which was slightly higher than the mean grade for the OER section (84.9%), however the results of a Welch Two Sample t-test indicate that the differences were not significant (t = 1.011, p = .3129).  There is a significant body of research in other disciplines with similar outcomes regarding grades in OER classes when compared to those using traditional texts (Hilton, 2016; Bowen et al., 2013; Wiley et al., 2012).",
+        "Origin": "Manual"
+    },
+    "facultyid": "113094020",
+    "coauthors": {
+        "198118": {
+            "firstname": "Muffet",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113094020",
+            "authorid": 198118,
+            "scholarlyactivityid": 43902,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "198119": {
+            "firstname": "Rob",
+            "middleinitial": "",
+            "lastname": "Nyland",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 198119,
+            "scholarlyactivityid": 43902,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43902,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 43902,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 43902,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113094020",
+    "attachments": []
+}

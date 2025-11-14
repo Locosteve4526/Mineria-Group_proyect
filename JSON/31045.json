@@ -1,0 +1,67 @@
+{
+    "activityid": 31045,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Mark Twain and Robert B. Swain of San Francisco",
+        "Journal": "Mark Twain Journal",
+        "Volume": "56",
+        "Month / Season": "Spring",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "102-120",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643336",
+    "coauthors": {
+        "199050": {
+            "firstname": "Tara",
+            "middleinitial": "C",
+            "lastname": "Penry",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643336",
+            "authorid": 199050,
+            "scholarlyactivityid": 31045,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31045,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 31045,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 31045,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111643336",
+    "attachments": []
+}

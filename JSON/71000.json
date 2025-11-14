@@ -1,0 +1,101 @@
+{
+    "activityid": 71000,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:11pt;&quot;&gt;\u201cDiscrimination without Discriminators\u201d Paradigm: Introducing the Perpetration of Interpersonal Racial or Ethnic Discrimination Inventory (PREDI)\u201d&lt;/span&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114227776",
+    "coauthors": {
+        "336048": {
+            "firstname": "Raul",
+            "middleinitial": "S",
+            "lastname": "Casarez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114227776",
+            "authorid": 336048,
+            "scholarlyactivityid": 71000,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336049": {
+            "firstname": "Tony",
+            "middleinitial": "N",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336049,
+            "scholarlyactivityid": 71000,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336050": {
+            "firstname": "Allan",
+            "middleinitial": "",
+            "lastname": "Farrell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336050,
+            "scholarlyactivityid": 71000,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336051": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Bolger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336051,
+            "scholarlyactivityid": 71000,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336052": {
+            "firstname": "Pamela",
+            "middleinitial": "C",
+            "lastname": "Hull",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336052,
+            "scholarlyactivityid": 71000,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71000,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114227776",
+    "attachments": []
+}

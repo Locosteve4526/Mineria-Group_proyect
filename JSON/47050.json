@@ -1,0 +1,75 @@
+{
+    "activityid": 47050,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Facilitating your online course: Where to focus your efforts when a course is in progress",
+        "Name of Conference": "World Conference of Online Learning",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "WCOL",
+        "Publisher Location": "Dublin, Ireland",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "240549": {
+            "firstname": "Charles",
+            "middleinitial": "",
+            "lastname": "Hodges",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 240549,
+            "scholarlyactivityid": 47050
+        },
+        "240550": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 240550,
+            "scholarlyactivityid": 47050
+        }
+    },
+    "status": [
+        {
+            "id": 47050,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 47050,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 47050,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

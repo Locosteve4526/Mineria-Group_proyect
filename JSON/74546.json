@@ -1,0 +1,123 @@
+{
+    "activityid": 74546,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Bere: A Novel Video Recommender System for Virtual Reality Using Human Behavioral Signals",
+        "Name of Conference": "The 30th Annual International Conference on Mobile Computing and Networking (MobiCom) 2024",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "https://doi.org/10.1145/3636534.3690660",
+        "ISBN/ISSN #": "ACM ISBN 979-8-4007-0489-5/24/11",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;&lt;span&gt;While video recommendation has been studied extensively in regular PC and smartphone settings, such a topic has been rarely discussed in the virtual reality (VR) context so far. On the other hand, as the popularity of VR videos contin- ues to soar, its recommendation will play a crucial part in providing suggestions and guiding users through a deluge of available content. Given this unmet need, in this work, we present &lt;/span&gt;&lt;span&gt;Bere&lt;/span&gt;&lt;span&gt;, a video recommender system tailored for VR. Our approach leverages viewers\u2019 behavioral responses as they engage with VR videos to infer their preferences and thus make future recommendations. We integrate these new behavioral user-video interaction measures into the mainstream recommendation framework and renovate the graph learning-based paradigm to accommodate the new changes. The recommender system is further empowered with a novel domain adaptation approach named CMCCDA to address the data scarcity problem for model training. We also develop an energy-efficient adaptive encoding scheme to reduce the energy consumption on the VR device. We collect a behavioral dataset for video recommendation in VR and demonstrate through extensive evaluation that &lt;/span&gt;&lt;span&gt;Bere &lt;/span&gt;&lt;span&gt;significantly outperforms state-of-the-art schemes by up to 68.0% in precision and up to 28.8% in ranking quality. &lt;/span&gt;&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114279584",
+    "coauthors": {
+        "330944": {
+            "firstname": "Huadi",
+            "middleinitial": "",
+            "lastname": "Zhu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114279584",
+            "authorid": 330944,
+            "scholarlyactivityid": 74546,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "330945": {
+            "firstname": "Chaowei",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 330945,
+            "scholarlyactivityid": 74546,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "330946": {
+            "firstname": "Venkateshwar Reddy",
+            "middleinitial": "",
+            "lastname": "Darmanola",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 330946,
+            "scholarlyactivityid": 74546,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "330947": {
+            "firstname": "Hongbo",
+            "middleinitial": "",
+            "lastname": "Guo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 330947,
+            "scholarlyactivityid": 74546,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "330948": {
+            "firstname": "Wenqiang",
+            "middleinitial": "",
+            "lastname": "Jin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 330948,
+            "scholarlyactivityid": 74546,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "330949": {
+            "firstname": "Ming",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 330949,
+            "scholarlyactivityid": 74546,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74546,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114279584",
+    "attachments": [
+        {
+            "attachmentid": 57499,
+            "mimetype": "application/pdf",
+            "filename": "Bere_final.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWhWcTBXY1RCaTQ5SE1VaGxtc3d6aHNrTHlnZXRyUEdjd2kzZHJwUTIzRHRDL3dTUDYyYWRNQT09",
+            "filesize": 1346077
+        }
+    ]
+}

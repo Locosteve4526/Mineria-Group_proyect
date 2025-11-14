@@ -1,0 +1,58 @@
+{
+    "activityid": 47346,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Analyzing faculty strategies to mentor online Ed Tech doctoral students during research experiences",
+        "Conference/Meeting Name": "AECT",
+        "Conference Location": "Las Vegas",
+        "Date or Date Range": "October",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002217",
+    "coauthors": {
+        "217070": {
+            "firstname": "Lida",
+            "middleinitial": "",
+            "lastname": "Uribe-Florez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114047750",
+            "authorid": 217070,
+            "scholarlyactivityid": 47346,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "217071": {
+            "firstname": "Jesus",
+            "middleinitial": "",
+            "lastname": "Trespalacios",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002217",
+            "authorid": 217071,
+            "scholarlyactivityid": 47346,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47346,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002217",
+    "attachments": []
+}

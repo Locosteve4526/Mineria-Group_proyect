@@ -1,0 +1,103 @@
+{
+    "activityid": 55245,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The Art of War and Friendship: Alliance Activity and the Need for Affiliation ",
+        "Name of Conference": "SMS",
+        "Month / Season": "September",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114171276",
+    "coauthors": {
+        "259500": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Hyde",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114171276",
+            "authorid": 259500,
+            "scholarlyactivityid": 55245,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "259501": {
+            "firstname": "Darcy",
+            "middleinitial": "",
+            "lastname": "Kamal Fudge",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 259501,
+            "scholarlyactivityid": 55245,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "259502": {
+            "firstname": "Meghan",
+            "middleinitial": "",
+            "lastname": "Thorton-Logo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 259502,
+            "scholarlyactivityid": 55245,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 55245,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 55245,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 55245,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 55245,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114171276",
+    "attachments": []
+}

@@ -1,0 +1,55 @@
+{
+    "activityid": 29638,
+    "fields": {
+        "Type": "Book",
+        "Title": "Capital Punishment:  The Theory and Practice of the Ultimate Penalty",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Oxford University Press",
+        "Publisher Location": "New York",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "104197": {
+            "firstname": "Ginny",
+            "middleinitial": "",
+            "lastname": "Hatch",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112018006",
+            "authorid": 104197,
+            "scholarlyactivityid": 29638
+        },
+        "104198": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 104198,
+            "scholarlyactivityid": 29638
+        }
+    },
+    "status": [
+        {
+            "id": 29638,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

@@ -1,0 +1,97 @@
+{
+    "activityid": 34106,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Analysis on the Security and Use of Password Managers",
+        "Name of Conference": "The 18th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT\u201917)",
+        "Month / Season": "December",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Cybersecurity has become one of the largest growing fields in computer science and the technology industry. Faulty security has cost the global economy immense losses. Oftentimes, the pitfall in such financial loss is due to the security of passwords. Companies and regular people alike do not do enough to enforce strict password guidelines like the NIST (National Institute of Standard Technology) recommends. When big security breaches happen, thousands to millions of passwords can be exposed and stored into files, meaning people are susceptible to dictionary and rainbow table attacks. Those are only two examples of attacks that are used to crack passwords. In this paper, we will be going over three open-source password managers, each chosen for their own uniqueness. Our results will conclude on the overall security of each password manager using a list of established attacks and development of new potential attacks on such software. Additionally, we will compare our research with the limited research already conducted on password managers. Finally, we will provide some general guidelines of how to develop a better and more secure password manager.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "136819": {
+            "firstname": "Carlos",
+            "middleinitial": "",
+            "lastname": "Luevanos",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 136819,
+            "scholarlyactivityid": 34106,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "136820": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Elizarraras",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 136820,
+            "scholarlyactivityid": 34106,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "136821": {
+            "firstname": "Khai",
+            "middleinitial": "",
+            "lastname": "Hirschi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 136821,
+            "scholarlyactivityid": 34106,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "136822": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 136822,
+            "scholarlyactivityid": 34106,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34106,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 5998,
+            "mimetype": "application/pdf",
+            "filename": "Analysis on the Security and Use of Password Managers.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25xT25MYWNtYy9WeWN3K2dGWm94a3E3alRQUGNMSk1xSmV1ekQvaFY5cGRsL0lKbXVpeTRDWG1KRGVHazVPbzNINTgrSFJVWm5jS1huZ2pvbWtRNVlaNGdvQUd4U0NETmNWOHNVMzVlTjViYWc9PQ%3D%3D",
+            "filesize": 769708
+        }
+    ]
+}

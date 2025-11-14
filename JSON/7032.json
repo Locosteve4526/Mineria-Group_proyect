@@ -1,0 +1,103 @@
+{
+    "activityid": 7032,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Permutation sorting and a game on graphs",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "2014-12-05",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2035,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "346402": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 346402,
+            "scholarlyactivityid": 7032
+        },
+        "346403": {
+            "firstname": "Caroline",
+            "middleinitial": "L",
+            "lastname": "Jansen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346403,
+            "scholarlyactivityid": 7032
+        },
+        "346404": {
+            "firstname": "Samuel",
+            "middleinitial": "L",
+            "lastname": "Simon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346404,
+            "scholarlyactivityid": 7032
+        },
+        "346405": {
+            "firstname": "Elizabeth",
+            "middleinitial": "",
+            "lastname": "Tatum",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346405,
+            "scholarlyactivityid": 7032
+        }
+    },
+    "status": [
+        {
+            "id": 7032,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 7032,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 7032,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 7032,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 35953,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tracking User Behavior with Google Analytics Events on an Academic Library Website",
+        "Journal": "Journal of Web Librarianship",
+        "Volume": "10",
+        "Month / Season": "May",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "161-175",
+        "Publisher": "Taylor &amp; Francis Online",
+        "DOI": "http://dx.doi.org/10.1080/19322909.2016.1175330",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112088454",
+    "coauthors": {
+        "148244": {
+            "firstname": "Amy",
+            "middleinitial": "Elizabeth",
+            "lastname": "Vecchione",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112088454",
+            "authorid": 148244,
+            "scholarlyactivityid": 35953
+        },
+        "148243": {
+            "firstname": "Deana",
+            "middleinitial": "",
+            "lastname": "Brown",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114024835",
+            "authorid": 148243,
+            "scholarlyactivityid": 35953
+        },
+        "148242": {
+            "firstname": "Elizabeth",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 148242,
+            "scholarlyactivityid": 35953
+        },
+        "148241": {
+            "firstname": "Amanda",
+            "middleinitial": "",
+            "lastname": "Baschnagel",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 148241,
+            "scholarlyactivityid": 35953
+        }
+    },
+    "status": [
+        {
+            "id": 35953,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112088454",
+    "attachments": []
+}

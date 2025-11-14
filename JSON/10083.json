@@ -1,0 +1,61 @@
+{
+    "activityid": 10083,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Language Diversity, Global Politics and WPA Responsibilities",
+        "Conference/Meeting Name": "Writing Program Administration annual conference",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "2015-07-16",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Council of Writing Program Administrators",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111670030",
+    "coauthors": {
+        "52039": {
+            "firstname": "Gail",
+            "middleinitial": "E",
+            "lastname": "Shuck",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111670030",
+            "authorid": 52039,
+            "scholarlyactivityid": 10083
+        },
+        "52040": {
+            "firstname": "Steve",
+            "middleinitial": "",
+            "lastname": "Simpson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52040,
+            "scholarlyactivityid": 10083
+        }
+    },
+    "status": [
+        {
+            "id": 10083,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10083,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111670030",
+    "attachments": []
+}

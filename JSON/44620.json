@@ -1,0 +1,182 @@
+{
+    "activityid": 44620,
+    "fields": {
+        "Type": "Book",
+        "Title": "Canadian Courts, 3rd edition",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Edition": "3",
+        "Volume": "",
+        "Publisher": "Oxford University Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112062498",
+    "coauthors": {
+        "343467": {
+            "firstname": "Lori",
+            "middleinitial": "J",
+            "lastname": "Hausegger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112062498",
+            "authorid": 343467,
+            "scholarlyactivityid": 44620,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "343468": {
+            "firstname": "Troy",
+            "middleinitial": "",
+            "lastname": "Riddell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343468,
+            "scholarlyactivityid": 44620,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "343469": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Hennigar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343469,
+            "scholarlyactivityid": 44620,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44620,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 44620,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 44620,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 44620,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 44620,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 44620,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 44620,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 44620,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44620,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44620,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44620,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44620,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44620,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112062498",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 70117,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Pressure Injury Risk Prediction with Machine Learning and Explainable Artificial Intelligence&lt;/span&gt;",
+        "Conference/Meeting Name": "SAWC Fall Conference",
+        "Conference Location": "Las Vegas, NV",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083957",
+    "coauthors": {
+        "317092": {
+            "firstname": "Jenny",
+            "middleinitial": "",
+            "lastname": "Alderden",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 317092,
+            "scholarlyactivityid": 70117,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "317093": {
+            "firstname": "Yunchuan",
+            "middleinitial": "",
+            "lastname": "Zhao",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083957",
+            "authorid": 317093,
+            "scholarlyactivityid": 70117,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70117,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083957",
+    "attachments": []
+}

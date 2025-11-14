@@ -1,0 +1,77 @@
+{
+    "activityid": 36830,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Teaching real-world DSP using MATLAB and the TMS320C31 DSK",
+        "Name of Conference": "Proceedings of the 1999 ASEE Annual Conference",
+        "Month / Season": null,
+        "Actual/Projected Year of Publication/Presentation": 1999,
+        "Page Numbers": null,
+        "Publisher": null,
+        "Publisher Location": null,
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "112139424",
+    "coauthors": {
+        "152696": {
+            "firstname": "CHG",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152696,
+            "scholarlyactivityid": 36830
+        },
+        "152697": {
+            "firstname": "T",
+            "middleinitial": "B",
+            "lastname": "Welch",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152697,
+            "scholarlyactivityid": 36830
+        },
+        "152698": {
+            "firstname": "M",
+            "middleinitial": "G",
+            "lastname": "Morrow",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152698,
+            "scholarlyactivityid": 36830
+        },
+        "152699": {
+            "firstname": "W",
+            "middleinitial": "J",
+            "lastname": "Gomes III",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152699,
+            "scholarlyactivityid": 36830
+        }
+    },
+    "status": [
+        {
+            "id": 36830,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1999,
+            "termid": "1999/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139424",
+    "attachments": []
+}

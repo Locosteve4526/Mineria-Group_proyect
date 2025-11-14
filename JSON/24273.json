@@ -1,0 +1,57 @@
+{
+    "activityid": 24273,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Lyapunov Stability of an Open-Loop Induction Machine",
+        "Name of Conference": "",
+        "Month / Season": "2009-01-01",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "3452-3457",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1109/ACC.2009.5160421",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/50",
+        "Description/Abstract": "The induction machine is widely utilized in the industry and exists in a plethora of applications. Although it is characterized by its inherent stability over a wide range of operating conditions, this characterization is based on steadystate arguments. This work develops a rigorous approach to the open-loop stability of the induction machine. In particular, a condition for the global asymptotic stability of the induction machine in the sense of Lyapunov is presented. These conditions are met if the machine is lightly loaded. Hence, meeting these conditions guarantees that the motor will reach (or return to) the desired equilibrium point regardless of how far it has been perturbed from it. The analysis is based on the standard nonlinear differential equation model of the induction machine taking into account transient responses.",
+        "Origin": "Other"
+    },
+    "facultyid": "112103235",
+    "coauthors": {
+        "80248": {
+            "firstname": "Ahmed",
+            "middleinitial": "",
+            "lastname": "Oteafy",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80248,
+            "scholarlyactivityid": 24273
+        },
+        "80249": {
+            "firstname": "John",
+            "middleinitial": "Nelson",
+            "lastname": "Chiasson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112103235",
+            "authorid": 80249,
+            "scholarlyactivityid": 24273
+        }
+    },
+    "status": [
+        {
+            "id": 24273,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103235",
+    "attachments": []
+}

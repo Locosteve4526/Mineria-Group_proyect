@@ -1,0 +1,76 @@
+{
+    "activityid": 34930,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cMark Detection from Scanned Ballots\u201d",
+        "Name of Conference": "SPIE Electronic Imaging -- Document Recognition and Retrieval XVI",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "#72470P",
+        "Publisher": "",
+        "Publisher Location": "San Jose, CA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Analyzing paper-based election ballots requires finding all marks added to the base ballot. The position, size, shape,\r\nrotation and shade of these marks are not known a priori. Scanned ballot images have additional differences from the\r\nbase ballot due to scanner noise. Different image processing techniques are evaluated to see under what conditions they\r\nare able to detect what sorts of marks. Basing mark detection on the difference of raw images was found to be much\r\nmore sensitive to the mark darkness. Converting the raw images to foreground and background and then removing the\r\nform produced better results.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142630": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142630,
+            "scholarlyactivityid": 34930,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142631": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Lopresti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142631,
+            "scholarlyactivityid": 34930,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142632": {
+            "firstname": "George",
+            "middleinitial": "",
+            "lastname": "Nagy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142632,
+            "scholarlyactivityid": 34930,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34930,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

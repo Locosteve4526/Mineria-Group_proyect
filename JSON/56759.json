@@ -1,0 +1,58 @@
+{
+    "activityid": 56759,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The power (up) of choice",
+        "Conference/Meeting Name": "Great Ideas for Teaching and Learning Symposium",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "January",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "Center for Teaching and Learning",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669970",
+    "coauthors": {
+        "279277": {
+            "firstname": "Roger",
+            "middleinitial": "Heathcot",
+            "lastname": "Munger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669970",
+            "authorid": 279277,
+            "scholarlyactivityid": 56759,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "279278": {
+            "firstname": "Greg",
+            "middleinitial": "",
+            "lastname": "Snow",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279278,
+            "scholarlyactivityid": 56759,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 56759,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669970",
+    "attachments": []
+}

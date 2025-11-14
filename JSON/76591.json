@@ -1,0 +1,97 @@
+{
+    "activityid": 76591,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Resiliency Through Applied Research into Emerging Constituents",
+        "Journal": "Water Resource Management",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045153",
+    "coauthors": {
+        "341183": {
+            "firstname": "Gregor",
+            "middleinitial": "R",
+            "lastname": "Posadas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341183,
+            "scholarlyactivityid": 76591,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "341184": {
+            "firstname": "Joshua",
+            "middleinitial": "C",
+            "lastname": "Baker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341184,
+            "scholarlyactivityid": 76591,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "341185": {
+            "firstname": "Abigail",
+            "middleinitial": "S",
+            "lastname": "Ryan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341185,
+            "scholarlyactivityid": 76591,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "341186": {
+            "firstname": "Sondra",
+            "middleinitial": "M",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045153",
+            "authorid": 341186,
+            "scholarlyactivityid": 76591,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76591,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 76591,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112045153",
+    "attachments": []
+}

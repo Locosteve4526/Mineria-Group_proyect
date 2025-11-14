@@ -1,0 +1,56 @@
+{
+    "activityid": 6720,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Crosshole Radar Tomography in a Fluvial Aquifer Near Boise, Idaho",
+        "Journal": "",
+        "Volume": "11",
+        "Month / Season": "2006-09-01",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "171-184",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.2113/JEEG11.3.171",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/geo_facpubs/11",
+        "Description/Abstract": "To determine the distribution of heterogeneities in the saturated zone of an unconfined aquifer in Boise, ID, we compute tomograms for three adjacent well pairs. The fluvial deposits consist of unconsolidated cobbles and sands. We used a curved-ray, finite-difference approximation to the eikonal equation to generate the forward model. The inversion uses a linearized, iterative scheme to determine the slowness distribution from the first arrival traveltimes. The tomograms consist of a layered zone representing the saturated aquifer. The velocities in this saturated zone range between 0.06 to 0.10 m/ns. We use a variety of methods to assess the reliability of our velocity models. Finally, we compare our results to neutron-derived porosity logs in the wells used for the tomograms. The comparison shows that the trends in porosity derived from the tomograms match the trends in porosity measured with the neutron probe.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "20891": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Clement",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110004",
+            "authorid": 20891,
+            "scholarlyactivityid": 6720
+        },
+        "20892": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 20892,
+            "scholarlyactivityid": 6720
+        }
+    },
+    "status": [
+        {
+            "id": 6720,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

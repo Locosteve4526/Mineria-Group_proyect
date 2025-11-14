@@ -1,0 +1,62 @@
+{
+    "activityid": 21951,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tooth enamel maturation overprints oxygen isotope compositions and supports simple sampling methods",
+        "Journal": "",
+        "Volume": "198",
+        "Month / Season": "2017",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "32-47",
+        "Publisher": "Geochimica et Cosmochimica Acta",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112110324",
+    "coauthors": {
+        "110672": {
+            "firstname": "Robin",
+            "middleinitial": "B",
+            "lastname": "Trayler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 110672,
+            "scholarlyactivityid": 21951,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "110673": {
+            "firstname": "Matthew",
+            "middleinitial": "J",
+            "lastname": "Kohn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112110324",
+            "authorid": 110673,
+            "scholarlyactivityid": 21951,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 21951,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112110324",
+    "attachments": []
+}

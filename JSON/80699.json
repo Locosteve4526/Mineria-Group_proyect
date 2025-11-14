@@ -1,0 +1,58 @@
+{
+    "activityid": 80699,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;p&gt;AI Citation, Attribution, and Detection&lt;/p&gt;",
+        "Conference/Meeting Name": "Idaho State Board of Education Fellowship Series",
+        "Conference Location": "Virtual",
+        "Date or Date Range": "February, 2025",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "Idaho State Board of Education",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112188730",
+    "coauthors": {
+        "355015": {
+            "firstname": "Jason",
+            "middleinitial": "K",
+            "lastname": "Blomquist",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188730",
+            "authorid": 355015,
+            "scholarlyactivityid": 80699,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "355016": {
+            "firstname": "Liza",
+            "middleinitial": "",
+            "lastname": "Long",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 355016,
+            "scholarlyactivityid": 80699,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 80699,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188730",
+    "attachments": []
+}

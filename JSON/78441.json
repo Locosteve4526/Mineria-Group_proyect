@@ -1,0 +1,48 @@
+{
+    "activityid": 78441,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Fraud Examination",
+        "Book Title": "Accounting in the 21st Century",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111333118",
+    "coauthors": {
+        "351164": {
+            "firstname": "Eric",
+            "middleinitial": "S",
+            "lastname": "Gooden",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111333118",
+            "authorid": 351164,
+            "scholarlyactivityid": 78441
+        }
+    },
+    "status": [
+        {
+            "id": 78441,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111333118",
+    "attachments": []
+}

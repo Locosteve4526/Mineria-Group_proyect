@@ -1,0 +1,62 @@
+{
+    "activityid": 3100,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Implementing skin to skin contact in the operating room after cesarean birth",
+        "Journal": "Worldviews on Evidence-Based Nursing",
+        "Volume": "11",
+        "Month / Season": "",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "414-416",
+        "Publisher": "",
+        "DOI": " 10.1111/wvn.12057",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://onlinelibrary.wiley.com/doi/10.1111/wvn.12057/full",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113084128",
+    "coauthors": {
+        "138398": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Grassley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113084128",
+            "authorid": 138398,
+            "scholarlyactivityid": 3100,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138399": {
+            "firstname": "Judith",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138399,
+            "scholarlyactivityid": 3100,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 3100,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113084128",
+    "attachments": []
+}

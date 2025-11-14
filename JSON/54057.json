@@ -1,0 +1,97 @@
+{
+    "activityid": 54057,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Relatives as Parents: Understanding Social Network Changes Owing to COVID-19 Pandemic",
+        "Journal": "Frontiers in Public Health",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111641510",
+    "coauthors": {
+        "296973": {
+            "firstname": "Ellen",
+            "middleinitial": "",
+            "lastname": "Schafer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114090441",
+            "authorid": 296973,
+            "scholarlyactivityid": 54057,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296974": {
+            "firstname": "Kathleen",
+            "middleinitial": "",
+            "lastname": "Mullen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296974,
+            "scholarlyactivityid": 54057,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "296975": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Toevs",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111641510",
+            "authorid": 296975,
+            "scholarlyactivityid": 54057,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296976": {
+            "firstname": "Brandi",
+            "middleinitial": "",
+            "lastname": "Waselenski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296976,
+            "scholarlyactivityid": 54057,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54057,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 54057,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111641510",
+    "attachments": []
+}

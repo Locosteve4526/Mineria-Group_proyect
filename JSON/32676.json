@@ -1,0 +1,89 @@
+{
+    "activityid": 32676,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Emerging Research in Military Deployments and Force Projection",
+        "Conference/Meeting Name": "Annual Meeting of the International Studies Association",
+        "Conference Location": "Baltimore, MD",
+        "Date or Date Range": "2/22-2/25",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "International Studies Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The three of us proposed a panel for ISA that brought together 5 different papers with 10 different scholars. The panel was well attended by academic conference standards (15 people in audience) and was generally a success.",
+        "Origin": "Manual"
+    },
+    "facultyid": "113153409",
+    "coauthors": {
+        "126792": {
+            "firstname": "Michael",
+            "middleinitial": "A",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113153409",
+            "authorid": 126792,
+            "scholarlyactivityid": 32676,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "126793": {
+            "firstname": "Carla",
+            "middleinitial": "",
+            "lastname": "Martinez Machain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 126793,
+            "scholarlyactivityid": 32676,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "126794": {
+            "firstname": "Michael",
+            "middleinitial": "E",
+            "lastname": "Flynn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 126794,
+            "scholarlyactivityid": 32676,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32676,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 32676,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 32676,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113153409",
+    "attachments": []
+}

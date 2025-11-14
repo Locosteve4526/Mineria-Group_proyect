@@ -1,0 +1,45 @@
+{
+    "activityid": 65403,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span&gt;&lt;span style=&quot;font-size:10pt;background-color:transparent;&quot;&gt;(The) paper is dead.&lt;/span&gt;&lt;/span&gt;",
+        "Conference/Meeting Name": "Critical Questions in Education (CQiE)",
+        "Conference Location": "San Diego",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "Academy for Educational Studies",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669970",
+    "coauthors": {
+        "303384": {
+            "firstname": "Roger",
+            "middleinitial": "Heathcot",
+            "lastname": "Munger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669970",
+            "authorid": 303384,
+            "scholarlyactivityid": 65403,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 65403,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669970",
+    "attachments": []
+}

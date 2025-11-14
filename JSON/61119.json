@@ -1,0 +1,84 @@
+{
+    "activityid": 61119,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Victim-Offender Overlap Among U.S. Servicemembers During Service (working title)",
+        "Journal": "Intended for Deviant Behavior",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113153409",
+    "coauthors": {
+        "281670": {
+            "firstname": "Lane",
+            "middleinitial": "Kirkland",
+            "lastname": "Gillespie",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114000438",
+            "authorid": 281670,
+            "scholarlyactivityid": 61119
+        },
+        "281671": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113153409",
+            "authorid": 281671,
+            "scholarlyactivityid": 61119
+        },
+        "281672": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Utych",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046133",
+            "authorid": 281672,
+            "scholarlyactivityid": 61119
+        }
+    },
+    "status": [
+        {
+            "id": 61119,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 61119,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 61119,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113153409",
+    "attachments": []
+}

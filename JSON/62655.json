@@ -1,0 +1,62 @@
+{
+    "activityid": 62655,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The meritocracy trap and kinesiology",
+        "Journal": "Kinesiology Review",
+        "Volume": "12",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "109-119",
+        "Publisher": "Human Kinetics",
+        "DOI": "https://doi.org/10.1123/kr.2022-0015",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112179883",
+    "coauthors": {
+        "312634": {
+            "firstname": "Gregg",
+            "middleinitial": "",
+            "lastname": "Twietmeyer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312634,
+            "scholarlyactivityid": 62655,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312635": {
+            "firstname": "Tyler",
+            "middleinitial": "G.",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112179883",
+            "authorid": 312635,
+            "scholarlyactivityid": 62655,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62655,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112179883",
+    "attachments": []
+}

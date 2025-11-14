@@ -1,0 +1,66 @@
+{
+    "activityid": 75440,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;&quot;&gt;AI adoption: Integrating TOE, Implementation Science, and Ethics.&lt;/span&gt;",
+        "Name of Conference": "AMCIS TREOs 2024",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114227663",
+    "coauthors": {
+        "340544": {
+            "firstname": "Katia",
+            "middleinitial": "",
+            "lastname": "Guerra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114227663",
+            "authorid": 340544,
+            "scholarlyactivityid": 75440
+        },
+        "340545": {
+            "firstname": "Vess",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340545,
+            "scholarlyactivityid": 75440
+        }
+    },
+    "status": [
+        {
+            "id": 75440,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 75440,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114227663",
+    "attachments": []
+}

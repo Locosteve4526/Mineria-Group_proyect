@@ -1,0 +1,89 @@
+{
+    "activityid": 32831,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cQuantifying Print Quality for Practice\u201d",
+        "Name of Conference": "NIP &amp; Digital Fabrication Conference",
+        "Month / Season": "November 2015",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "pp. 157-162",
+        "Publisher": "IS&amp;T",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "To aid in the process of evaluating print quality, five print\r\nquality metrics and methods to measure them have been developed.\r\nThe attributes of interest are: (1) Edge quality, Sharpness,\r\nDetail, Raggedness; (2) Scatter, Particles, Halo, Character\r\nghosts; (3) Readability, broken characters (4) Readability, touching\r\ncharacters; (5) Inverse text. The print quality is measured\r\nfrom a test chart containing typical text in a range of sizes and\r\nmultiple fonts. The test chart is scanned on a commercial desk\r\ntop scanner. Quantitative values are returned without human input\r\nor human surveys, but relate to human perception of these\r\nquantities.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142543": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142543,
+            "scholarlyactivityid": 32831,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142544": {
+            "firstname": "Mark",
+            "middleinitial": "Q",
+            "lastname": "Shaw",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142544,
+            "scholarlyactivityid": 32831,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142545": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Maggard",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142545,
+            "scholarlyactivityid": 32831,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142546": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Line",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142546,
+            "scholarlyactivityid": 32831,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32831,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

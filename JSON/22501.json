@@ -1,0 +1,54 @@
+{
+    "activityid": 22501,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "Magnetomechanical Transducer, and Apparatus and Methods for Harvesting Energy",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Patent Nationality": "United States",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "US Patent 8,008,816",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": null,
+        "Description/Abstract": "A magnetomechanical transducer, and apparatus and methods using said magnetomechanical transducer, extract electrical power from any motion, including random motion, cyclic, and vibrational motion. The motion is transferred to linear motion through a mechanical connecting device to the magnetomechanical coupler, which comprises a magnetoplastic and/or magnetoelastic material that transduces the linear motion into a change of magnetic field, via twin boundary deformation. A bias magnetic field assures a net change of magnetization during said deformation. A further transducer, e.g. a coil or a Hall element, couples the magnetic field change to an electrical output. A restoring field or device, for example the bias magnetic field or a device that produces strain in a reverse direction, resets the magnetomechanical transducer to its initial state. The magnetomechanical transducer may be provided in microgenerators that capture kinetic energy and convert it to electrical power. Such microgenerators may be connected in series or parallel, may be combined with solar cells, and may be used to capture energy from passive motion such as walking, and naturally-occurring random, cyclic or vibrations motion such as that produced by wind or waves acting upon objects. The random, cyclic, or vibrational motion of any object may be transmitted to the magnetoplastic transducer through a mechanical connector.",
+        "Web Address": null,
+        "Origin": "Other"
+    },
+    "facultyid": "112032282",
+    "coauthors": {
+        "78064": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Hampikian",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112032282",
+            "authorid": 78064,
+            "scholarlyactivityid": 22501
+        },
+        "78065": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 78065,
+            "scholarlyactivityid": 22501
+        }
+    },
+    "status": [
+        {
+            "id": 22501,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112032282",
+    "attachments": []
+}

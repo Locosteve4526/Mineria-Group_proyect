@@ -1,0 +1,84 @@
+{
+    "activityid": 63861,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Implementation of a Frenkel exciton-based controlled phase shifter",
+        "Journal": "Physical Review A-Atomic, Molecular, and Optical Physics",
+        "Volume": "107",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "012603",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.012603",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067626",
+    "coauthors": {
+        "321974": {
+            "firstname": "Bernard",
+            "middleinitial": "",
+            "lastname": "Yurke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321974,
+            "scholarlyactivityid": 63861,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "321975": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067626",
+            "authorid": 321975,
+            "scholarlyactivityid": 63861,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "321976": {
+            "firstname": "Aaron",
+            "middleinitial": "",
+            "lastname": "Sup",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321976,
+            "scholarlyactivityid": 63861,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63861,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 63861,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "114067626",
+    "attachments": []
+}

@@ -1,0 +1,101 @@
+{
+    "activityid": 75386,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Blockchain for Large Language Model Security and Safety: A Holistic Survey&lt;/p&gt;",
+        "Journal": "SIGKDD Explorations",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/2407.20181v2",
+        "Description/Abstract": "&lt;p&gt;With the growing development and deployment of large language models (LLMs) in both industrial and academic fields, their security and safety concerns have become increasingly critical. However, recent studies indicate that LLMs face numerous vulnerabilities, including data poisoning, prompt injections, and unauthorized data exposure, which conventional methods have struggled to address fully. In parallel, blockchain technology, known for its data immutability and decentralized structure, offers a promising foundation for safeguarding LLMs. In this survey, we aim to comprehensively assess how to leverage blockchain technology to enhance LLMs' security and safety. Besides, we propose a new taxonomy of blockchain for large language models (BC4LLMs) to systematically categorize related works in this emerging field. Our analysis includes novel frameworks and definitions to delineate security and safety in the context of BC4LLMs, highlighting potential research directions and challenges at this intersection. Through this study, we aim to stimulate targeted advancements in blockchain-integrated LLM security. [Journal_ref: ]&lt;/p&gt;",
+        "Origin": "arXiv"
+    },
+    "facultyid": "114254397",
+    "coauthors": {
+        "333637": {
+            "firstname": "Caleb",
+            "middleinitial": "",
+            "lastname": "Geren",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333637,
+            "scholarlyactivityid": 75386,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333638": {
+            "firstname": "Amanda",
+            "middleinitial": "",
+            "lastname": "Board",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333638,
+            "scholarlyactivityid": 75386,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333639": {
+            "firstname": "Gaby",
+            "middleinitial": "G",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333639,
+            "scholarlyactivityid": 75386,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333640": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333640,
+            "scholarlyactivityid": 75386,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333641": {
+            "firstname": "Jun",
+            "middleinitial": "",
+            "lastname": "Zhuang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333641,
+            "scholarlyactivityid": 75386,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75386,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254397",
+    "attachments": []
+}

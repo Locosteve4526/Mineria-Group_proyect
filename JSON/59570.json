@@ -1,0 +1,86 @@
+{
+    "activityid": 59570,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Harnessing large-scale biodiversity data to infer the current distribution of Vanilla planifolia (Orchidaceae).",
+        "Journal": "Botanical Journal of the Linnean Society",
+        "Volume": "196",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "407-422",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110143",
+    "coauthors": {
+        "278401": {
+            "firstname": "Paige",
+            "middleinitial": "",
+            "lastname": "Ellestad",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278401,
+            "scholarlyactivityid": 59570
+        },
+        "278402": {
+            "firstname": "Felix",
+            "middleinitial": "",
+            "lastname": "Forest",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278402,
+            "scholarlyactivityid": 59570
+        },
+        "278403": {
+            "firstname": "Marcelo",
+            "middleinitial": "",
+            "lastname": "Serpe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111116958",
+            "authorid": 278403,
+            "scholarlyactivityid": 59570
+        },
+        "278404": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 278404,
+            "scholarlyactivityid": 59570
+        },
+        "278405": {
+            "firstname": "Sven",
+            "middleinitial": "C",
+            "lastname": "Buerki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088564",
+            "authorid": 278405,
+            "scholarlyactivityid": 59570
+        }
+    },
+    "status": [
+        {
+            "id": 59570,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110143",
+    "attachments": []
+}

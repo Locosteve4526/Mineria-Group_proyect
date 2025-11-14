@@ -1,0 +1,80 @@
+{
+    "activityid": 43468,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Nanomechanics Modeling of Asphalt-mineral Interfaces: Traction and Sliding Failure Study",
+        "Journal": "Journal of Multiscale Modeling",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "195114": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 195114,
+            "scholarlyactivityid": 43468,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195115": {
+            "firstname": "L.b.",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195115,
+            "scholarlyactivityid": 43468,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43468,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 43468,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 43468,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "114001675",
+    "attachments": []
+}

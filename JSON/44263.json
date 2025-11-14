@@ -1,0 +1,74 @@
+{
+    "activityid": 44263,
+    "fields": {
+        "Type": "Instructional Publications",
+        "Title": "CSHU-250 Course Materials ",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Organization (if applicable)": "",
+        "Issue Number/Edition": "",
+        "Page Numbers": "",
+        "Publisher": "",
+        "ISBN/ISSN/ASIN #": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "DOI": "",
+        "Author(s)": null,
+        "Web Address": "https://coen.boisestate.edu/shanepanter/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114030260",
+    "coauthors": {
+        "200528": {
+            "firstname": "Shane",
+            "middleinitial": "",
+            "lastname": "Panter",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111607015",
+            "authorid": 200528,
+            "scholarlyactivityid": 44263
+        },
+        "200529": {
+            "firstname": "Bogdan",
+            "middleinitial": "",
+            "lastname": "Dit",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114030260",
+            "authorid": 200529,
+            "scholarlyactivityid": 44263
+        }
+    },
+    "status": [
+        {
+            "id": 44263,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 44263,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 44263,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114030260",
+    "attachments": []
+}

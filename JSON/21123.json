@@ -1,0 +1,58 @@
+{
+    "activityid": 21123,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "MEMs in LTCC",
+        "Conference/Meeting Name": "204th Meeting of the ElectroChemical Society",
+        "Conference Location": "Orlando, FL",
+        "Date or Date Range": "2003-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Sponsoring Organization": "ElectroChemical Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111669747",
+    "coauthors": {
+        "139026": {
+            "firstname": "Donald",
+            "middleinitial": "Gene",
+            "lastname": "Plumlee Jr",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669747",
+            "authorid": 139026,
+            "scholarlyactivityid": 21123,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "139027": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Moll",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643645",
+            "authorid": 139027,
+            "scholarlyactivityid": 21123,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 21123,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2003,
+            "termid": "2003/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669747",
+    "attachments": []
+}

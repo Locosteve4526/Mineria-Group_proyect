@@ -1,0 +1,61 @@
+{
+    "activityid": 52428,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "How the coronavirus increases terrorism threats in the developing world",
+        "Name of Venue": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Activity Type": "Public Service Scholarship",
+        "Origin": "Manual"
+    },
+    "facultyid": "114082071",
+    "coauthors": {
+        "243088": {
+            "firstname": "Nisha",
+            "middleinitial": "",
+            "lastname": "Bellinger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114082071",
+            "authorid": 243088,
+            "scholarlyactivityid": 52428,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "243089": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Kattelman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243089,
+            "scholarlyactivityid": 52428,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52428,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114082071",
+    "attachments": []
+}

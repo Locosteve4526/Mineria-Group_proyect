@@ -1,0 +1,102 @@
+{
+    "activityid": 49118,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Student Journey Mapping as Curriculum Development Process",
+        "Journal": "Management Teaching Review",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114026665",
+    "coauthors": {
+        "254354": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Koppenhafer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114026665",
+            "authorid": 254354,
+            "scholarlyactivityid": 49118
+        },
+        "254355": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Hunt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111155890",
+            "authorid": 254355,
+            "scholarlyactivityid": 49118
+        },
+        "254356": {
+            "firstname": "William",
+            "middleinitial": "R",
+            "lastname": "Wynne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114066797",
+            "authorid": 254356,
+            "scholarlyactivityid": 49118
+        }
+    },
+    "status": [
+        {
+            "id": 49118,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 49118,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 49118,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 49118,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 49118,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114026665",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 4008,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Comparing student perceptions of textbooks: Does liking influence learning?",
+        "Journal": "International Journal of Teaching and Learning in Higher Education",
+        "Volume": "",
+        "Month / Season": "2013-10-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "120205": {
+            "firstname": "Regan",
+            "middleinitial": "A. R.",
+            "lastname": "Gurung",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120205,
+            "scholarlyactivityid": 4008
+        },
+        "120206": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 120206,
+            "scholarlyactivityid": 4008
+        }
+    },
+    "status": [
+        {
+            "id": 4008,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 4008,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

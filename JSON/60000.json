@@ -1,0 +1,110 @@
+{
+    "activityid": 60000,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Perceptions of Engagement and Learning with Mobile Technology in a University Setting",
+        "Journal": "College Teaching",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114003270",
+    "coauthors": {
+        "279886": {
+            "firstname": "Laura",
+            "middleinitial": "Jones",
+            "lastname": "Petranek",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112063053",
+            "authorid": 279886,
+            "scholarlyactivityid": 60000
+        },
+        "279887": {
+            "firstname": "Cara",
+            "middleinitial": "",
+            "lastname": "Gallegos",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003270",
+            "authorid": 279887,
+            "scholarlyactivityid": 60000
+        }
+    },
+    "status": [
+        {
+            "id": 60000,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 60000,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 60000,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 60000,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 60000,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 60000,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 60000,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114003270",
+    "attachments": []
+}

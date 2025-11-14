@@ -1,0 +1,116 @@
+{
+    "activityid": 5344,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Creating and Implementing Cloud-Based Simulations to Enhance a Multivariable Calculus Course",
+        "Journal": "Computers in Education Journal",
+        "Volume": "21",
+        "Month / Season": "2011-10-01",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "49-55",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/mecheng_facpubs/35",
+        "Description/Abstract": "A Cloud resource at Boise State University was used to enhance a large section of Multivariable and Vector Calculus (MATH 275) taken by engineering majors. This section was developed to deal with rapidly-increasing engineering enrollment. Our hypothesis was that curricula could be successfully delivered to  a very large class (120 students) by augmenting instruction with Cloud resources and Clicker technology. Interactive exercises, hosted on the Cloud, were assigned instead of traditional textbased homework. Exercises were developed by a team of faculty and graduate students funded by a Hewlett-Packard Labs grant[1]. Exercises were created  using MATLAB [2] and Working Model[3] software. Student satisfaction and perception of learning were measured using Clicker-based surveys associated with each exercise. Cloud computing resources hosted on university workstations provide access to  licensed software used by STEM students. University students access our cloud resource using the same user id's and passwords that they use to access other University resources. Remote Graphics Software (RGS)[4], available from Hewlett-Packard, enables students to remotely access any software made available to them on the cloud. Moreover, RGS enables the students to work together on the same file. Finally, RGS Sender software enables the host computer to  do most of the video processing, so that the remote user can run graphics-intensive software using a low-end PC or thin client without performance impairment. The cloud was hosted on 16 Blade workstations provided by a Hewlett-Packard Innovations in Engineering (IOE) award[5]. Providing easy access to our cloud resource was fundamental in achieving our goals. We developed a rubric for accessing and using our cloud resource. Clicker surveys conducted during classes at the beginning, middle, and end of the semester provided data elucidating student opinions on accessing and using the cloud resource. Comments were also elicited during the end of semester course  evaluation. Results showed students became more comfortable with the cloud resource as the semester progressed. Almost all of the students were comfortable with accessing and using the cloud resource by the end of the semester. Our template for providing cloud resources might be useful for others considering the implementation of cloud technology.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "16290": {
+            "firstname": "Joseph",
+            "middleinitial": "Charles",
+            "lastname": "Guarino",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111812",
+            "authorid": 16290,
+            "scholarlyactivityid": 5344
+        },
+        "16291": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 16291,
+            "scholarlyactivityid": 5344
+        },
+        "16292": {
+            "firstname": "Charles",
+            "middleinitial": "",
+            "lastname": "Adams",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16292,
+            "scholarlyactivityid": 5344
+        },
+        "16293": {
+            "firstname": "Rey",
+            "middleinitial": "",
+            "lastname": "DeLeon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16293,
+            "scholarlyactivityid": 5344
+        },
+        "16294": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 16294,
+            "scholarlyactivityid": 5344
+        },
+        "16295": {
+            "firstname": "Francisco",
+            "middleinitial": "",
+            "lastname": "Castellon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16295,
+            "scholarlyactivityid": 5344
+        },
+        "16296": {
+            "firstname": "Michael",
+            "middleinitial": "G.",
+            "lastname": "Wiedenfeld",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16296,
+            "scholarlyactivityid": 5344
+        },
+        "16297": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Williams",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16297,
+            "scholarlyactivityid": 5344
+        }
+    },
+    "status": [
+        {
+            "id": 5344,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

@@ -1,0 +1,77 @@
+{
+    "activityid": 37046,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Facilitating Student Success in Criminal Justice Programs",
+        "Name of Conference": "WACJ",
+        "Month / Season": "Fall",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111358865",
+    "coauthors": {
+        "153555": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Giacomazzi",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111358865",
+            "authorid": 153555,
+            "scholarlyactivityid": 37046
+        },
+        "153554": {
+            "firstname": "Marianne",
+            "middleinitial": "",
+            "lastname": "Hudson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111642100",
+            "authorid": 153554,
+            "scholarlyactivityid": 37046
+        },
+        "153553": {
+            "firstname": "Danielle",
+            "middleinitial": "",
+            "lastname": "Murdoch",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 153553,
+            "scholarlyactivityid": 37046
+        },
+        "153552": {
+            "firstname": "Marc",
+            "middleinitial": "A.",
+            "lastname": "Ruffinengo",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112049187",
+            "authorid": 153552,
+            "scholarlyactivityid": 37046
+        }
+    },
+    "status": [
+        {
+            "id": 37046,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358865",
+    "attachments": []
+}

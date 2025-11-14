@@ -1,0 +1,66 @@
+{
+    "activityid": 71381,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Faculty Knowledge and Skill in Mentoring Graduate Students",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114003270",
+    "coauthors": {
+        "324394": {
+            "firstname": "Shelley",
+            "middleinitial": "M",
+            "lastname": "Lucas",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669980",
+            "authorid": 324394,
+            "scholarlyactivityid": 71381
+        },
+        "324393": {
+            "firstname": "Cara",
+            "middleinitial": "",
+            "lastname": "Gallegos",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114003270",
+            "authorid": 324393,
+            "scholarlyactivityid": 71381
+        },
+        "324392": {
+            "firstname": "Lida",
+            "middleinitial": "",
+            "lastname": "Uribe-Florez",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114047750",
+            "authorid": 324392,
+            "scholarlyactivityid": 71381
+        }
+    },
+    "status": [
+        {
+            "id": 71381,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 7,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114003270",
+    "attachments": []
+}

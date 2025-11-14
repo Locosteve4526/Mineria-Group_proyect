@@ -1,0 +1,58 @@
+{
+    "activityid": 38543,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Textbook revisions and changes over time: The search for objective measures",
+        "Conference / Meeting Name": "Rocky Mountain Psychological Association",
+        "Conference Location": "Salt Lake City, UT",
+        "Date or Date Range": "April",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "Rocky Mountain Psychological Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "162125": {
+            "firstname": "Brittany",
+            "middleinitial": "",
+            "lastname": "Hazzard",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 162125,
+            "scholarlyactivityid": 38543,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "162126": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 162126,
+            "scholarlyactivityid": 38543,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 38543,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

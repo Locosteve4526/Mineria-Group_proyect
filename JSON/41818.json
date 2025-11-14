@@ -1,0 +1,93 @@
+{
+    "activityid": 41818,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Happy Hours are a Godsend",
+        "Name of Conference": "ASEE Annual Conference",
+        "Month / Season": "06/2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113161429",
+    "coauthors": {
+        "226122": {
+            "firstname": "Krishna",
+            "middleinitial": "",
+            "lastname": "Pakala",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113161429",
+            "authorid": 226122,
+            "scholarlyactivityid": 41818,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "226123": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Bairaktarova",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226123,
+            "scholarlyactivityid": 41818,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "226124": {
+            "firstname": "Samantha",
+            "middleinitial": "",
+            "lastname": "Schauer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226124,
+            "scholarlyactivityid": 41818,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41818,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 41818,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113161429",
+    "attachments": [
+        {
+            "attachmentid": 22806,
+            "mimetype": "application/pdf",
+            "filename": "Happy_Hours_are_a_Godsend.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTZiSU1lSTc3SUgxSk1KUjRXcDg4ejBvY2daeURIRWlEelZKdXpOeXROWnhRNlF3M1c3ellmSjhkTW9BemZIUEtlNnUwRDREeG92ST0%3D",
+            "filesize": 443881
+        }
+    ]
+}

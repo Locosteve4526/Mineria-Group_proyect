@@ -1,0 +1,66 @@
+{
+    "activityid": 5539,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Cybertext redux: Using DGBL to teach L2 vocabulary and reading to beginning university students",
+        "Journal": "Computer Assisted Language Learning",
+        "Volume": "22",
+        "Month / Season": "2009-12-31",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "409-424",
+        "Publisher": "",
+        "DOI": "10.1080/09588220903345168",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "17001": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Neville",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17001,
+            "scholarlyactivityid": 5539
+        },
+        "17002": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 17002,
+            "scholarlyactivityid": 5539
+        },
+        "17003": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "McInnis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17003,
+            "scholarlyactivityid": 5539
+        }
+    },
+    "status": [
+        {
+            "id": 5539,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

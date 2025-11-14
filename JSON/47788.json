@@ -1,0 +1,90 @@
+{
+    "activityid": 47788,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Variations in the Capacity of Drilled Energy Shafts",
+        "Name of Conference": "EWGRSE 2020",
+        "Month / Season": "September",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "Postponed to September 2022 due to COVID-19",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112176072",
+    "coauthors": {
+        "291079": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 291079,
+            "scholarlyactivityid": 47788,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "291080": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Zimmerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 291080,
+            "scholarlyactivityid": 47788,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47788,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 47788,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 47788,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 47788,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112176072",
+    "attachments": []
+}

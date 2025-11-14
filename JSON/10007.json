@@ -1,0 +1,51 @@
+{
+    "activityid": 10007,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Gender and Social Indeterminacy in Weimar Era Berlin",
+        "Conference/Meeting Name": "Rocky Mountain Modern Language Association Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2014-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "Rocky Mountain Modern Language Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112033784",
+    "coauthors": {
+        "113500": {
+            "firstname": "Beret",
+            "middleinitial": "Liv",
+            "lastname": "Norman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033784",
+            "authorid": 113500,
+            "scholarlyactivityid": 10007
+        }
+    },
+    "status": [
+        {
+            "id": 10007,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10007,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112033784",
+    "attachments": []
+}

@@ -1,0 +1,78 @@
+{
+    "activityid": 24612,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Learning disabilities/Special education",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Edition": "2nd",
+        "Volume": "",
+        "Publisher": "Springer",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114046499",
+    "coauthors": {
+        "93839": {
+            "firstname": "John",
+            "middleinitial": "L.",
+            "lastname": "Hosp",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 93839,
+            "scholarlyactivityid": 24612
+        },
+        "93840": {
+            "firstname": "Sally",
+            "middleinitial": "M.",
+            "lastname": "Huddle",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 93840,
+            "scholarlyactivityid": 24612
+        },
+        "93841": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Ford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046499",
+            "authorid": 93841,
+            "scholarlyactivityid": 24612
+        },
+        "93842": {
+            "firstname": "Kiersten",
+            "middleinitial": "",
+            "lastname": "Hensley",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 93842,
+            "scholarlyactivityid": 24612
+        }
+    },
+    "status": [
+        {
+            "id": 24612,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114046499",
+    "attachments": []
+}

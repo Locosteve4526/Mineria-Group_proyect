@@ -1,0 +1,46 @@
+{
+    "activityid": 4488,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Parameter Estimation: A new approach to weighting a priori information",
+        "Journal": "Journal of Inverse and Ill-Posed Problems",
+        "Volume": "16",
+        "Month / Season": "2008-11-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "175-193",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1515/JIIP.2008.011",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/41",
+        "Description/Abstract": "We propose a new approach to weighting initial parameter misfits in a least squares optimization problem for linear parameter estimation. Parameter misfit weights are found by solving an optimization problem which ensures the penalty function has the properties of a ?2 random variable with n degrees of freedom, where n is the number of data. This approach differs from others in that weights found by the proposed algorithm vary along a diagonal matrix rather than remain constant. In addition, it is assumed that data and parameters are random, but not necessarily normally distributed.\nThe proposed algorithm successfully solved three benchmark problems, one with discontinuous solutions. Solutions from a more idealized discontinuous problem show that the algorithm can successfully weight initial parameter misfits even though the two-norm typically smoothes solutions. For all test problems sample solutions show that results from the proposed algorithm can be better than those found using the L-curve and generalized cross-validation. In the cases where the parameter estimates are not as accurate, their corresponding standard deviations or error bounds correctly identify their uncertainty.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "13504": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 13504,
+            "scholarlyactivityid": 4488
+        }
+    },
+    "status": [
+        {
+            "id": 4488,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 31719,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The SuPerPiG search for short period planets in the K2 dataset",
+        "Conference/Meeting Name": "AAS/Division for Planetary Sciences Meeting Abstracts",
+        "Conference Location": "",
+        "Date or Date Range": "Nov",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2015DPS....4750102A",
+        "Description/Abstract": "Planets with orbital periods of less than a day present real challenges to theories of planet formation and evolution, and yet numerous objects with periods as short as a few hours have been found. So close to their host stars that some are actively disintegrating, these planets' origins remain unclear, and even modified models for planet formation and evolution with significant inward migration have trouble accounting for their periods. They thus provide an important probe of the innermost region of the protoplanetary disk. We report on the ongoing efforts of the Short-Period Planets Group (SuPerPiG, http://www.astrojack.com/research/superpig/) to find additional short-period planets in the K2 Mission, using the light curve products produced by the Vanderburg and Johnson k2sff pipeline (Vanderburg &amp; Johnson 2014, https://archive.stsci.edu/prepds/k2sff/). Preliminary results from Campaign 2, including accounting for a 6-hour pseudo transit signal introduced by the Kepler spacecraft thruster re-pointing, will be presented. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "120067": {
+            "firstname": "E.",
+            "middleinitial": "R.",
+            "lastname": "Adams",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120067,
+            "scholarlyactivityid": 31719,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120068": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120068,
+            "scholarlyactivityid": 31719,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31719,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

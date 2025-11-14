@@ -1,0 +1,96 @@
+{
+    "activityid": 42170,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Winter Raptor Distributions and Habitat Associations Across Nevada",
+        "Journal": "Western Birds",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111358636",
+    "coauthors": {
+        "216068": {
+            "firstname": "Robert",
+            "middleinitial": "A",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216068,
+            "scholarlyactivityid": 42170,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "216069": {
+            "firstname": "Jay",
+            "middleinitial": "",
+            "lastname": "Carlisle",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358636",
+            "authorid": 216069,
+            "scholarlyactivityid": 42170,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "216070": {
+            "firstname": "Mackenzie",
+            "middleinitial": "A",
+            "lastname": "Jeffress",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216070,
+            "scholarlyactivityid": 42170,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "216071": {
+            "firstname": "Joe",
+            "middleinitial": "G",
+            "lastname": "Barnes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216071,
+            "scholarlyactivityid": 42170,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42170,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358636",
+    "attachments": [
+        {
+            "attachmentid": 20187,
+            "mimetype": "application/pdf",
+            "filename": "Miller at al. 2019 Nevada raptors (Western Birds 50 p114-141).pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeVBJRGNzM01wR1liU1NzbmRRK28xQm9MMldCM0JoSjdMM29LNUNjdjVJdzY4M04vcXpUUmZZcTFNZmQyeGs4WXd2b3g3RHZsOTdSZXlMdDd3OEU1TGFPVVA4VnF1a3VqaGpwSU40TXhRTmtWVjg4UzlsU1VEanB0eXNvTFhadm8v",
+            "filesize": 5040950
+        }
+    ]
+}

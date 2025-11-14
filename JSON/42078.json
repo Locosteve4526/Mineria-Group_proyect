@@ -1,0 +1,76 @@
+{
+    "activityid": 42078,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Real-Time Bitstream Decompression Scheme for FPGAs Reconfiguration",
+        "Name of Conference": "IEEE 61st International Midwest Symposium on Circuits and Systems (MWSCAS), ",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "186890": {
+            "firstname": "Luka",
+            "middleinitial": "",
+            "lastname": "Daoud",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 186890,
+            "scholarlyactivityid": 42078,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "186891": {
+            "firstname": "Fady",
+            "middleinitial": "",
+            "lastname": "Hussein",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 186891,
+            "scholarlyactivityid": 42078,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "186892": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 186892,
+            "scholarlyactivityid": 42078,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42078,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

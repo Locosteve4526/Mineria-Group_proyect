@@ -1,0 +1,88 @@
+{
+    "activityid": 64159,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Co-Author",
+        "Journal": "Journal of Communication Technology",
+        "Volume": "5",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "53-77",
+        "Publisher": "Communication Technology Division of the Association for Education in Journalism and Mass Communication",
+        "DOI": "10.51548/joctec-2022-013",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114229877",
+    "coauthors": {
+        "318636": {
+            "firstname": "Yoon-Joo",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318636,
+            "scholarlyactivityid": 64159,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318637": {
+            "firstname": "Mina",
+            "middleinitial": "",
+            "lastname": "Park",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318637,
+            "scholarlyactivityid": 64159,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318638": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Sliva",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318638,
+            "scholarlyactivityid": 64159,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318639": {
+            "firstname": "Jinho",
+            "middleinitial": "",
+            "lastname": "Joo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114229877",
+            "authorid": 318639,
+            "scholarlyactivityid": 64159,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64159,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114229877",
+    "attachments": []
+}

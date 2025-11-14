@@ -1,0 +1,86 @@
+{
+    "activityid": 1778,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The influence of wellbore inflow on electromagnetic borehole flowmeter measurements",
+        "Journal": "Ground Water",
+        "Volume": "47",
+        "Month / Season": "2009-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "515-525",
+        "Publisher": "",
+        "DOI": "doi: 10.1111/j.1745-6584.2008.00559.x",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper describes a combined field, laboratory, and numerical study of electromagnetic borehole flowmeter\nmeasurements acquired without the use of a packer or skirt to block bypass flow around the flowmeter. The\nmost significant finding is that inflow through the wellbore screen changes the ratio of flow through the flowmeter\nto wellbore flow. Experiments reveal up to a factor of two differences in this ratio for conditions with and without\ninflow through the wellbore screen. Standard practice is to assume the ratio is constant. A numerical model has\nbeen developed to simulate the effect of inflow on the flowmeter. The model is formulated using momentum conservation within the borehole and around the flowmeter. The model is embedded in the MODFLOW-2000 ground water flow code.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4436": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Clemo",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4436,
+            "scholarlyactivityid": 1778
+        },
+        "4437": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4437,
+            "scholarlyactivityid": 1778
+        },
+        "4438": {
+            "firstname": "Edward",
+            "middleinitial": "C",
+            "lastname": "Reboulet",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4438,
+            "scholarlyactivityid": 1778
+        },
+        "4439": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4439,
+            "scholarlyactivityid": 1778
+        },
+        "4440": {
+            "firstname": "Carsten",
+            "middleinitial": "",
+            "lastname": "Leven",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4440,
+            "scholarlyactivityid": 1778
+        }
+    },
+    "status": [
+        {
+            "id": 1778,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

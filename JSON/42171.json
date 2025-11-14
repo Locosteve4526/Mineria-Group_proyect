@@ -1,0 +1,114 @@
+{
+    "activityid": 42171,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Addressing Turnover Estimation Biases with Genetic Data of Northern Goshawks",
+        "Journal": "Condor",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111358636",
+    "coauthors": {
+        "341431": {
+            "firstname": "Carly",
+            "middleinitial": "F",
+            "lastname": "Muench",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341431,
+            "scholarlyactivityid": 42171,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341432": {
+            "firstname": "Robert",
+            "middleinitial": "A",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341432,
+            "scholarlyactivityid": 42171,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341433": {
+            "firstname": "K",
+            "middleinitial": "L",
+            "lastname": "Pilgrim",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341433,
+            "scholarlyactivityid": 42171,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341434": {
+            "firstname": "M",
+            "middleinitial": "K",
+            "lastname": "Schwartz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341434,
+            "scholarlyactivityid": 42171,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341435": {
+            "firstname": "E",
+            "middleinitial": "",
+            "lastname": "Greene",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341435,
+            "scholarlyactivityid": 42171,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341436": {
+            "firstname": "Jay",
+            "middleinitial": "",
+            "lastname": "Carlisle",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358636",
+            "authorid": 341436,
+            "scholarlyactivityid": 42171,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42171,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111358636",
+    "attachments": []
+}

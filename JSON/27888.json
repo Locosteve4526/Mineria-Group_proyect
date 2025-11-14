@@ -1,0 +1,67 @@
+{
+    "activityid": 27888,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Robust Self-Replication of Combinatorial Information via Crystal Growth and Scission",
+        "Name of Conference": "",
+        "Month / Season": "2012-04-24",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "6405-6410",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1073/pnas.1117813109",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/198",
+        "Description/Abstract": "Understanding how a simple chemical system can accurately replicate combinatorial information, such as a sequence, is an important question for both the study of life in the universe and for the development of evolutionary molecular design techniques. During biological sequence replication, a nucleic acid polymer serves as a template for the enzyme-catalyzed assembly of a complementary sequence. Enzymes then separate the template and complement before the next round of replication. Attempts to understand how replication could occur more simply, such as without enzymes, have largely focused on developing minimal versions of this replication process. Here we describe how a different mechanism, crystal growth and scission, can accurately replicate chemical sequences without enzymes. Crystal growth propagates a sequence of bits while mechanically-induced scission creates new growth fronts. Together, these processes exponentially increase the number of crystal sequences. In the system we describe, sequences are arrangements of DNA tile monomers within ribbon-shaped crystals. 99.98% of bits are copied correctly and 78% of 4-bit sequences are correct after two generations; roughly 40 sequence copies are made per growth front per generation. In principle, this process is accurate enough for 1,000-fold replication of 4-bit sequences with 50% yield, replication of longer sequences, and Darwinian evolution. We thus demonstrate that neither enzymes nor covalent bond formation are required for robust chemical sequence replication. The form of the replicated information is also compatible with the replication and evolution of a wide class of materials with precise nanoscale geometry such as plasmonic nanostructures or heterogeneous protein assemblies.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111183605",
+    "coauthors": {
+        "87835": {
+            "firstname": "Rebecca",
+            "middleinitial": "",
+            "lastname": "Schulman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87835,
+            "scholarlyactivityid": 27888
+        },
+        "87836": {
+            "firstname": "Bernard",
+            "middleinitial": "",
+            "lastname": "Yurke",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111183605",
+            "authorid": 87836,
+            "scholarlyactivityid": 27888
+        },
+        "87837": {
+            "firstname": "Erik",
+            "middleinitial": "",
+            "lastname": "Winfree",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87837,
+            "scholarlyactivityid": 27888
+        }
+    },
+    "status": [
+        {
+            "id": 27888,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111183605",
+    "attachments": []
+}

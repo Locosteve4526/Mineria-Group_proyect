@@ -1,0 +1,63 @@
+{
+    "activityid": 34854,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cEffects of Clustering Algorithms on Typographic Reconstruction\u201d",
+        "Name of Conference": "International Conference on Document Analysis and Recognition",
+        "Month / Season": "August 2015",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Nancy, France",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Type designers and historians studying the typefaces\r\nand fonts used in historical documents can usually only\r\nrely on available printed material. The initial wooden or metal\r\ncast fonts have mostly disappeared. In this paper we address\r\nthe creation of character templates from printed documents.\r\nImages of characters scanned from Renaissance era documents\r\nare segmented, then clustered and a template is created from\r\neach obtained cluster of similar appearance characters. In order\r\nfor subsequent typeface analysis tools to operate, the template\r\nshould reduce the noise present in the individual instances by\r\nusing information from the set of samples, but the samples\r\nmust be homogeneous enough to not introduce further noise\r\ninto the process. This paper evaluates the efficiency of several\r\nclustering algorithms and the associated parameters through\r\ncluster validity statistics and appearance of the resulting template\r\nimage. Clustering algorithms that form tight clusters produce\r\ntemplates that highlight details, even though the number of\r\navailable samples is smaller, while algorithms with larger clusters\r\nbetter capture the global shape of the characters.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142547": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142547,
+            "scholarlyactivityid": 34854,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142548": {
+            "firstname": "Bart",
+            "middleinitial": "",
+            "lastname": "Lamiroy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142548,
+            "scholarlyactivityid": 34854,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34854,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

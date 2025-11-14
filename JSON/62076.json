@@ -1,0 +1,86 @@
+{
+    "activityid": 62076,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Introduction",
+        "Book Title": "The Siberian World",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "1 - 28",
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "Routledge",
+        "Publisher Location": "London/New York",
+        "ISBN": "9780367374754",
+        "Author/Editor of Larger Work": "John P. Ziker, Jenanne Ferguson, Vladimir Davydov",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111715805",
+    "coauthors": {
+        "308465": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Ziker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111715805",
+            "authorid": 308465,
+            "scholarlyactivityid": 62076
+        },
+        "308466": {
+            "firstname": "Jenanne",
+            "middleinitial": "",
+            "lastname": "Ferguson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308466,
+            "scholarlyactivityid": 62076
+        },
+        "308467": {
+            "firstname": "Vladimir",
+            "middleinitial": "",
+            "lastname": "Davydov",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308467,
+            "scholarlyactivityid": 62076
+        }
+    },
+    "status": [
+        {
+            "id": 62076,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 62076,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 62076,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111715805",
+    "attachments": []
+}

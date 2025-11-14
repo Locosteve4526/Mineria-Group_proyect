@@ -1,0 +1,64 @@
+{
+    "activityid": 71063,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Considerations for determining the performance of ultraviolet light emitting diode fluid disinfection systems",
+        "Journal": "Water Environment Research",
+        "Volume": "95",
+        "Month / Season": "",
+        "Issue Number": "11",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "e10947",
+        "Publisher": "",
+        "DOI": "10.1002/wer.10947",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The International Ultraviolet Association (IUVA) Task Force was formed to develop guidelines regarding testing and reporting on performance of UV LED water disinfection systems. The goal was to provide clarity in a guidance document on measuring system performance across the global UV LED water disinfection system market. A review of current performance measurement protocols for mercury lamp based systems shows that the common elements of UV LED system performance measurement protocols should be as follows: specified standard for the amount of pathogen reduction required, the requirement that the validation testing be conducted by a competent facility, and that the system be continually monitored by UV sensors while in use to verify system performance unless pathogen reduction is not claimed. UV LEDs have selectable peak wavelengths, as opposed to mercury lamps that have fixed emission wavelength values. As a result of this difference, the following changes to protocols used to test mercury lamp systems are recommended. First, the use of disinfection benchmarks other than 254\u2009nm dose, such as direct inactivation values, dose benchmarks referenced to 254\u2009nm, and/or dose benchmarks at the UV LED emission wavelength that give the same inactivation as the original 254\u2009nm UV dose benchmark. Second, the use of 254\u2009nm UV water transmittance values as a placeholder, rather than an assumed correct value, for systems under test with LED wavelengths &gt;250\u2009nm and water transmittance values \u226587%. More research is needed for lower wavelengths and UVTs. Third, the recommendation that germicidal response UV sensors be used in UV LED based systems to ensure that the validated disinfection is delivered. Finally, additional LED-specific considerations were also noted. UV LEDs are also instant-on devices, making them ideal light sources for systems operated intermittently. Performance testing of systems operated intermittently should include a test to insure that pathogens do not migrate past the UV LEDs while the LEDs are off. UV LED devices have recognized protocols for determining the lifetime of the devices, as well as for measuring other device properties. Caution should be exercised in using these lifetime values for devices in UV disinfection systems, since the thermal environment of the devices may be different for protocol testing and disinfection system operation. PRACTITIONER POINTS: Validation of UVC LED fluid disinfection is necessary for point of use, point of entry, and municipal applications. The emission spectrum properties, considerations and measurements for output over lifetime, and unique system design considerations of UVC LEDs as light sources are factors that must be considered when evaluating fluid disinfection performance. The instant-on operation, system geometry, validation benchmarks, system sensing, water transmittance, and fouling must also be considered for UVC LED devices when evaluating fluid disinfection performance.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114251422",
+    "coauthors": {
+        "323745": {
+            "firstname": "D",
+            "middleinitial": "G",
+            "lastname": "Knight",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 323745,
+            "scholarlyactivityid": 71063
+        },
+        "323746": {
+            "firstname": "Natalie",
+            "middleinitial": "M",
+            "lastname": "Hull",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 323746,
+            "scholarlyactivityid": 71063
+        }
+    },
+    "status": [
+        {
+            "id": 71063,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114251422",
+    "attachments": [
+        {
+            "attachmentid": 53625,
+            "mimetype": "application/pdf",
+            "filename": "Water Environment Research - 2023.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWhWcTBXY1RCaTQ5ejUzc2c0U1UzQm44M0QrUzdoMDdsZ3FaSGZBekxMT0x1Y3JwMVVvbkdWMnJkS1ZUTW5lNm5nMEJtc0psLzAxV09lMURQOGlMYjR3PT0%3D",
+            "filesize": 1127474
+        }
+    ]
+}

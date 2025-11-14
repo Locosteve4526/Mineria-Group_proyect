@@ -1,0 +1,87 @@
+{
+    "activityid": 25688,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Crystallographic description for nanoparticle assemblies - application to cadmium selenide clusters",
+        "Name of Conference": "",
+        "Month / Season": "2001-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "C4.37/1-C4.37/4",
+        "Publisher": "Anisotropic Nanoparticles",
+        "Publisher Location": " ",
+        "Volume": "635",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112181986",
+    "coauthors": {
+        "83231": {
+            "firstname": "A.",
+            "middleinitial": "",
+            "lastname": "Vasiliev",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83231,
+            "scholarlyactivityid": 25688
+        },
+        "83232": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Aindow",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83232,
+            "scholarlyactivityid": 25688
+        },
+        "83233": {
+            "firstname": "Jeunghoon",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112181986",
+            "authorid": 83233,
+            "scholarlyactivityid": 25688
+        },
+        "83234": {
+            "firstname": "F.",
+            "middleinitial": "",
+            "lastname": "Papadimitrakopoulos",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83234,
+            "scholarlyactivityid": 25688
+        },
+        "83235": {
+            "firstname": "F.",
+            "middleinitial": "",
+            "lastname": "Jain",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83235,
+            "scholarlyactivityid": 25688
+        }
+    },
+    "status": [
+        {
+            "id": 25688,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2001,
+            "termid": "2001/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112181986",
+    "attachments": []
+}

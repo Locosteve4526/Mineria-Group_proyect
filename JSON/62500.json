@@ -1,0 +1,106 @@
+{
+    "activityid": 62500,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Checking the scales: A psychometric evaluation of the Weight Concerns Scale in a sample of college-aged cisgender men from the U.S.\u00a0&lt;/span&gt;",
+        "Journal": "Psychological Assessment.",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": " https://doi.org/10.1037/pas0001198\ufeff",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112014101",
+    "coauthors": {
+        "287009": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Brasil",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 287009,
+            "scholarlyactivityid": 62500,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "287010": {
+            "firstname": "Callie",
+            "middleinitial": "",
+            "lastname": "Mims",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 287010,
+            "scholarlyactivityid": 62500,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "287011": {
+            "firstname": "Ryon",
+            "middleinitial": "",
+            "lastname": "McDermott",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 287011,
+            "scholarlyactivityid": 62500,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "287012": {
+            "firstname": "Mary",
+            "middleinitial": "Elizabeth",
+            "lastname": "Pritchard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112014101",
+            "authorid": 287012,
+            "scholarlyactivityid": 62500,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62500,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 62500,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 62500,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "112014101",
+    "attachments": []
+}

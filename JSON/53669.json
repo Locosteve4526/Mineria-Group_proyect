@@ -1,0 +1,48 @@
+{
+    "activityid": 53669,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Poet's Tomb",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "Parlor Press",
+        "Publisher Location": "North Carolina",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://parlorpress.com/products/the-poets-tomb",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "251160": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 251160,
+            "scholarlyactivityid": 53669,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53669,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

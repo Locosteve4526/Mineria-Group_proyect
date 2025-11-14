@@ -1,0 +1,67 @@
+{
+    "activityid": 45749,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Hidden Orders and Frictions in Information Flow",
+        "Name of Conference": "Southern Finance Association",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "Southern Finance Association",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "208442": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086454",
+            "authorid": 208442,
+            "scholarlyactivityid": 45749
+        },
+        "208443": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "McBrayer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045846",
+            "authorid": 208443,
+            "scholarlyactivityid": 45749
+        },
+        "208444": {
+            "firstname": "Ethan",
+            "middleinitial": "",
+            "lastname": "Watson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 208444,
+            "scholarlyactivityid": 45749
+        }
+    },
+    "status": [
+        {
+            "id": 45749,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

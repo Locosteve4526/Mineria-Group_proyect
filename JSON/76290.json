@@ -1,0 +1,74 @@
+{
+    "activityid": 76290,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Generalist Social Work Practice: A Competency-Based Approach&lt;/span&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;\u00a0&lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Edition": "2",
+        "Volume": "",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111618272",
+    "coauthors": {
+        "339249": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Poulin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 339249,
+            "scholarlyactivityid": 76290,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "339250": {
+            "firstname": "Selina",
+            "middleinitial": "",
+            "lastname": "Mathis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 339250,
+            "scholarlyactivityid": 76290,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "339251": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Witt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111618272",
+            "authorid": 339251,
+            "scholarlyactivityid": 76290,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76290,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111618272",
+    "attachments": []
+}

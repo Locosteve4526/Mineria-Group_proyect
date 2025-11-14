@@ -1,0 +1,62 @@
+{
+    "activityid": 21245,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Happy Hour: A design case on integrating live synchronous web meetings into asynchronous online courses",
+        "Conference/Meeting Name": "Global Learn",
+        "Conference Location": "Limerick, Ireland",
+        "Date or Date Range": "2016-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "AACE",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111319147",
+    "coauthors": {
+        "76551": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 76551,
+            "scholarlyactivityid": 21245
+        },
+        "76552": {
+            "firstname": "Joanna",
+            "middleinitial": "C.",
+            "lastname": "Dunalp",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76552,
+            "scholarlyactivityid": 21245
+        },
+        "76553": {
+            "firstname": "Chareen",
+            "middleinitial": "Lee",
+            "lastname": "Snelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111319147",
+            "authorid": 76553,
+            "scholarlyactivityid": 21245
+        }
+    },
+    "status": [
+        {
+            "id": 21245,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111319147",
+    "attachments": []
+}

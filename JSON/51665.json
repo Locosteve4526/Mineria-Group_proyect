@@ -1,0 +1,78 @@
+{
+    "activityid": 51665,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "NCA/OCTC Raptor Inventory/Survey Projects",
+        "Outlet (if applicable)": "Idaho Division of the Military",
+        "Date": "12/15/2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "17",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "238863": {
+            "firstname": "Steve",
+            "middleinitial": "",
+            "lastname": "Alsup",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238863,
+            "scholarlyactivityid": 51665,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "238864": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 238864,
+            "scholarlyactivityid": 51665,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "238865": {
+            "firstname": "Todd",
+            "middleinitial": "",
+            "lastname": "Katzner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238865,
+            "scholarlyactivityid": 51665,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51665,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

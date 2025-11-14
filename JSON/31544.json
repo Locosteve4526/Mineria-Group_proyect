@@ -1,0 +1,74 @@
+{
+    "activityid": 31544,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "How does access to Roger CPA Review materials impact student learning and other outcomes?",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114026485",
+    "coauthors": {
+        "118965": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 118965,
+            "scholarlyactivityid": 31544
+        },
+        "118964": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Baxter",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114026485",
+            "authorid": 118964,
+            "scholarlyactivityid": 31544
+        }
+    },
+    "status": [
+        {
+            "id": 31544,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 31544,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 31544,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114026485",
+    "attachments": []
+}

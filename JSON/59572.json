@@ -1,0 +1,85 @@
+{
+    "activityid": 59572,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Abundance,  distribution, and growth characteristics of three Vachellia trees in Gelbel Elba National Park, south-eastern Egypt",
+        "Journal": "Scientific Reports",
+        "Volume": "11",
+        "Month / Season": "January",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "1-10",
+        "Publisher": "Nature Research",
+        "DOI": "doi.org/10-1038/s41598-020-79542-1",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110143",
+    "coauthors": {
+        "278409": {
+            "firstname": "Ahmed",
+            "middleinitial": "M",
+            "lastname": "Abbas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278409,
+            "scholarlyactivityid": 59572,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278410": {
+            "firstname": "Mohammed",
+            "middleinitial": "",
+            "lastname": "Al-Kahtani",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278410,
+            "scholarlyactivityid": 59572,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278411": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak PhD",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 278411,
+            "scholarlyactivityid": 59572
+        },
+        "278412": {
+            "firstname": "Wagdi",
+            "middleinitial": "S",
+            "lastname": "Soliman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278412,
+            "scholarlyactivityid": 59572,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59572,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110143",
+    "attachments": []
+}

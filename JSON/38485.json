@@ -1,0 +1,58 @@
+{
+    "activityid": 38485,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Toishabui Medicine",
+        "Conference / Meeting Name": "35th Annual Elko County Science Fair",
+        "Conference Location": "Elko Convention Center, Elko, NV",
+        "Date or Date Range": "3/15/17-3/16/17",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://elkodaily.com/news/local/owyhee-student-wins-county-science-fair/article_fa6409a6-1bae-54ac-a7e4-5d280a70a8eb.html",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112033562",
+    "coauthors": {
+        "161908": {
+            "firstname": "Destany",
+            "middleinitial": "LittleSky",
+            "lastname": "Pete",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 161908,
+            "scholarlyactivityid": 38485,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "161909": {
+            "firstname": "Kenneth",
+            "middleinitial": "A",
+            "lastname": "Cornell Ph.D.",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033562",
+            "authorid": 161909,
+            "scholarlyactivityid": 38485,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 38485,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112033562",
+    "attachments": []
+}

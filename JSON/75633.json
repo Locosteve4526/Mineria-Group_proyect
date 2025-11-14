@@ -1,0 +1,45 @@
+{
+    "activityid": 75633,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Remote Professor",
+        "Actual/Projected Year of Publication/Presentation": 2027,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116449",
+    "coauthors": {
+        "335749": {
+            "firstname": "Jennifer",
+            "middleinitial": "M",
+            "lastname": "Weaver",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116449",
+            "authorid": 335749,
+            "scholarlyactivityid": 75633
+        }
+    },
+    "status": [
+        {
+            "id": 75633,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113116449",
+    "attachments": []
+}

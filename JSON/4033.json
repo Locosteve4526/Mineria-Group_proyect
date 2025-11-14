@@ -1,0 +1,66 @@
+{
+    "activityid": 4033,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Textbook use and learning: A North American perspective",
+        "Journal": "Psychology Learning and Teaching",
+        "Volume": "11",
+        "Month / Season": "2012-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "87-98",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "11879": {
+            "firstname": "Regan",
+            "middleinitial": "A. R.",
+            "lastname": "Gurung",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11879,
+            "scholarlyactivityid": 4033
+        },
+        "11880": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 11880,
+            "scholarlyactivityid": 4033
+        },
+        "11881": {
+            "firstname": "David",
+            "middleinitial": "B.",
+            "lastname": "Daniel",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11881,
+            "scholarlyactivityid": 4033
+        }
+    },
+    "status": [
+        {
+            "id": 4033,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

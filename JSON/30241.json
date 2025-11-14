@@ -1,0 +1,89 @@
+{
+    "activityid": 30241,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Recruitment and retention of rural physicians in Australia",
+        "Name of Conference": "National Rural Health Association's 39th Annual Rural Health Care Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "109762": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Terry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109762,
+            "scholarlyactivityid": 30241,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109763": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109763,
+            "scholarlyactivityid": 30241,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109764": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Bourke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109764,
+            "scholarlyactivityid": 30241,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109765": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 109765,
+            "scholarlyactivityid": 30241,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30241,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

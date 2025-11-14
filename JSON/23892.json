@@ -1,0 +1,58 @@
+{
+    "activityid": 23892,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Oil and Gas Development",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 1990,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Pacific Research INstitute",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "978-0936488240",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "113636": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 113636,
+            "scholarlyactivityid": 23892
+        },
+        "113637": {
+            "firstname": "Donald",
+            "middleinitial": "",
+            "lastname": "Leal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113637,
+            "scholarlyactivityid": 23892
+        }
+    },
+    "status": [
+        {
+            "id": 23892,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1990,
+            "termid": "1989/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

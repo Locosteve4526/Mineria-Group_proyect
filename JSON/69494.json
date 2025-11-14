@@ -1,0 +1,45 @@
+{
+    "activityid": 69494,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Permutation\u00a0resemblance:\u00a0an integer programming approach",
+        "Conference/Meeting Name": "Analysis Seminar",
+        "Conference Location": "University of Denver (online)",
+        "Date or Date Range": "3/15/2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Consider a function f on a finite domain S. How close is f from being a bijection on S? One way to measure this is to look at the number of distinct images |f(S)|. In this talk, we define another way, the notion of permutation resemblance, to measure the bijectivity of a function when the domain has an additive operation (such as Z/nZ). Intuitively, we count the minimum number of different shifts to alter a function so that it becomes a bijection. We introduce an integer programming approach to compute the permutation resemblance. Moreover, we show that this notion and approach can be applied to the problem of constructing bijections with good resistance against differential attack, which has been one the most important problems in the research of cryptographic functions.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114254618",
+    "coauthors": {
+        "336059": {
+            "firstname": "Li-An",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114254618",
+            "authorid": 336059,
+            "scholarlyactivityid": 69494,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69494,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254618",
+    "attachments": []
+}

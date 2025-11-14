@@ -1,0 +1,52 @@
+{
+    "activityid": 20776,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "A Multi-Year Dust Devil Vortex Survey Using an Automated Search of Pressure Time-Series",
+        "Conference/Meeting Name": "Division of Planetary Sciences Annual Meeting",
+        "Conference Location": "Tucson AZ",
+        "Date or Date Range": "2014-11-12",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "American Astronomical Society/Division of Planetary Sciences",
+        "Presenter(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2014DPS....4630005J",
+        "Description/Abstract": "Dust devils occur in arid climates on the Earth and ubiquitously on Mars, where they likely dominate the supply of atmospheric dust and influence climate. Martian dust devils have been studied with a combination of orbiting and landed spacecraft, while most studies of terrestrial dust devils have involved manned monitoring of field sites, which can be costly both in time and personnel. As an alternative approach, we describe a multi-year in-situ survey of terrestrial dust devils using pressure loggers deployed at El Dorado Playa in Nevada, USA, a site known for dust devil activity. Analogous to previous surveys for Martian dust devils, we conduct a post-hoc analysis of the barometric data to search for putative dust devil pressure dips using a new automated detection algorithm. We investigate the completeness and false positive rates of our new algorithm and conduct several statistically robust analyses of the resulting population of dips. We also investigate seasonal, annual, and spatial variability of the putative dust devil dips, possible correlations with precipitation, and the influence of sample size on the derived population statistics. Our results suggest that large numbers of dips (&gt; 1,000) collected over multiple seasons are probably required for accurate assessment of the underlying dust devil population. Correlating long-term barometric time-series with other data streams (e.g., solar flux measurements from photovoltaic cells) can uniquely elucidate the natures and origins of dust devils, and accurately assessing their influence requires consideration of the full distribution of dust devil properties, rather than average values. For example, our results suggest the dust flux from the average terrestrial devil is nearly 1,000 times smaller than the (more representative) population-weighted average flux. If applicable to Martian dust devils, such corrections may help resolve purported discrepancies between the dust fluxes estimated from dust devil studies and those required to maintain the atmospheric dust concentration. ",
+        "Origin": "Other"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "75306": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114026685",
+            "authorid": 75306,
+            "scholarlyactivityid": 20776
+        },
+        "75307": {
+            "firstname": "Ralph",
+            "middleinitial": "",
+            "lastname": "Lorenz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 75307,
+            "scholarlyactivityid": 20776
+        }
+    },
+    "status": [
+        {
+            "id": 20776,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

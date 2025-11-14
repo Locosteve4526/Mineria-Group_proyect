@@ -1,0 +1,66 @@
+{
+    "activityid": 5545,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Collecting, organizing, and managing resources for teaching educational games the wiki way",
+        "Journal": "Innovate",
+        "Volume": "4",
+        "Month / Season": "2007-12-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "12-Jan",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "www.innovateonline.info/index.php?view=article&amp;id=423 ",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "17019": {
+            "firstname": "Shelly",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17019,
+            "scholarlyactivityid": 5545
+        },
+        "17020": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 17020,
+            "scholarlyactivityid": 5545
+        },
+        "17021": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Wiley",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17021,
+            "scholarlyactivityid": 5545
+        }
+    },
+    "status": [
+        {
+            "id": 5545,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

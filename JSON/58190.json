@@ -1,0 +1,75 @@
+{
+    "activityid": 58190,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Dual Crisis of Conservation",
+        "Journal": "TBD",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135000",
+    "coauthors": {
+        "320090": {
+            "firstname": "Elizabeth",
+            "middleinitial": "M",
+            "lastname": "Lunstrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135000",
+            "authorid": 320090,
+            "scholarlyactivityid": 58190,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "320091": {
+            "firstname": "Robin",
+            "middleinitial": "",
+            "lastname": "Roth",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320091,
+            "scholarlyactivityid": 58190,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "320092": {
+            "firstname": "Mara",
+            "middleinitial": "",
+            "lastname": "Goldman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320092,
+            "scholarlyactivityid": 58190,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58190,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114135000",
+    "attachments": []
+}

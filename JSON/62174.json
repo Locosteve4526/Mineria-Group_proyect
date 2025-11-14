@@ -1,0 +1,63 @@
+{
+    "activityid": 62174,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Collagen a1(XI) structure prediction by Alphafold 2",
+        "Name of Conference": "CSCI2022",
+        "Month / Season": "December",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "307351": {
+            "firstname": "Abu Sayeed",
+            "middleinitial": "",
+            "lastname": "Chowdhury",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307351,
+            "scholarlyactivityid": 62174,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "307352": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 307352,
+            "scholarlyactivityid": 62174,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62174,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

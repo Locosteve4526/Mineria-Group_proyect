@@ -1,0 +1,55 @@
+{
+    "activityid": 26826,
+    "fields": {
+        "Type": "Book",
+        "Title": "Surviving Minidoka: The Legacy of WWII Japanese American Incarcertation",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Boise State with National Park Service and CWI",
+        "Publisher Location": "",
+        "ISBN": "9.78098E+12",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This is the fourth volume in Boise State's Idaho Metropolitan Research Series, financed by the National Park Service, the Friends of Minidoka, and the College of Southern Idaho.  Shallat was the editor and co-author.  Highly acclaimed, the book won the Idaho Book Award and also the Idaho Center for the Book &quot;Booker's Dozen&quot; design award.  \nPage Number:  200",
+        "Origin": "Other"
+    },
+    "facultyid": "111111926",
+    "coauthors": {
+        "85733": {
+            "firstname": "Russel ",
+            "middleinitial": "",
+            "lastname": "Tremayne",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 85733,
+            "scholarlyactivityid": 26826
+        },
+        "85734": {
+            "firstname": "Todd",
+            "middleinitial": "A",
+            "lastname": "Shallat",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111926",
+            "authorid": 85734,
+            "scholarlyactivityid": 26826
+        }
+    },
+    "status": [
+        {
+            "id": 26826,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111926",
+    "attachments": []
+}

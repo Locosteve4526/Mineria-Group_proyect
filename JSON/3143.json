@@ -1,0 +1,76 @@
+{
+    "activityid": 3143,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "\u201cSex- determination in marsupial mammals\u201d",
+        "Journal": "Gordon and Breach, Melbourne",
+        "Volume": "",
+        "Month / Season": "1993-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 1993,
+        "Page Numbers": "",
+        "Publisher": "Editors K.Reed and J.Graves",
+        "DOI": "",
+        "PubMed Central ID Number": "1406969",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112032282",
+    "coauthors": {
+        "9009": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Hampikian",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112032282",
+            "authorid": 9009,
+            "scholarlyactivityid": 3143
+        },
+        "9010": {
+            "firstname": "J.",
+            "middleinitial": "",
+            "lastname": "Graves",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9010,
+            "scholarlyactivityid": 3143
+        },
+        "9011": {
+            "firstname": "J.",
+            "middleinitial": "",
+            "lastname": "Foster",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111260609",
+            "authorid": 9011,
+            "scholarlyactivityid": 3143
+        },
+        "9012": {
+            "firstname": "F.",
+            "middleinitial": "",
+            "lastname": "Brennan",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9012,
+            "scholarlyactivityid": 3143
+        }
+    },
+    "status": [
+        {
+            "id": 3143,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1993,
+            "termid": "1993/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112032282",
+    "attachments": []
+}

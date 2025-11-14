@@ -1,0 +1,46 @@
+{
+    "activityid": 1201,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "From Theory to (Virtual) Reality: Usability Testing in your Library",
+        "Journal": "Library Journal's NetConnect",
+        "Volume": "",
+        "Month / Season": "2001-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "15-Dec",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112192272",
+    "coauthors": {
+        "123404": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 123404,
+            "scholarlyactivityid": 1201
+        }
+    },
+    "status": [
+        {
+            "id": 1201,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2001,
+            "termid": "2001/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112192272",
+    "attachments": []
+}

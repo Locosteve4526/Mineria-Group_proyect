@@ -1,0 +1,71 @@
+{
+    "activityid": 28910,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Nuclear localization of apolipoprotein E4: A new trick for an old protein",
+        "Journal": "International Journal of Neurology and Neurotherapy",
+        "Volume": "4",
+        "Month / Season": "July/Summer",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "10.23937/2378-3001/1410067",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://clinmedjournals.org/articles/ijnn/international-journal-of-neurology-and-neurotherapy-ijnn-4-067.php?jid=ijnn",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643741",
+    "coauthors": {
+        "135558": {
+            "firstname": "Troy",
+            "middleinitial": "T",
+            "lastname": "Rohn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643741",
+            "authorid": 135558,
+            "scholarlyactivityid": 28910,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "135559": {
+            "firstname": "Zachary",
+            "middleinitial": "D",
+            "lastname": "Moore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 135559,
+            "scholarlyactivityid": 28910,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28910,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 28910,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111643741",
+    "attachments": []
+}

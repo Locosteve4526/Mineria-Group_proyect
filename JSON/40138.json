@@ -1,0 +1,88 @@
+{
+    "activityid": 40138,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Root causes of errant ordered radiology exams: Results of a needs assessment",
+        "Journal": "Performance Improvement",
+        "Volume": "50",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "17-24",
+        "Publisher": "Wiley",
+        "DOI": "10.1002/pfi.20192",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pfi.20192",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175208": {
+            "firstname": "Benjamin",
+            "middleinitial": "",
+            "lastname": "Duman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175208,
+            "scholarlyactivityid": 40138,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175209": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175209,
+            "scholarlyactivityid": 40138,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175210": {
+            "firstname": "Steve",
+            "middleinitial": "",
+            "lastname": "Villachica",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175210,
+            "scholarlyactivityid": 40138,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175211": {
+            "firstname": "Donald",
+            "middleinitial": "J",
+            "lastname": "Winiecki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110059",
+            "authorid": 175211,
+            "scholarlyactivityid": 40138,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40138,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

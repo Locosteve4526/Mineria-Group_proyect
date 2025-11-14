@@ -1,0 +1,66 @@
+{
+    "activityid": 2389,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Policy Development for Disruptive Student Behaviors",
+        "Journal": "Nurse Educator",
+        "Volume": "33",
+        "Month / Season": "2008-12-31",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "259-262",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110314",
+    "coauthors": {
+        "6363": {
+            "firstname": "Cynthia",
+            "middleinitial": "M",
+            "lastname": "Clark",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110314",
+            "authorid": 6363,
+            "scholarlyactivityid": 2389
+        },
+        "6364": {
+            "firstname": "Judy",
+            "middleinitial": "",
+            "lastname": "Farnsworth",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6364,
+            "scholarlyactivityid": 2389
+        },
+        "6365": {
+            "firstname": "Pamela",
+            "middleinitial": "J",
+            "lastname": "Springer",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111393",
+            "authorid": 6365,
+            "scholarlyactivityid": 2389
+        }
+    },
+    "status": [
+        {
+            "id": 2389,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110314",
+    "attachments": []
+}

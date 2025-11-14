@@ -1,0 +1,52 @@
+{
+    "activityid": 16880,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Critical Humanist Curriculum",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Bergamo, Ohio",
+        "Date or Date Range": "2013-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112125622",
+    "coauthors": {
+        "66892": {
+            "firstname": "Kevin",
+            "middleinitial": "",
+            "lastname": "Magill",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 66892,
+            "scholarlyactivityid": 16880
+        },
+        "66893": {
+            "firstname": "Arturo",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112125622",
+            "authorid": 66893,
+            "scholarlyactivityid": 16880
+        }
+    },
+    "status": [
+        {
+            "id": 16880,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112125622",
+    "attachments": []
+}

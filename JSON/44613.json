@@ -1,0 +1,56 @@
+{
+    "activityid": 44613,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Postive Local Project",
+        "Journal": "The Blue Review",
+        "Volume": "",
+        "Month / Season": "May",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "Boise State University",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://thebluereview.org/positive-local-project/",
+        "Description/Abstract": "Describes the work of the Idaho Civility Research Network., an organization funded by a grant made possible by the College of Education at Boise State University.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002258",
+    "coauthors": {
+        "202429": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Gabbard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002258",
+            "authorid": 202429,
+            "scholarlyactivityid": 44613
+        },
+        "202430": {
+            "firstname": "Sara",
+            "middleinitial": "Winstead",
+            "lastname": "Fry",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176689",
+            "authorid": 202430,
+            "scholarlyactivityid": 44613
+        }
+    },
+    "status": [
+        {
+            "id": 44613,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002258",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 36166,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Food Security as State Security",
+        "Journal": "International Studies Perspectives ",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002030",
+    "coauthors": {
+        "149374": {
+            "firstname": "Isaac",
+            "middleinitial": "M",
+            "lastname": "Castellano",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114002030",
+            "authorid": 149374,
+            "scholarlyactivityid": 36166
+        },
+        "149373": {
+            "firstname": "Rebecca",
+            "middleinitial": "L.",
+            "lastname": "Som Castellano",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114001406",
+            "authorid": 149373,
+            "scholarlyactivityid": 36166
+        }
+    },
+    "status": [
+        {
+            "id": 36166,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 36166,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114002030",
+    "attachments": []
+}

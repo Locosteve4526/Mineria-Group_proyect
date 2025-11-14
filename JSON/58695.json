@@ -1,0 +1,58 @@
+{
+    "activityid": 58695,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Intellectual Leadership and Social Justice",
+        "Conference/Meeting Name": "American Educational Research Association",
+        "Conference Location": "Online/Virtual Presentation",
+        "Date or Date Range": "April, 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112125622",
+    "coauthors": {
+        "273962": {
+            "firstname": "Kevin",
+            "middleinitial": "Russel",
+            "lastname": "Magill",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273962,
+            "scholarlyactivityid": 58695,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "273963": {
+            "firstname": "Arturo",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112125622",
+            "authorid": 273963,
+            "scholarlyactivityid": 58695,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58695,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112125622",
+    "attachments": []
+}

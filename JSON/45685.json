@@ -1,0 +1,60 @@
+{
+    "activityid": 45685,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Online Misinformation: From the Deceiver to the Victim",
+        "Name of Conference": "Proceedings of the 2019 International Symposium on Foundations of Open Source Intelligence and Security Informatics (FOSINT-SI), in conjunction with ASONAM 2019",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048777",
+    "coauthors": {
+        "208128": {
+            "firstname": "Anu",
+            "middleinitial": "",
+            "lastname": "Shrestha",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 208128,
+            "scholarlyactivityid": 45685,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "208129": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048777",
+            "authorid": 208129,
+            "scholarlyactivityid": 45685
+        }
+    },
+    "status": [
+        {
+            "id": 45685,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048777",
+    "attachments": []
+}

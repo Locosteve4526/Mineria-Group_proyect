@@ -1,0 +1,56 @@
+{
+    "activityid": 1792,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "3-D Transient Hydraulic Tomography in Unconfined Aquifers with Fast Drainage Response",
+        "Journal": "Water Resources Research",
+        "Volume": "47",
+        "Month / Season": "2011-12-16",
+        "Issue Number": "12",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "W12518",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2010WR010367",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/150",
+        "Description/Abstract": "We investigate, through numerical experiments, the viability of three-dimensional transient hydraulic tomography (3DTHT) for identifying the spatial distribution of groundwater flow parameters (primarily, hydraulic conductivity K)  in permeable, unconfined aquifers. To invert the large amount of  transient data collected from 3DTHT surveys, we utilize an iterative geo-statistical inversion strategy  in which outer iterations progressively increase the number of data  points fitted and inner iterations solve the  quasi-linear geo-statistical formulas of Kitanidis. In order to base our  numerical experiments around realistic scenarios, we utilize pumping  rates, geometries, and test lengths similar to those attainable during  3DTHT field campaigns performed at the Boise  Hydrogeophysical Research Site (BHRS). We also utilize hydrologic  parameters that are similar to those observed at the BHRS and in  other unconsolidated, unconfined fluvial aquifers. In addition to  estimating K, we test the ability of 3DTHT to estimate both average storage values (specific storage Ss and specific yield Sy)  as well as spatial variability in storage coefficients. The effects of  model conceptualization errors during unconfined 3DTHT are investigated including: (1) assuming  constant storage coefficients during inversion and (2) assuming stationary geostatistical parameter variability. Overall,  our findings indicate that estimation of K is slightly degraded if storage parameters must be jointly estimated, but that this effect is  quite small compared with the degradation of estimates due to violation of  &quot;structural&quot; geostatistical assumptions. Practically, we find for our  scenarios that assuming constant storage values during  inversion does not appear to have a significant effect on K estimates or uncertainty bounds.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4495": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Cardiff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113054278",
+            "authorid": 4495,
+            "scholarlyactivityid": 1792
+        },
+        "4496": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4496,
+            "scholarlyactivityid": 1792
+        }
+    },
+    "status": [
+        {
+            "id": 1792,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

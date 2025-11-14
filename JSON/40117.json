@@ -1,0 +1,63 @@
+{
+    "activityid": 40117,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Response process validity evidence: A proportional reasoning example",
+        "Name of Conference": "42nd Annual Meeting of the International Group for the Psychology of Mathematics Education",
+        "Month / Season": "July",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "Psychology of Mathematics Education",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111351647",
+    "coauthors": {
+        "175103": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 175103,
+            "scholarlyactivityid": 40117,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175104": {
+            "firstname": "Katie",
+            "middleinitial": "",
+            "lastname": "Paulding",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175104,
+            "scholarlyactivityid": 40117,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40117,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111351647",
+    "attachments": []
+}

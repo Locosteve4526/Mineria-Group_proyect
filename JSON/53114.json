@@ -1,0 +1,58 @@
+{
+    "activityid": 53114,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "GIXStapose: An Interactive Morphology and Diffraction Viewer",
+        "Conference / Meeting Name": "Scipy2020",
+        "Conference Location": "Online",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114031140",
+    "coauthors": {
+        "247470": {
+            "firstname": "Jenny",
+            "middleinitial": "",
+            "lastname": "Fothergill",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247470,
+            "scholarlyactivityid": 53114,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "247471": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Jankowski",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114031140",
+            "authorid": 247471,
+            "scholarlyactivityid": 53114,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53114,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114031140",
+    "attachments": []
+}

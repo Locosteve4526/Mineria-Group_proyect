@@ -1,0 +1,69 @@
+{
+    "activityid": 74922,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "PVAC: Package Version Activity Categorizer, Leveraging Semantic Versioning in a Heterogeneous System",
+        "Journal": "Empirical Software Engineering",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span style=&quot;color:#d33682;font-weight:bold;&quot;&gt;Context:&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;Modern open-source operating systems consist of numerous independent packages&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;crafted by countless developers worldwide. To effectively manage this diverse&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;array of software originating from various entities, GNU/Linux distributions have&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;devised package management tools to streamline the process. &lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;Despite offering&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;convenience in software installation, package managers do not have a&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;mechanism to evaluate the version activity of a heterogeneous software&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;ecosystem. &lt;/span&gt;&lt;span style=&quot;color:#d33682;font-weight:bold;&quot;&gt;Objective:&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;The focus of this research is to develop a method to systematically&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;determine the version &lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;activity within package manager systems and score&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;each discrete release. Individual packages within a distribution utilize a&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;heterogeneous mix of versioning strategies. In their upstream projects, these&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;versions are passed through to the package manager, often with distribution&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;specific information appended. &lt;/span&gt;&lt;span style=&quot;color:#d33682;font-weight:bold;&quot;&gt;Method: &lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;We developed PVAC a &lt;/span&gt;&lt;span style=&quot;color:#d33682;font-weight:bold;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;ackage&lt;/span&gt;&lt;span style=&quot;color:#268bd2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#d33682;font-weight:bold;&quot;&gt;V&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;ersion &lt;/span&gt;&lt;span style=&quot;color:#d33682;font-weight:bold;&quot;&gt;A&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;ctivity &lt;/span&gt;&lt;span style=&quot;color:#d33682;font-weight:bold;&quot;&gt;C&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;ategorizer to assess the activity of a heterogeneous package&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;management system. PVAC uses regular expressions to extract the epoch and&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;upstream project major, minor, and patch versions from packages and applies a&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;novel method to calculate a score using the Version Number Delta (VND)&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;as described by the Community Health Analytics Open Source Software (CHAOSS)&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;project. &lt;/span&gt;&lt;span style=&quot;color:#d33682;font-weight:bold;&quot;&gt;Results: &lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;PVAC is able to categorize the semantic version activity of packages in&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;heterogeneous package manager systems and employs a novel method to calculate&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;the VND. We successfully evaluated PVAC on a dataset of over &lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;packages from the apt package management system and were able to identify&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;packages with high, medium and low activity. &lt;/span&gt;&lt;span style=&quot;color:#d33682;font-weight:bold;&quot;&gt;Conclusions:&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;We present a novel way to systematically &lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;evaluate the activity of&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;heterogeneous package management systems by examining the semantic versioning&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;information of packages. We found that PVAC is a useful tool for assessing the&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;activity of packages in a package manager system and can be used to identify&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;packages that are actively maintained. We believe that PVAC will be a valuable&lt;/span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;tool for the software engineering research community.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111607015",
+    "coauthors": {
+        "331600": {
+            "firstname": "Shane",
+            "middleinitial": "K",
+            "lastname": "Panter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111607015",
+            "authorid": 331600,
+            "scholarlyactivityid": 74922,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331601": {
+            "firstname": "Lucas",
+            "middleinitial": "S",
+            "lastname": "Hindman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111604479",
+            "authorid": 331601,
+            "scholarlyactivityid": 74922
+        },
+        "331602": {
+            "firstname": "Nasir",
+            "middleinitial": "U",
+            "lastname": "Eisty",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114202830",
+            "authorid": 331602,
+            "scholarlyactivityid": 74922
+        }
+    },
+    "status": [
+        {
+            "id": 74922,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111607015",
+    "attachments": []
+}

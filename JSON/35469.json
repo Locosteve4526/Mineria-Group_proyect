@@ -1,0 +1,67 @@
+{
+    "activityid": 35469,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cExtending Page Segmentation Algorithms for Mixed-Layout Document Processing\u201d",
+        "Name of Conference": "Proc. International Conference on Document Analysis and Recognition",
+        "Month / Season": "September",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "pp. 1245-1249",
+        "Publisher": "",
+        "Publisher Location": "Beijing, China",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "The goal of this work is to add the capability\r\nto segment documents containing text, graphics, and pictures\r\nin the open source OCR engine OCRopus. To achieve this\r\ngoal, OCRopus\u2019 RAST algorithm was improved to recognize\r\nnon-text regions so that mixed content documents could be\r\nanalyzed in addition to text-only documents. Also, a method\r\nfor classifying text and non-text regions was developed and\r\nimplemented for the Voronoi algorithm enabling users to\r\nperform OCR on documents processed by this method. Finally,\r\nboth algorithms were modified to perform at a range of\r\nresolutions.\r\nOur testing showed an improvement of 15-40% for the\r\nRAST algorithm, giving it an average segmentation accuracy\r\nof about 80%. The Voronoi algorithm averaged around 70%\r\naccuracy on our test data. Depending on the particular layout\r\nand idiosyncracies of the documents to be digitized, however,\r\neither algorithm could be sufficiently accurate to be utilized.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669907",
+    "coauthors": {
+        "145553": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Winder",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 145553,
+            "scholarlyactivityid": 35469
+        },
+        "145552": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 145552,
+            "scholarlyactivityid": 35469
+        },
+        "145551": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 145551,
+            "scholarlyactivityid": 35469
+        }
+    },
+    "status": [
+        {
+            "id": 35469,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669907",
+    "attachments": []
+}

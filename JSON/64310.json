@@ -1,0 +1,67 @@
+{
+    "activityid": 64310,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "3D-Printing a Seismo-Acoustic Logger Enclosure Housing.",
+        "Name of Conference": "AGU",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001444",
+    "coauthors": {
+        "296899": {
+            "firstname": "Owen",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296899,
+            "scholarlyactivityid": 64310
+        },
+        "296900": {
+            "firstname": "Jacob",
+            "middleinitial": "F",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001444",
+            "authorid": 296900,
+            "scholarlyactivityid": 64310
+        },
+        "296901": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 296901,
+            "scholarlyactivityid": 64310
+        }
+    },
+    "status": [
+        {
+            "id": 64310,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001444",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 77094,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Lead Author",
+        "Conference / Meeting Name": "Association for Education in Journalism and Mass Communication",
+        "Conference Location": "Philadelphia, PA, USA",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114229877",
+    "coauthors": {
+        "343759": {
+            "firstname": "Jinho",
+            "middleinitial": "",
+            "lastname": "Joo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114229877",
+            "authorid": 343759,
+            "scholarlyactivityid": 77094,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "343760": {
+            "firstname": "Yoon-Joo",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343760,
+            "scholarlyactivityid": 77094,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77094,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114229877",
+    "attachments": []
+}

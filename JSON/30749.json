@@ -1,0 +1,75 @@
+{
+    "activityid": 30749,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A High-Order Radial Basis Function (RBF) Leray Projection Method for the Solution of the Incompressible Unsteady Stokes",
+        "Journal": "Comput. Fluids",
+        "Volume": "128",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "41-52",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "113239": {
+            "firstname": "V",
+            "middleinitial": "",
+            "lastname": "Shankar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113239,
+            "scholarlyactivityid": 30749,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "113240": {
+            "firstname": "E",
+            "middleinitial": "J",
+            "lastname": "Fuselier",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113240,
+            "scholarlyactivityid": 30749,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "113241": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 113241,
+            "scholarlyactivityid": 30749,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30749,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

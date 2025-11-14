@@ -1,0 +1,76 @@
+{
+    "activityid": 64803,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Bayesian integration of astrochronology and radioisotope geochronology",
+        "Name of Conference": "Abstracts with Programs - Geological Society of America",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "Abstract no. 223-10",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "doi.org/10.1130/abs/2022AM-379135",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112001853",
+    "coauthors": {
+        "300250": {
+            "firstname": "Robin",
+            "middleinitial": "",
+            "lastname": "Trayler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300250,
+            "scholarlyactivityid": 64803,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300251": {
+            "firstname": "Mark",
+            "middleinitial": "David",
+            "lastname": "Schmitz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112001853",
+            "authorid": 300251,
+            "scholarlyactivityid": 64803,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300252": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Myers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300252,
+            "scholarlyactivityid": 64803,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64803,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112001853",
+    "attachments": []
+}

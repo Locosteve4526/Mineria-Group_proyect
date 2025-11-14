@@ -1,0 +1,56 @@
+{
+    "activityid": 3153,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&quot;Absent Sequences: Nullimers and Primes&quot;",
+        "Journal": "Pacific Symposium on Biocomputing",
+        "Volume": "12",
+        "Month / Season": "2007-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "355-66",
+        "Publisher": "Biology, Boise State University, 1910 N University Drive, Boise, Idaho 83725, USA.",
+        "DOI": "",
+        "PubMed Central ID Number": "17990505",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We describe a new publicly available algorithm for identifying absent sequences, and demonstrate its use by listing the smallest oligomers not found in the human genome (human &quot;nullomers&quot;), and those not found in any reported genome or GenBank sequence (&quot;primes&quot;). These absent sequences define the maximum set of potentially lethal oligomers. They also provide a rational basis for choosing artificial DNA sequences for molecular barcodes, show promise for species identification and environmental characterization based on absence, and identify potential targets for therapeutic intervention and suicide markers.",
+        "Origin": "Other"
+    },
+    "facultyid": "112032282",
+    "coauthors": {
+        "9054": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Hampikian",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112032282",
+            "authorid": 9054,
+            "scholarlyactivityid": 3153
+        },
+        "9055": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 9055,
+            "scholarlyactivityid": 3153
+        }
+    },
+    "status": [
+        {
+            "id": 3153,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112032282",
+    "attachments": []
+}

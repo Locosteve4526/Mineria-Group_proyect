@@ -1,0 +1,77 @@
+{
+    "activityid": 24271,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Tandem Distributed Detection with Conditionally Dependent Observations",
+        "Name of Conference": "",
+        "Month / Season": "2012-07-09",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "1808-1813",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/207",
+        "Description/Abstract": "This paper deals with distributed detection using a tandem network with conditionally dependent observations. Our approach utilizes a recently proposed hierarchical conditional independence model where a hidden variable is introduced and induces conditional independence among sensor observations. If the hidden variable is discrete, optimal local decision rules are reminiscent that of the conditional independence case. For continuous scalar hidden variable, similar results can be obtained when additional monotonicity conditions are imposed.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "113082863",
+    "coauthors": {
+        "80240": {
+            "firstname": "Pengfei",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80240,
+            "scholarlyactivityid": 24271
+        },
+        "80241": {
+            "firstname": "Biao",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80241,
+            "scholarlyactivityid": 24271
+        },
+        "80242": {
+            "firstname": "Hao",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113082863",
+            "authorid": 80242,
+            "scholarlyactivityid": 24271
+        },
+        "80243": {
+            "firstname": "Pramod",
+            "middleinitial": "K.",
+            "lastname": "Varshney",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80243,
+            "scholarlyactivityid": 24271
+        }
+    },
+    "status": [
+        {
+            "id": 24271,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113082863",
+    "attachments": []
+}

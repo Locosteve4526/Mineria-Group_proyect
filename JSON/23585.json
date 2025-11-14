@@ -1,0 +1,45 @@
+{
+    "activityid": 23585,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Lobster Almanac",
+        "Actual/Projected Year of Publication/Presentation": 1988,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Globe Pequot Press",
+        "Publisher Location": "Chester, CT",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "78710": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 78710,
+            "scholarlyactivityid": 23585
+        }
+    },
+    "status": [
+        {
+            "id": 23585,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1988,
+            "termid": "1987/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

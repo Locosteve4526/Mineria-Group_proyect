@@ -1,0 +1,75 @@
+{
+    "activityid": 43321,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Written in Bone? Testing a Multifaceted Approach to Studying Human Health in the Past",
+        "Journal": "Current Anthropology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088853",
+    "coauthors": {
+        "254138": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088853",
+            "authorid": 254138,
+            "scholarlyactivityid": 43321
+        },
+        "254139": {
+            "firstname": "Levent",
+            "middleinitial": "",
+            "lastname": "Atici",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254139,
+            "scholarlyactivityid": 43321
+        },
+        "254140": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Fairbairn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254140,
+            "scholarlyactivityid": 43321
+        }
+    },
+    "status": [
+        {
+            "id": 43321,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43321,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114088853",
+    "attachments": []
+}

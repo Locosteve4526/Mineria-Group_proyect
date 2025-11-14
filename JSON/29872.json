@@ -1,0 +1,85 @@
+{
+    "activityid": 29872,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Assessment of student learning using virtual Grand Canyon field tips for mobile smart-devices.",
+        "Journal": "Geosphere",
+        "Volume": "13",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "260-268",
+        "Publisher": "",
+        "DOI": "10.1130/GES01404.1",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "147941": {
+            "firstname": "Natalie",
+            "middleinitial": "",
+            "lastname": "Bursztyn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 147941,
+            "scholarlyactivityid": 29872
+        },
+        "147942": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 147942,
+            "scholarlyactivityid": 29872
+        },
+        "147943": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 147943,
+            "scholarlyactivityid": 29872
+        },
+        "147944": {
+            "firstname": "Joel",
+            "middleinitial": "",
+            "lastname": "Pederson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 147944,
+            "scholarlyactivityid": 29872
+        }
+    },
+    "status": [
+        {
+            "id": 29872,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 29872,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

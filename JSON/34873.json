@@ -1,0 +1,89 @@
+{
+    "activityid": 34873,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cCharacterizing Challenged 2008 Minnesota Ballots\u201d",
+        "Name of Conference": "Proc. SPIE Electronic Imaging - Document Recognition and Retrieval XVIII",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "787413-1",
+        "Publisher": "SPIE",
+        "Publisher Location": "San Francisco, CA",
+        "Volume": "7874",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Photocopies of the ballots challenged in the 2008 Minnesota elections, which constitute a public\r\nrecord, were scanned on a high-speed scanner and made available on a public radio website. The\r\nPDF files were downloaded, converted to TIF images, and posted on the PERFECT website. Based\r\non a review of relevant image-processing aspects of paper-based election machinery and on\r\nadditional statistics and observations on the posted sample data, robust tools were developed for\r\ndetermining the underlying grid of the targets on these ballots regardless of skew, clipping, and\r\nother degradations caused by high-speed copying and digitization. The accuracy and robustness of\r\na method based on both index-marks and oval targets are demonstrated on 13,435 challenged\r\nballot page images.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142288": {
+            "firstname": "George",
+            "middleinitial": "",
+            "lastname": "Nagy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142288,
+            "scholarlyactivityid": 34873,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142289": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Lopresti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142289,
+            "scholarlyactivityid": 34873,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142290": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142290,
+            "scholarlyactivityid": 34873,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142291": {
+            "firstname": "Ziyan",
+            "middleinitial": "",
+            "lastname": "Wu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142291,
+            "scholarlyactivityid": 34873,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34873,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

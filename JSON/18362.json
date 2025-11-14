@@ -1,0 +1,62 @@
+{
+    "activityid": 18362,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "To understand your understanding, one must understand what understanding means. ",
+        "Conference/Meeting Name": "the Annual Meeting of the Cognitive Science Society",
+        "Conference Location": "Washington, DC",
+        "Date or Date Range": "2008-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "Cognitive Science Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "70224": {
+            "firstname": "J",
+            "middleinitial": "",
+            "lastname": "Wiley",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 70224,
+            "scholarlyactivityid": 18362
+        },
+        "70225": {
+            "firstname": "T D ",
+            "middleinitial": "",
+            "lastname": "Griffin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 70225,
+            "scholarlyactivityid": 18362
+        },
+        "70226": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 70226,
+            "scholarlyactivityid": 18362
+        }
+    },
+    "status": [
+        {
+            "id": 18362,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 5403,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Mechanism of Polymer Thermophoresis in Nonaqueous Solvents",
+        "Journal": "Journal of Physical Chemistry B",
+        "Volume": "104",
+        "Month / Season": "2000-10-03",
+        "Issue Number": "42",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Page Numbers": "9935-9942",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1021/jp994334q",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/chem_facpubs/25",
+        "Description/Abstract": "The thermophoresis of homopolymer chains dissolved in a pure  nonelectrolyte solvent is theoretically examined. Using a similar  approach to that used for suspended particles, thermophoresis is related  to the temperature-dependent osmotic pressure gradient in the solvent  layer surrounding the monomer units (mers). The gradient is produced by  small changes in the concentration of solvent molecules (i.e., solvent  density) as a result of the mer?solvent interaction energy. The  resulting expression contains the interaction energy as well as solvent  thermodynamic parameters, including the cubic coefficient of thermal  expansion, the isothermal compressibility and its temperature  coefficient. Using the general dependence of dipole?dipole potentials on  the distance between interacting objects, an expression for  thermophoretic mobility that contains a characteristic Hamaker constant  is obtained. The resulting expression is used to calculate interaction  constants for polystyrene and poly(methyl methacrylate) in several  organic solvents using thermophoresis data obtained from thermal  field-flow fractionation. The calculated constants are compared to  values in the literature and found to follow the same order among the  different solvents. Furthermore, the model is consistent with laboratory  measurements of polymer thermophoresis, which is weak in water compared  to less polar solvents, and which correlates with monomer size. In  nonelectrolyte solvents, London dispersion forces must play a major role  since other dipole?dipole interactions are insufficient to produce the  required interaction energies. Finally, the model predicts that to have a  measurable thermophoretic mobility in a given solvent, the polymer  should have a Hamaker constant that is greater than 10?15 kT, as calculated by simple but commonly used theoretical models.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111683",
+    "coauthors": {
+        "16406": {
+            "firstname": "Martin",
+            "middleinitial": "E",
+            "lastname": "Schimpf",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111683",
+            "authorid": 16406,
+            "scholarlyactivityid": 5403
+        },
+        "16407": {
+            "firstname": "Semen",
+            "middleinitial": "N.",
+            "lastname": "Semenov",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16407,
+            "scholarlyactivityid": 5403
+        }
+    },
+    "status": [
+        {
+            "id": 5403,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111683",
+    "attachments": []
+}

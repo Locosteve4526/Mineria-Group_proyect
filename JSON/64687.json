@@ -1,0 +1,71 @@
+{
+    "activityid": 64687,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Cholera toxin B administered via microneedles",
+        "Conference/Meeting Name": "INBRE Annual Research Conference",
+        "Conference Location": "Moscow, ID",
+        "Date or Date Range": "August 8, 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "INBRE",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "299407": {
+            "firstname": "Hannah",
+            "middleinitial": "",
+            "lastname": "Hedilius",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 299407,
+            "scholarlyactivityid": 64687,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "299408": {
+            "firstname": "Henry",
+            "middleinitial": "",
+            "lastname": "Charlier",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 299408,
+            "scholarlyactivityid": 64687,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "299409": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 299409,
+            "scholarlyactivityid": 64687,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64687,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

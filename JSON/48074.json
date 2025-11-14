@@ -1,0 +1,63 @@
+{
+    "activityid": 48074,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Runtime Packet-Dropping Detection of Faulty Nodes",
+        "Name of Conference": "International Midwest Symposium on Circuits and Systems (MWSCAS)",
+        "Month / Season": "September",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "Dallas, TX",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "221978": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 221978,
+            "scholarlyactivityid": 48074,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "221979": {
+            "firstname": "Luka",
+            "middleinitial": "",
+            "lastname": "Daoud",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 221979,
+            "scholarlyactivityid": 48074,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48074,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

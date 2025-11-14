@@ -1,0 +1,45 @@
+{
+    "activityid": 27773,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Story of Viet Nam: From Prehistory to the Present",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Associate Of Asian Studies",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111111800",
+    "coauthors": {
+        "87617": {
+            "firstname": "Lindsay",
+            "middleinitial": "Shelton",
+            "lastname": "Woods",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111800",
+            "authorid": 87617,
+            "scholarlyactivityid": 27773
+        }
+    },
+    "status": [
+        {
+            "id": 27773,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111800",
+    "attachments": []
+}

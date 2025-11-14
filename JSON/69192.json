@@ -1,0 +1,97 @@
+{
+    "activityid": 69192,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Verifying the Taxonomic Validity and Resolving the Subspecific Boundaries of the Lomatium foeniculaceum Complex.&lt;/span&gt;",
+        "Conference / Meeting Name": "",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "311890": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Botello",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311890,
+            "scholarlyactivityid": 69192,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "311891": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 311891,
+            "scholarlyactivityid": 69192,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311892": {
+            "firstname": "D.",
+            "middleinitial": "",
+            "lastname": "Mansfield",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311892,
+            "scholarlyactivityid": 69192,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311893": {
+            "firstname": "M. A.",
+            "middleinitial": "E.",
+            "lastname": "Feist",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311893,
+            "scholarlyactivityid": 69192,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311894": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Darrach",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311894,
+            "scholarlyactivityid": 69192,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69192,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

@@ -1,0 +1,67 @@
+{
+    "activityid": 25143,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "An empirical study of guarantee in service e-commerce",
+        "Name of Conference": "",
+        "Month / Season": "2013-06-18",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "Association for Information Systems",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1148&amp;context=pacis2013",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "82044": {
+            "firstname": "HaiChao",
+            "middleinitial": "",
+            "lastname": "Zheng",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82044,
+            "scholarlyactivityid": 25143
+        },
+        "82045": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 82045,
+            "scholarlyactivityid": 25143
+        },
+        "82046": {
+            "firstname": "Zhangxi",
+            "middleinitial": "",
+            "lastname": "Lin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82046,
+            "scholarlyactivityid": 25143
+        }
+    },
+    "status": [
+        {
+            "id": 25143,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

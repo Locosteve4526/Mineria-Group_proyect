@@ -1,0 +1,58 @@
+{
+    "activityid": 46681,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Empirical Modeling of Cation Ordering in Perovskite Ceramics",
+        "Conference/Meeting Name": "Materials Science &amp; Technology (MS&amp;T)",
+        "Conference Location": "Portland, OR",
+        "Date or Date Range": "29 September - 3 October 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "the American Ceramic Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "It seems there is no way to indicate that the presenter is *also* a graduate student.  Faculty180 assumes it's either either/or.  Also, apparently a meeting can't be both academic *and* professional - just some more examples of the clunkiness which epitomizes Faculty180!  What a colossal waste of time!!",
+        "Origin": "Manual"
+    },
+    "facultyid": "112113480",
+    "coauthors": {
+        "213119": {
+            "firstname": "Evan",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 213119,
+            "scholarlyactivityid": 46681,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "213120": {
+            "firstname": "Rick",
+            "middleinitial": "",
+            "lastname": "Ubic PhD, MInstP",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112113480",
+            "authorid": 213120,
+            "scholarlyactivityid": 46681,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46681,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112113480",
+    "attachments": []
+}

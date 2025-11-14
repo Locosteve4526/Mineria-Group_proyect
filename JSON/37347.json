@@ -1,0 +1,63 @@
+{
+    "activityid": 37347,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Program Transformation for Symbolic Java Path\fnder",
+        "Name of Conference": "Idaho Conference on Undergraduate Research",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113164447",
+    "coauthors": {
+        "154832": {
+            "firstname": "Cameron",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 154832,
+            "scholarlyactivityid": 37347,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "154833": {
+            "firstname": "Elena",
+            "middleinitial": "A.",
+            "lastname": "Sherman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113164447",
+            "authorid": 154833,
+            "scholarlyactivityid": 37347,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37347,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113164447",
+    "attachments": []
+}

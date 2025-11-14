@@ -1,0 +1,93 @@
+{
+    "activityid": 64767,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:small;&quot;&gt;From Questions to Answers: A Case Study Approach to Understanding Diversity, Equity, and Inclusion Policy in STEM Higher Education&lt;/span&gt;",
+        "Journal": "Journal of Environmental Studies and Sciences",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114011762",
+    "coauthors": {
+        "300039": {
+            "firstname": "Lavanya",
+            "middleinitial": "",
+            "lastname": "Seetamraju",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300039,
+            "scholarlyactivityid": 64767,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300040": {
+            "firstname": "Monica",
+            "middleinitial": "",
+            "lastname": "Hubbard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114011762",
+            "authorid": 300040,
+            "scholarlyactivityid": 64767,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300041": {
+            "firstname": "Jennifer",
+            "middleinitial": "L",
+            "lastname": "Pierce",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111717214",
+            "authorid": 300041,
+            "scholarlyactivityid": 64767,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64767,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 64767,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 64767,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114011762",
+    "attachments": []
+}

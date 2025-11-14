@@ -1,0 +1,66 @@
+{
+    "activityid": 62687,
+    "fields": {
+        "Type": "Instructional Publications",
+        "Title": "Biology 192 Laboratory Manual, Second Edition",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Organization (if applicable)": "Boise State University",
+        "Issue Number/Edition": "",
+        "Page Numbers": "Chapters 8-14",
+        "Publisher": "Van Griner",
+        "ISBN/ISSN/ASIN #": "",
+        "Author/Editor of larger work": "Robertson, Serpe and Douglas",
+        "Title of larger work": "B192 Laboratory Manual",
+        "DOI": "",
+        "Author(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111116958",
+    "coauthors": {
+        "288131": {
+            "firstname": "Ian",
+            "middleinitial": "C",
+            "lastname": "Robertson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111644287",
+            "authorid": 288131,
+            "scholarlyactivityid": 62687
+        },
+        "288132": {
+            "firstname": "Marcelo",
+            "middleinitial": "",
+            "lastname": "Serpe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111116958",
+            "authorid": 288132,
+            "scholarlyactivityid": 62687
+        },
+        "288133": {
+            "firstname": "Dotty",
+            "middleinitial": "",
+            "lastname": "Douglas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 288133,
+            "scholarlyactivityid": 62687
+        }
+    },
+    "status": [
+        {
+            "id": 62687,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111116958",
+    "attachments": []
+}

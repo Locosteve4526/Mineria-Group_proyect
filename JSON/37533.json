@@ -1,0 +1,53 @@
+{
+    "activityid": 37533,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Benjamin Thacher (violin), Nicole Molumby (flute), and Barton Moreau (harpsichord)",
+        "Name of Performing Group": "Boise Baroque Chamber Orchestra",
+        "Date or Date Range": "February 5th &amp; 7th",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Name of Venue/Sponsor": "Cathedral of the Rockies",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, ID, USA",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "Performing Brandenburg Concerto No. 5 &amp; Violin Concerto in A Minor by J.S. Bach",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112060963",
+    "coauthors": {
+        "155884": {
+            "firstname": "Barton",
+            "middleinitial": "A",
+            "lastname": "Moreau",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146468",
+            "authorid": 155884,
+            "scholarlyactivityid": 37533
+        },
+        "155885": {
+            "firstname": "Nicole",
+            "middleinitial": "Lena",
+            "lastname": "Molumby",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112060963",
+            "authorid": 155885,
+            "scholarlyactivityid": 37533
+        }
+    },
+    "status": [
+        {
+            "id": 37533,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112060963",
+    "attachments": []
+}

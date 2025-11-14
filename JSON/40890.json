@@ -1,0 +1,102 @@
+{
+    "activityid": 40890,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "College student attitudes\u2019 toward the environment: A scoping  \treview of the literature",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114087965",
+    "coauthors": {
+        "179449": {
+            "firstname": "Jill",
+            "middleinitial": "M",
+            "lastname": "Chonody",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114087965",
+            "authorid": 179449,
+            "scholarlyactivityid": 40890,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179450": {
+            "firstname": "Tiffany",
+            "middleinitial": "",
+            "lastname": "Baffour",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179450,
+            "scholarlyactivityid": 40890,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179451": {
+            "firstname": "Vickie",
+            "middleinitial": "",
+            "lastname": "Sultzman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179451,
+            "scholarlyactivityid": 40890,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40890,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40890,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 40890,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 40890,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114087965",
+    "attachments": []
+}

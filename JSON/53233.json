@@ -1,0 +1,68 @@
+{
+    "activityid": 53233,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "A Multilayered Coupled Poroelastic-acoustics Model for Mechanical Performance Evaluation of Fully Permeable Pavement using Porous Asphalt Mixtures  ",
+        "Conference/Meeting Name": "EMI 2020 Conference Mini-Symposia 260: Mechanics of Multi-Functional Pavement Material and Structure",
+        "Conference Location": "Columbia University, New York",
+        "Date or Date Range": "May 26-29, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Sustainability and multifunctional effectiveness in infrastructure development have received significant attention in recent years. Asphalt pavement surface layers can be designed to achieve both functional and structural objectives including good drainage for durability, high friction, noise reduction, and desired friction. Fully permeable pavement, made by porous asphalt mixes, is a multifunctional design in which each layer of the pavement is permeable and stores water, thereby improving the function of noise reduction and drainage. In fully porous pavement, all layers are intended to be porous and the underlying pavement structure serves as a reservoir to store water for minimizing the adverse effects of storm water runoff. In porous asphalt mixes, the mechanical energy carried by sound is dissipated by thermo-viscous interactions with the solid surface of the media frame, which usually has complicated geometry at the microscopic (sub-mm) scale. To absorb the acoustic energy at the low frequencies of interest, a layer of porous material should be rather thick (at the order of cm). However, existing permeable pavement design is empirical which is hard to ensure the long-term drainage and noise reduction of porous asphalt pavements with stone reservoirs. Therefore, systematic performance evaluation approaches should be developed to guide the multi-functional pavement design practices. In this regard, a physics-based semi-phenomenological model is proposed with the introduction of saturated porous media. Note that the functional property assessment is complicated, which include a coupled vibroacoustic phenomena involving porous materials. The damping and stiffness matrices of the poroelastic media are complex and frequency dependent. In this work, Biot-Allard theory is used to model the wave propagation in deformable frame porous media. It is an integration of poroelastic waves, thermal and viscous effects to simulate pressure and elastic waves propagate in porous media, which is coupled displacement and pressure dissipation and dispersion processes. This model relies on material physics parameters which can be measured or calculated based on the porous media micro-structural geometry. Two porous media domains represented by closely-packed spheres are demonstrated for performance prediction. This coupled mathematical model can be applied in assessing mechanical and functional performance of various multi-functional pavements, especially the factors that are difficult to evaluate by current experimental methods. The developed model is also capable of precisely predicting the service life and damage tolerance of fully permeable pavement due to these combined environmental impacts.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "248385": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 248385,
+            "scholarlyactivityid": 53233
+        }
+    },
+    "status": [
+        {
+            "id": 53233,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 53233,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 53233,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114001675",
+    "attachments": [
+        {
+            "attachmentid": 28359,
+            "mimetype": "application/pdf",
+            "filename": "EMI 2020 _ PMC 2020 Abstract Accepted.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZMlRYQ2tpU29GWDhaYTZVSVB2VzM4VU9pdFJFamlNdGI5NTdiOFdvbUFMNm91S2ZEczNEaThMTzh4ekJBdGVobkI1NVhzZk9YOGtpTmpIUHkxNk9Ldg%3D%3D",
+            "filesize": 79217
+        }
+    ]
+}

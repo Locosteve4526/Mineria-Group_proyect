@@ -1,0 +1,52 @@
+{
+    "activityid": 10325,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Outcome of Asymmetric War",
+        "Conference/Meeting Name": "Annual Meeting of the Peace Science Society",
+        "Conference Location": "Claremont, CA",
+        "Date or Date Range": "2008-10-26",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "Peace Science Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113153409",
+    "coauthors": {
+        "52630": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113153409",
+            "authorid": 52630,
+            "scholarlyactivityid": 10325
+        },
+        "52631": {
+            "firstname": "Patrick",
+            "middleinitial": "M",
+            "lastname": "Regan",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52631,
+            "scholarlyactivityid": 10325
+        }
+    },
+    "status": [
+        {
+            "id": 10325,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113153409",
+    "attachments": []
+}

@@ -1,0 +1,46 @@
+{
+    "activityid": 6630,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical Algorithm for the Growth of Human Tumor Cells and Their Responses to Therapy",
+        "Journal": "Applied Mathematics and Computation",
+        "Volume": "230",
+        "Month / Season": "2014-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We investigate a system of delay partial differential equations that models the growth of human tumor cells and their responses to therapy. The model includes unknown parame- ters that need to be estimated according to experimental data. We introduce a numerical algorithm, which shortens the computational time for solving the model equations and estimating their parameters. Numerical results demonstrate the efficiency of our algorithm and show correspondence between predicted and experimental data.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20686": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20686,
+            "scholarlyactivityid": 6630
+        }
+    },
+    "status": [
+        {
+            "id": 6630,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

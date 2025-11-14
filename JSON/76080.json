@@ -1,0 +1,66 @@
+{
+    "activityid": 76080,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Introduction a special issue on \u2018New Directions in Biodiversity Conservation\u2019",
+        "Journal": "Frontiers in Conservation",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "Frontiers",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "special issue co-edited by M. Goldman, R. Roth, and E. Lunstrum",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135000",
+    "coauthors": {
+        "338112": {
+            "firstname": "M",
+            "middleinitial": "",
+            "lastname": "Goldman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338112,
+            "scholarlyactivityid": 76080
+        },
+        "338113": {
+            "firstname": "R",
+            "middleinitial": "",
+            "lastname": "Roth",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338113,
+            "scholarlyactivityid": 76080
+        },
+        "338114": {
+            "firstname": "Elizabeth",
+            "middleinitial": "M",
+            "lastname": "Lunstrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135000",
+            "authorid": 338114,
+            "scholarlyactivityid": 76080
+        }
+    },
+    "status": [
+        {
+            "id": 76080,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114135000",
+    "attachments": []
+}

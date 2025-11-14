@@ -1,0 +1,58 @@
+{
+    "activityid": 2482,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Introduction to Pound:ID",
+        "Journal": "Paiduema",
+        "Volume": "42",
+        "Month / Season": "Winter/Spring",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "2",
+        "Publisher": "Poetry Foundation, University of Maine, Orono",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Note describing conference here at BSU. The papers were used in  issue 42 of Paideuma.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "95494": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 95494,
+            "scholarlyactivityid": 2482,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 2482,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 2482,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

@@ -1,0 +1,106 @@
+{
+    "activityid": 54193,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Is the Polar m430 a valid tool for estimating maximal oxygen consumption in adult females?",
+        "Journal": "Journal for the Measurement of Physical Behaviour",
+        "Volume": "4",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "220-226",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "270491": {
+            "firstname": "Kevin",
+            "middleinitial": "E.",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270491,
+            "scholarlyactivityid": 54193,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "270492": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Kempf",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045144",
+            "authorid": 270492,
+            "scholarlyactivityid": 54193,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "270493": {
+            "firstname": "Brian",
+            "middleinitial": "C.",
+            "lastname": "Rider",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270493,
+            "scholarlyactivityid": 54193,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "270494": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 270494,
+            "scholarlyactivityid": 54193,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54193,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54193,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 54193,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

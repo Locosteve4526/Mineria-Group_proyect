@@ -1,0 +1,54 @@
+{
+    "activityid": 25816,
+    "fields": {
+        "Type": "Book",
+        "Title": "&quot;Commemoration in VIlnius&quot;",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Andrew Hoskins and John Sutton, Palgrave Macmillan Memory Studies Series",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.palgrave.com/page/submit-a-proposal/",
+        "Description/Abstract": "Online submission of CV, table of contents, introduction and sample chapter to Palgrave Macmillan Publishers, a global academic publishing company.",
+        "Origin": "Other"
+    },
+    "facultyid": "111116629",
+    "coauthors": {
+        "83534": {
+            "firstname": "Lynn",
+            "middleinitial": "T",
+            "lastname": "Lubamersky",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111116629",
+            "authorid": 83534,
+            "scholarlyactivityid": 25816
+        }
+    },
+    "status": [
+        {
+            "id": 25816,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 25816,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111116629",
+    "attachments": []
+}

@@ -1,0 +1,34 @@
+{
+    "activityid": 46835,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Incrementalizing RASA's Open-Source Natural Language Understanding  Pipeline",
+        "Journal": "arXiv",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/1907.05403v1",
+        "Description/Abstract": "As spoken dialogue systems and chatbots are gaining more widespread adoption,\ncommercial and open-sourced services for natural language understanding are\nemerging. In this paper, we explain how we altered the open-source RASA natural\nlanguage understanding pipeline to process incrementally (i.e., word-by-word),\nfollowing the incremental unit framework proposed by Schlangen and Skantze. To\ndo so, we altered existing RASA components to process incrementally, and added\nan update-incremental intent recognition model as a component to RASA. Our\nevaluations on the Snips dataset show that our changes allow RASA to function\nas an effective incremental natural language understanding service.\n[Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "114062811",
+    "status": [
+        {
+            "id": 46835,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

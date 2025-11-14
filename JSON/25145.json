@@ -1,0 +1,67 @@
+{
+    "activityid": 25145,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Loose Password Security in Chinese Cyber World Left the Front Door Wide Open to Hackers\u2014An Analytic View",
+        "Name of Conference": "",
+        "Month / Season": "2012-08-07",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "121-126",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1145/2346536.2346558",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/edtech_facpubs/66",
+        "Description/Abstract": "Between December 21 and 25, 2011, hackers released more than 100 million users' account information, from China's most popular websites, including usernames, passwords, and emails. As user passwords were not encrypted, the online security crisis has caused prevailing panic among many Internet users in China. On the other hand, this online security disaster also provides researchers priceless data with which to study users' password patterns, especially when comparing those patterns across various relevant websites. Lessons thusly learned can help Chinese online service providers improve their service security in the future. This paper reports the findings from the exploratory study of the datasets from the affected websites with more than 60 million records, including (1) users might choose less secure passwords for their convenience and ease of memorization, though their primary concern is online security; (2) for the same reasons, password reuse is common, as users tend to use the same passwords for multiple online accounts; and (3) passwords usually contain common words, or personal information, such as birthdays and family member names.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "82050": {
+            "firstname": "Cheng",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82050,
+            "scholarlyactivityid": 25145
+        },
+        "82051": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 82051,
+            "scholarlyactivityid": 25145
+        },
+        "82052": {
+            "firstname": "Zhang-Xi",
+            "middleinitial": "",
+            "lastname": "Lin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82052,
+            "scholarlyactivityid": 25145
+        }
+    },
+    "status": [
+        {
+            "id": 25145,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

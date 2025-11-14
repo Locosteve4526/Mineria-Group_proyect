@@ -1,0 +1,91 @@
+{
+    "activityid": 74085,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Video Game Metadata Schema: Controlled Vocabulary for Narrative Genre Version 1.3",
+        "Outlet (if applicable)": "University of Washington Information School Game Research Group Website",
+        "Date": "2024-09-04",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://github.com/uwgamergroup/vocabulary-narrative-genre/",
+        "Description/Abstract": "&lt;span&gt;This vocabulary has been developed to represent the type of game world and plot, similar to literary genres such as science fiction and fantasy.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "345776": {
+            "firstname": "Jin Ha",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345776,
+            "scholarlyactivityid": 74085,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345777": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 345777,
+            "scholarlyactivityid": 74085,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345778": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Newman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345778,
+            "scholarlyactivityid": 74085,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345779": {
+            "firstname": "Lane",
+            "middleinitial": "D",
+            "lastname": "Koughan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345779,
+            "scholarlyactivityid": 74085,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74085,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

@@ -1,0 +1,87 @@
+{
+    "activityid": 44653,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "PARTITIONED BY PROCESS: MEASURING POST-FIRE DEBRIS FLOW AND RILL EROSION WITH STRUCTURE FROM MOTION",
+        "Journal": "Earth Surface Processes and Landforms",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111717214",
+    "coauthors": {
+        "202625": {
+            "firstname": "Nicolas",
+            "middleinitial": "",
+            "lastname": "Ellett",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 202625,
+            "scholarlyactivityid": 44653,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "202626": {
+            "firstname": "Jennifer",
+            "middleinitial": "L",
+            "lastname": "Pierce",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111717214",
+            "authorid": 202626,
+            "scholarlyactivityid": 44653
+        },
+        "202627": {
+            "firstname": "Nancy",
+            "middleinitial": "",
+            "lastname": "Glenn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003223",
+            "authorid": 202627,
+            "scholarlyactivityid": 44653
+        }
+    },
+    "status": [
+        {
+            "id": 44653,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 44653,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 44653,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111717214",
+    "attachments": []
+}

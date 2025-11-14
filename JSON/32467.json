@@ -1,0 +1,58 @@
+{
+    "activityid": 32467,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Concurrent Two Way Atomistic-Continuum Coupling Framework for Simulating Thermal Transport",
+        "Conference/Meeting Name": "Computational Methods for Spatiotemporal Scale bridging: from Atomistics to Mesoscale",
+        "Conference Location": "Seattle, WA",
+        "Date or Date Range": "May",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Concurrent coupling of atomic temperature with the continuous temperature field in continuum scale can be a useful computational tool. Consider a thermoelectric module, where the overall performance is very sensitive to both atomic and continuum scale features. While the atomic structure of the p-type or n-type material by itself or the interfaces between them is important for understanding their behaviour, the continuum scale features such as dimensions and geometries are also crucial to the overall device performance. This study aims at developing a generic computational tool which couples the molecular dynamics simulation of thermal transport with continuum scale simulation of the device using finite element analysis. The developed method has been validated for a simple fixed temperature thermal transfer case study. The coupled AtC modeling method has been validated to be accurate, sensitive and reliable. This method enables a viable simulation method with reasonable computational cost for mesoscale devices such as the thermoelectric module by limiting the use of fine scale simulations to regions where the atomic scale phenomenon is significant and coarse scale simulation elsewhere.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "125228": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 125228,
+            "scholarlyactivityid": 32467,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125229": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Thomas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125229,
+            "scholarlyactivityid": 32467,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32467,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001675",
+    "attachments": []
+}

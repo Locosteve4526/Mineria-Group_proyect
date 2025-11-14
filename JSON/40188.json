@@ -1,0 +1,106 @@
+{
+    "activityid": 40188,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Support Model for Transfer Students Utilizing the STEM Scholarship Program",
+        "Name of Conference": "",
+        "Month / Season": "2016-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "New Orleans, LA ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643645",
+    "coauthors": {
+        "175399": {
+            "firstname": "Janet",
+            "middleinitial": "M",
+            "lastname": "Callahan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033791",
+            "authorid": 175399,
+            "scholarlyactivityid": 40188
+        },
+        "175400": {
+            "firstname": "Lynn",
+            "middleinitial": "",
+            "lastname": "Olson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175400,
+            "scholarlyactivityid": 40188
+        },
+        "175401": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Bullock",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110582",
+            "authorid": 175401,
+            "scholarlyactivityid": 40188
+        },
+        "175402": {
+            "firstname": "S",
+            "middleinitial": "M",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045153",
+            "authorid": 175402,
+            "scholarlyactivityid": 40188
+        },
+        "175403": {
+            "firstname": "Amit",
+            "middleinitial": "",
+            "lastname": "Jain",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110305",
+            "authorid": 175403,
+            "scholarlyactivityid": 40188
+        },
+        "175404": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Moll",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643645",
+            "authorid": 175404,
+            "scholarlyactivityid": 40188
+        }
+    },
+    "status": [
+        {
+            "id": 40188,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40188,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643645",
+    "attachments": []
+}

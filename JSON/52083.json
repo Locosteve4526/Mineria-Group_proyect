@@ -1,0 +1,86 @@
+{
+    "activityid": 52083,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Impact of dermal absorption factors in occupational exposure assessment: comparison of two models for agricultural reentry workers exposed to azinphosmethyl",
+        "Journal": "Applied occupational and environmental hygiene",
+        "Volume": "18",
+        "Month / Season": null,
+        "Issue Number": "9",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "669-77",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "This analysis compares two deterministic reentry exposure models that differ in their treatment of the time dependence of dermal absorption. The first model, called the &quot;traditional model,&quot; assumes that dermal absorption is a fixed fraction of the cumulative load on skin at the end of the workshift and that absorption is independent of residence time on the skin. The second model, called the &quot;time-integrated model,&quot; incorporates the time dependence of both exposure and absorption by assuming that absorption begins at the outset of exposure and continues through the workshift and beyond, until an effective washing event occurs. These two models were evaluated using previously collected biological monitoring data from apple thinners exposed to azinphosmethyl. Daily doses predicted by the models were compared to doses estimated from the biological sampling results assuming pseudo steady-state excretion. The geometric mean dose estimated from the biological sampling data was 20 microg/kg/day. Corresponding geometric mean doses produced by the traditional model and the time-integrated model were 79 microg/kg/day and 24 microg/kg/day, respectively. When the doses predicted by the traditional model were plotted against those estimated from the biological measurements, the slope of the regression line was significantly greater than 1 (beta = 1.37). However, when this same analysis was conducted for the doses predicted by the time-integrated model, the confidence interval around the slope encompassed 1 (beta = 1.01). Thus, time-integrated treatment of absorption appeared to provide more realistic dose estimates than did the traditional approach.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114029620",
+    "coauthors": {
+        "241364": {
+            "firstname": "E ",
+            "middleinitial": "M",
+            "lastname": "Doran",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 241364,
+            "scholarlyactivityid": 52083
+        },
+        "241365": {
+            "firstname": "R ",
+            "middleinitial": "A",
+            "lastname": "Fenske",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 241365,
+            "scholarlyactivityid": 52083
+        },
+        "241366": {
+            "firstname": "J ",
+            "middleinitial": "C",
+            "lastname": "Kissel",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 241366,
+            "scholarlyactivityid": 52083
+        },
+        "241367": {
+            "firstname": "C ",
+            "middleinitial": "L",
+            "lastname": "Curl",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 241367,
+            "scholarlyactivityid": 52083
+        },
+        "241368": {
+            "firstname": "N ",
+            "middleinitial": "J",
+            "lastname": "Simcox",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 241368,
+            "scholarlyactivityid": 52083
+        }
+    },
+    "status": [
+        {
+            "id": 52083,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2003,
+            "termid": "2003/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114029620",
+    "attachments": []
+}

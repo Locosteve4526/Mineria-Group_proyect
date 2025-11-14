@@ -1,0 +1,55 @@
+{
+    "activityid": 24532,
+    "fields": {
+        "Type": "Book",
+        "Title": "Theatre Lives",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Kendall Hunt",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Kendall Hunt",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/274",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111669985",
+    "coauthors": {
+        "80780": {
+            "firstname": "Leslie",
+            "middleinitial": "A",
+            "lastname": "Durham",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669985",
+            "authorid": 80780,
+            "scholarlyactivityid": 24532
+        },
+        "80781": {
+            "firstname": "Sally",
+            "middleinitial": "H.",
+            "lastname": "Shedd",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80781,
+            "scholarlyactivityid": 24532
+        }
+    },
+    "status": [
+        {
+            "id": 24532,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669985",
+    "attachments": []
+}

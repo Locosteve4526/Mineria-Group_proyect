@@ -1,0 +1,66 @@
+{
+    "activityid": 2913,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Common Core: New Standards, New Teaching",
+        "Journal": "Phi Delta Kappan",
+        "Volume": "94",
+        "Month / Season": "2013-12-31",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "45-48",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112184269",
+    "coauthors": {
+        "8305": {
+            "firstname": "Michael",
+            "middleinitial": "W",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 8305,
+            "scholarlyactivityid": 2913
+        },
+        "8306": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 8306,
+            "scholarlyactivityid": 2913
+        },
+        "8307": {
+            "firstname": "Jim",
+            "middleinitial": "",
+            "lastname": "Fredricksen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112184269",
+            "authorid": 8307,
+            "scholarlyactivityid": 2913
+        }
+    },
+    "status": [
+        {
+            "id": 2913,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112184269",
+    "attachments": []
+}

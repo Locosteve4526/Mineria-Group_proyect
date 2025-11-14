@@ -1,0 +1,58 @@
+{
+    "activityid": 77445,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Faculty Training: How to Address Student Crises and Avoid Emotional Burnout&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Conference/Meeting Name": "",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114060624",
+    "coauthors": {
+        "346344": {
+            "firstname": "Kelly",
+            "middleinitial": "R",
+            "lastname": "Rossetto",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060624",
+            "authorid": 346344,
+            "scholarlyactivityid": 77445,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "346345": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Niece",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346345,
+            "scholarlyactivityid": 77445,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77445,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114060624",
+    "attachments": []
+}

@@ -1,0 +1,96 @@
+{
+    "activityid": 5531,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Quantitative Analysis of Electrophoresis Data:  Novel Curve Fitting Methodology and its Application to the Determination of a Protein-DNA Binding Constant",
+        "Journal": "Nucleic Acids Research",
+        "Volume": "25",
+        "Month / Season": "1997-02-15",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 1997,
+        "Page Numbers": "850-860",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "A computer program, GelExplorer, which uses a new methodology for obtaining quantitative information about electrophoresis has been developed. It provides a straightforward, easy-to-use graphical interface, and includes a number of features which offer significant advantages over existing methods for quantitative gel analysis. The method uses curve fitting with a nonlinear least-squares optimization to deconvolute overlapping bands. Unlike most curve fitting approaches, the data is treated in two dimensions, fitting all the data across the entire width of the lane. This allows for accurate determination of the intensities of individual, overlapping bands, and in particular allows imperfectly shaped bands to be accurately modeled. Experiments described in this paper demonstrate empirically that the Lorentzian lineshape reproduces the contours of an individual gel band and provides a better model than the Gaussian function for curve fitting of electrophoresis bands. Results from several fitting applications are presented and a discussion of the sources and magnitudes of uncertainties in the results is included. Finally, the method is applied to the quantitative analysis of a hydroxyl radical footprint titration experiment to obtain the free energy of binding of the lambda repressor protein to the OR1 operator DNA sequence.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110041",
+    "coauthors": {
+        "16970": {
+            "firstname": "Susan",
+            "middleinitial": "E",
+            "lastname": "Shadle",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 16970,
+            "scholarlyactivityid": 5531
+        },
+        "16971": {
+            "firstname": "Douglas",
+            "middleinitial": "F",
+            "lastname": "Allen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16971,
+            "scholarlyactivityid": 5531
+        },
+        "16972": {
+            "firstname": "Hong",
+            "middleinitial": "",
+            "lastname": "Guo",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16972,
+            "scholarlyactivityid": 5531
+        },
+        "16973": {
+            "firstname": "Wendy",
+            "middleinitial": "K",
+            "lastname": "Pogozelski",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16973,
+            "scholarlyactivityid": 5531
+        },
+        "16974": {
+            "firstname": "John",
+            "middleinitial": "S",
+            "lastname": "Bashkin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16974,
+            "scholarlyactivityid": 5531
+        },
+        "16975": {
+            "firstname": "Thomas",
+            "middleinitial": "D",
+            "lastname": "Tullius",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16975,
+            "scholarlyactivityid": 5531
+        }
+    },
+    "status": [
+        {
+            "id": 5531,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1997,
+            "termid": "1996/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110041",
+    "attachments": []
+}

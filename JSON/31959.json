@@ -1,0 +1,75 @@
+{
+    "activityid": 31959,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Detecting burrowing owl bloodmeals in Pulez irritans (Siphopnaptera: Pulicidae)",
+        "Journal": "Journal of Medical Entomology",
+        "Volume": "53",
+        "Month / Season": "Mar",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "446-450",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "121641": {
+            "firstname": "Christine",
+            "middleinitial": "B",
+            "lastname": "Graham",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121641,
+            "scholarlyactivityid": 31959,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "121642": {
+            "firstname": "Rebecca",
+            "middleinitial": "J",
+            "lastname": "Eisen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121642,
+            "scholarlyactivityid": 31959,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "121643": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 121643,
+            "scholarlyactivityid": 31959,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31959,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

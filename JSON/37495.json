@@ -1,0 +1,60 @@
+{
+    "activityid": 37495,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "To boldly go: Technology, Captain Kirk, and the future of education",
+        "Conference/Meeting Name": "Personalized Learning Summit",
+        "Conference Location": "Fullerton, CA",
+        "Date or Date Range": "June, 2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "Fullerton School District",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111114223",
+    "coauthors": {
+        "155702": {
+            "firstname": "Charles",
+            "middleinitial": "Christopher",
+            "lastname": "Haskell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111114223",
+            "authorid": 155702,
+            "scholarlyactivityid": 37495
+        }
+    },
+    "status": [
+        {
+            "id": 37495,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 37495,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 37495,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111114223",
+    "attachments": []
+}

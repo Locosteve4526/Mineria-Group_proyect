@@ -1,0 +1,88 @@
+{
+    "activityid": 30547,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Resolving incongruence: Species of hybrid origin in Columnea (Gesneriaceae)",
+        "Journal": "Molecular Phylogenetics and Evolution",
+        "Volume": "106",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "228-240",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "112171": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 112171,
+            "scholarlyactivityid": 30547,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "112172": {
+            "firstname": "John",
+            "middleinitial": "L.",
+            "lastname": "Clark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112172,
+            "scholarlyactivityid": 30547,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "112173": {
+            "firstname": "Marisol",
+            "middleinitial": "",
+            "lastname": "Amaya-M\u00e1rquez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112173,
+            "scholarlyactivityid": 30547,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "112174": {
+            "firstname": "Oscar",
+            "middleinitial": "H.",
+            "lastname": "Mar\u00edn-G\u00f3mez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 112174,
+            "scholarlyactivityid": 30547,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30547,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 6791,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Journal of Curriculum Studies",
+        "Journal": "",
+        "Volume": "46",
+        "Month / Season": "2014-03-15",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "180-200",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002257",
+    "coauthors": {
+        "21087": {
+            "firstname": "Norm",
+            "middleinitial": "",
+            "lastname": "Friesen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114002257",
+            "authorid": 21087,
+            "scholarlyactivityid": 6791
+        },
+        "21088": {
+            "firstname": "Wolff-Michael",
+            "middleinitial": "",
+            "lastname": "Roth",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21088,
+            "scholarlyactivityid": 6791
+        }
+    },
+    "status": [
+        {
+            "id": 6791,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002257",
+    "attachments": []
+}

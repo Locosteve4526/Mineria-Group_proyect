@@ -1,0 +1,68 @@
+{
+    "activityid": 43155,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Fecundity and spawn timing within an invasive population of Oriental Weatherfish (Misgurnus anguillicaudatus) in Idaho, USA",
+        "Journal": "Copeia",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110405",
+    "coauthors": {
+        "251549": {
+            "firstname": "Alexander",
+            "middleinitial": "N.",
+            "lastname": "Urquhart",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 251549,
+            "scholarlyactivityid": 43155,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "251550": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Koetsier",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110405",
+            "authorid": 251550,
+            "scholarlyactivityid": 43155
+        }
+    },
+    "status": [
+        {
+            "id": 43155,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 43155,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110405",
+    "attachments": []
+}

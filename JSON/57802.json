@@ -1,0 +1,75 @@
+{
+    "activityid": 57802,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Leveraging neuroscience-informed resilience principles to support clients' career decision-making",
+        "Journal": "The Career Development Quarterly",
+        "Volume": "69",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "340-354",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1002/cdq.12278 ",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114023975",
+    "coauthors": {
+        "268064": {
+            "firstname": "Rebecca",
+            "middleinitial": "",
+            "lastname": "Dickson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268064,
+            "scholarlyactivityid": 57802,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268065": {
+            "firstname": "Raissa",
+            "middleinitial": "",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114023975",
+            "authorid": 268065,
+            "scholarlyactivityid": 57802,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268066": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Beeson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268066,
+            "scholarlyactivityid": 57802,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57802,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114023975",
+    "attachments": []
+}

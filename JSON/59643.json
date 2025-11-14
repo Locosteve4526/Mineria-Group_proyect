@@ -1,0 +1,75 @@
+{
+    "activityid": 59643,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Questions (and answers) about returning to graduate school after a gap year. Three heads are better than one",
+        "Journal": "Eye on Psi Chi",
+        "Volume": "26",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "12-14",
+        "Publisher": "Psi Chi",
+        "DOI": "https://doi.org/10.24839/2164-9812.Eye26.1.12 ",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "278720": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Radico",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278720,
+            "scholarlyactivityid": 59643,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278721": {
+            "firstname": "R. Eric",
+            "middleinitial": "",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 278721,
+            "scholarlyactivityid": 59643,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278722": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "VanderStoep",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278722,
+            "scholarlyactivityid": 59643,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59643,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 77142,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The importance of nutrition education for female student athletes",
+        "Name of Conference": "Boise State University Graduate Student Showcase",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "344061": {
+            "firstname": "J",
+            "middleinitial": "N",
+            "lastname": "Benson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344061,
+            "scholarlyactivityid": 77142,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "344062": {
+            "firstname": "S",
+            "middleinitial": "S",
+            "lastname": "Wade",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344062,
+            "scholarlyactivityid": 77142,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "344063": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 344063,
+            "scholarlyactivityid": 77142,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77142,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

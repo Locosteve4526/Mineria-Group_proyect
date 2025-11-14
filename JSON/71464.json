@@ -1,0 +1,96 @@
+{
+    "activityid": 71464,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Teaching Students Teamwork Skills: Quantitative analysis",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045890",
+    "coauthors": {
+        "343451": {
+            "firstname": "Aaron",
+            "middleinitial": "R",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045890",
+            "authorid": 343451,
+            "scholarlyactivityid": 71464,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "343452": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Crowley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 343452,
+            "scholarlyactivityid": 71464
+        },
+        "343453": {
+            "firstname": "Cynthia",
+            "middleinitial": "G",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113146329",
+            "authorid": 343453,
+            "scholarlyactivityid": 71464
+        }
+    },
+    "status": [
+        {
+            "id": 71464,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71464,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71464,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71464,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112045890",
+    "attachments": []
+}

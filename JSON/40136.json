@@ -1,0 +1,62 @@
+{
+    "activityid": 40136,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Article update: Watching both sides of the e-learning satisfaction seesaw",
+        "Journal": "Performance Improvement Quarterly",
+        "Volume": "26",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "135-140",
+        "Publisher": "Wiley",
+        "DOI": "10.1002/piq.21147",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1002/piq.21147",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175195": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175195,
+            "scholarlyactivityid": 40136,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175196": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Virgilio",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175196,
+            "scholarlyactivityid": 40136,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40136,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

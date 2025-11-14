@@ -1,0 +1,66 @@
+{
+    "activityid": 63522,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Online Shakespearean Role-Playing",
+        "Book Title": "Teaching Shakespeare Beyond the Major",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Tyler Sasser",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111673550",
+    "coauthors": {
+        "292717": {
+            "firstname": "Jen",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111673550",
+            "authorid": 292717,
+            "scholarlyactivityid": 63522
+        }
+    },
+    "status": [
+        {
+            "id": 63522,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 63522,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 63522,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111673550",
+    "attachments": []
+}

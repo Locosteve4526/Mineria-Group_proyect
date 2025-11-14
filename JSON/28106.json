@@ -1,0 +1,65 @@
+{
+    "activityid": 28106,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Teaching Students to Read Text Structures Like Experts",
+        "Outlet (if applicable)": "Corwin blog",
+        "Date": "November",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Publisher": "Corwin",
+        "Location of Publisher (City, State, Country)": "Thousand Oaks, CA",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "89282": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 89282,
+            "scholarlyactivityid": 28106,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "89283": {
+            "firstname": "Michael",
+            "middleinitial": "W",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 89283,
+            "scholarlyactivityid": 28106,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28106,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

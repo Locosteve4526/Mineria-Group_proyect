@@ -1,0 +1,73 @@
+{
+    "activityid": 69646,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "&lt;span&gt;Mentorship matters:&lt;/span&gt;&lt;span&gt;\u00a0Cultivating success and resilience through mentorship&lt;/span&gt;",
+        "Book Title": "The Journey into College and Career: Cultivating Resilience among Challenges",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "Kendall Hunt",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "K. R. Rossetto &amp; E. M. Martin",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114060624",
+    "coauthors": {
+        "314942": {
+            "firstname": "Eric",
+            "middleinitial": "M",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114063271",
+            "authorid": 314942,
+            "scholarlyactivityid": 69646,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "314943": {
+            "firstname": "Kelly",
+            "middleinitial": "R",
+            "lastname": "Rossetto",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060624",
+            "authorid": 314943,
+            "scholarlyactivityid": 69646,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69646,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 69646,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "114060624",
+    "attachments": []
+}

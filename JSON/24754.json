@@ -1,0 +1,67 @@
+{
+    "activityid": 24754,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "An Introduction to Victimology",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Wolter Kluwer",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Lisa Growette Bostaph and Danielle Swerin",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111358865",
+    "coauthors": {
+        "201398": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Giacomazzi",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358865",
+            "authorid": 201398,
+            "scholarlyactivityid": 24754
+        },
+        "201399": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Beattie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201399,
+            "scholarlyactivityid": 24754
+        }
+    },
+    "status": [
+        {
+            "id": 24754,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 24754,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111358865",
+    "attachments": []
+}

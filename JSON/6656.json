@@ -1,0 +1,76 @@
+{
+    "activityid": 6656,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Variant of Pseudospectral Method for Activity-Dependent Dendritic Branch Model",
+        "Journal": "Journal of Neuroscience Methods",
+        "Volume": "165",
+        "Month / Season": "2007-12-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "306-319",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "A new variant of the pseudospectral method for an activity-dependent dendritic branch model is proposed. This algorithm incorporates the Neumann boundary conditions in a more efficient way than in the algorithms proposed before for similar problems. Numerical experiments indicate that the new algorithm is more efficient than the previous algorithms discussed in the literature on the subject. ",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20735": {
+            "firstname": "Sharon",
+            "middleinitial": "",
+            "lastname": "Crook",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20735,
+            "scholarlyactivityid": 6656
+        },
+        "20736": {
+            "firstname": "Mohammed",
+            "middleinitial": "",
+            "lastname": "Dur-e-ahmad",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20736,
+            "scholarlyactivityid": 6656
+        },
+        "20737": {
+            "firstname": "Zdzislaw",
+            "middleinitial": "",
+            "lastname": "Jackiewicz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20737,
+            "scholarlyactivityid": 6656
+        },
+        "20738": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20738,
+            "scholarlyactivityid": 6656
+        }
+    },
+    "status": [
+        {
+            "id": 6656,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

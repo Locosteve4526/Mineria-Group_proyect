@@ -1,0 +1,92 @@
+{
+    "activityid": 76471,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "&lt;span style=&quot;color:#333333;&quot;&gt;Fluid flow determines the effects of bacteria growth patterns in a model groundwater environment&lt;/span&gt;",
+        "Conference / Meeting Name": "Idaho Conference on Undergraduate Research (ICUR) ",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "July 17, 2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "https://scholarworks.boisestate.edu/icur/2024/poster_session/104/",
+        "Description/Abstract": "&lt;p&gt;A biofilm is a community of bacteria that naturally grows within porous environments such as soil, streambed sediments, and aquifers. Biofilm growth contributes to bioclogging, a phenomenon in which the porosity and permeability of the porous environment decrease. This process can significantly impact the transformation of nutrients as well as contaminants within groundwater systems. To better understand the effects of bioclogging on these systems, it is essential to investigate how flow conditions can alter biofilm growth. Our hypothesis is that different boundary conditions of flow through a micromodel will affect the growth, growth cycles, and distribution of biofilms within a controlled porous environment. We grew a bacterial biofilm within a microfluidic chamber modeled after a homogeneous sand. Prior to each experiment, we inoculated the micromodel with &lt;em&gt;Bacillus subtilis&lt;/em&gt;, a common soil bacterium capable of forming robust biofilms. We tested two different boundary conditions: a constant pressure gradient (&lt;em&gt;\u0394p&lt;/em&gt;) and a constant flow rate (&lt;em&gt;Q&lt;/em&gt;), controlled by a microfluidic pump and monitored using flow rate and pressure sensors. Additionally, we monitored growth patterns within the micromodel regularly using a microscope equipped with image capturing capabilities.&lt;/p&gt;\n&lt;p&gt;Experiments under constant &lt;em&gt;\u0394p&lt;/em&gt; indicated that within the first 24 hours, the flow rate significantly decreased to a low value due to continuous biomass growth. Approximately 14 hours after stabilization, the flow rate increased, which microscope images confirmed was due to a 'sloughing event,' that substantially reduced the biomass in the micromodel. Subsequently, rapid biofilm growth led to a sharp decrease in flow rate, followed by stabilization in biomass and flow rate for the remainder of the experiment. Experiments under constant &lt;em&gt;Q&lt;/em&gt; revealed rapid growth in the first 12 hours, followed by fluctuations in pressure over 12-hour intervals. After 40 hours into the experiment, pressure steadily increased until the experiment's conclusion. Joint analysis of images and pressure time series showed that these fluctuations were due to the reconfiguration of biofilm within the micromodel. This occurred much more frequently in the constant &lt;em&gt;Q&lt;/em&gt; experiment than in the constant &lt;em&gt;\u0394p&lt;/em&gt; experiment because bioclogging caused pressure-related forces to build in the chamber in excess of what the biofilm could withstand. These findings demonstrate that the distribution and growth cycles of biofilm are directly influenced by the boundary conditions driving fluid flow through groundwater.&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114177350",
+    "coauthors": {
+        "340082": {
+            "firstname": "Marcos",
+            "middleinitial": "",
+            "lastname": "Bermudez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340082,
+            "scholarlyactivityid": 76471,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "340083": {
+            "firstname": "Kevin",
+            "middleinitial": "R",
+            "lastname": "Roche",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114177350",
+            "authorid": 340083,
+            "scholarlyactivityid": 76471,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "340084": {
+            "firstname": "Jason",
+            "middleinitial": "T",
+            "lastname": "Mick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340084,
+            "scholarlyactivityid": 76471,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "340085": {
+            "firstname": "Hamidreza",
+            "middleinitial": "",
+            "lastname": "Ahadiyan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340085,
+            "scholarlyactivityid": 76471,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76471,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114177350",
+    "attachments": [
+        {
+            "attachmentid": 60711,
+            "mimetype": "application/pdf",
+            "filename": "BermudezM-Roche.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlpYldtSU5raG1nQm1VWVlDdHNuMm9nQnU1NTF5RnVHY3dmUVBVckVXZWw1YTZGZ0VtWmlNeS8%3D",
+            "filesize": 4132032
+        }
+    ]
+}

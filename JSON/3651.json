@@ -1,0 +1,66 @@
+{
+    "activityid": 3651,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Implementation, Characterization, and Evaluation of an Inexpensive Low-Power Low-Noise Infrasound Sensor Based on a Micromachined Differential Pressure Transducer and a Mechanical Filter",
+        "Journal": "Journal of Atmospheric and Oceanic Technology",
+        "Volume": "29",
+        "Month / Season": "2012-09-30",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "1275-1284",
+        "Publisher": "",
+        "DOI": "10.1175/JTECH-D-11-00101.1",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The implementation, characterization, and evaluation of a low-cost infrasound sensor developed at the Infrasound Laboratory at the New Mexico Institute of Mining and Technology (Infra-NMT) are described. This sensor is based on a commercial micromachined piezoresistive differential pressure transducer that uses a mechanical high-pass filter to reject low-frequency outband energy. The sensor features a low-noise, 2.02-mPa rms (0.5\u20132 Hz), 5.47-mPa rms (0.1\u201320 Hz), or 5.62-mPa rms (0.05\u201320 Hz), flat response between 0.01 and at least 40 Hz; inband sensitivity of 45.13 6 0.23 mV Pa21; and a nominal linear range from 2124.5 to 1124.5 Pa. Intended for outdoor applications, the influence of thermal changes in the sensor\u2019s response has been minimized by using a thermal compensated pressure transducer powered by an ultralow drift (,5 ppm 8C21) and noise (,4mV from peak to peak) voltage reference. The sensor consumes a minimum of 24 mW and operates with voltages above 8 V while drawing 3 mA of current. The Infra-NMT specifications described above were independently verified using the infrasound test chamber at the Sandia National Laboratories\u2019 (SNL\u2019s) Facility for Acceptance, Calibration, and Testing (FACT), and the following pro- cedures are for comparison calibration against traceable reference stands in voltage and pressure. Because of the intended broad frequency response of this sensor, the testing chamber was configured in a double- reference sensor scheme. A well-characterized microbarometer (with a flat-amplitude response between 0.01 and 8 Hz) and a microphone (with a flat-amplitude response above 8 Hz) were used simultaneously in this double-reference test configuration.",
+        "Origin": "Other"
+    },
+    "facultyid": "113150379",
+    "coauthors": {
+        "10635": {
+            "firstname": "Omar",
+            "middleinitial": "",
+            "lastname": "Marcillo",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10635,
+            "scholarlyactivityid": 3651
+        },
+        "10636": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 10636,
+            "scholarlyactivityid": 3651
+        },
+        "10637": {
+            "firstname": "Darren",
+            "middleinitial": "",
+            "lastname": "Hart",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10637,
+            "scholarlyactivityid": 3651
+        }
+    },
+    "status": [
+        {
+            "id": 3651,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113150379",
+    "attachments": []
+}

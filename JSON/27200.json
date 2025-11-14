@@ -1,0 +1,58 @@
+{
+    "activityid": 27200,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Metamemory",
+        "Book Title": "Oxford Library of Psychology",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "283-298",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Oxford University Press",
+        "Publisher Location": "Oxford, England ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "D. Reisberg",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "86547": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Dunlosky",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 86547,
+            "scholarlyactivityid": 27200
+        },
+        "86548": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 86548,
+            "scholarlyactivityid": 27200
+        }
+    },
+    "status": [
+        {
+            "id": 27200,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

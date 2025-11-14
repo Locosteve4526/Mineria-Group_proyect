@@ -1,0 +1,76 @@
+{
+    "activityid": 50043,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Multiple Dose Pharmacokinetic Models Predict Bioavailability of Toxins in Vertebrate Herbivores",
+        "Journal": "Journal of chemical ecology",
+        "Volume": "46",
+        "Month / Season": null,
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "198-205",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "In this paper, compartmental pharmacokinetic models are built to predict the concentration of toxic phytochemical in the gastrointestinal tract and blood following oral intake by an individual vertebrate herbivore. The existing single and multiple dose pharmacokinetic models are extended by inclusion of impulsive differential equations which account for an excretion factor whereby unchanged toxins are excreted in the feces due to gastrointestinal mobility. An index \u03b1 is defined to measure the fraction of bioavailability attributed to the excretion factor of gastrointestinal motility. Sensitivity analysis was conducted and suggests, for any toxin, the bioavailability index \u03b1 depends mostly on absorption rate of toxin from gastrointestinal tract into the blood, frequency of elimination due to gastrointestinal motility, and the frequency of toxin intake, under the model assumptions.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "112172788",
+    "coauthors": {
+        "232533": {
+            "firstname": "Dane",
+            "middleinitial": "",
+            "lastname": "Patey",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 232533,
+            "scholarlyactivityid": 50043
+        },
+        "232534": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Forbey",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 232534,
+            "scholarlyactivityid": 50043
+        },
+        "232535": {
+            "firstname": "Steven",
+            "middleinitial": "",
+            "lastname": "Kern",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 232535,
+            "scholarlyactivityid": 50043
+        },
+        "232536": {
+            "firstname": "Rongsong",
+            "middleinitial": "",
+            "lastname": "Liu",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 232536,
+            "scholarlyactivityid": 50043
+        }
+    },
+    "status": [
+        {
+            "id": 50043,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112172788",
+    "attachments": []
+}

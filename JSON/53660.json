@@ -1,0 +1,48 @@
+{
+    "activityid": 53660,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Ongoing mystery of the disappearing self",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Edition": "First",
+        "Volume": "",
+        "Publisher": "SplitLevel Texts",
+        "Publisher Location": "Chattanooga",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://splitleveltexts.com/texts/ongoing.html",
+        "Description/Abstract": "Prose book accepted in March published in December",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "251134": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 251134,
+            "scholarlyactivityid": 53660,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53660,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

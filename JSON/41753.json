@@ -1,0 +1,58 @@
+{
+    "activityid": 41753,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Writing POGIL Activities",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Round Lake, IL",
+        "Date or Date Range": "June",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "Round Lake School District",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112145571",
+    "coauthors": {
+        "184306": {
+            "firstname": "Shawn",
+            "middleinitial": "R",
+            "lastname": "Simonson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 184306,
+            "scholarlyactivityid": 41753,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "184307": {
+            "firstname": "Mare",
+            "middleinitial": "",
+            "lastname": "Sullivan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 184307,
+            "scholarlyactivityid": 41753,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41753,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112145571",
+    "attachments": []
+}

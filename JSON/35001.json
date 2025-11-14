@@ -1,0 +1,52 @@
+{
+    "activityid": 35001,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Expand and retain clients with health coaching",
+        "Conference/Meeting Name": "IDEA Personal Trainer Institute ",
+        "Conference Location": "Alexandria, VA",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086631",
+    "coauthors": {
+        "142851": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Beauchemin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086631",
+            "authorid": 142851,
+            "scholarlyactivityid": 35001
+        },
+        "142852": {
+            "firstname": "C",
+            "middleinitial": "",
+            "lastname": "McGrath",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142852,
+            "scholarlyactivityid": 35001
+        }
+    },
+    "status": [
+        {
+            "id": 35001,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114086631",
+    "attachments": []
+}

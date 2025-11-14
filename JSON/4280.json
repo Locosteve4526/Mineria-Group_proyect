@@ -1,0 +1,56 @@
+{
+    "activityid": 4280,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Accurate Inversion of High-Resolution Snow Penetrometer Signals for Microstructural and Micromechanical Properties",
+        "Journal": "Journal of Geophysical Research: Earth Surface",
+        "Volume": "114",
+        "Month / Season": "2009-11-20",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "F04016-1 - F04016-18",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2009JF001269",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/34",
+        "Description/Abstract": "Measurements of snow using a high-resolution micropenetrometer can be used to discriminate between different snow types; in lower-density snow the signal is sensitive to microstructure, and micromechanical properties can be estimated. Although a physics-based snow penetration theory was first developed almost a decade ago, since that time the majority of studies using snow micropenetrometers have focused on using direct hardness measurements in statistical relationships. We use Monte-Carlo simulations to rigorously test the existing physics-based snow micropenetration theories over a wide range of parameters. These tests revealed four major sources of error in the inversion, which are corrected in this analysis. It is shown that this improved inversion algorithm can recover micromechanical parameters in synthetic data with much greater accuracy over the entire range of micromechanical properties observed in natural snow. Detailed examples of the inversion results are shown for eight different snow types, collected in both Alaskan and alpine snowpacks. The resulting micromechanical properties are distinctly different, indicating that a snow characterization from snow micropenetrometer estimates of micromechanical properties is likely possible. Estimates of the microscale elastic modulus, microscale strength, and structural element length make sense physically when compared to the qualitative descriptions of the different snow types. Microscale strength estimates are used to estimate macroscale strength values, and results from 33 different snow samples, covering a wide range of densities and snow types, are consistent with previously reported values from macroscale tests.",
+        "Origin": "Other"
+    },
+    "facultyid": "112188758",
+    "coauthors": {
+        "12758": {
+            "firstname": "Hans-Peter",
+            "middleinitial": "",
+            "lastname": "Marshall",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188758",
+            "authorid": 12758,
+            "scholarlyactivityid": 4280
+        },
+        "12759": {
+            "firstname": "Jerome",
+            "middleinitial": "B.",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12759,
+            "scholarlyactivityid": 4280
+        }
+    },
+    "status": [
+        {
+            "id": 4280,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188758",
+    "attachments": []
+}

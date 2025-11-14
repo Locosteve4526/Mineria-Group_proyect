@@ -1,0 +1,73 @@
+{
+    "activityid": 59058,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Automated Spectroscopic Analysis using Genetic Algorithms",
+        "Name of Conference": "The 31th annual international Astronomical Data Analysis Software &amp; Systems (ADASS)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114011333",
+    "coauthors": {
+        "302268": {
+            "firstname": "Min",
+            "middleinitial": "",
+            "lastname": "Long",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114011333",
+            "authorid": 302268,
+            "scholarlyactivityid": 59058,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "302269": {
+            "firstname": "Miu Lun",
+            "middleinitial": "",
+            "lastname": "Lau",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302269,
+            "scholarlyactivityid": 59058,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "302270": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Terry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302270,
+            "scholarlyactivityid": 59058
+        }
+    },
+    "status": [
+        {
+            "id": 59058,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114011333",
+    "attachments": []
+}

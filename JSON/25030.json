@@ -1,0 +1,55 @@
+{
+    "activityid": 25030,
+    "fields": {
+        "Type": "Book",
+        "Title": "Before the West Was West: Critical Essays on Pre-1800 Literature of the American Frontiers",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "University of Nebraska Press",
+        "Publisher Location": "",
+        "ISBN": "9780803256859",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111114394",
+    "coauthors": {
+        "88061": {
+            "firstname": "Thomas",
+            "middleinitial": "J",
+            "lastname": "Hillard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111114394",
+            "authorid": 88061,
+            "scholarlyactivityid": 25030
+        },
+        "88062": {
+            "firstname": "Amy",
+            "middleinitial": "T",
+            "lastname": "Hamilton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 88062,
+            "scholarlyactivityid": 25030
+        }
+    },
+    "status": [
+        {
+            "id": 25030,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111114394",
+    "attachments": []
+}

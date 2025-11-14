@@ -1,0 +1,76 @@
+{
+    "activityid": 47481,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Feature Extraction using Spiking Convolutional Neural Network",
+        "Name of Conference": "ICONS '19: Proceedings of the International Conference on Neuromorphic Systems",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "Association for Computing Machinery",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1145/3354265.3354279",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://dl.acm.org/doi/10.1145/3354265.3354279",
+        "Description/Abstract": "Spiking neural networks are biologically plausible counterparts of the artificial neural networks. Conventional (non spiking) artificial neural networks are trained using a stochastic gradient descent algorithm (back propagation) while spiking neural networks are trained using the spike timing dependant plasticity algorithm. Training conventional neural networks is a memory and computationally/energy intensive job. Spiking networks show the potential to reduce both memory and energy usage. In this work, we consider spiking neural networks (SNN) as a classifier of the MNIST and NM-NIST digits. We compare SNNs with convolutional neural networks in terms of classification accuracy, catastrophic forgetting.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112103235",
+    "coauthors": {
+        "218041": {
+            "firstname": "John",
+            "middleinitial": "Nelson",
+            "lastname": "Chiasson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112103235",
+            "authorid": 218041,
+            "scholarlyactivityid": 47481,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "218042": {
+            "firstname": "Ruthvik",
+            "middleinitial": "",
+            "lastname": "Vaila",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218042,
+            "scholarlyactivityid": 47481,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "218043": {
+            "firstname": "Vishal",
+            "middleinitial": "",
+            "lastname": "Saxena",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218043,
+            "scholarlyactivityid": 47481,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47481,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103235",
+    "attachments": []
+}

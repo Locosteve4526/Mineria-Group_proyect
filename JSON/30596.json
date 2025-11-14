@@ -1,0 +1,61 @@
+{
+    "activityid": 30596,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Enhancing Collaborations: HIM Education and Professional Associations",
+        "Conference/Meeting Name": "AHIMA Faculty Development Institute (FDI) and Assembly on Education",
+        "Conference Location": "Orlando, FL",
+        "Date or Date Range": "2012-01-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "American Health Information Management Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "112473": {
+            "firstname": "Linda",
+            "middleinitial": "Sue",
+            "lastname": "Osgood",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111319414",
+            "authorid": 112473,
+            "scholarlyactivityid": 30596
+        },
+        "112474": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 112474,
+            "scholarlyactivityid": 30596
+        }
+    },
+    "status": [
+        {
+            "id": 30596,
+            "status": "Work Discontinued",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 30596,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

@@ -1,0 +1,89 @@
+{
+    "activityid": 34868,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cEvaluation of Voting with Form Dropout Techniques for Ballot Vote Counting\u201d",
+        "Name of Conference": "Proc. International Conference on Document Analysis and Recognition",
+        "Month / Season": "September",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "pp. 473-477",
+        "Publisher": "",
+        "Publisher Location": "Beijing, China",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142266": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142266,
+            "scholarlyactivityid": 34868,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142267": {
+            "firstname": "Shatakshi",
+            "middleinitial": "",
+            "lastname": "Goyal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142267,
+            "scholarlyactivityid": 34868,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142268": {
+            "firstname": "Robbie",
+            "middleinitial": "",
+            "lastname": "Scott",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142268,
+            "scholarlyactivityid": 34868,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142269": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Lopresti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142269,
+            "scholarlyactivityid": 34868,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34868,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

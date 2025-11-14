@@ -1,0 +1,58 @@
+{
+    "activityid": 74099,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Tissue engineering using decellularized cartilage",
+        "Conference / Meeting Name": "Biomedical Engineering Mini-Symposium",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "4/19/2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "Biomedical Engineering Program",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "330116": {
+            "firstname": "Roxanne",
+            "middleinitial": "",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 330116,
+            "scholarlyactivityid": 74099,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "330117": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 330117,
+            "scholarlyactivityid": 74099,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74099,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

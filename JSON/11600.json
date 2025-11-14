@@ -1,0 +1,52 @@
+{
+    "activityid": 11600,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Replicating the Mechanism of Carbonic Anhydrase",
+        "Conference / Meeting Name": "3rd Annual Summer Undergraduate Research Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2013-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Boise State REU",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100123",
+    "coauthors": {
+        "55040": {
+            "firstname": "Eric",
+            "middleinitial": "Christopher",
+            "lastname": "Brown",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100123",
+            "authorid": 55040,
+            "scholarlyactivityid": 11600
+        },
+        "55041": {
+            "firstname": "C.",
+            "middleinitial": "",
+            "lastname": "Heishman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 55041,
+            "scholarlyactivityid": 11600
+        }
+    },
+    "status": [
+        {
+            "id": 11600,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100123",
+    "attachments": []
+}

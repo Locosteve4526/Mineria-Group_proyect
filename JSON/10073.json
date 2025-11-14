@@ -1,0 +1,52 @@
+{
+    "activityid": 10073,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Write Class: Course Matching, not Placement",
+        "Conference/Meeting Name": "Conference on Basic Writing Full-day Workshop at CCCC",
+        "Conference Location": "Tampa, FL",
+        "Date or Date Range": "2015-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Conference on Basic Writing",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113118110",
+    "coauthors": {
+        "52027": {
+            "firstname": "Heidi",
+            "middleinitial": "Klareen",
+            "lastname": "Estrem",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112096853",
+            "authorid": 52027,
+            "scholarlyactivityid": 10073
+        },
+        "52028": {
+            "firstname": "Dawn",
+            "middleinitial": "Renee",
+            "lastname": "Shepherd",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113118110",
+            "authorid": 52028,
+            "scholarlyactivityid": 10073
+        }
+    },
+    "status": [
+        {
+            "id": 10073,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113118110",
+    "attachments": []
+}

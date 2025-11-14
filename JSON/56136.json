@@ -1,0 +1,97 @@
+{
+    "activityid": 56136,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "A Heuristic Approach to Solving Stackelberg Game to Mitigate Misinformation for Large Real World Networks",
+        "Conference / Meeting Name": "Idaho Conference on Undergraduate Research",
+        "Conference Location": "Boise, Idaho",
+        "Date or Date Range": "July 22, 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "https://scholarworks.boisestate.edu/icur/2021/poster_session/70/",
+        "Description/Abstract": "With the rise in popularity of social media, misinformation has become an increasingly serious problem. In this project, a potentially scalable strategy to reduce the spread of misinformation is pursued: determine sets of nodes in a large network that, when blocked, would minimize the spread of fake news.\nThe foundation of our approach are Stackelberg Games. The specific Stackelberg Game for this project is as follows: the defender first chooses a number of nodes to block, after which the attacker chooses a number of nodes to attack that will maximize the spread. The defender does so by greedily choosing nodes, whereas the attacker tries to maximize their influence using Greedy and CELF algorithms.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "278949": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 278949,
+            "scholarlyactivityid": 56136,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278950": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048777",
+            "authorid": 278950,
+            "scholarlyactivityid": 56136,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278951": {
+            "firstname": "Katelihn",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278951,
+            "scholarlyactivityid": 56136,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "278952": {
+            "firstname": "Sahana",
+            "middleinitial": "",
+            "lastname": "Kargi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278952,
+            "scholarlyactivityid": 56136,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "278953": {
+            "firstname": "Vayam",
+            "middleinitial": "",
+            "lastname": "Agarwal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278953,
+            "scholarlyactivityid": 56136,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 56136,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 37348,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Function Equivalence Veri\fcation of Sequential and MPI Versions of the Eikonal Algorithm",
+        "Name of Conference": "Idaho Conference on Undergraduate Research",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113164447",
+    "coauthors": {
+        "154834": {
+            "firstname": "Jos\u0013e",
+            "middleinitial": "J.",
+            "lastname": "Pena-P\u0013erez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 154834,
+            "scholarlyactivityid": 37348,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "154835": {
+            "firstname": "Elena",
+            "middleinitial": "A.",
+            "lastname": "Sherman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113164447",
+            "authorid": 154835,
+            "scholarlyactivityid": 37348,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37348,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113164447",
+    "attachments": []
+}

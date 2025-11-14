@@ -1,0 +1,84 @@
+{
+    "activityid": 5333,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Learning from Degree-Seeking Older Adult Students in a University Library",
+        "Journal": "Reference Services Review",
+        "Volume": "43",
+        "Month / Season": "2014-09-24",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "215-230",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "88245": {
+            "firstname": "Marilia",
+            "middleinitial": "",
+            "lastname": "Antunez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113120465",
+            "authorid": 88245,
+            "scholarlyactivityid": 5333,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "88246": {
+            "firstname": "Mary",
+            "middleinitial": "",
+            "lastname": "Aagard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113139439",
+            "authorid": 88246,
+            "scholarlyactivityid": 5333,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "88247": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 88247,
+            "scholarlyactivityid": 5333,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 5333,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 5333,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

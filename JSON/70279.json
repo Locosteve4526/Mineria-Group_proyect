@@ -1,0 +1,75 @@
+{
+    "activityid": 70279,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Spectral stability and perturbation results for kernel differentiation matrices on the sphere",
+        "Journal": "Numerische Mathematik",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/2311.06982v2",
+        "Description/Abstract": "We investigate the spectrum of differentiation matrices for certain operators on the sphere that are generated from collocation at a set of scattered points $X$ with positive definite and conditionally positive definite kernels. We focus on the cases where these matrices are constructed from collocation using all the points in $X$ and from local subsets of points (or stencils) in $X$. The former case are called global methods (e.g., the Kansa or radial basis function (RBF) pseudospectral method), while the latter are referred to as local methods (e.g., the RBF finite difference (RBF-FD) method). Both techniques are used extensively for numerically solving certain partial differential equations on spheres, as well as other domains. For time-dependent PDEs like the diffusion equation, the spectrum of the differentiation matrices and their stability under perturbations are central to understanding the temporal stability of the underlying numerical schemes. In the global case, we present a perturbation estimate for differentiation matrices which discretize operators that commute with the Laplace-Beltrami operator. In doing so, we demonstrate that if such an operator has negative (non-positive) spectrum, then the differentiation matrix does, too. For conditionally positive definite kernels this is particularly challenging since the differentiation matrices are not necessarily diagonalizable. This perturbation theory is then used to obtain bounds on the spectra of the local RBF-FD differentiation matrices based on the conditionally positive definite surface spline kernels. Numerical results are presented to confirm the theoretical estimates. [Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "342140": {
+            "firstname": "Thomas",
+            "middleinitial": "",
+            "lastname": "Hangelbroek",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342140,
+            "scholarlyactivityid": 70279
+        },
+        "342141": {
+            "firstname": "Christian",
+            "middleinitial": "",
+            "lastname": "Rieger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342141,
+            "scholarlyactivityid": 70279
+        },
+        "342142": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342142,
+            "scholarlyactivityid": 70279
+        }
+    },
+    "status": [
+        {
+            "id": 70279,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 70279,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

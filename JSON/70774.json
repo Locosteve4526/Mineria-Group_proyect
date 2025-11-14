@@ -1,0 +1,56 @@
+{
+    "activityid": 70774,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Robust Node Representation Learning via Graph Variational Diffusion\n  Networks",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/2312.10903v1",
+        "Description/Abstract": "Node representation learning by using Graph Neural Networks (GNNs) has been\nwidely explored. However, in recent years, compelling evidence has revealed\nthat GNN-based node representation learning can be substantially deteriorated\nby delicately-crafted perturbations in a graph structure. To learn robust node\nrepresentation in the presence of perturbations, various works have been\nproposed to safeguard GNNs. Within these existing works, Bayesian label\ntransition has been proven to be more effective, but this method is extensively\nreliant on a well-built prior distribution. The variational inference could\naddress this limitation by sampling the latent node embedding from a Gaussian\nprior distribution. Besides, leveraging the Gaussian distribution (noise) in\nhidden layers is an appealing strategy to strengthen the robustness of GNNs.\nHowever, our experiments indicate that such a strategy can cause over-smoothing\nissues during node aggregation. In this work, we propose the Graph Variational\nDiffusion Network (GVDN), a new node encoder that effectively manipulates\nGaussian noise to safeguard robustness on perturbed graphs while alleviating\nover-smoothing issues through two mechanisms: Gaussian diffusion and node\nembedding propagation. Thanks to these two mechanisms, our model can generate\nrobust node embeddings for recovery. Specifically, we design a retraining\nmechanism using the generated node embedding to recover the performance of node\nclassifications in the presence of perturbations. The experiments verify the\neffectiveness of our proposed model across six public datasets.\n[Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "114254397",
+    "coauthors": {
+        "320786": {
+            "firstname": "Jun",
+            "middleinitial": "",
+            "lastname": "Zhuang",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320786,
+            "scholarlyactivityid": 70774
+        },
+        "320787": {
+            "firstname": "Mohammad",
+            "middleinitial": "A",
+            "lastname": "Hasan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320787,
+            "scholarlyactivityid": 70774
+        }
+    },
+    "status": [
+        {
+            "id": 70774,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254397",
+    "attachments": []
+}

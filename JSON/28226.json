@@ -1,0 +1,85 @@
+{
+    "activityid": 28226,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Advances in automated deception detection in text-based computer-mediated communication",
+        "Name of Conference": "SPIE Defense and Security Symposium",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1117/12.548450",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=844197",
+        "Description/Abstract": "The Internet has provided criminals, terrorists, spies, and other threats to national security a means of communication. At the same time it also provides for the possibility of detecting and tracking their deceptive communication. Recent advances in natural language processing, machine learning and deception research have created an environment where automated and semi-automated deception detection of text-based computer-mediated communication (CMC, e.g. email, chat, instant messaging) is a reachable goal. This paper reviews two methods for discriminating between deceptive and non-deceptive messages in CMC. First, Document Feature Mining uses document features or cues in CMC messages combined with machine learning techniques to classify messages according to their deceptive potential. The method, which is most useful in asynchronous applications, also allows for the visualization of potential deception cues in CMC messages. Second, Speech Act Profiling, a method for quantifying and visualizing synchronous CMC, has shown promise in aiding deception detection. The methods may be combined and are intended to be a part of a suite of tools for automating deception detection.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "234953": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Adkins",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 234953,
+            "scholarlyactivityid": 28226
+        },
+        "234954": {
+            "firstname": "Douglas P.",
+            "middleinitial": "",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 234954,
+            "scholarlyactivityid": 28226
+        },
+        "234955": {
+            "firstname": "Judee K.",
+            "middleinitial": "",
+            "lastname": "Burgoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 234955,
+            "scholarlyactivityid": 28226
+        },
+        "234956": {
+            "firstname": "Jay F.",
+            "middleinitial": "",
+            "lastname": "Nunamaker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 234956,
+            "scholarlyactivityid": 28226
+        }
+    },
+    "status": [
+        {
+            "id": 28226,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2004,
+            "termid": "2003/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114065605",
+    "attachments": [
+        {
+            "attachmentid": 6548,
+            "mimetype": "application/pdf",
+            "filename": "Adkins, Twitchell - Advances.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitaVGZYOXJkVGI1WmJYZUE2ZzU2WlNWNEE3R25UeHg2QnhyQVpxbWdtYlRJaG1aNjhJcDBTeW5qYlMxRGZsb3pHTWpZeHo4dGVqaXJ3PT0%3D",
+            "filesize": 164035
+        }
+    ]
+}

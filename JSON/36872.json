@@ -1,0 +1,66 @@
+{
+    "activityid": 36872,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Teaching transfer functions with MATLAB and real-time DSP",
+        "Journal": "age",
+        "Volume": "6",
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "1",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "112139424",
+    "coauthors": {
+        "152825": {
+            "firstname": "Cameron",
+            "middleinitial": "HG",
+            "lastname": "Wright",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152825,
+            "scholarlyactivityid": 36872
+        },
+        "152826": {
+            "firstname": "Thad",
+            "middleinitial": "B",
+            "lastname": "Welch",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152826,
+            "scholarlyactivityid": 36872
+        },
+        "152827": {
+            "firstname": "Michael",
+            "middleinitial": "G",
+            "lastname": "Morrow",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 152827,
+            "scholarlyactivityid": 36872
+        }
+    },
+    "status": [
+        {
+            "id": 36872,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2001,
+            "termid": "2001/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139424",
+    "attachments": []
+}

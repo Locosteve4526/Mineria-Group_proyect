@@ -1,0 +1,45 @@
+{
+    "activityid": 27481,
+    "fields": {
+        "Type": "Book",
+        "Title": "Biosociology: An Emerging Paradigm",
+        "Actual/Projected Year of Publication/Presentation": 1995,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Praeger",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Praeger",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/244",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "87070": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 87070,
+            "scholarlyactivityid": 27481
+        }
+    },
+    "status": [
+        {
+            "id": 27481,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1995,
+            "termid": "1994/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

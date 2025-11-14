@@ -1,0 +1,149 @@
+{
+    "activityid": 72828,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "ProtSCAPE: Mapping the landscape of protein conformation in molecular dynamics",
+        "Name of Conference": "Neural Information Processing Systems (NeurIPS)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;Understanding the dynamic nature of protein structures is essential for comprehending their biological functions. While significant progress has been made in predicting static folded structures, the motions of proteins on microsecond- to millisecond-scales remain challenging to model accurately. To address these challenges, we introduce a novel deep learning architecture, Protein Transformer with Scattering, Attention and Positional Embedding (ProtSCAPE), which is based on the geometric scattering transform together with transformer-based attention mechanisms designed to capture and interpolate protein dynamics from molecular dynamics (MD) simulations. ProtSCAPE utilizes the multi-scale nature of the geometric scattering transform to extract features from protein structures conceptualized as graphs. It then integrates these features with dual attention structures, which focus on the residues and amino acid signals respectively, to generate latent representations of protein trajectories. Furthermore, ProtSCAPE incorporates a regression head to generate a structured, temporally coherent latent space, facilitating the accurate interpolation of protein conformations. We demonstrate results on the interpolation of 5 protein trajectories. Results show that our methodology surpasses traditional approaches by providing more precise and interpretable upsampling of dynamics.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114253049",
+    "coauthors": {
+        "328701": {
+            "firstname": "Siddharth",
+            "middleinitial": "",
+            "lastname": "Viswanath",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328701,
+            "scholarlyactivityid": 72828,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328702": {
+            "firstname": "Dhananjay",
+            "middleinitial": "",
+            "lastname": "Bhaskar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328702,
+            "scholarlyactivityid": 72828,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328703": {
+            "firstname": "Dave",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328703,
+            "scholarlyactivityid": 72828,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328704": {
+            "firstname": "Egbert",
+            "middleinitial": "",
+            "lastname": "Castro",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328704,
+            "scholarlyactivityid": 72828,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328705": {
+            "firstname": "Jackson",
+            "middleinitial": "",
+            "lastname": "Grady",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328705,
+            "scholarlyactivityid": 72828,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328706": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Perlmutter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114253049",
+            "authorid": 328706,
+            "scholarlyactivityid": 72828,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328707": {
+            "firstname": "Corey",
+            "middleinitial": "",
+            "lastname": "Ohern",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328707,
+            "scholarlyactivityid": 72828,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328708": {
+            "firstname": "Smita",
+            "middleinitial": "",
+            "lastname": "Krishnaswamy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328708,
+            "scholarlyactivityid": 72828,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 72828,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114253049",
+    "attachments": [
+        {
+            "attachmentid": 55869,
+            "mimetype": "application/pdf",
+            "filename": "19234_protscape_mapping_the_landscap (2).pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWhWcTBXY1RCaTQrbkFnMm5NUHp1Z1p6NVpBZjhsbGhOY1hsc0hrdDdaenZqeDhJTUpJZmZJbkk4QlhZNCtyYm9PeGRwbjhmU3dMSXlLZWgxbkRxb3RMaEhuV3FCbFE1L2ZMRk4rWGplVzJvPQ%3D%3D",
+            "filesize": 3019058
+        }
+    ]
+}

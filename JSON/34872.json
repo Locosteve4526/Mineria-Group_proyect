@@ -1,0 +1,76 @@
+{
+    "activityid": 34872,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cA Mask-based enhancement method for historical documents\u201d",
+        "Name of Conference": "Proc. SPIE Electronic Imaging - Document Recognition and Retrieval XVIII",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "787414-1",
+        "Publisher": "SPIE",
+        "Publisher Location": "San Francisco, CA",
+        "Volume": "7874",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper proposes a novel method for document enhancement. The method is based on the combination of\r\ntwo state-of-the-art filters through the construction of a mask. The mask is applied to a TV (Total Variation) -\r\nregularized image where background noise has been reduced. The masked image is then filtered by NLmeans (Non\r\nLocalMeans) which reduces the noise in the text areas located by the mask. The document images to be enhanced\r\nare real historical documents from several periods which include several defects in their background. These defects\r\nresult from scanning, paper aging and bleed-through. We observe the improvement of this enhancement method\r\nthrough OCR accuracy.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142280": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142280,
+            "scholarlyactivityid": 34872,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142281": {
+            "firstname": "Jerome",
+            "middleinitial": "",
+            "lastname": "Darbone",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142281,
+            "scholarlyactivityid": 34872,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "142282": {
+            "firstname": "Laurence",
+            "middleinitial": "",
+            "lastname": "Likforman-Sulem",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142282,
+            "scholarlyactivityid": 34872,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34872,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

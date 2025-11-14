@@ -1,0 +1,52 @@
+{
+    "activityid": 20202,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Academic Job Market:  Tips for Interviews and Campus Visits",
+        "Conference/Meeting Name": "Ph.D. Seminar/Workshop",
+        "Conference Location": "Grenoble, France",
+        "Date or Date Range": "2015-06-30",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Grenoble Ecole de Management",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111701046",
+    "coauthors": {
+        "112118": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 112118,
+            "scholarlyactivityid": 20202
+        },
+        "112119": {
+            "firstname": "Trina",
+            "middleinitial": "",
+            "lastname": "Sego",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111701046",
+            "authorid": 112119,
+            "scholarlyactivityid": 20202
+        }
+    },
+    "status": [
+        {
+            "id": 20202,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701046",
+    "attachments": []
+}

@@ -1,0 +1,97 @@
+{
+    "activityid": 31727,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "A Survey for Very Short-Period Planets in the Kepler Data",
+        "Conference/Meeting Name": "American Astronomical Society Meeting Abstracts #223",
+        "Conference Location": "",
+        "Date or Date Range": "Jan",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2014AAS...22313202J",
+        "Description/Abstract": "We conducted a search for very short-period transiting objects in the publicly available Kepler dataset, and our preliminary survey has revealed four planetary candidates, all with periods less than twelve hours. We have analyzed the data for these candidates using photometric models that include transit light curves, ellipsoidal variations, and secondary eclipses to constrain the candidates' radii, masses, and effective temperatures. Even with masses of only a few Earth masses, the candidates' short periods mean they may induce stellar radial velocity signals (a few m/s) detectable by currently operating facilities. The origins of such short-period planets are unclear, but we discuss the possibility that they may be the remnants of disrupted hot Jupiters. Whatever their origins, if confirmed as planets, these candidates would be among the shortest-period planets discovered so far, and such planets would be particularly amenable to discovery by the planned TESS mission. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "120130": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120130,
+            "scholarlyactivityid": 31727,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120131": {
+            "firstname": "C.",
+            "middleinitial": "C.",
+            "lastname": "Stark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120131,
+            "scholarlyactivityid": 31727,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "120132": {
+            "firstname": "E.",
+            "middleinitial": "R.",
+            "lastname": "Adams",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120132,
+            "scholarlyactivityid": 31727,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "120133": {
+            "firstname": "J.",
+            "middleinitial": "E.",
+            "lastname": "Chambers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120133,
+            "scholarlyactivityid": 31727,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "120134": {
+            "firstname": "D.",
+            "middleinitial": "",
+            "lastname": "Deming",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120134,
+            "scholarlyactivityid": 31727,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31727,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 2149,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Analysis of a Block Red-Black Preconditioner Applied to the Hermite Collocation Discretization of a Model Parabolic Equation",
+        "Journal": "Numerical Methods for Partial Differential Equations",
+        "Volume": "4",
+        "Month / Season": "2001-11-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "141-155",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1002/num.1028",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/85",
+        "Description/Abstract": "We are concerned with the numerical solution of a model parabolic partial differential equation (PDE) in two spatial dimensions, discretized by Hermite collocation. In order to efficiently solve the resulting systems of linear algebraic equations, we choose the Bi-CGSTAB method of van der Vorst (1992) with block Red-Black Gauss-Seidel (RBGS) preconditioner. In this article, we give analytic formulae for the eigenvalues that control the rate at which Bi-CGSTAB/RBGS converges. These formulae, which depend on the location of the collocation points, can be utilized to determine where the collocation points should be placed in order to make the Bi-CGSTAB/RBGS method converge as quickly as possible. Along these lines, we discuss issues of choice of time-step size in the context of rapid convergence. A complete stability analysis is also included.",
+        "Origin": "Other"
+    },
+    "facultyid": "111358874",
+    "coauthors": {
+        "5605": {
+            "firstname": "Stephen",
+            "middleinitial": "H",
+            "lastname": "Brill",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358874",
+            "authorid": 5605,
+            "scholarlyactivityid": 2149
+        },
+        "5606": {
+            "firstname": "George",
+            "middleinitial": "F.",
+            "lastname": "Pinder",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5606,
+            "scholarlyactivityid": 2149
+        }
+    },
+    "status": [
+        {
+            "id": 2149,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2001,
+            "termid": "2001/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358874",
+    "attachments": []
+}

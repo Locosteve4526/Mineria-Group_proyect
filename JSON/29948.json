@@ -1,0 +1,71 @@
+{
+    "activityid": 29948,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "An XML World Wide Web Search Engine Using Finite Automata",
+        "Name of Conference": "The 6th World Multi-Conference on Systemics, Cybernetics and Informatics",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "106907": {
+            "firstname": "Wen-chen",
+            "middleinitial": "",
+            "lastname": "Hu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106907,
+            "scholarlyactivityid": 29948,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "106908": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 106908,
+            "scholarlyactivityid": 29948,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29948,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2002,
+            "termid": "2002/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 1421,
+            "mimetype": "application/pdf",
+            "filename": "sci02wenchen.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25xY1hDRERkbzQyTlFHMFFXT2Y3eDluME9TZ1RaMGt3bkc0d2JBWTJoR004NklFdUpMWXM5VlU%3D",
+            "filesize": 340015
+        }
+    ]
+}

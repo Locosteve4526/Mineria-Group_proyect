@@ -1,0 +1,76 @@
+{
+    "activityid": 62865,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using a Multifaceted Robotics-Based Intervention to Increase Student Interest in STEM Subjects and Careers",
+        "Journal": "Journal for STEM Education Research",
+        "Volume": "3",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "295-316",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1007/s41979-020-00032-0",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083497",
+    "coauthors": {
+        "289400": {
+            "firstname": "Mary-Alice",
+            "middleinitial": "",
+            "lastname": "Hudson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 289400,
+            "scholarlyactivityid": 62865
+        },
+        "289399": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 289399,
+            "scholarlyactivityid": 62865
+        },
+        "289398": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 289398,
+            "scholarlyactivityid": 62865
+        },
+        "289397": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 289397,
+            "scholarlyactivityid": 62865
+        }
+    },
+    "status": [
+        {
+            "id": 62865,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083497",
+    "attachments": []
+}

@@ -1,0 +1,42 @@
+{
+    "activityid": 45044,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Scholarly writing workshop: Part 1",
+        "Conference/Meeting Name": "Writing Workshop",
+        "Conference Location": "Hangzhou Normal University",
+        "Date or Date Range": "April 24, 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "Hangzhou Normal University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "205073": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 205073,
+            "scholarlyactivityid": 45044
+        }
+    },
+    "status": [
+        {
+            "id": 45044,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

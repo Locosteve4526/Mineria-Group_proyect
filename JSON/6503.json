@@ -1,0 +1,76 @@
+{
+    "activityid": 6503,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Study of Different Modeling Choices for Simulating Platelets Within the Immersed Boundary Method",
+        "Journal": "Applied Numerical Mathematics",
+        "Volume": "63",
+        "Month / Season": "2013-01-01",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "58-77",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.apnum.2012.09.006",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/105",
+        "Description/Abstract": "The Immersed Boundary (IB) method is a widely-used numerical methodology for the simulation of fluid\u2013structure interaction problems. The IB method utilizes an Eulerian discretization for the fluid equations of motion while maintaining a Lagrangian representation of structural objects. Operators are defined for transmitting information (forces and velocities) between these two representations. Most IB simulations represent their structures with piecewise linear approximations and utilize Hookean spring models to approximate structural forces. Our specific motivation is the modeling of platelets in hemodynamic flows. In this paper, we study two alternative representations \u2013 radial basis functions (RBFs) and Fourier-based (trigonometric polynomials and spherical harmonics) representations \u2013 for the modeling of platelets in two and three dimensions within the IB framework, and compare our results with the traditional piecewise linear approximation methodology. For different representative shapes, we examine the geometric modeling errors (position and normal vectors), force computation errors, and computational cost and provide an engineering trade-off strategy for when and why one might select to employ these different representations.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "20247": {
+            "firstname": "Varun",
+            "middleinitial": "",
+            "lastname": "Shankar",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20247,
+            "scholarlyactivityid": 6503
+        },
+        "20248": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 20248,
+            "scholarlyactivityid": 6503
+        },
+        "20249": {
+            "firstname": "Aaron",
+            "middleinitial": "L.",
+            "lastname": "Fogelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20249,
+            "scholarlyactivityid": 6503
+        },
+        "20250": {
+            "firstname": "Robert",
+            "middleinitial": "M.",
+            "lastname": "Kirby",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20250,
+            "scholarlyactivityid": 6503
+        }
+    },
+    "status": [
+        {
+            "id": 6503,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

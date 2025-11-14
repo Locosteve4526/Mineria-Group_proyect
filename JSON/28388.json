@@ -1,0 +1,68 @@
+{
+    "activityid": 28388,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Developing a Gravity Assessment",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Role:  Principal",
+        "Origin": "Manual"
+    },
+    "facultyid": "114000904",
+    "coauthors": {
+        "92629": {
+            "firstname": "Laurie",
+            "middleinitial": "O",
+            "lastname": "Cavey",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113017246",
+            "authorid": 92629,
+            "scholarlyactivityid": 28388
+        },
+        "92628": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 92628,
+            "scholarlyactivityid": 28388
+        }
+    },
+    "status": [
+        {
+            "id": 28388,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 28388,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114000904",
+    "attachments": []
+}

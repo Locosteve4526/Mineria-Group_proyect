@@ -1,0 +1,90 @@
+{
+    "activityid": 37207,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "On Types of Elliptic Pseudoprimes",
+        "Journal": "Groups-Complexity-Cryptology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://arxiv.org/pdf/1710.05264.pdf",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "250463": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 250463,
+            "scholarlyactivityid": 37207
+        },
+        "250464": {
+            "firstname": "Andre",
+            "middleinitial": "",
+            "lastname": "Hern\u00e1ndez-Espiet",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 250464,
+            "scholarlyactivityid": 37207,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "250465": {
+            "firstname": "Hyun Jong",
+            "middleinitial": "",
+            "lastname": "Kim",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 250465,
+            "scholarlyactivityid": 37207,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37207,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 37207,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 37207,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111716691",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 45584,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "Linearly enhanced circular magnetic field generator and pump",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Patent Nationality": "United States",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "207677": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Johnston",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207677,
+            "scholarlyactivityid": 45584
+        },
+        "207678": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 207678,
+            "scholarlyactivityid": 45584
+        }
+    },
+    "status": [
+        {
+            "id": 45584,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 45584,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

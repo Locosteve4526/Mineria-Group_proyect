@@ -1,0 +1,80 @@
+{
+    "activityid": 28721,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Farming Adaptations in the Face of Climate Change",
+        "Journal": "Renewable Agriculture and Food Systems",
+        "Volume": "33",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "206-211",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001406",
+    "coauthors": {
+        "218468": {
+            "firstname": "Rebecca",
+            "middleinitial": "L.",
+            "lastname": "Som Castellano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001406",
+            "authorid": 218468,
+            "scholarlyactivityid": 28721,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "218469": {
+            "firstname": "Jillian",
+            "middleinitial": "",
+            "lastname": "Moroney",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218469,
+            "scholarlyactivityid": 28721,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28721,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 28721,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 28721,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114001406",
+    "attachments": []
+}

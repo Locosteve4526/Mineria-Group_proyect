@@ -1,0 +1,61 @@
+{
+    "activityid": 9720,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Content Area Curriculum-Based Measurement Using Academic Vocabulary ",
+        "Conference/Meeting Name": "National Association of School Psychologists Annual Convention",
+        "Conference Location": "New Orleans, LA",
+        "Date or Date Range": "2015-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "National Association of School Psychologists",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114046499",
+    "coauthors": {
+        "93768": {
+            "firstname": "John",
+            "middleinitial": "L.",
+            "lastname": "Hosp",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 93768,
+            "scholarlyactivityid": 9720
+        },
+        "93769": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Ford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046499",
+            "authorid": 93769,
+            "scholarlyactivityid": 9720
+        }
+    },
+    "status": [
+        {
+            "id": 9720,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9720,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114046499",
+    "attachments": []
+}

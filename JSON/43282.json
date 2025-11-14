@@ -1,0 +1,45 @@
+{
+    "activityid": 43282,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Fool and the Bee Act 1",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "Song Cave",
+        "Publisher Location": "New York",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Long poem published as chapbook.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "193494": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 193494,
+            "scholarlyactivityid": 43282
+        }
+    },
+    "status": [
+        {
+            "id": 43282,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

@@ -1,0 +1,93 @@
+{
+    "activityid": 63933,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A diverse community of bacteriophage may contribute to insect prey degradation in pitcher plants&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Journal": "Molecular Ecology",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135308",
+    "coauthors": {
+        "294748": {
+            "firstname": "Erica",
+            "middleinitial": "",
+            "lastname": "Holdridge",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294748,
+            "scholarlyactivityid": 63933,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        },
+        "294749": {
+            "firstname": "Marcus",
+            "middleinitial": "",
+            "lastname": "Emmen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294749,
+            "scholarlyactivityid": 63933,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "294750": {
+            "firstname": "Leonora",
+            "middleinitial": "S",
+            "lastname": "Bittleston",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135308",
+            "authorid": 294750,
+            "scholarlyactivityid": 63933,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63933,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 63933,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 63933,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114135308",
+    "attachments": []
+}

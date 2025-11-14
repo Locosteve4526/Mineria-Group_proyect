@@ -1,0 +1,90 @@
+{
+    "activityid": 10094,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Assortative mating as a mechanism for advancing nesting phenology in American kestrels (Falco sparverius).",
+        "Conference/Meeting Name": "Annual meeting",
+        "Conference Location": "Boise",
+        "Date or Date Range": "2014-01-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Idaho Chapter of the Wildlife Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "52071": {
+            "firstname": "Alexandra",
+            "middleinitial": "M",
+            "lastname": "Anderson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52071,
+            "scholarlyactivityid": 10094
+        },
+        "52072": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 52072,
+            "scholarlyactivityid": 10094
+        },
+        "52073": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 52073,
+            "scholarlyactivityid": 10094
+        },
+        "52074": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 52074,
+            "scholarlyactivityid": 10094
+        }
+    },
+    "status": [
+        {
+            "id": 10094,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10094,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 10094,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

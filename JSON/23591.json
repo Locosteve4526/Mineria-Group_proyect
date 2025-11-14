@@ -1,0 +1,45 @@
+{
+    "activityid": 23591,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Curious Writer 4e",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Edition": "4th edition",
+        "Volume": "",
+        "Publisher": "Pearson",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "\nPage Number:  300",
+        "Origin": "Other"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "78716": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 78716,
+            "scholarlyactivityid": 23591
+        }
+    },
+    "status": [
+        {
+            "id": 23591,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

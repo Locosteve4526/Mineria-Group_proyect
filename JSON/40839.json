@@ -1,0 +1,76 @@
+{
+    "activityid": 40839,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Inferring Bad Entities Through the Panama Papers Network (Best Paper Award)",
+        "Name of Conference": "IEEE/ACM 2018 International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2018, Barcelona, Spain, August 28-31, 2018",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114048778",
+    "coauthors": {
+        "216457": {
+            "firstname": "Mikel",
+            "middleinitial": "",
+            "lastname": "Joaristi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216457,
+            "scholarlyactivityid": 40839,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "216458": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216458,
+            "scholarlyactivityid": 40839,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "216459": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216459,
+            "scholarlyactivityid": 40839,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40839,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048778",
+    "attachments": []
+}

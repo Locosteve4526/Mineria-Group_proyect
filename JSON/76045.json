@@ -1,0 +1,86 @@
+{
+    "activityid": 76045,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Statistical Shape Modeling to Determine Poromechanics of the Human Knee Joint",
+        "Journal": "Annals of biomedical engineering",
+        "Volume": "",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": "10.1007/s10439-024-03648-0",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Subject-specific knee joint models are widely used to predict joint contact mechanics for individuals but may not capture the variance in knee joint geometry across a population. Statistical shape modeling uses the dataset of a cohort to encapsulate population-wide variability. The present study aimed to develop a shape modeling procedure for poromechanical finite element models of knee joint to account for population diversity in the creep response of knees. Shape models of right knee joints were created from MRI of 31 healthy male subjects using principal component analysis. Creep analysis was performed for 13 shape models in total, i.e., the average model, plus six models for both the first and second principal modes. For a given loading, the contact and fluid pressures varied substantially within these mathematically produced models but compared reasonably well to that of three subject-specific models that were constructed from individual knees, representing approximately the smallest, median and largest knees of the 31 right knees. While the joint size variation, generally represented by the first principal component, predominantly influenced the magnitudes of contact and fluid pressures, the joint shape variation characterized by the second principal component further affected the pressure distribution, and load sharing between the lateral and medial compartments. The present study evaluated a workflow for the statistical shape modeling of poromechanical behavior of knee joints with sample results based on a small population. However, the workflow can be readily used for a large population to address the challenge of interpatient variability in joint contact mechanics, particularly in contact and fluid pressures in articular cartilage, and variable creep behaviors of the joint associated with individual anatomical variations.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "337890": {
+            "firstname": "Ruoqi",
+            "middleinitial": "",
+            "lastname": "Deng",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337890,
+            "scholarlyactivityid": 76045
+        },
+        "337891": {
+            "firstname": "Olivia ",
+            "middleinitial": "L",
+            "lastname": "Bruce",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337891,
+            "scholarlyactivityid": 76045
+        },
+        "337892": {
+            "firstname": "Kalin ",
+            "middleinitial": "D",
+            "lastname": "Gibbons",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337892,
+            "scholarlyactivityid": 76045
+        },
+        "337893": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337893,
+            "scholarlyactivityid": 76045
+        },
+        "337894": {
+            "firstname": "LePing",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337894,
+            "scholarlyactivityid": 76045
+        }
+    },
+    "status": [
+        {
+            "id": 76045,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

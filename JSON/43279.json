@@ -1,0 +1,54 @@
+{
+    "activityid": 43279,
+    "fields": {
+        "Type": "Book",
+        "Title": "Odious Horizons",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "Miami University Press",
+        "Publisher Location": "Oxford, Ohio, USA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Translations of three books of Horace's Odes",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "193488": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 193488,
+            "scholarlyactivityid": 43279
+        }
+    },
+    "status": [
+        {
+            "id": 43279,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 43279,
+            "status": "In Press",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

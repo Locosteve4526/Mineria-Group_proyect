@@ -1,0 +1,95 @@
+{
+    "activityid": 54746,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using convolutional neural networks to recognize learning images for early warning of at-risk students",
+        "Journal": "IEEE Transactions on Learning Technologies (TLT)",
+        "Volume": "13",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "617-630",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "257371": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 257371,
+            "scholarlyactivityid": 54746
+        },
+        "257370": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 257370,
+            "scholarlyactivityid": 54746
+        },
+        "257369": {
+            "firstname": "Juan",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257369,
+            "scholarlyactivityid": 54746
+        },
+        "257368": {
+            "firstname": "D",
+            "middleinitial": "",
+            "lastname": "Xu",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257368,
+            "scholarlyactivityid": 54746
+        },
+        "257367": {
+            "firstname": "Z",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257367,
+            "scholarlyactivityid": 54746
+        }
+    },
+    "status": [
+        {
+            "id": 54746,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54746,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

@@ -1,0 +1,55 @@
+{
+    "activityid": 27602,
+    "fields": {
+        "Type": "Book",
+        "Title": "Getting it Right: Fresh Approaches to Teaching Grammar, Usage, and Correctness",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Scholastic",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Scholastic",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/208",
+        "Description/Abstract": "Describes the principals and methods of teaching English language grammar and usage.",
+        "Origin": "Other"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "87274": {
+            "firstname": "Michael",
+            "middleinitial": "W.",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87274,
+            "scholarlyactivityid": 27602
+        },
+        "87275": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 87275,
+            "scholarlyactivityid": 27602
+        }
+    },
+    "status": [
+        {
+            "id": 27602,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

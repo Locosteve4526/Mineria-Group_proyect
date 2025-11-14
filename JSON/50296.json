@@ -1,0 +1,93 @@
+{
+    "activityid": 50296,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Information Transfer of Bankruptcy Announcements: Examining the Impact of Auditor Opinions",
+        "Conference/Meeting Name": "AAA Annual Meeting",
+        "Conference Location": "Washington, DC",
+        "Date or Date Range": "August 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "American Accounting Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126866",
+    "coauthors": {
+        "257434": {
+            "firstname": "Rosemond",
+            "middleinitial": "",
+            "lastname": "Desir",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257434,
+            "scholarlyactivityid": 50296,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257435": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Casterella",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257435,
+            "scholarlyactivityid": 50296,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257436": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Stallings",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126866",
+            "authorid": 257436,
+            "scholarlyactivityid": 50296,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "257437": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Wainberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257437,
+            "scholarlyactivityid": 50296,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 50296,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 50296,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114126866",
+    "attachments": []
+}

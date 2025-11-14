@@ -1,0 +1,24 @@
+{
+    "activityid": 41797,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Privacy Disclosures Detection in Natural-Language Text Through Linguistically-motivated Artificial Neural Networks",
+        "Name of Conference": "SPNCE 2019 - 2nd EAI International Conference on Security and Privacy in New Computing Environments ",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "26",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://link.springer.com/chapter/10.1007/978-3-030-21373-2_14",
+        "Description/Abstract": "An increasing number of people are sharing information through text messages, emails, and social media without proper privacy checks. In many situations, this could lead to serious privacy threats. This paper presents a methodology for providing extra safety precautions without being intrusive to users. We have developed and evaluated a model to help users take control of their shared information by automatically identifying text (i.e., a sentence or a transcribed utterance) that might contain personal or private disclosures. We apply off-the-shelf natural language processing tools to derive linguistic features such as part-of-speech, syntactic dependencies, and entity relations. From these features, we model and train a multichannel convolutional neural network as a classifier to identify short texts that have personal, private disclosures. We show how our model can notify users if a piece of text discloses personal or private information, and evaluate our approach in a binary classification task with 93\\% accuracy on our own labeled dataset, and 86\\% on a dataset of ground truth. Unlike document classification tasks in the area of natural language processing, our framework is developed keeping the sentence level context into consideration.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114068806",
+    "userid": "114068806",
+    "attachments": []
+}

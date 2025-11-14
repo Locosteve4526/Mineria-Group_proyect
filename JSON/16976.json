@@ -1,0 +1,52 @@
+{
+    "activityid": 16976,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "RACs:  Demonstrating the need for Medicare claims compliance",
+        "Conference / Meeting Name": "IdHIMA Annual Convention",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2010-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "Idaho Health Information Management Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "67059": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Henderson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 67059,
+            "scholarlyactivityid": 16976
+        },
+        "67060": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 67060,
+            "scholarlyactivityid": 16976
+        }
+    },
+    "status": [
+        {
+            "id": 16976,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

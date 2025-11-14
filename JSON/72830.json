@@ -1,0 +1,162 @@
+{
+    "activityid": 72830,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Learning graph geometry and topology using dynamical systems based message-passing",
+        "Name of Conference": "Neural Information Processing Systems (NeurIPS)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;In this paper we introduce DYMAG: a message passing paradigm for GNNs built on the expressive power of continuous, multiscale graph-dynamics. Standard discrete-time message passing algorithms implicitly make use of simplistic graph dynamics and aggregation schemes which limit their ability to capture fundamental graph topological properties. By contrast, DYMAG makes use of complex graph dynamics based around the heat and wave equation as well as a more complex equation which admits chaotic solutions. The continuous nature of the dynamics are leveraged to generate multiscale (dynamic-time snapshot) representations which we prove are linked to various graph topological and spectral properties. We demonstrate experimentally that DYMAG achieves superior performance in recovering the generating parameters of Erd\u00f6s-Renyi and stochastic block model random graphs and the persistent homology of synthetic graphs and citation network. Since the behavior of proteins and biomolecules is sensitive to graph topology and exhibits important structure at multiple scales, we find that DYMAG outperforms other methods at predicting salient features of various biomolecules.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114253049",
+    "coauthors": {
+        "328692": {
+            "firstname": "Dhananjay",
+            "middleinitial": "",
+            "lastname": "Bhaskar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328692,
+            "scholarlyactivityid": 72830,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328693": {
+            "firstname": "Yanlei",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328693,
+            "scholarlyactivityid": 72830,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328694": {
+            "firstname": "Charles",
+            "middleinitial": "",
+            "lastname": "Xu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328694,
+            "scholarlyactivityid": 72830,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328695": {
+            "firstname": "Xingzhi",
+            "middleinitial": "",
+            "lastname": "Sun",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328695,
+            "scholarlyactivityid": 72830,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328696": {
+            "firstname": "Oluwadamilola",
+            "middleinitial": "",
+            "lastname": "Fasina",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328696,
+            "scholarlyactivityid": 72830,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328697": {
+            "firstname": "Guy",
+            "middleinitial": "",
+            "lastname": "Wolf",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328697,
+            "scholarlyactivityid": 72830,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328698": {
+            "firstname": "Maximilian",
+            "middleinitial": "",
+            "lastname": "Nickel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328698,
+            "scholarlyactivityid": 72830,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328699": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Perlmutter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114253049",
+            "authorid": 328699,
+            "scholarlyactivityid": 72830,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328700": {
+            "firstname": "Smita",
+            "middleinitial": "",
+            "lastname": "Krishnaswamy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328700,
+            "scholarlyactivityid": 72830,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 72830,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114253049",
+    "attachments": [
+        {
+            "attachmentid": 55871,
+            "mimetype": "application/pdf",
+            "filename": "20049_learning_graph_geometry_and_to (1).pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWhWcTBXY1RCaTQrbkFnMm5NUHp1Z1JUQ0NDME42UWxrVmFQaDZkWnVMdWVYRXMwY2g3Zi9GQUptaS9xVTZpNE9ubytqQTlhYlNXZjVRVEJiNWQ0NWZ2UUZydllHS21TT2ZMRk4rWGplVzJvPQ%3D%3D",
+            "filesize": 1493687
+        }
+    ]
+}

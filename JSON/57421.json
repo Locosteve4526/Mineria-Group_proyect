@@ -1,0 +1,85 @@
+{
+    "activityid": 57421,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Cyber-Physical Security Assessment and Resilience of a Microgrid Testbed",
+        "Name of Conference": "2021 Resilience Week (RWS)",
+        "Month / Season": "Oct.",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "Salt Lake City, UT, USA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1109/RWS52686.2021.9611806",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://ieeexplore.ieee.org/document/9611806",
+        "Description/Abstract": "In order to identify potential weakness in communication and data in transit, a microgrid testbed is being developed at Boise State University. This testbed will be used to verify microgrid models and communication methods in an effort to increase the resiliency of these systems to cyber-attacks. If vulnerabilities are found in these communication methods, then risk mitigation techniques will be developed to address them.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "265428": {
+            "firstname": "Said",
+            "middleinitial": "",
+            "lastname": "Ahmed-Zaid",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110301",
+            "authorid": 265428,
+            "scholarlyactivityid": 57421
+        },
+        "265427": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 265427,
+            "scholarlyactivityid": 57421
+        },
+        "265426": {
+            "firstname": "Valdepena-Delgado",
+            "middleinitial": "",
+            "lastname": "Andres",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 265426,
+            "scholarlyactivityid": 57421
+        },
+        "265425": {
+            "firstname": "Theron",
+            "middleinitial": "",
+            "lastname": "Beam",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 265425,
+            "scholarlyactivityid": 57421
+        }
+    },
+    "status": [
+        {
+            "id": 57421,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728000",
+    "attachments": [
+        {
+            "attachmentid": 34124,
+            "mimetype": "application/pdf",
+            "filename": "Beam2021.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXREL0VtbTNTY2dQTzBJNWRGenNIR0xRL0hMTmhaZHRTcmgvR2lTTXB3bEVxSWIrQXdyOVR0QT09",
+            "filesize": 366576
+        }
+    ]
+}

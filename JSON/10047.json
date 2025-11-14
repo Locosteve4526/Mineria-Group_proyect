@@ -1,0 +1,52 @@
+{
+    "activityid": 10047,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "eBooks, Mobile Devices, and the Student Experience",
+        "Conference/Meeting Name": "2013 Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2013-08-16",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Pacific Northwest Library Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112050330",
+    "coauthors": {
+        "51973": {
+            "firstname": "Barbara",
+            "middleinitial": "C",
+            "lastname": "Glackin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112013510",
+            "authorid": 51973,
+            "scholarlyactivityid": 10047
+        },
+        "51974": {
+            "firstname": "Roy",
+            "middleinitial": "W",
+            "lastname": "Rodenhiser",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112050330",
+            "authorid": 51974,
+            "scholarlyactivityid": 10047
+        }
+    },
+    "status": [
+        {
+            "id": 10047,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112050330",
+    "attachments": []
+}

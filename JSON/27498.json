@@ -1,0 +1,45 @@
+{
+    "activityid": 27498,
+    "fields": {
+        "Type": "Book",
+        "Title": "Statistics for the Social Sciences: With Computer Applications",
+        "Actual/Projected Year of Publication/Presentation": 1990,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Harper &amp; Row",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Harper &amp; Row",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/247",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "87094": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 87094,
+            "scholarlyactivityid": 27498
+        }
+    },
+    "status": [
+        {
+            "id": 27498,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1990,
+            "termid": "1989/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

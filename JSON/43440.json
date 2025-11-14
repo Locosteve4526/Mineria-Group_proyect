@@ -1,0 +1,71 @@
+{
+    "activityid": 43440,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "What the Research Says About Early STEM",
+        "Conference/Meeting Name": "Early Childhood STEM Summit",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "October",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "Idaho STEM Action Center",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111663911",
+    "coauthors": {
+        "194972": {
+            "firstname": "Yvette",
+            "middleinitial": "",
+            "lastname": "Mere-Cook",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114069667",
+            "authorid": 194972,
+            "scholarlyactivityid": 43440,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "194973": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 194973,
+            "scholarlyactivityid": 43440,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "194974": {
+            "firstname": "Deborah",
+            "middleinitial": "Russell",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111663911",
+            "authorid": 194974,
+            "scholarlyactivityid": 43440,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43440,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111663911",
+    "attachments": []
+}

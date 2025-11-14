@@ -1,0 +1,56 @@
+{
+    "activityid": 4297,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Beyond the Test: Writing to a Prompt as a Unit of Study",
+        "Journal": "Inland",
+        "Volume": "28",
+        "Month / Season": "2009-10-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "9-Jun",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/literacy_facpubs/24",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111728011",
+    "coauthors": {
+        "12848": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111728011",
+            "authorid": 12848,
+            "scholarlyactivityid": 4297
+        },
+        "12849": {
+            "firstname": "Margaret",
+            "middleinitial": "Elaine",
+            "lastname": "Chase",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111142773",
+            "authorid": 12849,
+            "scholarlyactivityid": 4297
+        }
+    },
+    "status": [
+        {
+            "id": 4297,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728011",
+    "attachments": []
+}

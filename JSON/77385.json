@@ -1,0 +1,45 @@
+{
+    "activityid": 77385,
+    "fields": {
+        "Type": "Book",
+        "Title": "Revolver",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "First",
+        "Volume": "",
+        "Publisher": "BCC Press",
+        "Publisher Location": "Salt Lake City, UT",
+        "ISBN": "9781948218009",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This is a collection of ten stories, all of which were published or accepted for publication in magazines of good reputaion.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111301723",
+    "coauthors": {
+        "345945": {
+            "firstname": "Heidi",
+            "middleinitial": "B",
+            "lastname": "Naylor",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111301723",
+            "authorid": 345945,
+            "scholarlyactivityid": 77385
+        }
+    },
+    "status": [
+        {
+            "id": 77385,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111301723",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 53024,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Phased nucleotide inserts for sequencing low-diversity RNA samples from in vitro selection experiments",
+        "Journal": "RNA (New York, N.Y.)",
+        "Volume": "26",
+        "Month / Season": null,
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "1060-1068",
+        "Publisher": null,
+        "DOI": "10.1261/rna.072413.119",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "In vitro selection combined with high-throughput sequencing is a powerful experimental approach with broad application in the engineering and characterization of RNA molecules. Diverse pools of starting sequences used for selection are often flanked by fixed sequences used as primer binding sites. These low diversity regions often lead to data loss from complications with Illumina image processing algorithms. A common method to alleviate this problem is the addition of fragmented bacteriophage PhiX genome, which improves sequence quality but sacrifices a portion of usable sequencing reads. An alternative approach is to insert nucleotides of variable length and composition (&quot;phased inserts&quot;) at the beginning of each molecule when adding sequencing adaptors. This approach preserves read depth but reduces the length of each read. Here, we test the ability of phased inserts to replace PhiX in a low-diversity sample generated for a high-throughput sequencing based ribozyme activity screen. We designed a pool of 4096 RNA sequence variants of the self-cleaving twister ribozyme from  For each unique sequence, we determined the fraction of ribozyme cleaved during in vitro transcription via deep sequencing on an Illumina MiSeq. We found that libraries with the phased inserts produced high-quality sequence data without the addition of PhiX. We found good agreement between previously published data on twister ribozyme variants and our data produced with phased inserts even when PhiX was omitted. We conclude that phased inserts can be implemented following in vitro selection experiments to reduce or eliminate the use of PhiX and maximize read depth.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114001941",
+    "coauthors": {
+        "246996": {
+            "firstname": "Devin ",
+            "middleinitial": "P",
+            "lastname": "Bendixsen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246996,
+            "scholarlyactivityid": 53024
+        },
+        "246997": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "M Roberts",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246997,
+            "scholarlyactivityid": 53024
+        },
+        "246998": {
+            "firstname": "Brent",
+            "middleinitial": "",
+            "lastname": "Townshend",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246998,
+            "scholarlyactivityid": 53024
+        },
+        "246999": {
+            "firstname": "Eric ",
+            "middleinitial": "J",
+            "lastname": "Hayden",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246999,
+            "scholarlyactivityid": 53024
+        }
+    },
+    "status": [
+        {
+            "id": 53024,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001941",
+    "attachments": []
+}

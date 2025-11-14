@@ -1,0 +1,84 @@
+{
+    "activityid": 41773,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Development and Utilization of the On-line Tool for Capturing Center of Biomedical Research Excellence (COBRE) Reporting from Faculty, Staff, and Students",
+        "Conference / Meeting Name": "National IDeA Symposium of Biomedical Research Excellence (NISBRE), Washington, D.C.",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "184829": {
+            "firstname": "Diane",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 184829,
+            "scholarlyactivityid": 41773,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "184830": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Jibben",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 184830,
+            "scholarlyactivityid": 41773,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "184831": {
+            "firstname": "Tracy",
+            "middleinitial": "",
+            "lastname": "Yarnell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 184831,
+            "scholarlyactivityid": 41773,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "184832": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 184832,
+            "scholarlyactivityid": 41773,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41773,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

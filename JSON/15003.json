@@ -1,0 +1,52 @@
+{
+    "activityid": 15003,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The National Senior Exit Survey: How it helps make program changes",
+        "Conference / Meeting Name": "Best Practices: Assessing Teaching and Learning in Psychology ",
+        "Conference Location": "Atlanta, GA",
+        "Date or Date Range": "2010-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "Society for the Teaching of Psychology",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "62826": {
+            "firstname": "Annette",
+            "middleinitial": "K",
+            "lastname": "Taylor",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62826,
+            "scholarlyactivityid": 15003
+        },
+        "62827": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 62827,
+            "scholarlyactivityid": 15003
+        }
+    },
+    "status": [
+        {
+            "id": 15003,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

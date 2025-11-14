@@ -1,0 +1,55 @@
+{
+    "activityid": 48963,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Workout Wednesday ",
+        "Conference / Meeting Name": "Boise State University Undergraduate Research Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114060624",
+    "coauthors": {
+        "227102": {
+            "firstname": "Alexis",
+            "middleinitial": "",
+            "lastname": "Constantine",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 227102,
+            "scholarlyactivityid": 48963,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "227103": {
+            "firstname": "Kelly",
+            "middleinitial": "R",
+            "lastname": "Rossetto",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060624",
+            "authorid": 227103,
+            "scholarlyactivityid": 48963
+        }
+    },
+    "status": [
+        {
+            "id": 48963,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114060624",
+    "attachments": []
+}

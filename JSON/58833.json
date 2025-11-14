@@ -1,0 +1,83 @@
+{
+    "activityid": 58833,
+    "fields": {
+        "Type": "Book",
+        "Title": "Class Workbook &amp; Notes - Math 275",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://drive.google.com/file/d/1e-Kk7uOD5Aj9SUxeFKih4iOq5rXkpghr/view?usp=drive_link",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113037813",
+    "coauthors": {
+        "341569": {
+            "firstname": "Shari",
+            "middleinitial": "",
+            "lastname": "Ultman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113037813",
+            "authorid": 341569,
+            "scholarlyactivityid": 58833,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58833,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 58833,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 58833,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 58833,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113037813",
+    "attachments": [
+        {
+            "attachmentid": 61158,
+            "mimetype": "application/pdf",
+            "filename": "m275-workbook&amp;notes.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeThPWXVmQUU2RmFRZis1VXp2YjdHMHJTN2ZBd29vWVZyb0hFdS9GTDdwdWs4dVQ0VkEyNmZkVHhpYlJESkFOdjM3bkNsYkd0WmJ4T2lCTGlTMkxQVlZBPT0%3D",
+            "filesize": 40334392
+        }
+    ]
+}

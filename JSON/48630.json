@@ -1,0 +1,55 @@
+{
+    "activityid": 48630,
+    "fields": {
+        "Type": "Book",
+        "Title": "Design Thinking &amp; Strategy (2nd ed.)",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "2nd",
+        "Volume": "",
+        "Publisher": "Mountain Valley Innovations Publishing",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111259074",
+    "coauthors": {
+        "225506": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 225506,
+            "scholarlyactivityid": 48630
+        },
+        "225505": {
+            "firstname": "Christy",
+            "middleinitial": "",
+            "lastname": "Suciu",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111259074",
+            "authorid": 225505,
+            "scholarlyactivityid": 48630
+        }
+    },
+    "status": [
+        {
+            "id": 48630,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111259074",
+    "attachments": []
+}

@@ -1,0 +1,70 @@
+{
+    "activityid": 47613,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Permeability prediction in rocks experiencing mineral precipitation and dissolution: a numerical study",
+        "Journal": "Water Resources Research",
+        "Volume": "55",
+        "Month / Season": "April",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "3107-3121",
+        "Publisher": "Wiley",
+        "DOI": " https://doi.org/10.1029/2018WR024174",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR024174",
+        "Description/Abstract": "In this study, we focus on the electrical tortuosity\u2010based permeability model k = reff2/8F (reff is an effective pore size, and F is the formation factor) and analyze its applicability to rocks experiencing mineral precipitation and dissolution. Two limiting cases of advection\u2010dominated water\u2010rock reactions are simulated, that is, the reaction\u2010limited and transport\u2010limited cases. At the pore scale, the two precipitation/dissolution patterns are simulated with a geometrical model and a phenomenological model. The fluid and electric flows in the rocks are simulated by directly solving the linear Stokes equation and Laplace equation on the representative elementary volume of the samples. The numerical results show that evolutions of k and F differ significantly in the two limiting cases. In general, the reaction\u2010limited precipitation/dissolution would result in a smooth variation of k and F, which can be roughly modeled with a power function of porosity \u03d5 with a constant exponent. In contrast, the transport\u2010limited precipitation/dissolution mostly occurs near the pore throats where the fluid velocity is high. This induces a sharp change in k and F despite a minor variation in \u03d5. The commonly used power laws with constant exponents are not able to describe such variations. The results also reveal that the electrical tortuosity\u2010based permeability prediction generally works well for rocks experiencing precipitation/dissolution if reff can be appropriately estimated, for example, with the electrical field normalized pore size \u039b. The associated prediction errors are mainly due to the use of electrical tortuosity, which might be considerably larger than the true hydraulic tortuosity.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112754",
+    "coauthors": {
+        "218652": {
+            "firstname": "Qifei",
+            "middleinitial": "",
+            "lastname": "Niu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112754",
+            "authorid": 218652,
+            "scholarlyactivityid": 47613,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "218653": {
+            "firstname": "Chi",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218653,
+            "scholarlyactivityid": 47613,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47613,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112754",
+    "attachments": [
+        {
+            "attachmentid": 20764,
+            "mimetype": "application/pdf",
+            "filename": "Niu and Zhang, 2019.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlqeHBHcDBiNjNJSUNHbm85YVRkbXZVcUR5elozRlQ5eWpuNTU2d2p3OUttd1VtaXhKTDJySkdJMk1jL0xYbzRxOD0%3D",
+            "filesize": 1588532
+        }
+    ]
+}

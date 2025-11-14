@@ -1,0 +1,83 @@
+{
+    "activityid": 71285,
+    "fields": {
+        "Type": "Book",
+        "Title": "Feminist Criminology Through a Biosocial Lens",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Edition": "4th",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114081229",
+    "coauthors": {
+        "324031": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Wells",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114081229",
+            "authorid": 324031,
+            "scholarlyactivityid": 71285,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "324032": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324032,
+            "scholarlyactivityid": 71285,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "324033": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Cooke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324033,
+            "scholarlyactivityid": 71285,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71285,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71285,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114081229",
+    "attachments": []
+}

@@ -1,0 +1,89 @@
+{
+    "activityid": 49776,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Art of Implementation: Diversity, Equity and Inclusion in Art and Cultural Planning",
+        "Name of Conference": "Association of Collegiate Schools of Planning",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116029",
+    "coauthors": {
+        "231488": {
+            "firstname": "Amanda",
+            "middleinitial": "G.",
+            "lastname": "Ashley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116029",
+            "authorid": 231488,
+            "scholarlyactivityid": 49776,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "231489": {
+            "firstname": "Leslie",
+            "middleinitial": "A",
+            "lastname": "Durham",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669985",
+            "authorid": 231489,
+            "scholarlyactivityid": 49776,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "231490": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Bubb",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 231490,
+            "scholarlyactivityid": 49776,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "231491": {
+            "firstname": "Carolyn",
+            "middleinitial": "",
+            "lastname": "Loh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 231491,
+            "scholarlyactivityid": 49776,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 49776,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116029",
+    "attachments": []
+}

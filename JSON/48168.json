@@ -1,0 +1,104 @@
+{
+    "activityid": 48168,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "POPs Meta",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114105910",
+    "coauthors": {
+        "222740": {
+            "firstname": "Liam",
+            "middleinitial": "P",
+            "lastname": "Maher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114105910",
+            "authorid": 222740,
+            "scholarlyactivityid": 48168
+        },
+        "222741": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Mackey",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222741,
+            "scholarlyactivityid": 48168
+        },
+        "222742": {
+            "firstname": "B",
+            "middleinitial": "Parker",
+            "lastname": "Ellen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222742,
+            "scholarlyactivityid": 48168
+        },
+        "222743": {
+            "firstname": "Charn",
+            "middleinitial": "",
+            "lastname": "McAllister",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222743,
+            "scholarlyactivityid": 48168
+        },
+        "222744": {
+            "firstname": "Samantha",
+            "middleinitial": "",
+            "lastname": "Jordan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222744,
+            "scholarlyactivityid": 48168
+        }
+    },
+    "status": [
+        {
+            "id": 48168,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 48168,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 48168,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114105910",
+    "attachments": []
+}

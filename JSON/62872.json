@@ -1,0 +1,61 @@
+{
+    "activityid": 62872,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "LGBTQ+ History in Idaho",
+        "Name of Venue": "NPR-Boise Public Radio",
+        "Date": "2022-10-04",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Activity Type": "Interview",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669995",
+    "coauthors": {
+        "289422": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "McClain",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669995",
+            "authorid": 289422,
+            "scholarlyactivityid": 62872,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "289423": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Taylor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 289423,
+            "scholarlyactivityid": 62872,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62872,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669995",
+    "attachments": []
+}

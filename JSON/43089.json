@@ -1,0 +1,58 @@
+{
+    "activityid": 43089,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Getting a clear picture of kindergarten learning and performance",
+        "Conference/Meeting Name": "2018 Modern Modeling Methods Conference",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108320",
+    "coauthors": {
+        "192401": {
+            "firstname": "Ya",
+            "middleinitial": "",
+            "lastname": "Mo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108320",
+            "authorid": 192401,
+            "scholarlyactivityid": 43089,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "192402": {
+            "firstname": "Nell",
+            "middleinitial": "",
+            "lastname": "Sedransk",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 192402,
+            "scholarlyactivityid": 43089,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43089,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114108320",
+    "attachments": []
+}

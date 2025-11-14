@@ -1,0 +1,75 @@
+{
+    "activityid": 69240,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;color:#000000;&quot;&gt;Democratic melodrama and authoritarian melodrama.&lt;/span&gt;",
+        "Journal": "Quarterly Journal of Speech",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114022280",
+    "coauthors": {
+        "312127": {
+            "firstname": "Pete",
+            "middleinitial": "",
+            "lastname": "Bsumek",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312127,
+            "scholarlyactivityid": 69240,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312128": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Peeples",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312128,
+            "scholarlyactivityid": 69240,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312129": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Schneider",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114022280",
+            "authorid": 312129,
+            "scholarlyactivityid": 69240,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69240,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114022280",
+    "attachments": []
+}

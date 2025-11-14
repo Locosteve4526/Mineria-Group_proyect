@@ -1,0 +1,111 @@
+{
+    "activityid": 59633,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Predicting the Influence of Fake and Real News Spreaders",
+        "Name of Conference": "Thirty-Fourth Innovative Applications of Artificial Intelligence Conference (IAAI-22)",
+        "Month / Season": "February 22 - March 2, 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "296271": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 296271,
+            "scholarlyactivityid": 59633,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296272": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296272,
+            "scholarlyactivityid": 59633,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296273": {
+            "firstname": "Aaron",
+            "middleinitial": "",
+            "lastname": "Brookhouse",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296273,
+            "scholarlyactivityid": 59633,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "296274": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Hammer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296274,
+            "scholarlyactivityid": 59633,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "296275": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296275,
+            "scholarlyactivityid": 59633,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59633,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59633,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111716691",
+    "attachments": []
+}

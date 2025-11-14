@@ -1,0 +1,63 @@
+{
+    "activityid": 29233,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Magnetic shape memory actuation: trends and design concepts",
+        "Name of Conference": "ACTUATOR 2016",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "127430": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 127430,
+            "scholarlyactivityid": 29233,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "127431": {
+            "firstname": "Emmanuel",
+            "middleinitial": "",
+            "lastname": "Pagounis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 127431,
+            "scholarlyactivityid": 29233,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29233,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 2818,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Impact of Hillslope-Scale Organization of Topography, Soil Moisture, Soil Temperature, and Vegetation on Modeling Surface Microwave Radiation Emission",
+        "Journal": "IEEE Transactions on Geoscience and Remote Sensing",
+        "Volume": "47",
+        "Month / Season": "2009-08-31",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "2557-2571",
+        "Publisher": "",
+        "DOI": "10.1109/TGRS.2009.2014743",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Microwave radiometry will emerge as an important tool for global remote sensing of near-surface soil moisture in the coming decade. In this modeling study, we find that hillslope-scale topography (tens of meters) influences microwave brightness temperatures in a way that produces bias at coarser scales (kilometers). The physics underlying soil moisture remote sensing suggests that the effects of topography on brightness temperature observations are twofold: 1) the spatial distribution of vegetation, moisture, and surface and canopy temperature depends on topography and 2) topography determines the incidence angle and polarization rotation that the observing sensor makes with the local land surface. Here, we incorporate the important correlations between factors that affect emission (e.g., moisture, temperature, and vegetation) and topographic slope and aspect. Inputs to the radiative transfer model are obtained at hillslope scales from a mass-, energy-, and carbon-balance-resolving ecohydrology model. Local incidence and polarization rotation angles are explicitly computed, with knowledge of the local terrain slope and aspect as well as the sky position of the sensor. We investigate both the spatial organization of hillslope-scale brightness temperatures and the sensitivity of spatially aggregated brightness temperatures to satellite sky position. For one computational domain considered, hillslope-scale brightness temperatures vary from approximately 121 to 317 K in the horizontal polarization and from approximately 117 to 320 K in the vertical polarization. Including hillslope-scale heterogeneity in factors effecting emission can change watershed-aggregated brightness temperature by more than 2 K, depending on topographic ruggedness. These findings have implications for soil moisture data assimilation and disaggregation of brightness temperature observations to hillslope scales.",
+        "Origin": "Other"
+    },
+    "facultyid": "112188448",
+    "coauthors": {
+        "7916": {
+            "firstname": "Alejandro",
+            "middleinitial": "Nicolas",
+            "lastname": "Flores",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188448",
+            "authorid": 7916,
+            "scholarlyactivityid": 2818
+        },
+        "7917": {
+            "firstname": "Valeriy",
+            "middleinitial": "Y",
+            "lastname": "Ivanov",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7917,
+            "scholarlyactivityid": 2818
+        },
+        "7918": {
+            "firstname": "Dara",
+            "middleinitial": "",
+            "lastname": "Entekhabi",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7918,
+            "scholarlyactivityid": 2818
+        },
+        "7919": {
+            "firstname": "Rafael",
+            "middleinitial": "L",
+            "lastname": "Bras",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7919,
+            "scholarlyactivityid": 2818
+        }
+    },
+    "status": [
+        {
+            "id": 2818,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188448",
+    "attachments": []
+}

@@ -1,0 +1,102 @@
+{
+    "activityid": 40661,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Mechanical switching behavior of a Ni-Mn-Ga single crystal in magnetic fields with different directions",
+        "Name of Conference": "ACTUATOR 2018",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "239-242",
+        "Publisher": "Messe Bremen",
+        "Publisher Location": "Bremen, Germany",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "978-3-933339-30-0",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "178087": {
+            "firstname": "Christian",
+            "middleinitial": "",
+            "lastname": "Titsch",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178087,
+            "scholarlyactivityid": 40661,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "178088": {
+            "firstname": "Medha",
+            "middleinitial": "",
+            "lastname": "Veligatla",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178088,
+            "scholarlyactivityid": 40661,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "178089": {
+            "firstname": "Carlos",
+            "middleinitial": "J.",
+            "lastname": "Garcia-Cervera",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178089,
+            "scholarlyactivityid": 40661,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "178090": {
+            "firstname": "Welf-Guntram",
+            "middleinitial": "",
+            "lastname": "Drossel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178090,
+            "scholarlyactivityid": 40661,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "178091": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 178091,
+            "scholarlyactivityid": 40661,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40661,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

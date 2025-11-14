@@ -1,0 +1,93 @@
+{
+    "activityid": 77490,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Regulating College Sports and Collateral Estoppel",
+        "Journal": "Texas Law Review Online",
+        "Volume": "103",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "202-219",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://texaslawreview.org/regulating-college-sports-and-collateral-estoppel/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114171943",
+    "coauthors": {
+        "351356": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "White",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 351356,
+            "scholarlyactivityid": 77490,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "351357": {
+            "firstname": "Sam",
+            "middleinitial": "C",
+            "lastname": "Ehrlich",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114171943",
+            "authorid": 351357,
+            "scholarlyactivityid": 77490,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "351358": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Rodenberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 351358,
+            "scholarlyactivityid": 77490,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77490,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 77490,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 77490,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "114171943",
+    "attachments": []
+}

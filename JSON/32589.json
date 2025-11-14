@@ -1,0 +1,76 @@
+{
+    "activityid": 32589,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Combined probabilistic and principal component analysis approach for multivariate sensitivity evaluation and application to implanted patellofemoral mechanics",
+        "Journal": "Journal of biomechanics",
+        "Volume": "44",
+        "Month / Season": null,
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "13-21",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Many aspects of biomechanics are variable in nature, including patient geometry, joint mechanics, implant alignment and clinical outcomes. Probabilistic methods have been applied in computational models to predict distributions of performance given uncertain or variable parameters. Sensitivity analysis is commonly used in conjunction with probabilistic methods to identify the parameters that most significantly affect the performance outcome; however, it does not consider coupled relationships for multiple output measures. Principal component analysis (PCA) has been applied to characterize common modes of variation in shape and kinematics. In this study, a novel, combined probabilistic and PCA approach was developed to characterize relationships between multiple input parameters and output measures. To demonstrate the benefits of the approach, it was applied to implanted patellofemoral (PF) mechanics to characterize relationships between femoral and patellar component alignment and loading and the resulting joint mechanics. Prior studies assessing PF sensitivity have performed individual perturbation of alignment parameters. However, the probabilistic and PCA approach enabled a more holistic evaluation of sensitivity, including identification of combinations of alignment parameters that most significantly contributed to kinematic and contact mechanics outcomes throughout the flexion cycle, and the predictive capability to estimate joint mechanics based on alignment conditions without requiring additional analysis. The approach showed comparable results for Monte Carlo sampling with 500 trials and the more efficient Latin Hypercube sampling with 50 trials. The probabilistic and PCA approach has broad applicability to biomechanical analysis and can provide insight into the interdependencies between implant design, alignment and the resulting mechanics.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "125706": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125706,
+            "scholarlyactivityid": 32589
+        },
+        "125707": {
+            "firstname": "M",
+            "middleinitial": "A",
+            "lastname": "Baldwin",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125707,
+            "scholarlyactivityid": 32589
+        },
+        "125708": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125708,
+            "scholarlyactivityid": 32589
+        },
+        "125709": {
+            "firstname": "Peter ",
+            "middleinitial": "J",
+            "lastname": "Laz",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125709,
+            "scholarlyactivityid": 32589
+        }
+    },
+    "status": [
+        {
+            "id": 32589,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

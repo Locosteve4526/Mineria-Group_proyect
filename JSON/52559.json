@@ -1,0 +1,90 @@
+{
+    "activityid": 52559,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Synchronous online peer tutoring via video conferencing technology: An exploratory case study",
+        "Conference/Meeting Name": "Paper to be presented at the annual meeting of the American Educational Research Association",
+        "Conference Location": "San Francisco, CA",
+        "Date or Date Range": "2020, April",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113078547",
+    "coauthors": {
+        "244044": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 244044,
+            "scholarlyactivityid": 52559
+        },
+        "244043": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 244043,
+            "scholarlyactivityid": 52559
+        },
+        "244042": {
+            "firstname": "Chareen",
+            "middleinitial": "Lee",
+            "lastname": "Snelson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111319147",
+            "authorid": 244042,
+            "scholarlyactivityid": 52559
+        },
+        "244041": {
+            "firstname": "Dazhi",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113078547",
+            "authorid": 244041,
+            "scholarlyactivityid": 52559
+        }
+    },
+    "status": [
+        {
+            "id": 52559,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 52559,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 52559,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113078547",
+    "attachments": []
+}

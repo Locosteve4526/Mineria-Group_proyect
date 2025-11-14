@@ -1,0 +1,52 @@
+{
+    "activityid": 19821,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Content analysis of student and company reactions to a university internship program",
+        "Conference/Meeting Name": "6th Global International Internship Congress",
+        "Conference Location": "Monterey, Mexico",
+        "Date or Date Range": "2010-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "Global International Internship Congress",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "73244": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 73244,
+            "scholarlyactivityid": 19821
+        },
+        "73245": {
+            "firstname": "Malcolm",
+            "middleinitial": "",
+            "lastname": "Coco",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 73245,
+            "scholarlyactivityid": 19821
+        }
+    },
+    "status": [
+        {
+            "id": 19821,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

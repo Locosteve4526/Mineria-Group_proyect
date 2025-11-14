@@ -1,0 +1,84 @@
+{
+    "activityid": 47307,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Dangerous Life of a Short-eared Owl",
+        "Conference/Meeting Name": "Idaho Chapter of the Wildlife Society Annual Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "March 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111358636",
+    "coauthors": {
+        "216858": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216858,
+            "scholarlyactivityid": 47307,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "216859": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Hayes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216859,
+            "scholarlyactivityid": 47307,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "216860": {
+            "firstname": "Jay",
+            "middleinitial": "",
+            "lastname": "Carlisle",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358636",
+            "authorid": 216860,
+            "scholarlyactivityid": 47307,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "216861": {
+            "firstname": "Colleen",
+            "middleinitial": "",
+            "lastname": "Moulton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216861,
+            "scholarlyactivityid": 47307,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47307,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358636",
+    "attachments": []
+}

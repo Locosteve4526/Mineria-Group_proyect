@@ -1,0 +1,56 @@
+{
+    "activityid": 385,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Entrepreneurship, Immigration and the Creative Class",
+        "Journal": "Journal of Global Business Development",
+        "Volume": "2",
+        "Month / Season": "2009-11-30",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "22-30",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643654",
+    "coauthors": {
+        "1000": {
+            "firstname": "Kent",
+            "middleinitial": "",
+            "lastname": "Neupert",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643654",
+            "authorid": 1000,
+            "scholarlyactivityid": 385
+        },
+        "1001": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Baughn",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110250",
+            "authorid": 1001,
+            "scholarlyactivityid": 385
+        }
+    },
+    "status": [
+        {
+            "id": 385,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643654",
+    "attachments": []
+}

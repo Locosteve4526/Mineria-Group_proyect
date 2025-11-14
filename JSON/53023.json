@@ -1,0 +1,76 @@
+{
+    "activityid": 53023,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Genotype network intersections promote evolutionary innovation",
+        "Journal": "PLoS biology",
+        "Volume": "17",
+        "Month / Season": null,
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "e3000300",
+        "Publisher": null,
+        "DOI": "10.1371/journal.pbio.3000300",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Evolutionary innovations are qualitatively novel traits that emerge through evolution and increase biodiversity. The genetic mechanisms of innovation remain poorly understood. A systems view of innovation requires the analysis of genotype networks-the vast networks of genetic variants that produce the same phenotype. Innovations can occur at the intersection of two different genotype networks. However, the experimental characterization of genotype networks has been hindered by the vast number of genetic variants that need to be functionally analyzed. Here, we use high-throughput sequencing to study the fitness landscape at the intersection of the genotype networks of two catalytic RNA molecules (ribozymes). We determined the ability of numerous neighboring RNA sequences to catalyze two different chemical reactions, and we use these data as a proxy for a genotype to fitness map where two functions come in close proximity. We find extensive functional overlap, and numerous genotypes can catalyze both functions. We demonstrate through evolutionary simulations that these numerous points of intersection facilitate the discovery of a new function. However, the rate of adaptation of the new function depends upon the local ruggedness around the starting location in the genotype network. As a consequence, one direction of adaptation is more rapid than the other. We find that periods of neutral evolution increase rates of adaptation to the new function by allowing populations to spread out in their genotype network. Our study reveals the properties of a fitness landscape where genotype networks intersect and the consequences for evolutionary innovations. Our results suggest that historic innovations in natural systems may have been facilitated by overlapping genotype networks.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114001941",
+    "coauthors": {
+        "246992": {
+            "firstname": "Devin ",
+            "middleinitial": "P",
+            "lastname": "Bendixsen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246992,
+            "scholarlyactivityid": 53023
+        },
+        "246993": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Collet",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246993,
+            "scholarlyactivityid": 53023
+        },
+        "246994": {
+            "firstname": "Bj\u00f8rn",
+            "middleinitial": "",
+            "lastname": "\u00d8stman",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246994,
+            "scholarlyactivityid": 53023
+        },
+        "246995": {
+            "firstname": "Eric ",
+            "middleinitial": "J",
+            "lastname": "Hayden",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246995,
+            "scholarlyactivityid": 53023
+        }
+    },
+    "status": [
+        {
+            "id": 53023,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001941",
+    "attachments": []
+}

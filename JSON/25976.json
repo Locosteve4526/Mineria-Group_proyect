@@ -1,0 +1,55 @@
+{
+    "activityid": 25976,
+    "fields": {
+        "Type": "Book",
+        "Title": "Introduction to Organic and Biological Chemistry",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Edition": "1st ed.",
+        "Volume": "",
+        "Publisher": "Cengage Learning",
+        "Publisher Location": "",
+        "ISBN": "1111032300",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "83843": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 83843,
+            "scholarlyactivityid": 25976
+        },
+        "83844": {
+            "firstname": "Richard",
+            "middleinitial": "P.",
+            "lastname": "Steiner",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83844,
+            "scholarlyactivityid": 25976
+        }
+    },
+    "status": [
+        {
+            "id": 25976,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

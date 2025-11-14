@@ -1,0 +1,52 @@
+{
+    "activityid": 12307,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Creating smartphone apps to teach, track and engage",
+        "Conference/Meeting Name": "Nursing Education Summit",
+        "Conference Location": "Washington, DC",
+        "Date or Date Range": "2013-09-20",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "National League for Nursing",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "56363": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 56363,
+            "scholarlyactivityid": 12307
+        },
+        "56364": {
+            "firstname": "Eldon",
+            "middleinitial": "Howard",
+            "lastname": "Walker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111331673",
+            "authorid": 56364,
+            "scholarlyactivityid": 12307
+        }
+    },
+    "status": [
+        {
+            "id": 12307,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

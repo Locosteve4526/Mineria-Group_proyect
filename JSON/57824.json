@@ -1,0 +1,84 @@
+{
+    "activityid": 57824,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": " Finding the limits of Piper amalago L., a widespread Neotropical shrub",
+        "Conference/Meeting Name": "Botany 2021",
+        "Conference Location": "virtual",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "268178": {
+            "firstname": "Cara",
+            "middleinitial": "",
+            "lastname": "Hastings",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268178,
+            "scholarlyactivityid": 57824,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "268179": {
+            "firstname": "Alan",
+            "middleinitial": "",
+            "lastname": "Bornstein",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268179,
+            "scholarlyactivityid": 57824,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268180": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Davidson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268180,
+            "scholarlyactivityid": 57824,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268181": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 268181,
+            "scholarlyactivityid": 57824,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57824,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 42060,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Ideology in physics: Ontological naturalism and theism confront big bang, cosmic fine tuning, and the multiverse of M-theory",
+        "Journal": "Journal of Ideology",
+        "Volume": "39",
+        "Month / Season": "Fall 2018",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112049187",
+    "coauthors": {
+        "186762": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 186762,
+            "scholarlyactivityid": 42060,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "186763": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Ruffinengo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112049187",
+            "authorid": 186763,
+            "scholarlyactivityid": 42060,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42060,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112049187",
+    "attachments": []
+}

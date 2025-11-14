@@ -1,0 +1,56 @@
+{
+    "activityid": 3838,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Supererogatory Superluminality",
+        "Journal": "Synthese",
+        "Volume": "127",
+        "Month / Season": "2001-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "347-357",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111194862",
+    "coauthors": {
+        "11276": {
+            "firstname": "Brian",
+            "middleinitial": "Bodily",
+            "lastname": "Kierland",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111194862",
+            "authorid": 11276,
+            "scholarlyactivityid": 3838
+        },
+        "11277": {
+            "firstname": "Brad",
+            "middleinitial": "",
+            "lastname": "Monton",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11277,
+            "scholarlyactivityid": 3838
+        }
+    },
+    "status": [
+        {
+            "id": 3838,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2001,
+            "termid": "2001/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111194862",
+    "attachments": []
+}

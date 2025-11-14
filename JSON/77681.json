@@ -1,0 +1,48 @@
+{
+    "activityid": 77681,
+    "fields": {
+        "Type": "Book",
+        "Title": "Digital Education",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Hajisa",
+        "Publisher Location": "Seoul, Korea",
+        "ISBN": "978-89-997-3050-4 93370",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.hakjisa.co.kr/subpage.html?page=book_book_info&amp;bidx=5835",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "348481": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 348481,
+            "scholarlyactivityid": 77681,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77681,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

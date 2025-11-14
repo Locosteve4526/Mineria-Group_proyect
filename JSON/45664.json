@@ -1,0 +1,125 @@
+{
+    "activityid": 45664,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Sortability of Graphs and Matrices under Context Directed Swaps",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "208023": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 208023,
+            "scholarlyactivityid": 45664
+        },
+        "208024": {
+            "firstname": "Colby",
+            "middleinitial": "A",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 208024,
+            "scholarlyactivityid": 45664,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "208025": {
+            "firstname": "Samuel",
+            "middleinitial": "",
+            "lastname": "Heil",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 208025,
+            "scholarlyactivityid": 45664,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "208026": {
+            "firstname": "Rashmika",
+            "middleinitial": "",
+            "lastname": "Goswami",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 208026,
+            "scholarlyactivityid": 45664,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "208027": {
+            "firstname": "Claudia",
+            "middleinitial": "S",
+            "lastname": "Carillo-Vasquez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 208027,
+            "scholarlyactivityid": 45664,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45664,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 45664,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 45664,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 45664,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

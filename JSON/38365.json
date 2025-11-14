@@ -1,0 +1,83 @@
+{
+    "activityid": 38365,
+    "fields": {
+        "Type": "Book",
+        "Title": "Overcoming Writers' Block: Retention, Persistence, and Writing Programs",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Utah State University Press",
+        "Publisher Location": "Logan, UT",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This is an co-edited book collection.\r\nRole:  Co-Principal",
+        "Origin": "Manual"
+    },
+    "facultyid": "113118110",
+    "coauthors": {
+        "161136": {
+            "firstname": "Dawn",
+            "middleinitial": "Renee",
+            "lastname": "Shepherd",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113118110",
+            "authorid": 161136,
+            "scholarlyactivityid": 38365
+        },
+        "161135": {
+            "firstname": "Todd",
+            "middleinitial": "",
+            "lastname": "Ruecker",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 161135,
+            "scholarlyactivityid": 38365
+        },
+        "161134": {
+            "firstname": "Beth",
+            "middleinitial": "",
+            "lastname": "Brunk-Chavez",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 161134,
+            "scholarlyactivityid": 38365
+        }
+    },
+    "status": [
+        {
+            "id": 38365,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 38365,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 38365,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113118110",
+    "attachments": []
+}

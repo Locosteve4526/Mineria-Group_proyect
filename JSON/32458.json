@@ -1,0 +1,62 @@
+{
+    "activityid": 32458,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Bridging the gap between random microstructure and 3-D meshing",
+        "Journal": "ASCE Journal of Computing in Civil Engineering",
+        "Volume": "28",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "0000270",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://ascelibrary.org/doi/abs/10.1061/(ASCE)CP.1943-5487.0000270",
+        "Description/Abstract": "There are different ways to mathematically represent three-dimensional (3D) heterogeneous material microstructures. It is desirable to pick the representation that best bridges the gap between heterogeneous microstructure and computer-aided engineering finite element analysis. 3D cubic meshes of brick (voxel) elements can be generated for digital structures (e.g., from X-ray CT), but this work describes how simplified tetrahedral meshes, more suitable for complex mechanical problems, including crack generation, can be implemented. The mathematical representations of heterogeneous material structures considered in this paper include (1) 3D digital image microstructure, exemplified by the Virtual Cement and Concrete Testing Laboratory (VCCTL); (2) X-ray computed tomography (CT) images stacked into a 3D digital image; and (3) real-shaped sand and gravel particles, represented by spherical harmonic series, randomly placed into a 3D box to make a virtual concrete microstructure. The approach used involves a topological structure suitable for stereo lithography file (STL) representation and the development of algorithms for topological and geometric data processing to obtain a 3D simplified tetrahedral mesh that incorporates the random material structure. Mesh simplification is obtained through a set of remeshing tools to improve element quality and reduce the number of elements. During the mesh generation procedure, we combine both the aggregates and the cement paste matrix to ensure perfectly coinciding nodes at their interface. Based on the proposed procedures, a simplified surface and volume mesh of heterogeneous systems can be generated with data consistencies (e.g., no overlapping, no gap at the interfaces).",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "125201": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 125201,
+            "scholarlyactivityid": 32458,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125202": {
+            "firstname": "Edward",
+            "middleinitial": "",
+            "lastname": "Garboczi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125202,
+            "scholarlyactivityid": 32458,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32458,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001675",
+    "attachments": []
+}

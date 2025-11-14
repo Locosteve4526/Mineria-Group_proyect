@@ -1,0 +1,62 @@
+{
+    "activityid": 32522,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "What\u2019s happening to our \u201cfreshout\u201d engineers",
+        "Conference/Meeting Name": "International Society for Performance Improvement",
+        "Conference Location": "Indianapolis, IN",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112056561",
+    "coauthors": {
+        "125387": {
+            "firstname": "Steven",
+            "middleinitial": "W",
+            "lastname": "Villachica",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112139967",
+            "authorid": 125387,
+            "scholarlyactivityid": 32522
+        },
+        "125386": {
+            "firstname": "Anthony",
+            "middleinitial": "W",
+            "lastname": "Marker",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112056561",
+            "authorid": 125386,
+            "scholarlyactivityid": 32522
+        },
+        "125385": {
+            "firstname": "Donald",
+            "middleinitial": "Gene",
+            "lastname": "Plumlee Jr",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669747",
+            "authorid": 125385,
+            "scholarlyactivityid": 32522
+        }
+    },
+    "status": [
+        {
+            "id": 32522,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112056561",
+    "attachments": []
+}

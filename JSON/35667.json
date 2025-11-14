@@ -1,0 +1,74 @@
+{
+    "activityid": 35667,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A comparison of policy compliance models",
+        "Journal": "Information and Management",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065991",
+    "coauthors": {
+        "146589": {
+            "firstname": "Doug",
+            "middleinitial": "",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 146589,
+            "scholarlyactivityid": 35667
+        },
+        "146590": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 146590,
+            "scholarlyactivityid": 35667
+        }
+    },
+    "status": [
+        {
+            "id": 35667,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 35667,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 35667,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065991",
+    "attachments": []
+}

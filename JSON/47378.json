@@ -1,0 +1,65 @@
+{
+    "activityid": 47378,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "How Competitive is the Banking Industry in Arkansas",
+        "Journal": "The Arkansas Banker",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Invited submission.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045846",
+    "coauthors": {
+        "303661": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "McBrayer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045846",
+            "authorid": 303661,
+            "scholarlyactivityid": 47378
+        },
+        "303662": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Yeager",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 303662,
+            "scholarlyactivityid": 47378
+        }
+    },
+    "status": [
+        {
+            "id": 47378,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 47378,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114045846",
+    "attachments": []
+}

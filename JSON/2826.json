@@ -1,0 +1,66 @@
+{
+    "activityid": 2826,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Hydrologic Data Assimilation with a Hillslope-Scale-Resolving Model and L Band Radar Observations: Synthetic Experiments with the Ensemble Kalman Filter",
+        "Journal": "Water Resources Research",
+        "Volume": "48",
+        "Month / Season": "2012-08-15",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "19-Jan",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2011WR011500",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/geo_facpubs/127",
+        "Description/Abstract": "Soil moisture information is critical for applications like landslide susceptibility analysis and military trafficability assessment. Existing technologies cannot observe soil moisture at spatial scales of hillslopes (e.g., 100 to 102 m) and over large areas (e.g., 102 to 105 km2) with sufficiently high temporal coverage (e.g., days). Physics-based hydrologic models can simulate soil moisture at the necessary spatial and temporal scales, albeit with error. We develop and test a data assimilation framework based on the ensemble Kalman filter for constraining uncertain simulated high-resolution soil moisture fields to anticipated remote sensing products, specifically NASA's Soil Moisture Active-Passive (SMAP) mission, which will provide global L band microwave observation approximately every 2\u20133 days. The framework directly assimilates SMAP synthetic 3 km radar backscatter observations to update hillslope-scale bare soil moisture estimates from a physics-based model. Downscaling from 3 km observations to hillslope scales is achieved through the data assimilation algorithm. Assimilation reduces bias in near-surface soil moisture (e.g., top 10 cm) by approximately 0.05 m3/m3 and expected root-mean-square errors by at least 60% in much of the watershed, relative to an open loop simulation. However, near-surface moisture estimates in channel and valley bottoms do not improve, and estimates of profile-integrated moisture throughout the watershed do not substantially improve. We discuss the implications of this work, focusing on ongoing efforts to improve soil moisture estimation in the entire soil profile through joint assimilation of other satellite (e.g., vegetation) and in situ soil moisture measurements.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "112188448",
+    "coauthors": {
+        "7954": {
+            "firstname": "Alejandro",
+            "middleinitial": "Nicolas",
+            "lastname": "Flores",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188448",
+            "authorid": 7954,
+            "scholarlyactivityid": 2826
+        },
+        "7955": {
+            "firstname": "Rafael",
+            "middleinitial": "L.",
+            "lastname": "Bras",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7955,
+            "scholarlyactivityid": 2826
+        },
+        "7956": {
+            "firstname": "Dara",
+            "middleinitial": "",
+            "lastname": "Entekhabi",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7956,
+            "scholarlyactivityid": 2826
+        }
+    },
+    "status": [
+        {
+            "id": 2826,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188448",
+    "attachments": []
+}

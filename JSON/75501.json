@@ -1,0 +1,47 @@
+{
+    "activityid": 75501,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Amake: Software Builds with Distributed Target Caches",
+        "Name of Conference": "TBD",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111798",
+    "coauthors": {
+        "334773": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Buffenbarger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111798",
+            "authorid": 334773,
+            "scholarlyactivityid": 75501
+        }
+    },
+    "status": [
+        {
+            "id": 75501,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111111798",
+    "attachments": []
+}

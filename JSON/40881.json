@@ -1,0 +1,89 @@
+{
+    "activityid": 40881,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Auditor response to changing risk: money market funds during the Financial Crisis",
+        "Journal": "Review of Quantitative Finance and Accounting",
+        "Volume": "56",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "1057-1086",
+        "Publisher": "Springer",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106877",
+    "coauthors": {
+        "327182": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106877",
+            "authorid": 327182,
+            "scholarlyactivityid": 40881,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "327183": {
+            "firstname": "Drew",
+            "middleinitial": "",
+            "lastname": "Winters",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327183,
+            "scholarlyactivityid": 40881,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40881,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40881,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 40881,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 40881,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114106877",
+    "attachments": []
+}

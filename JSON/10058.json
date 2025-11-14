@@ -1,0 +1,80 @@
+{
+    "activityid": 10058,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Mapping River Management:  Envisioning and Anticipating Management Conflicts",
+        "Conference/Meeting Name": "National Outdoor Recreation Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2016-05-17",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Society of Outdoor Recreation Conference",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114022280",
+    "coauthors": {
+        "51994": {
+            "firstname": "Erik",
+            "middleinitial": "",
+            "lastname": "Olson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51994,
+            "scholarlyactivityid": 10058
+        },
+        "51995": {
+            "firstname": "Jared",
+            "middleinitial": "",
+            "lastname": "Talley",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51995,
+            "scholarlyactivityid": 10058
+        },
+        "51996": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Schneider",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114022280",
+            "authorid": 51996,
+            "scholarlyactivityid": 10058
+        }
+    },
+    "status": [
+        {
+            "id": 10058,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10058,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 10058,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114022280",
+    "attachments": []
+}

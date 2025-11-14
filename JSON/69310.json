@@ -1,0 +1,103 @@
+{
+    "activityid": 69310,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Bayesian Formulations for Graph Spectral Denoising",
+        "Name of Conference": "58th Annual Conference on Information Sciences and Systems",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://arxiv.org/abs/2311.16378v2",
+        "Description/Abstract": "Here we consider the problem of denoising features associated to complex data, modeled as signals on a graph, via a smoothness prior. This is motivated in part by settings such as single-cell RNA where the data is very high-dimensional, but its structure can be captured via an affinity graph. This allows us to utilize ideas from graph signal processing. In particular, we present algorithms for the cases where the signal is perturbed by Gaussian noise, dropout, and uniformly distributed noise. The signals are assumed to follow a prior distribution defined in the frequency domain which favors signals which are smooth across the edges of the graph. By pairing this prior distribution with our three models of noise generation, we propose Maximum A Posteriori (M.A.P.) estimates of the true signal in the presence of noisy data and provide algorithms for computing the M.A.P. Finally, we demonstrate the algorithms' ability to effectively restore signals from white noise on image data and from severe dropout in single-cell RNA sequence data. [Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "114253049",
+    "coauthors": {
+        "328505": {
+            "firstname": "Sam",
+            "middleinitial": "",
+            "lastname": "Leone",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328505,
+            "scholarlyactivityid": 69310
+        },
+        "328506": {
+            "firstname": "Xingzhi",
+            "middleinitial": "",
+            "lastname": "Sun",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328506,
+            "scholarlyactivityid": 69310
+        },
+        "328507": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Perlmutter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328507,
+            "scholarlyactivityid": 69310
+        },
+        "328508": {
+            "firstname": "Smita",
+            "middleinitial": "",
+            "lastname": "Krishnaswamy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328508,
+            "scholarlyactivityid": 69310
+        }
+    },
+    "status": [
+        {
+            "id": 69310,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 69310,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 69310,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114253049",
+    "attachments": [
+        {
+            "attachmentid": 49987,
+            "mimetype": "application/pdf",
+            "filename": "2311.16378.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWhWcTBXY1RCaTQ4VjBVREhBZjQ2aHRaUmZneSs3OEJYUzdwWElnb2F4ZDhUOE9JVy91QUFPdz09",
+            "filesize": 4664112
+        }
+    ]
+}

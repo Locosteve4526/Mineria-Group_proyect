@@ -1,0 +1,58 @@
+{
+    "activityid": 75454,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "What is Virtual Care and How is it Used in Idaho?",
+        "Conference/Meeting Name": "Lifelong Education and Aging Resource Network",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "December",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112188730",
+    "coauthors": {
+        "334538": {
+            "firstname": "Jason",
+            "middleinitial": "K",
+            "lastname": "Blomquist",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188730",
+            "authorid": 334538,
+            "scholarlyactivityid": 75454,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "334539": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Rich",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 334539,
+            "scholarlyactivityid": 75454,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75454,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188730",
+    "attachments": []
+}

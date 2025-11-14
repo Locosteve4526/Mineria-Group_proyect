@@ -1,0 +1,62 @@
+{
+    "activityid": 15590,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Design and Development of Green Cleaners",
+        "Conference / Meeting Name": "Undergraduate Research Conference (URC)",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2012-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "64013": {
+            "firstname": "Jared",
+            "middleinitial": "",
+            "lastname": "Mattos",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64013,
+            "scholarlyactivityid": 15590
+        },
+        "64014": {
+            "firstname": "Ashley",
+            "middleinitial": "",
+            "lastname": "Fisher",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64014,
+            "scholarlyactivityid": 15590
+        },
+        "64015": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 64015,
+            "scholarlyactivityid": 15590
+        }
+    },
+    "status": [
+        {
+            "id": 15590,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

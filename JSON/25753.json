@@ -1,0 +1,57 @@
+{
+    "activityid": 25753,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "It Blinked! Empowering Students with an Improved Microprocessors Course",
+        "Name of Conference": "",
+        "Month / Season": "2012-06-13",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/205",
+        "Description/Abstract": "Empowering students in understanding microprocessors involves teaching them how a processor works so that they have the skills they need when presented with a different architecture. Allowing the students to participate more fully in the discovery process enhances their ability to tackle projects with little or no help, and provides the sense of accomplishment that leads a student to exclaim &quot;It blinked!&quot; when he succeeds in causing an LED to blink. Soft core processors run on an FPGA development board were used to implement changes to a microprocessors course in order to achieve the desired goals. The use of soft core processors allows configuration changes not possible in traditional microprocessors.\n\nSimplifying the processor, exposing the low level processor interactions, and adjusting the processor configuration as needed to best demonstrate the desired foundational concepts, are integral to the updated microprocessors course at Boise State University. Course enhancements, including development and continuing augmentation of a course reference, are ongoing.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "83394": {
+            "firstname": "Arlen",
+            "middleinitial": "",
+            "lastname": "Planting",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111224287",
+            "authorid": 83394,
+            "scholarlyactivityid": 25753
+        },
+        "83395": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 83395,
+            "scholarlyactivityid": 25753
+        }
+    },
+    "status": [
+        {
+            "id": 25753,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

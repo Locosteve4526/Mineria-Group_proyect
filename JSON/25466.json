@@ -1,0 +1,65 @@
+{
+    "activityid": 25466,
+    "fields": {
+        "Type": "Book",
+        "Title": "Wireless Telecommuting Implications for HR Managers",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Society for Human Resource Management",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "SHRM White Paper",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "82739": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 82739,
+            "scholarlyactivityid": 25466
+        },
+        "82740": {
+            "firstname": "Malcolm",
+            "middleinitial": "",
+            "lastname": "Coco",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82740,
+            "scholarlyactivityid": 25466
+        },
+        "82741": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "McIntosh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112047089",
+            "authorid": 82741,
+            "scholarlyactivityid": 25466
+        }
+    },
+    "status": [
+        {
+            "id": 25466,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

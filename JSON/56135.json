@@ -1,0 +1,120 @@
+{
+    "activityid": 56135,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Identifying ATT&amp;CK Tactics in Android Malware Control Flow Graph Through Graph Representation Learning and Interpretability",
+        "Name of Conference": "BigData 2021 Special Symposiums",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "To mitigate a malware threat it is important to understand the malware's behavior.  The MITRE ATT&amp;ACK ontology specifies an enumeration of tactics, techniques, and procedures (TTP) that characterize malware.  \nHowever, absent are automated procedures that would characterize, given the malware executable, which part of the execution flow is connected with a specific TTP. This paper is the first in providing an automation   methodology to locate TTP in a sub-part of the control flow graph that describes the execution flow of a malware executable. This methodology merges graph representation learning and tools for machine learning explanation.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "261319": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 261319,
+            "scholarlyactivityid": 56135,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "261320": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048778",
+            "authorid": 261320,
+            "scholarlyactivityid": 56135,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "261321": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 261321,
+            "scholarlyactivityid": 56135,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "261322": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Fairbanks",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 261322,
+            "scholarlyactivityid": 56135,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "261323": {
+            "firstname": "Andres",
+            "middleinitial": "",
+            "lastname": "Orbe",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 261323,
+            "scholarlyactivityid": 56135,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 56135,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 56135,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 56135,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

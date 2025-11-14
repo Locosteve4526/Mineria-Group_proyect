@@ -1,0 +1,52 @@
+{
+    "activityid": 14981,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Faculty perceptions of the usefulness of student ePortfolios",
+        "Conference / Meeting Name": "Midwestern Psychological Association",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "2013-05-31",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Midwestern Psychological Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "62742": {
+            "firstname": "Annie",
+            "middleinitial": "",
+            "lastname": "Hezeltine",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62742,
+            "scholarlyactivityid": 14981
+        },
+        "62743": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 62743,
+            "scholarlyactivityid": 14981
+        }
+    },
+    "status": [
+        {
+            "id": 14981,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

@@ -1,0 +1,57 @@
+{
+    "activityid": 24955,
+    "fields": {
+        "Type": "Review",
+        "Title of Review": "Guillaume et Nathalie ",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers of Number of Pages": "258-259",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Month / Season": "2013-09-17",
+        "Title of larger work": "French Review",
+        "Volume": "87",
+        "Issue Number": "4",
+        "Author/Editor of larger work": "",
+        "DOI": "Yanick Lahens",
+        "ISSN/ISBN #": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112052765",
+    "coauthors": {
+        "111808": {
+            "firstname": "Jason",
+            "middleinitial": "Ryan",
+            "lastname": "Herbeck",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112052765",
+            "authorid": 111808,
+            "scholarlyactivityid": 24955
+        }
+    },
+    "status": [
+        {
+            "id": 24955,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 24955,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112052765",
+    "attachments": []
+}

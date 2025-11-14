@@ -1,0 +1,67 @@
+{
+    "activityid": 22140,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Virtually Physically Speaking",
+        "Outlet (if applicable)": "",
+        "Date": "2017-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Publisher": null,
+        "Location of Publisher (City, State, Country)": null,
+        "Issue Number/Edition": null,
+        "Page Number or Number of Pages": null,
+        "Volume": null,
+        "Author/Editor of larger work": null,
+        "Title of larger work": null,
+        "ISBN/ISSN/ASIN Number": null,
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "\nRole:  Co-Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "113024765",
+    "coauthors": {
+        "77648": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Kaczynski",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 77648,
+            "scholarlyactivityid": 22140
+        }
+    },
+    "status": [
+        {
+            "id": 22140,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 22140,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 22140,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113024765",
+    "attachments": []
+}

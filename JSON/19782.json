@@ -1,0 +1,63 @@
+{
+    "activityid": 19782,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Capitalized customer acquisition costs and earnings quality: A case study of PhotoWorks, Inc.",
+        "Name of Conference": "The Allied Academies International Conference ",
+        "Month / Season": "2002-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": null,
+        "Publisher": "The Allied Academies",
+        "Publisher Location": "Nashville, TN",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112188648",
+    "coauthors": {
+        "134854": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 134854,
+            "scholarlyactivityid": 19782,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134855": {
+            "firstname": "Susan",
+            "middleinitial": "G",
+            "lastname": "Weihrich",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134855,
+            "scholarlyactivityid": 19782,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19782,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2002,
+            "termid": "2001/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188648",
+    "attachments": []
+}

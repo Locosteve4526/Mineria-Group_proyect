@@ -1,0 +1,62 @@
+{
+    "activityid": 75452,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Getting Published Workshop",
+        "Conference/Meeting Name": "",
+        "Conference Location": "",
+        "Date or Date Range": "January",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "Sigma Theta Tau, Mu Gamma Chapter",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Panel presentation on how to begin the process of writing and publishing an academic manuscript.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112188730",
+    "coauthors": {
+        "334534": {
+            "firstname": "Yunchuan",
+            "middleinitial": "",
+            "lastname": "Zhao",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083957",
+            "authorid": 334534,
+            "scholarlyactivityid": 75452
+        },
+        "334535": {
+            "firstname": "Jason",
+            "middleinitial": "K",
+            "lastname": "Blomquist",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188730",
+            "authorid": 334535,
+            "scholarlyactivityid": 75452
+        },
+        "334536": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Llewellyn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114178054",
+            "authorid": 334536,
+            "scholarlyactivityid": 75452
+        }
+    },
+    "status": [
+        {
+            "id": 75452,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188730",
+    "attachments": []
+}

@@ -1,0 +1,85 @@
+{
+    "activityid": 52625,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Intra-specific variation in migration phenology of American Kestrels (Falco sparverius) in response to spring temperatures",
+        "Journal": "Ibis",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111277518",
+    "coauthors": {
+        "269246": {
+            "firstname": "B",
+            "middleinitial": "F",
+            "lastname": "Powers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269246,
+            "scholarlyactivityid": 52625
+        },
+        "269247": {
+            "firstname": "J",
+            "middleinitial": "M",
+            "lastname": "Winiarski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269247,
+            "scholarlyactivityid": 52625
+        },
+        "269248": {
+            "firstname": "J",
+            "middleinitial": "M",
+            "lastname": "Requena-Mullo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269248,
+            "scholarlyactivityid": 52625
+        },
+        "269249": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 269249,
+            "scholarlyactivityid": 52625
+        }
+    },
+    "status": [
+        {
+            "id": 52625,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 52625,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111277518",
+    "attachments": []
+}

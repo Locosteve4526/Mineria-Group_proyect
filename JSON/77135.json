@@ -1,0 +1,76 @@
+{
+    "activityid": 77135,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The importance of nutrition education for female student-athletes",
+        "Name of Conference": "Western Society for Physical Education of College Women Annual Conference",
+        "Month / Season": "Nov",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "343971": {
+            "firstname": "Joey",
+            "middleinitial": "N.",
+            "lastname": "Benson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343971,
+            "scholarlyactivityid": 77135,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "343972": {
+            "firstname": "Samantha",
+            "middleinitial": "S.",
+            "lastname": "Wade",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343972,
+            "scholarlyactivityid": 77135,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "343973": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 343973,
+            "scholarlyactivityid": 77135,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77135,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

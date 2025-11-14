@@ -1,0 +1,52 @@
+{
+    "activityid": 29278,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Current issues in USA education",
+        "Conference/Meeting Name": "Chunbok National University",
+        "Conference Location": "Jeonju, Korea",
+        "Date or Date Range": "2005-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Sponsoring Organization": "Chunbok National University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "101765": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 101765,
+            "scholarlyactivityid": 29278
+        },
+        "101764": {
+            "firstname": "Stan",
+            "middleinitial": "F",
+            "lastname": "Steiner",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110586",
+            "authorid": 101764,
+            "scholarlyactivityid": 29278
+        }
+    },
+    "status": [
+        {
+            "id": 29278,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

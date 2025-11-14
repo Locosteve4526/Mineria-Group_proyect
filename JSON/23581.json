@@ -1,0 +1,45 @@
+{
+    "activityid": 23581,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Curious Writer",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Pearson Custom Publishing",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Pearson Custom Publishing",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/199",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "78706": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Ballenger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 78706,
+            "scholarlyactivityid": 23581
+        }
+    },
+    "status": [
+        {
+            "id": 23581,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2004,
+            "termid": "2003/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 24871,
+    "fields": {
+        "Type": "Book",
+        "Title": "Digital Age Teaching Skills: A Standards Based Approach",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "ERC Publishing",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "ERC Publishing",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/7",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111114223",
+    "coauthors": {
+        "81519": {
+            "firstname": "Constance",
+            "middleinitial": "J",
+            "lastname": "Wyzard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111499",
+            "authorid": 81519,
+            "scholarlyactivityid": 24871
+        },
+        "81520": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Schroeder",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111370179",
+            "authorid": 81520,
+            "scholarlyactivityid": 24871
+        },
+        "81521": {
+            "firstname": "Charles",
+            "middleinitial": "Christopher",
+            "lastname": "Haskell",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111114223",
+            "authorid": 81521,
+            "scholarlyactivityid": 24871
+        }
+    },
+    "status": [
+        {
+            "id": 24871,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111114223",
+    "attachments": []
+}

@@ -1,0 +1,94 @@
+{
+    "activityid": 52870,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Classifying Permutations under Context Directed Swaps with Applications",
+        "Conference / Meeting Name": "Joint Mathematics Meetings",
+        "Conference Location": "Denver, Colorado",
+        "Date or Date Range": "January 15-18, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "National Science Foundatiion",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "In 2003, Prescott hypothesized a special sorting operation performed on the genomic material of ciliates. This operation, called cds, involves block interchanges of permuted lists. Christie (1996) discovered that among those permutations which are sortable by cds, cds sorts them using the fewest possible block interchanges of any kind. Adamyk et al. (2013) discovered an efficient way of quantifying the non-cds-sortability of a permutation called the strategic pile. We partially classify the permutations with maximal strategic pile by their number of available cds moves. We complete this characterization when the number of available moves is close to maximal and when it is minimal. We discover a Z_n x Z_n action on permutations in $S_{n+1}$ that preserves the number of available cds moves. We obtain some enumerative results regarding the number of permutations with maximal strategic pile and a given number of moves mod (2n-1)^2. We also discover new conditions for player ONE to have a winning strategy in a two-person game played on non-cds-sortable permutations, improving results from Adamyk et al. (2013). Work done at the Boise State University REU CAD site.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "245888": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 245888,
+            "scholarlyactivityid": 52870
+        },
+        "245889": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Rogge",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245889,
+            "scholarlyactivityid": 52870,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "245890": {
+            "firstname": "Rushil",
+            "middleinitial": "",
+            "lastname": "Raghavan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245890,
+            "scholarlyactivityid": 52870,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "245891": {
+            "firstname": "Angelina",
+            "middleinitial": "",
+            "lastname": "Mitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245891,
+            "scholarlyactivityid": 52870,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "245892": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245892,
+            "scholarlyactivityid": 52870,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52870,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

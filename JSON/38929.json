@@ -1,0 +1,72 @@
+{
+    "activityid": 38929,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Developing a Collection of Composable Data Translation Software Units to Improve Efficiency and Reproducibility in Ecohydrologic Modeling Workflows ",
+        "Conference / Meeting Name": "American Geophysical Union Fall Meeting",
+        "Conference Location": "New Orleans",
+        "Date or Date Range": "Dec. 11-15, 2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Dynamic models of the spatiotemporal evolution of water, energy, and nutrient cycling are important tools to assess impacts of climate and other environmental changes on ecohydrologic systems. These models require spatiotemporally varying environmental forcings like precipitation, temperature, humidity, windspeed, and solar radiation. These input data originate from a variety of sources, including global and regional weather and climate models, global and regional reanalysis products, and geostatistically interpolated surface observations. Data translation measures, often subsetting in space and/or time and transforming and converting variable units, represent a seemingly mundane, but critical step in the application workflows. Translation steps can introduce errors, misrepresentations of data, slow execution time, and interrupt data provenance. We leverage a workflow that subsets a large regional dataset derived from the Weather Research and Forecasting (WRF) model and prepares inputs to the Parflow integrated hydrologic model to demonstrate the impact translation tool software quality on scientific workflow results and performance. We propose that such workflows will benefit from a community approved collection of data transformation components. The components should be self-contained composable units of code. This design pattern enables automated parallelization and software verification, improving performance and reliability. Ensuring that individual translation components are self-contained and target minute tasks increases reliability. The small code size of each component enables effective unit and regression testing. The components can be automatically composed for efficient execution. An efficient data translation framework should be written to minimize data movement. Composing components within a single streaming process reduces data movement. Each component will typically have a low arithmetic intensity, meaning that it requires about the same number of bytes to be read as the number of computations it performs. When several components\u2019 executions are coordinated the overall arithmetic intensity increases, leading to increased efficiency.\r\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "112188448",
+    "coauthors": {
+        "165564": {
+            "firstname": "Azamat",
+            "middleinitial": "",
+            "lastname": "Tulepbergenov",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 165564,
+            "scholarlyactivityid": 38929
+        },
+        "165563": {
+            "firstname": "Miguel",
+            "middleinitial": "",
+            "lastname": "Aguayo",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 165563,
+            "scholarlyactivityid": 38929
+        },
+        "165562": {
+            "firstname": "Alejandro",
+            "middleinitial": "Nicolas",
+            "lastname": "Flores",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112188448",
+            "authorid": 165562,
+            "scholarlyactivityid": 38929
+        },
+        "165561": {
+            "firstname": "Catherine",
+            "middleinitial": "",
+            "lastname": "Olschanowsky",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114065829",
+            "authorid": 165561,
+            "scholarlyactivityid": 38929
+        }
+    },
+    "status": [
+        {
+            "id": 38929,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188448",
+    "attachments": []
+}

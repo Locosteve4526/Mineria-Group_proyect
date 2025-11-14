@@ -1,0 +1,66 @@
+{
+    "activityid": 60,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Dynamics of inter-organizational knowledge creation and information technology use across object worlds: the case of an innovative construction project",
+        "Journal": "Construction Management and Economics",
+        "Volume": "28",
+        "Month / Season": "2010-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "569-588",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114026485",
+    "coauthors": {
+        "162": {
+            "firstname": "Nicholas",
+            "middleinitial": "",
+            "lastname": "Berente",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 162,
+            "scholarlyactivityid": 60
+        },
+        "163": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Baxter",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114026485",
+            "authorid": 163,
+            "scholarlyactivityid": 60
+        },
+        "164": {
+            "firstname": "Kalle",
+            "middleinitial": "",
+            "lastname": "Lyytinen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 164,
+            "scholarlyactivityid": 60
+        }
+    },
+    "status": [
+        {
+            "id": 60,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026485",
+    "attachments": []
+}

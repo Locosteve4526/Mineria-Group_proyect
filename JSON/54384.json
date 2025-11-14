@@ -1,0 +1,144 @@
+{
+    "activityid": 54384,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Securing the Internet of Things: A New Lightweight Cryptosystem",
+        "Conference / Meeting Name": "Joint Mathematics Meetings",
+        "Conference Location": "Denver, Colorado",
+        "Date or Date Range": "January 17, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Mathematical Association of America",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "As the Internet of Things expands, lightweight cryptography becomes necessary to secure the data networks of constrained devices, such as medical implants.\nIn response to the National Institute of Science and Technology\u2019s call, several\nlightweight symmetric key crypto systems, including PRESENT, have been suggested. However, none take advantage of alternate mathematical platforms or exploit parity features of permutations.\n\nThis project develops a lightweight cryptosystem called TROIKA that modifies\nPRESENT to make use of the algebraic properties of an alternate finite field.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "254931": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 254931,
+            "scholarlyactivityid": 54384,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "254932": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 254932,
+            "scholarlyactivityid": 54384,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "254933": {
+            "firstname": "Jesus",
+            "middleinitial": "",
+            "lastname": "Vargas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254933,
+            "scholarlyactivityid": 54384,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "254934": {
+            "firstname": "Eline",
+            "middleinitial": "J",
+            "lastname": "Abraham",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254934,
+            "scholarlyactivityid": 54384,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "254935": {
+            "firstname": "Belen",
+            "middleinitial": "",
+            "lastname": "Edgar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254935,
+            "scholarlyactivityid": 54384,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "254936": {
+            "firstname": "Lindsey",
+            "middleinitial": "",
+            "lastname": "Kim",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254936,
+            "scholarlyactivityid": 54384,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "254937": {
+            "firstname": "Ellen",
+            "middleinitial": "",
+            "lastname": "Min",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254937,
+            "scholarlyactivityid": 54384,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "254938": {
+            "firstname": "Michaela-Joyce",
+            "middleinitial": "",
+            "lastname": "Moshe",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254938,
+            "scholarlyactivityid": 54384,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54384,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": [
+        {
+            "attachmentid": 30338,
+            "mimetype": "application/pdf",
+            "filename": "REMYS_Poster (1).pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeVNhTzlHZUsyQUsxcWFZN0xlY2hRVi9CaW9JbXhDSzh5S2NJSmJXT1YzU005TjIvRzRqTWpMdlFGcnZZR0ttU09mTEZOK1hqZVcybz0%3D",
+            "filesize": 795405
+        }
+    ]
+}

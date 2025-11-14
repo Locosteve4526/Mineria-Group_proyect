@@ -1,0 +1,56 @@
+{
+    "activityid": 115,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Tax Primer for CPAs Volunteering at Nonprofit Organizations",
+        "Journal": "Tax Adviser, The",
+        "Volume": "",
+        "Month / Season": "2007-03-31",
+        "Issue Number": "Mar-07",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112033523",
+    "coauthors": {
+        "313": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Cowan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033523",
+            "authorid": 313,
+            "scholarlyactivityid": 115
+        },
+        "314": {
+            "firstname": "Denise",
+            "middleinitial": "",
+            "lastname": "English",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110281",
+            "authorid": 314,
+            "scholarlyactivityid": 115
+        }
+    },
+    "status": [
+        {
+            "id": 115,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112033523",
+    "attachments": []
+}

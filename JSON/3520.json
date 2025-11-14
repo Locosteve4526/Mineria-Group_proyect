@@ -1,0 +1,95 @@
+{
+    "activityid": 3520,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A comparison of jail inmate and staff correctional goal orientations: Results from across the line",
+        "Journal": "Journal of Criminal Justice",
+        "Volume": "36",
+        "Month / Season": "2013-03-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "100-115",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111642100",
+    "coauthors": {
+        "10193": {
+            "firstname": "Peter",
+            "middleinitial": "A",
+            "lastname": "Collins",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10193,
+            "scholarlyactivityid": 3520
+        },
+        "10194": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Iannacchione",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10194,
+            "scholarlyactivityid": 3520
+        },
+        "10195": {
+            "firstname": "Marianne",
+            "middleinitial": "",
+            "lastname": "Hudson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111642100",
+            "authorid": 10195,
+            "scholarlyactivityid": 3520
+        },
+        "10196": {
+            "firstname": "Mary",
+            "middleinitial": "K",
+            "lastname": "Stohr",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111675",
+            "authorid": 10196,
+            "scholarlyactivityid": 3520
+        },
+        "10197": {
+            "firstname": "Craig",
+            "middleinitial": "C",
+            "lastname": "Hemmens",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110193",
+            "authorid": 10197,
+            "scholarlyactivityid": 3520
+        }
+    },
+    "status": [
+        {
+            "id": 3520,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 3520,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111642100",
+    "attachments": []
+}

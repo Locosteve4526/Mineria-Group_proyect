@@ -1,0 +1,77 @@
+{
+    "activityid": 44418,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Facilitating Student Success in Criminal Justice Programs",
+        "Name of Conference": "WACJ",
+        "Month / Season": "Fall",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111642100",
+    "coauthors": {
+        "201372": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Giacomazzi",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358865",
+            "authorid": 201372,
+            "scholarlyactivityid": 44418
+        },
+        "201373": {
+            "firstname": "Marianne",
+            "middleinitial": "",
+            "lastname": "Hudson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111642100",
+            "authorid": 201373,
+            "scholarlyactivityid": 44418
+        },
+        "201374": {
+            "firstname": "Danielle",
+            "middleinitial": "",
+            "lastname": "Murdoch",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201374,
+            "scholarlyactivityid": 44418
+        },
+        "201375": {
+            "firstname": "Marc",
+            "middleinitial": "A.",
+            "lastname": "Ruffinengo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112049187",
+            "authorid": 201375,
+            "scholarlyactivityid": 44418
+        }
+    },
+    "status": [
+        {
+            "id": 44418,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111642100",
+    "attachments": []
+}

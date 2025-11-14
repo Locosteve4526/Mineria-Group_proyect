@@ -1,0 +1,105 @@
+{
+    "activityid": 29746,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Shoulder Surfing Resistant Graphical Authentication System",
+        "Journal": "IEEE Transactions on Dependable and Secure Computing",
+        "Volume": "15",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "180-193",
+        "Publisher": "",
+        "DOI": "10.1109/TDSC.2016.2539942",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Authentication based on passwords is used largely in applications for computer security and privacy. However, human actions such as choosing bad passwords and inputting passwords in an insecure way are regarded as \u201dthe weakest link\u201d in the authentication chain. Rather than arbitrary alphanumeric strings, users tend to choose passwords either short or meaningful for easy memorization. With web applications and mobile apps piling up, people can access these applications anytime and anywhere with various devices. This evolution brings great convenience but also increases the probability of exposing passwords to shoulder surfing attacks. Attackers can observe directly or use external recording devices to collect users\u2019 credentials. To overcome this problem, we proposed a novel authentication system PassMatrix, based on graphical passwords to resist shoulder surfing attacks. With a one-time valid login indicator and circulative horizontal and vertical bars covering the entire scope of pass-images, PassMatrix offers no hint for attackers to figure out or narrow down the password even they conduct multiple camera-based attacks. We also implemented a PassMatrix prototype on Android and carried out real user experiments to evaluate its memorability and usability. From the experimental result, the proposed system achieves better resistance to shoulder surfing attacks while maintaining usability.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "184108": {
+            "firstname": "Hung-Min",
+            "middleinitial": "",
+            "lastname": "Sun",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 184108,
+            "scholarlyactivityid": 29746,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "184109": {
+            "firstname": "Shouan-Tung",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 184109,
+            "scholarlyactivityid": 29746,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "184110": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 184110,
+            "scholarlyactivityid": 29746,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "184111": {
+            "firstname": "Chia-Yun",
+            "middleinitial": "",
+            "lastname": "Cheng",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 184111,
+            "scholarlyactivityid": 29746,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29746,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 29746,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 1222,
+            "mimetype": "application/pdf",
+            "filename": "07429722 - online DOI version.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25waXZieElIaXd6V3hEdzU5STZrcVBDbzR3Y1FrV1RTVkx2Ym9VeEJzSDFyQUQrUThkV1pRRmJZcjQwMUdYeXVKcDhzVTM1ZU41YmFnPT0%3D",
+            "filesize": 1051551
+        }
+    ]
+}

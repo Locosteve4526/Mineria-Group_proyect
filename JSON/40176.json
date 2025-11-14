@@ -1,0 +1,76 @@
+{
+    "activityid": 40176,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A case study: Increase enrollment by reducing dropout rates in adult distance education",
+        "Name of Conference": "Distance Teaching &amp; Learning",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 1998,
+        "Page Numbers": "97-102",
+        "Publisher": "University of Wisconsin-Madison",
+        "Publisher Location": "Madison, WI",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175329": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175329,
+            "scholarlyactivityid": 40176,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175330": {
+            "firstname": "Donald",
+            "middleinitial": "J",
+            "lastname": "Winiecki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110059",
+            "authorid": 175330,
+            "scholarlyactivityid": 40176,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175331": {
+            "firstname": "Jo Ann",
+            "middleinitial": "",
+            "lastname": "Fenner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175331,
+            "scholarlyactivityid": 40176,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40176,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1998,
+            "termid": "1998/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

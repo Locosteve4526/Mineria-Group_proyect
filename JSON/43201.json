@@ -1,0 +1,71 @@
+{
+    "activityid": 43201,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "2018 Summer Chamber Music Camp Faculty/Staff Recital",
+        "Name of Performing Group": "Nicole Molumby, flute; Leslie Moreau, clarinet; Barton Moreau, piano",
+        "Date or Date Range": "06-06-2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Name of Venue/Sponsor": "Boise State University",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, ID 83725",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "Peform Blaz Pucihar's newly commissioned trio for the BSU Summer Chamber Music Camp Faculty/Staff Recital",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112060963",
+    "coauthors": {
+        "193129": {
+            "firstname": "Barton",
+            "middleinitial": "",
+            "lastname": "Moreau",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146468",
+            "authorid": 193129,
+            "scholarlyactivityid": 43201
+        },
+        "193128": {
+            "firstname": "Nicole",
+            "middleinitial": "Lena",
+            "lastname": "Molumby",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112060963",
+            "authorid": 193128,
+            "scholarlyactivityid": 43201
+        },
+        "193127": {
+            "firstname": "Leslie",
+            "middleinitial": "Mae",
+            "lastname": "Moreau",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112145056",
+            "authorid": 193127,
+            "scholarlyactivityid": 43201
+        }
+    },
+    "status": [
+        {
+            "id": 43201,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112060963",
+    "attachments": [
+        {
+            "attachmentid": 15144,
+            "mimetype": "application/pdf",
+            "filename": "BSUChmCamp_FacRec_2018.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWpuRllEYTF1bVgxTlpXeWkvT0FtNjUvY2MzVnJGaldyaVRTMmd0SmRMWVJmOHkrLy9zbWM1OVlia1hxYVl3Uk1vSWEyWHBUQ0svST0%3D",
+            "filesize": 87364
+        }
+    ]
+}

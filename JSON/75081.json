@@ -1,0 +1,71 @@
+{
+    "activityid": 75081,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Top Management Team Composition and Risk Factor Disclosures",
+        "Conference/Meeting Name": "MAS Annual Meeting",
+        "Conference Location": "Austin, TX",
+        "Date or Date Range": "1/11/25",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "American Accounting Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "332262": {
+            "firstname": "Cristina",
+            "middleinitial": "",
+            "lastname": "Bailey",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332262,
+            "scholarlyactivityid": 75081,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "332263": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 332263,
+            "scholarlyactivityid": 75081,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "332264": {
+            "firstname": "Shan",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332264,
+            "scholarlyactivityid": 75081,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75081,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 34953,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cModel Reference Adaptive Control of Cardiac Output and Blood Pressure through Two Drug Infusions\u201d",
+        "Name of Conference": "5th IEEE International Symposium on Intelligent Control 1990",
+        "Month / Season": "September",
+        "Actual/Projected Year of Publication/Presentation": 1990,
+        "Page Numbers": "pp. 739-744",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Control of blood pressure and cardiac output with\r\ndopamine and sodium nitroprusside was achieved using a\r\nmodel reference adaptive controller. A procedure for selecting\r\nthe adaptation weights for a 2x2 system was developed.\r\nSatisfactory model following occurred despite time\r\ndelays that caused stability criteria to be violated. The\r\nstructure of the plant prohibited zero steady state error in\r\nsome cases, even if the parameters were known. However,\r\nthe resulting plant response was allowable from a physician\u2019s\r\nviewpoint. The adaptive controller was compared\r\nto a nonadaptive controller, showing the motivation for\r\nadaptive control.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142725": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142725,
+            "scholarlyactivityid": 34953,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142726": {
+            "firstname": "Howard",
+            "middleinitial": "",
+            "lastname": "Kaufman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142726,
+            "scholarlyactivityid": 34953,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34953,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1990,
+            "termid": "1990/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

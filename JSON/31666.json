@@ -1,0 +1,75 @@
+{
+    "activityid": 31666,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tidal Evolution of Close-in Extrasolar Planets",
+        "Journal": "Astrophysical Journal",
+        "Volume": "678",
+        "Month / Season": "May",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "1396-1406",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2008ApJ...678.1396J",
+        "Description/Abstract": "The distribution of eccentricities e of extrasolar planets with semimajor axes a &gt; 0.2 AU is very uniform, and values for e are relatively large, averaging 0.3 and broadly distributed up to near 1. For a &lt; 0.2 AU, eccentricities are much smaller (most e &lt; 0.2), a characteristic widely attributed to damping by tides after the planets formed and the protoplanetary gas disk dissipated. Most previous estimates of the tidal damping considered the tides raised on the planets, but ignored the tides raised on the stars. Most also assumed specific values for the planets' poorly constrained tidal dissipation parameter Qp. Perhaps most important, in many studies the strongly coupled evolution between e and a was ignored. We have now integrated the coupled tidal evolution equations for e and a over the estimated age of each planet, and confirmed that the distribution of initial e values of close-in planets matches that of the general population for reasonable Q values, with the best fits for stellar and planetary Q being ~105.5 and ~106.5, respectively. The accompanying evolution of a values shows most close-in planets had significantly larger a at the start of tidal migration. The earlier gas disk migration did not bring all planets to their current orbits. The current small values of a were only reached gradually due to tides over the lifetimes of the planets. These results may have important implications for planet formation models, atmospheric models of &quot;hot Jupiters,&quot; and the success of transit surveys. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "119717": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119717,
+            "scholarlyactivityid": 31666,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119718": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Greenberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119718,
+            "scholarlyactivityid": 31666,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "119719": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Barnes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 119719,
+            "scholarlyactivityid": 31666,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31666,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2008,
+            "termid": "2008/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

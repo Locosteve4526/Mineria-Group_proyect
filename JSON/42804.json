@@ -1,0 +1,89 @@
+{
+    "activityid": 42804,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Transitional movements with body borne load increases ankle work",
+        "Name of Conference": "American Society of Biomechanics",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045105",
+    "coauthors": {
+        "191268": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Cameron",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191268,
+            "scholarlyactivityid": 42804,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "191269": {
+            "firstname": "Jonathan",
+            "middleinitial": "T",
+            "lastname": "Kaplan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191269,
+            "scholarlyactivityid": 42804,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "191270": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045105",
+            "authorid": 191270,
+            "scholarlyactivityid": 42804,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "191271": {
+            "firstname": "John",
+            "middleinitial": "W",
+            "lastname": "Ramsay",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191271,
+            "scholarlyactivityid": 42804,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42804,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114045105",
+    "attachments": []
+}

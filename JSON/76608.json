@@ -1,0 +1,84 @@
+{
+    "activityid": 76608,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Identifying Knowledge Gaps in High-Concentration Dissolved Oxygen Delivery for Biological Wastewater Treatment",
+        "Journal": "Environmental Research: Water",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045153",
+    "coauthors": {
+        "341205": {
+            "firstname": "Gregor",
+            "middleinitial": "",
+            "lastname": "Posadas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341205,
+            "scholarlyactivityid": 76608,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "341206": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341206,
+            "scholarlyactivityid": 76608,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341207": {
+            "firstname": "Sondra",
+            "middleinitial": "M",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045153",
+            "authorid": 341207,
+            "scholarlyactivityid": 76608,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76608,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 76608,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112045153",
+    "attachments": []
+}

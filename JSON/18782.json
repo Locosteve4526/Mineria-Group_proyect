@@ -1,0 +1,52 @@
+{
+    "activityid": 18782,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Artist Lecture",
+        "Conference/Meeting Name": "Fringe Forum Co.",
+        "Conference Location": "Canberra, Australia",
+        "Date or Date Range": "2013-07-25",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Australian National University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113088529",
+    "coauthors": {
+        "70966": {
+            "firstname": "Mary",
+            "middleinitial": "Caroline",
+            "lastname": "Earley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113081342",
+            "authorid": 70966,
+            "scholarlyactivityid": 18782
+        },
+        "70967": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113088529",
+            "authorid": 70967,
+            "scholarlyactivityid": 18782
+        }
+    },
+    "status": [
+        {
+            "id": 18782,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113088529",
+    "attachments": []
+}

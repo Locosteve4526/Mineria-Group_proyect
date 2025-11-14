@@ -1,0 +1,80 @@
+{
+    "activityid": 64760,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The ChatGPT Artifical Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?",
+        "Journal": "Issues in Accounting Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper was a mass-authored paper driven by David Wood (BYU) and 300+ coauthors that contributed data to the project.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126866",
+    "coauthors": {
+        "338651": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Wood",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338651,
+            "scholarlyactivityid": 64760,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338652": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Stallings",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126866",
+            "authorid": 338652,
+            "scholarlyactivityid": 64760,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64760,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 64760,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 64760,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114126866",
+    "attachments": []
+}

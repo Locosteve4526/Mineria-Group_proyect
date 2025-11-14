@@ -1,0 +1,67 @@
+{
+    "activityid": 27836,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "I like therefore i learn! Engineering student motivation to learn in their least and most favorite courses",
+        "Name of Conference": "",
+        "Month / Season": "2015-06-30",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "Proceedings of 2015 American Society for Engineering Education (ASEE) Annual Conference and Exposition",
+        "Publisher Location": "Seattle, WA ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113078547",
+    "coauthors": {
+        "109488": {
+            "firstname": "L.",
+            "middleinitial": "S.",
+            "lastname": "Nadelson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176690",
+            "authorid": 109488,
+            "scholarlyactivityid": 27836
+        },
+        "109489": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Hardy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109489,
+            "scholarlyactivityid": 27836
+        },
+        "109490": {
+            "firstname": "D.",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113078547",
+            "authorid": 109490,
+            "scholarlyactivityid": 27836
+        }
+    },
+    "status": [
+        {
+            "id": 27836,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113078547",
+    "attachments": []
+}

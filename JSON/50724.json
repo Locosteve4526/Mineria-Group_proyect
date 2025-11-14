@@ -1,0 +1,66 @@
+{
+    "activityid": 50724,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Mining domain knowledge: Using functional dependencies to profile data",
+        "Name of Conference": "2016 International Conference on Information Systems",
+        "Month / Season": "December",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "RIS"
+    },
+    "facultyid": "114172679",
+    "coauthors": {
+        "336256": {
+            "firstname": "Derek",
+            "middleinitial": "",
+            "lastname": "Legenzoff",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336256,
+            "scholarlyactivityid": 50724
+        },
+        "336257": {
+            "firstname": "Teagen",
+            "middleinitial": "",
+            "lastname": "Nabity",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336257,
+            "scholarlyactivityid": 50724
+        }
+    },
+    "status": [
+        {
+            "id": 50724,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 50724,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114172679",
+    "attachments": []
+}

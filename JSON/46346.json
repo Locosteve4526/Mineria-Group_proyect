@@ -1,0 +1,58 @@
+{
+    "activityid": 46346,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Chapter 5 Strategy",
+        "Book Title": "Design Thinking and Strategy",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "85-106",
+        "Edition": "1",
+        "Volume": "1",
+        "Publisher": "Mountain Valley Innovations",
+        "Publisher Location": "Boise, ID",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Suciu, Christy &amp; Kaupins, Gundars",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "Suciu, C. &amp; Kaupins, G. are the authors of the book. I am only a co-author (2nd author with Kaupins, G.) on the Strategy chapter of the book.",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "211237": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 211237,
+            "scholarlyactivityid": 46346
+        },
+        "211236": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Mattingly",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114027549",
+            "authorid": 211236,
+            "scholarlyactivityid": 46346
+        }
+    },
+    "status": [
+        {
+            "id": 46346,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

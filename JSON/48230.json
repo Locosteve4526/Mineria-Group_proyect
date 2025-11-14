@@ -1,0 +1,81 @@
+{
+    "activityid": 48230,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "How do mothers' infant care network members perceive their role in caring for a new baby?",
+        "Journal": "(target: Maternal Child Health Journal)",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114090441",
+    "coauthors": {
+        "268248": {
+            "firstname": "Ellen",
+            "middleinitial": "",
+            "lastname": "Schafer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114090441",
+            "authorid": 268248,
+            "scholarlyactivityid": 48230
+        },
+        "268249": {
+            "firstname": "Sydney",
+            "middleinitial": "",
+            "lastname": "Nickel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268249,
+            "scholarlyactivityid": 48230,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "268250": {
+            "firstname": "Marie",
+            "middleinitial": "Denell",
+            "lastname": "Letourneau",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268250,
+            "scholarlyactivityid": 48230,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48230,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 48230,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114090441",
+    "attachments": []
+}

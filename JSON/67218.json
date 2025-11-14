@@ -1,0 +1,58 @@
+{
+    "activityid": 67218,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The number of sales digits as a window into future sales growth",
+        "Conference/Meeting Name": "IE University",
+        "Conference Location": "Segovia, Spain",
+        "Date or Date Range": "September",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "307556": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 307556,
+            "scholarlyactivityid": 67218,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "307557": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Peterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307557,
+            "scholarlyactivityid": 67218,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 67218,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

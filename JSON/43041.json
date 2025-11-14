@@ -1,0 +1,80 @@
+{
+    "activityid": 43041,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Aplicaci\u00f3n de la Ling\u00fc\u00edstica Sist\u00e9mico-Funcional al an\u00e1lisis de las comunicaciones orales en conferencias acad\u00e9micas en espa\u00f1ol ",
+        "Journal": "Revista Signos",
+        "Volume": "54",
+        "Month / Season": "",
+        "Issue Number": "Special Edition-105",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "277\u2013301",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "Arus Hita, Jorge &amp; Nora Kaplan",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067032",
+    "coauthors": {
+        "268483": {
+            "firstname": "Carolina",
+            "middleinitial": "",
+            "lastname": "Viera",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067032",
+            "authorid": 268483,
+            "scholarlyactivityid": 43041,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268484": {
+            "firstname": "Maite",
+            "middleinitial": "",
+            "lastname": "Taboada",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268484,
+            "scholarlyactivityid": 43041,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43041,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 43041,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 43041,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114067032",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 31432,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Choosing the Right Customers for Your New Product Development Projects",
+        "Name of Conference": "13th International Product Development Management Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "",
+        "Publisher": "Product Development and Management Association",
+        "Publisher Location": "Milan, Italy",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "118414": {
+            "firstname": "Narongsak",
+            "middleinitial": "&quot;Tek&quot;",
+            "lastname": "Thongpapanl",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118414,
+            "scholarlyactivityid": 31432,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "118415": {
+            "firstname": "Gina",
+            "middleinitial": "C.",
+            "lastname": "O'Connor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118415,
+            "scholarlyactivityid": 31432,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "118416": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 118416,
+            "scholarlyactivityid": 31432,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31432,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 44379,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Examining the effect of small molecule inhibition of OSM on breast cancer metastasis. ",
+        "Conference / Meeting Name": "INBRE Conference",
+        "Conference Location": "Moscow, ID",
+        "Date or Date Range": "July 31, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110166",
+    "coauthors": {
+        "201164": {
+            "firstname": "Carsten",
+            "middleinitial": "",
+            "lastname": "Ashton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 201164,
+            "scholarlyactivityid": 44379,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "201165": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Jorcyk",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 201165,
+            "scholarlyactivityid": 44379,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44379,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110166",
+    "attachments": []
+}

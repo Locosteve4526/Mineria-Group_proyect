@@ -1,0 +1,52 @@
+{
+    "activityid": 16036,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Development of a UV Assay for use in Monitoring Acyl-Homoserine Lactone Synthase Reaction. ",
+        "Conference/Meeting Name": "67th American Chemical Society Northwest Regional Meeting",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2012-06-27",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "American Chemical Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Bacterial infections are becoming more difficult to treat due to the lack of development of new antibiotics and an increase in multidrug resistant strains.  This trend can be shifted by promoting research to further understand bacteria and their mechanisms of infection.  A large number of bacteria are known to use quorum sensing, a population dependent communication via small molecules and peptides, commonly referred to as autoinducers.  Although there are multiple types of quorum sensing, a number of highly virulent bacteria make use of the Acyl-Homoserine Lactone (AHL) quorum sensing system.  The AHL systems utilize bisubstrate synthases, which catalyze the formation of AHL autoinducer molecules by combining acyl-acyl carrier proteins (acyl-ACP) with S-adenosyl-L-methionine (SAM).  The binding of AHL molecules to receptors starts a cascade effect that regulates the expression of AHL synthases resulting in increased production of autoinducers. This positive feedback loop in quorum sensing circuitry eventually leads to the formation of biofilms, production of toxins and other virulence factors.  Understanding the mechanism of AHL synthases will provide a foundation for the development of inhibitors that have the ability to attenuate infecting bacteria.  To further study AHL synthases, methods to accurately monitor reaction rates must be established.  Currently only two assays have been published to monitor the rates of AHL synthase reactions, a DCPIP assay that monitors the release of thiol and a radiolabel assay monitoring the turnover of SAM carrying a radiolabel.  We have developed a direct UV assay that monitors the cleavage of the ACP\u2019s thio-ester bond resulting in a change in absorbance at 232 nm.  The accuracy and reproducibility of this assay has been demonstrated via the use with Pseudomonas aeruginosa\u2019s AHL synthase, LasI.  This tool can provide kinetic, mechanistic and inhibitory data for an array of AHL synthases and substrates while overcoming some of the drawbacks found in previously described methods. ",
+        "Origin": "Other"
+    },
+    "facultyid": "113083415",
+    "coauthors": {
+        "65056": {
+            "firstname": "Remington",
+            "middleinitial": "",
+            "lastname": "Turner",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65056,
+            "scholarlyactivityid": 16036
+        },
+        "65057": {
+            "firstname": "Rajesh",
+            "middleinitial": "",
+            "lastname": "Nagarajan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083415",
+            "authorid": 65057,
+            "scholarlyactivityid": 16036
+        }
+    },
+    "status": [
+        {
+            "id": 16036,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083415",
+    "attachments": []
+}

@@ -1,0 +1,60 @@
+{
+    "activityid": 68753,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Exploring Transformers as Compact, Data-efficient Language Models",
+        "Name of Conference": "Proceedings of the 27th Conference on Computational Natural Language Learning (CoNLL)",
+        "Month / Season": "dec",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "Association for Computational Linguistics",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114062811",
+    "coauthors": {
+        "309574": {
+            "firstname": "Clayton",
+            "middleinitial": "",
+            "lastname": "Fields",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 309574,
+            "scholarlyactivityid": 68753,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "309575": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 309575,
+            "scholarlyactivityid": 68753
+        }
+    },
+    "status": [
+        {
+            "id": 68753,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

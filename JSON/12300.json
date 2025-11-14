@@ -1,0 +1,62 @@
+{
+    "activityid": 12300,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Writing for publication",
+        "Conference/Meeting Name": "INACSL 10th conference",
+        "Conference Location": "Las Vegas, NV",
+        "Date or Date Range": "2013-06-14",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "International Association of Clinical Simulation and Learning",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "56338": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 56338,
+            "scholarlyactivityid": 12300
+        },
+        "56339": {
+            "firstname": "Suzan",
+            "middleinitial": "",
+            "lastname": "Kardong-Edgren",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113157998",
+            "authorid": 56339,
+            "scholarlyactivityid": 12300
+        },
+        "56340": {
+            "firstname": "Cynthia ",
+            "middleinitial": "",
+            "lastname": "Thomas",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56340,
+            "scholarlyactivityid": 12300
+        }
+    },
+    "status": [
+        {
+            "id": 12300,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

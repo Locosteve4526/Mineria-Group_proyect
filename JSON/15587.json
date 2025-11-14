@@ -1,0 +1,62 @@
+{
+    "activityid": 15587,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Extraction and HPLC Separation of",
+        "Conference / Meeting Name": "LSAMP Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2012-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "64006": {
+            "firstname": "Mayra",
+            "middleinitial": "",
+            "lastname": "Estrada",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64006,
+            "scholarlyactivityid": 15587
+        },
+        "64007": {
+            "firstname": "Ashley",
+            "middleinitial": "",
+            "lastname": "Fisher",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64007,
+            "scholarlyactivityid": 15587
+        },
+        "64008": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 64008,
+            "scholarlyactivityid": 15587
+        }
+    },
+    "status": [
+        {
+            "id": 15587,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

@@ -1,0 +1,111 @@
+{
+    "activityid": 71564,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "PharmaSys: Towards Preventing Prescription Misuse Using A HIPAA-Compliant Blockchain Protocol",
+        "Name of Conference": "",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "325758": {
+            "firstname": "Aaron",
+            "middleinitial": "H.",
+            "lastname": "Nguyen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325758,
+            "scholarlyactivityid": 71564,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325759": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Lewtschuk",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325759,
+            "scholarlyactivityid": 71564,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325760": {
+            "firstname": "James",
+            "middleinitial": "Lucas",
+            "lastname": "Durham",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325760,
+            "scholarlyactivityid": 71564,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325761": {
+            "firstname": "Peyton",
+            "middleinitial": "",
+            "lastname": "Lundquist",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325761,
+            "scholarlyactivityid": 71564,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325762": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 325762,
+            "scholarlyactivityid": 71564,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71564,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 71564,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

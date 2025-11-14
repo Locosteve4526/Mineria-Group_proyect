@@ -1,0 +1,52 @@
+{
+    "activityid": 12102,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Fostering an Environment of Healing and Civility in Nursing Education",
+        "Conference / Meeting Name": "30th annual AHNA conference",
+        "Conference Location": "Colorado Springs, CO",
+        "Date or Date Range": "2010-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110314",
+    "coauthors": {
+        "55989": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Downey",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110349",
+            "authorid": 55989,
+            "scholarlyactivityid": 12102
+        },
+        "55990": {
+            "firstname": "Cynthia",
+            "middleinitial": "M",
+            "lastname": "Clark",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110314",
+            "authorid": 55990,
+            "scholarlyactivityid": 12102
+        }
+    },
+    "status": [
+        {
+            "id": 12102,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110314",
+    "attachments": []
+}

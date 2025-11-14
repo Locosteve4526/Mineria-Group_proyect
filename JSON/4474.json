@@ -1,0 +1,86 @@
+{
+    "activityid": 4474,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling Runoff Generation in a Small Snow-Dominated Mountainous Catchment",
+        "Journal": "Vadose Zone Journal",
+        "Volume": "9",
+        "Month / Season": "2010-08-01",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "517-527",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.2136/vzj2009.0033",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/geo_facpubs/75",
+        "Description/Abstract": "Snowmelt in mountainous areas is an important contributor to river water flows in the western United States. We developed a distributed model that calculates solar radiation, canopy energy balance, surface energy balance, snow pack dynamics, soil water flow, snow\u2013soil\u2013bedrock heat exchange, soil water freezing, and lateral surface and subsurface water flow. The model was applied to describe runoff generation in a subcatchment of the Dry Creek Experimental Watershed near Boise, ID. Calibration was achieved by optimizing the soil water field capacity (a trigger for lateral subsurface flow), lateral saturated soil hydraulic conductivity, and vertical saturated hydraulic conductivity of the bedrock. Validation results show that the model can successfully calculate snow dynamics, soil water content, and soil temperature. Modeled streamflow for the validation period was underestimated by 53%. The timing of the streamflow was captured reasonably well (modeling efficiency was 0.48 for the validation period). The model calculations suggest that 50 to 53% of the yearly incoming precipitation in the subcatchment is consumed by evapotranspiration. The model results further suggest that 34 to 36% of the incoming precipitation is transformed into deep percolation into the bedrock, while only 11 to 16% is transformed into streamflow.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110360",
+    "coauthors": {
+        "13454": {
+            "firstname": "T.",
+            "middleinitial": "J.",
+            "lastname": "Kelleners",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13454,
+            "scholarlyactivityid": 4474
+        },
+        "13455": {
+            "firstname": "D.",
+            "middleinitial": "G.",
+            "lastname": "Chandler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13455,
+            "scholarlyactivityid": 4474
+        },
+        "13456": {
+            "firstname": "James",
+            "middleinitial": "P",
+            "lastname": "McNamara",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110360",
+            "authorid": 13456,
+            "scholarlyactivityid": 4474
+        },
+        "13457": {
+            "firstname": "Molly",
+            "middleinitial": "",
+            "lastname": "Gribb",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643696",
+            "authorid": 13457,
+            "scholarlyactivityid": 4474
+        },
+        "13458": {
+            "firstname": "M.",
+            "middleinitial": "S.",
+            "lastname": "Seyfried",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13458,
+            "scholarlyactivityid": 4474
+        }
+    },
+    "status": [
+        {
+            "id": 4474,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110360",
+    "attachments": []
+}

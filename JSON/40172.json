@@ -1,0 +1,76 @@
+{
+    "activityid": 40172,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Evaluation of effective interventions to solve the drop-out problem in adult distance education",
+        "Name of Conference": "World Conference on Educational Multimedia, Hypermedia &amp; Telecommunications",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 1999,
+        "Page Numbers": "51-55",
+        "Publisher": "AACE",
+        "Publisher Location": "Charlottesville, VA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175321": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175321,
+            "scholarlyactivityid": 40172,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175322": {
+            "firstname": "Donald",
+            "middleinitial": "J",
+            "lastname": "Winiecki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110059",
+            "authorid": 175322,
+            "scholarlyactivityid": 40172,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175323": {
+            "firstname": "Jo Ann",
+            "middleinitial": "",
+            "lastname": "Fenner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175323,
+            "scholarlyactivityid": 40172,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40172,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1999,
+            "termid": "1999/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

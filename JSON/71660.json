@@ -1,0 +1,74 @@
+{
+    "activityid": 71660,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Impact of an Institutional Repository on Viewers' Experiences of a Student Art Exhibition",
+        "Journal": "Journal of Librarianship and Scholarly Communication",
+        "Volume": "10",
+        "Month / Season": "April",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111600859",
+    "coauthors": {
+        "326412": {
+            "firstname": "Elaine",
+            "middleinitial": "June",
+            "lastname": "Watson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111600859",
+            "authorid": 326412,
+            "scholarlyactivityid": 71660
+        },
+        "326411": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 326411,
+            "scholarlyactivityid": 71660
+        }
+    },
+    "status": [
+        {
+            "id": 71660,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 71660,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71660,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111600859",
+    "attachments": []
+}

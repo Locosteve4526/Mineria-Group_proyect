@@ -1,0 +1,62 @@
+{
+    "activityid": 70412,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Addressing the Miller Paradox and the Prebiotic Synthesis of Nucleobases&lt;/span&gt;",
+        "Journal": "ACS Earth and Space Chemistry",
+        "Volume": "7",
+        "Month / Season": "",
+        "Issue Number": "11",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "2321\u20132326",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1021/acsearthspacechem.3c00246",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114044110",
+    "coauthors": {
+        "318711": {
+            "firstname": "Michael",
+            "middleinitial": "P",
+            "lastname": "Callahan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114044110",
+            "authorid": 318711,
+            "scholarlyactivityid": 70412,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318712": {
+            "firstname": "Henderson",
+            "middleinitial": "J",
+            "lastname": "Cleaves",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318712,
+            "scholarlyactivityid": 70412,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70412,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114044110",
+    "attachments": []
+}

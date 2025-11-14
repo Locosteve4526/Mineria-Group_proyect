@@ -1,0 +1,76 @@
+{
+    "activityid": 32527,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Implementing and Assessing a Joint REU/RET Program in Materials Science",
+        "Name of Conference": "ASEE Annual Conference and Exposition",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "Paper ID #16370",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://www.researchgate.net/profile/Louis_Nadelson/publication/304930534_Implementing_and_Assessing_a_Joint_REURET_Program_in_Materials_Science/links/577d33f708aeaee3b27e3381.pdf",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112113480",
+    "coauthors": {
+        "125406": {
+            "firstname": "Noah",
+            "middleinitial": "",
+            "lastname": "Salzman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114029579",
+            "authorid": 125406,
+            "scholarlyactivityid": 32527,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125407": {
+            "firstname": "Louis",
+            "middleinitial": "",
+            "lastname": "Nadelson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125407,
+            "scholarlyactivityid": 32527,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125408": {
+            "firstname": "Rick",
+            "middleinitial": "",
+            "lastname": "Ubic PhD, MInstP",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112113480",
+            "authorid": 125408,
+            "scholarlyactivityid": 32527,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32527,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112113480",
+    "attachments": []
+}

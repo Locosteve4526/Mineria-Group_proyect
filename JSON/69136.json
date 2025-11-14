@@ -1,0 +1,54 @@
+{
+    "activityid": 69136,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;color:#333333;&quot;&gt;\u201cThe Famous Comedy of the Lieutenant Nun: an Annotated Edition,\u201d&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;&lt;/p&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Edition": "1ST",
+        "Volume": "N/A",
+        "Publisher": "Routledge Press",
+        "Publisher Location": "New York and London",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;\u201cThe Famous Comedy of the &lt;em&gt;Lieutenant Nun&lt;/em&gt;: an Annotated Edition\u201d. THis book includes a translation of the play, a translation of several archival documents about Erauso, an introduction, a forward written by Dr. Sherry Velasco, an afterward written by Dr. Simone Chess and Dr. Sawyer Kemp. The book is co-authored with Dr. Marta Albal\u00e1 Pelegr\u00edn\u00a0&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "112179795",
+    "coauthors": {
+        "353776": {
+            "firstname": "Edward",
+            "middleinitial": "M",
+            "lastname": "Test",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112179795",
+            "authorid": 353776,
+            "scholarlyactivityid": 69136
+        }
+    },
+    "status": [
+        {
+            "id": 69136,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2025,
+            "termid": "2025/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 69136,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112179795",
+    "attachments": []
+}

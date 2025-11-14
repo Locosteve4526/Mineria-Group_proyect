@@ -1,0 +1,55 @@
+{
+    "activityid": 27486,
+    "fields": {
+        "Type": "Book",
+        "Title": "Criminology: A Global Perspective",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Allyn and Bacon",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Allyn and Bacon",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/250",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "87075": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Ellis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87075,
+            "scholarlyactivityid": 27486
+        },
+        "87076": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 87076,
+            "scholarlyactivityid": 27486
+        }
+    },
+    "status": [
+        {
+            "id": 27486,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2000,
+            "termid": "1999/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

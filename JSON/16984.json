@@ -1,0 +1,52 @@
+{
+    "activityid": 16984,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Managing Student Complaints",
+        "Conference/Meeting Name": "AHIMA Faculty Development Institute (FDI) and Assembly on Education",
+        "Conference Location": "Orlando, FL",
+        "Date or Date Range": "2012-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "American Health Information Management Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "67074": {
+            "firstname": "Linda",
+            "middleinitial": "Sue",
+            "lastname": "Osgood",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111319414",
+            "authorid": 67074,
+            "scholarlyactivityid": 16984
+        },
+        "67075": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 67075,
+            "scholarlyactivityid": 16984
+        }
+    },
+    "status": [
+        {
+            "id": 16984,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

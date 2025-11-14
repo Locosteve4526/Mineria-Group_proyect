@@ -1,0 +1,84 @@
+{
+    "activityid": 69050,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Money Market Funds and N-CR Regulations",
+        "Journal": "Review of Pacific Basin Financial Markets and Policies",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114203623",
+    "coauthors": {
+        "311015": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106877",
+            "authorid": 311015,
+            "scholarlyactivityid": 69050
+        },
+        "311016": {
+            "firstname": "Ahmed",
+            "middleinitial": "S",
+            "lastname": "Baig",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114203623",
+            "authorid": 311016,
+            "scholarlyactivityid": 69050
+        },
+        "311017": {
+            "firstname": "Drew",
+            "middleinitial": "",
+            "lastname": "Winters",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311017,
+            "scholarlyactivityid": 69050
+        }
+    },
+    "status": [
+        {
+            "id": 69050,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 69050,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 69050,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114203623",
+    "attachments": []
+}

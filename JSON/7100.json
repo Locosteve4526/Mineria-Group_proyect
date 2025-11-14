@@ -1,0 +1,56 @@
+{
+    "activityid": 7100,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "On the Experience of Writing: The Title Fight",
+        "Journal": "The Quarterly",
+        "Volume": "26",
+        "Month / Season": "2004-01-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "43",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/english_facpubs/171",
+        "Description/Abstract": "Michael Smith and Jeff Wilhelm share a few words about the experience of writing and publishing &quot;Reading Don't Fix No Chevys&quot;: Literacy in the Lives of Young Men.",
+        "Origin": "Other"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "21931": {
+            "firstname": "Michael",
+            "middleinitial": "W.",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21931,
+            "scholarlyactivityid": 7100
+        },
+        "21932": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 21932,
+            "scholarlyactivityid": 7100
+        }
+    },
+    "status": [
+        {
+            "id": 7100,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2004,
+            "termid": "2003/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

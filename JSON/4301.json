@@ -1,0 +1,76 @@
+{
+    "activityid": 4301,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Opportunites lost and found: The studentteaching experience",
+        "Journal": "Journal of Teacher Education",
+        "Volume": "60",
+        "Month / Season": "2009-12-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "304-322",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111728011",
+    "coauthors": {
+        "12863": {
+            "firstname": "S",
+            "middleinitial": "",
+            "lastname": "Valencia",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12863,
+            "scholarlyactivityid": 4301
+        },
+        "12864": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111728011",
+            "authorid": 12864,
+            "scholarlyactivityid": 4301
+        },
+        "12865": {
+            "firstname": "N",
+            "middleinitial": "",
+            "lastname": "Place",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12865,
+            "scholarlyactivityid": 4301
+        },
+        "12866": {
+            "firstname": "P",
+            "middleinitial": "",
+            "lastname": "Grossman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12866,
+            "scholarlyactivityid": 4301
+        }
+    },
+    "status": [
+        {
+            "id": 4301,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728011",
+    "attachments": []
+}

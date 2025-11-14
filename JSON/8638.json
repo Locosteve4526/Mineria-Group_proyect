@@ -1,0 +1,53 @@
+{
+    "activityid": 8638,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Guest Artist",
+        "Name of Performing Group": "",
+        "Date or Date Range": "2011-03-06",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Name of Venue/Sponsor": " University of Idaho",
+        "Venue / Sponsor Location (City, State, Country)": "Moscow, ID",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "Gave Masterclass for U of I students and performed recital with Leslie &amp; Barton Moreau",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112060963",
+    "coauthors": {
+        "23653": {
+            "firstname": "Nicole",
+            "middleinitial": "Lena",
+            "lastname": "Molumby",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112060963",
+            "authorid": 23653,
+            "scholarlyactivityid": 8638
+        },
+        "23654": {
+            "firstname": "Leslie",
+            "middleinitial": "Mae",
+            "lastname": "Moreau",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112145056",
+            "authorid": 23654,
+            "scholarlyactivityid": 8638
+        }
+    },
+    "status": [
+        {
+            "id": 8638,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112060963",
+    "attachments": []
+}

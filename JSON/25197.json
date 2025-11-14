@@ -1,0 +1,55 @@
+{
+    "activityid": 25197,
+    "fields": {
+        "Type": "Book",
+        "Title": "Fidelity of Implementation",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Thousand Oaks: Corwin Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "C. F. Shores",
+        "Title of Larger Work": "Response to Intervention",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "\nPage Number:  153-169",
+        "Origin": "Other"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "82179": {
+            "firstname": "D.",
+            "middleinitial": "F.",
+            "lastname": "Mellard",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82179,
+            "scholarlyactivityid": 25197
+        },
+        "82180": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 82180,
+            "scholarlyactivityid": 25197
+        }
+    },
+    "status": [
+        {
+            "id": 25197,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 68494,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Value of Degree Advancement Accreditation",
+        "Conference/Meeting Name": "AARC Summer Forum",
+        "Conference Location": "",
+        "Date or Date Range": "7/16/23",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114178462",
+    "coauthors": {
+        "308817": {
+            "firstname": "Kristen",
+            "middleinitial": "L",
+            "lastname": "McHenry",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114178462",
+            "authorid": 308817,
+            "scholarlyactivityid": 68494,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "308818": {
+            "firstname": "Joe",
+            "middleinitial": "",
+            "lastname": "Coyle",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114089981",
+            "authorid": 308818,
+            "scholarlyactivityid": 68494,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68494,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114178462",
+    "attachments": []
+}

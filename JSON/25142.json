@@ -1,0 +1,67 @@
+{
+    "activityid": 25142,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Hybrid Trust-based Recommender System for Informal Personal Learning Environments",
+        "Name of Conference": "",
+        "Month / Season": "2013-06-18",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "Zhejiang University",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1148&amp;context=pacis2013",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "82041": {
+            "firstname": "ChaoChao",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82041,
+            "scholarlyactivityid": 25142
+        },
+        "82042": {
+            "firstname": "XiaoLin",
+            "middleinitial": "",
+            "lastname": "Zheng",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82042,
+            "scholarlyactivityid": 25142
+        },
+        "82043": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 82043,
+            "scholarlyactivityid": 25142
+        }
+    },
+    "status": [
+        {
+            "id": 25142,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

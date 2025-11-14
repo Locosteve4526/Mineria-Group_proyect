@@ -1,0 +1,67 @@
+{
+    "activityid": 33359,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Design Considerations for an Optimized FPGA Implementation of Space-Vector PWM for a Two-Level Inverter",
+        "Name of Conference": "IEEE Transportation Electrification Conference and Expo",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "131550": {
+            "firstname": "Danyal",
+            "middleinitial": "",
+            "lastname": "Mohammadi",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 131550,
+            "scholarlyactivityid": 33359
+        },
+        "131551": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 131551,
+            "scholarlyactivityid": 33359
+        },
+        "131552": {
+            "firstname": "Said",
+            "middleinitial": "",
+            "lastname": "Ahmed-Zaid",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110301",
+            "authorid": 131552,
+            "scholarlyactivityid": 33359
+        }
+    },
+    "status": [
+        {
+            "id": 33359,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

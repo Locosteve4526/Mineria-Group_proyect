@@ -1,0 +1,84 @@
+{
+    "activityid": 37808,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Substrate availability drives the temperature response of soil organic carbon decomposition in semiarid ecosystems ",
+        "Journal": "Geoderma",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113084385",
+    "coauthors": {
+        "209497": {
+            "firstname": "Kevin",
+            "middleinitial": "",
+            "lastname": "Feris",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209497,
+            "scholarlyactivityid": 37808,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "209498": {
+            "firstname": "Hasini",
+            "middleinitial": "",
+            "lastname": "Delvinne",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 209498,
+            "scholarlyactivityid": 37808,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "209499": {
+            "firstname": "Marie-Anne",
+            "middleinitial": "",
+            "lastname": "de Graaff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113084385",
+            "authorid": 209499,
+            "scholarlyactivityid": 37808,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37808,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 37808,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113084385",
+    "attachments": []
+}

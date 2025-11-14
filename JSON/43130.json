@@ -1,0 +1,75 @@
+{
+    "activityid": 43130,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Potential of Humanitarian Engineering and Social Entrepreneurship",
+        "Journal": "Journal of Social Entrepreneurship",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112207077",
+    "coauthors": {
+        "192722": {
+            "firstname": "Bastian",
+            "middleinitial": "",
+            "lastname": "Thomsen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003452",
+            "authorid": 192722,
+            "scholarlyactivityid": 43130
+        },
+        "192723": {
+            "firstname": "Anthony",
+            "middleinitial": "D",
+            "lastname": "Songer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112207077",
+            "authorid": 192723,
+            "scholarlyactivityid": 43130
+        },
+        "192724": {
+            "firstname": "Kellen",
+            "middleinitial": "",
+            "lastname": "Copeland",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 192724,
+            "scholarlyactivityid": 43130
+        }
+    },
+    "status": [
+        {
+            "id": 43130,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 43130,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112207077",
+    "attachments": []
+}

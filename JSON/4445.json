@@ -1,0 +1,86 @@
+{
+    "activityid": 4445,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Spatial Distribution of Organic Carbon in a Semi-Arid Complex Terrain",
+        "Journal": "Geoderma",
+        "Volume": "165",
+        "Month / Season": "2011-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "11-Jan",
+        "Publisher": "",
+        "DOI": "10.1016/j.geoderma.2011.06.011",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110360",
+    "coauthors": {
+        "13306": {
+            "firstname": "M.",
+            "middleinitial": "L.",
+            "lastname": "Kunkel",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13306,
+            "scholarlyactivityid": 4445
+        },
+        "13307": {
+            "firstname": "Alejandro",
+            "middleinitial": "Nicolas",
+            "lastname": "Flores",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188448",
+            "authorid": 13307,
+            "scholarlyactivityid": 4445
+        },
+        "13308": {
+            "firstname": "T.",
+            "middleinitial": "J.",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13308,
+            "scholarlyactivityid": 4445
+        },
+        "13309": {
+            "firstname": "James",
+            "middleinitial": "P",
+            "lastname": "McNamara",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110360",
+            "authorid": 13309,
+            "scholarlyactivityid": 4445
+        },
+        "13310": {
+            "firstname": "Shawn",
+            "middleinitial": "G",
+            "lastname": "Benner",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112032120",
+            "authorid": 13310,
+            "scholarlyactivityid": 4445
+        }
+    },
+    "status": [
+        {
+            "id": 4445,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110360",
+    "attachments": []
+}

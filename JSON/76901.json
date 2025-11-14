@@ -1,0 +1,83 @@
+{
+    "activityid": 76901,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p style=&quot;font-size:12pt;&quot;&gt;Advancing terrestrial snow depth monitoring with machine learning and L-band InSAR data: a case study using NASA\u2019s SnowEx 2017 data&lt;/p&gt;",
+        "Journal": "Frontiers in Remote Sensing",
+        "Volume": "5",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "Frontiers Media SA",
+        "DOI": "10.3389/frsen.2024.1481848",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2024.1481848/full",
+        "Description/Abstract": "&lt;span&gt;Current terrestrial snow depth mapping from space faces challenges in spatial coverage, revisit frequency, and cost. Airborne lidar, although precise, incurs high costs and has limited geographical coverage, thereby necessitating the exploration of alternative, cost-effective methodologies for snow depth estimation. The forthcoming NASA-ISRO Synthetic Aperture Radar (NISAR) mission, with its 12-day global revisit cycle and 1.25\u00a0GHz\u00a0L-band frequency, introduces a promising avenue for cost-effective, large-scale snow depth and snow water equivalent (SWE) estimation using L-band Interferometric SAR (InSAR) capabilities. This study demonstrates InSAR\u2019s potential for snow depth estimation via machine learning. Using 3\u00a0m resolution L-band InSAR products over Grand Mesa, Colorado, we compared the performance of three machine learning approaches (XGBoost, ExtraTrees, and Neural Networks) across open, vegetated, and the combined (open + vegetated) datasets using Root Mean Square Error (RMSE), Mean Bias Error (MBE), and\u00a0&lt;/span&gt;&lt;em&gt;R&lt;/em&gt;&lt;sup&gt;&lt;em&gt;2&lt;/em&gt;&lt;/sup&gt;&lt;span&gt;\u00a0metrics. XGBoost emerged as the superior model, with RMSE values of 9.85\u00a0cm, 10.46\u00a0cm, and 9.88\u00a0cm for open, vegetated, and combined regions, respectively. Validation against\u00a0&lt;/span&gt;&lt;em&gt;in situ&lt;/em&gt;&lt;span&gt;\u00a0snow depth measurements resulted in an RMSE of approximately 16\u00a0cm, similar to\u00a0&lt;/span&gt;&lt;em&gt;in situ&lt;/em&gt;&lt;span&gt;\u00a0validation of the airborne lidar. Our findings indicate that L-band InSAR, with its ability to penetrate clouds and cover extensive areas, coupled with machine learning, holds promise for enhancing snow depth estimation. This approach, especially with the upcoming NISAR launch, may enable high-resolution (\u223c10\u00a0m) snow depth mapping over extensive areas, provided suitable training data are available, offering a cost-effective approach for snow monitoring. The code and data used in this work are available at\u00a0&lt;/span&gt;&lt;a href=&quot;https://github.com/cryogars/uavsar-lidar-ml-project&quot;&gt;https://github.com/cryogars/uavsar-lidar-ml-project&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "342505": {
+            "firstname": "Ibrahim",
+            "middleinitial": "O",
+            "lastname": "Alabi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342505,
+            "scholarlyactivityid": 76901,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342506": {
+            "firstname": "Hans-Peter",
+            "middleinitial": "",
+            "lastname": "Marshall",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188758",
+            "authorid": 342506,
+            "scholarlyactivityid": 76901,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342507": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 342507,
+            "scholarlyactivityid": 76901,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76901,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": [
+        {
+            "attachmentid": 61601,
+            "mimetype": "application/pdf",
+            "filename": "frsen-1-1481848.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yZ3YydmYxTVNROFJmTnBDakNkcGlOMlZ0RFdwTEhKQlIzaWlndFZnOThpcTZGZ0VtWmlNeS8%3D",
+            "filesize": 4883706
+        }
+    ]
+}

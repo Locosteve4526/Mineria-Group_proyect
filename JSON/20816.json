@@ -1,0 +1,62 @@
+{
+    "activityid": 20816,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Extracellular Matrix modulates cell signaling",
+        "Conference/Meeting Name": "Idaho INBRE Conference",
+        "Conference Location": "Moscow, ID",
+        "Date or Date Range": "2010-08-03",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110166",
+    "coauthors": {
+        "75358": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 75358,
+            "scholarlyactivityid": 20816
+        },
+        "75359": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Jorcyk",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 75359,
+            "scholarlyactivityid": 20816
+        },
+        "75360": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 75360,
+            "scholarlyactivityid": 20816
+        }
+    },
+    "status": [
+        {
+            "id": 20816,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110166",
+    "attachments": []
+}

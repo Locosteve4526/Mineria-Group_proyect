@@ -1,0 +1,96 @@
+{
+    "activityid": 32597,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Dynamic finite element knee simulation for evaluation of knee replacement mechanics",
+        "Journal": "Journal of biomechanics",
+        "Volume": "45",
+        "Month / Season": null,
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "474-83",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "In vitro pre-clinical testing of total knee replacement (TKR) devices is a necessary step in the evaluation of new implant designs. Whole joint knee simulators, like the Kansas knee simulator (KKS), provide a controlled and repeatable loading environment for comparative evaluation of component designs or surgical alignment under dynamic conditions. Experimental testing, however, is time and cost prohibitive for design-phase evaluation of tens or hundreds of design variations. Experimentally-verified computational models provide an efficient platform for analysis of multiple components, sizes, and alignment conditions. The purpose of the current study was to develop and verify a computational model of a dynamic, whole joint knee simulator. Experimental internal-external and valgus-varus laxity tests, followed by dynamic deep knee bend and gait simulations in the KKS were performed on three cadaveric specimens. Specimen-specific finite element (FE) models of posterior-stabilized TKR were created from magnetic resonance images and CAD geometry. The laxity data was used to optimize mechanical properties of tibiofemoral soft-tissue structures on a specimen-specific basis. Each specimen was subsequently analyzed in a computational model of the experimental KKS, simulating both dynamic activities. The computational model represented all joints and actuators in the experimental setup, including a proportional-integral-derivative (PID) controller to drive quadriceps actuation. The computational model was verified against six degree-of-freedom patellofemoral (PF) and tibiofemoral (TF) kinematics and actuator loading during both deep knee bend and gait activities, with good agreement in trends and magnitudes between model predictions and experimental kinematics; differences were less than 1.8 mm and 2.2\u00b0 for PF and TF translations and rotations. The whole joint FE simulator described in this study can be applied to investigate a wide range of clinical and research questions.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "125748": {
+            "firstname": "M",
+            "middleinitial": "A",
+            "lastname": "Baldwin",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125748,
+            "scholarlyactivityid": 32597
+        },
+        "125749": {
+            "firstname": "Chadd ",
+            "middleinitial": "W",
+            "lastname": "Clary",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125749,
+            "scholarlyactivityid": 32597
+        },
+        "125750": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125750,
+            "scholarlyactivityid": 32597
+        },
+        "125751": {
+            "firstname": "Jame",
+            "middleinitial": "S",
+            "lastname": "Deacy",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125751,
+            "scholarlyactivityid": 32597
+        },
+        "125752": {
+            "firstname": "Lorin ",
+            "middleinitial": "P",
+            "lastname": "Maletsky",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125752,
+            "scholarlyactivityid": 32597
+        },
+        "125753": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125753,
+            "scholarlyactivityid": 32597
+        }
+    },
+    "status": [
+        {
+            "id": 32597,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

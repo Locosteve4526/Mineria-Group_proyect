@@ -1,0 +1,56 @@
+{
+    "activityid": 5618,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Review of Counseling and Therapy in Video",
+        "Journal": "The Charleston Advisor",
+        "Volume": "11",
+        "Month / Season": "2009-12-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "18-22",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111203681",
+    "coauthors": {
+        "17232": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 17232,
+            "scholarlyactivityid": 5618
+        },
+        "17233": {
+            "firstname": "Jose",
+            "middleinitial": "Guillermo Cordova",
+            "lastname": "Silva",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111203681",
+            "authorid": 17233,
+            "scholarlyactivityid": 5618
+        }
+    },
+    "status": [
+        {
+            "id": 5618,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111203681",
+    "attachments": []
+}

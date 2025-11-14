@@ -1,0 +1,52 @@
+{
+    "activityid": 10786,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Cryptology",
+        "Conference/Meeting Name": "ISAS Webinars",
+        "Conference Location": "Boise",
+        "Date or Date Range": "2016-03-11",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Idaho Digital Learning Academy",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Webinar for the NASA funded Idaho Science and Aerospace Scholars Spring Academy about the role of cryptology in modern society, and the fundamental mathematical ideas behind crypto technology. Supports the Spring curriculum. Students from all over Idaho. ",
+        "Origin": "Other"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "53334": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 53334,
+            "scholarlyactivityid": 10786
+        },
+        "53335": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 53335,
+            "scholarlyactivityid": 10786
+        }
+    },
+    "status": [
+        {
+            "id": 10786,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111716691",
+    "attachments": []
+}

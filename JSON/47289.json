@@ -1,0 +1,89 @@
+{
+    "activityid": 47289,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "RIBS: Risky Blind-Spots for Attack Classification Models",
+        "Name of Conference": "PSBD Workshop at IEEE BigData 2019",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048778",
+    "coauthors": {
+        "216596": {
+            "firstname": "Mikel",
+            "middleinitial": "",
+            "lastname": "Joaristi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216596,
+            "scholarlyactivityid": 47289,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "216597": {
+            "firstname": "Arthur",
+            "middleinitial": "",
+            "lastname": "Putnam",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216597,
+            "scholarlyactivityid": 47289,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "216598": {
+            "firstname": "Alfredo",
+            "middleinitial": "",
+            "lastname": "Cuzzocrea",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 216598,
+            "scholarlyactivityid": 47289,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "216599": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048778",
+            "authorid": 216599,
+            "scholarlyactivityid": 47289,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47289,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048778",
+    "attachments": []
+}

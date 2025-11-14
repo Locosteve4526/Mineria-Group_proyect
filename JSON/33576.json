@@ -1,0 +1,57 @@
+{
+    "activityid": 33576,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Using Mobile Technology in a Construction Management \u201cHands-On\u201d Laboratory",
+        "Name of Conference": "2013 ASEE Annual Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112401",
+    "coauthors": {
+        "132691": {
+            "firstname": "R",
+            "middleinitial": "Casey",
+            "lastname": "Cline",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111112401",
+            "authorid": 132691,
+            "scholarlyactivityid": 33576
+        },
+        "132692": {
+            "firstname": "Kirsten",
+            "middleinitial": "A",
+            "lastname": "Davis",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112103256",
+            "authorid": 132692,
+            "scholarlyactivityid": 33576
+        }
+    },
+    "status": [
+        {
+            "id": 33576,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112401",
+    "attachments": []
+}

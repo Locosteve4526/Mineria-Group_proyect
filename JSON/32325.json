@@ -1,0 +1,62 @@
+{
+    "activityid": 32325,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Market Analysis of Priority Populations to Health and Public Health Professional Associations",
+        "Journal": "Washington State Journal of Public Health",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111641510",
+    "coauthors": {
+        "124451": {
+            "firstname": "Taylor",
+            "middleinitial": "",
+            "lastname": "Neher",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 124451,
+            "scholarlyactivityid": 32325,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "124452": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Toevs",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111641510",
+            "authorid": 124452,
+            "scholarlyactivityid": 32325,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32325,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 7,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111641510",
+    "attachments": []
+}

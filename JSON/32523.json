@@ -1,0 +1,62 @@
+{
+    "activityid": 32523,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Personas: Breathing life into abstract performance data",
+        "Conference/Meeting Name": "International Society for Performance Improvement",
+        "Conference Location": "San Antonio, TX",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112056561",
+    "coauthors": {
+        "125390": {
+            "firstname": "Steven",
+            "middleinitial": "W",
+            "lastname": "Villachica",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112139967",
+            "authorid": 125390,
+            "scholarlyactivityid": 32523
+        },
+        "125389": {
+            "firstname": "Anthony",
+            "middleinitial": "W",
+            "lastname": "Marker",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112056561",
+            "authorid": 125389,
+            "scholarlyactivityid": 32523
+        },
+        "125388": {
+            "firstname": "Cheri",
+            "middleinitial": "L",
+            "lastname": "Zubak",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125388,
+            "scholarlyactivityid": 32523
+        }
+    },
+    "status": [
+        {
+            "id": 32523,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112056561",
+    "attachments": []
+}

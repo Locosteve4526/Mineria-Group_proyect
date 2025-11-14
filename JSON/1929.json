@@ -1,0 +1,56 @@
+{
+    "activityid": 1929,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Location, Location, Location: the Impact of IM Widget Placement",
+        "Journal": "College &amp; Undergraduate Libraries",
+        "Volume": "20",
+        "Month / Season": "2013-03-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "72-86",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113171989",
+    "coauthors": {
+        "4972": {
+            "firstname": "Jolie",
+            "middleinitial": "Ogg",
+            "lastname": "Graybill",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4972,
+            "scholarlyactivityid": 1929
+        },
+        "4973": {
+            "firstname": "Tracy",
+            "middleinitial": "",
+            "lastname": "Bicknell-Holmes",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113171989",
+            "authorid": 4973,
+            "scholarlyactivityid": 1929
+        }
+    },
+    "status": [
+        {
+            "id": 1929,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113171989",
+    "attachments": []
+}

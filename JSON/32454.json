@@ -1,0 +1,110 @@
+{
+    "activityid": 32454,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Demonstrating artifacts seen in 2D slices through 3D mortar models with real sand particle shape and uniform thickness interfacial transition zones",
+        "Journal": "Journal of Computing in Civil Engineering",
+        "Volume": "",
+        "Month / Season": "12/2016",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "All scanning electron microscopic (SEM) examination of mortars are based on two-dimensional (2D) slices through the true three-dimensional (3D) microstructure. Even though stereology guarantees that certain quantities are the same in both 2D and 3D, such as 2D area fractions and 3D volume fractions, there must be many artifacts that are seen in 2D that have 3D explanations. For example, 2D slices through a 3D packing of monosized spheres gives a size distribution of circles. A mortar containing a size distribution of randomly-shaped sand grains, with interfacial transition zones (ITZs) and bulk cement paste, is much more complicated so that the 2D artifacts could conceivably be themselves more complicated. Using the Anm model, we generate mortar models with real (measured) sand particle size and shape distributions, surrounded by completely uniform thickness ITZs, and then examine 2D slices and display the multiple types of artifacts that can be generated when real shape particles are used. Artifacts that are seen include: small particles that are close together but really come from the same 3D particle, joined ITZs that really come from two parts of the same 3D particle, a distribution in apparent ITZ widths, ITZs that appear in the middle of a 2D particle, inner and outer parts of an ITZ that have apparently been inverted, and patches of pure ITZ (so less dense) material appearing by themselves in the middle of bulk cement paste. Our hypothesis is proved that some of the patches are phases of hydrated cement paste, but other patches are 2D projection of 3D uniform thickness ITZ effect. The listed typical 2D artifacts show the considerable amount of features observed in the 2D images. Without clear knowledge of the microstructure, these features could be mistaken as various patches. However, as is evident from the 2D sliced images, they are part of the 3D continuous domains or ITZ effects.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "125187": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 125187,
+            "scholarlyactivityid": 32454,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125188": {
+            "firstname": "Edward",
+            "middleinitial": "",
+            "lastname": "Garboczi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125188,
+            "scholarlyactivityid": 32454,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125189": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Thomas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125189,
+            "scholarlyactivityid": 32454,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32454,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 32454,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 32454,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 32454,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114001675",
+    "attachments": [
+        {
+            "attachmentid": 4874,
+            "mimetype": "application/pdf",
+            "filename": "Anm paper #3_v1.3.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitaM2lIR0hZTkY3V3haaHFDR0tlQVlVaHFPaHhFS1VlSWhYZXFiSGhPeUZqaDk1REZ5K1RVL2Y%3D",
+            "filesize": 1353156
+        }
+    ]
+}

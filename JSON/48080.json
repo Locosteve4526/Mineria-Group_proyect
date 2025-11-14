@@ -1,0 +1,63 @@
+{
+    "activityid": 48080,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Optimization of Advances Encryption Standard (AES) using Vivado High Level Synthesis",
+        "Name of Conference": "International Conference on Computers and Their Application (CATA)",
+        "Month / Season": "MArch",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "34 - 44",
+        "Publisher": "CATA",
+        "Publisher Location": "Salt LAke CIty",
+        "Volume": "58",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "221993": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 221993,
+            "scholarlyactivityid": 48080,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "221994": {
+            "firstname": "Fady",
+            "middleinitial": "",
+            "lastname": "Hussein",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 221994,
+            "scholarlyactivityid": 48080,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48080,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

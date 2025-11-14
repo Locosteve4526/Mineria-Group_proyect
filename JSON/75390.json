@@ -1,0 +1,127 @@
+{
+    "activityid": 75390,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models&lt;/p&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/2407.01599v2",
+        "Description/Abstract": "&lt;p&gt;The rapid evolution of artificial intelligence (AI) through developments in Large Language Models (LLMs) and Vision-Language Models (VLMs) has brought significant advancements across various technological domains. While these models enhance capabilities in natural language processing and visual interactive tasks, their growing adoption raises critical concerns regarding security and ethical alignment. This survey provides an extensive review of the emerging field of jailbreaking--deliberately circumventing the ethical and operational boundaries of LLMs and VLMs--and the consequent development of defense mechanisms. Our study categorizes jailbreaks into seven distinct types and elaborates on defense strategies that address these vulnerabilities. Through this comprehensive examination, we identify research gaps and propose directions for future studies to enhance the security frameworks of LLMs and VLMs. Our findings underscore the necessity for a unified perspective that integrates both jailbreak strategies and defensive solutions to foster a robust, secure, and reliable environment for the next generation of language models. More details can be found on our website: \\url{https://chonghan-chen.com/llm-jailbreak-zoo-survey/}. [Journal_ref: ]&lt;/p&gt;",
+        "Origin": "arXiv"
+    },
+    "facultyid": "114254397",
+    "coauthors": {
+        "333679": {
+            "firstname": "Haibo",
+            "middleinitial": "",
+            "lastname": "Jin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333679,
+            "scholarlyactivityid": 75390,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333680": {
+            "firstname": "Leyang",
+            "middleinitial": "",
+            "lastname": "Hu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333680,
+            "scholarlyactivityid": 75390,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333681": {
+            "firstname": "Xinuo",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333681,
+            "scholarlyactivityid": 75390,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333682": {
+            "firstname": "Peiyan",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333682,
+            "scholarlyactivityid": 75390,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333683": {
+            "firstname": "Chonghan",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333683,
+            "scholarlyactivityid": 75390,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333684": {
+            "firstname": "Jun",
+            "middleinitial": "",
+            "lastname": "Zhuang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333684,
+            "scholarlyactivityid": 75390,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "333685": {
+            "firstname": "Haohan",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 333685,
+            "scholarlyactivityid": 75390,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75390,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254397",
+    "attachments": []
+}

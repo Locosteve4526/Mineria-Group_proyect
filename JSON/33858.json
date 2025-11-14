@@ -1,0 +1,61 @@
+{
+    "activityid": 33858,
+    "fields": {
+        "Type": "Book",
+        "Title": "Archaeological Excavations at Siriki Shell Mound, Northwest Guyana, 2016",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "",
+        "Volume": "Monographs in Archaeology No. 5",
+        "Publisher": "",
+        "Publisher Location": "The University of Guyana",
+        "ISBN": "978-0-9893325-1-4",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110261",
+    "coauthors": {
+        "135165": {
+            "firstname": "Mark",
+            "middleinitial": "G",
+            "lastname": "Plew",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110261",
+            "authorid": 135165,
+            "scholarlyactivityid": 33858,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "135166": {
+            "firstname": "Louisa",
+            "middleinitial": "B.",
+            "lastname": "Daggers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 135166,
+            "scholarlyactivityid": 33858,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33858,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110261",
+    "attachments": []
+}

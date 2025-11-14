@@ -1,0 +1,88 @@
+{
+    "activityid": 71501,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Does survey insufficient error responding interact with common method variance? A simulation study",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "349979": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 349979,
+            "scholarlyactivityid": 71501,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349980": {
+            "firstname": "Elizabeth",
+            "middleinitial": "",
+            "lastname": "Haglund",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349980,
+            "scholarlyactivityid": 71501,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349981": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 349981,
+            "scholarlyactivityid": 71501,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349982": {
+            "firstname": "Marcia",
+            "middleinitial": "",
+            "lastname": "Simmering",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349982,
+            "scholarlyactivityid": 71501,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71501,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065605",
+    "attachments": []
+}

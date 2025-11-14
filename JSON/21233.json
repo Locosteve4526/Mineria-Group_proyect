@@ -1,0 +1,52 @@
+{
+    "activityid": 21233,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The challenges, frustrations and triumphs of remixing an open source engine for educational games",
+        "Conference/Meeting Name": "Open Education Conference 2006: Community, Culture and Content",
+        "Conference Location": "Logan, UT",
+        "Date or Date Range": "2006-09-29",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "76524": {
+            "firstname": "T",
+            "middleinitial": "",
+            "lastname": "Stowell",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 76524,
+            "scholarlyactivityid": 21233
+        },
+        "76525": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 76525,
+            "scholarlyactivityid": 21233
+        }
+    },
+    "status": [
+        {
+            "id": 21233,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

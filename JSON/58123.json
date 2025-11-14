@@ -1,0 +1,61 @@
+{
+    "activityid": 58123,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "Idaho needs media literacy to combat COVID-19 misinformation",
+        "Name of Venue": "Idaho Capital Sun",
+        "Date": "2021-09-24",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Activity Type": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045170",
+    "coauthors": {
+        "270055": {
+            "firstname": "Seth",
+            "middleinitial": "",
+            "lastname": "Ashley",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270055,
+            "scholarlyactivityid": 58123,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "270056": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045170",
+            "authorid": 270056,
+            "scholarlyactivityid": 58123,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58123,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114045170",
+    "attachments": []
+}

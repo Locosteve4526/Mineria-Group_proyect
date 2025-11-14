@@ -1,0 +1,75 @@
+{
+    "activityid": 58798,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Analysis of skills sought by employers of bachelors-level geoscientists",
+        "Journal": "GSA Today",
+        "Volume": "32",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "34-35",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1130/GSATG510GW.1",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "274439": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Shafer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274439,
+            "scholarlyactivityid": 58798,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274440": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 274440,
+            "scholarlyactivityid": 58798,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274441": {
+            "firstname": "Anne",
+            "middleinitial": "E",
+            "lastname": "Egger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274441,
+            "scholarlyactivityid": 58798,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58798,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

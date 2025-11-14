@@ -1,0 +1,74 @@
+{
+    "activityid": 31841,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Flushing responses of Golden Eagles (Aquila chrysaetos) in response to recreation.",
+        "Journal": "Wilson Journal of Ornithology",
+        "Volume": "129",
+        "Month / Season": "2016-07-01",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "834-845",
+        "Publisher": "",
+        "DOI": "doi.org/10.1676/16-165.1",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111277518",
+    "coauthors": {
+        "168237": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Spaul",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 168237,
+            "scholarlyactivityid": 31841
+        },
+        "168238": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 168238,
+            "scholarlyactivityid": 31841
+        }
+    },
+    "status": [
+        {
+            "id": 31841,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 31841,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 31841,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111277518",
+    "attachments": []
+}

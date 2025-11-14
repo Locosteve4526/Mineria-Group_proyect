@@ -1,0 +1,63 @@
+{
+    "activityid": 53720,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "HLS Implementation of Linear Discriminant Analysis Classifier",
+        "Name of Conference": "IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "SeVilla, Spain (Virtual)",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "251420": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Wasef",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 251420,
+            "scholarlyactivityid": 53720,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "251421": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 251421,
+            "scholarlyactivityid": 53720,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53720,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

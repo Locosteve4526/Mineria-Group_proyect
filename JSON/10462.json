@@ -1,0 +1,62 @@
+{
+    "activityid": 10462,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Introducing DockoMatic: A Computational Tool for Scientists",
+        "Conference/Meeting Name": "94th Annual AAASPD Conference",
+        "Conference Location": "Las Vegas, NV",
+        "Date or Date Range": "2013-06-30",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111669907",
+    "coauthors": {
+        "52887": {
+            "firstname": "Nic",
+            "middleinitial": "",
+            "lastname": "Cornia",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 52887,
+            "scholarlyactivityid": 10462
+        },
+        "52888": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 52888,
+            "scholarlyactivityid": 10462
+        },
+        "52889": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 52889,
+            "scholarlyactivityid": 10462
+        }
+    },
+    "status": [
+        {
+            "id": 10462,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669907",
+    "attachments": []
+}

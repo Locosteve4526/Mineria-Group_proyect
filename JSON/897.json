@@ -1,0 +1,56 @@
+{
+    "activityid": 897,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Enterprise system implementation and use at Bryant manufacturing:  an analysis of ERP fits and misfits",
+        "Journal": "Production and Inventory Management Journal.",
+        "Volume": "44",
+        "Month / Season": "2005-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112057162",
+    "coauthors": {
+        "2172": {
+            "firstname": "Dale",
+            "middleinitial": "L",
+            "lastname": "Goodhue",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 2172,
+            "scholarlyactivityid": 897
+        },
+        "2173": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Gattiker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112057162",
+            "authorid": 2173,
+            "scholarlyactivityid": 897
+        }
+    },
+    "status": [
+        {
+            "id": 897,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112057162",
+    "attachments": []
+}

@@ -1,0 +1,67 @@
+{
+    "activityid": 51225,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The CEO who cried wolf: the long-term cost of impression management",
+        "Name of Conference": "Annual Academy of Management ",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114171276",
+    "coauthors": {
+        "235797": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Hyde",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114171276",
+            "authorid": 235797,
+            "scholarlyactivityid": 51225
+        },
+        "235798": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Bachura",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235798,
+            "scholarlyactivityid": 51225
+        },
+        "235799": {
+            "firstname": "Cory",
+            "middleinitial": "",
+            "lastname": "Villanueva",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235799,
+            "scholarlyactivityid": 51225
+        }
+    },
+    "status": [
+        {
+            "id": 51225,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114171276",
+    "attachments": []
+}

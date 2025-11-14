@@ -1,0 +1,45 @@
+{
+    "activityid": 50656,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Thompson 13F filings via WRDS",
+        "Conference/Meeting Name": "COBE Brown Bag Presentation",
+        "Conference Location": "COBE",
+        "Date or Date Range": "9/8/20",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "234465": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 234465,
+            "scholarlyactivityid": 50656,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 50656,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

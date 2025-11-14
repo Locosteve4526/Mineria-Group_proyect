@@ -1,0 +1,74 @@
+{
+    "activityid": 36742,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "A Survey of Graduate Student Needs",
+        "Outlet (if applicable)": "",
+        "Date": "Summer 2016-Summer 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111670030",
+    "coauthors": {
+        "250598": {
+            "firstname": "Gail",
+            "middleinitial": "E",
+            "lastname": "Shuck",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111670030",
+            "authorid": 250598,
+            "scholarlyactivityid": 36742,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "250599": {
+            "firstname": "Daniel",
+            "middleinitial": "S",
+            "lastname": "Wilber",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 250599,
+            "scholarlyactivityid": 36742,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 36742,
+            "status": "Work Discontinued",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 36742,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111670030",
+    "attachments": []
+}

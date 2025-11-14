@@ -1,0 +1,65 @@
+{
+    "activityid": 25649,
+    "fields": {
+        "Type": "Book",
+        "Title": "An easyguide to APA style (2nd ed.)",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Sage",
+        "Publisher Location": "Thousand Oaks, CA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "83158": {
+            "firstname": "Beth",
+            "middleinitial": "",
+            "lastname": "Schwartz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83158,
+            "scholarlyactivityid": 25649
+        },
+        "83159": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 83159,
+            "scholarlyactivityid": 25649
+        },
+        "83160": {
+            "firstname": "Regan",
+            "middleinitial": "A. R.",
+            "lastname": "Gurung",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83160,
+            "scholarlyactivityid": 25649
+        }
+    },
+    "status": [
+        {
+            "id": 25649,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 56065,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Engaging Learners through Interactive Field Experiences",
+        "Conference/Meeting Name": "Future of Education",
+        "Conference Location": "Florence, Italy",
+        "Date or Date Range": "July",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "Pixel",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "261168": {
+            "firstname": "Melissa",
+            "middleinitial": "D",
+            "lastname": "Caspary",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 261168,
+            "scholarlyactivityid": 56065,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "261169": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 261169,
+            "scholarlyactivityid": 56065,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 56065,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

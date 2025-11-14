@@ -1,0 +1,66 @@
+{
+    "activityid": 53752,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Automated Classification of Postural Control for Individuals With Parkinson's Disease Using a Machine Learning Approach: A Preliminary Study",
+        "Journal": "Journal of applied biomechanics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "1-6",
+        "Publisher": "",
+        "DOI": "10.1123/jab.2019-0400",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The purposes of the study were (1)\u00a0to compare postural sway between participants with Parkinson's disease (PD) and healthy controls and (2)\u00a0to develop and validate an automated classification of PD postural control patterns using a machine learning approach. A total of 9 participants in the early stage of PD and 12 healthy controls were recruited. Participants were instructed to stand on a force plate and maintain stillness for 2 minutes with eyes open and eyes closed. The center of pressure data were collected at 50 Hz. Linear displacements, standard deviations, total distances, sway areas, and multiscale entropy of center of pressure were calculated and compared using mixed-model analysis of variance. Five supervised machine learning algorithms (ie,\u00a0logistic regression, K-nearest neighbors, Na\u00efve Bayes, decision trees, and random forest) were used to classify PD postural control patterns. Participants with PD exhibited greater center of pressure sway and variability compared with controls. The K-nearest neighbor method exhibited the best prediction performance with an accuracy rate of up to 0.86. In conclusion, participants with PD exhibited impaired postural stability and their postural sway features could be identified by machine learning algorithms.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114135151",
+    "coauthors": {
+        "254665": {
+            "firstname": "Yumeng",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254665,
+            "scholarlyactivityid": 53752
+        },
+        "254666": {
+            "firstname": "Shuqi",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254666,
+            "scholarlyactivityid": 53752
+        },
+        "254667": {
+            "firstname": "Christina",
+            "middleinitial": "",
+            "lastname": "Odeh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254667,
+            "scholarlyactivityid": 53752
+        }
+    },
+    "status": [
+        {
+            "id": 53752,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114135151",
+    "attachments": []
+}

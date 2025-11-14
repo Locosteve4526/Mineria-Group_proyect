@@ -1,0 +1,81 @@
+{
+    "activityid": 75212,
+    "fields": {
+        "Type": "Case Study",
+        "Title of Contribution": "Research Collaboration: Sheep Grazing Cheatgrass",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Date Published": "",
+        "Publisher": "American Sheep Industry Association",
+        "Publisher Location": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "Targeted Grazing 101: Starting and Sustaining a Grazing Service Enterprise",
+        "Author": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106013",
+    "coauthors": {
+        "332939": {
+            "firstname": "Kelly",
+            "middleinitial": "A",
+            "lastname": "Hopping",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106013",
+            "authorid": 332939,
+            "scholarlyactivityid": 75212,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "332940": {
+            "firstname": "Renee",
+            "middleinitial": "",
+            "lastname": "Kehler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332940,
+            "scholarlyactivityid": 75212,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "332941": {
+            "firstname": "Riley",
+            "middleinitial": "",
+            "lastname": "Kowtiz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332941,
+            "scholarlyactivityid": 75212,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75212,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 75212,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114106013",
+    "attachments": []
+}

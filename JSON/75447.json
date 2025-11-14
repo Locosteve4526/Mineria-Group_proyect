@@ -1,0 +1,63 @@
+{
+    "activityid": 75447,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Creative Adaptation: Using ChatGPT to Facilitate SImulation Scenario Development",
+        "Name of Conference": "International Meeting on Simulation in Healthcare",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112188730",
+    "coauthors": {
+        "334515": {
+            "firstname": "Jason",
+            "middleinitial": "K",
+            "lastname": "Blomquist",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188730",
+            "authorid": 334515,
+            "scholarlyactivityid": 75447,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "334516": {
+            "firstname": "Tracee",
+            "middleinitial": "E",
+            "lastname": "Chapman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111313797",
+            "authorid": 334516,
+            "scholarlyactivityid": 75447,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75447,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188730",
+    "attachments": []
+}

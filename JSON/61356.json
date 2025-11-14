@@ -1,0 +1,72 @@
+{
+    "activityid": 61356,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Clay for HCI Research: Creating and Interpreting Forms",
+        "Name of Conference": "Workshop on Disruptive Improvisation: Making Use of Non-Deterministic Art Practices in HCI",
+        "Month / Season": "Apr",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "352069": {
+            "firstname": "Annuska",
+            "middleinitial": "",
+            "lastname": "Zolyomi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352069,
+            "scholarlyactivityid": 61356,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352070": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 352070,
+            "scholarlyactivityid": 61356,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61356,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61356,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

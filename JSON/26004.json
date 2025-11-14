@@ -1,0 +1,58 @@
+{
+    "activityid": 26004,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Theory of Viscoelastic Love Waves and Their Potential Application to Near Surface Sensing of Permeability",
+        "Book Title": "Advances in Near-Surface Seismology and Ground-penetrating Radar",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "263-278",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Advances in Near-Surface Seismology and Ground-penetrating Radar",
+        "Publisher Location": " ",
+        "ISBN": "http://dx.doi.org/10.1190/1.9781560802259.ch16",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "http://scholarworks.boisestate.edu/cgiss_facpubs/146",
+        "Description/Abstract": "In computing Love-wave solutions, the choice of constitutive model depends on the domain of application. In the domain of global earthquake seismology, the search for solutions in the complex plane began in the vicinity of the elastic solutions. In the case of near-surface engineering work, damping levels can be large, and elastic stiffness can be much less than in global seismology. Furthermore, the choice of representation should depend on the permeability and degree of water saturation. The study of dry or impermeable soils and rock, where viscous effects are largely absent, has led to an alternative representation for the Kelvin-Voigt damping property. Under that alternative of effective viscosity, the damping ratio is a frequency-independent soil constant. Permeable, water-saturated soils, on the other hand, have shown viscous behavior. A method to solve for Love waves can be used under a truly viscous assumption. Applications would include near-surface remote sensing of either water content or permeability.",
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/146",
+        "Origin": "Other"
+    },
+    "facultyid": "111110288",
+    "coauthors": {
+        "83910": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Michaels",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110288",
+            "authorid": 83910,
+            "scholarlyactivityid": 26004
+        },
+        "83911": {
+            "firstname": "Vijay",
+            "middleinitial": "",
+            "lastname": "Gottumukkula",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83911,
+            "scholarlyactivityid": 26004
+        }
+    },
+    "status": [
+        {
+            "id": 26004,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110288",
+    "attachments": []
+}

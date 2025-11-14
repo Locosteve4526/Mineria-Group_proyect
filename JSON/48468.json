@@ -1,0 +1,58 @@
+{
+    "activityid": 48468,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Me, Myself and AI",
+        "Conference/Meeting Name": "CAES",
+        "Conference Location": "Idaho Falls, ID",
+        "Date or Date Range": "June 6, 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113162964",
+    "coauthors": {
+        "226034": {
+            "firstname": "Lan (Samantha)",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113162964",
+            "authorid": 226034,
+            "scholarlyactivityid": 48468,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "226035": {
+            "firstname": "Lawrence",
+            "middleinitial": "",
+            "lastname": "Spear",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226035,
+            "scholarlyactivityid": 48468,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48468,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113162964",
+    "attachments": []
+}

@@ -1,0 +1,45 @@
+{
+    "activityid": 25634,
+    "fields": {
+        "Type": "Book",
+        "Title": "Annual editions: Psychology 13/14 (44th ed.)",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Edition": "44",
+        "Volume": "",
+        "Publisher": "McGraw Hill/Dushkin",
+        "Publisher Location": "New York, NY",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Landrum, R. E.  ",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "83126": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 83126,
+            "scholarlyactivityid": 25634
+        }
+    },
+    "status": [
+        {
+            "id": 25634,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

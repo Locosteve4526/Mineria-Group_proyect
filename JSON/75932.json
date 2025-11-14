@@ -1,0 +1,76 @@
+{
+    "activityid": 75932,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Investigation of Rockfall Path Tortuosity from Laboratory Experiments",
+        "Name of Conference": "Geo-Congress 2026",
+        "Month / Season": "Spring",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "American Society of Civil Engineers",
+        "Publisher Location": "Reston, VA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114136465",
+    "coauthors": {
+        "337466": {
+            "firstname": "Grant",
+            "middleinitial": "",
+            "lastname": "Goertzen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337466,
+            "scholarlyactivityid": 75932,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "337467": {
+            "firstname": "Bakari",
+            "middleinitial": "",
+            "lastname": "Harrison",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337467,
+            "scholarlyactivityid": 75932,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "337468": {
+            "firstname": "Nicholas",
+            "middleinitial": "W",
+            "lastname": "Hudyma",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114136465",
+            "authorid": 337468,
+            "scholarlyactivityid": 75932,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75932,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2026,
+            "termid": "2025/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114136465",
+    "attachments": []
+}

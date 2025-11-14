@@ -1,0 +1,75 @@
+{
+    "activityid": 77423,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Trade-offs for Salmon Recovery Strategies in Idaho",
+        "Journal": "Ecology and Society",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114011762",
+    "coauthors": {
+        "346201": {
+            "firstname": "Jared",
+            "middleinitial": "L",
+            "lastname": "Talley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111636450",
+            "authorid": 346201,
+            "scholarlyactivityid": 77423
+        },
+        "346202": {
+            "firstname": "Monica",
+            "middleinitial": "L",
+            "lastname": "Hubbard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114011762",
+            "authorid": 346202,
+            "scholarlyactivityid": 77423
+        },
+        "346203": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Maas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346203,
+            "scholarlyactivityid": 77423
+        }
+    },
+    "status": [
+        {
+            "id": 77423,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 77423,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114011762",
+    "attachments": []
+}

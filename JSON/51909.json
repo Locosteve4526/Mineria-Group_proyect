@@ -1,0 +1,66 @@
+{
+    "activityid": 51909,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Integrated Geophysical Exploration of a Known Geothermal Resource, Neal Hot Springs",
+        "Journal": null,
+        "Volume": null,
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": null,
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "111110034",
+    "coauthors": {
+        "240208": {
+            "firstname": "Clinton",
+            "middleinitial": "Ryan",
+            "lastname": "Colwell",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 240208,
+            "scholarlyactivityid": 51909
+        },
+        "240209": {
+            "firstname": "Kasper",
+            "middleinitial": "",
+            "lastname": "VanWijk",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 240209,
+            "scholarlyactivityid": 51909
+        },
+        "240210": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Liberty",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 240210,
+            "scholarlyactivityid": 51909
+        }
+    },
+    "status": [
+        {
+            "id": 51909,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110034",
+    "attachments": []
+}

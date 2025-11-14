@@ -1,0 +1,66 @@
+{
+    "activityid": 5820,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A dozen great books: Taking action in the face of adversity",
+        "Journal": "Journal of Children's Literature",
+        "Volume": "36",
+        "Month / Season": "2010-04-30",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "23-27",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112180267",
+    "coauthors": {
+        "18008": {
+            "firstname": "Margaret",
+            "middleinitial": "Elaine",
+            "lastname": "Chase",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111142773",
+            "authorid": 18008,
+            "scholarlyactivityid": 5820
+        },
+        "18009": {
+            "firstname": "EunHye",
+            "middleinitial": "",
+            "lastname": "Son",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112180267",
+            "authorid": 18009,
+            "scholarlyactivityid": 5820
+        },
+        "18010": {
+            "firstname": "Stan",
+            "middleinitial": "F",
+            "lastname": "Steiner",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110586",
+            "authorid": 18010,
+            "scholarlyactivityid": 5820
+        }
+    },
+    "status": [
+        {
+            "id": 5820,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112180267",
+    "attachments": []
+}

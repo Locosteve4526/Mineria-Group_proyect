@@ -1,0 +1,76 @@
+{
+    "activityid": 47135,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "When Ice Tongues Die: Exploring the Transition from Floating to Grounded Ice in Greenland",
+        "Name of Conference": "American Geophysical Union Fall Meeting",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/552273",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112680",
+    "coauthors": {
+        "215518": {
+            "firstname": "Christopher",
+            "middleinitial": "D",
+            "lastname": "Miele",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 215518,
+            "scholarlyactivityid": 47135,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "215519": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Bartholomaus",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 215519,
+            "scholarlyactivityid": 47135,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "215520": {
+            "firstname": "Ellyn",
+            "middleinitial": "M",
+            "lastname": "Enderlin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112680",
+            "authorid": 215520,
+            "scholarlyactivityid": 47135,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47135,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112680",
+    "attachments": []
+}

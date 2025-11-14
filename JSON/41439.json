@@ -1,0 +1,58 @@
+{
+    "activityid": 41439,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Project SEED at Boise State University, part 1: Program overview and student experiences",
+        "Conference/Meeting Name": "73rd Northwest Regional Meeting of the American Chemical Society",
+        "Conference Location": "Richland, WA",
+        "Date or Date Range": "06/2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "American Chemical Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702068",
+    "coauthors": {
+        "182090": {
+            "firstname": "Don",
+            "middleinitial": "Lewis",
+            "lastname": "Warner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702068",
+            "authorid": 182090,
+            "scholarlyactivityid": 41439,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "182091": {
+            "firstname": "Samantha",
+            "middleinitial": "",
+            "lastname": "Ward",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 182091,
+            "scholarlyactivityid": 41439,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41439,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702068",
+    "attachments": []
+}

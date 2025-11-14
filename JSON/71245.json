@@ -1,0 +1,87 @@
+{
+    "activityid": 71245,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Center for Veterinary Biologics :Application for Authorization to Ship Experimental Veterinary Biologic",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "46",
+        "Volume": "",
+        "Author/Editor of larger work": "Elise Overgaard, Haley Bridgewater, Juliette Tinker",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This application is essentially a full application to the USDA for licensure of a biologic product (vaccine) for use in animals. However, at this stage we are asking for authorization to ship, and for feedback on the application from the USDA CVB.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "348706": {
+            "firstname": "Elise",
+            "middleinitial": "",
+            "lastname": "Overgaard",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 348706,
+            "scholarlyactivityid": 71245,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "348707": {
+            "firstname": "Haley",
+            "middleinitial": "",
+            "lastname": "Bridgewater",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 348707,
+            "scholarlyactivityid": 71245,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "348708": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 348708,
+            "scholarlyactivityid": 71245,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71245,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 71245,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 48433,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Faculty self-reported use of quantitative and data analysis skills in undergraduate geoscience courses",
+        "Journal": "Journal of Geoscience Education",
+        "Volume": "69",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "373-386",
+        "Publisher": "",
+        "DOI": "doi:10.1080/10899995.2019.1700595",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "274382": {
+            "firstname": "Rory",
+            "middleinitial": "R",
+            "lastname": "McFadden",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274382,
+            "scholarlyactivityid": 48433,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274383": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 274383,
+            "scholarlyactivityid": 48433,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274384": {
+            "firstname": "Anne",
+            "middleinitial": "E",
+            "lastname": "Egger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274384,
+            "scholarlyactivityid": 48433,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48433,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

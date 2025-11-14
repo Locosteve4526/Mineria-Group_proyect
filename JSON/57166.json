@@ -1,0 +1,56 @@
+{
+    "activityid": 57166,
+    "fields": {
+        "Type": "Instructional Publications",
+        "Title": "Bontrager Textbook of Radiographic Positioning and Related Anatomy",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Organization (if applicable)": "",
+        "Issue Number/Edition": "10th ed",
+        "Page Numbers": "819",
+        "Publisher": "Elsevier Publishing",
+        "ISBN/ISSN/ASIN #": "",
+        "Author/Editor of larger work": "Lampignano/Kendrick",
+        "Title of larger work": "",
+        "DOI": "",
+        "Author(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108846",
+    "coauthors": {
+        "264134": {
+            "firstname": "John",
+            "middleinitial": "P.",
+            "lastname": "Lampignano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108846",
+            "authorid": 264134,
+            "scholarlyactivityid": 57166
+        },
+        "264135": {
+            "firstname": "Leslie",
+            "middleinitial": "Elona",
+            "lastname": "Kendrick",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111325081",
+            "authorid": 264135,
+            "scholarlyactivityid": 57166
+        }
+    },
+    "status": [
+        {
+            "id": 57166,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114108846",
+    "attachments": []
+}

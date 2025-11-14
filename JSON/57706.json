@@ -1,0 +1,76 @@
+{
+    "activityid": 57706,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "G2PMineR: A Genome to Phenome Literature Review Approach",
+        "Journal": "Genes",
+        "Volume": "12",
+        "Month / Season": null,
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": "10.3390/genes12020293",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "There is a gap in the conceptual framework linking genes to phenotypes (G2P) for non-model organisms, as most non-model organisms do not yet have genomic resources readily available. To address this, researchers often perform literature reviews to understand G2P linkages by curating a list of likely gene candidates, hinging upon other studies already conducted in closely related systems. Sifting through hundreds to thousands of articles is a cumbersome task that slows down the scientific process and may introduce bias into a study. To fill this gap, we created G2PMineR, a free and open source literature mining tool developed specifically for G2P research. This R package uses automation to make the G2P review process efficient and unbiased, while also generating hypothesized associations between genes and phenotypes within a taxonomical framework. We applied the package to a literature review for drought-tolerance in plants. The analysis provides biologically meaningful results within the known framework of drought tolerance in plants. Overall, the package is useful for conducting literature reviews for genome to phenome projects, and also has broad appeal to scientists investigating a wide range of study systems as it can conduct analyses under the auspices of three different kingdoms (Plantae, Animalia, and Fungi).",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114088564",
+    "coauthors": {
+        "266929": {
+            "firstname": "John M A",
+            "middleinitial": "",
+            "lastname": "Wojahn",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 266929,
+            "scholarlyactivityid": 57706
+        },
+        "266930": {
+            "firstname": "Stephanie ",
+            "middleinitial": "J",
+            "lastname": "Galla",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 266930,
+            "scholarlyactivityid": 57706
+        },
+        "266931": {
+            "firstname": "Anthony ",
+            "middleinitial": "E",
+            "lastname": "Melton",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 266931,
+            "scholarlyactivityid": 57706
+        },
+        "266932": {
+            "firstname": "Sven",
+            "middleinitial": "",
+            "lastname": "Buerki",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 266932,
+            "scholarlyactivityid": 57706
+        }
+    },
+    "status": [
+        {
+            "id": 57706,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114088564",
+    "attachments": []
+}

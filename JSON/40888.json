@@ -1,0 +1,93 @@
+{
+    "activityid": 40888,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Attitudes toward same-sex family rights: Education facilitating progressive attitude change",
+        "Journal": "Australian Psychologist",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114087965",
+    "coauthors": {
+        "179445": {
+            "firstname": "Steph",
+            "middleinitial": "",
+            "lastname": "Webb",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179445,
+            "scholarlyactivityid": 40888,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179446": {
+            "firstname": "Phil",
+            "middleinitial": "",
+            "lastname": "Kavanaugh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179446,
+            "scholarlyactivityid": 40888,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179447": {
+            "firstname": "Jill",
+            "middleinitial": "M",
+            "lastname": "Chonody",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114087965",
+            "authorid": 179447,
+            "scholarlyactivityid": 40888,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40888,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40888,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 40888,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114087965",
+    "attachments": []
+}

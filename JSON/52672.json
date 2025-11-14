@@ -1,0 +1,62 @@
+{
+    "activityid": 52672,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Exploring Minecraft as a Tool for Learning in the K-12 Classroom",
+        "Journal": "The Journal of Korean Association of Computer Education",
+        "Volume": "23",
+        "Month / Season": "",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "53-60",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.32431/kace.2020.23.5.006",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "244706": {
+            "firstname": "Ward",
+            "middleinitial": "",
+            "lastname": "Sean",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 244706,
+            "scholarlyactivityid": 52672,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "244707": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 244707,
+            "scholarlyactivityid": 52672,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52672,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

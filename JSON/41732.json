@@ -1,0 +1,56 @@
+{
+    "activityid": 41732,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Moving Forward:  Insights From Noyce Internship Programs",
+        "Name of Conference": "Noyce Summitt",
+        "Month / Season": "July ",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://www.nsfnoyce.org/wp-content/uploads/2018/06/2018Noyce_Summit_ProgramBook.pdf",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111300400",
+    "coauthors": {
+        "184222": {
+            "firstname": "Janette",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111300400",
+            "authorid": 184222,
+            "scholarlyactivityid": 41732
+        }
+    },
+    "status": [
+        {
+            "id": 41732,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 41732,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111300400",
+    "attachments": []
+}

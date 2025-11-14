@@ -1,0 +1,76 @@
+{
+    "activityid": 48970,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Quantification of In Vitro Volumetric Meniscal Wear Using a 3D Optical Scanner.",
+        "Name of Conference": "Summer Biomechanics, Bioengineering &amp; Biotransport Conference",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "277302": {
+            "firstname": "Kate",
+            "middleinitial": "",
+            "lastname": "Benfield",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 277302,
+            "scholarlyactivityid": 48970,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "277303": {
+            "firstname": "Katie",
+            "middleinitial": "",
+            "lastname": "Hollar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 277303,
+            "scholarlyactivityid": 48970,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "277304": {
+            "firstname": "Trevor",
+            "middleinitial": "Justin",
+            "lastname": "Lujan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113124248",
+            "authorid": 277304,
+            "scholarlyactivityid": 48970,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48970,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

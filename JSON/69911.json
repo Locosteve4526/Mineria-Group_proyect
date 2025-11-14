@@ -1,0 +1,61 @@
+{
+    "activityid": 69911,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;p style=&quot;font-size:medium;&quot;&gt;Voice in\u00a0Local Development: Participation, Empowerment, and Accountability in Kenya.&lt;/p&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Oxford University Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111670037",
+    "coauthors": {
+        "316307": {
+            "firstname": "MIke",
+            "middleinitial": "",
+            "lastname": "Touchton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316307,
+            "scholarlyactivityid": 69911,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "316308": {
+            "firstname": "Brian",
+            "middleinitial": "D",
+            "lastname": "Wampler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111670037",
+            "authorid": 316308,
+            "scholarlyactivityid": 69911,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69911,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111670037",
+    "attachments": []
+}

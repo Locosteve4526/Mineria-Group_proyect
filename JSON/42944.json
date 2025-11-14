@@ -1,0 +1,87 @@
+{
+    "activityid": 42944,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "The Effects of Academic Probation on College Performance Along the Extensive and Intensive Margins",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045269",
+    "coauthors": {
+        "191781": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045269",
+            "authorid": 191781,
+            "scholarlyactivityid": 42944,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "191782": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Lowe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112096790",
+            "authorid": 191782,
+            "scholarlyactivityid": 42944,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "191783": {
+            "firstname": "Yingying",
+            "middleinitial": "",
+            "lastname": "Dong",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191783,
+            "scholarlyactivityid": 42944,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42944,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42944,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114045269",
+    "attachments": []
+}

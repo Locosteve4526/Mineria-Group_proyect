@@ -1,0 +1,67 @@
+{
+    "activityid": 50295,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Disaggregated Financial Statement Comparability",
+        "Conference/Meeting Name": "COBE Scholarship Series",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2/12/2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126866",
+    "coauthors": {
+        "257441": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Bjornsen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257441,
+            "scholarlyactivityid": 50295,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257442": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Stallings",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126866",
+            "authorid": 257442,
+            "scholarlyactivityid": 50295,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 50295,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 50295,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114126866",
+    "attachments": []
+}

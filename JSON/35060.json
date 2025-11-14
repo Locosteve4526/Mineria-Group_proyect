@@ -1,0 +1,78 @@
+{
+    "activityid": 35060,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Distance learning",
+        "Book Title": "Oxford bibliographies in education",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Oxford University Press",
+        "Publisher Location": "New York, NY",
+        "ISBN": "doi: 10.1093/OBO/9780199756810-0186",
+        "Author/Editor of Larger Work": "A. Hynds",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "143159": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 143159,
+            "scholarlyactivityid": 35060
+        },
+        "143158": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 143158,
+            "scholarlyactivityid": 35060
+        },
+        "143157": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Rich",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 143157,
+            "scholarlyactivityid": 35060
+        },
+        "143156": {
+            "firstname": "Shelly",
+            "middleinitial": "",
+            "lastname": "Walters",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 143156,
+            "scholarlyactivityid": 35060
+        }
+    },
+    "status": [
+        {
+            "id": 35060,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

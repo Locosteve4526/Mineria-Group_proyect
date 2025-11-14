@@ -1,0 +1,50 @@
+{
+    "activityid": 34934,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cModeling Image Degradations for Improving OCR\u201d",
+        "Name of Conference": "16th European Signal Processing Conference",
+        "Month / Season": "25-29 August",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "",
+        "Publisher": "EUSIPCO",
+        "Publisher Location": "Lausanne, Switzerland",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Clean documents are relatively easy to recognize. However,\r\nwhen digitizing collections of documents, the clean\r\nones are rarely the documents that are encountered. The processes\r\nof printing and scanning documents introduce image\r\ndegradations that interfere with the segmentation and recognition\r\nprocesses. Mathematical models of the degradation\r\nprocesses are presented. From these the types of degradations\r\nthat are seen can be quantitatively and qualitatively\r\ndescribed. Included in the discussion are sampling, edge\r\nspread, corner erosion, and edge noise. The relationship\r\nbetween these degradations and common OCR errors is described.\r\nBy considering the degradation model, a theoretical\r\nfoundation is available to improve the document recognition\r\nprocess.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142648": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142648,
+            "scholarlyactivityid": 34934,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34934,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2008,
+            "termid": "2008/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

@@ -1,0 +1,85 @@
+{
+    "activityid": 71090,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "EFFECTS OF DISCHARGE AND MORPHOLOGY ON FLUVIAL SOUND",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110360",
+    "coauthors": {
+        "322958": {
+            "firstname": "Scott",
+            "middleinitial": "J",
+            "lastname": "Gauvain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 322958,
+            "scholarlyactivityid": 71090
+        },
+        "322959": {
+            "firstname": "Jacob",
+            "middleinitial": "F",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001444",
+            "authorid": 322959,
+            "scholarlyactivityid": 71090
+        },
+        "322960": {
+            "firstname": "Elowyn",
+            "middleinitial": "",
+            "lastname": "Yager",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 322960,
+            "scholarlyactivityid": 71090
+        },
+        "322961": {
+            "firstname": "James",
+            "middleinitial": "P",
+            "lastname": "McNamara",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110360",
+            "authorid": 322961,
+            "scholarlyactivityid": 71090
+        }
+    },
+    "status": [
+        {
+            "id": 71090,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71090,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110360",
+    "attachments": []
+}

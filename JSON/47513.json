@@ -1,0 +1,72 @@
+{
+    "activityid": 47513,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Cyber-Physical Systems Security Introductory Course for STEM Students",
+        "Name of Conference": "2020 Annual ASEE Conference",
+        "Month / Season": "June 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "We are witnessing the rapid development and adoption of Cyber-Physical Systems (CPS). CPS refers to the integration of digital and internetworked components, and physical devices in systems that affect nearly everyone in society. These devices are always connected to the internet. This wireless connectivity gives CPS devices the capability to be in continuously monitoring mode where data and information are delivered to device owner through a proxy server. This opens up all kinds of security issues for a device that has been built with features with little security considerations. At present, many Science, Technology, Engineering, and Mathematics (STEM) graduates are not fully comprehending the security impact of device connectivity. STEM students are graduating without awareness of cybersecurity or cyber-physical systems security issues/challenges and not being aware of the security issues related to algorithms or systems they are designing. It is because the security awareness is not part of the current curriculum. \nIn this paper, we highlight cybersecurity program at Boise State University that includes an introductory class on CPS security. Some topics included in this course are information technology versus operation technology, cryptography, industrial control system, smart grid, CAN bus, risk assessment, red versus blue team, and Kali Linux. In this paper, we provide examples on how students\u2019 knowledge of CPS security changes over the course of the program, how students are supported in and out of their classroom in advancing their knowledge in this field. We also highlight the impact project-based and team coordinated learning, can have on increasing students\u2019 understanding of the fundamentals of CPS security.\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "218105": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 218105,
+            "scholarlyactivityid": 47513,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "218106": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218106,
+            "scholarlyactivityid": 47513,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47513,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 47513,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

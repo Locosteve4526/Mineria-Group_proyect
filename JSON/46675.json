@@ -1,0 +1,83 @@
+{
+    "activityid": 46675,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Effective size of oxygen vacancies in perovskites",
+        "Journal": "Journal of Alloys and Compounds",
+        "Volume": "\u200f 836",
+        "Month / Season": "Sept",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "Elsevier",
+        "DOI": "10.1016/j.jallcom.2020.155475",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www-sciencedirect-com.libproxy.boisestate.edu/science/article/pii/S0925838820318399",
+        "Description/Abstract": "Although most commercial perovskite ceramics contain oxygen vacancies, whether intrinsic or extrinsic, few correlative models currently exist to predict their effects on crystal structure or local crystallochemistry. Such predictive models, derived from empirical relationships between synthesis and structural data, can significantly facilitate future research and development. In this work, eight compositions within the CaTi1-xFexO3-x/2 system and eleven compositions within the SrTi1-xFexO3-x/2 system were synthesized using a conventional solid-oxide mixing procedure. Using a data-mining approach, these data were supplemented with data from five more published oxygen-deficient systems. Empirical models for all seven systems were developed to calculate both the effective oxygen vacancy size as well as the bond deformation term using only the modified tolerance factor. A general model for the modified tolerance factor itself was also developed which accounts for the effect of oxygen vacancies using only published ionic radii data as inputs.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112113480",
+    "coauthors": {
+        "244661": {
+            "firstname": "Evan",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 244661,
+            "scholarlyactivityid": 46675,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "244662": {
+            "firstname": "Sre\u010do",
+            "middleinitial": "",
+            "lastname": "\u0160kapin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 244662,
+            "scholarlyactivityid": 46675,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "244663": {
+            "firstname": "Rick",
+            "middleinitial": "",
+            "lastname": "Ubic PhD, MInstP",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112113480",
+            "authorid": 244663,
+            "scholarlyactivityid": 46675,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46675,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112113480",
+    "attachments": [
+        {
+            "attachmentid": 27020,
+            "mimetype": "application/pdf",
+            "filename": "1-s2.0-S0925838820318399-main.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeUhJRXRBWEhMK1hrekh3cFM2eWFPdEdUdHV4UnhFRTBTVlRwVUlmdjBQanhlb1IwUldpbUNoUzE4dnpSRjc2ZEk2OS92eThpc2t3a2pZeHo4dGVqaXJ3PT0%3D",
+            "filesize": 1309450
+        }
+    ]
+}

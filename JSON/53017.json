@@ -1,0 +1,62 @@
+{
+    "activityid": 53017,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "In memoriam: Wilbert J. McKeachie",
+        "Journal": "Teaching of Psychology",
+        "Volume": "47",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "3-4",
+        "Publisher": "SAGE",
+        "DOI": "doi:10.1177/0098628319884476",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "246975": {
+            "firstname": "Jane",
+            "middleinitial": "S.",
+            "lastname": "Halonen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246975,
+            "scholarlyactivityid": 53017,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246976": {
+            "firstname": "R. Eric",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 246976,
+            "scholarlyactivityid": 53017,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53017,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

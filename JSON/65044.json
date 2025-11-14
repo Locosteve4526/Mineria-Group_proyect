@@ -1,0 +1,97 @@
+{
+    "activityid": 65044,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "SciLedger: A Blockchain-based Scientific Workflow Provenance and Data Sharing Platform",
+        "Name of Conference": "8th IEEE International Conference on Collaboration and Internet Computing (CIC)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "302007": {
+            "firstname": "Reagan",
+            "middleinitial": "",
+            "lastname": "Hoopes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302007,
+            "scholarlyactivityid": 65044,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "302008": {
+            "firstname": "Hamilton",
+            "middleinitial": "",
+            "lastname": "Hardy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302008,
+            "scholarlyactivityid": 65044,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "302009": {
+            "firstname": "Min",
+            "middleinitial": "",
+            "lastname": "Long",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114011333",
+            "authorid": 302009,
+            "scholarlyactivityid": 65044,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "302010": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 302010,
+            "scholarlyactivityid": 65044,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 65044,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": [
+        {
+            "attachmentid": 45547,
+            "mimetype": "application/pdf",
+            "filename": "GD_SciLedger_IEEE_CIC_2022.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitiTXNiZTgvcTZ6c2NwWEJLdEtTalRVOUYvVHhwWkRXYmE0elA1cXpIWXpvNDVvYWdYcXlQdTlWNnM4N2RPcVlsbz0%3D",
+            "filesize": 2431334
+        }
+    ]
+}

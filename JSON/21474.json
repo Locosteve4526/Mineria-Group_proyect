@@ -1,0 +1,115 @@
+{
+    "activityid": 21474,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using Ground Penetrating Radar to Document Characteristics of Underground Burrowing Owl Burrows",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "159664": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 159664,
+            "scholarlyactivityid": 21474,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "159665": {
+            "firstname": "Emily",
+            "middleinitial": "",
+            "lastname": "Hinz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 159665,
+            "scholarlyactivityid": 21474,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "159666": {
+            "firstname": "Carl",
+            "middleinitial": "",
+            "lastname": "Rudein",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 159666,
+            "scholarlyactivityid": 21474,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "159667": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Bradford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 159667,
+            "scholarlyactivityid": 21474,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 21474,
+            "status": "Work Discontinued",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 21474,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 21474,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 21474,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

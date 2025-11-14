@@ -1,0 +1,84 @@
+{
+    "activityid": 54382,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "ZeroLender: Trustless Peer-to- Peer Bitcoin Lending Platform",
+        "Name of Conference": "10th ACM Conference on Data and Application Security and Privacy (CODASPY)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "254921": {
+            "firstname": "Yi",
+            "middleinitial": "",
+            "lastname": "Xie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254921,
+            "scholarlyactivityid": 54382,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "254922": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Holmes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 254922,
+            "scholarlyactivityid": 54382,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "254923": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 254923,
+            "scholarlyactivityid": 54382,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54382,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": [
+        {
+            "attachmentid": 30316,
+            "mimetype": "application/pdf",
+            "filename": "GD_ZeroLender_CODASPY_2020.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitiTE5NZSsycy8wS0RhZS9uQStBUjZoSUh0YkZ2TGxtRmdPMDRhR3N4bnc3dHhpUUs1U0FIdzlFUk5WdUo5NVZqUT0%3D",
+            "filesize": 347149
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "activityid": 76662,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Application of machine learning and parametric techniques to direct forest management for the conservation of American goshawk nest stands in the northern Great Basin, USA&lt;/span&gt;",
+        "Journal": "Journal of Forest Ecology and Management",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;Land management techniques influence habitat suitability for birds of prey, making informed management decisions a critical component of raptor conservation. Both parametric and machine learning analyses can be powerful tools to analyze habitat data, with each presenting a unique assortment of strengths and weaknesses. We conducted 3 habitat analyses at 2 spatial scales for American goshawks (&lt;em&gt;Accipiter atricapillus&lt;/em&gt;) in the northern Great Basin, USA, including a stand-level parametric analyses, a stand-level machine learning analysis, and a forest-wide machine learning analysis. Goshawks are declining across North America, are listed as a Sensitive Species by the USDA Forest Service, and can be used as umbrella management species, which warrants special attention from forest managers. Our 2 stand-level analyses are based on data collected at nests and paired random points 300 m away, by hand and via remote sensing, with the objective of identifying habitat characteristics associated with goshawk occupancy at a fine spatial scale. The stand-level parametric and machine learning analyses yielded complementary results that demonstrate the value of implementing these approaches in tandem when a study\u2019s objective is to identify relevant predictor variables for forest management. At the stand level, goshawk occupancy was positively associated with canopy closure, diameter at breast height (DBH), trees per hectare, Stand Density Index (SDI), and tree height. Our forest-wide machine learning analysis relied on remotely-sensed GIS data with the objective of predicting goshawk occupancy across our study area. Our forest-wide analysis produced a map predicting goshawk occupancy across the area of management concern with an estimated accuracy of 83%. Our results are consistent with numerous other studies suggesting an association between goshawk occupancy and mature stand characteristics. We suggest that both parametric and machine learning approaches be considered when analyzing habitat data, with the decision to implement either individually or both concurrently depending on a given study\u2019s objectives.&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111358636",
+    "coauthors": {
+        "341243": {
+            "firstname": "E",
+            "middleinitial": "R",
+            "lastname": "Heiser",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341243,
+            "scholarlyactivityid": 76662,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "341244": {
+            "firstname": "L",
+            "middleinitial": "E",
+            "lastname": "Whitenack",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341244,
+            "scholarlyactivityid": 76662,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "341245": {
+            "firstname": "Jay",
+            "middleinitial": "D",
+            "lastname": "Carlisle",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358636",
+            "authorid": 341245,
+            "scholarlyactivityid": 76662,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341246": {
+            "firstname": "Robert",
+            "middleinitial": "A",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341246,
+            "scholarlyactivityid": 76662,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76662,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 76662,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111358636",
+    "attachments": []
+}

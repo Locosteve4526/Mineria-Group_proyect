@@ -1,0 +1,75 @@
+{
+    "activityid": 77849,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;&quot;&gt;Do engagement best practices motivate preparedness intentions? Data from earthquake workshops for Spanish speakers&lt;/span&gt;",
+        "Journal": "Risk Analysis",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1111/risa.17712",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111688329",
+    "coauthors": {
+        "349416": {
+            "firstname": "Carson",
+            "middleinitial": "",
+            "lastname": "MacPherson-Krutsky",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349416,
+            "scholarlyactivityid": 77849,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349417": {
+            "firstname": "Brittany",
+            "middleinitial": "D",
+            "lastname": "Brand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111688329",
+            "authorid": 349417,
+            "scholarlyactivityid": 77849,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349418": {
+            "firstname": "Mike",
+            "middleinitial": "K",
+            "lastname": "Lindell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349418,
+            "scholarlyactivityid": 77849,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77849,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111688329",
+    "attachments": []
+}

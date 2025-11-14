@@ -1,0 +1,65 @@
+{
+    "activityid": 47372,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "In the interest of small business' cost of debt: A matter of CSR disclosure",
+        "Journal": "Journal of Small Business Strategy",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045846",
+    "coauthors": {
+        "303659": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Dunne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065551",
+            "authorid": 303659,
+            "scholarlyactivityid": 47372
+        },
+        "303660": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "McBrayer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045846",
+            "authorid": 303660,
+            "scholarlyactivityid": 47372
+        }
+    },
+    "status": [
+        {
+            "id": 47372,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 47372,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114045846",
+    "attachments": []
+}

@@ -1,0 +1,77 @@
+{
+    "activityid": 35340,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Identifying gender differences in undergraduate computer science students: Women aren\u2019t so different",
+        "Conference/Meeting Name": "American Education Research Association",
+        "Conference Location": "New York, NY",
+        "Date or Date Range": "April 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "STEM employment is growing at twice the rate of other occupations, with computer-related fields demonstrating the greatest growth.  Yet, as the need for talent grows, the proportion of computer-related baccalaureates awarded to women declined from 28% in 2000 to 18% in 2013.  As part of an NSF-sponsored project, we examined gender differences as a first step to explaining the low numbers of female computer science (CS) graduates.  Our survey of 393 CS undergraduates found no significant differences in psychological traits like self-esteem and self-efficacy, but more women reported high stress.  The data pointed to possible differences only in student-faculty engagement, so future work will investigate other external variables that may help explain why CS is losing talented women.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114046497",
+    "coauthors": {
+        "175705": {
+            "firstname": "Carl",
+            "middleinitial": "F",
+            "lastname": "Siebert",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046497",
+            "authorid": 175705,
+            "scholarlyactivityid": 35340,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "175706": {
+            "firstname": "Kathleen",
+            "middleinitial": "",
+            "lastname": "Mullen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175706,
+            "scholarlyactivityid": 35340,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "175707": {
+            "firstname": "Noah",
+            "middleinitial": "",
+            "lastname": "Salzman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114029579",
+            "authorid": 175707,
+            "scholarlyactivityid": 35340
+        }
+    },
+    "status": [
+        {
+            "id": 35340,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 35340,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114046497",
+    "attachments": []
+}

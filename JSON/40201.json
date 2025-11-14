@@ -1,0 +1,83 @@
+{
+    "activityid": 40201,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Game-based online antenatal breastfeeding education: A pilot",
+        "Journal": "Applied Nursing Research",
+        "Volume": "33",
+        "Month / Season": "February",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "93-95",
+        "Publisher": "",
+        "DOI": "https://dx.doi.org/10.1016%2Fj.apnr.2016.10.011",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://dx.doi.org/10.1016%2Fj.apnr.2016.10.011",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "175548": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Grassley",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113084128",
+            "authorid": 175548,
+            "scholarlyactivityid": 40201
+        },
+        "175549": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 175549,
+            "scholarlyactivityid": 40201
+        },
+        "175550": {
+            "firstname": "Laura",
+            "middleinitial": "",
+            "lastname": "Bond",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175550,
+            "scholarlyactivityid": 40201
+        }
+    },
+    "status": [
+        {
+            "id": 40201,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40201,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112103403",
+    "attachments": [
+        {
+            "attachmentid": 11623,
+            "mimetype": "application/pdf",
+            "filename": "ANR-D-16-00049R3.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeUhJRXRBWEhMK1hub1I5anEyVWg0WlZUcisyRWJsQ29DMEg5SHlCTE5QVk40WjR5dG90ZVYwQ29odjREQ3YxTzA%3D",
+            "filesize": 684555
+        }
+    ]
+}

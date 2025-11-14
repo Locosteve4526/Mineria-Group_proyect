@@ -1,0 +1,84 @@
+{
+    "activityid": 53541,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tier 2 Behavior Interventions: By the Student, For the Student",
+        "Journal": "Intervention in School and Clinic",
+        "Volume": "57",
+        "Month / Season": "September 2021",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111663911",
+    "coauthors": {
+        "265127": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Mallory",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 265127,
+            "scholarlyactivityid": 53541,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "265128": {
+            "firstname": "Patricia",
+            "middleinitial": "Korzekwa",
+            "lastname": "Hampshire",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113114978",
+            "authorid": 265128,
+            "scholarlyactivityid": 53541,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "265129": {
+            "firstname": "Deborah",
+            "middleinitial": "Russell",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111663911",
+            "authorid": 265129,
+            "scholarlyactivityid": 53541,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53541,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53541,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111663911",
+    "attachments": []
+}

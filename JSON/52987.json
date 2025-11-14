@@ -1,0 +1,70 @@
+{
+    "activityid": 52987,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Effects of Material Texture and Packing Density on the Interfacial Polarization of Granular Soils",
+        "Journal": "Geophysics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1190/geo2021-0005.1",
+        "Description/Abstract": "Many electrical and electromagnetic (EM) methods operate at MHz frequencies, at which the interfacial polarization occurring at the solid-liquid interface in geologic materials may dominate the electrical signals. To correctly interpret electrical/EM measurements, it is therefore critical to understand how the interfacial polarization influences the effective electrical conductivity and permittivity spectra of geologic materials. We have used pore-scale simulation to study the role of material texture and packing in interfacial polarization in water-saturated granular soils. Synthetic samples with varying material textures and packing densities are prepared with the discrete element method. The effective electrical conductivity and permittivity spectra of these samples are determined by numerically solving the Laplace equation in a representative elementary volume of the samples. The numerical results indicate that the effective permittivity of granular soils increases as the frequency decreases due to the polarizability enhancement from the interfacial polarization. The induced permittivity increment is mainly influenced by the packing state of the samples, increasing with the packing density. Material textures such as the grain shape and size distribution may also affect the permittivity increment, but their effects are less significant. The frequency characterizing the interfacial polarization (i.e., the characteristic frequency) is mainly related to the electrical contrast of the solid and water phases. The model based on the traditional differential effective medium (DEM) theory significantly underestimates the permittivity increment by a factor of more than two and overestimates the characteristic frequency by approximately 1 MHz. These inaccurate predictions are due to the fact that the electrical interactions between neighboring grains are not considered in the DEM theory. A simple empirical equation is suggested to scale up the theoretical depolarization factor of grains entering the DEM theory to account for the interaction of neighboring grains in granular soils",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112754",
+    "coauthors": {
+        "276633": {
+            "firstname": "Qifei",
+            "middleinitial": "",
+            "lastname": "Niu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112754",
+            "authorid": 276633,
+            "scholarlyactivityid": 52987,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "276634": {
+            "firstname": "Hang",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276634,
+            "scholarlyactivityid": 52987,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52987,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112754",
+    "attachments": [
+        {
+            "attachmentid": 37291,
+            "mimetype": "application/pdf",
+            "filename": "Chen and Niu 2021.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlqcVB6M2EvMzZXcFlaYXJoTnFXbTYrcE5yaWNtTDliNXk1NGxQdkxIK2N5dnZ4S0NLejlkVy8%3D",
+            "filesize": 4247227
+        }
+    ]
+}

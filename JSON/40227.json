@@ -1,0 +1,99 @@
+{
+    "activityid": 40227,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The demise of caterpillar fungus in the Himalayan region due to climate change and overharvesting",
+        "Journal": "Proceedings of the National Academy of Sciences (PNAS)",
+        "Volume": "115",
+        "Month / Season": "November",
+        "Issue Number": "45",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "11489-11494",
+        "Publisher": "",
+        "DOI": "10.1073/pnas.1811591115",
+        "PubMed Central ID Number": "30348756",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.pnas.org/content/115/45/11489.short",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106013",
+    "coauthors": {
+        "217172": {
+            "firstname": "Kelly",
+            "middleinitial": "A",
+            "lastname": "Hopping",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106013",
+            "authorid": 217172,
+            "scholarlyactivityid": 40227,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "217173": {
+            "firstname": "Stephen",
+            "middleinitial": "M",
+            "lastname": "Chignell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217173,
+            "scholarlyactivityid": 40227,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "217174": {
+            "firstname": "Eric",
+            "middleinitial": "F",
+            "lastname": "Lambin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 217174,
+            "scholarlyactivityid": 40227,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40227,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40227,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114106013",
+    "attachments": [
+        {
+            "attachmentid": 11711,
+            "mimetype": "application/pdf",
+            "filename": "Hopping et al_2018_The demise of caterpillar fungus in the Himalayan region due to climate change.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlqR2pTREgxc2JUUzJVWVlDdHNuMm9nSzh5c091ZWNZZWt3NU5OSStsWEJOUE83WC9UOU5EOHYzQXZGM3ZaODNtTUk0TzJwNTU2VTk0V2JGTHd4SlovK1dyRGFHWDNuR2kyVm5aSXRXbC90RkhVampQTFd6M3B3cDdLYnQ4aHhoQ0k2dnRXby9TWFRnRlozdXNuSWZna0xuOE5HT3BmZ0lzZz0%3D",
+            "filesize": 1559425
+        },
+        {
+            "attachmentid": 20317,
+            "mimetype": "application/pdf",
+            "filename": "Hopping et al_2018_The demise of caterpillar fungus SI.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlqVkUxaDV4VENZWnV1cXQ3dnFZWmh3Szh5c091ZWNZZWt3NU5OSStsWEJOUE83WC9UOU5EOHYzQXZGM3ZaODNtTUk0TzJwNTU2VTk0V2JGTHd4SlovK25yM29qdjdram9xZ2hyWmVsTUlyOGc9PQ%3D%3D",
+            "filesize": 1773978
+        }
+    ]
+}

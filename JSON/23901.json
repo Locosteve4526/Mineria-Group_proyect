@@ -1,0 +1,67 @@
+{
+    "activityid": 23901,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Case Study on a High-Enrollment Freshman Seminar",
+        "Book Title": "The Flipped College Classroom: Conceptualized and Re-conceptualized",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Ross Perkins, Lucy Santos Green, Jen Banas",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111673550",
+    "coauthors": {
+        "79480": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Cox",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111112540",
+            "authorid": 79480,
+            "scholarlyactivityid": 23901
+        },
+        "79481": {
+            "firstname": "Jen",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111673550",
+            "authorid": 79481,
+            "scholarlyactivityid": 23901
+        }
+    },
+    "status": [
+        {
+            "id": 23901,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 23901,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111673550",
+    "attachments": []
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 75708,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span&gt;On the preimage distribution of $x^2+L(x)$&lt;/span&gt;",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "14",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "*This work is in progress. I have been working on the manuscript in Fall 2024.\u00a0&lt;br&gt;&lt;br&gt;&lt;br&gt;Planar functions themselves cannot be bijections, and&lt;br&gt;there are known lower and upper bounds established on $V(f)$ for planar functions.&lt;br&gt;Since the planarity of a function (in the sense just defined) is invariant&lt;br&gt;under the addition of linear transformations and constants, this means that&lt;br&gt;for any planar function $f$ we actually have&lt;br&gt;$$\\frac{q+1}{2}\\le V(f+L) \\le q - \\frac{2(q-1)}{1+\\sqrt{4q-3}}$$&lt;br&gt;for any linear transformation $L$. The lower bound was established independently by Kyureghyan and Pott \\cite{kyureghyan08}, and Qiu, Weng, Wang and Xiang \\cite{qiu07}, and later shown to be true for a much larger class of functions by Coulter and Matthews \\cite{coulter11}. The upper bound was proved in \\cite{coulter14c} by Coulter and Senger. &lt;br&gt;As an initial attempt to understand this phenomenon, we completely determine&lt;br&gt;the preimage distribution of&lt;br&gt;$x^2+L(x)$ for linear transformations over fields of order $p^2$, where $p$ is an odd prime.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114254618",
+    "coauthors": {
+        "336128": {
+            "firstname": "Li-An",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114254618",
+            "authorid": 336128,
+            "scholarlyactivityid": 75708,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336129": {
+            "firstname": "Robert",
+            "middleinitial": "S",
+            "lastname": "Coulter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336129,
+            "scholarlyactivityid": 75708,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75708,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 75708,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114254618",
+    "attachments": []
+}

@@ -1,0 +1,50 @@
+{
+    "activityid": 9980,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Location Privacy in the Era of the Internet of Things and Big Data Analysis",
+        "Name of Conference": "Hawaii International Conference on System Sciences",
+        "Month / Season": "2014-09-10",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": null,
+        "Publisher": "IEEE",
+        "Publisher Location": "Hawaii",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110593",
+    "coauthors": {
+        "134403": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Minch",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110593",
+            "authorid": 134403,
+            "scholarlyactivityid": 9980,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 9980,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110593",
+    "attachments": []
+}

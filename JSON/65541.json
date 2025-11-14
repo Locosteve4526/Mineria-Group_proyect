@@ -1,0 +1,70 @@
+{
+    "activityid": 65541,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Author Meets Critics Roundtable: Beyond the Wire",
+        "Name of Conference": "ISA Annual Meeting",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113153409",
+    "coauthors": {
+        "303769": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113153409",
+            "authorid": 303769,
+            "scholarlyactivityid": 65541,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "303770": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Flynn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 303770,
+            "scholarlyactivityid": 65541
+        },
+        "303771": {
+            "firstname": "Carla",
+            "middleinitial": "",
+            "lastname": "Martinez Machain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 303771,
+            "scholarlyactivityid": 65541
+        }
+    },
+    "status": [
+        {
+            "id": 65541,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113153409",
+    "attachments": []
+}

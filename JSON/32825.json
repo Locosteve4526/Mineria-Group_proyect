@@ -1,0 +1,61 @@
+{
+    "activityid": 32825,
+    "fields": {
+        "Type": "Book",
+        "Title": "\u201cBases De La Reconnaissance Des Formes\u201d",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Edition": "October 2013",
+        "Volume": "",
+        "Publisher": "Technosup Collection, Ellipses \u00c9dition Marketing",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Laurence Likforman-Sulem and Elisa H. Barney Smith, \u201cBases De La Reconnaissance Des Formes,\u201d Technosup Collection, Ellipses \u00c9dition Marketing, October 2013",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142155": {
+            "firstname": "Laurence",
+            "middleinitial": "",
+            "lastname": "Likforman-Sulem",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142155,
+            "scholarlyactivityid": 32825,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142156": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142156,
+            "scholarlyactivityid": 32825,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32825,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

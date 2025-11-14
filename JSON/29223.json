@@ -1,0 +1,70 @@
+{
+    "activityid": 29223,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Working Ni-Mn-Ga single crystals in a magnetic field against a spring",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "101468": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Lindquist",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 101468,
+            "scholarlyactivityid": 29223,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "101469": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 101469,
+            "scholarlyactivityid": 29223,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29223,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": [
+        {
+            "attachmentid": 792,
+            "mimetype": "application/pdf",
+            "filename": "2015-Lindquist-Mullner Shap Mem Superelasticity 1 69-77.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWpuRllEYTF1bVgzbitPS1psRlk5K1JFM2FhcEZrbTdDZnNnaDM3NERDS3hCeStUc0xubDgrS3NncXBCS01uU0VJT1R5ZlJSbFFqVER5TTVSR05JdzNXamdxdHM5Um53cG11aHlnVGhYMW9nall4ejh0ZWppcnc9PQ%3D%3D",
+            "filesize": 1714744
+        }
+    ]
+}

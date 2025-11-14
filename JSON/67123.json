@@ -1,0 +1,63 @@
+{
+    "activityid": 67123,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;strong&gt;English Language Development in the STEM Classroom through Inquiry-Based Learning&lt;/strong&gt;",
+        "Name of Conference": "The 6th International Conference on Modern Research in Education, Teaching and Learning",
+        "Month / Season": "July",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Dublin, Ireland",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "978-609-485-443-9",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "306865": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 306865,
+            "scholarlyactivityid": 67123,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "306866": {
+            "firstname": "Melissa",
+            "middleinitial": "D",
+            "lastname": "Caspary",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 306866,
+            "scholarlyactivityid": 67123,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 67123,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 40169,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A recipe for developing web-based back-end database systems: FrontPage, ASP, SQL\u2026 and what else?",
+        "Name of Conference": "World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "2090-2092",
+        "Publisher": "AACE",
+        "Publisher Location": "Chesapeake, VA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175309": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175309,
+            "scholarlyactivityid": 40169,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175310": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Barrow",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175310,
+            "scholarlyactivityid": 40169,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175311": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Giles",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175311,
+            "scholarlyactivityid": 40169,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40169,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2003,
+            "termid": "2003/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

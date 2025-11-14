@@ -1,0 +1,76 @@
+{
+    "activityid": 4096,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Optical Properties of Pyramidal Shell Nanoparticles",
+        "Journal": "Journal of Physical Chemistry C",
+        "Volume": "112",
+        "Month / Season": "2008-12-31",
+        "Issue Number": "17",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "6662-6666",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112181986",
+    "coauthors": {
+        "12077": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Shuford",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12077,
+            "scholarlyactivityid": 4096
+        },
+        "12078": {
+            "firstname": "Jeunghoon",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112181986",
+            "authorid": 12078,
+            "scholarlyactivityid": 4096
+        },
+        "12079": {
+            "firstname": "T.",
+            "middleinitial": "W.",
+            "lastname": "Odom",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12079,
+            "scholarlyactivityid": 4096
+        },
+        "12080": {
+            "firstname": "G.",
+            "middleinitial": "C.",
+            "lastname": "Schatz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 12080,
+            "scholarlyactivityid": 4096
+        }
+    },
+    "status": [
+        {
+            "id": 4096,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112181986",
+    "attachments": []
+}

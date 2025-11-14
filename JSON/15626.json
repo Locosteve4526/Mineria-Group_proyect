@@ -1,0 +1,52 @@
+{
+    "activityid": 15626,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "DockoMatic with Relaxator: Receptor Side-Chain",
+        "Conference/Meeting Name": "The 2nd CAES Idaho Modeling, Simulation, and Visualization conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2011-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "64106": {
+            "firstname": "Reed",
+            "middleinitial": "B",
+            "lastname": "Jacob",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64106,
+            "scholarlyactivityid": 15626
+        },
+        "64107": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 64107,
+            "scholarlyactivityid": 15626
+        }
+    },
+    "status": [
+        {
+            "id": 15626,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

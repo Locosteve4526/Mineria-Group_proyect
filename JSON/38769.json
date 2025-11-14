@@ -1,0 +1,96 @@
+{
+    "activityid": 38769,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling the effect of collagen fibril alignment on ligament mechanical behavior",
+        "Journal": "Biomechanics and modeling in mechanobiology",
+        "Volume": "",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Ligament mechanical behavior is primarily regulated by fibrous networks of type I collagen. Although these fibrous networks are typically highly aligned, healthy and injured ligament can also exhibit disorganized collagen architecture. The objective of this study was to determine whether variations in the collagen fibril network between neighboring ligaments can predict observed differences in mechanical behavior. Ligament specimens from two regions of bovine fetlock joints, which either exhibited highly aligned or disorganized collagen fibril networks, were mechanically tested in uniaxial tension. Confocal microscopy and FiberFit software were used to quantify the collagen fibril dispersion and mean fibril orientation in the mechanically tested specimens. These two structural parameters served as inputs into an established hyperelastic constitutive model that accounts for a continuous distribution of planar fibril orientations. The ability of the model to predict differences in the mechanical behavior between neighboring ligaments was tested by (1) curve fitting the model parameters to the stress response of the ligament with highly aligned fibrils and then (2) using this model to predict the stress response of the ligament with disorganized fibrils by only changing the parameter values for fibril dispersion and mean fibril orientation. This study found that when using parameter values for fibril dispersion and mean fibril orientation based on confocal imaging data, the model strongly predicted the average stress response of ligaments with disorganized fibrils ([Formula: see text]); however, the model only successfully predicted the individual stress response of ligaments with disorganized fibrils in half the specimens tested. Model predictions became worse when parameters for fibril dispersion and mean fibril orientation were not based on confocal imaging data. These findings emphasize the importance of collagen fibril alignment in ligament mechanics and help advance a mechanistic understanding of fibrillar networks in healthy and injured ligament.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "163605": {
+            "firstname": "Christina ",
+            "middleinitial": "J",
+            "lastname": "Stender",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163605,
+            "scholarlyactivityid": 38769
+        },
+        "163606": {
+            "firstname": "Evan",
+            "middleinitial": "",
+            "lastname": "Rust",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163606,
+            "scholarlyactivityid": 38769
+        },
+        "163607": {
+            "firstname": "Pe",
+            "middleinitial": "T",
+            "lastname": "Martin",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163607,
+            "scholarlyactivityid": 38769
+        },
+        "163608": {
+            "firstname": "Erica E",
+            "middleinitial": "E",
+            "lastname": "Neumann",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163608,
+            "scholarlyactivityid": 38769
+        },
+        "163609": {
+            "firstname": "Raquel ",
+            "middleinitial": "J",
+            "lastname": "Brown",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163609,
+            "scholarlyactivityid": 38769
+        },
+        "163610": {
+            "firstname": "Trevor ",
+            "middleinitial": "J",
+            "lastname": "Lujan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163610,
+            "scholarlyactivityid": 38769
+        }
+    },
+    "status": [
+        {
+            "id": 38769,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

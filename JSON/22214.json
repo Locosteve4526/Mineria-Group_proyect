@@ -1,0 +1,106 @@
+{
+    "activityid": 22214,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Which permutations are invertible by the ciliate decryptome?",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "327446": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 327446,
+            "scholarlyactivityid": 22214
+        },
+        "327447": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327447,
+            "scholarlyactivityid": 22214
+        },
+        "327448": {
+            "firstname": "Marlena",
+            "middleinitial": "",
+            "lastname": "Warner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327448,
+            "scholarlyactivityid": 22214
+        },
+        "327449": {
+            "firstname": "Helen",
+            "middleinitial": "",
+            "lastname": "Wauck",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327449,
+            "scholarlyactivityid": 22214
+        }
+    },
+    "status": [
+        {
+            "id": 22214,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 22214,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 22214,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 22214,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

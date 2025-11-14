@@ -1,0 +1,56 @@
+{
+    "activityid": 5987,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "On Maximum, Typical, and Generic Ranks",
+        "Journal": "Mathematische Annalen",
+        "Volume": "362",
+        "Month / Season": "",
+        "Issue Number": "3-4",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "1021-1031",
+        "Publisher": "Springer",
+        "DOI": "10.1007/s00208-014-1150-3",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113078387",
+    "coauthors": {
+        "115478": {
+            "firstname": "Grigoriy",
+            "middleinitial": "",
+            "lastname": "Blekherman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 115478,
+            "scholarlyactivityid": 5987
+        },
+        "115479": {
+            "firstname": "Zachariah",
+            "middleinitial": "",
+            "lastname": "Teitler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113078387",
+            "authorid": 115479,
+            "scholarlyactivityid": 5987
+        }
+    },
+    "status": [
+        {
+            "id": 5987,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113078387",
+    "attachments": []
+}

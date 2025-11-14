@@ -1,0 +1,84 @@
+{
+    "activityid": 53539,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Framework for Scientific Inquiry in Preschool",
+        "Journal": "Early Childhood Education Journal",
+        "Volume": "50",
+        "Month / Season": "2022",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "1263-1277",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1007/s10643-021-01259-1",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111663911",
+    "coauthors": {
+        "287578": {
+            "firstname": "Gurupriya",
+            "middleinitial": "",
+            "lastname": "Ramanathan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 287578,
+            "scholarlyactivityid": 53539,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "287579": {
+            "firstname": "Deborah",
+            "middleinitial": "Russell",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111663911",
+            "authorid": 287579,
+            "scholarlyactivityid": 53539,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "287580": {
+            "firstname": "Julianne",
+            "middleinitial": "",
+            "lastname": "Wenner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046498",
+            "authorid": 287580,
+            "scholarlyactivityid": 53539,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53539,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53539,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111663911",
+    "attachments": []
+}

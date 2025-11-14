@@ -1,0 +1,62 @@
+{
+    "activityid": 40152,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Applying the \u201ccongruence\u201d principle of Bloom\u2019s Taxonomy to designing online instruction",
+        "Journal": "Quarterly Review of Distance Education4",
+        "Volume": "4",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "317-330",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175243": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175243,
+            "scholarlyactivityid": 40152,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175244": {
+            "firstname": "Donald",
+            "middleinitial": "",
+            "lastname": "Stepich",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175244,
+            "scholarlyactivityid": 40152,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40152,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2003,
+            "termid": "2003/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

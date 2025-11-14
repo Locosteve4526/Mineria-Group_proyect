@@ -1,0 +1,62 @@
+{
+    "activityid": 40145,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Factors that influence informal learning in the workplace",
+        "Journal": "The Journal of Workplace Learning",
+        "Volume": "20",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "229-244",
+        "Publisher": "Emerald Insight",
+        "DOI": "10.1108/13665620810871097",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1108/13665620810871097",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175232": {
+            "firstname": "Shelley",
+            "middleinitial": "",
+            "lastname": "Berg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175232,
+            "scholarlyactivityid": 40145,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "175233": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175233,
+            "scholarlyactivityid": 40145,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40145,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

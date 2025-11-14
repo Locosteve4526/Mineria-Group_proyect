@@ -1,0 +1,52 @@
+{
+    "activityid": 10256,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Innovate, Integrate and Educate",
+        "Conference / Meeting Name": "Faculty Development Institute",
+        "Conference Location": "Miami Beach, FL",
+        "Date or Date Range": "2003-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Sponsoring Organization": "Mosby Elsevier",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111698666",
+    "coauthors": {
+        "52475": {
+            "firstname": "Sara",
+            "middleinitial": "",
+            "lastname": "Ahten",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111698666",
+            "authorid": 52475,
+            "scholarlyactivityid": 10256
+        },
+        "52476": {
+            "firstname": "Evelyn",
+            "middleinitial": "",
+            "lastname": "Floyd",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111701212",
+            "authorid": 52476,
+            "scholarlyactivityid": 10256
+        }
+    },
+    "status": [
+        {
+            "id": 10256,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2003,
+            "termid": "2003/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111698666",
+    "attachments": []
+}

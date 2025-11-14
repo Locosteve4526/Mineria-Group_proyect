@@ -1,0 +1,85 @@
+{
+    "activityid": 235,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Cost of Mindfulness: A Case Study",
+        "Journal": "Journal of Business Research",
+        "Volume": "65",
+        "Month / Season": "2012-04-30",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113108244",
+    "coauthors": {
+        "134191": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Hales",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134191,
+            "scholarlyactivityid": 235
+        },
+        "134192": {
+            "firstname": "James",
+            "middleinitial": "Raymond",
+            "lastname": "Kroes",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113108244",
+            "authorid": 134192,
+            "scholarlyactivityid": 235
+        },
+        "134193": {
+            "firstname": "Yuwen",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134193,
+            "scholarlyactivityid": 235
+        },
+        "134194": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Kang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134194,
+            "scholarlyactivityid": 235
+        }
+    },
+    "status": [
+        {
+            "id": 235,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 235,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113108244",
+    "attachments": []
+}

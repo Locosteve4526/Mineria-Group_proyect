@@ -1,0 +1,42 @@
+{
+    "activityid": 19031,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Scene Building",
+        "Conference/Meeting Name": "Boise Public Library Author Series",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2013-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Boise Public Library",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110221",
+    "coauthors": {
+        "71674": {
+            "firstname": "Mitchell",
+            "middleinitial": "John",
+            "lastname": "Wieland",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110221",
+            "authorid": 71674,
+            "scholarlyactivityid": 19031
+        }
+    },
+    "status": [
+        {
+            "id": 19031,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110221",
+    "attachments": []
+}

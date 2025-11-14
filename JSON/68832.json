@@ -1,0 +1,66 @@
+{
+    "activityid": 68832,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span&gt;&lt;span style=&quot;font-size:12pt;background-color:transparent;&quot;&gt;Stacking Certificates to Create an Interdisciplinary Master\u2019s Degree&lt;/span&gt;&lt;/span&gt;",
+        "Name of Conference": "Western Association of Graduate Schools Annual Meeting",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643735",
+    "coauthors": {
+        "309778": {
+            "firstname": "Heidi",
+            "middleinitial": "",
+            "lastname": "Reeder",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643735",
+            "authorid": 309778,
+            "scholarlyactivityid": 68832
+        },
+        "309779": {
+            "firstname": "Nicole",
+            "middleinitial": "L",
+            "lastname": "Molumby",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112060963",
+            "authorid": 309779,
+            "scholarlyactivityid": 68832
+        }
+    },
+    "status": [
+        {
+            "id": 68832,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 68832,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111643735",
+    "attachments": []
+}

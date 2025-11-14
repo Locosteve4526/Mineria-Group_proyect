@@ -1,0 +1,46 @@
+{
+    "activityid": 3901,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Bayesian Wavelet-Based Methods for the Detection of Multiple Changes of the Long Memory Parameter",
+        "Journal": "IEEE Transactions on Signal Processing",
+        "Volume": "54",
+        "Month / Season": "2006-11-01",
+        "Issue Number": "11",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "4461-4470",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1109/TSP.2006.881202",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/3",
+        "Description/Abstract": "Long memory processes are widely used in many scientific fields, such as economics, physics, and engineering. Change point detection problems have received considerable attention in the literature because of their wide range of possible applications. Here we describe a wavelet-based Bayesian procedure for the estimation and location of multiple change points in the long memory parameter of Gaussian autoregressive fractionally integrated moving average models (ARFIMA(p, d, q)), with unknown autoregressive and moving average parameters. Our methodology allows the number of change points to be unknown. The reversible jump Markov chain Monte Carlo algorithm is used for posterior inference. The method also produces estimates of all model parameters. Performances are evaluated on simulated data and on the benchmark Nile river dataset.",
+        "Origin": "Other"
+    },
+    "facultyid": "112033907",
+    "coauthors": {
+        "11484": {
+            "firstname": "Kyungduk",
+            "middleinitial": "",
+            "lastname": "Ko",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033907",
+            "authorid": 11484,
+            "scholarlyactivityid": 3901
+        }
+    },
+    "status": [
+        {
+            "id": 3901,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112033907",
+    "attachments": []
+}

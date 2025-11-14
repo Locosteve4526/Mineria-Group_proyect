@@ -1,0 +1,63 @@
+{
+    "activityid": 19833,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Cultural Dimensions Associated With Japanese Telecommuting:  A Literature Review",
+        "Name of Conference": "Annual Business and Leadership Symposium",
+        "Month / Season": "2007-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": null,
+        "Publisher": "Fort Hays State University",
+        "Publisher Location": "Hays, Kansas",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "134584": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 134584,
+            "scholarlyactivityid": 19833,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "134585": {
+            "firstname": "Kengo",
+            "middleinitial": "",
+            "lastname": "Usui",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134585,
+            "scholarlyactivityid": 19833,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19833,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

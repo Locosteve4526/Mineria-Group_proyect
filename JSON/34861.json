@@ -1,0 +1,89 @@
+{
+    "activityid": 34861,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cConsequences of Electromagnetic Stimulation on Hydraulic Conductivity of Soils\u201d",
+        "Name of Conference": "Proc. of PIERS 2013",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "pp. 1510-1514",
+        "Publisher": "",
+        "Publisher Location": "Stockholm, Sweden",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142219": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 142219,
+            "scholarlyactivityid": 34861,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142220": {
+            "firstname": "Sahba",
+            "middleinitial": "",
+            "lastname": "Azad",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142220,
+            "scholarlyactivityid": 34861,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "142221": {
+            "firstname": "Jimmy",
+            "middleinitial": "Jay",
+            "lastname": "Browning",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112088556",
+            "authorid": 142221,
+            "scholarlyactivityid": 34861,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142222": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142222,
+            "scholarlyactivityid": 34861,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34861,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

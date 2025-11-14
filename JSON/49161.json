@@ -1,0 +1,84 @@
+{
+    "activityid": 49161,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "On the classification of vertex-transitive structures",
+        "Journal": "Archive for mathematical logic",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/1707.02383v1",
+        "Description/Abstract": "We consider the classification problem for several classes of countable\nstructures which are &quot;vertex-transitive&quot;, meaning that the automorphism group\nacts transitively on the elements. (This is sometimes called homogeneous.) We\nshow that the classification of countable vertex-transitive digraphs and\npartial orders are Borel complete. We identify the complexity of the\nclassification of countable vertex-transitive linear orders. Finally we show\nthat the classification of vertex-transitive countable tournaments is properly\nabove $E_0$ in complexity.\n[Journal_ref: ]",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048344",
+    "coauthors": {
+        "228142": {
+            "firstname": "Samuel",
+            "middleinitial": "",
+            "lastname": "Coskey",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113158405",
+            "authorid": 228142,
+            "scholarlyactivityid": 49161
+        },
+        "228143": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Clemens",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048344",
+            "authorid": 228143,
+            "scholarlyactivityid": 49161
+        },
+        "228144": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Potter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 228144,
+            "scholarlyactivityid": 49161
+        }
+    },
+    "status": [
+        {
+            "id": 49161,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 49161,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 49161,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114048344",
+    "attachments": []
+}

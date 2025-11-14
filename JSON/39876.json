@@ -1,0 +1,77 @@
+{
+    "activityid": 39876,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cElectromagnetic Stimulation of Transport in Water for Geoenvironmental Applications\u201d",
+        "Name of Conference": "Proc. of PIERS 2013",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "pp. 1843-1848",
+        "Publisher": "",
+        "Publisher Location": "Stockholm, Sweden",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "172672": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 172672,
+            "scholarlyactivityid": 39876
+        },
+        "172673": {
+            "firstname": "Mahsa",
+            "middleinitial": "",
+            "lastname": "Azad",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 172673,
+            "scholarlyactivityid": 39876
+        },
+        "172674": {
+            "firstname": "Jimmy",
+            "middleinitial": "Jay",
+            "lastname": "Browning",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112088556",
+            "authorid": 172674,
+            "scholarlyactivityid": 39876
+        },
+        "172675": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 172675,
+            "scholarlyactivityid": 39876
+        }
+    },
+    "status": [
+        {
+            "id": 39876,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

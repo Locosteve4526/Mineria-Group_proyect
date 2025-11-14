@@ -1,0 +1,76 @@
+{
+    "activityid": 55417,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Conversational Assistants: Investigating Privacy Concerns, Trust, and Self-Disclosure",
+        "Name of Conference": "38th International Conference on Information Systems",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114176725",
+    "coauthors": {
+        "350199": {
+            "firstname": "Kambiz",
+            "middleinitial": "",
+            "lastname": "Saffarizadeh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 350199,
+            "scholarlyactivityid": 55417,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "350200": {
+            "firstname": "Maheshwar",
+            "middleinitial": "",
+            "lastname": "Boodraj",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114176725",
+            "authorid": 350200,
+            "scholarlyactivityid": 55417,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "350201": {
+            "firstname": "Tawfiq",
+            "middleinitial": "",
+            "lastname": "Alashoor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 350201,
+            "scholarlyactivityid": 55417,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 55417,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114176725",
+    "attachments": []
+}

@@ -1,0 +1,104 @@
+{
+    "activityid": 61367,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "UW/SIMM Video Game Metadata Schema Version 4.0",
+        "Outlet (if applicable)": "University of Washington Information School Game Research Group Website",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "308429": {
+            "firstname": "Jin",
+            "middleinitial": "Ha",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308429,
+            "scholarlyactivityid": 61367,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "308430": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Perti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308430,
+            "scholarlyactivityid": 61367,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "308431": {
+            "firstname": "Rachel",
+            "middleinitial": "Ivy",
+            "lastname": "Clarke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308431,
+            "scholarlyactivityid": 61367,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "308432": {
+            "firstname": "Travis",
+            "middleinitial": "W.",
+            "lastname": "Windleharth",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308432,
+            "scholarlyactivityid": 61367,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "308433": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 308433,
+            "scholarlyactivityid": 61367,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61367,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

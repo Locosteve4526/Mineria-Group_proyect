@@ -1,0 +1,72 @@
+{
+    "activityid": 29426,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Course Equivalencies Across Two Continents and Two Universities",
+        "Conference/Meeting Name": "International Workshop on Global Education and Teaching",
+        "Conference Location": "Jeju, South Korea",
+        "Date or Date Range": "2014-03-14",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "Jeju National University and GTU Center",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111683",
+    "coauthors": {
+        "102457": {
+            "firstname": "Stan",
+            "middleinitial": "F",
+            "lastname": "Steiner",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110586",
+            "authorid": 102457,
+            "scholarlyactivityid": 29426
+        },
+        "102456": {
+            "firstname": "Martin",
+            "middleinitial": "E",
+            "lastname": "Schimpf",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111111683",
+            "authorid": 102456,
+            "scholarlyactivityid": 29426
+        },
+        "102455": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 102455,
+            "scholarlyactivityid": 29426
+        },
+        "102454": {
+            "firstname": "Kate",
+            "middleinitial": "",
+            "lastname": "Udall",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 102454,
+            "scholarlyactivityid": 29426
+        }
+    },
+    "status": [
+        {
+            "id": 29426,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111683",
+    "attachments": []
+}

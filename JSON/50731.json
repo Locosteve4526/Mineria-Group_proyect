@@ -1,0 +1,93 @@
+{
+    "activityid": 50731,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Educators\u2019 Attitudes and Practices towards GenAI in Programming Education&lt;/p&gt;",
+        "Journal": "Communications of the Association for Information Systems",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114172679",
+    "coauthors": {
+        "353914": {
+            "firstname": "Ning",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 353914,
+            "scholarlyactivityid": 50731
+        },
+        "353915": {
+            "firstname": "Teagen",
+            "middleinitial": "M",
+            "lastname": "Nabity-Grover",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114172679",
+            "authorid": 353915,
+            "scholarlyactivityid": 50731
+        },
+        "353916": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Herfurth",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 353916,
+            "scholarlyactivityid": 50731
+        }
+    },
+    "status": [
+        {
+            "id": 50731,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2025,
+            "termid": "2025/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 50731,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 50731,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 50731,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114172679",
+    "attachments": []
+}

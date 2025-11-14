@@ -1,0 +1,63 @@
+{
+    "activityid": 54160,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Ghost of Okuma",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "In The Ghosts of Okuma, a lonely teenager from San Diego searches the streets of Tokyo for his runaway sister. The young American soon befriends a mysterious but charismatic Fukushima refugee, who agrees to help him track down his sister in exchange for joining her solo crusade against nuclear power. What the unlikely pair discover leads them north to the abandoned towns and graveyards of the exclusion zone, where across this strange and ghostly landscape they rush headlong toward their ultimate act of rebellion: recording a protest video at the ruins of Fukushima Daiichi.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110221",
+    "coauthors": {
+        "253533": {
+            "firstname": "Mitchell",
+            "middleinitial": "John",
+            "lastname": "Wieland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110221",
+            "authorid": 253533,
+            "scholarlyactivityid": 54160
+        }
+    },
+    "status": [
+        {
+            "id": 54160,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 54160,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 54160,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110221",
+    "attachments": []
+}

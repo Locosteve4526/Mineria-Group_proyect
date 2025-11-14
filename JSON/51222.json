@@ -1,0 +1,67 @@
+{
+    "activityid": 51222,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A deceptive double bind for women CEOs",
+        "Name of Conference": "Annual Academy of Management Meeting",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114171276",
+    "coauthors": {
+        "235789": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Hyde",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114171276",
+            "authorid": 235789,
+            "scholarlyactivityid": 51222
+        },
+        "235790": {
+            "firstname": "Kristen",
+            "middleinitial": "",
+            "lastname": "Faile",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235790,
+            "scholarlyactivityid": 51222
+        },
+        "235791": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Bonner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235791,
+            "scholarlyactivityid": 51222
+        }
+    },
+    "status": [
+        {
+            "id": 51222,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114171276",
+    "attachments": []
+}

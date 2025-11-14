@@ -1,0 +1,58 @@
+{
+    "activityid": 74283,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:12pt;&quot;&gt;The Number of Sales Digits as a Window into Future Sales Growth&lt;/span&gt;",
+        "Conference/Meeting Name": "University of Iowa",
+        "Conference Location": "Iowa City, IA",
+        "Date or Date Range": "10/21/24",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "University of Iowa",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "330442": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 330442,
+            "scholarlyactivityid": 74283,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "330443": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Peterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 330443,
+            "scholarlyactivityid": 74283,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74283,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

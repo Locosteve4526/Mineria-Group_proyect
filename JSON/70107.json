@@ -1,0 +1,119 @@
+{
+    "activityid": 70107,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;br&gt;Deep Learning Based Side Channel Attacks on GIFT-COFB Cryptographic System",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "344662": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 344662,
+            "scholarlyactivityid": 70107,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "344663": {
+            "firstname": "Aparna",
+            "middleinitial": "",
+            "lastname": "Sankaran",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344663,
+            "scholarlyactivityid": 70107,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "344664": {
+            "firstname": "Kay",
+            "middleinitial": "",
+            "lastname": "Vargas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344664,
+            "scholarlyactivityid": 70107,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "344665": {
+            "firstname": "Jenny",
+            "middleinitial": "",
+            "lastname": "Fan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344665,
+            "scholarlyactivityid": 70107,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "344666": {
+            "firstname": "Erick",
+            "middleinitial": "",
+            "lastname": "Gutierrez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344666,
+            "scholarlyactivityid": 70107,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70107,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 70107,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 70107,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111716691",
+    "attachments": []
+}

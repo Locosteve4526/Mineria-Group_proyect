@@ -1,0 +1,52 @@
+{
+    "activityid": 15213,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Pecha Kucha, an alternative format for  presentations",
+        "Conference/Meeting Name": "Paper presented at the Association for Educational Communications and Technology International Convention",
+        "Conference Location": "Louisville, KY",
+        "Date or Date Range": "2009, October",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "146009": {
+            "firstname": "Joanna",
+            "middleinitial": "C.",
+            "lastname": "Dunlap",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 146009,
+            "scholarlyactivityid": 15213
+        },
+        "146010": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 146010,
+            "scholarlyactivityid": 15213
+        }
+    },
+    "status": [
+        {
+            "id": 15213,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

@@ -1,0 +1,93 @@
+{
+    "activityid": 30899,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Barn owl occuypancy in southern Idaho: Characteristics of habitat, patterns of seasonal change, and the usefulness of call broadcast in detection.",
+        "Journal": "The Condor: Onithological Applications",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "159684": {
+            "firstname": "Tempe",
+            "middleinitial": "",
+            "lastname": "Regan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 159684,
+            "scholarlyactivityid": 30899,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "159685": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "McClure",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 159685,
+            "scholarlyactivityid": 30899,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "159686": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 159686,
+            "scholarlyactivityid": 30899,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30899,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 30899,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 30899,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

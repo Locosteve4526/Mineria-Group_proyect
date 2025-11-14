@@ -1,0 +1,97 @@
+{
+    "activityid": 51690,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling depth averaged flows using quadtree adaptive mesh refinement with GeoClaw",
+        "Journal": "In preparation",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "238951": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 238951,
+            "scholarlyactivityid": 51690,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "238952": {
+            "firstname": "Melody",
+            "middleinitial": "",
+            "lastname": "Shih",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238952,
+            "scholarlyactivityid": 51690,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "238953": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Mandli",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238953,
+            "scholarlyactivityid": 51690,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "238954": {
+            "firstname": "Carsten",
+            "middleinitial": "",
+            "lastname": "Burstedde",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238954,
+            "scholarlyactivityid": 51690,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51690,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 51690,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113079626",
+    "attachments": []
+}

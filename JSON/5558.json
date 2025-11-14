@@ -1,0 +1,56 @@
+{
+    "activityid": 5558,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Reflective redo from the point of error: Implications for after action review",
+        "Journal": "Simulation and Gaming",
+        "Volume": "45",
+        "Month / Season": "2013-12-31",
+        "Issue Number": "5-Apr",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "666-696",
+        "Publisher": "",
+        "DOI": "10.1177/1046878114549426",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "106031": {
+            "firstname": "Jon",
+            "middleinitial": "",
+            "lastname": "Scoresby",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106031,
+            "scholarlyactivityid": 5558
+        },
+        "106032": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 106032,
+            "scholarlyactivityid": 5558
+        }
+    },
+    "status": [
+        {
+            "id": 5558,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

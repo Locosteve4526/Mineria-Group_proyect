@@ -1,0 +1,62 @@
+{
+    "activityid": 12305,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Simulation Insights",
+        "Conference / Meeting Name": "Emerging Technologies in Nurse Education",
+        "Conference Location": "Seattle, WA",
+        "Date or Date Range": "2008-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "56358": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 56358,
+            "scholarlyactivityid": 12305
+        },
+        "56359": {
+            "firstname": "Rosemary",
+            "middleinitial": "",
+            "lastname": "Macy",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111182029",
+            "authorid": 56359,
+            "scholarlyactivityid": 12305
+        },
+        "56360": {
+            "firstname": "Diana ",
+            "middleinitial": "",
+            "lastname": "Mixon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56360,
+            "scholarlyactivityid": 12305
+        }
+    },
+    "status": [
+        {
+            "id": 12305,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2008,
+            "termid": "2008/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

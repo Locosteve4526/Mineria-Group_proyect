@@ -1,0 +1,113 @@
+{
+    "activityid": 44790,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An Examination of Finish Time Variation for Collegiate Cross Country National Championships by Gender",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112182688",
+    "coauthors": {
+        "203400": {
+            "firstname": "Kevin",
+            "middleinitial": "",
+            "lastname": "Peters",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 203400,
+            "scholarlyactivityid": 44790
+        },
+        "203399": {
+            "firstname": "Shelley",
+            "middleinitial": "M",
+            "lastname": "Lucas",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669980",
+            "authorid": 203399,
+            "scholarlyactivityid": 44790
+        },
+        "203398": {
+            "firstname": "Linda",
+            "middleinitial": "",
+            "lastname": "Petlichkoff",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 203398,
+            "scholarlyactivityid": 44790
+        },
+        "203397": {
+            "firstname": "Yong",
+            "middleinitial": "",
+            "lastname": "Gao",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112182688",
+            "authorid": 203397,
+            "scholarlyactivityid": 44790
+        },
+        "203396": {
+            "firstname": "Lynda",
+            "middleinitial": "",
+            "lastname": "Ransdell",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 203396,
+            "scholarlyactivityid": 44790
+        }
+    },
+    "status": [
+        {
+            "id": 44790,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 44790,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44790,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44790,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112182688",
+    "attachments": []
+}

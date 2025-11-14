@@ -1,0 +1,51 @@
+{
+    "activityid": 37271,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "&quot;Marcus Civin&quot;",
+        "Book Title": "Incident Report",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "150 - 152",
+        "Edition": "1",
+        "Volume": "1",
+        "Publisher": "Publication Studio Hudson",
+        "Publisher Location": "Troy, NY",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Chris Lee",
+        "DOI": "978-1-62462-161-1",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113024765",
+    "coauthors": {
+        "154530": {
+            "firstname": "Craig",
+            "middleinitial": "J",
+            "lastname": "Peariso",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113024765",
+            "authorid": 154530,
+            "scholarlyactivityid": 37271,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37271,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113024765",
+    "attachments": []
+}

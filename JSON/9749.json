@@ -1,0 +1,98 @@
+{
+    "activityid": 9749,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The Effect of Auditor Identity Disclosure on Audit Quality: An Experimental Examination Incorporating the Incremental Effect of a Signature Requirement",
+        "Name of Conference": "2014 Accounting Behavior and Organizations Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Publisher": "American Accounting Association",
+        "Publisher Location": "Philadelphia, Pennsylvania",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111333118",
+    "coauthors": {
+        "257685": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Gooden",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111333118",
+            "authorid": 257685,
+            "scholarlyactivityid": 9749,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257686": {
+            "firstname": "Douglas",
+            "middleinitial": "E",
+            "lastname": "Stevens",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257686,
+            "scholarlyactivityid": 9749,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257687": {
+            "firstname": "Mark",
+            "middleinitial": "J",
+            "lastname": "Mellon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257687,
+            "scholarlyactivityid": 9749,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257688": {
+            "firstname": "Allen",
+            "middleinitial": "D",
+            "lastname": "Blay",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257688,
+            "scholarlyactivityid": 9749,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 9749,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9749,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111333118",
+    "attachments": []
+}

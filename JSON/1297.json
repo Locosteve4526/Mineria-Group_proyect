@@ -1,0 +1,56 @@
+{
+    "activityid": 1297,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Editorial",
+        "Journal": "Scholarship of Teaching and Learning in Psychology",
+        "Volume": "1",
+        "Month / Season": "2015-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "6-Jan",
+        "Publisher": "Educational Publication Foundation",
+        "DOI": "http://dx.doi.org/10.1037/stl0000026 ",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "3122": {
+            "firstname": "Regan",
+            "middleinitial": "A. R.",
+            "lastname": "Gurung",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 3122,
+            "scholarlyactivityid": 1297
+        },
+        "3123": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 3123,
+            "scholarlyactivityid": 1297
+        }
+    },
+    "status": [
+        {
+            "id": 1297,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

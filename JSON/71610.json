@@ -1,0 +1,83 @@
+{
+    "activityid": 71610,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;span style=&quot;font-size:12pt;font-style:italic;&quot;&gt;Generalist Social Work Practice: A Competency-Based Approach&lt;/span&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt; &lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Edition": "2",
+        "Volume": "",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111618272",
+    "coauthors": {
+        "326179": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Poulin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326179,
+            "scholarlyactivityid": 71610,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "326180": {
+            "firstname": "Selina",
+            "middleinitial": "",
+            "lastname": "Mathis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326180,
+            "scholarlyactivityid": 71610,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "326181": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Witt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111618272",
+            "authorid": 326181,
+            "scholarlyactivityid": 71610,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71610,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 71610,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111618272",
+    "attachments": []
+}

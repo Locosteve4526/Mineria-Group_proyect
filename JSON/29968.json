@@ -1,0 +1,76 @@
+{
+    "activityid": 29968,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Moving Online: Challenges and Successes of Transforming Mandated Professional Development from an In-Person to Hybrid Model",
+        "Name of Conference": "Society for Information Technology and Teacher Education International Conference",
+        "Month / Season": "March",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "2517-2523",
+        "Publisher": "Association for the Advancement of Computing in Education",
+        "Publisher Location": "Chesapeake, VA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111351647",
+    "coauthors": {
+        "107103": {
+            "firstname": "Gwyneth",
+            "middleinitial": "",
+            "lastname": "Hughes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 107103,
+            "scholarlyactivityid": 29968,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "107104": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 107104,
+            "scholarlyactivityid": 29968,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "107105": {
+            "firstname": "Jonathan",
+            "middleinitial": "",
+            "lastname": "Brendefur",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 107105,
+            "scholarlyactivityid": 29968,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29968,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111351647",
+    "attachments": []
+}

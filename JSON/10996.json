@@ -1,0 +1,57 @@
+{
+    "activityid": 10996,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Engineering for Educators",
+        "Name of Conference": "ASEE 2005 Proceedings",
+        "Month / Season": "2005-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "",
+        "Publisher": "ASEE ",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "https://peer.asee.org/15491",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142758": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142758,
+            "scholarlyactivityid": 10996
+        },
+        "142759": {
+            "firstname": "Rickie",
+            "middleinitial": "",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112058",
+            "authorid": 142759,
+            "scholarlyactivityid": 10996
+        }
+    },
+    "status": [
+        {
+            "id": 10996,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

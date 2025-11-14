@@ -1,0 +1,97 @@
+{
+    "activityid": 70489,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Syllabi do not accurately reflect observed teaching practices in undergraduate geoscience courses",
+        "Journal": "Journal of Geoscience Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "319186": {
+            "firstname": "Charles",
+            "middleinitial": "D",
+            "lastname": "Cazjka",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319186,
+            "scholarlyactivityid": 70489,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319187": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Teasdale",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319187,
+            "scholarlyactivityid": 70489,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319188": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Ryker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319188,
+            "scholarlyactivityid": 70489,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319189": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 319189,
+            "scholarlyactivityid": 70489,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70489,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 70489,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

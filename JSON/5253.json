@@ -1,0 +1,56 @@
+{
+    "activityid": 5253,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Student as Value Based Product: Reconceptualizing the Subjective Nature of Education",
+        "Journal": "Texas Education Review",
+        "Volume": "3",
+        "Month / Season": "2015-12-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "55-67",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112125622",
+    "coauthors": {
+        "15995": {
+            "firstname": "Arturo",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112125622",
+            "authorid": 15995,
+            "scholarlyactivityid": 5253
+        },
+        "15996": {
+            "firstname": "Kevin",
+            "middleinitial": "R",
+            "lastname": "Magill",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 15996,
+            "scholarlyactivityid": 5253
+        }
+    },
+    "status": [
+        {
+            "id": 5253,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112125622",
+    "attachments": []
+}

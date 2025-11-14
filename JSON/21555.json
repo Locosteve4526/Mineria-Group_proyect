@@ -1,0 +1,65 @@
+{
+    "activityid": 21555,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Tsunami Visualization in Google Earth",
+        "Outlet (if applicable)": "Part of on-line documentation for the ClawPack software package",
+        "Date": "2015",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Publisher": "http://www.clawpack.org",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "http://www.clawpack.org",
+        "Description/Abstract": "This will be part of a larger visualization and computational tools for Clawpack.  See www.clawpack.org.  \r\nRole:  Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "121159": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 121159,
+            "scholarlyactivityid": 21555,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "121160": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Potter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 121160,
+            "scholarlyactivityid": 21555,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 21555,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113079626",
+    "attachments": []
+}

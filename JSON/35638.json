@@ -1,0 +1,78 @@
+{
+    "activityid": 35638,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Civility and academic freedom: Who defines the former (and how) may imperil rights to the latter",
+        "Journal": "College Quarterly",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669855",
+    "coauthors": {
+        "146418": {
+            "firstname": "Theodore",
+            "middleinitial": "",
+            "lastname": "McDonald",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669855",
+            "authorid": 146418,
+            "scholarlyactivityid": 35638
+        },
+        "146419": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Stockton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 146419,
+            "scholarlyactivityid": 35638,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "146420": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 146420,
+            "scholarlyactivityid": 35638
+        }
+    },
+    "status": [
+        {
+            "id": 35638,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 35638,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111669855",
+    "attachments": []
+}

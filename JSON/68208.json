@@ -1,0 +1,151 @@
+{
+    "activityid": 68208,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Inferring Metabolic States from Single Cell Transcriptomic Data via Geometric Deep Learning",
+        "Name of Conference": "Research in Computational Molecular Biology (RECOMB",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "The ability to measure gene expression at single-cell resolution has elevated our understanding of how biological features emerge from complex and interdependent networks at molecular, cellular, and tissue scales. As technologies have evolved that complement scRNAseq measurements with things like single-cell proteomic, epigenomic, and genomic information, it becomes increasingly apparent how much biology exists as a product of multimodal regulation. Biological processes such as transcription, translation, and post-translational or epigenetic modification impose both energetic and specific molecular demands on a cell and are therefore implicitly constrained by the metabolic state of the cell. While metabolomics is crucial for defining a holistic model of any biological process, the chemical heterogeneity of the metabolome makes it particularly difficult to measure, and technologies capable of doing this at single-cell resolution are far behind other multiomics modalities. To address these challenges, we present GEFMAP (Gene Expression-based Flux Mapping and Metabolic Pathway Prediction), a method based on geometric deep learning for predicting flux through reactions in a global metabolic network using transcriptomics data, which we ultimately apply to scRNAseq. GEFMAP leverages the natural graph structure of metabolic networks to learn both a biological objective for each cell and estimate a mass-balanced relative flux rate for each reaction in each cell using novel deep learning models.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114253049",
+    "coauthors": {
+        "328474": {
+            "firstname": "Holly",
+            "middleinitial": "",
+            "lastname": "Steach",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328474,
+            "scholarlyactivityid": 68208,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328475": {
+            "firstname": "Siddharth",
+            "middleinitial": "",
+            "lastname": "Viswanath",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328475,
+            "scholarlyactivityid": 68208,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328476": {
+            "firstname": "Yixuan",
+            "middleinitial": "",
+            "lastname": "He",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328476,
+            "scholarlyactivityid": 68208,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328477": {
+            "firstname": "Xitong",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328477,
+            "scholarlyactivityid": 68208,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328478": {
+            "firstname": "Natalia",
+            "middleinitial": "",
+            "lastname": "Ivanova",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328478,
+            "scholarlyactivityid": 68208,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328479": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Perlmutter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114253049",
+            "authorid": 328479,
+            "scholarlyactivityid": 68208,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "328480": {
+            "firstname": "Smita",
+            "middleinitial": "",
+            "lastname": "Krishnaswamy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 328480,
+            "scholarlyactivityid": 68208
+        }
+    },
+    "status": [
+        {
+            "id": 68208,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 68208,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 68208,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114253049",
+    "attachments": [
+        {
+            "attachmentid": 48513,
+            "mimetype": "application/pdf",
+            "filename": "Inferring_Metabolic_States.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWhWcTBXY1RCaTQvbE9lTU53SXBVTFBhR2czKy9JaStiWE80enVscXhSS2VyYm9aZS9RdEJJWWZ1VzNkZ2VROVZtTHkxdHQvQ3pGaz0%3D",
+            "filesize": 1166816
+        }
+    ]
+}

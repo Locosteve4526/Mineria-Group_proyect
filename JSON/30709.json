@@ -1,0 +1,65 @@
+{
+    "activityid": 30709,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Does Access to Capital Explain the Debt and Equity Choice?",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045846",
+    "coauthors": {
+        "113064": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "McBrayer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045846",
+            "authorid": 113064,
+            "scholarlyactivityid": 30709
+        },
+        "113065": {
+            "firstname": "Wayne",
+            "middleinitial": "Y.",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113065,
+            "scholarlyactivityid": 30709
+        }
+    },
+    "status": [
+        {
+            "id": 30709,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 30709,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114045846",
+    "attachments": []
+}

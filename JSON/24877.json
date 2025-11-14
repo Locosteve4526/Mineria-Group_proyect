@@ -1,0 +1,65 @@
+{
+    "activityid": 24877,
+    "fields": {
+        "Type": "Book",
+        "Title": "Canadian Courts, 2nd edition",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Oxford University Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112062498",
+    "coauthors": {
+        "126430": {
+            "firstname": "Lori",
+            "middleinitial": "J",
+            "lastname": "Hausegger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112062498",
+            "authorid": 126430,
+            "scholarlyactivityid": 24877
+        },
+        "126431": {
+            "firstname": "Troy",
+            "middleinitial": "",
+            "lastname": "Riddell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 126431,
+            "scholarlyactivityid": 24877
+        },
+        "126432": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Hennigar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 126432,
+            "scholarlyactivityid": 24877
+        }
+    },
+    "status": [
+        {
+            "id": 24877,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112062498",
+    "attachments": []
+}

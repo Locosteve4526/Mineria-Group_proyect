@@ -1,0 +1,74 @@
+{
+    "activityid": 52240,
+    "fields": {
+        "Type": "Book",
+        "Title": "Participatory Budgeting in Global Perspective",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Oxford University press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111670037",
+    "coauthors": {
+        "242233": {
+            "firstname": "Brian",
+            "middleinitial": "D",
+            "lastname": "Wampler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111670037",
+            "authorid": 242233,
+            "scholarlyactivityid": 52240,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "242234": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "McNulty",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242234,
+            "scholarlyactivityid": 52240,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "242235": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Touchton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242235,
+            "scholarlyactivityid": 52240,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52240,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111670037",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 1021,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Teaching Design Thinking in Business Schools",
+        "Journal": "The International Journal of Management Education",
+        "Volume": "13",
+        "Month / Season": "2015-05-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "182-192",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111259074",
+    "coauthors": {
+        "2530": {
+            "firstname": "Roy",
+            "middleinitial": "",
+            "lastname": "Glen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110236",
+            "authorid": 2530,
+            "scholarlyactivityid": 1021
+        },
+        "2531": {
+            "firstname": "Christy",
+            "middleinitial": "",
+            "lastname": "Suciu",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111259074",
+            "authorid": 2531,
+            "scholarlyactivityid": 1021
+        },
+        "2532": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Baughn",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110250",
+            "authorid": 2532,
+            "scholarlyactivityid": 1021
+        },
+        "2533": {
+            "firstname": "Rob",
+            "middleinitial": "",
+            "lastname": "Anson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111702",
+            "authorid": 2533,
+            "scholarlyactivityid": 1021
+        }
+    },
+    "status": [
+        {
+            "id": 1021,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111259074",
+    "attachments": []
+}

@@ -1,0 +1,45 @@
+{
+    "activityid": 77417,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Tree-based Adaptive Mesh Refinement, GPUs (and Turbulence)",
+        "Conference/Meeting Name": "KAUST Turbulence Workshop",
+        "Conference Location": "Thuwal, Saudi Arabia",
+        "Date or Date Range": "February 27, 2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "KAUST",
+        "Presenter(s)": null,
+        "Web Address": "https://donnacalhoun.github.io/talks/kaust-2024.html",
+        "Description/Abstract": "&lt;span&gt;We describe an approach to adaptive mesh refinement that is well-suited for implementations on GPUs. We fill the leaves of a quadtree or octree mesh with logically Cartesian grids of a fixed, uniform size. These grids are easily distributed to the GPU in large batches of O(1000) patches per kernel call. The GPU then updates the solution on each patch independently. The resulting speed-up for a second order Godunov solver is about 5-7x speedup over a single CPU core. We will demonstrate our algorithm on several nonlinear hyperbolic problems illustrating the benefits of parallel performance and dynamic mesh adaptivity coupled with GPUs. Our GPU code is implemented in the code ForestClaw (D. Calhoun and C. Burstedde), a PDE layer built on top of the mesh management library p4est (C. Burstedde, Univ. of Bonn).&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "346131": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 346131,
+            "scholarlyactivityid": 77417,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77417,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113079626",
+    "attachments": []
+}

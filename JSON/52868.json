@@ -1,0 +1,62 @@
+{
+    "activityid": 52868,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "A336795: Incrementally largest values of minimal x satisfying the equation x^2-D*y^2=3, where D is a prime number.",
+        "Outlet (if applicable)": "Online Encyclopedia for Integer Sequences",
+        "Date": "JAn 17, 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Publisher": "Online Encyclopedia of Integer Sequences",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://oeis.org/A336795",
+        "Description/Abstract": "For D=73, the least x for which x^2-D*y^2=3 has a solution is 94. The next prime, D, for which x^2-D*y^2=3 has a solution is 97, but the smallest x in this case is 10, which is less than 97. The next prime, D, after 97 for which x^2-D*y^2=3 has a solution is 109 and the least x for which it has a solution is 9532, which is larger than 97, so it is a new record value. 73 is a term for this sequence and 94 qualifies for membership to A336795, but 97 does not qualify because the least x for which x^2-47*y^2=3 has a solution is not a record value.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "245884": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 245884,
+            "scholarlyactivityid": 52868
+        },
+        "245885": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245885,
+            "scholarlyactivityid": 52868,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52868,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

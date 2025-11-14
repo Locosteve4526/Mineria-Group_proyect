@@ -1,0 +1,89 @@
+{
+    "activityid": 76902,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Leveraging L-band InSAR and Machine Learning for Enhanced Snow Depth Estimation&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Name of Conference": "AGU Annual Meeting",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "342529": {
+            "firstname": "Ibrahim",
+            "middleinitial": "O",
+            "lastname": "Alabi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342529,
+            "scholarlyactivityid": 76902,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342530": {
+            "firstname": "Hans-Peter",
+            "middleinitial": "",
+            "lastname": "Marshall",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188758",
+            "authorid": 342530,
+            "scholarlyactivityid": 76902,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342531": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 342531,
+            "scholarlyactivityid": 76902,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342532": {
+            "firstname": "Ernesto",
+            "middleinitial": "",
+            "lastname": "Trujillo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342532,
+            "scholarlyactivityid": 76902,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76902,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

@@ -1,0 +1,55 @@
+{
+    "activityid": 47884,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Resource mapping Fit &amp; Fall Proof Program Locations with EMS Data: A Five Year Retrospective",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114090284",
+    "coauthors": {
+        "220615": {
+            "firstname": "Kirk",
+            "middleinitial": "L",
+            "lastname": "Ketelsen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114090284",
+            "authorid": 220615,
+            "scholarlyactivityid": 47884
+        }
+    },
+    "status": [
+        {
+            "id": 47884,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 47884,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114090284",
+    "attachments": []
+}

@@ -1,0 +1,68 @@
+{
+    "activityid": 24592,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Electromagnetic Waves in Contaminated Soils",
+        "Book Title": "",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Electromagnetic Waves Propagation in Complex Matter",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "http://scholarworks.boisestate.edu/civileng_facpubs/22",
+        "Description/Abstract": "Soil is a complex, potentially heterogeneous, lossy, and dispersive medium. Modeling the propagation and scattering of electromagnetic (EM) waves in soil is, hence, more challenging than in air or in other less complex media. This chapter will explain fundamentals of the numerical modeling of EM wave propagation and scattering in soil through solving Maxwell's equations using a finite difference time domain (FDTD) method. The chapter will explain how: (i) the lossy and dispersive soil medium (in both dry and fully water-saturated conditions), (ii) a fourth phase (anomaly), (iii) two different types of transmitting antennae (a monopole and a dipole), and (iv) required absorbing boundary conditions can numerically be modeled. This is described through two examples that simulate the detection of DNAPL (dense nonaqueous-phase liquid) contamination in soil using Cross-well radar (CWR). CWR \u2014otherwise known as cross-borehole GPR (ground penetrating radar)\u2014modality was selected to eliminate the need for simulation of the roughness of the soil-air interface. The two examples demonstrate the scattering effect of a dielectric anomaly (representing a DNAPL pool) on the EM wave propagation through soil. The objective behind selecting these two examples is twofold: (i) explanation of the details and challenges of numerical modeling of EM wave propagation and scattering through soil for an actual problem (in this case, DNAPL detection), and (ii) demonstration of the feasibility of using EM waves for this actual detection problem.",
+        "Web Address": "http://scholarworks.boisestate.edu/civileng_facpubs/22",
+        "Origin": "Other"
+    },
+    "facultyid": "112176072",
+    "coauthors": {
+        "159383": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 159383,
+            "scholarlyactivityid": 24592
+        },
+        "159384": {
+            "firstname": "Akram",
+            "middleinitial": "N.",
+            "lastname": "Alshawabkeh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 159384,
+            "scholarlyactivityid": 24592
+        },
+        "159385": {
+            "firstname": "Carey",
+            "middleinitial": "M.",
+            "lastname": "Rappaport",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 159385,
+            "scholarlyactivityid": 24592
+        }
+    },
+    "status": [
+        {
+            "id": 24592,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112176072",
+    "attachments": []
+}

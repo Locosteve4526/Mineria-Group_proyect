@@ -1,0 +1,56 @@
+{
+    "activityid": 6645,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical Experiments with Model Equations of Cancer Invasion of Tissue",
+        "Journal": "Control and Cybernetics",
+        "Volume": "40",
+        "Month / Season": "2011-12-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "779-792",
+        "Publisher": "Polish Academy of Science, Syst. Res. Inst. ",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "In this paper we investigate a mathematical model of cancer invasion of tissue, which incorporates haptotaxis, chemotaxis, proliferation and degradation rates for cancer cells and the extracellular matrix, kinetics of urokinase receptor, and urokinase plasminogen activator cycle. We solve the model using spectrally accurate approximations and compare its numerical solutions with laboratory data. The spectral accuracy allows to use low-dimensional matrices and vectors, which speeds up the computations of the numerical solutions and thus to estimate the parameter values for the model equations. Our numerical results demonstrate correlations between numerical data computed from the mathematical model and in vivo tumour growth rates from prostate cell lines.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20716": {
+            "firstname": "Mikhail",
+            "middleinitial": "",
+            "lastname": "Kolev",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20716,
+            "scholarlyactivityid": 6645
+        },
+        "20717": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20717,
+            "scholarlyactivityid": 6645
+        }
+    },
+    "status": [
+        {
+            "id": 6645,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

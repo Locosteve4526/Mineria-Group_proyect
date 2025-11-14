@@ -1,0 +1,62 @@
+{
+    "activityid": 76747,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Scale Free Projections Arise from Bipartite Random Networks",
+        "Journal": "International Journal of Data Science and Analytics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The degree distribution of a real world network \u2014 the number of links per node&lt;br&gt;\u2014 often follows a power law, so some hubs have many more links than traditional&lt;br&gt;graph generation methods predict. For years, preferential attachment and growth&lt;br&gt;have been the proposed mechanisms that lead to these scale free networks. How-&lt;br&gt;ever, when two sides of bipartite graphs like collaboration networks are not scale&lt;br&gt;free, they are not well-explained by these processes. Here we develop a bipar-&lt;br&gt;tite extension to the Randomly Stopped Linking Model for generating networks&lt;br&gt;and show that mixtures of geometric distributions can lead to power laws, an&lt;br&gt;intuition suggested by the Central Limit Theorem for distributions with infinite&lt;br&gt;variance. We show that the two halves of the actor-movie network are not scale&lt;br&gt;free and can be represented by just 6 geometric distributions, but they combine&lt;br&gt;to form a scale free actor-actor unipartite projection without preferential attach-&lt;br&gt;ment or growth. This result supports our claim that scale free networks are the&lt;br&gt;natural result of many Bernoulli trials with high variance of which preferential&lt;br&gt;attachment and growth are only one example.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669907",
+    "coauthors": {
+        "341753": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Johnston",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341753,
+            "scholarlyactivityid": 76747,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341754": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 341754,
+            "scholarlyactivityid": 76747,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76747,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111669907",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 69101,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;font-size:11pt;&quot;&gt;Does intrinsic motivation really mediate the effect of motivational manipulations on learning?&lt;/span&gt;",
+        "Name of Conference": "Annual meeting of the Western Society for Physical Education of College Women",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114229425",
+    "coauthors": {
+        "312536": {
+            "firstname": "Juliana",
+            "middleinitial": "",
+            "lastname": "O Parma",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312536,
+            "scholarlyactivityid": 69101,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312537": {
+            "firstname": "Mariane",
+            "middleinitial": "",
+            "lastname": "Faria Braga Bacelar",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114229425",
+            "authorid": 312537,
+            "scholarlyactivityid": 69101,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69101,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114229425",
+    "attachments": []
+}

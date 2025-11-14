@@ -1,0 +1,77 @@
+{
+    "activityid": 76739,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Ensuring Trustworthy Neural Network Training via Blockchain",
+        "Name of Conference": "",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669907",
+    "coauthors": {
+        "341728": {
+            "firstname": "Edgar",
+            "middleinitial": "",
+            "lastname": "Navarro",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341728,
+            "scholarlyactivityid": 76739
+        },
+        "341729": {
+            "firstname": "Kyle",
+            "middleinitial": "J.",
+            "lastname": "Standing",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341729,
+            "scholarlyactivityid": 76739
+        },
+        "341730": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 341730,
+            "scholarlyactivityid": 76739
+        },
+        "341731": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 341731,
+            "scholarlyactivityid": 76739
+        }
+    },
+    "status": [
+        {
+            "id": 76739,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669907",
+    "attachments": []
+}

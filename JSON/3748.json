@@ -1,0 +1,64 @@
+{
+    "activityid": 3748,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A short survey of quantum computing",
+        "Journal": "Journal of Knot Theory &amp; Its Ramifications",
+        "Volume": "26",
+        "Month / Season": "",
+        "Issue Number": "no. 3",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "19",
+        "Publisher": "World Scientific",
+        "DOI": "10.1142/S0218216517410048",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Quantum computing is closely related to 3-dimensional topological quantum field theory through its approach in topological quantum computation. The following are notes based on lectures given by the author at the Mathematics Department of George Washington University. The idea is to give a brief introduction and survey of a few basic facts of quantum computing to an audience of non-experts interested in taking a quick look at some of the most important concepts of quantum computing. The author is a\r\ntopologist with strong interest in the general ideas of quantum computing. The notes touch on how quantum topology enters the field but emphasizes the general ideas of quantum computing in the first place.",
+        "Origin": "Other"
+    },
+    "facultyid": "111669772",
+    "coauthors": {
+        "147680": {
+            "firstname": "Uwe",
+            "middleinitial": "",
+            "lastname": "Kaiser",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669772",
+            "authorid": 147680,
+            "scholarlyactivityid": 3748,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 3748,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669772",
+    "attachments": [
+        {
+            "attachmentid": 2224,
+            "mimetype": "application/pdf",
+            "filename": "Typesetting corrections_done_1741004.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25vYXYzUVZoSUFpc0x1ZGZHOVlIaHVhQ3ZCYVRlenh1UlV0UWZES1kxbWVuWmxUUkZFcnpHUXQrcS9zOUViaEtxVnZHM3kyN1VlRHBhSUV1SkxZczlWVQ%3D%3D",
+            "filesize": 622320
+        },
+        {
+            "attachmentid": 7495,
+            "mimetype": "application/pdf",
+            "filename": "s0218216517410048.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25vZDRVcjY2dW16Z1lMSzVVT01wS1lPSExGY0VvdGhYOHFJQUUrNlI2NnIyeW9odjREQ3YxTzA%3D",
+            "filesize": 477214
+        }
+    ]
+}

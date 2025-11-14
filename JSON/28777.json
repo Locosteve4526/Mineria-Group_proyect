@@ -1,0 +1,64 @@
+{
+    "activityid": 28777,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Self-fulfilling Prophecy",
+        "Book Title": "Encyclopedia of Sport and Exercise Psychology",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114063271",
+    "coauthors": {
+        "95961": {
+            "firstname": "Thelma",
+            "middleinitial": "",
+            "lastname": "Horn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95961,
+            "scholarlyactivityid": 28777,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "95962": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114063271",
+            "authorid": 95962,
+            "scholarlyactivityid": 28777,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28777,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114063271",
+    "attachments": []
+}

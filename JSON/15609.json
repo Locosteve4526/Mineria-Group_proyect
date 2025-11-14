@@ -1,0 +1,52 @@
+{
+    "activityid": 15609,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Extraction and Isolation of Cyclopamine",
+        "Conference / Meeting Name": "The 9th Annual INBRE conference",
+        "Conference Location": "Moscow, ID",
+        "Date or Date Range": "2011-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "64056": {
+            "firstname": "Rynne",
+            "middleinitial": "",
+            "lastname": "Ambrose",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64056,
+            "scholarlyactivityid": 15609
+        },
+        "64057": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 64057,
+            "scholarlyactivityid": 15609
+        }
+    },
+    "status": [
+        {
+            "id": 15609,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

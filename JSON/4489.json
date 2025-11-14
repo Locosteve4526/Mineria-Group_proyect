@@ -1,0 +1,56 @@
+{
+    "activityid": 4489,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Towards Regional Assimilation of Lagrangian Data: The Lagrangian Form of the Shallow Water Reduced Gravity Model and its Inverse",
+        "Journal": "Journal of Marine Systems",
+        "Volume": "29",
+        "Month / Season": "2001-01-01",
+        "Issue Number": "4-Jan",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "365-384",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/S0924-7963(01)00024-0",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/19",
+        "Description/Abstract": "Variational data assimilation for Lagrangian geophysical fluid dynamics is introduced. Lagrangian coordinates add numerical difficulties into an already difficult subject, but also offer certain distinct advantages over Eulerian coordinates. First, float position and depth are defined by linear measurement functionals. Second, Lagrangian or 'comoving' open domains are conveniently expressed in Lagrangian coordinates. The attraction of such open domains is that they lead to well-posed prediction problems [Bennett and Chua (1999)] and hence efficient inversion algorithms.  Eulerian and Lagrangian solutions of the inviscid forward problem in a doubly periodic domain, with North Atlantic mesoscales, are compared and found to be in satisfactory agreement for about one day. Viscous stresses vastly extend the interval of agreement at the cost of considerable complexity, so in this first study the machinery of variational assimilation is developed and tested for inviscid dynamics, simulated data and short assimilation intervals. It was found that the intricate machinery could be consistently developed, managed, and satisfactorily tested at least within the confines of the chosen parameters.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "13505": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 13505,
+            "scholarlyactivityid": 4489
+        },
+        "13506": {
+            "firstname": "A.",
+            "middleinitial": "F.",
+            "lastname": "Bennett",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13506,
+            "scholarlyactivityid": 4489
+        }
+    },
+    "status": [
+        {
+            "id": 4489,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2001,
+            "termid": "2000/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

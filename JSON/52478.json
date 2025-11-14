@@ -1,0 +1,71 @@
+{
+    "activityid": 52478,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Cultural Controls and Salesperson Engagement",
+        "Conference/Meeting Name": "American Marketing Association Summer Educators Conference",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "August",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "American Marketing Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "243301": {
+            "firstname": "Stacey",
+            "middleinitial": "",
+            "lastname": "Malek",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243301,
+            "scholarlyactivityid": 52478,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "243302": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 243302,
+            "scholarlyactivityid": 52478,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "243303": {
+            "firstname": "Bernard",
+            "middleinitial": "J.",
+            "lastname": "Jaworski",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243303,
+            "scholarlyactivityid": 52478,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52478,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

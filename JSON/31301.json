@@ -1,0 +1,81 @@
+{
+    "activityid": 31301,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Determining intensity levels for Selected Wii Fit activities in college aged individuals",
+        "Conference / Meeting Name": "the American Alliance for Health, Physical Education, Recreation and Dance National Conference",
+        "Conference Location": "Boston, Massachusetts",
+        "Date or Date Range": "2011-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112145571",
+    "coauthors": {
+        "117710": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Grieser",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 117710,
+            "scholarlyactivityid": 31301
+        },
+        "117709": {
+            "firstname": "Yong",
+            "middleinitial": "",
+            "lastname": "Gao",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112182688",
+            "authorid": 117709,
+            "scholarlyactivityid": 31301
+        },
+        "117708": {
+            "firstname": "Lynda",
+            "middleinitial": "",
+            "lastname": "Ransdell",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112031674",
+            "authorid": 117708,
+            "scholarlyactivityid": 31301
+        },
+        "117707": {
+            "firstname": "Shawn",
+            "middleinitial": "Ray",
+            "lastname": "Simonson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 117707,
+            "scholarlyactivityid": 31301
+        }
+    },
+    "status": [
+        {
+            "id": 31301,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 31301,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112145571",
+    "attachments": []
+}

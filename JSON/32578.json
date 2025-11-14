@@ -1,0 +1,96 @@
+{
+    "activityid": 32578,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A statistical finite element model of the knee accounting for shape and alignment variability",
+        "Journal": "Medical engineering &amp; physics",
+        "Volume": "35",
+        "Month / Season": null,
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "1450-6",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "By characterizing anatomical differences in size and shape between subjects, statistical shape models enable population-based evaluations in biomechanics. Statistical models have largely focused on individual bones with application to implant sizing, bone fracture and osteoarthritis; however, in joint mechanics applications, the statistical models must consider the geometry of multiple structures of a joint and their relative position. Accordingly, the objectives of this study were to develop a statistical shape and alignment modeling (SSAM) approach to characterize the intersubject variability in bone morphology and alignment for the structures of the knee, to demonstrate the statistical model's ability to describe variability in a training set and to generate realistic instances for use in finite element evaluation of joint mechanics. The statistical model included representations of the bone and cartilage for the femur, tibia and patella from magnetic resonance images and relative alignment of the structures at a known, loaded position in an experimental knee simulator for a training set of 20 specimens. The statistical model described relationships or modes of variation in shape and relative alignment of the knee structures. By generating new 'virtual subjects' with physiologically realistic knee anatomy, the modeling approach can efficiently perform investigations into joint mechanics and implant design which benefit from population-based considerations.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "125659": {
+            "firstname": "Chandreshwar",
+            "middleinitial": "",
+            "lastname": "Rao",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125659,
+            "scholarlyactivityid": 32578
+        },
+        "125660": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125660,
+            "scholarlyactivityid": 32578
+        },
+        "125661": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125661,
+            "scholarlyactivityid": 32578
+        },
+        "125662": {
+            "firstname": "Lorin ",
+            "middleinitial": "P",
+            "lastname": "Maletsky",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125662,
+            "scholarlyactivityid": 32578
+        },
+        "125663": {
+            "firstname": "Raymond ",
+            "middleinitial": "H",
+            "lastname": "Kim",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125663,
+            "scholarlyactivityid": 32578
+        },
+        "125664": {
+            "firstname": "Peter ",
+            "middleinitial": "J",
+            "lastname": "Laz",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125664,
+            "scholarlyactivityid": 32578
+        }
+    },
+    "status": [
+        {
+            "id": 32578,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

@@ -1,0 +1,102 @@
+{
+    "activityid": 43532,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "It\u2019s not what you know, but who you know, especially if you are a female director: A network analysis of female and male directors (data collection stage)",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114105970",
+    "coauthors": {
+        "302109": {
+            "firstname": "Karen",
+            "middleinitial": "R",
+            "lastname": "Nicholas",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114105970",
+            "authorid": 302109,
+            "scholarlyactivityid": 43532,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "302110": {
+            "firstname": "Felice",
+            "middleinitial": "B",
+            "lastname": "Klein",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114109249",
+            "authorid": 302110,
+            "scholarlyactivityid": 43532,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "302111": {
+            "firstname": "August",
+            "middleinitial": "",
+            "lastname": "Huckabee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 302111,
+            "scholarlyactivityid": 43532,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43532,
+            "status": "Work Discontinued",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 43532,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43532,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 43532,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114105970",
+    "attachments": []
+}

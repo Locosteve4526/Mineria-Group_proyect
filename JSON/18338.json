@@ -1,0 +1,42 @@
+{
+    "activityid": 18338,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Found in Translation",
+        "Conference/Meeting Name": "Found in Translation",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "2014-10-21",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "English Department",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112179795",
+    "coauthors": {
+        "70151": {
+            "firstname": "Edward",
+            "middleinitial": "McLean",
+            "lastname": "Test",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112179795",
+            "authorid": 70151,
+            "scholarlyactivityid": 18338
+        }
+    },
+    "status": [
+        {
+            "id": 18338,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112179795",
+    "attachments": []
+}

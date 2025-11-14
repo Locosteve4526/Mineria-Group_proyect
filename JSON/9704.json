@@ -1,0 +1,52 @@
+{
+    "activityid": 9704,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Inspiring Action Through Research Mentorship ",
+        "Conference / Meeting Name": "American Holistic Nurses' Association (AHNA) 34th Annual Conference",
+        "Conference Location": "Portland, OR",
+        "Date or Date Range": "2014-01-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "American Holistic Nurses' Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110349",
+    "coauthors": {
+        "51207": {
+            "firstname": "Alia",
+            "middleinitial": "",
+            "lastname": "Crandall",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51207,
+            "scholarlyactivityid": 9704
+        },
+        "51208": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Downey",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110349",
+            "authorid": 51208,
+            "scholarlyactivityid": 9704
+        }
+    },
+    "status": [
+        {
+            "id": 9704,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110349",
+    "attachments": []
+}

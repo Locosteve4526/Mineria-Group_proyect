@@ -1,0 +1,58 @@
+{
+    "activityid": 59252,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Evolution of complex conductivity of granular materials during shearing: insights from pore-scale simulations",
+        "Conference / Meeting Name": "AGU fall meeting 2021",
+        "Conference Location": "New Orleans",
+        "Date or Date Range": "Dec 13, 2021",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Many geological processes can exert disturbances to the stress condition of geological materials in the subsurface. Examples include shearing zone in slopes and fault rupture propagation in soils. Changes in the stress condition in subsurface may result in deformations of geological materials, including compression and shearing. As a noninvasive approach, geophysical method could be used to characterize the subsurface influenced by these geological processes. To better interpret the measured geophysical results, it is important to understand the geophysical responses of geomaterials during deformations. While the influence of compression has been well studied, it is still unclear how shearing affects the geophysical properties of geomaterials. In this study, we use pore-scale simulations to study the complex electrical conductivity of granular materials during shearing. Two synthetic soil samples are used and shearing is simulated by the discrete element method. The microstructure of the samples during shearing are then used to calculate the complex conductivity of the material at different strain conditions. It is found that the shearing has some noticeable influences on the complex conductivity of the samples. As shear progresses, both real and imaginary parts of the conductivity changes. While the real conductivity only changes lightly, the characteristic frequency of the imaginary conductivity shifts even when the porosity of the sample stays unchanged. Significant anisotropic responses are also observed during shearing. The results suggest that the characteristic frequency of the imaginary conductivity may be controlled by the geometry of the pore space rather than the grain size.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112754",
+    "coauthors": {
+        "276703": {
+            "firstname": "Qifei",
+            "middleinitial": "",
+            "lastname": "Niu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112754",
+            "authorid": 276703,
+            "scholarlyactivityid": 59252,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "276704": {
+            "firstname": "Hang",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276704,
+            "scholarlyactivityid": 59252,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59252,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112754",
+    "attachments": []
+}

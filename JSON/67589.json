@@ -1,0 +1,84 @@
+{
+    "activityid": 67589,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Innovation of Disease Surveillance Systems",
+        "Conference / Meeting Name": "ICUR",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "7/20/23",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "307392": {
+            "firstname": "Tate",
+            "middleinitial": "",
+            "lastname": "Gallegos",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307392,
+            "scholarlyactivityid": 67589,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "307393": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Hudon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307393,
+            "scholarlyactivityid": 67589,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "307394": {
+            "firstname": "Adriana",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307394,
+            "scholarlyactivityid": 67589,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "307395": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 307395,
+            "scholarlyactivityid": 67589,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 67589,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

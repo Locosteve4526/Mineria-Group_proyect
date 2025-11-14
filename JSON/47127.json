@@ -1,0 +1,63 @@
+{
+    "activityid": 47127,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Inductive Qualitative Social Science Research as a Necessary Element of Data Science",
+        "Name of Conference": "Pacific Sociological Association",
+        "Month / Season": "April 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "na",
+        "Publisher": "Pacific Sociological Association",
+        "Publisher Location": "Oakland, CA",
+        "Volume": "2019",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110059",
+    "coauthors": {
+        "215491": {
+            "firstname": "Donald",
+            "middleinitial": "J",
+            "lastname": "Winiecki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110059",
+            "authorid": 215491,
+            "scholarlyactivityid": 47127,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "215492": {
+            "firstname": "Hay",
+            "middleinitial": "",
+            "lastname": "Bryant",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 215492,
+            "scholarlyactivityid": 47127,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47127,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110059",
+    "attachments": []
+}

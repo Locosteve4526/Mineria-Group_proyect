@@ -1,0 +1,82 @@
+{
+    "activityid": 42077,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Building engagement in K-12 online learning.",
+        "Book Title": "In R. Hartshorne, &amp; T. Heafner (Eds.), Advanced Research and Practice in K-12 Online and Blended Learning.",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "171-192",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "IGI Global",
+        "Publisher Location": "Hershey, PA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "R. Hartshorne, &amp; T. Heafner",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "212179": {
+            "firstname": "Kristin",
+            "middleinitial": "",
+            "lastname": "Kipp",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 212179,
+            "scholarlyactivityid": 42077,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "212180": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 212180,
+            "scholarlyactivityid": 42077,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42077,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42077,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 42077,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

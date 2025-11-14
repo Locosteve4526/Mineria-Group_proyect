@@ -1,0 +1,89 @@
+{
+    "activityid": 19540,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Structuring Collective Behavior in a Global Information System",
+        "Name of Conference": "Systems Science European Conference",
+        "Month / Season": "2005-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Paris, France",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "134436": {
+            "firstname": "Jacek",
+            "middleinitial": "",
+            "lastname": "Unold",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134436,
+            "scholarlyactivityid": 19540,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134437": {
+            "firstname": "Wita",
+            "middleinitial": "",
+            "lastname": "Wojtkowski",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110225",
+            "authorid": 134437,
+            "scholarlyactivityid": 19540,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134438": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 134438,
+            "scholarlyactivityid": 19540,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134439": {
+            "firstname": "Greg",
+            "middleinitial": "",
+            "lastname": "Wojtkowski",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110224",
+            "authorid": 134439,
+            "scholarlyactivityid": 19540,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19540,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

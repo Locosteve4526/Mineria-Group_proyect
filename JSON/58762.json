@@ -1,0 +1,84 @@
+{
+    "activityid": 58762,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Attending to departmental change readiness for effective pedagogical reform.",
+        "Journal": "Innovative Higher Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "274202": {
+            "firstname": "Julianne",
+            "middleinitial": "",
+            "lastname": "Wenner",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114046498",
+            "authorid": 274202,
+            "scholarlyactivityid": 58762
+        },
+        "274201": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 274201,
+            "scholarlyactivityid": 58762
+        },
+        "274200": {
+            "firstname": "Brittnee",
+            "middleinitial": "",
+            "lastname": "Earl",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274200,
+            "scholarlyactivityid": 58762
+        }
+    },
+    "status": [
+        {
+            "id": 58762,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 58762,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 58762,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

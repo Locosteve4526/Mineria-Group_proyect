@@ -1,0 +1,56 @@
+{
+    "activityid": 40064,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Designing an Effective Data Synchronization Model for Collaborative Mobile Software",
+        "Journal": null,
+        "Volume": null,
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": null,
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114058343",
+    "coauthors": {
+        "174713": {
+            "firstname": "Kevin",
+            "middleinitial": "",
+            "lastname": "McGehee",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174713,
+            "scholarlyactivityid": 40064
+        },
+        "174714": {
+            "firstname": "Jerry",
+            "middleinitial": "Alan",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174714,
+            "scholarlyactivityid": 40064
+        }
+    },
+    "status": [
+        {
+            "id": 40064,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058343",
+    "attachments": []
+}

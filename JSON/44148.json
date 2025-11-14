@@ -1,0 +1,61 @@
+{
+    "activityid": 44148,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "PsychSessions: Conversations about Teaching N' Stuff",
+        "Name of Venue": "iTunes/Apple Podcasts, Stitcher, Spotify, iHeartRadio, Google Music/Podcasts",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "http://bit.ly/PsychSessions",
+        "Description/Abstract": "",
+        "Activity Type": "Co-hosted Podcast",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "200003": {
+            "firstname": "Garth",
+            "middleinitial": "",
+            "lastname": "Neufeld",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200003,
+            "scholarlyactivityid": 44148,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "200004": {
+            "firstname": "R.",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 200004,
+            "scholarlyactivityid": 44148,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44148,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

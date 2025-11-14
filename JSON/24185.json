@@ -1,0 +1,75 @@
+{
+    "activityid": 24185,
+    "fields": {
+        "Type": "Book",
+        "Title": "Mathematical Thinking for Instruction Workbook Kindergarten-3rd",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Developing Mathematical Thinking Institute",
+        "Publisher Location": "Boise, Idaho",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111351647",
+    "coauthors": {
+        "80092": {
+            "firstname": "Jonathan",
+            "middleinitial": "",
+            "lastname": "Brendefur",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643488",
+            "authorid": 80092,
+            "scholarlyactivityid": 24185
+        },
+        "80093": {
+            "firstname": "Sam",
+            "middleinitial": "",
+            "lastname": "Strother",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80093,
+            "scholarlyactivityid": 24185
+        },
+        "80094": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 80094,
+            "scholarlyactivityid": 24185
+        },
+        "80095": {
+            "firstname": "Gwyneth",
+            "middleinitial": "",
+            "lastname": "Hughes",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 80095,
+            "scholarlyactivityid": 24185
+        }
+    },
+    "status": [
+        {
+            "id": 24185,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111351647",
+    "attachments": []
+}

@@ -1,0 +1,81 @@
+{
+    "activityid": 58728,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Examining the impact of a  crime gun intelligence center",
+        "Journal": "Journal of Forensic Sciences",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114125301",
+    "coauthors": {
+        "274062": {
+            "firstname": "Michaela",
+            "middleinitial": "",
+            "lastname": "Flippin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274062,
+            "scholarlyactivityid": 58728,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274063": {
+            "firstname": "Charles",
+            "middleinitial": "",
+            "lastname": "Katz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274063,
+            "scholarlyactivityid": 58728
+        },
+        "274064": {
+            "firstname": "William",
+            "middleinitial": "R",
+            "lastname": "King",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114125301",
+            "authorid": 274064,
+            "scholarlyactivityid": 58728,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58728,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 58728,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114125301",
+    "attachments": []
+}

@@ -1,0 +1,57 @@
+{
+    "activityid": 71680,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Resilience of Industrial Control Systems Using Signal Temporal Logic And Autotuning Mechanism",
+        "Name of Conference": "2023 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "0284-0293",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1109/DASC/PiCom/CBDCom/Cy59711.2023.10361314",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;Building robust, reliable, and resilient safety critical systems is a major challenge facing nations and states today. The reason is that the complexity and technological advancement of these systems and their control from remote locations have raised various security threats, leading to a high increase in successful attacks witnessed over the years. To address these challenges, timely detection and recovery of the system under attacks or failures are needed. To this end, we proposed an STL-Autotuning framework that integrates the concept of Signal Temporal Logic (STL) formalism and an autotuning mechanism to reason about system resilience. In this work, we focus on the study of critical processes whose changes have notable impacts on the overall system. Our STL-based approach implemented in breach provides real-time monitoring of these processes for the timely detection of violations capable of crippling the system. The auto-tuning mechanism adopts a Simple Internal Model Control (SIMC) PID rule for the quick recovery of the system under attacks or faults. We implemented an STL quantitative semantics to measure the degree of violations of system safety constraints necessary for triggering the autotuning mechanism. The reason is to avoid triggering the autotuning mechanism for minor violations that do not impact the system's safety and availability. We tested our proposed approach at the Tennessee Eastman Plant, a complex model explicitly designed for the study of industrial processes and control. The findings derived from our experiment demonstrate the efficacy of our approach in promptly detecting violations and effectuating timely and efficient plant recovery. As a result, our framework is highly suitable for building robust, reliable, and resilient systems.&lt;/span&gt;",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114068806",
+    "coauthors": {
+        "336710": {
+            "firstname": "Chidi",
+            "middleinitial": "",
+            "lastname": "Agbo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336710,
+            "scholarlyactivityid": 71680
+        },
+        "336711": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336711,
+            "scholarlyactivityid": 71680
+        }
+    },
+    "status": [
+        {
+            "id": 71680,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114068806",
+    "attachments": []
+}

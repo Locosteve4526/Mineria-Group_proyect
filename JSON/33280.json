@@ -1,0 +1,63 @@
+{
+    "activityid": 33280,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Noise Detection in Fluorescence Data Streams Using a Time Series Deep Neural Network",
+        "Name of Conference": "Computing Conference 2018",
+        "Month / Season": "Summer",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "https://doi.org/10.1007/978-3-030-01177-2_2",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://link.springer.com/chapter/10.1007/978-3-030-01177-2_2",
+        "Description/Abstract": "The advent of fluorescence microscopy and the discovery of green fluorescent protein has resulted in an explosion of Fluorescence Correlation Spectroscopy (FCS) related techniques and the promise of characterizing complex biochemical reactions in the living cell. FCS which relies on correlation function analysis (CFA) is a very powerful tool used for single molecule and single cell measurements that provide new insights into biomolecular interactions. FCS time series analysis coupled with the use of deep time- series neural networks provides better insight into a data set than correlation functions alone. Typical correlation functions average over many molecular events to give an average characterization of concentration, mobility, binding or enzymatic processivity. One benefit of coupling CFA with deep-learning is the added ability to perform quantitative measurements in the presence of noise. In some cases fluorescence signal noise arises from a lack of detector measurement efficiency (shot noise) or high signal intensities. Other fluorescence signal noise sources include low frequency photobleaching, or high frequency oscillations. Ultimately such noise degrades the cross-correlation signal. In this paper, we illustrate a systematic approach for identifying noise in fluorescence data. We illustrate how traditional CFA can be enhanced through the use of a deep time-series neural network, and how wavelet transforms facilitate signal noise isolation and root cause analysis in both stationary and non-stationary fluorescence signals. In this paper, we describe a unique systematic approach for detecting fluorescence signal noise in a two-signal FCS system.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002276",
+    "coauthors": {
+        "273978": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Obert",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273978,
+            "scholarlyactivityid": 33280,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "273979": {
+            "firstname": "Matthew",
+            "middleinitial": "L",
+            "lastname": "Ferguson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002276",
+            "authorid": 273979,
+            "scholarlyactivityid": 33280,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33280,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002276",
+    "attachments": []
+}

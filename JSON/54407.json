@@ -1,0 +1,84 @@
+{
+    "activityid": 54407,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "What's the Point? An After-Tax Analysis of Negative Mortgage Points",
+        "Journal": "Real Estate Taxation",
+        "Volume": "35",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126866",
+    "coauthors": {
+        "299913": {
+            "firstname": "Cris",
+            "middleinitial": "",
+            "lastname": "de la Torre",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 299913,
+            "scholarlyactivityid": 54407,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "299914": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Newmark",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 299914,
+            "scholarlyactivityid": 54407,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "299915": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Stallings",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126866",
+            "authorid": 299915,
+            "scholarlyactivityid": 54407,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54407,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54407,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114126866",
+    "attachments": []
+}

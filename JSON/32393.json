@@ -1,0 +1,80 @@
+{
+    "activityid": 32393,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Military Interventions and Foreign Policy Similarity",
+        "Journal": "Conflict Management and Peace Science",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002030",
+    "coauthors": {
+        "124847": {
+            "firstname": "Isaac",
+            "middleinitial": "M",
+            "lastname": "Castellano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002030",
+            "authorid": 124847,
+            "scholarlyactivityid": 32393,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "124848": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Wells",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 124848,
+            "scholarlyactivityid": 32393,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32393,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 32393,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 32393,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114002030",
+    "attachments": []
+}

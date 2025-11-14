@@ -1,0 +1,51 @@
+{
+    "activityid": 9818,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Gamification in Practice",
+        "Conference/Meeting Name": "Serious Play Conference",
+        "Conference Location": "Pittsburg, PA",
+        "Date or Date Range": "2015-07-22",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Serious Games Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111114223",
+    "coauthors": {
+        "51492": {
+            "firstname": "Charles",
+            "middleinitial": "Christopher",
+            "lastname": "Haskell",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111114223",
+            "authorid": 51492,
+            "scholarlyactivityid": 9818
+        }
+    },
+    "status": [
+        {
+            "id": 9818,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9818,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111114223",
+    "attachments": []
+}

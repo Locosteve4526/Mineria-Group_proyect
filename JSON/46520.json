@@ -1,0 +1,62 @@
+{
+    "activityid": 46520,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Guidelines for designing online courses for mobile devices",
+        "Journal": "TechTrends",
+        "Volume": "64",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "413- 422",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1007/s11528-019-00463-6",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083497",
+    "coauthors": {
+        "247505": {
+            "firstname": "Sally",
+            "middleinitial": "",
+            "lastname": "Baldwin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247505,
+            "scholarlyactivityid": 46520,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "247506": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 247506,
+            "scholarlyactivityid": 46520,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46520,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083497",
+    "attachments": []
+}

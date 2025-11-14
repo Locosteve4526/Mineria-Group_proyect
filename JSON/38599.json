@@ -1,0 +1,88 @@
+{
+    "activityid": 38599,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Ancile: Privacy-preserving Framework for Access Control and Interoperability of Electronic Health Records Using Blockchain Technology",
+        "Journal": "Sustainable Cities and Society (SCS) Journal",
+        "Volume": "39",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "283-297",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Despite an increased focus on the security of electronic health records and an effort by large cities around the globe to pursue smart city infrastructure, the private information of patients is subject to data breaches on a regular basis. Previous efforts to combat this have resulted in data being mostly inaccessible to patients. Existing record management systems struggle with balancing data privacy and the need for patients and providers to regularly interact with data. Blockchain technology is an emerging technology that enables data sharing in a decentralized and transactional fashion. Blockchain technology can be leveraged in the healthcare domain to achieve the delicate balance between privacy and accessibility of electronic health records.\n\nIn this paper, we propose a blockchain-based framework for secure, interoperable, and efficient access to medical records by patients, providers, and third parties, while preserving the privacy of patients\u2019 sensitive information. Our framework, named Ancile, utilizes smart contracts in an Ethereum-based blockchain for heightened access control and obfuscation of data, and employs advanced cryptographic techniques for further security. The goals of this paper are to analyze how Ancile would interact with the different needs of patients, providers, and third parties, and to understand how the framework could address longstanding privacy and security concerns in the healthcare industry.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "195912": {
+            "firstname": "Gaby",
+            "middleinitial": "G.",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 195912,
+            "scholarlyactivityid": 38599,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195913": {
+            "firstname": "Jordan",
+            "middleinitial": "",
+            "lastname": "Mohler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195913,
+            "scholarlyactivityid": 38599,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "195914": {
+            "firstname": "Matea",
+            "middleinitial": "",
+            "lastname": "Milojkovic",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195914,
+            "scholarlyactivityid": 38599,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "195915": {
+            "firstname": "Praneeth",
+            "middleinitial": "",
+            "lastname": "Babu Marella",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195915,
+            "scholarlyactivityid": 38599,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 38599,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

@@ -1,0 +1,101 @@
+{
+    "activityid": 48463,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Accuracy Comparison of Aerial Lidar, Mobile-Terrestrial Lidar, and UAV Photogrammetric Capture Data Elevations over Different Terrain Types",
+        "Journal": "Infrastructures",
+        "Volume": "5",
+        "Month / Season": "July 2020",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "MDPI",
+        "DOI": " https://doi.org/10.3390/infrastructures5080065",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Lidar and other remotely sensed data such as UAV photogrammetric data capture are being collected and utilized for roadway design on an increasing basis. These methods are desirable over conventional survey due to their efficiency and cost-effectiveness over large areas. A high degree of relative accuracy is achievable through the establishment of survey control. In this case study, elevations (z-values) derived from mobile-terrestrial lidar, aerial lidar, and UAV photogrammetric capture collected with survey control were statistically compared to conventionally surveyed elevations. A cost comparison of the methods is also included. Each set of z-values corresponds to a discrete horizontal point originally part of the conventional survey, collected as cross-sections. These cross-sections were surveyed at three approximate tenth-mile sample locations along US-30 near Georgetown, Idaho. The cross-sections were collected as elevational accuracy verification, and each sample location was selected as an area where the mobile-terrestrial lidar in particular was expected to have more difficulty achieving accuracy off the road surface. Processing and analysis were performed in Esri ArcMap 10.6, and all data were obtained from the Idaho Transportation Department, District 5. Overall, the aerial lidar elevations were found to be closest to conventionally surveyed elevations; on road surface and level terrain, mobile-terrestrial and UAV photogrammetric capture elevations were closer to the conventionally measured elevations. ",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110292",
+    "coauthors": {
+        "243469": {
+            "firstname": "Mandar",
+            "middleinitial": "",
+            "lastname": "Khanal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110292",
+            "authorid": 243469,
+            "scholarlyactivityid": 48463,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "243470": {
+            "firstname": "Mahamudul",
+            "middleinitial": "",
+            "lastname": "Hasan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243470,
+            "scholarlyactivityid": 48463,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "243471": {
+            "firstname": "Nikolaus",
+            "middleinitial": "",
+            "lastname": "Sterbentz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243471,
+            "scholarlyactivityid": 48463,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "243472": {
+            "firstname": "Ryen",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243472,
+            "scholarlyactivityid": 48463,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "243473": {
+            "firstname": "Jesse",
+            "middleinitial": "",
+            "lastname": "Weatherly",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243473,
+            "scholarlyactivityid": 48463,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48463,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110292",
+    "attachments": []
+}

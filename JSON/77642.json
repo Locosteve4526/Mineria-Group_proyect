@@ -1,0 +1,86 @@
+{
+    "activityid": 77642,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;a href=&quot;https://scholar.google.com/scholar?oi=bibs&amp;cluster=613998922754870947&amp;btnI=1&amp;hl=en&quot;&gt;Blockchain for large language model security and safety: A holistic survey&lt;/a&gt;",
+        "Journal": "ACM SIGKDD Explorations Newsletter",
+        "Volume": "26",
+        "Month / Season": "January",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "1-20",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1145/3715073.3715075",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;With the growing development and deployment of large language models (LLMs) in both industrial and academic fields, their security and safety concerns have become increasingly critical. However, recent studies indicate that LLMs face numerous vulnerabilities, including data poisoning, prompt injections, and unauthorized data exposure, which conventional methods have struggled to address fully. In parallel, blockchain technology, known for its data immutability and decentralized structure, offers a promising foundation for safeguarding LLMs. In this survey, we aim to comprehensively assess how to leverage blockchain technology to enhance LLMs' security and safety. Besides, we propose a new taxonomy of blockchain for large language models (BC4LLMs) to systematically categorize related works in this emerging field. Our analysis includes novel frameworks and definitions to delineate security and safety.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114254397",
+    "coauthors": {
+        "347285": {
+            "firstname": "Caleb",
+            "middleinitial": "",
+            "lastname": "Geren",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347285,
+            "scholarlyactivityid": 77642
+        },
+        "347286": {
+            "firstname": "Amanda",
+            "middleinitial": "",
+            "lastname": "Board",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 347286,
+            "scholarlyactivityid": 77642
+        },
+        "347287": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 347287,
+            "scholarlyactivityid": 77642
+        },
+        "347288": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 347288,
+            "scholarlyactivityid": 77642
+        },
+        "347289": {
+            "firstname": "Jun",
+            "middleinitial": "",
+            "lastname": "Zhuang",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114254397",
+            "authorid": 347289,
+            "scholarlyactivityid": 77642
+        }
+    },
+    "status": [
+        {
+            "id": 77642,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254397",
+    "attachments": []
+}

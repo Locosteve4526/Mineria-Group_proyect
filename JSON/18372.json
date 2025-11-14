@@ -1,0 +1,52 @@
+{
+    "activityid": 18372,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Why Does Summarizing Improve Monitoring Accuracy?  ",
+        "Conference/Meeting Name": "Annual Meeting of the American Educational Research Association",
+        "Conference Location": "San Francisco, CA",
+        "Date or Date Range": "2006-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Sponsoring Organization": "American Educational Research Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "70256": {
+            "firstname": "M ",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 70256,
+            "scholarlyactivityid": 18372
+        },
+        "70257": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 70257,
+            "scholarlyactivityid": 18372
+        }
+    },
+    "status": [
+        {
+            "id": 18372,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2006,
+            "termid": "2006/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 45176,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The Economics of Collaboration at a Regional University",
+        "Conference / Meeting Name": "SciTS",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "205854": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 205854,
+            "scholarlyactivityid": 45176
+        },
+        "205855": {
+            "firstname": "Marisa",
+            "middleinitial": "",
+            "lastname": "Richter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 205855,
+            "scholarlyactivityid": 45176
+        },
+        "205856": {
+            "firstname": "Archer",
+            "middleinitial": "",
+            "lastname": "Ward",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 205856,
+            "scholarlyactivityid": 45176
+        }
+    },
+    "status": [
+        {
+            "id": 45176,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

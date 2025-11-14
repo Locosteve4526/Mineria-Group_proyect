@@ -1,0 +1,123 @@
+{
+    "activityid": 74915,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "High-order discontinuous Galerkin schemes for the barotropic-baroclinic splitting in the two-dimensional layered shallow-water equations",
+        "Journal": "Journal of Computational Physics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054725",
+        "Description/Abstract": "&lt;span&gt;The separation of fast (barotropic) and slow (baroclinic) motions into subsystems through barotropic-baroclinic splitting has been widely adopted in layered ocean circulation models. To date, the majority of models use finite difference or finite volume methods alongside this splitting technique. In this paper, we present an extension of the work in Higdon (2015) to two horizontal dimensions using an arbitrary high-order, nodal discontinuous Galerkin (DG) method for the resulting split subsystems to develop an ocean model. We carry out numerical tests to demonstrate the performance of the proposed schemes, and the numerical results of the double-gyre test are compared with those of the HYbrid Coordinate Ocean Model (HYCOM). The parallel performance shows that the new model has a larger per-degree-of-freedom computational cost compared to HYCOM, but achieves the same result in terms of resolved kinetic energy in an order of magnitude faster time, with fewer computational resources, and maintains good parallel efficiency even with very few grid elements per computational core.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108611",
+    "coauthors": {
+        "331573": {
+            "firstname": "Yao",
+            "middleinitial": "",
+            "lastname": "Gahounzo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331573,
+            "scholarlyactivityid": 74915,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331574": {
+            "firstname": "Michal",
+            "middleinitial": "A",
+            "lastname": "Kopera",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108611",
+            "authorid": 331574,
+            "scholarlyactivityid": 74915,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331575": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Higdon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331575,
+            "scholarlyactivityid": 74915,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331576": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Chassignet",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331576,
+            "scholarlyactivityid": 74915,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331577": {
+            "firstname": "Alan",
+            "middleinitial": "",
+            "lastname": "Wallcraft",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331577,
+            "scholarlyactivityid": 74915,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "331578": {
+            "firstname": "Alexandra",
+            "middleinitial": "",
+            "lastname": "Bozec",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331578,
+            "scholarlyactivityid": 74915,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74915,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 74915,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114108611",
+    "attachments": []
+}

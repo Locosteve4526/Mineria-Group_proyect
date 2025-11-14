@@ -1,0 +1,56 @@
+{
+    "activityid": 1999,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A commitment to excellence inmiddle level leadership through multiple intelligences.",
+        "Journal": "Becoming",
+        "Volume": "16",
+        "Month / Season": "2005-12-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "7-Mar",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "5147": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 5147,
+            "scholarlyactivityid": 1999
+        },
+        "5148": {
+            "firstname": "W",
+            "middleinitial": "",
+            "lastname": "Pickett",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5148,
+            "scholarlyactivityid": 1999
+        }
+    },
+    "status": [
+        {
+            "id": 1999,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

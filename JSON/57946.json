@@ -1,0 +1,85 @@
+{
+    "activityid": 57946,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Resilience for the Rocky Road: Lessons Learned from an Educational Program for First Year Collegiate Student-Athletes",
+        "Journal": "Journal of Sport Psychology in Action",
+        "Volume": "12",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "167-180",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114063271",
+    "coauthors": {
+        "268886": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Pierce",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268886,
+            "scholarlyactivityid": 57946,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268887": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114063271",
+            "authorid": 268887,
+            "scholarlyactivityid": 57946,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268888": {
+            "firstname": "Kelly",
+            "middleinitial": "R",
+            "lastname": "Rossetto",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060624",
+            "authorid": 268888,
+            "scholarlyactivityid": 57946
+        },
+        "268889": {
+            "firstname": "Liam",
+            "middleinitial": "",
+            "lastname": "O'Neil",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268889,
+            "scholarlyactivityid": 57946,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57946,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114063271",
+    "attachments": []
+}

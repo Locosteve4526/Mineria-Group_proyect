@@ -1,0 +1,86 @@
+{
+    "activityid": 6512,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Guide to RBF-Generated Finite Differences for Nonlinear Transport: Shallow Water Simulations on a Sphere",
+        "Journal": "Journal of Computational Physics",
+        "Volume": "231",
+        "Month / Season": "2012-06-01",
+        "Issue Number": "11",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "4078-4095",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.jcp.2012.01.028",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/95",
+        "Description/Abstract": "The current paper establishes the computational efficiency and accuracy of the RBF-FD method for large-scale geoscience modeling with comparisons to state-of-the-art methods as high-order discontinuous Galerkin and spherical harmonics, the latter using expansions with close to 300,000 bases. The test cases are demanding fluid flow problems on the sphere that exhibit numerical challenges, such as Gibbs phenomena, sharp gradients, and complex vortical dynamics with rapid energy transfer from large to small scales over short time periods. The computations were possible as well as very competitive due to the implementation of hyperviscosity on large RBF stencil sizes (corresponding roughly to 6th to 9th order methods) with up to O(105) nodes on the sphere. The RBF-FD method scaled as O(N) per time step, where N is the total number of nodes on the sphere. In Appendix A, guidelines are given on how to chose parameters when using RBF-FD to solve hyperbolic PDEs.",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "20283": {
+            "firstname": "Natasha",
+            "middleinitial": "",
+            "lastname": "Flyer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20283,
+            "scholarlyactivityid": 6512
+        },
+        "20284": {
+            "firstname": "Erik",
+            "middleinitial": "",
+            "lastname": "Lehto",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20284,
+            "scholarlyactivityid": 6512
+        },
+        "20285": {
+            "firstname": "S\u00e9bastien",
+            "middleinitial": "",
+            "lastname": "Blaise",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20285,
+            "scholarlyactivityid": 6512
+        },
+        "20286": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 20286,
+            "scholarlyactivityid": 6512
+        },
+        "20287": {
+            "firstname": "Amik",
+            "middleinitial": "",
+            "lastname": "St-Cyr",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20287,
+            "scholarlyactivityid": 6512
+        }
+    },
+    "status": [
+        {
+            "id": 6512,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

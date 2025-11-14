@@ -1,0 +1,56 @@
+{
+    "activityid": 6973,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Updating Your Training Materials",
+        "Journal": "Technical Rescue",
+        "Volume": "",
+        "Month / Season": "2006-01-01",
+        "Issue Number": "46",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "16-20",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/english_facpubs/20",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111669970",
+    "coauthors": {
+        "21579": {
+            "firstname": "Lori",
+            "middleinitial": "L.",
+            "lastname": "Pennington",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111606285",
+            "authorid": 21579,
+            "scholarlyactivityid": 6973
+        },
+        "21580": {
+            "firstname": "Roger",
+            "middleinitial": "Heathcot",
+            "lastname": "Munger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111669970",
+            "authorid": 21580,
+            "scholarlyactivityid": 6973
+        }
+    },
+    "status": [
+        {
+            "id": 6973,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669970",
+    "attachments": []
+}

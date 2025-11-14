@@ -1,0 +1,96 @@
+{
+    "activityid": 38783,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A computational technique to measure fracture callus in radiographs",
+        "Journal": "Journal of biomechanics",
+        "Volume": "43",
+        "Month / Season": null,
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "792-5",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Callus formation occurs in the presence of secondary bone healing and has relevance to the fracture's mechanical environment. An objective image processing algorithm was developed to standardize the quantitative measurement of periosteal callus area in plain radiographs of long bone fractures. Algorithm accuracy and sensitivity were evaluated using surrogate models. For algorithm validation, callus formation on clinical radiographs was measured manually by orthopaedic surgeons and compared to non-clinicians using the algorithm. The algorithm measured the projected area of surrogate calluses with less than 5% error. However, error will increase when analyzing very small areas of callus and when using radiographs with low image resolution (i.e. 100 pixels per inch). The callus size extracted by the algorithm correlated well to the callus size outlined by the surgeons (R2=0.94, p&lt;0.001). Furthermore, compared to clinician results, the algorithm yielded results with five times less inter-observer variance. This computational technique provides a reliable and efficient method to quantify secondary bone healing response.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "163689": {
+            "firstname": "Trevor ",
+            "middleinitial": "J",
+            "lastname": "Lujan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163689,
+            "scholarlyactivityid": 38783
+        },
+        "163690": {
+            "firstname": "Steven ",
+            "middleinitial": "M",
+            "lastname": "Madey",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163690,
+            "scholarlyactivityid": 38783
+        },
+        "163691": {
+            "firstname": "Dan ",
+            "middleinitial": "C",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163691,
+            "scholarlyactivityid": 38783
+        },
+        "163692": {
+            "firstname": "Gregory ",
+            "middleinitial": "D",
+            "lastname": "Byrd",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163692,
+            "scholarlyactivityid": 38783
+        },
+        "163693": {
+            "firstname": "Jason ",
+            "middleinitial": "M",
+            "lastname": "Sanderson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163693,
+            "scholarlyactivityid": 38783
+        },
+        "163694": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Bottlang",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163694,
+            "scholarlyactivityid": 38783
+        }
+    },
+    "status": [
+        {
+            "id": 38783,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

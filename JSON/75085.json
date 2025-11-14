@@ -1,0 +1,72 @@
+{
+    "activityid": 75085,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "COAS Promotional Film",
+        "Name of Performing Group": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Name of Venue/Sponsor": "Boise State University",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, Idaho",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114059338",
+    "coauthors": {
+        "332282": {
+            "firstname": "Rulon",
+            "middleinitial": "M",
+            "lastname": "Wood",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114059338",
+            "authorid": 332282,
+            "scholarlyactivityid": 75085,
+            "classifications": {
+                "Role": "Performer"
+            }
+        },
+        "332283": {
+            "firstname": "Ben",
+            "middleinitial": "",
+            "lastname": "Weiland",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332283,
+            "scholarlyactivityid": 75085,
+            "classifications": {
+                "Role": "Performer"
+            }
+        },
+        "332284": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "St. Ofle",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 332284,
+            "scholarlyactivityid": 75085,
+            "classifications": {
+                "Role": "Performer"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75085,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114059338",
+    "attachments": []
+}

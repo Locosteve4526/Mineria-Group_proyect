@@ -1,0 +1,76 @@
+{
+    "activityid": 28701,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Rethinking First Year Engineering at Boise State: Assessment and Improvement",
+        "Journal": "age",
+        "Volume": "7",
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "1",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "Manual"
+    },
+    "facultyid": "111643645",
+    "coauthors": {
+        "95309": {
+            "firstname": "Amy J",
+            "middleinitial": "",
+            "lastname": "Moll",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95309,
+            "scholarlyactivityid": 28701
+        },
+        "95308": {
+            "firstname": "Anthony J",
+            "middleinitial": "",
+            "lastname": "Paris",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95308,
+            "scholarlyactivityid": 28701
+        },
+        "95307": {
+            "firstname": "Harold D",
+            "middleinitial": "",
+            "lastname": "Ackler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95307,
+            "scholarlyactivityid": 28701
+        },
+        "95306": {
+            "firstname": "John F",
+            "middleinitial": "",
+            "lastname": "Gardner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 95306,
+            "scholarlyactivityid": 28701
+        }
+    },
+    "status": [
+        {
+            "id": 28701,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2002,
+            "termid": "2002/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643645",
+    "attachments": []
+}

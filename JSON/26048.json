@@ -1,0 +1,77 @@
+{
+    "activityid": 26048,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "On-Chip 3D Inductors Using Thru-Wafer Vias",
+        "Name of Conference": "",
+        "Month / Season": "2012-04-20",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "4-Jan",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1109/WMED.2012.6202618",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/202",
+        "Description/Abstract": "Three-dimensional (3D) inductors using high aspect ratio (10:1); thru-wafer via (TWV) technology in a complementary metal oxide semiconductor (CMOS) process have been designed, fabricated, and measured. The inductors were designed using 500 ?m tall vias, with the number of turns ranging from 1 to 20 in both wide and narrow-trace width-to-space ratios. Radio frequency characterization was studied with emphasis upon de-embedding techniques and the resulting effects. The open, short, thru de-embedding (OSTD) technique was used to measure all devices. The highest quality factor (Q) measured was 11.25 at 798 MHz for a 1-turn device with a self-resonant frequency (fsr) of 4.4 GHz. The largest inductance (L) measured was 45 nH on a 20-turn, wide-trace device with a maximum Q of 4.25 at 732 MHz. A 40% reduction in area is achieved by exploiting the TWV technology when compared to planar devices. This technology shows promising results with further development and optimization.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111643645",
+    "coauthors": {
+        "83983": {
+            "firstname": "Gary",
+            "middleinitial": "",
+            "lastname": "VanAckern",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83983,
+            "scholarlyactivityid": 26048
+        },
+        "83984": {
+            "firstname": "Russel",
+            "middleinitial": "Jacob",
+            "lastname": "Baker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111630561",
+            "authorid": 83984,
+            "scholarlyactivityid": 26048
+        },
+        "83985": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Moll",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643645",
+            "authorid": 83985,
+            "scholarlyactivityid": 26048
+        },
+        "83986": {
+            "firstname": "Vishal",
+            "middleinitial": "",
+            "lastname": "Saxena",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112016841",
+            "authorid": 83986,
+            "scholarlyactivityid": 26048
+        }
+    },
+    "status": [
+        {
+            "id": 26048,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643645",
+    "attachments": []
+}

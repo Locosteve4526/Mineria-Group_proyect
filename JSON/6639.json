@@ -1,0 +1,66 @@
+{
+    "activityid": 6639,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical simulations for tumor and cellular immune system interactions in lung cancer treatment",
+        "Journal": "Communications in Nonlinear Science and Numerical Simulation",
+        "Volume": "18",
+        "Month / Season": "2013-12-31",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "1473-1480",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://math.boisestate.edu/~zubik/cv2009.pdf",
+        "Description/Abstract": "We investigate a new mathematical model that describes lung cancer regression in patients treated by chemotherapy and radiotherapy. The model is composed of nonlinear integro-differential equations derived from the so-called kinetic theory for active particles and a new sink function is investigated according to clinical data from carcinoma planoepitheliale. The model equations are solved numerically and the data are utilized in order to find their unknown parameters. The results of the numerical experiments show a good correlation between the predicted and clinical data and illustrate that the mathematical model has potential to describe lung cancer regression.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20702": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20702,
+            "scholarlyactivityid": 6639
+        },
+        "20703": {
+            "firstname": "Mikhail",
+            "middleinitial": "",
+            "lastname": "Kolev",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20703,
+            "scholarlyactivityid": 6639
+        },
+        "20704": {
+            "firstname": "Sergiusz",
+            "middleinitial": "",
+            "lastname": "Nawrocki",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20704,
+            "scholarlyactivityid": 6639
+        }
+    },
+    "status": [
+        {
+            "id": 6639,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

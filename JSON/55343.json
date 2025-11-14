@@ -1,0 +1,57 @@
+{
+    "activityid": 55343,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Marketing our Marketing Program",
+        "Name of Conference": "Marketing Educators Association",
+        "Month / Season": "2017, April",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114179860",
+    "coauthors": {
+        "259638": {
+            "firstname": "Frank",
+            "middleinitial": "R",
+            "lastname": "Veltri",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114179860",
+            "authorid": 259638,
+            "scholarlyactivityid": 55343
+        },
+        "259639": {
+            "firstname": "R",
+            "middleinitial": "",
+            "lastname": "Moody",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 259639,
+            "scholarlyactivityid": 55343
+        }
+    },
+    "status": [
+        {
+            "id": 55343,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114179860",
+    "attachments": []
+}

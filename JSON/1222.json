@@ -1,0 +1,56 @@
+{
+    "activityid": 1222,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Effect of exercises on bone mineral density.",
+        "Journal": "Journal of Shanghai Physical Education",
+        "Volume": "25",
+        "Month / Season": "2001-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "37-41",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112182688",
+    "coauthors": {
+        "114578": {
+            "firstname": "Yong",
+            "middleinitial": "",
+            "lastname": "Gao",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112182688",
+            "authorid": 114578,
+            "scholarlyactivityid": 1222
+        },
+        "114579": {
+            "firstname": "R.",
+            "middleinitial": "W.",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114579,
+            "scholarlyactivityid": 1222
+        }
+    },
+    "status": [
+        {
+            "id": 1222,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2001,
+            "termid": "2001/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112182688",
+    "attachments": []
+}

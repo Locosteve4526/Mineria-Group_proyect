@@ -1,0 +1,107 @@
+{
+    "activityid": 29811,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Supporting academic performance of deaf students at Alpha University: A case study.",
+        "Journal": "Performance Improvement",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110059",
+    "coauthors": {
+        "105669": {
+            "firstname": "Elyse",
+            "middleinitial": "",
+            "lastname": "Taylor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 105669,
+            "scholarlyactivityid": 29811,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "105670": {
+            "firstname": "Erin",
+            "middleinitial": "",
+            "lastname": "Callahan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 105670,
+            "scholarlyactivityid": 29811,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "105671": {
+            "firstname": "Kristen",
+            "middleinitial": "",
+            "lastname": "Pinta",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 105671,
+            "scholarlyactivityid": 29811,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "105672": {
+            "firstname": "Leah",
+            "middleinitial": "",
+            "lastname": "Yeatts",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 105672,
+            "scholarlyactivityid": 29811,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "105673": {
+            "firstname": "Donald",
+            "middleinitial": "J",
+            "lastname": "Winiecki",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110059",
+            "authorid": 105673,
+            "scholarlyactivityid": 29811
+        }
+    },
+    "status": [
+        {
+            "id": 29811,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 29811,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110059",
+    "attachments": []
+}

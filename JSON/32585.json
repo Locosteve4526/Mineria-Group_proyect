@@ -1,0 +1,66 @@
+{
+    "activityid": 32585,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Computationally efficient finite element evaluation of natural patellofemoral mechanics",
+        "Journal": "Journal of biomechanical engineering",
+        "Volume": "132",
+        "Month / Season": null,
+        "Issue Number": "12",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "121013",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Finite element methods have been applied to evaluate in vivo joint behavior, new devices, and surgical techniques but have typically been applied to a small or single subject cohort. Anatomic variability necessitates the use of many subject-specific models or probabilistic methods in order to adequately evaluate a device or procedure for a population. However, a fully deformable finite element model can be computationally expensive, prohibiting large multisubject or probabilistic analyses. The aim of this study was to develop a group of subject-specific models of the patellofemoral joint and evaluate trade-offs in analysis time and accuracy with fully deformable and rigid body articular cartilage representations. Finite element models of eight subjects were used to tune a pressure-overclosure relationship during a simulated deep flexion cycle. Patellofemoral kinematics and contact mechanics were evaluated and compared between a fully deformable and a rigid body analysis. Additional eight subjects were used to determine the validity of the rigid body pressure-overclosure relationship as a subject-independent parameter. There was good agreement in predicted kinematics and contact mechanics between deformable and rigid analyses for both the tuned and test groups. Root mean square differences in kinematics were less than 0.5 deg and 0.2 mm for both groups throughout flexion. Differences in contact area and peak and average contact pressures averaged 5.4%, 9.6%, and 3.8%, respectively, for the tuned group and 6.9%, 13.1%, and 6.4%, respectively, for the test group, with no significant differences between the two groups. There was a 95% reduction in computational time with the rigid body analysis as compared with the deformable analysis. The tuned pressure-overclosure relationship derived from the patellofemoral analysis was also applied to tibiofemoral (TF) articular cartilage in a group of eight subjects. Differences in contact area and peak and average contact pressures averaged 8.3%, 11.2%, and 5.7% between rigid and deformable analyses in the tibiofemoral joint. As statistical, probabilistic, and optimization techniques can require hundreds to thousands of analyses, a viable platform is crucial to component evaluation or clinical applications. The computationally efficient rigid body platform described in this study may be integrated with statistical and probabilistic methods and has potential clinical application in understanding in vivo joint mechanics on a subject-specific or population basis.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "125687": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125687,
+            "scholarlyactivityid": 32585
+        },
+        "125688": {
+            "firstname": "M",
+            "middleinitial": "A",
+            "lastname": "Baldwin",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125688,
+            "scholarlyactivityid": 32585
+        },
+        "125689": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125689,
+            "scholarlyactivityid": 32585
+        }
+    },
+    "status": [
+        {
+            "id": 32585,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

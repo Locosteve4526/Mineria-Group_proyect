@@ -1,0 +1,67 @@
+{
+    "activityid": 64778,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "GAP Analysis Annual Progress",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114011762",
+    "coauthors": {
+        "300111": {
+            "firstname": "Monica",
+            "middleinitial": "",
+            "lastname": "Hubbard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114011762",
+            "authorid": 300111,
+            "scholarlyactivityid": 64778
+        }
+    },
+    "status": [
+        {
+            "id": 64778,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64778,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 64778,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114011762",
+    "attachments": []
+}

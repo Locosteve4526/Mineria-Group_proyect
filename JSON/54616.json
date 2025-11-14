@@ -1,0 +1,71 @@
+{
+    "activityid": 54616,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "COVID-19\u2019s impact on graduate school admissions.",
+        "Conference/Meeting Name": "Psi Chi Zoom Meeting",
+        "Conference Location": "Hosted Online",
+        "Date or Date Range": "May 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Psi Chi",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "256856": {
+            "firstname": "R. Eric",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 256856,
+            "scholarlyactivityid": 54616,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "256857": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "VanderStoep",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256857,
+            "scholarlyactivityid": 54616,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "256858": {
+            "firstname": "Mitchell",
+            "middleinitial": "M.",
+            "lastname": "Handelsman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256858,
+            "scholarlyactivityid": 54616,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54616,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

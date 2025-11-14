@@ -1,0 +1,62 @@
+{
+    "activityid": 15232,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "A Collaborative Approach to Training Online Faculty",
+        "Conference/Meeting Name": "NW eLearning Conference",
+        "Conference Location": "Boise, Idaho",
+        "Date or Date Range": "2014-10-24",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "NW eLearn",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113116836",
+    "coauthors": {
+        "63297": {
+            "firstname": "Kim",
+            "middleinitial": "",
+            "lastname": "Carter-Cram",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112003158",
+            "authorid": 63297,
+            "scholarlyactivityid": 15232
+        },
+        "63298": {
+            "firstname": "Jen",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111673550",
+            "authorid": 63298,
+            "scholarlyactivityid": 15232
+        },
+        "63299": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 63299,
+            "scholarlyactivityid": 15232
+        }
+    },
+    "status": [
+        {
+            "id": 15232,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113116836",
+    "attachments": []
+}

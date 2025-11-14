@@ -1,0 +1,62 @@
+{
+    "activityid": 69239,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;color:#000000;&quot;&gt;Ambiguous policies, controversial issues, &amp; strained bureaucracies: Banning critical race theory in Idaho&lt;/span&gt;",
+        "Journal": "Journal of Social Equity and Public Administration",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114022280",
+    "coauthors": {
+        "312118": {
+            "firstname": "Luke",
+            "middleinitial": "",
+            "lastname": "Fowler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 312118,
+            "scholarlyactivityid": 69239,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "312119": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Schneider",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114022280",
+            "authorid": 312119,
+            "scholarlyactivityid": 69239,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69239,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114022280",
+    "attachments": []
+}

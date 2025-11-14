@@ -1,0 +1,84 @@
+{
+    "activityid": 53392,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Adsorption and Surface Diffusion of Metals on \u03b1-Al2O3 for Advanced Manufacturing Applications",
+        "Journal": "TMS JOM  ",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113162964",
+    "coauthors": {
+        "249200": {
+            "firstname": "Austin",
+            "middleinitial": "",
+            "lastname": "Biaggne",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 249200,
+            "scholarlyactivityid": 53392,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "249201": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Noble",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 249201,
+            "scholarlyactivityid": 53392,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "249202": {
+            "firstname": "Lan (Samantha)",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113162964",
+            "authorid": 249202,
+            "scholarlyactivityid": 53392,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53392,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53392,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113162964",
+    "attachments": []
+}

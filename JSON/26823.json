@@ -1,0 +1,55 @@
+{
+    "activityid": 26823,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Idaho Adventure",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Gibbs Smith Education",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Gibbs Smith Education",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/19",
+        "Description/Abstract": "The Idaho Adventure is a multi-media textbook program for 4th grade Idaho Studies. The program is based on Idaho's Content Standards for social studies and teaches civics, history, geography, and economics. The program includes research-based literacy strategies, engaging primary source activities and skill pages, exciting connections between Idaho's past and present, Key Ideas and Key Terms, and full color photographs on each page.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111926",
+    "coauthors": {
+        "85729": {
+            "firstname": "Nancy",
+            "middleinitial": "Wilper",
+            "lastname": "Tacke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 85729,
+            "scholarlyactivityid": 26823
+        },
+        "85730": {
+            "firstname": "Todd",
+            "middleinitial": "A",
+            "lastname": "Shallat",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111926",
+            "authorid": 85730,
+            "scholarlyactivityid": 26823
+        }
+    },
+    "status": [
+        {
+            "id": 26823,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111926",
+    "attachments": []
+}

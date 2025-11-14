@@ -1,0 +1,71 @@
+{
+    "activityid": 52337,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Evolution of Biomedical Research Community Over 20 Years",
+        "Conference / Meeting Name": "Idaho Conference on Undergraduate Research",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "July 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "242728": {
+            "firstname": "Tragon",
+            "middleinitial": "",
+            "lastname": "McFall",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242728,
+            "scholarlyactivityid": 52337,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "242729": {
+            "firstname": "Diane",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242729,
+            "scholarlyactivityid": 52337,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "242730": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 242730,
+            "scholarlyactivityid": 52337,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52337,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

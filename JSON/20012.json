@@ -1,0 +1,63 @@
+{
+    "activityid": 20012,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Reputation bias and belief perseverance: The impact on student learning and evaluations of teaching effectiveness",
+        "Name of Conference": "SMA Annual Conference",
+        "Month / Season": "2001-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": null,
+        "Publisher": "Southern Management Association",
+        "Publisher Location": "New Orleans, LA",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113079943",
+    "coauthors": {
+        "134648": {
+            "firstname": " Donald Brian",
+            "middleinitial": "",
+            "lastname": "McNatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134648,
+            "scholarlyactivityid": 20012,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134649": {
+            "firstname": "Vandenberg",
+            "middleinitial": "",
+            "lastname": "Robert",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134649,
+            "scholarlyactivityid": 20012,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20012,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2001,
+            "termid": "2001/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113079943",
+    "attachments": []
+}

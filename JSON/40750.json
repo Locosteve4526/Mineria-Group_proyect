@@ -1,0 +1,94 @@
+{
+    "activityid": 40750,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Word walls: One solution to the \u201cvocabulary conundrum\u201d",
+        "Journal": "Social Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108452",
+    "coauthors": {
+        "222084": {
+            "firstname": "Dianna",
+            "middleinitial": "",
+            "lastname": "Townsend",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222084,
+            "scholarlyactivityid": 40750
+        },
+        "222085": {
+            "firstname": "Ashley",
+            "middleinitial": "",
+            "lastname": "Baxter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222085,
+            "scholarlyactivityid": 40750
+        },
+        "222086": {
+            "firstname": "Annie",
+            "middleinitial": "",
+            "lastname": "Keller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222086,
+            "scholarlyactivityid": 40750
+        },
+        "222087": {
+            "firstname": "Hannah",
+            "middleinitial": "",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108452",
+            "authorid": 222087,
+            "scholarlyactivityid": 40750
+        }
+    },
+    "status": [
+        {
+            "id": 40750,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40750,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 40750,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114108452",
+    "attachments": []
+}

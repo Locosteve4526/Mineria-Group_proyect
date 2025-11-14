@@ -1,0 +1,80 @@
+{
+    "activityid": 63397,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Human Resource Update for Small Business and Entrepreneurs 2021-2022 Updates",
+        "Conference/Meeting Name": "Small Business Institute Annual Conference",
+        "Conference Location": "Charleston, SC",
+        "Date or Date Range": "February 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065551",
+    "coauthors": {
+        "325189": {
+            "firstname": "LeAnne",
+            "middleinitial": "",
+            "lastname": "Coder",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325189,
+            "scholarlyactivityid": 63397,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "325190": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Dunne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065551",
+            "authorid": 325190,
+            "scholarlyactivityid": 63397,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "325191": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Hendon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325191,
+            "scholarlyactivityid": 63397,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63397,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 63397,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065551",
+    "attachments": []
+}

@@ -1,0 +1,45 @@
+{
+    "activityid": 54789,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "Collegiate Esports ft. Doc Haskell, Boise State University",
+        "Name of Venue": "Stay Plugged In",
+        "Date": "2020-05-20",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "https://www.youtube.com/watch?v=h8eCSLgDHp4",
+        "Description/Abstract": "",
+        "Activity Type": "Broadcast Interview",
+        "Origin": "Manual"
+    },
+    "facultyid": "111114223",
+    "coauthors": {
+        "257641": {
+            "firstname": "Charles",
+            "middleinitial": "Christopher",
+            "lastname": "Haskell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111114223",
+            "authorid": 257641,
+            "scholarlyactivityid": 54789
+        }
+    },
+    "status": [
+        {
+            "id": 54789,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111114223",
+    "attachments": []
+}

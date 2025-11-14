@@ -1,0 +1,58 @@
+{
+    "activityid": 52152,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The evolution of sex specific plumage in juvenile raptors",
+        "Conference / Meeting Name": "Annual Meeting of the Raptor Research Foundation",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Raptor Research foundation",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "241863": {
+            "firstname": "Jadia",
+            "middleinitial": "",
+            "lastname": "Muldrew",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 241863,
+            "scholarlyactivityid": 52152,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "241864": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 241864,
+            "scholarlyactivityid": 52152,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52152,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

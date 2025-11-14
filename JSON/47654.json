@@ -1,0 +1,67 @@
+{
+    "activityid": 47654,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Simulation of a Time-Varying Distributed Cathode in a Linear Format Crossed-Field Amplifier",
+        "Journal": "IEEE Transactions on Plasma Science",
+        "Volume": "47",
+        "Month / Season": "July",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "3960-3966",
+        "Publisher": "IEEE",
+        "DOI": "10.1109/TPS.2019.2924376",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://ieeexplore.ieee.org/abstract/document/8752056",
+        "Description/Abstract": "The effects of a temporally modulated, distributed cathode in a linear format crossed-field amplifier (CFA) are simulated in VSim and analyzed. A linear format, 150 MHz, low power (100 W), moderate gain (7 dB), meander line CFA is used as the basis for the simulation model. This paper describes simulations with different time-varying distributed cathodes in which electron injection is modulated at the RF both in-phase and out-of-phase with the RF input. At low RF input power, the modulated electron injection dominates the operation. Injecting in-phase with the RF input shows gain increases from 23 dB at 150 mA to 32 dB at 1 A for low cathode modulation power (&lt;;0.1 W). The CFA efficiency increased from 2%-4% to 20%-24% using the electron modulation. The simulation shows distinct cylindrically shaped electron bunches as opposed to spokes because of the synchronous injection. These results suggest that for high power magnetrons electron modulation could improve gain.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112088556",
+    "coauthors": {
+        "218868": {
+            "firstname": "Jimmy",
+            "middleinitial": "Jay",
+            "lastname": "Browning",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112088556",
+            "authorid": 218868,
+            "scholarlyactivityid": 47654
+        },
+        "218869": {
+            "firstname": "Marcus",
+            "middleinitial": "",
+            "lastname": "Pearlman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 218869,
+            "scholarlyactivityid": 47654,
+            "classifications": {
+                "Role": "Post-doc"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47654,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112088556",
+    "attachments": [
+        {
+            "attachmentid": 20806,
+            "mimetype": "application/pdf",
+            "filename": "Simulation of CFA Browning Plasma Science 2019.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWpuRllEYTF1bVgzVUhNcnBzdXBFaGtvY2daeURIRWlEVlNYdnpaNTRUckZNeE5JSEU5K0RzVnlza3ZFVkV2dlpVVm5DREVYcTVLNU5RUklzMnlpQ1JHU3pqNk1yR1ZFbW9JYTJYcFRDSy9JPQ%3D%3D",
+            "filesize": 1148426
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "activityid": 29871,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Virtual Reality",
+        "Book Title": "The SAGE Encylopedia of Out-of-School Learning",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Sage Publications",
+        "Publisher Location": "Thousand Oaks, CA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "K. Peppler",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "147949": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Baughman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 147949,
+            "scholarlyactivityid": 29871
+        },
+        "147950": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 147950,
+            "scholarlyactivityid": 29871
+        }
+    },
+    "status": [
+        {
+            "id": 29871,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 29871,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

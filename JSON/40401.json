@@ -1,0 +1,89 @@
+{
+    "activityid": 40401,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Predicting Perceived Age: Both Language Ability and Appearance are Important.",
+        "Name of Conference": "The 19th Annual SIGdial Meeting on Discourse and Dialogue",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "ACL",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "When interacting with robots in a situated\nspoken dialogue setting, human dialogue\npartners tend to assign anthropomorphic\nand social characteristics to those robots.\nIn this paper, we explore the age and educational\nlevel that human dialogue partners\nassign to three different robotic systems,\nincluding an un-embodied spoken\ndialogue system. We found that how a\nrobot speaks is as important to human perceptions\nas the way the robot looks. Using\nthe data from our experiment, we derived\nprosodic, emotional, and linguistic\nfeatures from the participants to train and\nevaluate a classifier that predicts perceived\nintelligence, age, and education level.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062811",
+    "coauthors": {
+        "176815": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Plane",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176815,
+            "scholarlyactivityid": 40401,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176816": {
+            "firstname": "Ariel",
+            "middleinitial": "",
+            "lastname": "Marvasti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176816,
+            "scholarlyactivityid": 40401,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176817": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Egan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176817,
+            "scholarlyactivityid": 40401,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "176818": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062811",
+            "authorid": 176818,
+            "scholarlyactivityid": 40401,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40401,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

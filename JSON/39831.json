@@ -1,0 +1,56 @@
+{
+    "activityid": 39831,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "AC 2007-2136: BRIDGING THE GAP WITH SLIP",
+        "Journal": "age",
+        "Volume": "12",
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "1",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "172441": {
+            "firstname": "Arlen",
+            "middleinitial": "",
+            "lastname": "Planting",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 172441,
+            "scholarlyactivityid": 39831
+        },
+        "172442": {
+            "firstname": "Sin",
+            "middleinitial": "Ming",
+            "lastname": "Loo",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 172442,
+            "scholarlyactivityid": 39831
+        }
+    },
+    "status": [
+        {
+            "id": 39831,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2007,
+            "termid": "2007/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

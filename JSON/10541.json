@@ -1,0 +1,52 @@
+{
+    "activityid": 10541,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "No Fees Required: Opening Access to University Content",
+        "Conference/Meeting Name": "2011 Southwest Idaho Library Association Spring Conference",
+        "Conference Location": "Caldwell, ID",
+        "Date or Date Range": "2011-02-09",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112071180",
+    "coauthors": {
+        "52981": {
+            "firstname": "Patricia",
+            "middleinitial": "M",
+            "lastname": "Armstrong",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112071180",
+            "authorid": 52981,
+            "scholarlyactivityid": 10541
+        },
+        "52982": {
+            "firstname": "Julia",
+            "middleinitial": "",
+            "lastname": "Stringfellow",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083844",
+            "authorid": 52982,
+            "scholarlyactivityid": 10541
+        }
+    },
+    "status": [
+        {
+            "id": 10541,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112071180",
+    "attachments": []
+}

@@ -1,0 +1,67 @@
+{
+    "activityid": 54265,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Adult attachment styles and the coparenting alliance. ",
+        "Conference / Meeting Name": "Rocky Mountain Psychology Association",
+        "Conference Location": "Denver, CO",
+        "Date or Date Range": "April 16-18, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "American Psychological Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113146329",
+    "coauthors": {
+        "279323": {
+            "firstname": "Brodin",
+            "middleinitial": "",
+            "lastname": "Lexi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279323,
+            "scholarlyactivityid": 54265,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "279324": {
+            "firstname": "Cynthia",
+            "middleinitial": "G",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113146329",
+            "authorid": 279324,
+            "scholarlyactivityid": 54265,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54265,
+            "status": "Work Discontinued",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 54265,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113146329",
+    "attachments": []
+}

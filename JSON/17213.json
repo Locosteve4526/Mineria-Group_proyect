@@ -1,0 +1,62 @@
+{
+    "activityid": 17213,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Illuminating the Role of Preventive Medicine in Cardiovascular Disease.",
+        "Conference / Meeting Name": "Western Psychological Association",
+        "Conference Location": "Portland, OR",
+        "Date or Date Range": "2014-04-26",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111111850",
+    "coauthors": {
+        "67753": {
+            "firstname": "C",
+            "middleinitial": "",
+            "lastname": "Glenn",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 67753,
+            "scholarlyactivityid": 17213
+        },
+        "67754": {
+            "firstname": "J",
+            "middleinitial": "",
+            "lastname": "Goldsberry",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 67754,
+            "scholarlyactivityid": 17213
+        },
+        "67755": {
+            "firstname": "Pennie",
+            "middleinitial": "S",
+            "lastname": "Seibert",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111850",
+            "authorid": 67755,
+            "scholarlyactivityid": 17213
+        }
+    },
+    "status": [
+        {
+            "id": 17213,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111850",
+    "attachments": []
+}

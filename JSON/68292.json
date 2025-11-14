@@ -1,0 +1,59 @@
+{
+    "activityid": 68292,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Iron Triangle Attitudes",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span style=&quot;font-weight:400;&quot;&gt;This study examines the ways in which workers prioritize aspects of the project management iron triangle (or triple constraint: budget, scope, and schedule) and make trade-offs between aspects during IT projects.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "331316": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 331316,
+            "scholarlyactivityid": 68292
+        },
+        "331317": {
+            "firstname": "Carter",
+            "middleinitial": "S",
+            "lastname": "Michelle",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 331317,
+            "scholarlyactivityid": 68292,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68292,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

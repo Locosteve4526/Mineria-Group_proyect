@@ -1,0 +1,56 @@
+{
+    "activityid": 6653,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical Versus Experimental Data for Prostate Tumour Growth",
+        "Journal": "Journal of Biological Systems",
+        "Volume": "19",
+        "Month / Season": "2011-03-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "33-46",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1142/S0218339011003774",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/37",
+        "Description/Abstract": "The goal of this paper is to solve mathematical model equations on solid tumour growth and compute their parameter values by applying growth rates of prostate cancer cell lines in vivo. For these computations, we investigate previously developed C3(1)/Tag transgenic models of prostate cancer. To make the computations fast, we have constructed an algorithm, which is based on small amounts of spatial grid-points and obtained a correspondence between the in vivo growth of tumours and the solutions of the model equations.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20730": {
+            "firstname": "Mikhail",
+            "middleinitial": "",
+            "lastname": "Kolev",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20730,
+            "scholarlyactivityid": 6653
+        },
+        "20731": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20731,
+            "scholarlyactivityid": 6653
+        }
+    },
+    "status": [
+        {
+            "id": 6653,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

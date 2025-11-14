@@ -1,0 +1,45 @@
+{
+    "activityid": 48311,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Book Launch reading/Q and A",
+        "Conference/Meeting Name": "Miami University Translation Symposium",
+        "Conference Location": "Oxford, Ohio",
+        "Date or Date Range": "September 16-17",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "University of Miami",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Book Launch reading for Horace translation, plus Talk/Q and A",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "223668": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 223668,
+            "scholarlyactivityid": 48311,
+            "classifications": {
+                "Role": "Guest Speaker"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48311,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

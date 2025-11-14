@@ -1,0 +1,62 @@
+{
+    "activityid": 11270,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Creating a vision for the middle school exploratory and reading program",
+        "Conference/Meeting Name": "National Middle School Conference",
+        "Conference Location": "St. Louis, MO",
+        "Date or Date Range": "2000-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "54338": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 54338,
+            "scholarlyactivityid": 11270
+        },
+        "54339": {
+            "firstname": "J",
+            "middleinitial": "",
+            "lastname": "Myers",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 54339,
+            "scholarlyactivityid": 11270
+        },
+        "54340": {
+            "firstname": "W",
+            "middleinitial": "",
+            "lastname": "Pickett",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 54340,
+            "scholarlyactivityid": 11270
+        }
+    },
+    "status": [
+        {
+            "id": 11270,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2000,
+            "termid": "2000/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

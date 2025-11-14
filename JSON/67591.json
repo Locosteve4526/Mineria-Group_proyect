@@ -1,0 +1,71 @@
+{
+    "activityid": 67591,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Biomedical research co-authorship network analysis utilizing machine learning models",
+        "Conference/Meeting Name": "Joint Statistical Meeting 2023",
+        "Conference Location": "Toronto, Ontario, Canada",
+        "Date or Date Range": "8/5/23",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "American Statistical Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "307399": {
+            "firstname": "Amrina",
+            "middleinitial": "",
+            "lastname": "Ferdous",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307399,
+            "scholarlyactivityid": 67591,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "307400": {
+            "firstname": "Diane",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 307400,
+            "scholarlyactivityid": 67591,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "307401": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 307401,
+            "scholarlyactivityid": 67591,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 67591,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

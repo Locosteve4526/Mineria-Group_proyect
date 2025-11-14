@@ -1,0 +1,86 @@
+{
+    "activityid": 42803,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Sex effects leg stiffness when increasing stride length to run with body borne load",
+        "Name of Conference": "American Society of Biomechanics",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045105",
+    "coauthors": {
+        "191264": {
+            "firstname": "Nicholas",
+            "middleinitial": "J",
+            "lastname": "Lobb",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191264,
+            "scholarlyactivityid": 42803,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "191265": {
+            "firstname": "AuraLea",
+            "middleinitial": "C",
+            "lastname": "Fain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191265,
+            "scholarlyactivityid": 42803,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "191266": {
+            "firstname": "Kayla",
+            "middleinitial": "D",
+            "lastname": "Seymore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 191266,
+            "scholarlyactivityid": 42803,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "191267": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Brown",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045105",
+            "authorid": 191267,
+            "scholarlyactivityid": 42803
+        }
+    },
+    "status": [
+        {
+            "id": 42803,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114045105",
+    "attachments": []
+}

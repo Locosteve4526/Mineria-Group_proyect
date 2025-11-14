@@ -1,0 +1,75 @@
+{
+    "activityid": 32488,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "SPLAT 101: Web 2.0 in Idaho's Libraries",
+        "Journal": "The Idaho Librarian",
+        "Volume": "59",
+        "Month / Season": "2009",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "Idaho Library Association",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112088454",
+    "coauthors": {
+        "125291": {
+            "firstname": "Amy",
+            "middleinitial": "Elizabeth",
+            "lastname": "Vecchione",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112088454",
+            "authorid": 125291,
+            "scholarlyactivityid": 32488,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125292": {
+            "firstname": "Jose",
+            "middleinitial": "Guillermo",
+            "lastname": "Cordova Silva",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111203681",
+            "authorid": 125292,
+            "scholarlyactivityid": 32488,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125293": {
+            "firstname": "Ruth",
+            "middleinitial": "",
+            "lastname": "Funabiki",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125293,
+            "scholarlyactivityid": 32488,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32488,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112088454",
+    "attachments": []
+}

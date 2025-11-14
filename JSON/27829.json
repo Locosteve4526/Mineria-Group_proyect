@@ -1,0 +1,77 @@
+{
+    "activityid": 27829,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Identifying and repairing students' misconceptions in thermal and transport science",
+        "Name of Conference": "",
+        "Month / Season": "2009-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": " Nashville, TN.",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113078547",
+    "coauthors": {
+        "87738": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Miller",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87738,
+            "scholarlyactivityid": 27829
+        },
+        "87739": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Streveler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87739,
+            "scholarlyactivityid": 27829
+        },
+        "87740": {
+            "firstname": "Dazhi",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113078547",
+            "authorid": 87740,
+            "scholarlyactivityid": 27829
+        },
+        "87741": {
+            "firstname": "A",
+            "middleinitial": "",
+            "lastname": "Santiago",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87741,
+            "scholarlyactivityid": 27829
+        }
+    },
+    "status": [
+        {
+            "id": 27829,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113078547",
+    "attachments": []
+}

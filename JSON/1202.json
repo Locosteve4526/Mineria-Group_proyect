@@ -1,0 +1,76 @@
+{
+    "activityid": 1202,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Fabulous Freebies",
+        "Journal": "PNLA Quarterly",
+        "Volume": "74",
+        "Month / Season": "2009-10-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "33-43",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/lib_facpubs/51",
+        "Description/Abstract": "When libraries first started experimenting with web tools, it was a challenging experience because it required highly specialized skills and the assistance of expensive programmers. The last several years have seen an explosion of free and user-friendly web tools, many of which suit our needs perfectly. Even better, many of them require nothing other than a willingness to experiment and have some fun. This article describes some of our favorites and how they might be useful for libraries.",
+        "Origin": "Other"
+    },
+    "facultyid": "112192272",
+    "coauthors": {
+        "123405": {
+            "firstname": "Jose",
+            "middleinitial": "Guillermo Cordova",
+            "lastname": "Silva",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111203681",
+            "authorid": 123405,
+            "scholarlyactivityid": 1202
+        },
+        "123406": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 123406,
+            "scholarlyactivityid": 1202
+        },
+        "123407": {
+            "firstname": "Kim",
+            "middleinitial": "",
+            "lastname": "Leeder",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123407,
+            "scholarlyactivityid": 1202
+        },
+        "123408": {
+            "firstname": "Sara",
+            "middleinitial": "Robertson",
+            "lastname": "Seely",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112143127",
+            "authorid": 123408,
+            "scholarlyactivityid": 1202
+        }
+    },
+    "status": [
+        {
+            "id": 1202,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112192272",
+    "attachments": []
+}

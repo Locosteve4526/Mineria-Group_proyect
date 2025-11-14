@@ -1,0 +1,67 @@
+{
+    "activityid": 23867,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Improving Academic Rigor Through Curriculum Redesign",
+        "Name of Conference": "Distance Learning 98",
+        "Month / Season": "1998-12-31",
+        "Actual/Projected Year of Publication/Presentation": 1998,
+        "Page Numbers": "209-216",
+        "Publisher": "University of Wisconsin System",
+        "Publisher Location": "Madison, Wisconsin ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113171989",
+    "coauthors": {
+        "79400": {
+            "firstname": "Gail",
+            "middleinitial": "Fances",
+            "lastname": "Latta",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 79400,
+            "scholarlyactivityid": 23867
+        },
+        "79401": {
+            "firstname": "Tracy",
+            "middleinitial": "",
+            "lastname": "Bicknell-Holmes",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113171989",
+            "authorid": 79401,
+            "scholarlyactivityid": 23867
+        },
+        "79402": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 79402,
+            "scholarlyactivityid": 23867
+        }
+    },
+    "status": [
+        {
+            "id": 23867,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1998,
+            "termid": "1998/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113171989",
+    "attachments": []
+}

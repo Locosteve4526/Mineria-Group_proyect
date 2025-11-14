@@ -1,0 +1,54 @@
+{
+    "activityid": 49119,
+    "fields": {
+        "Type": "Book",
+        "Title": "Untitled Authoethnography of Army Basic Training",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "",
+        "Volume": "Writing Lives Series",
+        "Publisher": "Routledge",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111195694",
+    "coauthors": {
+        "227854": {
+            "firstname": "Manda",
+            "middleinitial": "Violet",
+            "lastname": "Hicks",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111195694",
+            "authorid": 227854,
+            "scholarlyactivityid": 49119
+        }
+    },
+    "status": [
+        {
+            "id": 49119,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 49119,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111195694",
+    "attachments": []
+}

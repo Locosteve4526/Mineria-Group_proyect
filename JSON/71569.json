@@ -1,0 +1,85 @@
+{
+    "activityid": 71569,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;PolySwap: Privacy-preserving Multi-Chain Atomic Swap&lt;/span&gt;",
+        "Name of Conference": "ACM AsiaCCS",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "325791": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Holmes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325791,
+            "scholarlyactivityid": 71569,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325792": {
+            "firstname": "Kiran",
+            "middleinitial": "",
+            "lastname": "Gurung",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325792,
+            "scholarlyactivityid": 71569,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325793": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 325793,
+            "scholarlyactivityid": 71569,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71569,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 71569,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

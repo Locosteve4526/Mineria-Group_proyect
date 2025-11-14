@@ -1,0 +1,65 @@
+{
+    "activityid": 5363,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Baire spaces and infinite Games",
+        "Journal": "The Archive for Mathematical Logic",
+        "Volume": "55",
+        "Month / Season": "2016-02",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "85 - 104",
+        "Publisher": "Archive for Mathematical Logic",
+        "DOI": "10.1007/s00153-015-0461-8",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://link.springer.com/article/10.1007/s00153-015-0461-8",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "120567": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 120567,
+            "scholarlyactivityid": 5363
+        },
+        "120568": {
+            "firstname": "Fred",
+            "middleinitial": "",
+            "lastname": "Galvin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120568,
+            "scholarlyactivityid": 5363
+        }
+    },
+    "status": [
+        {
+            "id": 5363,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 5363,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

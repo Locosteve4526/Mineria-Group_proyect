@@ -1,0 +1,77 @@
+{
+    "activityid": 69562,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Gateway Scholars Program - Reducing Barriers to STEM for Undergraduate Students",
+        "Name of Conference": "CSCI2022",
+        "Month / Season": "December",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111620933",
+    "coauthors": {
+        "314283": {
+            "firstname": "Amy",
+            "middleinitial": "C",
+            "lastname": "Ulappa",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111620933",
+            "authorid": 314283,
+            "scholarlyactivityid": 69562
+        },
+        "314282": {
+            "firstname": "Vicki",
+            "middleinitial": "",
+            "lastname": "Stieha",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113122305",
+            "authorid": 314282,
+            "scholarlyactivityid": 69562
+        },
+        "314281": {
+            "firstname": "Diane",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314281,
+            "scholarlyactivityid": 69562
+        },
+        "314280": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 314280,
+            "scholarlyactivityid": 69562
+        }
+    },
+    "status": [
+        {
+            "id": 69562,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111620933",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 10044,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Lessons learned from data analytics and visualization",
+        "Conference/Meeting Name": "International Association for K-12 Online Learning, Blended and Online Learning Symposium",
+        "Conference Location": "Orlando, Florida",
+        "Date or Date Range": "2015-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "iNACOL",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "104384": {
+            "firstname": "J",
+            "middleinitial": "R",
+            "lastname": "Friedhoff",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 104384,
+            "scholarlyactivityid": 10044
+        },
+        "104385": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 104385,
+            "scholarlyactivityid": 10044
+        },
+        "104386": {
+            "firstname": "S",
+            "middleinitial": "",
+            "lastname": "Lowes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 104386,
+            "scholarlyactivityid": 10044
+        }
+    },
+    "status": [
+        {
+            "id": 10044,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

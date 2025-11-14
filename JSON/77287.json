@@ -1,0 +1,85 @@
+{
+    "activityid": 77287,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;Climate forcings across multiple timescales control stream drying and wetting in a headwater catchment&lt;/span&gt;",
+        "Journal": "Hydrological Processes",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114178943",
+    "coauthors": {
+        "345401": {
+            "firstname": "Anna",
+            "middleinitial": "J",
+            "lastname": "Bergstrom",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114178943",
+            "authorid": 345401,
+            "scholarlyactivityid": 77287
+        },
+        "345400": {
+            "firstname": "Adam",
+            "middleinitial": "S",
+            "lastname": "Price",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345400,
+            "scholarlyactivityid": 77287
+        },
+        "345399": {
+            "firstname": "Mac",
+            "middleinitial": "",
+            "lastname": "Beers",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345399,
+            "scholarlyactivityid": 77287
+        },
+        "345398": {
+            "firstname": "Kevin",
+            "middleinitial": "R",
+            "lastname": "Roche",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114177350",
+            "authorid": 345398,
+            "scholarlyactivityid": 77287
+        }
+    },
+    "status": [
+        {
+            "id": 77287,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 77287,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114178943",
+    "attachments": []
+}

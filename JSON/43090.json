@@ -1,0 +1,102 @@
+{
+    "activityid": 43090,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tree-based Methods: A Tool for Modeling Nonlinear Complex Relationships and Generating New Insights from Data.",
+        "Journal": "Journal of Data Science",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108320",
+    "coauthors": {
+        "298866": {
+            "firstname": "Ya",
+            "middleinitial": "",
+            "lastname": "Mo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108320",
+            "authorid": 298866,
+            "scholarlyactivityid": 43090,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298867": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Habing",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298867,
+            "scholarlyactivityid": 43090,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298868": {
+            "firstname": "Nell",
+            "middleinitial": "",
+            "lastname": "Sedransk",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298868,
+            "scholarlyactivityid": 43090,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43090,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 43090,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 43090,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 43090,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114108320",
+    "attachments": []
+}

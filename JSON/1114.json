@@ -1,0 +1,66 @@
+{
+    "activityid": 1114,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Conflicted objectives: The NCLBA vs. a flat world.",
+        "Journal": "Researcher",
+        "Volume": "21",
+        "Month / Season": "2008-10-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "57-69",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111113451",
+    "coauthors": {
+        "2723": {
+            "firstname": "C.",
+            "middleinitial": "",
+            "lastname": "Wickstrom",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 2723,
+            "scholarlyactivityid": 1114
+        },
+        "2724": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Bieter Jr",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111113451",
+            "authorid": 2724,
+            "scholarlyactivityid": 1114
+        },
+        "2725": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 2725,
+            "scholarlyactivityid": 1114
+        }
+    },
+    "status": [
+        {
+            "id": 1114,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111113451",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 40180,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Academic risk-taking and CSCL",
+        "Name of Conference": "The First International Conference on Computer Support for Collaborative Learning",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 1995,
+        "Page Numbers": "80-83",
+        "Publisher": "Lawrence Erlbaum",
+        "Publisher Location": "Mahwah, NJ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175352": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175352,
+            "scholarlyactivityid": 40180,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175353": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Lan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175353,
+            "scholarlyactivityid": 40180,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175354": {
+            "firstname": "Judith",
+            "middleinitial": "",
+            "lastname": "Repman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175354,
+            "scholarlyactivityid": 40180,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40180,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1995,
+            "termid": "1995/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

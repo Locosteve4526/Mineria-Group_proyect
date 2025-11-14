@@ -1,0 +1,42 @@
+{
+    "activityid": 12332,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Poetry Reading",
+        "Conference/Meeting Name": "Death Rattle Writers Festival",
+        "Conference Location": "Nampa, ID",
+        "Date or Date Range": "2015-10-10",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "56425": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 56425,
+            "scholarlyactivityid": 12332
+        }
+    },
+    "status": [
+        {
+            "id": 12332,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

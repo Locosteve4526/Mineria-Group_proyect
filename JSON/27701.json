@@ -1,0 +1,75 @@
+{
+    "activityid": 27701,
+    "fields": {
+        "Type": "Book",
+        "Title": "Human Resource Management: The Public Service Perspective",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Houghton Mifflin",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Houghton Mifflin",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/220",
+        "Description/Abstract": "[This book] is a combination text, reader, and casebook. It includes techniques and practices, as well as an overview of basic concepts and excerpts from professional literature.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110214",
+    "coauthors": {
+        "87476": {
+            "firstname": "W.",
+            "middleinitial": "David",
+            "lastname": "Patton",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87476,
+            "scholarlyactivityid": 27701
+        },
+        "87477": {
+            "firstname": "Stephanie",
+            "middleinitial": "L",
+            "lastname": "Witt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110214",
+            "authorid": 87477,
+            "scholarlyactivityid": 27701
+        },
+        "87478": {
+            "firstname": "Nicholas",
+            "middleinitial": "",
+            "lastname": "Lovrich",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87478,
+            "scholarlyactivityid": 27701
+        },
+        "87479": {
+            "firstname": "Elizabeth",
+            "middleinitial": "Dawn",
+            "lastname": "Fredericksen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358856",
+            "authorid": 87479,
+            "scholarlyactivityid": 27701
+        }
+    },
+    "status": [
+        {
+            "id": 27701,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2002,
+            "termid": "2001/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110214",
+    "attachments": []
+}

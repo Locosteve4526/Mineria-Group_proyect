@@ -1,0 +1,104 @@
+{
+    "activityid": 46283,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Genetic Analysis of Invasive Populations of Ventenata dubia (Poaceae): An Assessment of Propagule Pressure and Pattern of Range Expansion in the Western United States",
+        "Journal": "Biological Invasions",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "211009": {
+            "firstname": "Inna",
+            "middleinitial": "P.",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 211009,
+            "scholarlyactivityid": 46283
+        },
+        "211010": {
+            "firstname": "Rene",
+            "middleinitial": "F. H.",
+            "lastname": "Sforza",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 211010,
+            "scholarlyactivityid": 46283
+        },
+        "211011": {
+            "firstname": "Massimo",
+            "middleinitial": "",
+            "lastname": "Cristofaro",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 211011,
+            "scholarlyactivityid": 46283
+        },
+        "211012": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 211012,
+            "scholarlyactivityid": 46283
+        },
+        "211013": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 211013,
+            "scholarlyactivityid": 46283
+        }
+    },
+    "status": [
+        {
+            "id": 46283,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46283,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 46283,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

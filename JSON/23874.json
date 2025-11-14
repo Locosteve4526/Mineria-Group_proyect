@@ -1,0 +1,55 @@
+{
+    "activityid": 23874,
+    "fields": {
+        "Type": "Book",
+        "Title": "Un Legado que Perdura: La Historia de los Vascos en Idaho",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Servicio Central de Publicaciones del Gobierno Vasco",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Servicio Central de Publicaciones del Gobierno Vasco",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/273",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111113451",
+    "coauthors": {
+        "79411": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Bieter Jr",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111113451",
+            "authorid": 79411,
+            "scholarlyactivityid": 23874
+        },
+        "79412": {
+            "firstname": "Mark",
+            "middleinitial": "L.",
+            "lastname": "Bieter",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 79412,
+            "scholarlyactivityid": 23874
+        }
+    },
+    "status": [
+        {
+            "id": 23874,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2005,
+            "termid": "2004/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111113451",
+    "attachments": []
+}

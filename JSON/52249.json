@@ -1,0 +1,76 @@
+{
+    "activityid": 52249,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Point de rencontres: Une \u00e9tude de passages 'infrahumains' dans Le Rond-point d'\u00c9velyne Trouillot",
+        "Journal": "Romance Notes",
+        "Volume": "63",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "13",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112052765",
+    "coauthors": {
+        "339663": {
+            "firstname": "Jason",
+            "middleinitial": "Ryan",
+            "lastname": "Herbeck",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112052765",
+            "authorid": 339663,
+            "scholarlyactivityid": 52249,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52249,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 52249,
+            "status": "Revise &amp; Resubmit",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 52249,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 52249,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112052765",
+    "attachments": []
+}

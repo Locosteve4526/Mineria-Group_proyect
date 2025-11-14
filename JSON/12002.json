@@ -1,0 +1,42 @@
+{
+    "activityid": 12002,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Creating Civility in Nursing Education",
+        "Conference/Meeting Name": "Summer Faculty Development Symposium",
+        "Conference Location": "Durham, NC",
+        "Date or Date Range": "2011-06-30",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "Duke University School of Nursing",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110314",
+    "coauthors": {
+        "55878": {
+            "firstname": "Cynthia",
+            "middleinitial": "M",
+            "lastname": "Clark",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110314",
+            "authorid": 55878,
+            "scholarlyactivityid": 12002
+        }
+    },
+    "status": [
+        {
+            "id": 12002,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110314",
+    "attachments": []
+}

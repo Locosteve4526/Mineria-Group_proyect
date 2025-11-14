@@ -1,0 +1,71 @@
+{
+    "activityid": 31908,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Using high school transcripts to model college STEM selection and success",
+        "Conference/Meeting Name": "Association for Institutional Research (AIR)",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114000904",
+    "coauthors": {
+        "121387": {
+            "firstname": "Shari",
+            "middleinitial": "",
+            "lastname": "Ellertson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113168696",
+            "authorid": 121387,
+            "scholarlyactivityid": 31908
+        },
+        "121386": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Champion",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114000904",
+            "authorid": 121386,
+            "scholarlyactivityid": 31908
+        },
+        "121385": {
+            "firstname": "Wanchen",
+            "middleinitial": "",
+            "lastname": "Chang",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114046495",
+            "authorid": 121385,
+            "scholarlyactivityid": 31908
+        }
+    },
+    "status": [
+        {
+            "id": 31908,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 31908,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114000904",
+    "attachments": []
+}

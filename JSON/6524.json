@@ -1,0 +1,66 @@
+{
+    "activityid": 6524,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An Efficient and Robust Method for Simulating Two-Phase Gel Dynamics",
+        "Journal": "SIAM Journal on Scientific Computing",
+        "Volume": "30",
+        "Month / Season": "2008-08-01",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "2535-2565",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1137/070695927",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/22",
+        "Description/Abstract": "We develop a computational method for simulating models of gel dynamics where the gel is described by two phases: a networked polymer and a fluid solvent. The models consist of transport equations for the two phases, two coupled momentum equations, and a volume-averaged incompressibility constraint, which we discretize with finite differences/volumes. The momentum and incompressibility equations present the greatest numerical challenges since (i) they involve partial derivatives with variable coefficients that can vary quite significantly throughout the domain (when the phases separate), and (ii) their approximate solution requires the &quot;inversion&quot; of a large linear system of equations. For solving this system, we propose a box-type multigrid method to be used as a preconditioner for the generalized minimum residual (GMRES) method. Through numerical experiments of a model problem, which exhibits phase separation, we show that the computational cost of the method scales nearly linearly with the number of unknowns and performs consistently well over a wide range of parameters. For solving the transport equation, we use a conservative finite-volume method for which we derive stability bounds.",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "20325": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 20325,
+            "scholarlyactivityid": 6524
+        },
+        "20326": {
+            "firstname": "Robert",
+            "middleinitial": "D.",
+            "lastname": "Guy",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20326,
+            "scholarlyactivityid": 6524
+        },
+        "20327": {
+            "firstname": "Aaron",
+            "middleinitial": "L.",
+            "lastname": "Fogelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20327,
+            "scholarlyactivityid": 6524
+        }
+    },
+    "status": [
+        {
+            "id": 6524,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2008,
+            "termid": "2008/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

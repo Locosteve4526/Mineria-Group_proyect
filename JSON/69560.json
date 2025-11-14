@@ -1,0 +1,76 @@
+{
+    "activityid": 69560,
+    "fields": {
+        "Type": "Instructional Publications",
+        "Title": "Biology 192 Laboratory Manual, Third Edition",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Organization (if applicable)": "Boise State University",
+        "Issue Number/Edition": "",
+        "Page Numbers": "",
+        "Publisher": "Van Griner",
+        "ISBN/ISSN/ASIN #": "",
+        "Author/Editor of larger work": "Robertson, Serpe, Douglas, and Ulappa",
+        "Title of larger work": "B192 Laboratory Manual",
+        "DOI": "",
+        "Author(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111620933",
+    "coauthors": {
+        "314269": {
+            "firstname": "Ian",
+            "middleinitial": "C",
+            "lastname": "Robertson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111644287",
+            "authorid": 314269,
+            "scholarlyactivityid": 69560
+        },
+        "314270": {
+            "firstname": "Marcelo",
+            "middleinitial": "",
+            "lastname": "Serpe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111116958",
+            "authorid": 314270,
+            "scholarlyactivityid": 69560
+        },
+        "314271": {
+            "firstname": "Dotty",
+            "middleinitial": "",
+            "lastname": "Douglas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 314271,
+            "scholarlyactivityid": 69560
+        },
+        "314272": {
+            "firstname": "Amy",
+            "middleinitial": "C",
+            "lastname": "Ulappa",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111620933",
+            "authorid": 314272,
+            "scholarlyactivityid": 69560
+        }
+    },
+    "status": [
+        {
+            "id": 69560,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111620933",
+    "attachments": []
+}

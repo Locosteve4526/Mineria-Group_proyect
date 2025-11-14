@@ -1,0 +1,70 @@
+{
+    "activityid": 68455,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&quot;The Technical Development and Expanding Scope of Melville's Marginalia Online&quot;",
+        "Journal": "Leviathan: A Journal of Melville Studies",
+        "Volume": "25",
+        "Month / Season": "June",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "61-85",
+        "Publisher": "Johns Hopkins University Press",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643332",
+    "coauthors": {
+        "338338": {
+            "firstname": "Steven",
+            "middleinitial": "",
+            "lastname": "Olsen-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643332",
+            "authorid": 338338,
+            "scholarlyactivityid": 68455,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338339": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Norberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338339,
+            "scholarlyactivityid": 68455,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68455,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643332",
+    "attachments": [
+        {
+            "attachmentid": 59857,
+            "mimetype": "application/pdf",
+            "filename": "2-olsen-smith_leviathan-25.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25ycGJlRXBmLzRzVTF0ZENJS3MwU0lwUVF1eGRyV3g5Z0JhZjdPRlpBWlNsYWUreC8rVjNWMjAyckp1RkcvU2VJTT0%3D",
+            "filesize": 3215923
+        }
+    ]
+}

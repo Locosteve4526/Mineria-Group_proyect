@@ -1,0 +1,97 @@
+{
+    "activityid": 29925,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Client-side handheld computing and Java 2 Platform, Micro Edition (J2ME)",
+        "Name of Conference": "The 39th Annual Midwest Instruction and Computing Symposium (MICS 2006)",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "106829": {
+            "firstname": "Wen-chen",
+            "middleinitial": "",
+            "lastname": "Hu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106829,
+            "scholarlyactivityid": 29925,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "106830": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 106830,
+            "scholarlyactivityid": 29925,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "106831": {
+            "firstname": "Yapin",
+            "middleinitial": "",
+            "lastname": "Zhong",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106831,
+            "scholarlyactivityid": 29925,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "106832": {
+            "firstname": "Chung-wei",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106832,
+            "scholarlyactivityid": 29925,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29925,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 1402,
+            "mimetype": "application/msword",
+            "filename": "mics2006_hu1.doc",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25xY1hDRERkbzQyTmJXR2lsZS82ZGxKN3VOWGVPVjh3REFYOG92d2JYWUZBNklFdUpMWXM5VlU%3D",
+            "filesize": 324096
+        }
+    ]
+}

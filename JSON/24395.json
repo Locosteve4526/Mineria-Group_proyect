@@ -1,0 +1,65 @@
+{
+    "activityid": 24395,
+    "fields": {
+        "Type": "Creative Publications",
+        "Title of Work": "Under the Myrtles &amp;",
+        "Title of larger work (if applicable)": "",
+        "Month": "2014-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Publisher": "Sundial",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Author/Editor of Larger Work": "",
+        "ISBN/ISSN #": "",
+        "Contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "80513": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 80513,
+            "scholarlyactivityid": 24395
+        }
+    },
+    "status": [
+        {
+            "id": 24395,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 24395,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 24395,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 68703,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Test for changes between paired integral curves with application to diffusion tensor imaging",
+        "Journal": "Journal of Computational and Graphical Statistics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114202590",
+    "coauthors": {
+        "335159": {
+            "firstname": "Juna",
+            "middleinitial": "",
+            "lastname": "Goo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114202590",
+            "authorid": 335159,
+            "scholarlyactivityid": 68703,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "335160": {
+            "firstname": "Lyudmila",
+            "middleinitial": "",
+            "lastname": "Sakhanenko",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 335160,
+            "scholarlyactivityid": 68703,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "335161": {
+            "firstname": "David",
+            "middleinitial": "C.",
+            "lastname": "Zhu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 335161,
+            "scholarlyactivityid": 68703,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68703,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114202590",
+    "attachments": []
+}

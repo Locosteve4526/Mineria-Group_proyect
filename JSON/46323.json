@@ -1,0 +1,84 @@
+{
+    "activityid": 46323,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Should College Instructors Reveal Their High Functioning Autism in the Classroom?",
+        "Journal": "Journal of Education for Business",
+        "Volume": "95",
+        "Month / Season": "",
+        "Issue Number": "8",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "534-540",
+        "Publisher": "",
+        "DOI": "DOI:10.1080/08832323.2020.1716204",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://ID: 1716204 DOI:10.1080/08832323.2020.1716204",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "339338": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 339338,
+            "scholarlyactivityid": 46323,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "339339": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Chenoweth",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716923",
+            "authorid": 339339,
+            "scholarlyactivityid": 46323,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "339340": {
+            "firstname": "Felice",
+            "middleinitial": "B",
+            "lastname": "Klein",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114109249",
+            "authorid": 339340,
+            "scholarlyactivityid": 46323,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46323,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46323,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

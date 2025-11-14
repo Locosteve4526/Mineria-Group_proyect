@@ -1,0 +1,86 @@
+{
+    "activityid": 48509,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Steam Oxidation in Accident Conditions",
+        "Book Title": "Comprehensive Nuclear Materials",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "452-473",
+        "Edition": " 2nd edition",
+        "Volume": "",
+        "Publisher": "ElSevier",
+        "Publisher Location": "",
+        "ISBN": "10.1016/B978-0-12-803581-8.11623-6",
+        "Author/Editor of Larger Work": "",
+        "DOI": "9780081028667",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111641391",
+    "coauthors": {
+        "248567": {
+            "firstname": "Elizabeth",
+            "middleinitial": "Sooby",
+            "lastname": "Wood",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 248567,
+            "scholarlyactivityid": 48509,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "248568": {
+            "firstname": "Jordan",
+            "middleinitial": "",
+            "lastname": "Vandegrift",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 248568,
+            "scholarlyactivityid": 48509,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "248569": {
+            "firstname": "Brian",
+            "middleinitial": "J",
+            "lastname": "Jaques",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111641391",
+            "authorid": 248569,
+            "scholarlyactivityid": 48509,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48509,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 48509,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111641391",
+    "attachments": []
+}

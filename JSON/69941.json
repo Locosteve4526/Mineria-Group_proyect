@@ -1,0 +1,71 @@
+{
+    "activityid": 69941,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Exploring a New Method For Reviewing Molecular Representations in General Chemistry Using a Variable Representation Assessment",
+        "Journal": "Journal of Chemical Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114197579",
+    "coauthors": {
+        "316407": {
+            "firstname": "Jack",
+            "middleinitial": "D",
+            "lastname": "Polifka",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114197579",
+            "authorid": 316407,
+            "scholarlyactivityid": 69941,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "316408": {
+            "firstname": "Thomas",
+            "middleinitial": "A",
+            "lastname": "Holme",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316408,
+            "scholarlyactivityid": 69941,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69941,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 69941,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114197579",
+    "attachments": []
+}

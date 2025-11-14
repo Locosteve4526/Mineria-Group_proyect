@@ -1,0 +1,66 @@
+{
+    "activityid": 52518,
+    "fields": {
+        "Type": "Book",
+        "Title": "Victim: Another Meaning",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111264183",
+    "coauthors": {
+        "243571": {
+            "firstname": "Dora",
+            "middleinitial": "A",
+            "lastname": "Ramirez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111264183",
+            "authorid": 243571,
+            "scholarlyactivityid": 52518,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52518,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 52518,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 52518,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111264183",
+    "attachments": []
+}

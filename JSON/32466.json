@@ -1,0 +1,98 @@
+{
+    "activityid": 32466,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Unveiling 2D microstructural artifacts via slices through 3D mortar models with real sand particle shape and interfacial transition zones",
+        "Conference/Meeting Name": "EMI 2017 Conference Minisymposium: Geo-mechanics/materials  MS 62 - Genome of Stone-based Civil Infrastructure Materials",
+        "Conference Location": "San Diego, CA",
+        "Date or Date Range": "June",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "All scanning electron microscopic (SEM) examination of mortars are based on two-dimensional (2D) slices through the true three-dimensional (3D) microstructure. Even though stereology guarantees that certain quantities are the same in both 2D and 3D, such as 2D area fractions and 3D volume fractions, there are many 2D microstructural artifacts seen in 2D slices that have 3D explanations. For example, 2D slices through a 3D packing of mono-sized spheres gives a size distribution of circles. A mortar containing a size distribution of randomly-shaped sand grains, with interfacial transition zones (ITZs) and bulk cement paste, is much more complicated so that the 2D artifacts could conceivably be even more complicated. Using our Anm model, we generate mortar models with real (measured) sand particle size and shape distributions, surrounded by completely uniform thickness ITZs, and then examine 2D slices and display the multiple types of artifacts that can be generated when real shape particles are used. Various types of artifacts that are seen include: small particles that are close together but really come from the same 3D particle, joined ITZs that really come from two parts of the same 3D particle, a distribution in apparent ITZ widths, ITZs that appear in the middle of a 2D particle, inner and outer parts of an ITZ that have apparently been inverted, and patches of pure ITZ material appearing by themselves in the middle of bulk cement paste. These patches of pure ITZ material could provide some of the explanation for non-uniform density regions in the cement paste matrix that have been termed \u201cpatchy microstructure.\u201d  These 2D artifacts show the considerable range of features observed in 2D images. Without clear knowledge of the microstructure, these features could be mistaken as real, rather than being simple consequences of slicing through the true 3D microstructure.  ",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "125225": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 125225,
+            "scholarlyactivityid": 32466,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125226": {
+            "firstname": "Edward",
+            "middleinitial": "",
+            "lastname": "Garboczi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125226,
+            "scholarlyactivityid": 32466,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125227": {
+            "firstname": "Aminul",
+            "middleinitial": "",
+            "lastname": "Islam",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125227,
+            "scholarlyactivityid": 32466,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32466,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 32466,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 32466,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 32466,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114001675",
+    "attachments": []
+}

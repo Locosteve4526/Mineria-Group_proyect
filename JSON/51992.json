@@ -1,0 +1,75 @@
+{
+    "activityid": 51992,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Establishing a framework for assessing teaching effectiveness",
+        "Journal": "College Teaching",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "60",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "doi.org/10.1080/87567555.2021.1909528",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://doi.org/10.1080/87567555.2021.1909528",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112145571",
+    "coauthors": {
+        "264086": {
+            "firstname": "Shawn",
+            "middleinitial": "R",
+            "lastname": "Simonson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 264086,
+            "scholarlyactivityid": 51992,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "264087": {
+            "firstname": "Brittnee",
+            "middleinitial": "",
+            "lastname": "Earl",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264087,
+            "scholarlyactivityid": 51992,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "264088": {
+            "firstname": "Megan",
+            "middleinitial": "E",
+            "lastname": "Frary",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112051767",
+            "authorid": 264088,
+            "scholarlyactivityid": 51992,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51992,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112145571",
+    "attachments": []
+}

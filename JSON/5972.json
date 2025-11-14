@@ -1,0 +1,85 @@
+{
+    "activityid": 5972,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Maximum Waring ranks of monomials",
+        "Journal": "Communications in Algebra",
+        "Volume": "44",
+        "Month / Season": "",
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "4212-4219",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113078387",
+    "coauthors": {
+        "115515": {
+            "firstname": "Erik",
+            "middleinitial": "",
+            "lastname": "Holmes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 115515,
+            "scholarlyactivityid": 5972
+        },
+        "115516": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Plummer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 115516,
+            "scholarlyactivityid": 5972
+        },
+        "115517": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Siegert",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 115517,
+            "scholarlyactivityid": 5972
+        },
+        "115518": {
+            "firstname": "Zachariah",
+            "middleinitial": "",
+            "lastname": "Teitler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113078387",
+            "authorid": 115518,
+            "scholarlyactivityid": 5972
+        }
+    },
+    "status": [
+        {
+            "id": 5972,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 5972,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113078387",
+    "attachments": []
+}

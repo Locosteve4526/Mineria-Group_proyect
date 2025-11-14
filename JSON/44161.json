@@ -1,0 +1,58 @@
+{
+    "activityid": 44161,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Applying to graduate school in psychology: An insider\u2019s guide in the Rocky Mountain region",
+        "Conference/Meeting Name": "Rocky Mountain Psychological Association",
+        "Conference Location": "Denver, CO",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "200034": {
+            "firstname": "R.",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 200034,
+            "scholarlyactivityid": 44161,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "200035": {
+            "firstname": "Leslie",
+            "middleinitial": "Cramblet",
+            "lastname": "Alvarez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200035,
+            "scholarlyactivityid": 44161,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44161,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

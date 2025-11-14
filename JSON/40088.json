@@ -1,0 +1,62 @@
+{
+    "activityid": 40088,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Predicting Power-Transformer Bushings' Seismic Vulnerability Mounting Stiffness and Coupling",
+        "Journal": "ASCE Journal of Performance of Constructed Facilities.",
+        "Volume": "33",
+        "Month / Season": "June",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "ASCE",
+        "DOI": "https://doi.org/10.1061/(ASCE)CF.1943-5509.0001286",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112176072",
+    "coauthors": {
+        "203060": {
+            "firstname": "Jon",
+            "middleinitial": "",
+            "lastname": "Bender",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 203060,
+            "scholarlyactivityid": 40088,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "203061": {
+            "firstname": "Arvin",
+            "middleinitial": "",
+            "lastname": "Farid",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112176072",
+            "authorid": 203061,
+            "scholarlyactivityid": 40088,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40088,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112176072",
+    "attachments": []
+}

@@ -1,0 +1,93 @@
+{
+    "activityid": 51632,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Measuring Gender in Marketing Research",
+        "Journal": "Journal of Business Research",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135517",
+    "coauthors": {
+        "238686": {
+            "firstname": "Niusha",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114135578",
+            "authorid": 238686,
+            "scholarlyactivityid": 51632
+        },
+        "238685": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Hamby",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114135517",
+            "authorid": 238685,
+            "scholarlyactivityid": 51632
+        },
+        "238684": {
+            "firstname": "Blair",
+            "middleinitial": "",
+            "lastname": "Kidwell",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 238684,
+            "scholarlyactivityid": 51632
+        }
+    },
+    "status": [
+        {
+            "id": 51632,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 51632,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 51632,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 51632,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114135517",
+    "attachments": []
+}

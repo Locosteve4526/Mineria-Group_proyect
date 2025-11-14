@@ -1,0 +1,67 @@
+{
+    "activityid": 10054,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Integration of HIM students into a team-taught interprofessional capstone course",
+        "Conference/Meeting Name": "Assembly on Education Symposium",
+        "Conference Location": "Austin, TX",
+        "Date or Date Range": "2015-03-06",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "American Health Information Management Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "88267": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 88267,
+            "scholarlyactivityid": 10054,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "88268": {
+            "firstname": "Linda",
+            "middleinitial": "Sue",
+            "lastname": "Osgood",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111319414",
+            "authorid": 88268,
+            "scholarlyactivityid": 10054,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 10054,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10054,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

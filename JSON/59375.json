@@ -1,0 +1,58 @@
+{
+    "activityid": 59375,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Technology in the Classroom",
+        "Conference/Meeting Name": "Associated Schools of Construction Annual International Conference 2021",
+        "Conference Location": "Virtual - Sponsored by Chico State University",
+        "Date or Date Range": "04/05 - 04/09",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "Associated Schools of Construction",
+        "Presenter(s)": null,
+        "Web Address": "https://www.csuchico.edu/asc/",
+        "Description/Abstract": "Served as presenter and discussion moderator for instructors from ASC member schools on how the use of technologies has changed since the COVID pandemic. ",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112401",
+    "coauthors": {
+        "277326": {
+            "firstname": "Richard",
+            "middleinitial": "Casey",
+            "lastname": "Cline",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112401",
+            "authorid": 277326,
+            "scholarlyactivityid": 59375,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "277327": {
+            "firstname": "Joe",
+            "middleinitial": "",
+            "lastname": "Burgett",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 277327,
+            "scholarlyactivityid": 59375,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59375,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112401",
+    "attachments": []
+}

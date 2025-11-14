@@ -1,0 +1,52 @@
+{
+    "activityid": 45672,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "eSports and online programs",
+        "Conference/Meeting Name": "NWeLearn 2018",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "NWeLearn",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "208064": {
+            "firstname": "Brett",
+            "middleinitial": "E",
+            "lastname": "Shelton",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 208064,
+            "scholarlyactivityid": 45672
+        },
+        "208063": {
+            "firstname": "Charles",
+            "middleinitial": "Christopher",
+            "lastname": "Haskell",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111114223",
+            "authorid": 208063,
+            "scholarlyactivityid": 45672
+        }
+    },
+    "status": [
+        {
+            "id": 45672,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

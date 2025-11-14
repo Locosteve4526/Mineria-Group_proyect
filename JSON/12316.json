@@ -1,0 +1,62 @@
+{
+    "activityid": 12316,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Simulation insights",
+        "Conference / Meeting Name": "Idaho Nurse Educators Conference",
+        "Conference Location": "Boise, ID.",
+        "Date or Date Range": "2008-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112103403",
+    "coauthors": {
+        "56382": {
+            "firstname": "Kelley",
+            "middleinitial": "",
+            "lastname": "Connor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112103403",
+            "authorid": 56382,
+            "scholarlyactivityid": 12316
+        },
+        "56383": {
+            "firstname": "Rosemary",
+            "middleinitial": "H",
+            "lastname": "Macy",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111182029",
+            "authorid": 56383,
+            "scholarlyactivityid": 12316
+        },
+        "56384": {
+            "firstname": "Diana",
+            "middleinitial": "K",
+            "lastname": "Mixon",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110317",
+            "authorid": 56384,
+            "scholarlyactivityid": 12316
+        }
+    },
+    "status": [
+        {
+            "id": 12316,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112103403",
+    "attachments": []
+}

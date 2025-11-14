@@ -1,0 +1,106 @@
+{
+    "activityid": 49549,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "For or against? Faculty attitudes towards trigger warnings.",
+        "Journal": "Journal of Criminal Justice Education",
+        "Volume": "32",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "302-322",
+        "Publisher": "Taylor &amp; Francis",
+        "DOI": "https://doi.org/10.1080/10511253.2021.1958884",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112002659",
+    "coauthors": {
+        "294518": {
+            "firstname": "Alison",
+            "middleinitial": "",
+            "lastname": "Cares",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294518,
+            "scholarlyactivityid": 49549,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294519": {
+            "firstname": "Arelys",
+            "middleinitial": "",
+            "lastname": "Madero Hernandez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294519,
+            "scholarlyactivityid": 49549,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294520": {
+            "firstname": "Lisa",
+            "middleinitial": "Marie",
+            "lastname": "Growette Bostaph",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112002659",
+            "authorid": 294520,
+            "scholarlyactivityid": 49549,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294521": {
+            "firstname": "Bonnie",
+            "middleinitial": "S",
+            "lastname": "Fisher",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294521,
+            "scholarlyactivityid": 49549,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 49549,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 49549,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 49549,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112002659",
+    "attachments": []
+}

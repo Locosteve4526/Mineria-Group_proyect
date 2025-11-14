@@ -1,0 +1,80 @@
+{
+    "activityid": 54647,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A User-Centric and Sentiment Aware Privacy-Disclosure Detection Framework based on Multi-input Neural Network",
+        "Name of Conference": "PrivateNLP at web-inspired research involving search and data mining",
+        "Month / Season": "Feb. 7",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "21-26",
+        "Publisher": "ACM",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://ceur-ws.org/Vol-2573/PrivateNLP_Paper2.pdf",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114068806",
+    "coauthors": {
+        "257096": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114068806",
+            "authorid": 257096,
+            "scholarlyactivityid": 54647,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "257097": {
+            "firstname": "A K M Nuhil",
+            "middleinitial": "",
+            "lastname": "Mehdy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 257097,
+            "scholarlyactivityid": 54647,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54647,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54647,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114068806",
+    "attachments": [
+        {
+            "attachmentid": 30854,
+            "mimetype": "application/pdf",
+            "filename": "PrivateNLP_Paper2 (1).pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZWWdnYk4xaEdPUVo1WVBxcTVZOFZuZzgyQnMrYUlGejlJWmp5Y3JtQVRvd0pvSGVIOG9lc3NtM0t5Z3RkbStqOD0%3D",
+            "filesize": 1599576
+        }
+    ]
+}

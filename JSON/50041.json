@@ -1,0 +1,65 @@
+{
+    "activityid": 50041,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&quot;All Stories TRUE!&quot;: The Nonfiction Western Magazine Collection at Boise State University",
+        "Journal": "The Reading Room: A Journal of Special Collections",
+        "Volume": "4",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114012929",
+    "coauthors": {
+        "232524": {
+            "firstname": "Gwyn",
+            "middleinitial": "",
+            "lastname": "Hervochon",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114012929",
+            "authorid": 232524,
+            "scholarlyactivityid": 50041
+        },
+        "232523": {
+            "firstname": "Alessandro",
+            "middleinitial": "G",
+            "lastname": "Meregaglia",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114063174",
+            "authorid": 232523,
+            "scholarlyactivityid": 50041
+        }
+    },
+    "status": [
+        {
+            "id": 50041,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 50041,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114012929",
+    "attachments": []
+}

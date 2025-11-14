@@ -1,0 +1,95 @@
+{
+    "activityid": 28233,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "StrikeCom: a multi-player online strategy game for researching and teaching group dynamics",
+        "Name of Conference": "Proceedings of the 38th Annual Hawaii International Conference on System Sciences",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "",
+        "Publisher": "IEEE Computer Society",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1109/HICSS.2005.566",
+        "ISBN/ISSN #": "0-7695-2268-8-1",
+        "Contributor": null,
+        "Web Address": "http://ieeexplore.ieee.org/document/1385325/",
+        "Description/Abstract": "StrikeCOM is a multi-player online strategy game designed to create discourse to aid in the examination of the development of group processes, shared awareness, and communication in distributed and face-to-face groups. The game mimics C3ISR (Command, Control, Communication, Intelligence, Surveillance, Reconnaissance) scenarios and information gathering in group activities. The game is most commonly used to create group communication and interaction in multiple communication modes. Built using a Java-based collaborative server platform the game is available for use in almost any computing environment. StrikeCOM has been used as a research tool to study leadership and deception in group decision making. The U.S. Department of Defense is using the tool to teach Network Centric Warfare to battle commanders. Use of StrikeCOM over the last two years has resulted in a number of lessons-learned, including using simple, familiar game interfaces, utilizing full and immediate feedback, and creating a flexible technical design to meet shifting research and teaching needs.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "235009": {
+            "firstname": "Douglas",
+            "middleinitial": "P",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 235009,
+            "scholarlyactivityid": 28233
+        },
+        "235010": {
+            "firstname": "Karl",
+            "middleinitial": "",
+            "lastname": "Wiers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235010,
+            "scholarlyactivityid": 28233
+        },
+        "235011": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Adkins",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235011,
+            "scholarlyactivityid": 28233
+        },
+        "235012": {
+            "firstname": "Judee K.",
+            "middleinitial": "",
+            "lastname": "Burgoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235012,
+            "scholarlyactivityid": 28233
+        },
+        "235013": {
+            "firstname": "Jay F.",
+            "middleinitial": "",
+            "lastname": "Nunamaker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235013,
+            "scholarlyactivityid": 28233
+        }
+    },
+    "status": [
+        {
+            "id": 28233,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2005,
+            "termid": "2004/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114065605",
+    "attachments": [
+        {
+            "attachmentid": 6741,
+            "mimetype": "application/pdf",
+            "filename": "StrikeCom-HICSS38.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRithVFh1R2xKZnBjaXE1L2ZTYUdIdUdQMEVBZStyZngxWStSZDh2MDIzemNEaW9odjREQ3YxTzA%3D",
+            "filesize": 267864
+        }
+    ]
+}

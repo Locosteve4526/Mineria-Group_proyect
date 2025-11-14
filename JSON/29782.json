@@ -1,0 +1,61 @@
+{
+    "activityid": 29782,
+    "fields": {
+        "Type": "Book",
+        "Title": "Interorganizational Collaboration: Complexity, Ethics and Communication",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Waveland Press",
+        "Publisher Location": "Long Grove, IL",
+        "ISBN": "978-1-4786-3293-1",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114060599",
+    "coauthors": {
+        "118484": {
+            "firstname": "Renee",
+            "middleinitial": "Guarriello",
+            "lastname": "Heath",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 118484,
+            "scholarlyactivityid": 29782,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "118485": {
+            "firstname": "Matthew",
+            "middleinitial": "G.",
+            "lastname": "Isbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060599",
+            "authorid": 118485,
+            "scholarlyactivityid": 29782,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29782,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114060599",
+    "attachments": []
+}

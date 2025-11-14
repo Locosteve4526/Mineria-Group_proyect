@@ -1,0 +1,71 @@
+{
+    "activityid": 10245,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Rediscovering Academic Libraries for Degree-seeking Older Students",
+        "Conference/Meeting Name": "Idaho Library Association Annual Conference",
+        "Conference Location": "Nampa, ID",
+        "Date or Date Range": "2013-10-03",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Idaho Library Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113139439",
+    "coauthors": {
+        "113817": {
+            "firstname": "Marilia",
+            "middleinitial": "",
+            "lastname": "Antunez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113120465",
+            "authorid": 113817,
+            "scholarlyactivityid": 10245,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "113818": {
+            "firstname": "Mary",
+            "middleinitial": "",
+            "lastname": "Aagard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113139439",
+            "authorid": 113818,
+            "scholarlyactivityid": 10245,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "113819": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 113819,
+            "scholarlyactivityid": 10245,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 10245,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113139439",
+    "attachments": []
+}

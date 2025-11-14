@@ -1,0 +1,58 @@
+{
+    "activityid": 43809,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The interactive effects of fire and recreation on golden eagles",
+        "Conference / Meeting Name": "27th International Ornithological Conference",
+        "Conference Location": "Vancouver, B.C.  ",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111277518",
+    "coauthors": {
+        "197552": {
+            "firstname": "C",
+            "middleinitial": "M",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 197552,
+            "scholarlyactivityid": 43809,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "197553": {
+            "firstname": "Julie",
+            "middleinitial": "A",
+            "lastname": "Heath",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111277518",
+            "authorid": 197553,
+            "scholarlyactivityid": 43809,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43809,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111277518",
+    "attachments": []
+}

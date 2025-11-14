@@ -1,0 +1,57 @@
+{
+    "activityid": 23549,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Comparing Critical Access Hospital Physician Recruitment Factors across Five States",
+        "Name of Conference": "",
+        "Month / Season": "2013-05-05",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Louisville, Kentucky USA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "78646": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 78646,
+            "scholarlyactivityid": 23549
+        },
+        "78647": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78647,
+            "scholarlyactivityid": 23549
+        }
+    },
+    "status": [
+        {
+            "id": 23549,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

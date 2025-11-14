@@ -1,0 +1,89 @@
+{
+    "activityid": 64326,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Learning and Innovation in a Polycentric Governance Design: Case Study of Electricity System Reliability and Resilience in the Western United States",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113171158",
+    "coauthors": {
+        "341046": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Lenhart",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113171158",
+            "authorid": 341046,
+            "scholarlyactivityid": 64326,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341047": {
+            "firstname": "Linocln",
+            "middleinitial": "",
+            "lastname": "Davies",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341047,
+            "scholarlyactivityid": 64326,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64326,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64326,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64326,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64326,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113171158",
+    "attachments": []
+}

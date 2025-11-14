@@ -1,0 +1,62 @@
+{
+    "activityid": 54585,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "In memoriam: Wilbert (\u201cBill\u201d) James McKeachie (1921-2019).  ",
+        "Journal": "American Psychologist",
+        "Volume": "75",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "590-591",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1037/amp0000595 ",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "256719": {
+            "firstname": "R. Eric",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 256719,
+            "scholarlyactivityid": 54585,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "256720": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Halonen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256720,
+            "scholarlyactivityid": 54585,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54585,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 65647,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Ambushing NIL Restrictions: How NIL \u201cConflict Language\u201d Policies Conflict With the First Amendment",
+        "Journal": "Cardozo Arts and Entertainment Journal",
+        "Volume": "41",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "853-875",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114171943",
+    "coauthors": {
+        "306479": {
+            "firstname": "Sam",
+            "middleinitial": "C",
+            "lastname": "Ehrlich",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114171943",
+            "authorid": 306479,
+            "scholarlyactivityid": 65647,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "306480": {
+            "firstname": "Neal",
+            "middleinitial": "C",
+            "lastname": "Ternes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 306480,
+            "scholarlyactivityid": 65647,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 65647,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 65647,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114171943",
+    "attachments": []
+}

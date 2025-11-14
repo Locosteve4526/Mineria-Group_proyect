@@ -1,0 +1,63 @@
+{
+    "activityid": 34940,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cAn Unsupervised Fluoroscopic Analysis of Knee Joint Kinematics\u201d",
+        "Name of Conference": "19th IEEE Symposium on Computer-Based Medical Imaging",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "pp. 377-380",
+        "Publisher": "",
+        "Publisher Location": "Salt Lake City, Utah",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Knowledge of the three dimensional positions of bones\r\nat a joint as a function of time is required to accurately\r\nmodel joint kinematics. 3-D bone geometry data from a\r\nstatic computer tomography (CT) images can be combined\r\nwith time sequence information from 2-D video fluoroscopy\r\nimages to produce 3-D position data over time. The\r\nprocess involves creating virtual X-rays from the CT\r\nimage through digitally reconstructed radiograph (DRR)\r\nprojections. Historically, the process of matching the 3-D\r\nand 2-D data has required human interaction. We have\r\neliminated the need for manual initialization using a\r\nMonte Carlo technique with a variable search range. The\r\nsearch range decreases as the matching improves,\r\navoiding the inherent problems of local minima in the optimization\r\nsearch. Two different edge types are examined.\r\nExperiments demonstrate that image positions can be\r\nmatched to within 0.5 degree rotation azimuth and elevation\r\nwithout human intervention.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142679": {
+            "firstname": "Charles",
+            "middleinitial": "",
+            "lastname": "Scott",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142679,
+            "scholarlyactivityid": 34940,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142680": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142680,
+            "scholarlyactivityid": 34940,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34940,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2006,
+            "termid": "2006/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

@@ -1,0 +1,86 @@
+{
+    "activityid": 2567,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using Bibliometrics to Support the Facilitation of Cross-Disciplinary Communication",
+        "Journal": "Journal of the American Society for Information Science and Technology",
+        "Volume": "64",
+        "Month / Season": "2013-12-31",
+        "Issue Number": "9",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "1768-1779",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "7047": {
+            "firstname": "Christopher",
+            "middleinitial": "J",
+            "lastname": "Williams",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7047,
+            "scholarlyactivityid": 2567
+        },
+        "7048": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "O'Rourke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7048,
+            "scholarlyactivityid": 2567
+        },
+        "7049": {
+            "firstname": "Sanford",
+            "middleinitial": "D",
+            "lastname": "Eigenbrode",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7049,
+            "scholarlyactivityid": 2567
+        },
+        "7050": {
+            "firstname": "Ian",
+            "middleinitial": "",
+            "lastname": "O'Loughlin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7050,
+            "scholarlyactivityid": 2567
+        },
+        "7051": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 7051,
+            "scholarlyactivityid": 2567
+        }
+    },
+    "status": [
+        {
+            "id": 2567,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

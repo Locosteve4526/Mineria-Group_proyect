@@ -1,0 +1,77 @@
+{
+    "activityid": 23503,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Designing a social network game: EarthQuest for 21st century learning",
+        "Name of Conference": "",
+        "Month / Season": "2012-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "2488-2494",
+        "Publisher": "AACE",
+        "Publisher Location": "Chesapeake, VA USA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "78535": {
+            "firstname": "Beomkyu",
+            "middleinitial": "",
+            "lastname": "Choi",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78535,
+            "scholarlyactivityid": 23503
+        },
+        "78536": {
+            "firstname": "Jie",
+            "middleinitial": "",
+            "lastname": "Huang",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78536,
+            "scholarlyactivityid": 23503
+        },
+        "78537": {
+            "firstname": "Youngjun",
+            "middleinitial": "",
+            "lastname": "Kim",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78537,
+            "scholarlyactivityid": 23503
+        },
+        "78538": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 78538,
+            "scholarlyactivityid": 23503
+        }
+    },
+    "status": [
+        {
+            "id": 23503,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

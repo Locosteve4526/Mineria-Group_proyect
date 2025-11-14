@@ -1,0 +1,62 @@
+{
+    "activityid": 1865,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Breeding dispersal by burrowing owls in Idaho",
+        "Journal": "Journal of Raptor Research",
+        "Volume": "52",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "143-157",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Papers in manuscript form and under preparation for submission soon",
+        "Origin": "Other"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "198030": {
+            "firstname": "Corey",
+            "middleinitial": "",
+            "lastname": "Riding",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 198030,
+            "scholarlyactivityid": 1865,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "198031": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 198031,
+            "scholarlyactivityid": 1865,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 1865,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

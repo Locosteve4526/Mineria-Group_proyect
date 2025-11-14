@@ -1,0 +1,66 @@
+{
+    "activityid": 75703,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "There's Something About Albumin: Applying the Roadmap for Causal Inference to Estimate the Effect of Albumin Levels on Pressure Injury Development in Hospital Settings",
+        "Conference/Meeting Name": "Internataional Society for Pharmacoepidemiology ",
+        "Conference Location": "Berlin, Germany ",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Background:&lt;br&gt;Pressure injuries (PrIs) are a common problem in critical care settings, affecting 3-6% of patients. These&lt;br&gt;injuries are characterized by damage to the skin and underlying soft tissue. While external pressure and&lt;br&gt;shear are the primary causes of PrIs, other factors can also contribute to tissue damage. One such factor&lt;br&gt;is serum albumin, a protein found in blood plasma. Studies have shown that low serum albumin levels&lt;br&gt;can increase the risk of developing PrIs. The multifaceted association between serum albumin and PrI&lt;br&gt;development reflects overall health and nutrition status, necessitating a deeper exploration of albumin's&lt;br&gt;direct impact on PrI risk.&lt;br&gt;Objectives:&lt;br&gt;To accurately assess the effectiveness of a treatment or exposure from observational data, it's essential&lt;br&gt;to carefully consider how the data was collected and factor in any potential confounding variables that&lt;br&gt;could affect the results. We aimed to apply the &quot;roadmap for causal inference&quot; outlined by van der Laan et&lt;br&gt;al. to evaluate the impact of low albumin levels on the incidence of pressure injuries in hospital patients&lt;br&gt;while considering any potential confounding factors that could be present in the population being studied.&lt;br&gt;Methods:&lt;br&gt;Our study employed a plausible directed acyclic graph (DAG) relating albumin to pressure injuries with&lt;br&gt;potential confounders, colliders, and effect modifiers (moderators). We used a nonparametric causal&lt;br&gt;structural framework and employed the roadmap for causal inference and the Targeted Maximum&lt;br&gt;Likelihood Estimation (TMLE) approach to adjust for confounders and estimate the causal effect of low&lt;br&gt;albumin on the development of pressure injuries.&lt;br&gt;Our analysis involved a cohort of patients identified from the MIMIC IV dataset, a de-identified electronic&lt;br&gt;health records dataset from Beth Israel Deaconess Medical Center. This dataset captures admissions&lt;br&gt;between 2008 and 2019 for almost 300,000 patients.&lt;br&gt;Results:&lt;br&gt;Our analysis showed that low albumin levels are significantly associated with an increased incidence of&lt;br&gt;pressure injuries in hospitalized patients, even after accounting for various other factors. The crude odds&lt;br&gt;ratio for low albumin was strikingly high at 3.97 (95% confidence interval: 3.54-4.45). We used Targeted&lt;br&gt;Maximum Likelihood Estimation (TMLE) to refine these estimates, and we found that low albumin levels&lt;br&gt;increase the risk of pressure injury by 4.0% (95% confidence interval: 0.03082-0.0496, p &lt; 0.0001). We&lt;br&gt;also discovered a dose-response relationship between albumin levels and pressure injury risk, further&lt;br&gt;supporting the association.&lt;br&gt;Conclusions:&lt;br&gt;Utilizing advanced causal inference techniques, this study provides robust evidence of the contributory&lt;br&gt;role of serum albumin in the development of pressure injuries (PrIs) in critical care. Despite observing a&lt;br&gt;significant variation in PrI risk among patients with liver and kidney diseases, our results did not indicate a&lt;br&gt;significant effect modification, likely due to the increased variability in these sicker patient populations.&lt;br&gt;Nevertheless, the evidence points to low albumin as a potential target for intervention. Our findings lay&lt;br&gt;the groundwork for designing an interventional study with a systematic approach to albumin monitoring&lt;br&gt;and intervention, which could reduce PrI incidence. Moving forward, we aim to delve deeper into the&lt;br&gt;longitudinal aspects of albumin levels and their relationship with PrI, which are essential for&lt;br&gt;understanding the dynamics involved in a potential interventional study.",
+        "Origin": "Manual"
+    },
+    "facultyid": "113033739",
+    "coauthors": {
+        "336092": {
+            "firstname": "Wilson",
+            "middleinitial": "",
+            "lastname": "Andy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336092,
+            "scholarlyactivityid": 75703,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336093": {
+            "firstname": "Jenny",
+            "middleinitial": "G",
+            "lastname": "Alderden",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113033739",
+            "authorid": 336093,
+            "scholarlyactivityid": 75703,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 75703,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113033739",
+    "attachments": [
+        {
+            "attachmentid": 59072,
+            "mimetype": "application/pdf",
+            "filename": "ISPE Poster 205 2024 [978]  TSAA v.0.1.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeThPWXVmQUU2RmFTdkxmN2ZmK013Mng5RFNuejRjYldxb09EeGovSTBZdUNFYm5TcjNiVUptYnVkaUhMNzJqU3lhQytDdm94TTFycjVJRnA3SmtCNm9qYkZVd1hVZlplcA%3D%3D",
+            "filesize": 456037
+        }
+    ]
+}

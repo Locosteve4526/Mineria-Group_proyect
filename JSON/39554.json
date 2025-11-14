@@ -1,0 +1,60 @@
+{
+    "activityid": 39554,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "Architecture for isolating display grid sections in a field emission display",
+        "Actual/Projected Year of Publication/Presentation": 1995,
+        "Patent Nationality": "United States",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "US Patent 5,459,480",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112088556",
+    "coauthors": {
+        "170814": {
+            "firstname": "Jimmy",
+            "middleinitial": "Jay",
+            "lastname": "Browning",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112088556",
+            "authorid": 170814,
+            "scholarlyactivityid": 39554,
+            "classifications": {
+                "Role": "Inventor"
+            }
+        },
+        "170815": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 170815,
+            "scholarlyactivityid": 39554,
+            "classifications": {
+                "Role": "Inventor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 39554,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 1995,
+            "termid": "1995/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112088556",
+    "attachments": []
+}

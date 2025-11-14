@@ -1,0 +1,75 @@
+{
+    "activityid": 54421,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Three faces of eyewitness psychology and expert testimony",
+        "Journal": "The Champion",
+        "Volume": "2021",
+        "Month / Season": "February",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "National Criminal Defense Lawyers Association ",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110183",
+    "coauthors": {
+        "255277": {
+            "firstname": "Brian",
+            "middleinitial": "L",
+            "lastname": "Cutler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255277,
+            "scholarlyactivityid": 54421,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255278": {
+            "firstname": "Charles",
+            "middleinitial": "R",
+            "lastname": "Honts Ph. D.",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110183",
+            "authorid": 255278,
+            "scholarlyactivityid": 54421,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "255279": {
+            "firstname": "Jeffrey",
+            "middleinitial": "S",
+            "lastname": "Neuschatz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 255279,
+            "scholarlyactivityid": 54421,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54421,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111110183",
+    "attachments": []
+}

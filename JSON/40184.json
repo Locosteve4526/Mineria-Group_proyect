@@ -1,0 +1,64 @@
+{
+    "activityid": 40184,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "A reusable learning object approach to designing online courses",
+        "Book Title": "The encyclopedia of distance learning ",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "1800-1805",
+        "Edition": "2nd",
+        "Volume": "4",
+        "Publisher": "IDEA Group",
+        "Publisher Location": "Hershey, PA",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Rogers, P. et al.",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111112331",
+    "coauthors": {
+        "175362": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 175362,
+            "scholarlyactivityid": 40184,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "175363": {
+            "firstname": "Joann",
+            "middleinitial": "",
+            "lastname": "Swanson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 175363,
+            "scholarlyactivityid": 40184,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40184,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112331",
+    "attachments": []
+}

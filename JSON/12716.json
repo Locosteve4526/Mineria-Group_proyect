@@ -1,0 +1,52 @@
+{
+    "activityid": 12716,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Adult attachment and sexual attitudes",
+        "Conference / Meeting Name": "Midwestern Psychological Association",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "2004-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111726552",
+    "coauthors": {
+        "57382": {
+            "firstname": "A.",
+            "middleinitial": "",
+            "lastname": "Whiteleather",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 57382,
+            "scholarlyactivityid": 12716
+        },
+        "57383": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Doumas",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111726552",
+            "authorid": 57383,
+            "scholarlyactivityid": 12716
+        }
+    },
+    "status": [
+        {
+            "id": 12716,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2004,
+            "termid": "2003/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111726552",
+    "attachments": []
+}

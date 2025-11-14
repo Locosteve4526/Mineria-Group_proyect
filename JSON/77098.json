@@ -1,0 +1,84 @@
+{
+    "activityid": 77098,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Hardware Implementation of Image Processing Morphological and Convolution Operations as SoC on FPGAs",
+        "Name of Conference": "7th International Conference on Digital Medicine and Image Processing DMIP 2024",
+        "Month / Season": "11/2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "72 - 78",
+        "Publisher": "ACM",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://doi.org/10.1145/3705927.3705940",
+        "Description/Abstract": "Efficient image processing architectures are consistently in demand\u00a0across a multitude of applications, particularly those customized for resource-constrained systems-on-chip (SoC). The increasing need for high-performance image processing in various sectors has driven the development of specialized architectures. However, deploying such architectures on platforms with limited resources, such as SoCs, poses significant challenges. Furthermore, the implementation of complex algorithms to handle large datasets using software solutions often leads to slower response times, prompting exploration into hardware implementations. Field-Programmable GateArrays(FPGAs)arebecomingpopularforhardwareimplementations because of their attributes: low latency, connectivity, parallel computing capabilities, and flexibility. Consequently, the utilization of FPGA-based implementations has resulted in faster and more efficient performance of unique architectures tailored to specific requirements. This paper presents a novel hardware/software codesign approach to implement erosion, dilation, and neighborhood imageprocessing operations on the FPGAdevelopmentboard,&quot;Zedboard&quot;. In this approach, the FPGA is programmed by connecting it to a PC via USB, facilitating the transfer of an image pixel by pixel. The pixels are temporarily stored in on-chip DDR and accessed through DMA (Direct Memory Access) until they are requested by an interrupt signal from the Image Processing IP, at which point they are moved toline buffers for faster processing. Once processed, the image is transmitted back to the PC via UART, facilitating pixelby-pixel transfer for verification, where it is compared with a reference image generated using Python. This comparison confirms a 99.22% match between the processed image and the reference image, with the discrepancy occurring at the image\u2019s edges due to initial padding. Additionally, the time required to process the entire image was measured and displayed on an OLED for timing verification. which processing time amounted to 2.652 ms which is faster than other related hardware implementation.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "345084": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 345084,
+            "scholarlyactivityid": 77098,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345085": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Groves",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345085,
+            "scholarlyactivityid": 77098,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345086": {
+            "firstname": "Alfred",
+            "middleinitial": "",
+            "lastname": "Moussa",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345086,
+            "scholarlyactivityid": 77098,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77098,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2025,
+            "termid": "2025/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": [
+        {
+            "attachmentid": 62174,
+            "mimetype": "application/pdf",
+            "filename": "DMIP Paper.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeVNhTzlHZUsyQUszblhTK1dtYU9XUzZKQUJGY1lOWEE2cTFjMkxXZFlzSVdaUXVIa2lZNFAwZz09",
+            "filesize": 1461637
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "activityid": 16877,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Student as Value Based Product",
+        "Conference/Meeting Name": "Curriculum Theory and Classroom Practice",
+        "Conference Location": "Bergamo, Ohio",
+        "Date or Date Range": "2014-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112125622",
+    "coauthors": {
+        "66886": {
+            "firstname": "Arturo",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112125622",
+            "authorid": 66886,
+            "scholarlyactivityid": 16877
+        },
+        "66887": {
+            "firstname": "Kevin",
+            "middleinitial": "R",
+            "lastname": "Magill",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 66887,
+            "scholarlyactivityid": 16877
+        }
+    },
+    "status": [
+        {
+            "id": 16877,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112125622",
+    "attachments": []
+}

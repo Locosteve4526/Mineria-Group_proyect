@@ -1,0 +1,72 @@
+{
+    "activityid": 35015,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Today's student-veteran panel",
+        "Conference/Meeting Name": "Today's Veteran Conference",
+        "Conference Location": "Columbus, OH",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086631",
+    "coauthors": {
+        "142881": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Beauchemin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086631",
+            "authorid": 142881,
+            "scholarlyactivityid": 35015
+        },
+        "142882": {
+            "firstname": "T",
+            "middleinitial": "",
+            "lastname": "McCarty",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142882,
+            "scholarlyactivityid": 35015
+        },
+        "142883": {
+            "firstname": "M",
+            "middleinitial": "",
+            "lastname": "Carrell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142883,
+            "scholarlyactivityid": 35015
+        },
+        "142884": {
+            "firstname": "K",
+            "middleinitial": "",
+            "lastname": "Kyle",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142884,
+            "scholarlyactivityid": 35015
+        }
+    },
+    "status": [
+        {
+            "id": 35015,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114086631",
+    "attachments": []
+}

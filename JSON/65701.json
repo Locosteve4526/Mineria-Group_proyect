@@ -1,0 +1,65 @@
+{
+    "activityid": 65701,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Perceptions of Open Access among Boise State University Faculty: Survey Data Results",
+        "Journal": "Journal of Librarianship and Scholarly Communication",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112088454",
+    "coauthors": {
+        "304622": {
+            "firstname": "Elisabeth",
+            "middleinitial": "R",
+            "lastname": "Shook",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114159621",
+            "authorid": 304622,
+            "scholarlyactivityid": 65701
+        },
+        "304621": {
+            "firstname": "Amy",
+            "middleinitial": "Elizabeth",
+            "lastname": "Vecchione",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112088454",
+            "authorid": 304621,
+            "scholarlyactivityid": 65701
+        }
+    },
+    "status": [
+        {
+            "id": 65701,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 65701,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112088454",
+    "attachments": []
+}

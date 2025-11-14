@@ -1,0 +1,74 @@
+{
+    "activityid": 46899,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Gender strategies during asynchronous interviews",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106117",
+    "coauthors": {
+        "285291": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Pentland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106117",
+            "authorid": 285291,
+            "scholarlyactivityid": 46899
+        },
+        "285292": {
+            "firstname": "Felice",
+            "middleinitial": "B",
+            "lastname": "Klein",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114109249",
+            "authorid": 285292,
+            "scholarlyactivityid": 46899
+        }
+    },
+    "status": [
+        {
+            "id": 46899,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 46899,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 46899,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114106117",
+    "attachments": []
+}

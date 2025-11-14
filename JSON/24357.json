@@ -1,0 +1,57 @@
+{
+    "activityid": 24357,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Training for Performance",
+        "Book Title": "Fitness Professional's Handbook",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": " ",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Edward T. Howley, Dixie L. Thompson",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "80445": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 80445,
+            "scholarlyactivityid": 24357
+        }
+    },
+    "status": [
+        {
+            "id": 24357,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 24357,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

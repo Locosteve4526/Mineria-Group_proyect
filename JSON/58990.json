@@ -1,0 +1,58 @@
+{
+    "activityid": 58990,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Fireside Chat with Prof. Shikhar Sarin and Geoffrey Moore on Crossing the Chasm",
+        "Conference/Meeting Name": "PGPpro Learning and Development Council",
+        "Conference Location": "Online",
+        "Date or Date Range": "April ",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "Indian School of Business (Hyderabad, India)",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "275356": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 275356,
+            "scholarlyactivityid": 58990,
+            "classifications": {
+                "Role": "Guest Speaker"
+            }
+        },
+        "275357": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Moore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 275357,
+            "scholarlyactivityid": 58990,
+            "classifications": {
+                "Role": "Guest Speaker"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58990,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

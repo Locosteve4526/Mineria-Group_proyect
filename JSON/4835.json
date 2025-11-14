@@ -1,0 +1,84 @@
+{
+    "activityid": 4835,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Motorcar Runs Through It:  A Triptych Study of Thomas Wolfe\u2019s West",
+        "Journal": "Thomas Wolfe Review",
+        "Volume": "37",
+        "Month / Season": "2013-08-31",
+        "Issue Number": "May",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "110-118 and poster insert",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Note: The 2013 issue of this annual journal was shipped in late spring 2014. Publication in 2013 is nominal; 2014 is the actual publication date. This article includes a grant-funded poster insertion that is the year's special feature of the journal.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643336",
+    "coauthors": {
+        "92637": {
+            "firstname": "Tara",
+            "middleinitial": "C",
+            "lastname": "Penry",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643336",
+            "authorid": 92637,
+            "scholarlyactivityid": 4835,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "92638": {
+            "firstname": "Cindy",
+            "middleinitial": "",
+            "lastname": "Sikkema",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 92638,
+            "scholarlyactivityid": 4835,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "92639": {
+            "firstname": "Joe",
+            "middleinitial": "",
+            "lastname": "Cavanaugh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 92639,
+            "scholarlyactivityid": 4835,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 4835,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 4835,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643336",
+    "attachments": []
+}

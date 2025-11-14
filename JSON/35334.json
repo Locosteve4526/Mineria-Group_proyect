@@ -1,0 +1,58 @@
+{
+    "activityid": 35334,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "In vitro Binding of 6S RNA Mango to RNA Polymerase by two photon Fluorescence Cross Correlation Spectroscopy",
+        "Conference / Meeting Name": "Biophysical Society 61st Annual Meeting",
+        "Conference Location": "New Orleans, LA",
+        "Date or Date Range": "2016-03-02",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "Biophysical Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The assembly of RNA and protein complexes is a fundamental process for life but has been difficult to study both in vitro and in vivo.  Recently a novel aptamer based method to fluorescently label RNA molecules has been reported(Dolgosheina et al. 2014).  Here we report the successful utilization of the RNA Mango + thiazole orange derivative to measure the in vitro binding of 6S RNA to RNA Polymerase from E. coli.  By two photon Fluorescence Cross Correlation Spectroscopy, we are able to independently measure the molecular brightness, diffusion coefficient and concentration of 6S RNA Mango, RNA Polymerase GFP and complex as we increase RNA Polymerase concentration giving us an estimate for the equilibrium binding constant of the complex in vitro.  This experiment demonstrates the utility of RNA Mango for both in vitro and in vivo single molecule experiments.\r\nDolgosheina, Elena V., Sunny C. Y. Jeng, Shanker Shyam S. Panchapakesan, Razvan Cojocaru, Patrick S. K. Chen, Peter D. Wilson, Nancy Hawkins, Paul A. Wiggins, and Peter J. Unrau. 2014. \u201cRNA Mango Aptamer-Fluorophore: A Bright, High-Affinity Complex for RNA Labeling and Tracking.\u201d ACS Chemical Biology 9 (10): 2412\u201320.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002276",
+    "coauthors": {
+        "144978": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Ferguson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002276",
+            "authorid": 144978,
+            "scholarlyactivityid": 35334,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "144979": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Hayden",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001941",
+            "authorid": 144979,
+            "scholarlyactivityid": 35334,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 35334,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002276",
+    "attachments": []
+}

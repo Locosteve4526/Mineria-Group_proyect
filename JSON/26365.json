@@ -1,0 +1,75 @@
+{
+    "activityid": 26365,
+    "fields": {
+        "Type": "Book",
+        "Title": "Legal Environment of Business (5th ed)",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Pearson Custom Publishing",
+        "Publisher Location": "",
+        "ISBN": "1256159166",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Legal Environment of Business",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111112978",
+    "coauthors": {
+        "84659": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Bixby",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110404",
+            "authorid": 84659,
+            "scholarlyactivityid": 26365
+        },
+        "84660": {
+            "firstname": "Cihon",
+            "middleinitial": "",
+            "lastname": "Patrick",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 84660,
+            "scholarlyactivityid": 26365
+        },
+        "84661": {
+            "firstname": "Caryn",
+            "middleinitial": "",
+            "lastname": "Beck-Dudley",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 84661,
+            "scholarlyactivityid": 26365
+        },
+        "84662": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Park",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111112978",
+            "authorid": 84662,
+            "scholarlyactivityid": 26365
+        }
+    },
+    "status": [
+        {
+            "id": 26365,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111112978",
+    "attachments": []
+}

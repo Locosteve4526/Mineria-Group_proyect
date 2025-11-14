@@ -1,0 +1,66 @@
+{
+    "activityid": 1760,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tiger Moth Jams Bat Sonar",
+        "Journal": "Science",
+        "Volume": "",
+        "Month / Season": "2009-12-31",
+        "Issue Number": "325",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "325-327",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113089601",
+    "coauthors": {
+        "4366": {
+            "firstname": "AJ",
+            "middleinitial": "",
+            "lastname": "Corcoran",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4366,
+            "scholarlyactivityid": 1760
+        },
+        "4367": {
+            "firstname": "Jesse",
+            "middleinitial": "R",
+            "lastname": "Barber",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113089601",
+            "authorid": 4367,
+            "scholarlyactivityid": 1760
+        },
+        "4368": {
+            "firstname": "WE",
+            "middleinitial": "",
+            "lastname": "Conner",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4368,
+            "scholarlyactivityid": 1760
+        }
+    },
+    "status": [
+        {
+            "id": 1760,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113089601",
+    "attachments": []
+}

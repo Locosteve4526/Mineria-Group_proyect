@@ -1,0 +1,97 @@
+{
+    "activityid": 57922,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "ICDAR 2021 Competition on Time-Quality Document Image Binarization",
+        "Name of Conference": "International Conference on Document Analysis and Recognition",
+        "Month / Season": "September",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "708",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "The ICDAR 2021 Time-Quality Binarization Competition\nassessed the performance of 12 new and 49 other previously published\nbinarization algorithms for scanned document images. Four test sets of\n\u201creal-world\u201d documents with different features were used. For each test\nset, the top twenty algorithms in the quality of the resulting two-tone\nimages had their average processing time presented, yielding an account\nof their time complexity.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "268717": {
+            "firstname": "Rafael Dueire",
+            "middleinitial": "",
+            "lastname": "Lins",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268717,
+            "scholarlyactivityid": 57922,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268718": {
+            "firstname": "Rodrigo Barros",
+            "middleinitial": "",
+            "lastname": "Bernardino",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268718,
+            "scholarlyactivityid": 57922,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268719": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 268719,
+            "scholarlyactivityid": 57922,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268720": {
+            "firstname": "Ergina",
+            "middleinitial": "",
+            "lastname": "Kavallieratou",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268720,
+            "scholarlyactivityid": 57922,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57922,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": [
+        {
+            "attachmentid": 35033,
+            "mimetype": "application/pdf",
+            "filename": "ICDAR_2021_Competition_on_Time_Quality_Document_Image_Binarization.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yUkE5UzdyK0xwKzMwN1RsbndKLzhpQzZ2R3BmMG9sVXdHN3hFeVlHUXk3TjZaT1NqZ21yNTJjTVZEc3JqOWFkcGNHbUoyRGpHU3R5RzJxZFdlRlhBVjZMRm0xdWYwQ2lTVllXcTlneU5DTDV6QWdzZWwzODNZ",
+            "filesize": 1343633
+        }
+    ]
+}

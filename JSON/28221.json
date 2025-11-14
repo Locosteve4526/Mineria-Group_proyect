@@ -1,0 +1,68 @@
+{
+    "activityid": 28221,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Speech act profiling: a probabilistic method for analyzing persistent conversations and their participants",
+        "Name of Conference": "Proceedings of the 37th Annual Hawaii International Conference on System Sciences",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "",
+        "Publisher": "IEEE Computer Society Press",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1109/HICSS.2004.1265283",
+        "ISBN/ISSN #": "0-7695-2056-1",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "The increase in persistent conversations in the form of chat and instant messaging (IM) has presented new opportunities for researchers. This paper describes a method for evaluating and visualizing persistent conversations by creating a speech act profile for conversation participants using speech act theory and concepts from fuzzy logic. This method can be used either to score a participant based on possible intentions or to create a visual map of those intentions. Transcripts from the Switchboard corpus, which have been marked up with speech act labels according to a SWBD-DAMSL tag set of 42 tags, are used to train language models and a modified hidden Markov model (HMM) to obtain probabilities for each speech act type for a given sentence. Rather than choosing the speech act with the maximum probability and assigning it to the sentence, the probabilities are aggregated for each conversation participant creating a set of speech act profiles, which can be visualized as a radar graphs. Several example profiles are shown along with possible interpretations. The profiles can be used as an overall picture of a conversation, and may be useful in various analyses of persistent conversations including information retrieval, deception detection, and online technical support monitoring.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "234947": {
+            "firstname": "Doug",
+            "middleinitial": "",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 234947,
+            "scholarlyactivityid": 28221
+        },
+        "234948": {
+            "firstname": "Jay F.",
+            "middleinitial": "",
+            "lastname": "Nunamaker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 234948,
+            "scholarlyactivityid": 28221,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28221,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2004,
+            "termid": "2003/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114065605",
+    "attachments": [
+        {
+            "attachmentid": 6544,
+            "mimetype": "application/pdf",
+            "filename": "SpeechActProfilingHICSS37.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitaVGZYOXJkVGI1WmYxU1pFUEJMZ3ZrSDAvdkZsbWphUDloVUp0a1dqaW9KQzc2ZUdVTEVaV1NLaUcvZ01LL1U3UT0%3D",
+            "filesize": 147732
+        }
+    ]
+}

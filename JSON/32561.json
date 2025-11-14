@@ -1,0 +1,72 @@
+{
+    "activityid": 32561,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Trust as a Critical Success Factor in Construction Project Delivery",
+        "Name of Conference": "International Group on Lean Construction ",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112207077",
+    "coauthors": {
+        "125566": {
+            "firstname": "Anthony",
+            "middleinitial": "D",
+            "lastname": "Songer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112207077",
+            "authorid": 125566,
+            "scholarlyactivityid": 32561,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125567": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Muir",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125567,
+            "scholarlyactivityid": 32561,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32561,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 32561,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112207077",
+    "attachments": []
+}

@@ -1,0 +1,70 @@
+{
+    "activityid": 10057,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Stakeholder identification for natural resource management:  A call to rigor",
+        "Conference/Meeting Name": "Pacific Division of the American Association for the Advancement of Science",
+        "Conference Location": "San Francisco, CA",
+        "Date or Date Range": "2015-06-16",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114022280",
+    "coauthors": {
+        "51992": {
+            "firstname": "Jared",
+            "middleinitial": "L.",
+            "lastname": "Talley",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51992,
+            "scholarlyactivityid": 10057
+        },
+        "51993": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Schneider",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114022280",
+            "authorid": 51993,
+            "scholarlyactivityid": 10057
+        }
+    },
+    "status": [
+        {
+            "id": 10057,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10057,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 10057,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114022280",
+    "attachments": []
+}

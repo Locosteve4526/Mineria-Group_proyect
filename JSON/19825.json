@@ -1,0 +1,63 @@
+{
+    "activityid": 19825,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Toward a Taxonomy of Negotiation Gambits",
+        "Name of Conference": "International Association of Business and Public Administration Disciplines",
+        "Month / Season": "2010-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": null,
+        "Publisher": "International Association of Business and Public Administration",
+        "Publisher Location": "Dallas, Texas",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "134353": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 134353,
+            "scholarlyactivityid": 19825,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134354": {
+            "firstname": "Tyler",
+            "middleinitial": "",
+            "lastname": "Casperson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134354,
+            "scholarlyactivityid": 19825,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19825,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

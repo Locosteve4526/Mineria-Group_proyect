@@ -1,0 +1,85 @@
+{
+    "activityid": 38977,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Isolating retrograde and prograde Rayleigh wave modes using a polarity mute",
+        "Journal": "Geophysics",
+        "Volume": "81",
+        "Month / Season": "2015-12-08",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "379-385",
+        "Publisher": "Geophysics",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110034",
+    "coauthors": {
+        "165726": {
+            "firstname": "Gabriel",
+            "middleinitial": "",
+            "lastname": "Gribler",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 165726,
+            "scholarlyactivityid": 38977
+        },
+        "165727": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Liberty",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110034",
+            "authorid": 165727,
+            "scholarlyactivityid": 38977
+        },
+        "165728": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Michaels",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110288",
+            "authorid": 165728,
+            "scholarlyactivityid": 38977
+        },
+        "165729": {
+            "firstname": "Dylan",
+            "middleinitial": "",
+            "lastname": "Mikesell",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112102731",
+            "authorid": 165729,
+            "scholarlyactivityid": 38977
+        }
+    },
+    "status": [
+        {
+            "id": 38977,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 38977,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110034",
+    "attachments": []
+}

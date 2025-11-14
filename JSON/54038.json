@@ -1,0 +1,111 @@
+{
+    "activityid": 54038,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Sex Differences in Reported Concussion Symptoms amongst Collegiate Athletes",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114090284",
+    "coauthors": {
+        "253005": {
+            "firstname": "Joni",
+            "middleinitial": "",
+            "lastname": "Luntz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 253005,
+            "scholarlyactivityid": 54038,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "253006": {
+            "firstname": "Dave",
+            "middleinitial": "",
+            "lastname": "Hammons",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111230498",
+            "authorid": 253006,
+            "scholarlyactivityid": 54038,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "253007": {
+            "firstname": "Kirk",
+            "middleinitial": "L",
+            "lastname": "Ketelsen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114090284",
+            "authorid": 253007,
+            "scholarlyactivityid": 54038,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54038,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 54038,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 54038,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 54038,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 54038,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114090284",
+    "attachments": []
+}

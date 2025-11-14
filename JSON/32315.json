@@ -1,0 +1,63 @@
+{
+    "activityid": 32315,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Analyzing item measure hierarchies to develop a model of students\u2019 proportional reasoning",
+        "Name of Conference": "American Educational Research Association",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "American Educational Research Association",
+        "Publisher Location": "San Antonio",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111351647",
+    "coauthors": {
+        "124367": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 124367,
+            "scholarlyactivityid": 32315,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "124368": {
+            "firstname": "Everett",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 124368,
+            "scholarlyactivityid": 32315,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32315,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111351647",
+    "attachments": []
+}

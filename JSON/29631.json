@@ -1,0 +1,76 @@
+{
+    "activityid": 29631,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Traumatic Brain Injury Outcomes: Longitudinal Study of Sex Differences",
+        "Name of Conference": "The American Association of Neurological Surgeons 84th Annual Scientific Meeting",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111850",
+    "coauthors": {
+        "103674": {
+            "firstname": "Pennie",
+            "middleinitial": "S",
+            "lastname": "Seibert",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111850",
+            "authorid": 103674,
+            "scholarlyactivityid": 29631,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "103675": {
+            "firstname": "Colleen",
+            "middleinitial": "",
+            "lastname": "Poulton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 103675,
+            "scholarlyactivityid": 29631,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "103676": {
+            "firstname": "Christian",
+            "middleinitial": "G",
+            "lastname": "Zimmerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 103676,
+            "scholarlyactivityid": 29631,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29631,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111850",
+    "attachments": []
+}

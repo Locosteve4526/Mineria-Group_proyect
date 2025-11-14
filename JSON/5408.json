@@ -1,0 +1,56 @@
+{
+    "activityid": 5408,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Symmetric Diffusion Equations, Barodiffusion, and Cross-Diffusion in Concentrated Liquid Mixtures",
+        "Journal": "Physical Reviews E",
+        "Volume": "70",
+        "Month / Season": "2004-09-30",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "031202-1 - 031202-10",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1103/PhysRevE.70.031202",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/chem_facpubs/33",
+        "Description/Abstract": "In models of diffusion in multicomponent mixtures, the current practice  is to derive equations for an isobaric system. The equations are  nonsymmetric in relation to the components of the mixture, and the  concentration of solvent is assumed to be governed by the conservation  of mass instead of its own corresponding diffusion equation. For  concentrated mixtures, the solvent component is selected arbitrarily,  which makes interpretation of the experimental data dependent on the  choice of the interpreter. In this work, we derive a symmetric system of  equations, made possible by the introduction of a spontaneously  produced secondary pressure gradient. The effect of that pressure  gradient is barodiffusion (barophoresis), defined by the force expressed  as the secondary pressure gradient multiplied by the molecular volume.  The model also considers the cross-diffusion (diffusiophoresis) that  results from the hydrodynamic stresses associated with the local  concentration-induced pressure gradient in liquid layers surrounding  individual molecules. The resulting system of diffusion equations, which  contains the secondary pressure gradient and component concentrations,  is applied to a binary (nonionic) mixture of benzene and  1,2-dichloroethane. The steady-state system is placed in a uniform force  field, and the effect of the secondary pressure gradient on the  field-induced migration is discussed. Fluctuation dynamics in a system  with no external force field is also discussed. The numerical results  predict the establishment of lower concentration gradients compared to  standard theory. Also, the predicted concentration dependence in the  effective diffusion coefficient measured by dynamic light scattering is  different compared to standard theory. Finally, experiments are proposed  to further evaluate differences between the new model and the standard  approach.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111683",
+    "coauthors": {
+        "16418": {
+            "firstname": "Martin",
+            "middleinitial": "E",
+            "lastname": "Schimpf",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111683",
+            "authorid": 16418,
+            "scholarlyactivityid": 5408
+        },
+        "16419": {
+            "firstname": "Semen",
+            "middleinitial": "N.",
+            "lastname": "Semenov",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16419,
+            "scholarlyactivityid": 5408
+        }
+    },
+    "status": [
+        {
+            "id": 5408,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111683",
+    "attachments": []
+}

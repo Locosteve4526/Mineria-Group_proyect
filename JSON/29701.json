@@ -1,0 +1,93 @@
+{
+    "activityid": 29701,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Student Athletes\u2019 Emotional Experiences Across a High School Basketball Season",
+        "Journal": "Journal of Applied Sport Psychology ",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114063271",
+    "coauthors": {
+        "243610": {
+            "firstname": "Daniel",
+            "middleinitial": "R",
+            "lastname": "Gould",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243610,
+            "scholarlyactivityid": 29701,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "243611": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114063271",
+            "authorid": 243611,
+            "scholarlyactivityid": 29701,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "243612": {
+            "firstname": "Lauren",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 243612,
+            "scholarlyactivityid": 29701,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29701,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 29701,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 29701,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114063271",
+    "attachments": []
+}

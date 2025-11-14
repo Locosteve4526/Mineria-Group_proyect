@@ -1,0 +1,77 @@
+{
+    "activityid": 40032,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A visual interface for multivariate temporal data: Finding patterns of events across multiple histories",
+        "Name of Conference": "Visual Analytics Science And Technology, 2006 IEEE Symposium On",
+        "Month / Season": null,
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": null,
+        "Publisher": null,
+        "Publisher Location": null,
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114058343",
+    "coauthors": {
+        "174591": {
+            "firstname": "Jerry",
+            "middleinitial": "Alan",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174591,
+            "scholarlyactivityid": 40032
+        },
+        "174592": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Karlson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174592,
+            "scholarlyactivityid": 40032
+        },
+        "174593": {
+            "firstname": "Layla",
+            "middleinitial": "",
+            "lastname": "Shahamat",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174593,
+            "scholarlyactivityid": 40032
+        },
+        "174594": {
+            "firstname": "Ben",
+            "middleinitial": "",
+            "lastname": "Shneiderman",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174594,
+            "scholarlyactivityid": 40032
+        }
+    },
+    "status": [
+        {
+            "id": 40032,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2006,
+            "termid": "2006/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058343",
+    "attachments": []
+}

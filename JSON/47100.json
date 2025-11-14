@@ -1,0 +1,62 @@
+{
+    "activityid": 47100,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Admission criteria and course performance in an undergraduate respiratory care program: A case for non-cognitive measures.",
+        "Journal": "Respiratory Care Education Annual",
+        "Volume": "28",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "3-17",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111308224",
+    "coauthors": {
+        "215387": {
+            "firstname": "Megan",
+            "middleinitial": "",
+            "lastname": "Koster",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111698779",
+            "authorid": 215387,
+            "scholarlyactivityid": 47100,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "215388": {
+            "firstname": "Thomas",
+            "middleinitial": "Jack",
+            "lastname": "Wing II",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111308224",
+            "authorid": 215388,
+            "scholarlyactivityid": 47100,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47100,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111308224",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 76639,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Not just a degree: Preparing geoscience students for real-world success",
+        "Journal": "Journal of Geoscience Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "341087": {
+            "firstname": "Gregory",
+            "middleinitial": "W",
+            "lastname": "Shafer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341087,
+            "scholarlyactivityid": 76639,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341088": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 341088,
+            "scholarlyactivityid": 76639,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341089": {
+            "firstname": "Anne",
+            "middleinitial": "E",
+            "lastname": "Egger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341089,
+            "scholarlyactivityid": 76639,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76639,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

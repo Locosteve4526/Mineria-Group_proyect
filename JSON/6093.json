@@ -1,0 +1,75 @@
+{
+    "activityid": 6093,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Rejuvenating Aging Studies in Academic Libraries",
+        "Journal": "Collection Building",
+        "Volume": "",
+        "Month / Season": "2013-10-11",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111641510",
+    "coauthors": {
+        "19091": {
+            "firstname": "Marilia",
+            "middleinitial": "",
+            "lastname": "Antunez",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113120465",
+            "authorid": 19091,
+            "scholarlyactivityid": 6093
+        },
+        "19092": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Toevs",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111641510",
+            "authorid": 19092,
+            "scholarlyactivityid": 6093
+        },
+        "19093": {
+            "firstname": "Melissa",
+            "middleinitial": "Ann",
+            "lastname": "Kozel",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111146752",
+            "authorid": 19093,
+            "scholarlyactivityid": 6093
+        }
+    },
+    "status": [
+        {
+            "id": 6093,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 6093,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111641510",
+    "attachments": []
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 46503,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Healthcare Reviews and Physician Performance",
+        "Conference/Meeting Name": "Decision Sciences Institute Annual Meeting",
+        "Conference Location": "Austin, TX",
+        "Date or Date Range": "Fall 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Decision Sciences institue",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113108244",
+    "coauthors": {
+        "211992": {
+            "firstname": "Regis",
+            "middleinitial": "",
+            "lastname": "Terpend",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112095616",
+            "authorid": 211992,
+            "scholarlyactivityid": 46503
+        },
+        "211993": {
+            "firstname": "James",
+            "middleinitial": "Raymond",
+            "lastname": "Kroes Ph.D.",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113108244",
+            "authorid": 211993,
+            "scholarlyactivityid": 46503
+        },
+        "211994": {
+            "firstname": "Christian",
+            "middleinitial": "",
+            "lastname": "Rosetti",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 211994,
+            "scholarlyactivityid": 46503
+        }
+    },
+    "status": [
+        {
+            "id": 46503,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46503,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113108244",
+    "attachments": []
+}

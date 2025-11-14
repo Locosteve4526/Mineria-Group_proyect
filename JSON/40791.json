@@ -1,0 +1,93 @@
+{
+    "activityid": 40791,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Design Principles for Signal Detection in Modern Job Application Systems: Identifying Fabricated Qualifications",
+        "Journal": "Journal of Management Information Systems",
+        "Volume": "37",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "849-874",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Abstract. Hiring a new employee is traditionally thought to be an uncertain investment. This uncertainty is lessened by the presence of signals that describe job-fit. Ideally, job applicants objectively signal their qualifications, and those signals are correctly assessed by the hiring team. In reality, false signal manipulation is pervasive in the hiring process, mitigating the reliability of signals used to make hiring decisions. To combat these inefficiencies, this research proposes and evaluates SIGHT, a theoretical class of systems for more robust signal evaluation during the hiring process. This study proposes a framework of processes, attributes, and technological components of this new signaling system for job candidate assessment, and evaluates a prototype instantiation using a mock-interview paradigm. Results provide evidence that SIGHT systems can elicit and capture qualification signals beyond what can be traditionally obtained from a typical application, and that they can assess signals at levels better than unaided decision making alone.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106117",
+    "coauthors": {
+        "336799": {
+            "firstname": "Nathan",
+            "middleinitial": "",
+            "lastname": "Twyman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336799,
+            "scholarlyactivityid": 40791,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336800": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Pentland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106117",
+            "authorid": 336800,
+            "scholarlyactivityid": 40791,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336801": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Spitzley",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336801,
+            "scholarlyactivityid": 40791,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40791,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 40791,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 40791,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114106117",
+    "attachments": []
+}

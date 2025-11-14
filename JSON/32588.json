@@ -1,0 +1,86 @@
+{
+    "activityid": 32588,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Evaluating knee replacement mechanics during ADL with PID-controlled dynamic finite element analysis",
+        "Journal": "Computer methods in biomechanics and biomedical engineering",
+        "Volume": "17",
+        "Month / Season": null,
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "360-9",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Validated computational knee simulations are valuable tools for design phase development of knee replacement devices. Recently, a dynamic finite element (FE) model of the Kansas knee simulator was kinematically validated during gait and deep flexion cycles. In order to operate the computational simulator in the same manner as the experiment, a proportional-integral-derivative (PID) controller was interfaced with the FE model to control the quadriceps actuator excursion and produce a target flexion profile regardless of implant geometry or alignment conditions. The controller was also expanded to operate multiple actuators simultaneously in order to produce in vivo loading conditions at the joint during dynamic activities. Subsequently, the fidelity of the computational model was improved through additional muscle representation and inclusion of relative hip-ankle anterior-posterior (A-P) motion. The PID-controlled model was able to successfully recreate in vivo loading conditions (flexion angle, compressive joint load, medial-lateral load distribution or varus-valgus torque, internal-external torque, A-P force) for deep knee bend, chair rise, stance-phase gait and step-down activities.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "125701": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125701,
+            "scholarlyactivityid": 32588
+        },
+        "125702": {
+            "firstname": "M",
+            "middleinitial": "A",
+            "lastname": "Baldwin",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125702,
+            "scholarlyactivityid": 32588
+        },
+        "125703": {
+            "firstname": "Chadd ",
+            "middleinitial": "W",
+            "lastname": "Clary",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125703,
+            "scholarlyactivityid": 32588
+        },
+        "125704": {
+            "firstname": "Lorin ",
+            "middleinitial": "P",
+            "lastname": "Maletsky",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125704,
+            "scholarlyactivityid": 32588
+        },
+        "125705": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125705,
+            "scholarlyactivityid": 32588
+        }
+    },
+    "status": [
+        {
+            "id": 32588,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 52147,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Teaching Physics to Monks",
+        "Journal": "Cosmos",
+        "Volume": "86",
+        "Month / Season": "February",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "66-69",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "241835": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 241835,
+            "scholarlyactivityid": 52147,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "241836": {
+            "firstname": "Ilya",
+            "middleinitial": "",
+            "lastname": "Mandel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 241836,
+            "scholarlyactivityid": 52147,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52147,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

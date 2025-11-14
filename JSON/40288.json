@@ -1,0 +1,76 @@
+{
+    "activityid": 40288,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Root causes of errant ordered radiology exams: Results of a needs assessment",
+        "Journal": "Performance Improvement",
+        "Volume": "50",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "17-24",
+        "Publisher": "Wiley",
+        "DOI": "10.1002/pfi.20192",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pfi.20192",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110059",
+    "coauthors": {
+        "176154": {
+            "firstname": "Benjamin",
+            "middleinitial": "",
+            "lastname": "Duman",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176154,
+            "scholarlyactivityid": 40288
+        },
+        "176153": {
+            "firstname": "Seung",
+            "middleinitial": "Youn",
+            "lastname": "Chyung",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111112331",
+            "authorid": 176153,
+            "scholarlyactivityid": 40288
+        },
+        "176152": {
+            "firstname": "Steve",
+            "middleinitial": "",
+            "lastname": "Villachica",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 176152,
+            "scholarlyactivityid": 40288
+        },
+        "176151": {
+            "firstname": "Donald",
+            "middleinitial": "J",
+            "lastname": "Winiecki",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110059",
+            "authorid": 176151,
+            "scholarlyactivityid": 40288
+        }
+    },
+    "status": [
+        {
+            "id": 40288,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110059",
+    "attachments": []
+}

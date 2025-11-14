@@ -1,0 +1,52 @@
+{
+    "activityid": 18467,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Personal Assistance, Social Support and Caregiving",
+        "Conference/Meeting Name": "Annual Scientific meeting of the American Public Health Association",
+        "Conference Location": "Boston, MA",
+        "Date or Date Range": "2013-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "APHA",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111641510",
+    "coauthors": {
+        "70459": {
+            "firstname": "Elizabeth",
+            "middleinitial": "Lyon",
+            "lastname": "Hannah",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111715419",
+            "authorid": 70459,
+            "scholarlyactivityid": 18467
+        },
+        "70460": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Toevs",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111641510",
+            "authorid": 70460,
+            "scholarlyactivityid": 18467
+        }
+    },
+    "status": [
+        {
+            "id": 18467,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111641510",
+    "attachments": []
+}

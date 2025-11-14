@@ -1,0 +1,71 @@
+{
+    "activityid": 53138,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Integrating Flexible Assessments",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "Julu",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Boise State University Center for Teaching and Learning",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112145571",
+    "coauthors": {
+        "247640": {
+            "firstname": "Shawn",
+            "middleinitial": "R",
+            "lastname": "Simonson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 247640,
+            "scholarlyactivityid": 53138,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "247641": {
+            "firstname": "Noreen",
+            "middleinitial": "",
+            "lastname": "Beckie",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247641,
+            "scholarlyactivityid": 53138,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "247642": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Sanders",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247642,
+            "scholarlyactivityid": 53138,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53138,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112145571",
+    "attachments": []
+}

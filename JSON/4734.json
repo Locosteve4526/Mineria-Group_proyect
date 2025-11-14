@@ -1,0 +1,76 @@
+{
+    "activityid": 4734,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Mapping of Forest Alliances and Associations Using Fuzzy Systems and Nearest Neighbor Classifiers",
+        "Journal": "Remote Sensing of Environment",
+        "Volume": "112",
+        "Month / Season": "2008-03-18",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.rse.2007.07.014",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/bio_facpubs/26",
+        "Description/Abstract": "The study and management of biological communities depends on systems of classification and mapping for the organization and communication of resource information. Recent advances in remote sensing technology may enable the mapping forest plant associations using image classification techniques. But few areas outside Europe have alliances and associations described in detail sufficient to support remote sensing-based modeling. Northwestern Montana has one of the few plant association treatments in the United States compliant with the recently established National Vegetation Classification system. This project examined the feasibility of mapping forest plant associations using Landsat Enhanced Thematic Mapper data and advanced remote sensing technology and image classification techniques.\nSuitable reference data were selected from an extensive regional database of plot records. Fifteen percent of the plot samples were reserved for validation of map products, the remainder of plots designated as training data for map modeling. Key differentia for image classification were identified from a suite of spectral and biophysical variables. Fuzzy rules were formulated for partitioning physiognomic classes in the upper levels of our image classification hierarchy. Nearest neighbor classifiers were developed for classification of lower levels, the alliances and associations, where spectral and biophysical contrasts are less distinct.\nMaps were produced to reflect nine forest alliances and 24 associations across the study area. Error matrices were constructed for each map based on stratified random selections of map validation samples. Accuracy for the alliance map was estimated at 60%. Association classifiers provide between 54 and 86% accuracy within their respective alliances. Alternative techniques are proposed for aggregating classes and enhancing decision tree classifiers to model alliances and associations for interior forest types.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110143",
+    "coauthors": {
+        "14310": {
+            "firstname": "F.",
+            "middleinitial": "Jack",
+            "lastname": "Triepke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 14310,
+            "scholarlyactivityid": 4734
+        },
+        "14311": {
+            "firstname": "C.",
+            "middleinitial": "Kenneth",
+            "lastname": "Brewer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 14311,
+            "scholarlyactivityid": 4734
+        },
+        "14312": {
+            "firstname": "Daniel",
+            "middleinitial": "M.",
+            "lastname": "Leavell",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 14312,
+            "scholarlyactivityid": 4734
+        },
+        "14313": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 14313,
+            "scholarlyactivityid": 4734
+        }
+    },
+    "status": [
+        {
+            "id": 4734,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2008,
+            "termid": "2007/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110143",
+    "attachments": []
+}

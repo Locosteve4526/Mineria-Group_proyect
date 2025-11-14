@@ -1,0 +1,71 @@
+{
+    "activityid": 43967,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Joint Inversion of ER and GPR",
+        "Conference/Meeting Name": "SEG Annual Meeting",
+        "Conference Location": "Anaheim, CA",
+        "Date or Date Range": "October, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "SEG",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "199065": {
+            "firstname": "Diego",
+            "middleinitial": "",
+            "lastname": "Domenzain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 199065,
+            "scholarlyactivityid": 43967,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "199066": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Bradford",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 199066,
+            "scholarlyactivityid": 43967,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "199067": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 199067,
+            "scholarlyactivityid": 43967,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43967,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

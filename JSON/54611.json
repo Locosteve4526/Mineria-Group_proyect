@@ -1,0 +1,80 @@
+{
+    "activityid": 54611,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "The surprising role of social media: A national survey of psychology graduate program admissions directors.",
+        "Conference / Meeting Name": "Association for Psychological Science",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "May 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "256841": {
+            "firstname": "Laura",
+            "middleinitial": "",
+            "lastname": "Burton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256841,
+            "scholarlyactivityid": 54611,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "256842": {
+            "firstname": "R. Eric",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 256842,
+            "scholarlyactivityid": 54611,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "256843": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Cramblet Alvarez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256843,
+            "scholarlyactivityid": 54611,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54611,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54611,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

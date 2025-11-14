@@ -1,0 +1,52 @@
+{
+    "activityid": 11142,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Boise 150:  Boise as a Community",
+        "Conference/Meeting Name": "Boise I50",
+        "Conference Location": "Boise",
+        "Date or Date Range": "2013-02-08",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Idaho Humanities Council",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111113451",
+    "coauthors": {
+        "54055": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Bieter Jr",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111113451",
+            "authorid": 54055,
+            "scholarlyactivityid": 11142
+        },
+        "54056": {
+            "firstname": "Dave ",
+            "middleinitial": "",
+            "lastname": "Lachiondo",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 54056,
+            "scholarlyactivityid": 11142
+        }
+    },
+    "status": [
+        {
+            "id": 11142,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111113451",
+    "attachments": []
+}

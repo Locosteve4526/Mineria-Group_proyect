@@ -1,0 +1,104 @@
+{
+    "activityid": 40902,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Strong scaling for numerical weather prediction at petascale with the atmospheric model NUMA",
+        "Journal": "The International Journal of High Performance Computing Applications",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "1-16",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://journals.sagepub.com/doi/pdf/10.1177/1094342018763966",
+        "Description/Abstract": "Numerical weather prediction (NWP) has proven to be computationally challenging due to its inherent multiscale nature. Currently, the highest resolution global NWP models use a horizontal resolution of 9 km. At this resolution, many important processes in the atmosphere are not resolved. Needless to say, this introduces errors. In order to increase the resolution of NWP models, highly scalable atmospheric models are needed. The non-hydrostatic unified model of the atmosphere (NUMA), developed by the authors at the Naval Postgraduate School, was designed to achieve this purpose. NUMA is used by the Naval Research Laboratory, Monterey as the engine inside its next generation weather prediction system NEPTUNE. NUMA solves the fully compressible Navier\u2013Stokes equations by means of high-order Galerkin methods (both spectral element as well as discontinuous Galerkin methods can be used). NUMA is capable of running middle and upper atmosphere simulations since it does not make use of the shallow-atmosphere approximation. This article presents the performance analysis and optimization of the spectral element version of NUMA. The performance at different optimization stages is analyzed using a theoretical performance model as well as measurements via hardware counters. Machine-independent optimization is compared to machine-specific optimization using Blue Gene (BG)/Q vector intrinsics. The best portable version of the main computations was found to be about two times slower than the best non-portable version. By using vector intrinsics, the main computations reach 1.2 PFlops on the entire IBM Blue Gene supercomputer Mira (12% of the theoretical peak performance). The article also presents scalability studies for two idealized test cases that are relevant for NWP applications. The atmospheric model NUMA delivers an excellent strong scaling efficiency of 99% on the entire supercomputer Mira using a mesh with 1.8 billion grid points. This allows running a global forecast of a baroclinic wave test case at a 3-km uniform horizontal resolution and double precision within the time frame required for operational weather prediction.",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114108611",
+    "coauthors": {
+        "179771": {
+            "firstname": "Andreas",
+            "middleinitial": "",
+            "lastname": "Mueller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179771,
+            "scholarlyactivityid": 40902
+        },
+        "179772": {
+            "firstname": "Michal",
+            "middleinitial": "A",
+            "lastname": "Kopera",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179772,
+            "scholarlyactivityid": 40902
+        },
+        "179773": {
+            "firstname": "Simone",
+            "middleinitial": "",
+            "lastname": "Marras",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179773,
+            "scholarlyactivityid": 40902
+        },
+        "179774": {
+            "firstname": "Lucas",
+            "middleinitial": "C",
+            "lastname": "Wilcox",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179774,
+            "scholarlyactivityid": 40902
+        },
+        "179775": {
+            "firstname": "Tobin",
+            "middleinitial": "",
+            "lastname": "Isaac",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179775,
+            "scholarlyactivityid": 40902
+        },
+        "179776": {
+            "firstname": "Francis",
+            "middleinitial": "X",
+            "lastname": "Giraldo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179776,
+            "scholarlyactivityid": 40902
+        }
+    },
+    "status": [
+        {
+            "id": 40902,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114108611",
+    "attachments": [
+        {
+            "attachmentid": 12316,
+            "mimetype": "application/pdf",
+            "filename": "Mueller_et_al_2018.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlpWHg5L1dWR3NmNHphZS9uQStBUjZoSkxDYVFGYm1PQjVDcTBWVDBRYUlTTjdsV0IzcEkvK0Q%3D",
+            "filesize": 1498205
+        }
+    ]
+}

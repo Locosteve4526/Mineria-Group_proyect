@@ -1,0 +1,75 @@
+{
+    "activityid": 39275,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Domestic Migration and New Business Creation in the United States",
+        "Journal": "Journal of Small Business and Entrepreneurship",
+        "Volume": "26",
+        "Month / Season": "2013-01-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "14-Jan",
+        "Publisher": "Routledge",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643654",
+    "coauthors": {
+        "168175": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Baughn",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110250",
+            "authorid": 168175,
+            "scholarlyactivityid": 39275
+        },
+        "168176": {
+            "firstname": "Kent",
+            "middleinitial": "",
+            "lastname": "Neupert",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111643654",
+            "authorid": 168176,
+            "scholarlyactivityid": 39275
+        },
+        "168177": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Sugheir",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112089502",
+            "authorid": 168177,
+            "scholarlyactivityid": 39275
+        }
+    },
+    "status": [
+        {
+            "id": 39275,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 39275,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643654",
+    "attachments": []
+}

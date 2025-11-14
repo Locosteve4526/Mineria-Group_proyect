@@ -1,0 +1,77 @@
+{
+    "activityid": 43477,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Time-dependent Chemo-mechanical Analysis of Alkali-silica Reactio for the Disparate Geometry of Concrete Meso-structure",
+        "Journal": "Construction and Building Materials",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "195146": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 195146,
+            "scholarlyactivityid": 43477,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195147": {
+            "firstname": "Asif",
+            "middleinitial": "",
+            "lastname": "Rahman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195147,
+            "scholarlyactivityid": 43477
+        }
+    },
+    "status": [
+        {
+            "id": 43477,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 43477,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 43477,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114001675",
+    "attachments": []
+}

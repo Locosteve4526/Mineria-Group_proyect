@@ -1,0 +1,89 @@
+{
+    "activityid": 34945,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cStudy of style effects on OCR errors in the MEDLINE database\u201d",
+        "Name of Conference": "SPIE Electronic Imaging -- Document Recognition and Retrieval XII",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": "pp. 28-37",
+        "Publisher": "",
+        "Publisher Location": "Santa Clara, CA",
+        "Volume": "5676",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "The National Library of Medicine has developed a system for the automatic extraction of data from scanned journal\r\narticles to populate the MEDLINE database. Although the 5-engine OCR system used in this process exhibits good\r\nperformance overall, it does make errors in character recognition that must be corrected in order for the process to\r\nachieve the requisite accuracy. The correction process works by feeding words that have characters with less than 100%\r\nconfidence (as determined automatically by the OCR engine) to a human operator who then must manually verify the\r\nword or correct the error. The majority of these errors are contained in the affiliation information zone where the\r\ncharacters are in italics or small fonts. Therefore only affiliation information data is used in this research. This paper\r\nexamines the correlation between OCR errors and various character attributes in the MEDLINE database, such as font\r\nsize, italics, bold, etc. and OCR confidence levels. The motivation for this research is that if a correlation between the\r\ncharacter style and types of errors exists it should be possible to use this information to improve operator productivity\r\nby increasing the probability that the correct word option is presented to the human editor. We have determined that this\r\ncorrelation exists, in particular for the case of characters with diacritics.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142707": {
+            "firstname": "Penny",
+            "middleinitial": "",
+            "lastname": "Garrison",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142707,
+            "scholarlyactivityid": 34945,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142708": {
+            "firstname": "Diane",
+            "middleinitial": "",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142708,
+            "scholarlyactivityid": 34945,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "142709": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 142709,
+            "scholarlyactivityid": 34945,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142710": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142710,
+            "scholarlyactivityid": 34945,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34945,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2005,
+            "termid": "2004/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

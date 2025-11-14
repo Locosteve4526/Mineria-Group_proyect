@@ -1,0 +1,136 @@
+{
+    "activityid": 62445,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The 2019 SIM IT Issues and Trends Study.",
+        "Journal": "MISQE",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114227663",
+    "coauthors": {
+        "340454": {
+            "firstname": "Leon",
+            "middleinitial": "",
+            "lastname": "Kappelman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340454,
+            "scholarlyactivityid": 62445,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "340455": {
+            "firstname": "Vess",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340455,
+            "scholarlyactivityid": 62445,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "340456": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Maurer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340456,
+            "scholarlyactivityid": 62445,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "340457": {
+            "firstname": "Katia",
+            "middleinitial": "",
+            "lastname": "Guerra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114227663",
+            "authorid": 340457,
+            "scholarlyactivityid": 62445,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "340458": {
+            "firstname": "Russel",
+            "middleinitial": "",
+            "lastname": "Torres",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340458,
+            "scholarlyactivityid": 62445,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "340459": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Snyder",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340459,
+            "scholarlyactivityid": 62445,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "340460": {
+            "firstname": "Kevin",
+            "middleinitial": "",
+            "lastname": "Kim",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340460,
+            "scholarlyactivityid": 62445,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62445,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 62445,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114227663",
+    "attachments": []
+}

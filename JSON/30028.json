@@ -1,0 +1,85 @@
+{
+    "activityid": 30028,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Closing the reading gap with virtual maze environments",
+        "Journal": "Lecture Notes in Computer Science",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "108023": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Gabel",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 108023,
+            "scholarlyactivityid": 30028
+        },
+        "108022": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 108022,
+            "scholarlyactivityid": 30028
+        },
+        "108021": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 108021,
+            "scholarlyactivityid": 30028
+        },
+        "108020": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 108020,
+            "scholarlyactivityid": 30028
+        }
+    },
+    "status": [
+        {
+            "id": 30028,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 30028,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

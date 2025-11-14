@@ -1,0 +1,109 @@
+{
+    "activityid": 54804,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A New Feature Extraction Approach for Script Invariant Handwritten Numeral Recognition",
+        "Journal": "Expert Systems",
+        "Volume": "38",
+        "Month / Season": "",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "e12699",
+        "Publisher": "Wiley",
+        "DOI": "DOI: 10.1111/exsy.12699",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Handwritten numeral recognition is a challenging research problem because of the enormous varieties of styles in which human beings write the numerals. Several researchers have tried to find solutions to this problem with exceptional recognition accuracies. However, most of these solutions have been dedicated to single script numerals. Such methods are inappropriate for multi-lingual nations such as India where a large number of scripts are used. Keeping this issue in mind, a new feature descriptor named symbolization of binary images (SBI) is introduced here for the recognition of handwritten numerals of different scripts. Effectiveness of SBI is supported with experiments showing its script-invariant nature. Classification of numerals using a multiclass support vector machine (SVM) classifier yields the recognition accuracies of 98.18, 96.22, 96.52, and 95.53% on datasets of numerals written in four popular scripts of the world: Arabic, Bangla, Devanagari, and Latin, respectively. This scheme has also been extended to the situation when the script used is not known a priori or the numerals written in a document belong to pairs of mixed scripts of {Arabic, Devanagari, Bangla} with Latin producing recognition rates of 92.97, 91.25, and 91.67%, respectively. When all four scripts are mixed, the recognition rate is still 90.98% overall. Encouraging outcomes suggest that the proposed SBI feature descriptor can recognize numerals invariant of the script class.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "268712": {
+            "firstname": "P.K.",
+            "middleinitial": "",
+            "lastname": "Singh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268712,
+            "scholarlyactivityid": 54804,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268713": {
+            "firstname": "I.",
+            "middleinitial": "",
+            "lastname": "Chatterjee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268713,
+            "scholarlyactivityid": 54804,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268714": {
+            "firstname": "Ram",
+            "middleinitial": "",
+            "lastname": "Sarkar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268714,
+            "scholarlyactivityid": 54804,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268715": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 268715,
+            "scholarlyactivityid": 54804,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "268716": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Nasipuri",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 268716,
+            "scholarlyactivityid": 54804,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54804,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": [
+        {
+            "attachmentid": 35032,
+            "mimetype": "application/pdf",
+            "filename": "2021 Expert Systems Digit Recognition-published.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25yUkE5UzdyK0xwK3hJRHVtR01JQXYyNVRuRmdJcWZkSUtEd21QWmxqRXhpMzNSZWFJUDJiVDFwblR1REdydmV1M3NsUlpoS0dCWEZacjV3L1ZpLzBPOHJvV0FTWm1Jekw4PQ%3D%3D",
+            "filesize": 9228258
+        }
+    ]
+}

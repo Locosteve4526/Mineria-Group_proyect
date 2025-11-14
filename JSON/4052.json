@@ -1,0 +1,66 @@
+{
+    "activityid": 4052,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A multisite study of learning in introductory psychology classes",
+        "Journal": "Teaching of Psychology",
+        "Volume": "39",
+        "Month / Season": "2012-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "170-175",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "11914": {
+            "firstname": "Regan",
+            "middleinitial": "A. R.",
+            "lastname": "Gurung",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11914,
+            "scholarlyactivityid": 4052
+        },
+        "11915": {
+            "firstname": "David",
+            "middleinitial": "B.",
+            "lastname": "Daniel",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11915,
+            "scholarlyactivityid": 4052
+        },
+        "11916": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 11916,
+            "scholarlyactivityid": 4052
+        }
+    },
+    "status": [
+        {
+            "id": 4052,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 21443,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Emotional Work of Revision",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": " ",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Role:  Co-Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "111110347",
+    "coauthors": {
+        "113458": {
+            "firstname": "Bruce",
+            "middleinitial": "P",
+            "lastname": "Ballenger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110347",
+            "authorid": 113458,
+            "scholarlyactivityid": 21443,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "113459": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Meyers",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113459,
+            "scholarlyactivityid": 21443,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 21443,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110347",
+    "attachments": []
+}

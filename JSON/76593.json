@@ -1,0 +1,84 @@
+{
+    "activityid": 76593,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using Machine Learning to Predict Biosolids Production in a Wastewater Treatment Plant",
+        "Journal": "Environmental Modeling &amp; Software",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045153",
+    "coauthors": {
+        "341196": {
+            "firstname": "Gregor",
+            "middleinitial": "R",
+            "lastname": "Posadas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341196,
+            "scholarlyactivityid": 76593,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "341197": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Davis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341197,
+            "scholarlyactivityid": 76593,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341198": {
+            "firstname": "Sondra",
+            "middleinitial": "M",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045153",
+            "authorid": 341198,
+            "scholarlyactivityid": 76593,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76593,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 76593,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112045153",
+    "attachments": []
+}

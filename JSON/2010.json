@@ -1,0 +1,56 @@
+{
+    "activityid": 2010,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Diversity in gifted education.",
+        "Journal": "Encyclopedia of Giftedness, Creativity, and Talent",
+        "Volume": "1",
+        "Month / Season": "2011-03-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "253-257",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112054227",
+    "coauthors": {
+        "5164": {
+            "firstname": "C",
+            "middleinitial": "",
+            "lastname": "Wickstrom",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5164,
+            "scholarlyactivityid": 2010
+        },
+        "5165": {
+            "firstname": "Diane",
+            "middleinitial": "R",
+            "lastname": "Boothe",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112054227",
+            "authorid": 5165,
+            "scholarlyactivityid": 2010
+        }
+    },
+    "status": [
+        {
+            "id": 2010,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112054227",
+    "attachments": []
+}

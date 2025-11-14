@@ -1,0 +1,89 @@
+{
+    "activityid": 32465,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Mesoscale Modeling of Freezing Process-induced Damage Mechanisms in Concrete",
+        "Conference/Meeting Name": "ASCE EMI 2017 Conference Minisymposium: Multi-scale Mechanics and Coupled Problems, MS 101-Coupled Environmental-Mechanical Response of Civil Infrastructures and Materials",
+        "Conference Location": "San Diego, CA",
+        "Date or Date Range": "June 2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Freezing in a porous media considering the heterogeneous microstructure like concrete is a very complicated process, which involves the interactions between porous media moisture migration, heat transfer, phase change, and deformation. Existing studies have considered heat-moisture migration, while some others have focused on hydro-mechanical coupling. However, there is in lack of study on freezing-induced damage that includes the coupled thermal-hydro-mechanical (THM) behavior of concrete considering the heterogeneous microstructure. The objective of this research is to determine a comprehensive mathematical model of concrete upon freezing, to serve as a basis for further development and to guide experimental studies considering the microstructural features characterized by X-ray Computational Tomography. Including the comprehensive influencing factors, this study developed a fully coupled THM model that describes the microstructural interplays between stress and strain, water migration, and heat transfer. The governing equations are solved by finite element method. Combined with a three-dimensional finite-element analysis, the feasibility of the established mathematical model is validated. This study produces a new mechanical-environmental damage model and a quantitative damage factor based on pore structures in concrete. This numerical model can be used to assess the effect of cooling rate, the role of pore-size distribution, the role of permeability, the effect of cross section size and shape, the effect of superimposed stresses attributable to applied loads, and other factors that cannot easily be evaluated by current tests. The pore damage factor can be used for describing the mechanism of freezing-induced damage and it has been proved to be effective for evaluating the concrete damage subject to frozen regions. ",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "125222": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 125222,
+            "scholarlyactivityid": 32465,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125223": {
+            "firstname": "Aminul",
+            "middleinitial": "",
+            "lastname": "Islam",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125223,
+            "scholarlyactivityid": 32465,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "125224": {
+            "firstname": "Aidin",
+            "middleinitial": "",
+            "lastname": "Golrokh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125224,
+            "scholarlyactivityid": 32465,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32465,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 32465,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 32465,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114001675",
+    "attachments": []
+}

@@ -1,0 +1,91 @@
+{
+    "activityid": 59735,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Dots-on-Plots: A Web Application to Analyze Stress-Strain Curves from Tensile Tests of Soft Tissue",
+        "Journal": "Journal of Biomechanical Engineering",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "279163": {
+            "firstname": "Derek",
+            "middleinitial": "",
+            "lastname": "Nesbitt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279163,
+            "scholarlyactivityid": 59735,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "279164": {
+            "firstname": "Miranda",
+            "middleinitial": "",
+            "lastname": "Nelson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279164,
+            "scholarlyactivityid": 59735,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "279165": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Shannon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 279165,
+            "scholarlyactivityid": 59735
+        },
+        "279166": {
+            "firstname": "Trevor",
+            "middleinitial": "Justin",
+            "lastname": "Lujan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113124248",
+            "authorid": 279166,
+            "scholarlyactivityid": 59735
+        }
+    },
+    "status": [
+        {
+            "id": 59735,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59735,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

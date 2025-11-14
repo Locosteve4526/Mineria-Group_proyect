@@ -1,0 +1,62 @@
+{
+    "activityid": 17294,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Coherent Calculus Design: Creating Faculty Buy-in for Student Success",
+        "Conference/Meeting Name": "ASEE Annual Conference and Expo",
+        "Conference Location": "Seattle, WA",
+        "Date or Date Range": "2015-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "American Society for Engineering Education",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110041",
+    "coauthors": {
+        "68033": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Bullock",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110582",
+            "authorid": 68033,
+            "scholarlyactivityid": 17294
+        },
+        "68034": {
+            "firstname": "Janet",
+            "middleinitial": "M",
+            "lastname": "Callahan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033791",
+            "authorid": 68034,
+            "scholarlyactivityid": 17294
+        },
+        "68035": {
+            "firstname": "Susan",
+            "middleinitial": "E",
+            "lastname": "Shadle",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 68035,
+            "scholarlyactivityid": 17294
+        }
+    },
+    "status": [
+        {
+            "id": 17294,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110041",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 42574,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling Chemical Reactions in Physics",
+        "Journal": "Journal of Chemical Education",
+        "Volume": "96",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "100-103",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://pubs.acs.org/doi/abs/10.1021/acs.jchemed.8b00709",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "214392": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 214392,
+            "scholarlyactivityid": 42574,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "214393": {
+            "firstname": "Elizabeth",
+            "middleinitial": "",
+            "lastname": "Sippola",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 214393,
+            "scholarlyactivityid": 42574,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "214394": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Watkins",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 214394,
+            "scholarlyactivityid": 42574,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42574,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

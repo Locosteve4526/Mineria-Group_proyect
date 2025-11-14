@@ -1,0 +1,76 @@
+{
+    "activityid": 48884,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Spatial dynamics of pathogen transmission in emergent vectors with explicit host interactions ",
+        "Journal": "Physical Review E (Statistical, Nonlinear, and Soft Matter Physics) or PLoS One",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Although the classical theories commonly used for the transmission dynamics of\nvector-borne infections such as malaria, dengue and West Nile virus overlook\nspatial heterogeneities, the distributions of larval habitat, potential hosts,\nand the density and flight pattterns of the vectors all strongly influence\ntheir transmission. Each of these creates a highly irregular spatiotemporal\npatchwork through which pathogens may conduct, propelled forward by a mobile\nvector sequentially acquiring, harboring, and creating new infections.\nTo investigate these dynamics in a simple setting, a single\ncohort of locally-emergent vectors is considered. Emergent mosquitoes disperse\nto encounter available hosts in their proximity, some of which are assumed to\nharbor transmissible pathogens, and they are formulated to have contact\ninteractions, or bloodmeals, with these hosts for potential transmission\nevents. A spatial, probabilistic formalism for transmission is developed,\nextending the classical theory, and it is applied to a case of simple host\ndynamics: hosts are regarded as stationary and universally available to focus\non the infectious dynamics of primarily endophagic vectors. A latency prior to\ninfectiousness in the vector is included and the mosquito population feeds and\nperishes according to classic malarial models. The infectious portion of the\nvector population is compared with other sub-cohorts of the emergence,\nincluding the fed and infected populations, and found to consist of\nlonger-lived mosquitoes that explore an extended region of space about the\nlarval source where they may infect distal hosts. The transmission formalism\nis developed as a continuous space and real-time model carried out in\ntwo-dimensions, and it unites classical Ross/Macdonald dynamics with a\nreaction/diffusion approach. Connections to classical malarial epidemiology are\nmade throughout to emphasize the role of the included mosquito dispersal.\n\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067626",
+    "coauthors": {
+        "253828": {
+            "firstname": "Richard",
+            "middleinitial": "C",
+            "lastname": "Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067626",
+            "authorid": 253828,
+            "scholarlyactivityid": 48884,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48884,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 48884,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 48884,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 48884,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114067626",
+    "attachments": []
+}

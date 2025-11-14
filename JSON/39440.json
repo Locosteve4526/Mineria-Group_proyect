@@ -1,0 +1,84 @@
+{
+    "activityid": 39440,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Return and Liquidity Response to Fraud and SEC Investigations",
+        "Journal": "Journal of Economics and Finance",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114086454",
+    "coauthors": {
+        "303608": {
+            "firstname": "Jared",
+            "middleinitial": "F",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114086454",
+            "authorid": 303608,
+            "scholarlyactivityid": 39440,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "303609": {
+            "firstname": "Brandon",
+            "middleinitial": "",
+            "lastname": "Morris",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 303609,
+            "scholarlyactivityid": 39440,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "303610": {
+            "firstname": "Kathleen",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 303610,
+            "scholarlyactivityid": 39440,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 39440,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 39440,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114086454",
+    "attachments": []
+}

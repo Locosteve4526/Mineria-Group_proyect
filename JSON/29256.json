@@ -1,0 +1,75 @@
+{
+    "activityid": 29256,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Pressure Thresholds and Stiffness on the Plantar Surface of the Human Foot",
+        "Journal": "Ergonomics",
+        "Volume": "",
+        "Month / Season": "Sept.",
+        "Issue Number": "online publication",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "1-12",
+        "Publisher": "Taylor and Francis",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.tandfonline.com/doi/full/10.1080/00140139.2016.1229042",
+        "Description/Abstract": "A methodology to assess Pressure Discomfort Thresholds (PDT), Pressure Pain Thresholds (PPT) and tissue stiffness on the plantar surface of the foot was developed. Ten male and 10 female participants volunteered for the study. Foot landmarks were used to create a standardised grid-type template of 95 points. For each test point, PPT and PDT values were obtained, and stiffness was calculated for each of the 20 participants. Cluster analyses were performed to determine the regions of similarity for the three dependent variables, PPT, PDT and stiffness. Moran\u2019s-I-index was used to determine the spatial auto correlations. The use of k-means clustering showed five distinct clusters while the three dependent variables showed strong correlations to each other. Morisita\u2019s similarity index was used to check the similarity of the grid among all participants. Both male and female participants showed a Morisita\u2019s index greater than 0.7 confirming the reliability of the foot template.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111699531",
+    "coauthors": {
+        "101621": {
+            "firstname": "Uwe",
+            "middleinitial": "",
+            "lastname": "Reischl",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111699531",
+            "authorid": 101621,
+            "scholarlyactivityid": 29256,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "101622": {
+            "firstname": "Ravindra",
+            "middleinitial": "S.",
+            "lastname": "Goonetilleke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 101622,
+            "scholarlyactivityid": 29256,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "101623": {
+            "firstname": "T. W.",
+            "middleinitial": "",
+            "lastname": "Weerasinghe",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 101623,
+            "scholarlyactivityid": 29256,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29256,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111699531",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 6522,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Scattered Data Interpolation on Embedded Submanifolds with Restricted Positive Definite Kernels: Sobolev Error Estimates",
+        "Journal": "SIAM Journal on Numerical Analysis",
+        "Volume": "50",
+        "Month / Season": "2012-06-01",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "1753-1776",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1137/110821846",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/102",
+        "Description/Abstract": "In this paper we present error estimates for kernel interpolation at scattered sites on manifolds. The kernels we consider will be obtained by the restriction of positive definite kernels on Rd, such as radial basis functions, to a smooth, compact embedded submanifold M ? Rd with no boundary. For restricted kernels having finite smoothness, we provide a complete characterization of the native space on M. After this and some preliminary setup, we present Sobolev-type error estimates for the interpolation problem for smooth and non-smooth kernels. In the case of non-smooth kernels, we provide error estimates for target functions too rough to be within the native space of the kernel. Numerical results verifying the theory are also presented for a one-dimensional curve embedded in R3 and a two-dimensional torus.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "20318": {
+            "firstname": "Edward",
+            "middleinitial": "J.",
+            "lastname": "Fuselier",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20318,
+            "scholarlyactivityid": 6522
+        },
+        "20319": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 20319,
+            "scholarlyactivityid": 6522
+        }
+    },
+    "status": [
+        {
+            "id": 6522,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

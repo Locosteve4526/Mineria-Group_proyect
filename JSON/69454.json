@@ -1,0 +1,62 @@
+{
+    "activityid": 69454,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Permutation Resemblance",
+        "Journal": "IEEE Transactions on Information Theory",
+        "Volume": "69",
+        "Month / Season": "October",
+        "Issue Number": "10",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "6711 - 6718",
+        "Publisher": "IEEE",
+        "DOI": "10.1109/TIT.2023.3292598",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://ieeexplore.ieee.org/document/10173675",
+        "Description/Abstract": "&lt;span&gt;Motivated by the problem of constructing bijective maps with low differential uniformity, we introduce the notion of permutation resemblance of a function, which looks to measure the distance a given map is from being a permutation. We prove several results concerning permutation resemblance and show how it can be used to produce low differentially uniform bijections. We also study the permutation resemblance of planar functions, which over fields of odd characteristic are known not to be bijections and to have the optimal differential uniformity.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114254618",
+    "coauthors": {
+        "313686": {
+            "firstname": "Li-An",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114254618",
+            "authorid": 313686,
+            "scholarlyactivityid": 69454,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "313687": {
+            "firstname": "Robert",
+            "middleinitial": "S",
+            "lastname": "Coulter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313687,
+            "scholarlyactivityid": 69454,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69454,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254618",
+    "attachments": []
+}

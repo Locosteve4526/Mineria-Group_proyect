@@ -1,0 +1,85 @@
+{
+    "activityid": 6514,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Augmenting the Immersed Boundary Method with Radial Basis Functions (RBFs) for the Modeling of Platelets in Hemodynamic Flows",
+        "Journal": "Int. J. Numer. Meth. Fluids",
+        "Volume": "79",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "536-557",
+        "Publisher": "",
+        "DOI": "10.1002/fld.4061",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "113207": {
+            "firstname": "V",
+            "middleinitial": "",
+            "lastname": "Shankar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113207,
+            "scholarlyactivityid": 6514
+        },
+        "113208": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 113208,
+            "scholarlyactivityid": 6514
+        },
+        "113209": {
+            "firstname": "A",
+            "middleinitial": "L",
+            "lastname": "Fogelson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113209,
+            "scholarlyactivityid": 6514
+        },
+        "113210": {
+            "firstname": "R",
+            "middleinitial": "M",
+            "lastname": "Kirby",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113210,
+            "scholarlyactivityid": 6514
+        }
+    },
+    "status": [
+        {
+            "id": 6514,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 6514,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

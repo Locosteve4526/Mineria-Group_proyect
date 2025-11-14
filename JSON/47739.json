@@ -1,0 +1,83 @@
+{
+    "activityid": 47739,
+    "fields": {
+        "Type": "Book",
+        "Title": "General, Organic, and Biological Chemistry",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114068279",
+    "coauthors": {
+        "219351": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Saunders",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114068279",
+            "authorid": 219351,
+            "scholarlyactivityid": 47739,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "219352": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 219352,
+            "scholarlyactivityid": 47739,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "219353": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Steiner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219353,
+            "scholarlyactivityid": 47739,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47739,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 47739,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114068279",
+    "attachments": []
+}

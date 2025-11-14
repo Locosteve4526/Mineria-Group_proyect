@@ -1,0 +1,52 @@
+{
+    "activityid": 16972,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "ICD-10 Implementation",
+        "Conference/Meeting Name": "NvHIMA Annual Meeting &amp; Convention",
+        "Conference Location": "Reno, NV",
+        "Date or Date Range": "2010-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "Nevada Health Information Management Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "67051": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 67051,
+            "scholarlyactivityid": 16972
+        },
+        "67052": {
+            "firstname": "Cindy",
+            "middleinitial": "",
+            "lastname": "Dennis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 67052,
+            "scholarlyactivityid": 16972
+        }
+    },
+    "status": [
+        {
+            "id": 16972,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

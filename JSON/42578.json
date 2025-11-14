@@ -1,0 +1,63 @@
+{
+    "activityid": 42578,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Constructing Entities in Scientific Models",
+        "Name of Conference": "International Conference on the Learning Sciences",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "190045": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 190045,
+            "scholarlyactivityid": 42578,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "190046": {
+            "firstname": "Lauren",
+            "middleinitial": "",
+            "lastname": "Barth Cohen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 190046,
+            "scholarlyactivityid": 42578,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42578,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

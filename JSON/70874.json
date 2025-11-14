@@ -1,0 +1,62 @@
+{
+    "activityid": 70874,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:11pt;&quot;&gt;Electrical and Optical Response of the Optically Gated Transistor with Addition of Metal (M = Ag, Al, Cr, Cu, Ti, W) to the Gate&lt;/span&gt;",
+        "Journal": "Electronics",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;&lt;strong&gt;Abstract: &lt;/strong&gt;The addition of metal (M=Ag, Al, Cr, Cu, Ti, W) to the gate of the optically gated transistor (OGT) is studied to explore the effect of the metal dopant on the electrical properties of the OGT. The purpose of this work was to investigate if the OGT could be designed to have tunable photoresponse and electrical properties through simple metal doping. It is known that doping metals into amorphous Ge&lt;sub&gt;2&lt;/sub&gt;Se&lt;sub&gt;3&lt;/sub&gt; can alter the concentration of defect states within the material and enhance the device's responsivity in the UV to NIR region (385 nm - 1200 nm). The addition of W and Cr into the OGT significantly reduced the energy gap, increasing the responsivity 18 times under 470 nm LED illumination. This research direction suggests that the energy gap of the OGT can be tuned to specific applications by incorporating dopants.&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "112017702",
+    "coauthors": {
+        "321408": {
+            "firstname": "Md Faisal",
+            "middleinitial": "",
+            "lastname": "Kabir",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 321408,
+            "scholarlyactivityid": 70874,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "321409": {
+            "firstname": "Kristy",
+            "middleinitial": "A",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112017702",
+            "authorid": 321409,
+            "scholarlyactivityid": 70874,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70874,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112017702",
+    "attachments": []
+}

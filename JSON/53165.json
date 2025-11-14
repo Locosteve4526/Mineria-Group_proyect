@@ -1,0 +1,63 @@
+{
+    "activityid": 53165,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Next Generation PIE at MaCS: New/Improved Capabilities and Management for NSUF Projects",
+        "Name of Conference": "ANS 2021 Annual Meeting",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "302 - 303",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "124",
+        "Issue Number": "",
+        "DOI": "dx.doi.org/10.13182/T124-35146",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113124431",
+    "coauthors": {
+        "274458": {
+            "firstname": "Yaqiao",
+            "middleinitial": "",
+            "lastname": "Wu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113124431",
+            "authorid": 274458,
+            "scholarlyactivityid": 53165,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274459": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Burgener",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274459,
+            "scholarlyactivityid": 53165,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53165,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124431",
+    "attachments": []
+}

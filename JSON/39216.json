@@ -1,0 +1,78 @@
+{
+    "activityid": 39216,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Faculty Time Allocation Workload Knowledge Study (TAWKS)",
+        "Outlet (if applicable)": "Mobile device application",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Role:  Supporting",
+        "Origin": "Manual"
+    },
+    "facultyid": "113160599",
+    "coauthors": {
+        "167860": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Ziker",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111715805",
+            "authorid": 167860,
+            "scholarlyactivityid": 39216
+        },
+        "167859": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Genuchi",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113107763",
+            "authorid": 167859,
+            "scholarlyactivityid": 39216
+        },
+        "167858": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Demps",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113160599",
+            "authorid": 167858,
+            "scholarlyactivityid": 39216
+        }
+    },
+    "status": [
+        {
+            "id": 39216,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 39216,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113160599",
+    "attachments": []
+}

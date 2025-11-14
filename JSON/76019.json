@@ -1,0 +1,62 @@
+{
+    "activityid": 76019,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Public Philosophy with Partners",
+        "Conference/Meeting Name": "Public Philosophy 7th Annual Meeting",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111636450",
+    "coauthors": {
+        "337769": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Crowley",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 337769,
+            "scholarlyactivityid": 76019
+        },
+        "337768": {
+            "firstname": "Jared",
+            "middleinitial": "L",
+            "lastname": "Talley",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111636450",
+            "authorid": 337768,
+            "scholarlyactivityid": 76019
+        },
+        "337767": {
+            "firstname": "Ed",
+            "middleinitial": "",
+            "lastname": "Ferrier",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337767,
+            "scholarlyactivityid": 76019
+        }
+    },
+    "status": [
+        {
+            "id": 76019,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111636450",
+    "attachments": []
+}

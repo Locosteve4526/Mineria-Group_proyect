@@ -1,0 +1,67 @@
+{
+    "activityid": 23508,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Strategy for designing intrinsic educational games",
+        "Name of Conference": "",
+        "Month / Season": "2012-06-30",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "545-554",
+        "Publisher": "AACE",
+        "Publisher Location": "Chesapeake, VA USA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "78548": {
+            "firstname": "Beomkyu",
+            "middleinitial": "",
+            "lastname": "Choi",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78548,
+            "scholarlyactivityid": 23508
+        },
+        "78549": {
+            "firstname": "Myemgsuk",
+            "middleinitial": "",
+            "lastname": "Ko",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78549,
+            "scholarlyactivityid": 23508
+        },
+        "78550": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 78550,
+            "scholarlyactivityid": 23508
+        }
+    },
+    "status": [
+        {
+            "id": 23508,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

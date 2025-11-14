@@ -1,0 +1,56 @@
+{
+    "activityid": 3833,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "How to Predict Future Duration from Present Age",
+        "Journal": "Philosophical Quarterly",
+        "Volume": "",
+        "Month / Season": "2006-03-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "16-38",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111194862",
+    "coauthors": {
+        "11265": {
+            "firstname": "Brian",
+            "middleinitial": "Bodily",
+            "lastname": "Kierland",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111194862",
+            "authorid": 11265,
+            "scholarlyactivityid": 3833
+        },
+        "11266": {
+            "firstname": "Brad",
+            "middleinitial": "",
+            "lastname": "Monton",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11266,
+            "scholarlyactivityid": 3833
+        }
+    },
+    "status": [
+        {
+            "id": 3833,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111194862",
+    "attachments": []
+}

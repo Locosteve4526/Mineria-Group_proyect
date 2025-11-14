@@ -1,0 +1,45 @@
+{
+    "activityid": 29201,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Time Travel with Analytical Chemistry",
+        "Conference/Meeting Name": "Department of Chemistry and Biochemistry Seminar",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114044110",
+    "coauthors": {
+        "101373": {
+            "firstname": "Michael",
+            "middleinitial": "P",
+            "lastname": "Callahan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114044110",
+            "authorid": 101373,
+            "scholarlyactivityid": 29201,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29201,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114044110",
+    "attachments": []
+}

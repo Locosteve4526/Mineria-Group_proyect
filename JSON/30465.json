@@ -1,0 +1,66 @@
+{
+    "activityid": 30465,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Grounded Theory Analysis of Instructors Creating Online Courses",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "2016-08-12",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002257",
+    "coauthors": {
+        "111528": {
+            "firstname": "Sally",
+            "middleinitial": "",
+            "lastname": "Baldwin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 111528,
+            "scholarlyactivityid": 30465
+        },
+        "111529": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 111529,
+            "scholarlyactivityid": 30465
+        },
+        "111530": {
+            "firstname": "Norm",
+            "middleinitial": "",
+            "lastname": "Friesen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002257",
+            "authorid": 111530,
+            "scholarlyactivityid": 30465
+        }
+    },
+    "status": [
+        {
+            "id": 30465,
+            "status": "Work Discontinued",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 7,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114002257",
+    "attachments": []
+}

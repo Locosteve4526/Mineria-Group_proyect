@@ -1,0 +1,129 @@
+{
+    "activityid": 33755,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Does the Phrase &quot;Conspiracy Theory&quot; Matter?",
+        "Journal": "Society",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "1-8",
+        "Publisher": "Springer",
+        "DOI": "https://doi.org/10.1007/s12115-023-00882-5",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111648",
+    "coauthors": {
+        "320778": {
+            "firstname": "Matthew",
+            "middleinitial": "R.X.",
+            "lastname": "Dentith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320778,
+            "scholarlyactivityid": 33755
+        },
+        "320779": {
+            "firstname": "Virginia",
+            "middleinitial": "A",
+            "lastname": "Husting",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615774",
+            "authorid": 320779,
+            "scholarlyactivityid": 33755
+        },
+        "320780": {
+            "firstname": "Martin",
+            "middleinitial": "Bernard",
+            "lastname": "Orr Ph.D.",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111648",
+            "authorid": 320780,
+            "scholarlyactivityid": 33755
+        }
+    },
+    "status": [
+        {
+            "id": 33755,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 33755,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 33755,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 33755,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 33755,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 33755,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 33755,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 33755,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111111648",
+    "attachments": []
+}

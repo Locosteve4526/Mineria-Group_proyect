@@ -1,0 +1,83 @@
+{
+    "activityid": 32871,
+    "fields": {
+        "Type": "Book",
+        "Title": "Real-Time Digital Signal Processing from MATLAB to C with the TMS320C6x DSPs",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "3rd",
+        "Volume": "N/A",
+        "Publisher": "CRC Press",
+        "Publisher Location": "Boca Raton, Florida",
+        "ISBN": "978-1-4987-8101-5",
+        "Author/Editor of Larger Work": "N/A",
+        "Title of Larger Work": "N/A",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://rt-dsp.com",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112139424",
+    "coauthors": {
+        "127580": {
+            "firstname": "Thaddeus",
+            "middleinitial": "Baynard",
+            "lastname": "Welch",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112139424",
+            "authorid": 127580,
+            "scholarlyactivityid": 32871,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "127581": {
+            "firstname": "Cameron",
+            "middleinitial": "H.G.",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 127581,
+            "scholarlyactivityid": 32871,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "127582": {
+            "firstname": "Michael",
+            "middleinitial": "G.",
+            "lastname": "Morrow",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 127582,
+            "scholarlyactivityid": 32871,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32871,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 32871,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112139424",
+    "attachments": []
+}

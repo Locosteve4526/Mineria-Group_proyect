@@ -1,0 +1,45 @@
+{
+    "activityid": 27854,
+    "fields": {
+        "Type": "Book",
+        "Title": "David Hume's Humanity: The Philosophy of Common Life and Its Limits",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643642",
+    "coauthors": {
+        "87786": {
+            "firstname": "Scott",
+            "middleinitial": "E",
+            "lastname": "Yenor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643642",
+            "authorid": 87786,
+            "scholarlyactivityid": 27854
+        }
+    },
+    "status": [
+        {
+            "id": 27854,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643642",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 48082,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Analysis of Black Hole Router Attack in Network-on-chip",
+        "Name of Conference": "International Midwest Symposium on Circuits and Systems ",
+        "Month / Season": "August",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "Dallas, TX",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "222005": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 222005,
+            "scholarlyactivityid": 48082,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "222006": {
+            "firstname": "Luka",
+            "middleinitial": "",
+            "lastname": "Daoud",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222006,
+            "scholarlyactivityid": 48082,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48082,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

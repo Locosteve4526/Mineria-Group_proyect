@@ -1,0 +1,62 @@
+{
+    "activityid": 29498,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": " Improving differential item functioning identification with small samples: Weighted Area Method (WAM)",
+        "Conference/Meeting Name": "Annual meeting of the American Educational Research Association",
+        "Conference Location": "San Antonio, TX",
+        "Date or Date Range": "April 2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "American Educational Research Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "When verifying the existence of equal educational opportunities, fair and unbiased tests must be considered.  Unbiased tests can exist only with constant examination for potential racial and cultural bias.  Test assessment becomes extremely challenging when subpopulations are small.   To address this assessment challenge, a new Weighted Area Method (WAM) for differential item functioning (DIF) identification was studied.   In Item Response Theory (IRT), WAM used the IIC curve as a weighting strategy on the area between two ICC curves to identify biased items.  The performance of the Mantel-Haenszel and Rudner\u2019s Area method to WAM were compared in a very large SAS simulation study representing group sizes ranging between 30 and 1000. Results show WAM\u2019s promise for DIF detection in small samples.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114046497",
+    "coauthors": {
+        "145044": {
+            "firstname": "Carl",
+            "middleinitial": "F",
+            "lastname": "Siebert",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046497",
+            "authorid": 145044,
+            "scholarlyactivityid": 29498,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29498,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 29498,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114046497",
+    "attachments": [
+        {
+            "attachmentid": 1477,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filename": "2016 AERA Paper Proposal - final.docx",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitiaWhwYktmQ0NnSUd0VU9lVk1zVkZpRXp2dzlHV0hTRURFdmQ3NlRvTjhsL3kyZkNBdTU1bXJEOWxyb1JCb25RMEp0VkRxLzduY1FRPT0%3D",
+            "filesize": 166172
+        }
+    ]
+}

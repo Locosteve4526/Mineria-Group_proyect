@@ -1,0 +1,82 @@
+{
+    "activityid": 15631,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Going Green in the Organic Lab",
+        "Conference/Meeting Name": "AAASPD Conference",
+        "Conference Location": "Ashland, OR",
+        "Date or Date Range": "2010-06-30",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "64116": {
+            "firstname": "Aubrey",
+            "middleinitial": "",
+            "lastname": "Johnston",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64116,
+            "scholarlyactivityid": 15631
+        },
+        "64117": {
+            "firstname": "Michael",
+            "middleinitial": "M",
+            "lastname": "McCormick",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64117,
+            "scholarlyactivityid": 15631
+        },
+        "64118": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Hammond",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64118,
+            "scholarlyactivityid": 15631
+        },
+        "64119": {
+            "firstname": "Don",
+            "middleinitial": "Lewis",
+            "lastname": "Warner",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702068",
+            "authorid": 64119,
+            "scholarlyactivityid": 15631
+        },
+        "64120": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 64120,
+            "scholarlyactivityid": 15631
+        }
+    },
+    "status": [
+        {
+            "id": 15631,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

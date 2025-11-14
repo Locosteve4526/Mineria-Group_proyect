@@ -1,0 +1,58 @@
+{
+    "activityid": 34845,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Invention Disclosure: Sensor Adaptor For Enhanced Vehicles Monitoring with Portable Tablet",
+        "Outlet (if applicable)": "",
+        "Date": "September 2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This invention is on a sensor adaptor with a suite of sensors for integration into an existing Mobile Resource Management solution. The sensor adaptor can interface to various sensors. The data is collected by an application on the tablet. The tablet can be replaced as necessary. As of this writing, the sensor adaptor has temperature, humidity, distance (IR), laser (present/not present), general purpose 12V, magnetic, and serial sensor (RS 232/485, to be completed) interfaces. The following figure shows the idea of this disclosure. Sensor adaptors will interface to the tablet. When tablet collects the data, the application on tablet will upload the data to the cloud server where resource manager can track the availability and status of resources in real time. ",
+        "Origin": "Manual"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "142015": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 142015,
+            "scholarlyactivityid": 34845
+        }
+    },
+    "status": [
+        {
+            "id": 34845,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 34845,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

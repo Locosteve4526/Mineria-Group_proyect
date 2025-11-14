@@ -1,0 +1,62 @@
+{
+    "activityid": 70060,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Empirical models for predicting cubic/pseudocubic lattice parameters of perovskites",
+        "Journal": "Materials Research Bulletin",
+        "Volume": "185",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "113318",
+        "Publisher": "",
+        "DOI": "10.1016/j.materresbull.2025.113318",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The works of several authors involving the prediction of lattice constants of perovskite&lt;br&gt;materials using ionic-radius data are analyzed and compared here. By examining the&lt;br&gt;methods used, these works and the results they produced are compared to each other&lt;br&gt;and scrutinized. As a result of this analysis, the utility of one of the works is brought&lt;br&gt;into question. A slightly revised equation is proposed here which produces lower mean&lt;br&gt;absolute relative errors than any previous model when used with reliable structural&lt;br&gt;data.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112113480",
+    "coauthors": {
+        "335327": {
+            "firstname": "Bryan",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 335327,
+            "scholarlyactivityid": 70060,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "335328": {
+            "firstname": "Rick",
+            "middleinitial": "",
+            "lastname": "Ubic PhD, FACerS, MInstP",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112113480",
+            "authorid": 335328,
+            "scholarlyactivityid": 70060,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70060,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112113480",
+    "attachments": []
+}

@@ -1,0 +1,70 @@
+{
+    "activityid": 64584,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cAuthor Meets Critics Roundtable: Beyond the Wire\u201d",
+        "Name of Conference": "ISA Midwest Political Science Association.",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113153409",
+    "coauthors": {
+        "298717": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113153409",
+            "authorid": 298717,
+            "scholarlyactivityid": 64584,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "298718": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Flynn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298718,
+            "scholarlyactivityid": 64584
+        },
+        "298719": {
+            "firstname": "Carla",
+            "middleinitial": "",
+            "lastname": "Martinez Machain",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 298719,
+            "scholarlyactivityid": 64584
+        }
+    },
+    "status": [
+        {
+            "id": 64584,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113153409",
+    "attachments": []
+}

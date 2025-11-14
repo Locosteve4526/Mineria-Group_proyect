@@ -1,0 +1,71 @@
+{
+    "activityid": 43953,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Higher Education Happenings",
+        "Conference/Meeting Name": "Idaho Transition Institute ",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "November 29th, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114046499",
+    "coauthors": {
+        "198956": {
+            "firstname": "Andrew",
+            "middleinitial": "",
+            "lastname": "Scheef",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 198956,
+            "scholarlyactivityid": 43953,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "198957": {
+            "firstname": "Jeremy",
+            "middleinitial": "W",
+            "lastname": "Ford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114046499",
+            "authorid": 198957,
+            "scholarlyactivityid": 43953,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "198958": {
+            "firstname": "Jenn",
+            "middleinitial": "",
+            "lastname": "Gallup",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 198958,
+            "scholarlyactivityid": 43953,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43953,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114046499",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 58983,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The antecedents and consequences of ESG diversity reporting ",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114109249",
+    "coauthors": {
+        "275304": {
+            "firstname": "Elizabeth",
+            "middleinitial": "",
+            "lastname": "McClean",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 275304,
+            "scholarlyactivityid": 58983,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "275305": {
+            "firstname": "Felice",
+            "middleinitial": "B",
+            "lastname": "Klein",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114109249",
+            "authorid": 275305,
+            "scholarlyactivityid": 58983,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "275306": {
+            "firstname": "Tashlin",
+            "middleinitial": "",
+            "lastname": "Lakhani",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 275306,
+            "scholarlyactivityid": 58983,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58983,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114109249",
+    "attachments": []
+}

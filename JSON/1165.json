@@ -1,0 +1,76 @@
+{
+    "activityid": 1165,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Embedded assessment: Using data we already have to assess courses and programs. ",
+        "Journal": "Assessment Update",
+        "Volume": "22",
+        "Month / Season": "2010-04-30",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "7-Jun",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113083497",
+    "coauthors": {
+        "2831": {
+            "firstname": "Suzanne",
+            "middleinitial": "",
+            "lastname": "Weinstein",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 2831,
+            "scholarlyactivityid": 1165
+        },
+        "2832": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 2832,
+            "scholarlyactivityid": 1165
+        },
+        "2833": {
+            "firstname": "D",
+            "middleinitial": "",
+            "lastname": "Shapiro",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 2833,
+            "scholarlyactivityid": 1165
+        },
+        "2834": {
+            "firstname": "R",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 2834,
+            "scholarlyactivityid": 1165
+        }
+    },
+    "status": [
+        {
+            "id": 1165,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083497",
+    "attachments": []
+}

@@ -1,0 +1,93 @@
+{
+    "activityid": 40800,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Vocalic Indicators of Group Relationships and Deceptive Intent in Group Negotiations",
+        "Journal": "Journal of Management Information Systems",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106117",
+    "coauthors": {
+        "267140": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Pentland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106117",
+            "authorid": 267140,
+            "scholarlyactivityid": 40800,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "267141": {
+            "firstname": "Judee",
+            "middleinitial": "",
+            "lastname": "Burgoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 267141,
+            "scholarlyactivityid": 40800,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "267142": {
+            "firstname": "Jay",
+            "middleinitial": "",
+            "lastname": "Nunamaker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 267142,
+            "scholarlyactivityid": 40800,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40800,
+            "status": "Work Discontinued",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 40800,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 40800,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114106117",
+    "attachments": []
+}

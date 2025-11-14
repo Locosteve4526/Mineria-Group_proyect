@@ -1,0 +1,101 @@
+{
+    "activityid": 6875,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "EMG remains fractionated in Parkinson\u2019s disease, despite practice-  related improvements in performance.",
+        "Journal": "Clinical Neurophysiology",
+        "Volume": "114",
+        "Month / Season": "",
+        "Issue Number": "12",
+        "Actual/Projected Year of Publication/Presentation": 2003,
+        "Page Numbers": "2385-96",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112045144",
+    "coauthors": {
+        "89295": {
+            "firstname": "Didier",
+            "middleinitial": "",
+            "lastname": "Flament",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 89295,
+            "scholarlyactivityid": 6875,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "89296": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Vaillancourt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 89296,
+            "scholarlyactivityid": 6875,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "89297": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Kempf",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045144",
+            "authorid": 89297,
+            "scholarlyactivityid": 6875,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "89298": {
+            "firstname": "K",
+            "middleinitial": "",
+            "lastname": "Shannon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 89298,
+            "scholarlyactivityid": 6875,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "89299": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Corcos",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 89299,
+            "scholarlyactivityid": 6875,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 6875,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2003,
+            "termid": "2003/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112045144",
+    "attachments": []
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 42575,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Truth, Success, and Faith: Novice Teachers\u2019 Perceptions of What\u2019s at Risk in Responsive Teaching in Science",
+        "Journal": "Science Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "214390": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Robertson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 214390,
+            "scholarlyactivityid": 42575,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "214391": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 214391,
+            "scholarlyactivityid": 42575,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42575,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42575,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

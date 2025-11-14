@@ -1,0 +1,71 @@
+{
+    "activityid": 76749,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Distal Teamwork",
+        "Journal": "Working Paper",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114252156",
+    "coauthors": {
+        "341821": {
+            "firstname": "Andrew",
+            "middleinitial": "M",
+            "lastname": "Smyth",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114252156",
+            "authorid": 341821,
+            "scholarlyactivityid": 76749,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "341822": {
+            "firstname": "Walter",
+            "middleinitial": "",
+            "lastname": "Melnik",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 341822,
+            "scholarlyactivityid": 76749,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76749,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 76749,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114252156",
+    "attachments": []
+}

@@ -1,0 +1,52 @@
+{
+    "activityid": 17622,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "HTML and JavaScript workshop",
+        "Conference/Meeting Name": "HTML and JavaScript workshop",
+        "Conference Location": "",
+        "Date or Date Range": "2005-01-31",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Sponsoring Organization": "Idaho Department of Labor",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111319147",
+    "coauthors": {
+        "68889": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 68889,
+            "scholarlyactivityid": 17622
+        },
+        "68890": {
+            "firstname": "Chareen",
+            "middleinitial": "Lee",
+            "lastname": "Snelson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111319147",
+            "authorid": 68890,
+            "scholarlyactivityid": 17622
+        }
+    },
+    "status": [
+        {
+            "id": 17622,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2005,
+            "termid": "2004/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111319147",
+    "attachments": []
+}

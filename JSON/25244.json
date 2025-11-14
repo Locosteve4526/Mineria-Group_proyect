@@ -1,0 +1,77 @@
+{
+    "activityid": 25244,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "CoVE: Colony visulization system for animal pedigrees",
+        "Name of Conference": "",
+        "Month / Season": "2014-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "9",
+        "Publisher": "ACM ",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1145/2636240.2636850",
+        "ISBN/ISSN #": "978-1-4503-2765-7",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "\nExplanation of Other:  VINCI'14 Proceedings of the 7th International Symposium on Visual Information Communication and Interaction",
+        "Origin": "Other"
+    },
+    "facultyid": "111110166",
+    "coauthors": {
+        "82318": {
+            "firstname": "Brady",
+            "middleinitial": "",
+            "lastname": "Cannon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82318,
+            "scholarlyactivityid": 25244
+        },
+        "82319": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Jorcyk",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 82319,
+            "scholarlyactivityid": 25244
+        },
+        "82320": {
+            "firstname": "Minoti",
+            "middleinitial": "",
+            "lastname": "Hiremath",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113102619",
+            "authorid": 82320,
+            "scholarlyactivityid": 25244
+        },
+        "82321": {
+            "firstname": "Alark",
+            "middleinitial": "",
+            "lastname": "Joshi",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113100804",
+            "authorid": 82321,
+            "scholarlyactivityid": 25244
+        }
+    },
+    "status": [
+        {
+            "id": 25244,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110166",
+    "attachments": []
+}

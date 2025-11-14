@@ -1,0 +1,71 @@
+{
+    "activityid": 41706,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Fitness Artists",
+        "Conference/Meeting Name": "SHAPE Regional Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "June 25-27",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669892",
+    "coauthors": {
+        "184063": {
+            "firstname": "Jane",
+            "middleinitial": "Marie",
+            "lastname": "Shimon",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669892",
+            "authorid": 184063,
+            "scholarlyactivityid": 41706,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "184064": {
+            "firstname": "Mandi",
+            "middleinitial": "",
+            "lastname": "Horning",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 184064,
+            "scholarlyactivityid": 41706,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "184065": {
+            "firstname": "Andrea",
+            "middleinitial": "",
+            "lastname": "Elguezabal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 184065,
+            "scholarlyactivityid": 41706,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41706,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669892",
+    "attachments": []
+}

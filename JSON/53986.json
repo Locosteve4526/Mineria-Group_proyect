@@ -1,0 +1,55 @@
+{
+    "activityid": 53986,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Second Update on Books Owned, Borrowed, and Consulted by Melville",
+        "Journal": "Leviathan: A Journal of Melville Studies",
+        "Volume": "23",
+        "Month / Season": "June",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "Johns Hopkins University Press",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643332",
+    "coauthors": {
+        "252785": {
+            "firstname": "Steven",
+            "middleinitial": "Steven",
+            "lastname": "Olsen-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643332",
+            "authorid": 252785,
+            "scholarlyactivityid": 53986
+        }
+    },
+    "status": [
+        {
+            "id": 53986,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53986,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643332",
+    "attachments": []
+}

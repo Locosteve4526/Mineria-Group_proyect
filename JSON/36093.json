@@ -1,0 +1,71 @@
+{
+    "activityid": 36093,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Mesh-free semi-Lagrangian methods for transport on a sphere using radial basis functions",
+        "Journal": "Journal of Computational Physics",
+        "Volume": "366",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "170-190",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://math.boisestate.edu/~wright/research/rbfsladvect_sphere.pdf",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "188206": {
+            "firstname": "Varun",
+            "middleinitial": "",
+            "lastname": "Shankar",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 188206,
+            "scholarlyactivityid": 36093,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "188207": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 188207,
+            "scholarlyactivityid": 36093,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 36093,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 36093,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 4494,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Accuracy, Resolution and Stability Properties of a Modified Chebyshev Method",
+        "Journal": "SIAM Journal On Scientific Computing",
+        "Volume": "24",
+        "Month / Season": "2002-01-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "143-160",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1137/S1064827500381501",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/20",
+        "Description/Abstract": "While the Chebyshev pseudospectral method provides a spectrally accurate method, integration of partial differential equations with spatial derivatives of order M requires time steps of approximately O(N?2M) for stable explicit solvers. Theoretically, time steps may be increased to O(N?M) with the use of a parameter, ?-dependent mapped method introduced by Kosloff and Tal-Ezer [ J. Comput. Phys., 104 (1993), pp. 457\u2013469]. Our analysis focuses on the utilization of this method for reasonable practical choices for N, namely N ? 30, as may be needed for two- or three dimensional modeling. Results presented confirm that spectral accuracy with increasing N is possible both for constant ? (Hesthaven, Dinesen, and Lynov [J. Comput. Phys., 155 (1999), pp. 287\u2013306]) and for ? scaled with N, ? sufficiently different from 1 (Don and Solomonoff [SIAM J. Sci. Comput., 18 (1997), pp. 1040\u20131055]). Theoretical bounds, however, show that any realistic choice for ?, in which both resolution and accuracy considerations are imposed, permits no more than a doubling of the time step fora stable explicit integrator in time, much less than the O(N) improvement claimed by Kosloff and Tal-Ezer. On the other hand, by choosing ? carefully, it is possible to improve on the resolution of the Chebyshev method; in particular, one may achieve satisfactory resolution with fewer than ? points per wavelength. Moreover, this improvement is noted not only for waves with the minimal resolution but also for waves sampled up to about 8 points per wavelength. Our conclusions are verified by calculation of phase and amplitude errors for numerical solutions of first and second order one-dimensional wave equations. Specifically, while ? can be chosen such that the mapped method improves the accuracy and resolution of the Chebyshev method, for practical choices of N, it is not possible to achieve both single precision accuracy and gain the advantage of an O(N?M) time step.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "13514": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 13514,
+            "scholarlyactivityid": 4494
+        },
+        "13515": {
+            "firstname": "Rosemary",
+            "middleinitial": "A.",
+            "lastname": "Renaut",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13515,
+            "scholarlyactivityid": 4494
+        }
+    },
+    "status": [
+        {
+            "id": 4494,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2002,
+            "termid": "2001/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

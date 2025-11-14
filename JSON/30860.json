@@ -1,0 +1,95 @@
+{
+    "activityid": 30860,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Developing and Testing an Extended Input-Output Model for Impact Assessment of Nuclear Power Plants",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "116349": {
+            "firstname": "Geoffrey",
+            "middleinitial": "A",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 116349,
+            "scholarlyactivityid": 30860
+        },
+        "116350": {
+            "firstname": "Kurt",
+            "middleinitial": "",
+            "lastname": "Kretaena",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 116350,
+            "scholarlyactivityid": 30860
+        },
+        "116351": {
+            "firstname": "Sebastian",
+            "middleinitial": "",
+            "lastname": "Voigt",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 116351,
+            "scholarlyactivityid": 30860
+        },
+        "116352": {
+            "firstname": "Victoria",
+            "middleinitial": "",
+            "lastname": "Alexeeva",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 116352,
+            "scholarlyactivityid": 30860
+        },
+        "116353": {
+            "firstname": "Steven",
+            "middleinitial": "",
+            "lastname": "Peterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 116353,
+            "scholarlyactivityid": 30860
+        }
+    },
+    "status": [
+        {
+            "id": 30860,
+            "status": "Work Discontinued",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 7,
+            "completionorder": 1
+        },
+        {
+            "id": 30860,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

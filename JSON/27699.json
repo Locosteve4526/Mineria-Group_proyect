@@ -1,0 +1,75 @@
+{
+    "activityid": 27699,
+    "fields": {
+        "Type": "Book",
+        "Title": "Human Resource Management: The Public Service Perspective",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Edition": "2nd",
+        "Volume": "",
+        "Publisher": "Routledge",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110214",
+    "coauthors": {
+        "87469": {
+            "firstname": "Elizabeth",
+            "middleinitial": "Dawn",
+            "lastname": "Fredericksen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358856",
+            "authorid": 87469,
+            "scholarlyactivityid": 27699
+        },
+        "87470": {
+            "firstname": "Stephanie",
+            "middleinitial": "L",
+            "lastname": "Witt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110214",
+            "authorid": 87470,
+            "scholarlyactivityid": 27699
+        },
+        "87471": {
+            "firstname": "W.",
+            "middleinitial": "David",
+            "lastname": "Patton",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87471,
+            "scholarlyactivityid": 27699
+        },
+        "87472": {
+            "firstname": "Nicholas",
+            "middleinitial": "P",
+            "lastname": "Lovrich",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87472,
+            "scholarlyactivityid": 27699
+        }
+    },
+    "status": [
+        {
+            "id": 27699,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110214",
+    "attachments": []
+}

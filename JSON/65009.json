@@ -1,0 +1,104 @@
+{
+    "activityid": 65009,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "&lt;span style=&quot;font-size:12pt;&quot;&gt;BSU #282: DNA Templating of Dyes into Long Polymer Dye Aggregates (Superdyes) Using Monomer or Aggregate Sub-Units&lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Patent Nationality": "United States",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643701",
+    "coauthors": {
+        "301918": {
+            "firstname": "Bill",
+            "middleinitial": "",
+            "lastname": "Knowlton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643701",
+            "authorid": 301918,
+            "scholarlyactivityid": 65009,
+            "classifications": {
+                "Role": "Inventor"
+            }
+        },
+        "301919": {
+            "firstname": "Olga",
+            "middleinitial": "",
+            "lastname": "Mass",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301919,
+            "scholarlyactivityid": 65009,
+            "classifications": {
+                "Role": "Other Contributor"
+            }
+        },
+        "301920": {
+            "firstname": "Bernard",
+            "middleinitial": "",
+            "lastname": "Yurke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301920,
+            "scholarlyactivityid": 65009,
+            "classifications": {
+                "Role": "Other Contributor"
+            }
+        },
+        "301921": {
+            "firstname": "Keitel",
+            "middleinitial": "",
+            "lastname": "Cervantes-Salguero",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301921,
+            "scholarlyactivityid": 65009,
+            "classifications": {
+                "Role": "Other Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 65009,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 65009,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 65009,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111643701",
+    "attachments": []
+}

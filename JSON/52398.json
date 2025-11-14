@@ -1,0 +1,58 @@
+{
+    "activityid": 52398,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Small Core Facility Management \u2013  Lessons Learned",
+        "Conference / Meeting Name": "Association of Biomolecular Research Facilities ABRF",
+        "Conference Location": "Palm Springs, California",
+        "Date or Date Range": "Feb 27 - March 2, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "242959": {
+            "firstname": "Diane",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 242959,
+            "scholarlyactivityid": 52398,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "242960": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 242960,
+            "scholarlyactivityid": 52398,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52398,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

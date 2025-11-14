@@ -1,0 +1,54 @@
+{
+    "activityid": 23876,
+    "fields": {
+        "Type": "Book",
+        "Title": "Showdown in the Big Quiet: Land, Government and Identity in the ",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "Lubbock, Texas",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111113451",
+    "coauthors": {
+        "79414": {
+            "firstname": "John",
+            "middleinitial": "P",
+            "lastname": "Bieter Jr",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111113451",
+            "authorid": 79414,
+            "scholarlyactivityid": 23876
+        }
+    },
+    "status": [
+        {
+            "id": 23876,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 23876,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111113451",
+    "attachments": []
+}

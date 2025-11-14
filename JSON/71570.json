@@ -1,0 +1,84 @@
+{
+    "activityid": 71570,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Teaching Students Teamwork Skills",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This is a",
+        "Origin": "Manual"
+    },
+    "facultyid": "113146329",
+    "coauthors": {
+        "350524": {
+            "firstname": "Aaron",
+            "middleinitial": "R",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045890",
+            "authorid": 350524,
+            "scholarlyactivityid": 71570
+        },
+        "350525": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Crowley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 350525,
+            "scholarlyactivityid": 71570
+        },
+        "350526": {
+            "firstname": "Cynthia",
+            "middleinitial": "G",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113146329",
+            "authorid": 350526,
+            "scholarlyactivityid": 71570
+        }
+    },
+    "status": [
+        {
+            "id": 71570,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71570,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71570,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113146329",
+    "attachments": []
+}

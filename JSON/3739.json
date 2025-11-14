@@ -1,0 +1,56 @@
+{
+    "activityid": 3739,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Preparing RN's for the online learning environment",
+        "Journal": "Syllabus",
+        "Volume": "1",
+        "Month / Season": "2013-01-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "",
+        "Publisher": "Rhode Island College",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111663502",
+    "coauthors": {
+        "11001": {
+            "firstname": "Jayne",
+            "middleinitial": "",
+            "lastname": "Josephsen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111663502",
+            "authorid": 11001,
+            "scholarlyactivityid": 3739
+        },
+        "11002": {
+            "firstname": "Vivian",
+            "middleinitial": "",
+            "lastname": "Schrader",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110120",
+            "authorid": 11002,
+            "scholarlyactivityid": 3739
+        }
+    },
+    "status": [
+        {
+            "id": 3739,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111663502",
+    "attachments": []
+}

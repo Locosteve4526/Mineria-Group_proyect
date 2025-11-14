@@ -1,0 +1,52 @@
+{
+    "activityid": 46093,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Elevation profile-derived crevasse depths for select Greenland marine-terminating glaciers, 2011-2018",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Publisher": "Arctic Data Center",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://arcticdata.io/catalog/view/doi:10.18739/A2WH2DF1F",
+        "Description/Abstract": "Crevasse depths were extracted from very high-resolution surface elevation observations for 19 fast-flowing marine-terminating glaciers distributed around the Greenland Ice Sheet. Crevasse depths were extracted using a semi-automated moving window approach applied to both NASA (National Aeronautics and Space Administration) Operation IceBridge (OIB) lidar and ArcticDEM (Arctic digital elevation model) 2 meter-resolution WorldView (WV) imagery-derived digital elevation models from 2011-2018. These crevasse depth profiles were used to assess the accuracy of modeled depths that utilize the Nye formulation for closely-spaced crevasse depths (i.e., zero stress model).\n\nThe data include comma-separated text files with the crevasse observation date (decimal years), Greenland Polar Stereo Northing (meters) and Easting (meters), location along the OIB centerline swath relative to the terminus position (meters), and the average surface elevation of the top of the crevasse walls (meters above sea level), crevasse depth (meters), and crevasse width (meters). Observations are separated by rows. The OIB and WV data are saved in different files for each glacier.\n\nA tab-delimited text file containing summary statistics is also provided.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112680",
+    "coauthors": {
+        "210210": {
+            "firstname": "Ellyn",
+            "middleinitial": "M",
+            "lastname": "Enderlin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112680",
+            "authorid": 210210,
+            "scholarlyactivityid": 46093,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46093,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112680",
+    "attachments": []
+}

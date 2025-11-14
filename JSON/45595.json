@@ -1,0 +1,64 @@
+{
+    "activityid": 45595,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "Data storage methods and devices",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Patent Nationality": "United States",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "US 8,670,267",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "207699": {
+            "firstname": "Chad",
+            "middleinitial": "",
+            "lastname": "Watson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207699,
+            "scholarlyactivityid": 45595
+        },
+        "207700": {
+            "firstname": "William",
+            "middleinitial": "B",
+            "lastname": "Knowlton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 207700,
+            "scholarlyactivityid": 45595
+        },
+        "207701": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 207701,
+            "scholarlyactivityid": 45595
+        }
+    },
+    "status": [
+        {
+            "id": 45595,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

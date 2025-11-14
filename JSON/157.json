@@ -1,0 +1,56 @@
+{
+    "activityid": 157,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Innovative data sources for empirically building and validating theories in operations management",
+        "Journal": "Journal of Operations Management",
+        "Volume": "25",
+        "Month / Season": "2007-12-31",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "957-961",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112057162",
+    "coauthors": {
+        "422": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Gattiker",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112057162",
+            "authorid": 422,
+            "scholarlyactivityid": 157
+        },
+        "423": {
+            "firstname": "Diane",
+            "middleinitial": "H",
+            "lastname": "Parente",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 423,
+            "scholarlyactivityid": 157
+        }
+    },
+    "status": [
+        {
+            "id": 157,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112057162",
+    "attachments": []
+}

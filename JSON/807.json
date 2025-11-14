@@ -1,0 +1,66 @@
+{
+    "activityid": 807,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "North Texas Domestic Partner Benefits Policies",
+        "Journal": "Texas Business Today",
+        "Volume": "",
+        "Month / Season": "2013-11-30",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "6-Apr",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "1905": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Wanek",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110514",
+            "authorid": 1905,
+            "scholarlyactivityid": 807
+        },
+        "1906": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 1906,
+            "scholarlyactivityid": 807
+        },
+        "1907": {
+            "firstname": "Malcolm",
+            "middleinitial": "",
+            "lastname": "Coco",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 1907,
+            "scholarlyactivityid": 807
+        }
+    },
+    "status": [
+        {
+            "id": 807,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

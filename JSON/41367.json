@@ -1,0 +1,65 @@
+{
+    "activityid": 41367,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Politics of Intergovernmental Relations",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "3rd",
+        "Volume": "",
+        "Publisher": "Birkdale",
+        "Publisher Location": "San Diego, CA",
+        "ISBN": "978-942456-04-9",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110214",
+    "coauthors": {
+        "181668": {
+            "firstname": "Elizabeth",
+            "middleinitial": "D",
+            "lastname": "Fredericksen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358856",
+            "authorid": 181668,
+            "scholarlyactivityid": 41367
+        },
+        "181669": {
+            "firstname": "Stephanie",
+            "middleinitial": "L",
+            "lastname": "Witt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110214",
+            "authorid": 181669,
+            "scholarlyactivityid": 41367
+        },
+        "181670": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Nice",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 181670,
+            "scholarlyactivityid": 41367
+        }
+    },
+    "status": [
+        {
+            "id": 41367,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110214",
+    "attachments": []
+}

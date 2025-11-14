@@ -1,0 +1,58 @@
+{
+    "activityid": 70074,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Exploring the link between depth extent of weathered bedrock and topographic attributes",
+        "Conference / Meeting Name": "American Geophysical Meeting",
+        "Conference Location": "San Francisco",
+        "Date or Date Range": "Dec 11-15, 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112754",
+    "coauthors": {
+        "316861": {
+            "firstname": "Hang",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316861,
+            "scholarlyactivityid": 70074,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "316862": {
+            "firstname": "Qifei",
+            "middleinitial": "",
+            "lastname": "Niu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112754",
+            "authorid": 316862,
+            "scholarlyactivityid": 70074,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70074,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112754",
+    "attachments": []
+}

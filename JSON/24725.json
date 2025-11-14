@@ -1,0 +1,55 @@
+{
+    "activityid": 24725,
+    "fields": {
+        "Type": "Book",
+        "Title": "Policing the Campus: Academic Repression, Surveillance, and the Occupy Movement",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Peter Lang",
+        "Publisher Location": "",
+        "ISBN": "1433113112",
+        "Author/Editor of Larger Work": "Anthony J. Nocella II &amp; David Gabbard",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002258",
+    "coauthors": {
+        "81211": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Gabbard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114002258",
+            "authorid": 81211,
+            "scholarlyactivityid": 24725
+        },
+        "81212": {
+            "firstname": "Anthony ",
+            "middleinitial": "J ",
+            "lastname": "Nocella II",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 81212,
+            "scholarlyactivityid": 24725
+        }
+    },
+    "status": [
+        {
+            "id": 24725,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002258",
+    "attachments": []
+}

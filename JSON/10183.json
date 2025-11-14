@@ -1,0 +1,51 @@
+{
+    "activityid": 10183,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Using Web Analytics for Site Improvement",
+        "Conference/Meeting Name": "Internet Librarian",
+        "Conference Location": "Monterey, CA",
+        "Date or Date Range": "2013-05-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Information Today",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112088454",
+    "coauthors": {
+        "52330": {
+            "firstname": "Amy",
+            "middleinitial": "Elizabeth",
+            "lastname": "Vecchione",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112088454",
+            "authorid": 52330,
+            "scholarlyactivityid": 10183
+        }
+    },
+    "status": [
+        {
+            "id": 10183,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10183,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112088454",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 68497,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Pro/Con - Traditional Lectures Need to Go!",
+        "Conference/Meeting Name": "AARC Congress",
+        "Conference Location": "",
+        "Date or Date Range": "11/6/23",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114178462",
+    "coauthors": {
+        "308821": {
+            "firstname": "Kristen",
+            "middleinitial": "L",
+            "lastname": "McHenry",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114178462",
+            "authorid": 308821,
+            "scholarlyactivityid": 68497,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "308822": {
+            "firstname": "J",
+            "middleinitial": "Brady",
+            "lastname": "Scott",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308822,
+            "scholarlyactivityid": 68497,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68497,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114178462",
+    "attachments": []
+}

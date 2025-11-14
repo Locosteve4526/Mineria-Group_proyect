@@ -1,0 +1,65 @@
+{
+    "activityid": 29589,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Establishing an equitable and fair admissions system for an online doctoral program",
+        "Journal": "TechTrends",
+        "Volume": "58",
+        "Month / Season": "2013-11-25",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "27-35",
+        "Publisher": "Springer",
+        "DOI": "10.1007/s11528-014-0766-1",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://link.springer.com/article/10.1007/s11528-014-0766-1",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112180039",
+    "coauthors": {
+        "103327": {
+            "firstname": "Ross",
+            "middleinitial": "Andrew",
+            "lastname": "Perkins",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112180039",
+            "authorid": 103327,
+            "scholarlyactivityid": 29589
+        },
+        "103326": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 103326,
+            "scholarlyactivityid": 29589
+        }
+    },
+    "status": [
+        {
+            "id": 29589,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 29589,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112180039",
+    "attachments": []
+}

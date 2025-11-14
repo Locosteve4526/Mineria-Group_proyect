@@ -1,0 +1,52 @@
+{
+    "activityid": 78079,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Wicked Problems",
+        "Conference/Meeting Name": "Wicked Problems CRCA Workshop",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111636450",
+    "coauthors": {
+        "350272": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Crowley",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 350272,
+            "scholarlyactivityid": 78079
+        },
+        "350271": {
+            "firstname": "Jared",
+            "middleinitial": "L",
+            "lastname": "Talley",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111636450",
+            "authorid": 350271,
+            "scholarlyactivityid": 78079
+        }
+    },
+    "status": [
+        {
+            "id": 78079,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111636450",
+    "attachments": []
+}

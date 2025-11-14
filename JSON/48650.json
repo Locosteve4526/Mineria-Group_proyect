@@ -1,0 +1,76 @@
+{
+    "activityid": 48650,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Lessons learned iteratively designing an online video-based instructional intervention",
+        "Name of Conference": "International Congress on Mathematical Education",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113017246",
+    "coauthors": {
+        "273620": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 273620,
+            "scholarlyactivityid": 48650
+        },
+        "273621": {
+            "firstname": "Laurie",
+            "middleinitial": "O",
+            "lastname": "Cavey",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113017246",
+            "authorid": 273621,
+            "scholarlyactivityid": 48650
+        },
+        "273622": {
+            "firstname": "Tatia",
+            "middleinitial": "",
+            "lastname": "Totorica",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111300363",
+            "authorid": 273622,
+            "scholarlyactivityid": 48650
+        }
+    },
+    "status": [
+        {
+            "id": 48650,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 48650,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113017246",
+    "attachments": []
+}

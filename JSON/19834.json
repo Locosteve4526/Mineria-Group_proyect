@@ -1,0 +1,63 @@
+{
+    "activityid": 19834,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Perceived Work Differences Associated with the Use of Mobile Versus Wired Technologies",
+        "Name of Conference": "International Academy of Business and Public Administration",
+        "Month / Season": "2007-05-31",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": null,
+        "Publisher": "International Academy of Business and Public Administration",
+        "Publisher Location": "Dallas, Texas",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "134586": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 134586,
+            "scholarlyactivityid": 19834,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "134587": {
+            "firstname": "Malcolm",
+            "middleinitial": "",
+            "lastname": "Coco",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134587,
+            "scholarlyactivityid": 19834,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19834,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

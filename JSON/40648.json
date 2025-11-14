@@ -1,0 +1,67 @@
+{
+    "activityid": 40648,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Application of Image Processing to Track Twin Boundary Motion in Magnetic Shape Memory Alloys",
+        "Name of Conference": "Proc. SPIE Image Processing: Machine Vision Applications V",
+        "Month / Season": "2012-01-25",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "8300A",
+        "Publisher": "SPIE",
+        "Publisher Location": " San Jose, CA",
+        "Volume": "8300",
+        "Issue Number": "",
+        "DOI": "http://dx.doi.org/10.1117/12.907070",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://scholarworks.boisestate.edu/electrical_facpubs/189",
+        "Description/Abstract": "Materials scientists make use of image processing tools more and more as technology advances and the data volume that needs to be analyzed increases. We propose a method to optically measure magnetic eld induced strain (MFIS) as well as twin boundary movement in Ni2MnGa single crystal shape memory alloys to facilitate spatially resolved tracking of deformation. Current magneto-mechanical experiments used to measure MFIS can measure strain only in one direction and do not provide information about the movement of individual twin boundaries. A sequence of images captured from a high resolution camera is analyzed by a boundary detection algorithm to provide strain data in multiple directions. Subsequent motion detection and Hough feature extraction provide quantitative information about the location and movement of active twin boundaries.\n\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "178031": {
+            "firstname": "Adrian",
+            "middleinitial": "",
+            "lastname": "Rothenbuhler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178031,
+            "scholarlyactivityid": 40648
+        },
+        "178032": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 178032,
+            "scholarlyactivityid": 40648
+        },
+        "178033": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 178033,
+            "scholarlyactivityid": 40648
+        }
+    },
+    "status": [
+        {
+            "id": 40648,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

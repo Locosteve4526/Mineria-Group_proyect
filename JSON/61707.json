@@ -1,0 +1,79 @@
+{
+    "activityid": 61707,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Current Challenges in Sepsis Documentation and Coding: A Review of the Literature",
+        "Journal": "Perspectives in Health Information Management",
+        "Volume": "20",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "318269": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 318269,
+            "scholarlyactivityid": 61707,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318270": {
+            "firstname": "Alba",
+            "middleinitial": "",
+            "lastname": "Kuqi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318270,
+            "scholarlyactivityid": 61707,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61707,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61707,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111353312",
+    "attachments": [
+        {
+            "attachmentid": 51804,
+            "mimetype": "application/pdf",
+            "filename": "Current Challenges in Sepsis Documentation and Coding_ A Review of the Literature.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeVBJRGNzM01wR1laakNtZ0U0cndDMi8ydkFZR1B6RCtyeE4yQjJGZVdDNHUvOWdtUHpGM090bTdKa3d6dCtnM2lKVDdiSm1scHk5cGJydVZFZmgzRGNiSXhsU0RNVms4elZUaUt4MWZ2Z3Z4THZrVFhodm8vQkZDZE94ckpjWjYrd28yQzVoeEMycjZmdzBZNmwrQWl5QT09",
+            "filesize": 617051
+        }
+    ]
+}

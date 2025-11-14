@@ -1,0 +1,63 @@
+{
+    "activityid": 69767,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Engineering properties of coquina \u2013 an interesting and historic building stone",
+        "Name of Conference": "24th Annual University of Maryland National Conference for McNair Scholars and Undergraduate Research",
+        "Month / Season": "March",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114136465",
+    "coauthors": {
+        "315719": {
+            "firstname": "Allie",
+            "middleinitial": "",
+            "lastname": "Arizmendi Sanchez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 315719,
+            "scholarlyactivityid": 69767,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "315720": {
+            "firstname": "Nicholas",
+            "middleinitial": "W",
+            "lastname": "Hudyma",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114136465",
+            "authorid": 315720,
+            "scholarlyactivityid": 69767,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69767,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114136465",
+    "attachments": []
+}

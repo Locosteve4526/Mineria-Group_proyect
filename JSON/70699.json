@@ -1,0 +1,88 @@
+{
+    "activityid": 70699,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:10pt;&quot;&gt;Transformation pathways of ferromagnetic Mn-Al-Ga-Ni&lt;/span&gt;",
+        "Journal": "Magnetochemistry",
+        "Volume": "9",
+        "Month / Season": "",
+        "Issue Number": "128",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "128",
+        "Publisher": "",
+        "DOI": "doi.org/10.3390/magnetochemistry9050128",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "320213": {
+            "firstname": "Shane",
+            "middleinitial": "",
+            "lastname": "Palmer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320213,
+            "scholarlyactivityid": 70699,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "320214": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320214,
+            "scholarlyactivityid": 70699,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "320215": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Lindquist",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320215,
+            "scholarlyactivityid": 70699,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "320216": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 320216,
+            "scholarlyactivityid": 70699,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70699,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

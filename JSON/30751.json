@@ -1,0 +1,75 @@
+{
+    "activityid": 30751,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Computing with functions in spherical and polar geometries I. The sphere. ",
+        "Journal": "SIAM J. Sci. Comput.",
+        "Volume": "38",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "C403-C425",
+        "Publisher": "",
+        "DOI": "10.1137/15M1045855",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "113248": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Townsend",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113248,
+            "scholarlyactivityid": 30751,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "113249": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "Wilber",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113249,
+            "scholarlyactivityid": 30751,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "113250": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 113250,
+            "scholarlyactivityid": 30751,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30751,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

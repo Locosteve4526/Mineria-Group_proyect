@@ -1,0 +1,97 @@
+{
+    "activityid": 69191,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Resolving taxonomic uncertainty and clarifying species boundaries in the Cymopterus terebinthinus species complex. &lt;/span&gt;",
+        "Conference/Meeting Name": "",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "311885": {
+            "firstname": "Annie",
+            "middleinitial": "",
+            "lastname": "Taylor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311885,
+            "scholarlyactivityid": 69191,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "311886": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 311886,
+            "scholarlyactivityid": 69191,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311887": {
+            "firstname": "D.",
+            "middleinitial": "",
+            "lastname": "Mansfield",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311887,
+            "scholarlyactivityid": 69191,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311888": {
+            "firstname": "M. A.",
+            "middleinitial": "E.",
+            "lastname": "Feist",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311888,
+            "scholarlyactivityid": 69191,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311889": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Darrach",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311889,
+            "scholarlyactivityid": 69191,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69191,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

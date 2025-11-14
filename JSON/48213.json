@@ -1,0 +1,63 @@
+{
+    "activityid": 48213,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Emotional Intelligence and Alpha Skills for IT Project Management",
+        "Name of Conference": "EDSIG Conference on Information Systems and Computing Education",
+        "Month / Season": "November 2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Cleveland, OH",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://proc.iscap.info/2019/abstracts/5016.html",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088737",
+    "coauthors": {
+        "222977": {
+            "firstname": "Amy",
+            "middleinitial": "J",
+            "lastname": "Connolly",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 222977,
+            "scholarlyactivityid": 48213,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "222978": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Rush",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088737",
+            "authorid": 222978,
+            "scholarlyactivityid": 48213,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48213,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114088737",
+    "attachments": []
+}

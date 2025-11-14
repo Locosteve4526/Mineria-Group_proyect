@@ -1,0 +1,88 @@
+{
+    "activityid": 32256,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Flight Considerations and Hyperspectral Image Classifications for Dryland Vegetation Management from a Fixed-wing UAS (Journal Article",
+        "Journal": "Environmental Management and Sustainable Development",
+        "Volume": "5",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "doi:10.5296/emsd.v5i2.9343",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114003223",
+    "coauthors": {
+        "123943": {
+            "firstname": "Mitchell",
+            "middleinitial": "",
+            "lastname": "Jessica",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123943,
+            "scholarlyactivityid": 32256,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "123944": {
+            "firstname": "Nancy",
+            "middleinitial": "",
+            "lastname": "Glenn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114003223",
+            "authorid": 123944,
+            "scholarlyactivityid": 32256,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "123945": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Hruska",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123945,
+            "scholarlyactivityid": 32256,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "123946": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 123946,
+            "scholarlyactivityid": 32256,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32256,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114003223",
+    "attachments": []
+}

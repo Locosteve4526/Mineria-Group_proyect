@@ -1,0 +1,57 @@
+{
+    "activityid": 45484,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "Dr. B, would you write a letter of recommendation for me?",
+        "Name of Venue": "IEEE Potentials",
+        "Date": "2019-11-01",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Issue": "6",
+        "Page Numbers or Number of Pages": "4",
+        "Volume": "38",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "THE WAY AHEAD\nSAC Chair article for front of IEEE Potentials Magazine",
+        "Activity Type": "IEEE Potentials Magazine article",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "207188": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 207188,
+            "scholarlyactivityid": 45484,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45484,
+            "status": "In Press",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 45484,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

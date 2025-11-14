@@ -1,0 +1,75 @@
+{
+    "activityid": 72,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Estimation of Agglomeration Economies: Federal Facilities in the Rural West",
+        "Journal": "Atlantic Economic Journal",
+        "Volume": "32",
+        "Month / Season": "2004-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "320-28",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111640423",
+    "coauthors": {
+        "203604": {
+            "firstname": "Geoffrey",
+            "middleinitial": "",
+            "lastname": "Black",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111640423",
+            "authorid": 203604,
+            "scholarlyactivityid": 72
+        },
+        "203605": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Church",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111113668",
+            "authorid": 203605,
+            "scholarlyactivityid": 72
+        },
+        "203606": {
+            "firstname": "Donald",
+            "middleinitial": "",
+            "lastname": "Holley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111113743",
+            "authorid": 203606,
+            "scholarlyactivityid": 72
+        }
+    },
+    "status": [
+        {
+            "id": 72,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 72,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2004,
+            "termid": "2004/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111640423",
+    "attachments": []
+}

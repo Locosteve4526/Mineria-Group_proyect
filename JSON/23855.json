@@ -1,0 +1,59 @@
+{
+    "activityid": 23855,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Occupancy and habitat associations of forest owls in the Boise National Forest.",
+        "Outlet (if applicable)": "USDA Forest Service, Boise National Forest",
+        "Date": "2010-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": " ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "USDA Forest Service, Boise National Forest",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "79362": {
+            "firstname": "M.N.",
+            "middleinitial": "",
+            "lastname": "Scholer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 79362,
+            "scholarlyactivityid": 23855
+        },
+        "79363": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 79363,
+            "scholarlyactivityid": 23855
+        }
+    },
+    "status": [
+        {
+            "id": 23855,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

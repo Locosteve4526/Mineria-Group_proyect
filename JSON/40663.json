@@ -1,0 +1,63 @@
+{
+    "activityid": 40663,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Materials and actuator solutions for advanced magnetic shape memory devices (review)",
+        "Name of Conference": "ACTUATOR 2018",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "205-211",
+        "Publisher": "Messe Bremen",
+        "Publisher Location": "Bremen, Germany",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "978-3-933339-30-0",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112031768",
+    "coauthors": {
+        "178095": {
+            "firstname": "Emmanouel",
+            "middleinitial": "",
+            "lastname": "Pagounis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178095,
+            "scholarlyactivityid": 40663,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "178096": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "Mullner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031768",
+            "authorid": 178096,
+            "scholarlyactivityid": 40663,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40663,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112031768",
+    "attachments": []
+}

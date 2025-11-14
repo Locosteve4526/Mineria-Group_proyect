@@ -1,0 +1,71 @@
+{
+    "activityid": 9534,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Military Action as A Natural Experiment on the Natural Environment",
+        "Conference/Meeting Name": "International Studies Association Annual Conference",
+        "Conference Location": "Atlanta, GA",
+        "Date or Date Range": "2015-09-17",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "International Studies Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113153409",
+    "coauthors": {
+        "126355": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113153409",
+            "authorid": 126355,
+            "scholarlyactivityid": 9534
+        },
+        "126356": {
+            "firstname": "Ben",
+            "middleinitial": "",
+            "lastname": "Farrer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 126356,
+            "scholarlyactivityid": 9534
+        },
+        "126357": {
+            "firstname": "Michael",
+            "middleinitial": "E",
+            "lastname": "Flynn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 126357,
+            "scholarlyactivityid": 9534
+        }
+    },
+    "status": [
+        {
+            "id": 9534,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9534,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113153409",
+    "attachments": []
+}

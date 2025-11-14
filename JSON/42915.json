@@ -1,0 +1,74 @@
+{
+    "activityid": 42915,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Impact of School-Based Physical Activity on Child Health and Academic Outcomes",
+        "Outlet (if applicable)": "",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045269",
+    "coauthors": {
+        "191773": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045269",
+            "authorid": 191773,
+            "scholarlyactivityid": 42915,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "191774": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Loucks",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110950",
+            "authorid": 191774,
+            "scholarlyactivityid": 42915,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42915,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42915,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114045269",
+    "attachments": []
+}

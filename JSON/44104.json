@@ -1,0 +1,116 @@
+{
+    "activityid": 44104,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Strongly Non-zero Points and Elliptic Pseudoprimes",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://arxiv.org/abs/1902.00794",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "228104": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 228104,
+            "scholarlyactivityid": 44104
+        },
+        "228105": {
+            "firstname": "Dylan",
+            "middleinitial": "",
+            "lastname": "Fillmore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 228105,
+            "scholarlyactivityid": 44104,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "228106": {
+            "firstname": "Philip",
+            "middleinitial": "",
+            "lastname": "Lamkin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 228106,
+            "scholarlyactivityid": 44104,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "228107": {
+            "firstname": "Alice",
+            "middleinitial": "",
+            "lastname": "Lin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 228107,
+            "scholarlyactivityid": 44104,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "228108": {
+            "firstname": "Calvin",
+            "middleinitial": "",
+            "lastname": "Yost-Wolff",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 228108,
+            "scholarlyactivityid": 44104,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44104,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 44104,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 44104,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111716691",
+    "attachments": []
+}

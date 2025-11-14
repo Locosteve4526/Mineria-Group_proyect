@@ -1,0 +1,66 @@
+{
+    "activityid": 1785,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Semi-Analytical Solution for Flow in a Leaky Unconfined Aquifer Toward a Partially Penetrating Pumping Well",
+        "Journal": "Journal of Hydrology",
+        "Volume": "356",
+        "Month / Season": "2008-07-01",
+        "Issue Number": "2-Jan",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "234-244",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.jhydrol.2008.03.029",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/88",
+        "Description/Abstract": "A semi-analytical solution is presented for the problem of flow in a system consisting of unconfined and confined aquifers, separated by an aquitard. The unconfined aquifer is pumped continuously at a constant rate from a well of infinitesimal radius that partially penetrates its saturated thickness. The solution is termed semi-analytical because the exact solution obtained in double Laplace\u2013Hankel transform space is inverted numerically. The solution presented here is more general than similar solutions obtained for confined aquifer flow as we do not adopt the assumption of unidirectional flow in the confined aquifer (typically assumed to be horizontal) and the aquitard (typically assumed to be vertical). Model predicted results show significant departure from the solution that does not take into account the effect of leakage even for cases where aquitard hydraulic conductivities are two orders of magnitude smaller than those of the aquifers. The results show low sensitivity to changes in radial hydraulic conductivities for aquitards that are two or more orders of magnitude smaller than those of the aquifers, in conformity to findings of earlier workers that radial flow in aquitards may be neglected under such conditions. Hence, for cases were aquitard hydraulic conductivities are two or more orders of magnitude smaller than aquifer conductivities, the simpler models that restrict flow to the radial direction in aquifers and to the vertical direction in aquitards may be sufficient. However, the model developed here can be used to model flow in aquifer\u2013aquitard systems where radial flow is significant in aquitards.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4469": {
+            "firstname": "Bwalya",
+            "middleinitial": "",
+            "lastname": "Malama",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4469,
+            "scholarlyactivityid": 1785
+        },
+        "4470": {
+            "firstname": "Kristopher",
+            "middleinitial": "L.",
+            "lastname": "Kuhlman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4470,
+            "scholarlyactivityid": 1785
+        },
+        "4471": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4471,
+            "scholarlyactivityid": 1785
+        }
+    },
+    "status": [
+        {
+            "id": 1785,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2008,
+            "termid": "2008/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

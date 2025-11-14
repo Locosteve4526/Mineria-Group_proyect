@@ -1,0 +1,42 @@
+{
+    "activityid": 31965,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Statistical Tests for Total Variation Regularization Parameter Selection",
+        "Conference/Meeting Name": "Copper Mountain Conference on Iterative Methods",
+        "Conference Location": "Copper Mountain, CO",
+        "Date or Date Range": "March, 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Sandia, LLNL, IBM, DOE, LANL, NSF, Argonne, Emory",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Total Variation (TV) is an effective method of removing noise in digital image processing while preserving edges. The choice of scaling or regularization parameter in the TV process defines the amount of denoising, with value of zero giving a result equivalent to the input signal. We explore three algorithms for specifying this parameter based on the statistics of the signal in the total variation process. Consequently, TV regularization is viewed as an M-estimator that is assumed to converge to a well defined limit even if the probability model is not correctly specified. Using statistical tests to find a regularization parameter is advantageous for computationally large problems because a single regularization parameter is found that satisfies an appropriate statistical test, rather than manually adjusting the regularization parameter, or iterating it to zero. This is especially useful for nonlinear problems where an underlying linear problem is solved iteratively, taking the guesswork out of choosing the regularization parameter in each iterate.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "121663": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 121663,
+            "scholarlyactivityid": 31965
+        }
+    },
+    "status": [
+        {
+            "id": 31965,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

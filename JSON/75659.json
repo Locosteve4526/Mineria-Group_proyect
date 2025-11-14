@@ -1,0 +1,55 @@
+{
+    "activityid": 75659,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;span style=&quot;font-size:12pt;&quot;&gt;The Journey into College and Career: Cultivating Resilience Among Challenges.&lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Edition": "1",
+        "Volume": "1",
+        "Publisher": "Kendall-Hunt Publishing ",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114063271",
+    "coauthors": {
+        "335828": {
+            "firstname": "Kelly",
+            "middleinitial": "R",
+            "lastname": "Rossetto",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114060624",
+            "authorid": 335828,
+            "scholarlyactivityid": 75659
+        },
+        "335829": {
+            "firstname": "Eric",
+            "middleinitial": "M",
+            "lastname": "Martin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114063271",
+            "authorid": 335829,
+            "scholarlyactivityid": 75659
+        }
+    },
+    "status": [
+        {
+            "id": 75659,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114063271",
+    "attachments": []
+}

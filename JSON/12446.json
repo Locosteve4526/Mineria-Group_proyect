@@ -1,0 +1,52 @@
+{
+    "activityid": 12446,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Toolbox Project Perspective",
+        "Conference/Meeting Name": "Integration Communities Workshop",
+        "Conference Location": "Tempe, Arizona",
+        "Date or Date Range": "2013-05-20",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "56708": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "O'Rourke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56708,
+            "scholarlyactivityid": 12446
+        },
+        "56709": {
+            "firstname": "Stephen",
+            "middleinitial": "James",
+            "lastname": "Crowley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 56709,
+            "scholarlyactivityid": 12446
+        }
+    },
+    "status": [
+        {
+            "id": 12446,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

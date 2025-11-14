@@ -1,0 +1,61 @@
+{
+    "activityid": 63082,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "Queer Spaces Beyond Boise",
+        "Name of Venue": "NPR-Boise Public Radio-Idaho Matters with Gemma Gaudette",
+        "Date": "2023-01-30",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Issue": "",
+        "Page Numbers or Number of Pages": "",
+        "Volume": "",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Activity Type": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669995",
+    "coauthors": {
+        "290544": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "McClain",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669995",
+            "authorid": 290544,
+            "scholarlyactivityid": 63082,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "290545": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Taylor",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 290545,
+            "scholarlyactivityid": 63082,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63082,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669995",
+    "attachments": []
+}

@@ -1,0 +1,67 @@
+{
+    "activityid": 69371,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Fostering Student Identities in Introduction to Programming",
+        "Name of Conference": "ISCAP-EDSIG 2023",
+        "Month / Season": "November 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Albuquerque, NM, USA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "IS curricula typically include at least one course that introduces students to principles of programming in an object-oriented language. The literature is split on whether this language should be Python, Java, C# or something else. No matter the language, students in an IS major or minor can be resistant and unprepared to learn programming or any topic involving math skills (unlike those studying Computer Science or Engineering). Some researchers have investigated how to make the course more accessible for beginning students. Students' own resistance and lack of self-confidence can make teaching this course challenging. If student apprehensions are not managed, programming courses can directly lead to high rates of attrition from the IS major, particularly by underrepresented students who do not see themselves reflected in mainstream role models. We suggest that a new approach is needed to reach all IS students and to help them to both see the value of learning how to code in an object-oriented language and to connect that value to their individual sense of identity. We present an assignment used in an introduction to programming course that seeks to make individual and multi-faceted identities salient throughout the course by allowing students to work through these identities and to observe relevant connections to themselves in the course. This assignment was developed based on the instructor's research expertise in identity theory. This teaching approach has helped the instructor to build more relevant and engaging examples for students and to dynamically change assignments each semester. This practical, hands-on approach applies theory to fostering students' fledgling identities as future IS professionals.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088737",
+    "coauthors": {
+        "313008": {
+            "firstname": "Schmalz",
+            "middleinitial": "",
+            "lastname": "Marc",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 313008,
+            "scholarlyactivityid": 69371
+        },
+        "313007": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Connoly",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313007,
+            "scholarlyactivityid": 69371
+        },
+        "313006": {
+            "firstname": "Daniel",
+            "middleinitial": "E",
+            "lastname": "Rush",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114088737",
+            "authorid": 313006,
+            "scholarlyactivityid": 69371
+        }
+    },
+    "status": [
+        {
+            "id": 69371,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114088737",
+    "attachments": []
+}

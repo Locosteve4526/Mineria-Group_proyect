@@ -1,0 +1,66 @@
+{
+    "activityid": 6635,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical Solution of Volterra Integral and Integro-Differential Equations with Rapidly Vanishing Convolution Kernels",
+        "Journal": "BIT Numerical Mathematics",
+        "Volume": "47",
+        "Month / Season": "2007-12-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "325-350",
+        "Publisher": "Springer",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Variable stepsize algorithms for the numerical solution of nonlinear Volterra integral and integro-differential equations of convolution type are described. These algorithms are based on an embedded pair of Runge\u2013Kutta methods of order p=5 and p=4 proposed by Dormand and Prince with interpolation of uniform order p=4. They require O(N) number of kernel evaluations, where N is the number of steps. The cost of the algorithms can be further reduced for equations that have rapidly vanishing convolution kernels, by using waveform relaxation iterations after computing the numerical approximation by variable stepsize algorithm on some initial interval.\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20695": {
+            "firstname": "Frank",
+            "middleinitial": "C.",
+            "lastname": "Hoppensteadt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20695,
+            "scholarlyactivityid": 6635
+        },
+        "20696": {
+            "firstname": "Zdzislaw",
+            "middleinitial": "",
+            "lastname": "Jackiewicz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20696,
+            "scholarlyactivityid": 6635
+        },
+        "20697": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20697,
+            "scholarlyactivityid": 6635
+        }
+    },
+    "status": [
+        {
+            "id": 6635,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 54588,
+    "fields": {
+        "Type": "Media Contribution",
+        "Title of Contribution (if applicable)": "Questions (and answers) about what to include on your graduate school resume/CV.",
+        "Name of Venue": "Eye on Psi Chi",
+        "Date": "2020-01-01",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Issue": "2",
+        "Page Numbers or Number of Pages": "10-12",
+        "Volume": "25",
+        "ISSN": "",
+        "Co-contributor": null,
+        "Web Address": "https://doi.org/10.24839/2164-9812.Eye25.2.10",
+        "Description/Abstract": "",
+        "Activity Type": "Magazine article",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "256730": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "VanderStoep",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256730,
+            "scholarlyactivityid": 54588
+        },
+        "256731": {
+            "firstname": "R. Eric",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 256731,
+            "scholarlyactivityid": 54588
+        },
+        "256732": {
+            "firstname": "Mitchell",
+            "middleinitial": "M.",
+            "lastname": "Handelsman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256732,
+            "scholarlyactivityid": 54588
+        }
+    },
+    "status": [
+        {
+            "id": 54588,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

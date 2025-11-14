@@ -1,0 +1,66 @@
+{
+    "activityid": 1781,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Effects of Signal Processing and Antenna Frequency on the Geostatistical Structure of Ground-Penetrating Radar Data",
+        "Journal": "Journal of Environmental &amp; Engineering Geophysics",
+        "Volume": "9",
+        "Month / Season": "2004-12-01",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "201-212",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.4133/JEEG9.4.201",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/17",
+        "Description/Abstract": "Recent research has suggested that the geostatistical structure of ground-penetrating radar data may be representative of the spatial structure of hydraulic properties. However, radar images of the subsurface can change drastically with application of signal processing or by changing the signal frequency. We perform geostatistical analyses of surface radar reflection profiles in order to investigate the effects of data processing and antenna frequency on the semivariogram structure of radar reflection amplitudes. Surface radar reflection data collected at the Boise Hydrogeophysical Research Site illustrate the processing- and antenna-dependence of radar semivariograms for a fluvial, cobble-and-sand aquifer. Compensating for signal attenuation and spreading using a gain function removes a nonstationary trend from the data and a trace-specific gain function reduces fluctuation of semivariogram values at large lags. Otherwise, geostatistical structures of surface reflection data are quite robust to the effects of data gains. Migration is observed to reduce the strength of diffraction features in the semivariogram fields and to increase the principal exponential range. Principal exponential range increases only slightly after application of migration with a realistic velocity but over-migration results in a significant artificial increase of exponential range. The geostatistical structures of radar reflection data exhibit marked dependence on antenna frequency, thus highlighting the critical importance of the scale of measurement. Specifically, the exponential ranges of radar reflection amplitudes decrease in proportion to the increased signal frequency for the 50 MHz, 100 MHz and 200 MHz range of antennas. Results demonstrate that processing and antenna frequency must be considered before the application of radar reflection data in a geostatistical context.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4451": {
+            "firstname": "Greg",
+            "middleinitial": "A.",
+            "lastname": "Oldenborger",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4451,
+            "scholarlyactivityid": 1781
+        },
+        "4452": {
+            "firstname": "Michael",
+            "middleinitial": "D.",
+            "lastname": "Knoll",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4452,
+            "scholarlyactivityid": 1781
+        },
+        "4453": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4453,
+            "scholarlyactivityid": 1781
+        }
+    },
+    "status": [
+        {
+            "id": 1781,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

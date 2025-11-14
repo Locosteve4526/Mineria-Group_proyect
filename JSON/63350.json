@@ -1,0 +1,72 @@
+{
+    "activityid": 63350,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Privacy Calculus: An Interaction of Technical and Social Factors on IoT Adoption",
+        "Name of Conference": "AMCIS 2021 ",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114227663",
+    "coauthors": {
+        "340508": {
+            "firstname": "Katia",
+            "middleinitial": "",
+            "lastname": "Guerra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114227663",
+            "authorid": 340508,
+            "scholarlyactivityid": 63350,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "340509": {
+            "firstname": "Vess",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 340509,
+            "scholarlyactivityid": 63350,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63350,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 63350,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114227663",
+    "attachments": []
+}

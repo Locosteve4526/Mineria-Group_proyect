@@ -1,0 +1,76 @@
+{
+    "activityid": 53888,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Idaho by the Numbers: 2017 Facts and Figures",
+        "Journal": null,
+        "Volume": null,
+        "Month / Season": null,
+        "Issue Number": null,
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": null,
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "113168713",
+    "coauthors": {
+        "252117": {
+            "firstname": "Lantz",
+            "middleinitial": "",
+            "lastname": "McGinnis-Brown",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252117,
+            "scholarlyactivityid": 53888
+        },
+        "252118": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "May",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252118,
+            "scholarlyactivityid": 53888
+        },
+        "252119": {
+            "firstname": "Vanessa",
+            "middleinitial": "Crossgrove",
+            "lastname": "Fry",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252119,
+            "scholarlyactivityid": 53888
+        },
+        "252120": {
+            "firstname": "Greg",
+            "middleinitial": "",
+            "lastname": "Hill",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252120,
+            "scholarlyactivityid": 53888
+        }
+    },
+    "status": [
+        {
+            "id": 53888,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113168713",
+    "attachments": []
+}

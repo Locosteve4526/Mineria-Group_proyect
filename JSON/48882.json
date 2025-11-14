@@ -1,0 +1,102 @@
+{
+    "activityid": 48882,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Spatial covariate-based constrained randomization of malaria interventions",
+        "Conference / Meeting Name": "ASTMH",
+        "Conference Location": "Washington D. C.",
+        "Date or Date Range": "11-22-2019",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "ASTMH",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "A two-year cluster-randomized comparative effectiveness trial of two different community case management interventions in NE Uganda employs a novel technique for cluster randomization of spatially constrained areas. The potential for contamination of treatments due to spatial proximity of villages and the potential for vector flight between different intervention areas required us to develop a spatially explicit cluster randomization methodology for this study. We describe a design framework for randomizing 55 villages in a rural area of Uganda to one of two interventions, proactive integrated community case management (ProCCM) or integrated community case management (iCCM). We first assigned villages to geographically contiguous clusters that could then be randomized to receive either the ProCCM or iCCM intervention using k-means clustering. We used the sum-of-squares of Euclidean distances between the village centroids to determine the ideal number of clusters. This yielded 8 total clusters, which resulted in 70 possible randomizations. We then applied the covariate-based constrained randomization (CCR) of clusters methodology described by Moulton et al. CCR restricts the choices of randomizations to those that yield acceptable balance between the two arms with respect to important cluster-level confounders. The confounders we considered in this randomization included: baseline malaria prevalence by microscopy, household density, population density, whether or not the cluster bordered lake Bisina, and sub-county (there were 2 sub-counties in this study area). We used a cut-off of the top 12 randomizations according to balance scores and chose one of these randomizations at random. This randomization achieved high balance with respect to baseline confounders across the arms. We are exploring other types of spatial clustering methods for this framework as well as optimizing CCR using variable weighting. This methodology is important for spatially correlated outcomes, such as vector-borne disease prevalence, where human and vector mixing could potentially contaminate the interventions.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067626",
+    "coauthors": {
+        "226786": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067626",
+            "authorid": 226786,
+            "scholarlyactivityid": 48882
+        },
+        "226787": {
+            "firstname": "Kathry",
+            "middleinitial": "",
+            "lastname": "Colborn",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226787,
+            "scholarlyactivityid": 48882
+        },
+        "226788": {
+            "firstname": "Thomas",
+            "middleinitial": "",
+            "lastname": "Eganyu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226788,
+            "scholarlyactivityid": 48882
+        },
+        "226789": {
+            "firstname": "Dorothy",
+            "middleinitial": "",
+            "lastname": "Echodu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226789,
+            "scholarlyactivityid": 48882
+        },
+        "226790": {
+            "firstname": "Ronald",
+            "middleinitial": "",
+            "lastname": "Mulebeke",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226790,
+            "scholarlyactivityid": 48882
+        },
+        "226791": {
+            "firstname": "Adoke",
+            "middleinitial": "",
+            "lastname": "Yeka",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226791,
+            "scholarlyactivityid": 48882
+        },
+        "226792": {
+            "firstname": "Humphrey",
+            "middleinitial": "",
+            "lastname": "Wanzira",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 226792,
+            "scholarlyactivityid": 48882
+        }
+    },
+    "status": [
+        {
+            "id": 48882,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114067626",
+    "attachments": []
+}

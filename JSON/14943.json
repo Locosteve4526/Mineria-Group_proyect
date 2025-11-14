@@ -1,0 +1,52 @@
+{
+    "activityid": 14943,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Make college count! A cross divisional approach to graduate employment",
+        "Conference/Meeting Name": "T-Summit 2015",
+        "Conference Location": "East Lansing, MI",
+        "Date or Date Range": "2015-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "62653": {
+            "firstname": "Debbie",
+            "middleinitial": "",
+            "lastname": "Kaylor",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 62653,
+            "scholarlyactivityid": 14943
+        },
+        "62654": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 62654,
+            "scholarlyactivityid": 14943
+        }
+    },
+    "status": [
+        {
+            "id": 14943,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

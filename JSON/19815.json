@@ -1,0 +1,63 @@
+{
+    "activityid": 19815,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Caught in the Act:  Visiting  Illicit Web Sites While on the Job",
+        "Name of Conference": "Annual Society for Case Research's Summer Case Writer's Workshop",
+        "Month / Season": "2011-06-30",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": null,
+        "Publisher": "",
+        "Publisher Location": "Rochester, New York",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "134344": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 134344,
+            "scholarlyactivityid": 19815,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "134345": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134345,
+            "scholarlyactivityid": 19815,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19815,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

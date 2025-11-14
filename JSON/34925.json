@@ -1,0 +1,76 @@
+{
+    "activityid": 34925,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cPre-processing of Degraded Printed Documents by Non-Local means and Total Variation\u201d",
+        "Name of Conference": "International Conference on Document Analysis and Recognition",
+        "Month / Season": "26-29 July",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Barcelona, Spain",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "We compare in this study two approaches for the pre-\r\nprocessing of printed documents. The first approach is\r\nbased on non-local means while the second is based on\r\nTotal Variation. Both approaches have been recently\r\napplied to image restoration. We apply these two ap-\r\nproaches to printed document sets from various peri-\r\nods. And we evaluate their effectiveness through char-\r\nacter recognition performance, using an open source\r\nOCR. Our results show that for each document set,\r\none or both pre-processings improve character recogni-\r\ntion accuracy over recognition without preprocessing.\r\nHigher accuracies are obtained with Non-local means\r\nwhen characters have a low level of degradation since\r\nthey can be restored by similar neighboring parts of non-\r\ndegraded characters. The Total Variation approach is\r\nmore effective when characters are highly degraded and\r\ncan only be restored through modeling instead of neigh-\r\nboring data.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142607": {
+            "firstname": "Laurence",
+            "middleinitial": "",
+            "lastname": "Likforman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142607,
+            "scholarlyactivityid": 34925,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142608": {
+            "firstname": "Jerome",
+            "middleinitial": "",
+            "lastname": "Darbon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142608,
+            "scholarlyactivityid": 34925,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "142609": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142609,
+            "scholarlyactivityid": 34925,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34925,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2009,
+            "termid": "2009/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

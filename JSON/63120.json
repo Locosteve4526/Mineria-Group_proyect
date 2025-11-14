@@ -1,0 +1,57 @@
+{
+    "activityid": 63120,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Supporting student success through predictive analytics: Preparing to intervene",
+        "Name of Conference": "Society for Information Technology &amp; Teacher Education (SITE) International Conference",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "581-585",
+        "Publisher": "Association for the Advancement of Computing in Education (AACE)",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "290700": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 290700,
+            "scholarlyactivityid": 63120
+        },
+        "290699": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 290699,
+            "scholarlyactivityid": 63120
+        }
+    },
+    "status": [
+        {
+            "id": 63120,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

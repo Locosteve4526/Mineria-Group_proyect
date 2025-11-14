@@ -1,0 +1,55 @@
+{
+    "activityid": 27601,
+    "fields": {
+        "Type": "Book",
+        "Title": "Fresh Takes on Teaching Literary Elements: How to Teach What Really Matters About Character, Setting, Point of View, and Theme",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Scholastic",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "Scholastic",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/267",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "87272": {
+            "firstname": "Michael",
+            "middleinitial": "W.",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87272,
+            "scholarlyactivityid": 27601
+        },
+        "87273": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 87273,
+            "scholarlyactivityid": 27601
+        }
+    },
+    "status": [
+        {
+            "id": 27601,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

@@ -1,0 +1,65 @@
+{
+    "activityid": 53384,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Chinese children's school experiences represented in picture books",
+        "Journal": "Research on Diversity in Youth Literature",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112180267",
+    "coauthors": {
+        "249171": {
+            "firstname": "Lin",
+            "middleinitial": "",
+            "lastname": "Gou",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 249171,
+            "scholarlyactivityid": 53384
+        },
+        "249172": {
+            "firstname": "EunHye",
+            "middleinitial": "",
+            "lastname": "Son",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112180267",
+            "authorid": 249172,
+            "scholarlyactivityid": 53384
+        }
+    },
+    "status": [
+        {
+            "id": 53384,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53384,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112180267",
+    "attachments": []
+}

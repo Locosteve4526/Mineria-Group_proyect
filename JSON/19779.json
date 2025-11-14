@@ -1,0 +1,76 @@
+{
+    "activityid": 19779,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "An examination of the recent increase in corporate financial restatements due to inappropriate lease accounting",
+        "Name of Conference": "The Allied Academies International Conference",
+        "Month / Season": "2005-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": null,
+        "Publisher": "The Allied Academies",
+        "Publisher Location": "Las Vegas, NV",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112188648",
+    "coauthors": {
+        "134568": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 134568,
+            "scholarlyactivityid": 19779,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134569": {
+            "firstname": "Alan",
+            "middleinitial": "",
+            "lastname": "Ortegren",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134569,
+            "scholarlyactivityid": 19779,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134570": {
+            "firstname": "Brad",
+            "middleinitial": "",
+            "lastname": "Reed",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134570,
+            "scholarlyactivityid": 19779,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19779,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2005,
+            "termid": "2005/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188648",
+    "attachments": []
+}

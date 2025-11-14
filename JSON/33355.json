@@ -1,0 +1,102 @@
+{
+    "activityid": 33355,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Evaluation of a program designed to  increase retention in counselor education: Reaching year two ",
+        "Journal": "Journal of Counselor  Preparation and Supervision",
+        "Volume": "11",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111726552",
+    "coauthors": {
+        "179533": {
+            "firstname": "Jaime",
+            "middleinitial": "",
+            "lastname": "Jensen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179533,
+            "scholarlyactivityid": 33355,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "179534": {
+            "firstname": "Aida",
+            "middleinitial": "",
+            "lastname": "Midgett",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113026222",
+            "authorid": 179534,
+            "scholarlyactivityid": 33355,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "179535": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Doumas",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111726552",
+            "authorid": 179535,
+            "scholarlyactivityid": 33355,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33355,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 33355,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 33355,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 33355,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111726552",
+    "attachments": []
+}

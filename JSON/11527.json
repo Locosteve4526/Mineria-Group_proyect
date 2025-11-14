@@ -1,0 +1,52 @@
+{
+    "activityid": 11527,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Martian Volcanology ",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Boise Art Museum",
+        "Date or Date Range": "2013-07-31",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111688329",
+    "coauthors": {
+        "54851": {
+            "firstname": "Brittany",
+            "middleinitial": "",
+            "lastname": "Brand",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111688329",
+            "authorid": 54851,
+            "scholarlyactivityid": 11527
+        },
+        "54852": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Bandfield",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 54852,
+            "scholarlyactivityid": 11527
+        }
+    },
+    "status": [
+        {
+            "id": 11527,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111688329",
+    "attachments": []
+}

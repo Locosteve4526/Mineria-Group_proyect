@@ -1,0 +1,76 @@
+{
+    "activityid": 57264,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A randomized controlled trial testing the  efficacy of the eCHECKUP TO GO for high school seniors. ",
+        "Journal": "Substance Use and Misuse",
+        "Volume": "56",
+        "Month / Season": "",
+        "Issue Number": "13",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "1923-1932",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1080/10826084.2021.1958862",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111996",
+    "coauthors": {
+        "264612": {
+            "firstname": "Diana",
+            "middleinitial": "",
+            "lastname": "Doumas",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111726552",
+            "authorid": 264612,
+            "scholarlyactivityid": 57264
+        },
+        "264611": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Esp",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111336395",
+            "authorid": 264611,
+            "scholarlyactivityid": 57264
+        },
+        "264610": {
+            "firstname": "Rob",
+            "middleinitial": "",
+            "lastname": "Turrisi",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 264610,
+            "scholarlyactivityid": 57264
+        },
+        "264609": {
+            "firstname": "Laura",
+            "middleinitial": "",
+            "lastname": "Bond",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111111996",
+            "authorid": 264609,
+            "scholarlyactivityid": 57264
+        }
+    },
+    "status": [
+        {
+            "id": 57264,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111996",
+    "attachments": []
+}

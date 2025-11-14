@@ -1,0 +1,102 @@
+{
+    "activityid": 54555,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Genetic analysis of Bromus tectorum (Poaceae) in the Mediterranean region: biogeographical pattern of native populations",
+        "Journal": "Heredity",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110143",
+    "coauthors": {
+        "256501": {
+            "firstname": "Lauren",
+            "middleinitial": "",
+            "lastname": "Kelly",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256501,
+            "scholarlyactivityid": 54555
+        },
+        "256502": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Mack",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256502,
+            "scholarlyactivityid": 54555
+        },
+        "256503": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak PhD",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 256503,
+            "scholarlyactivityid": 54555
+        }
+    },
+    "status": [
+        {
+            "id": 54555,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54555,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 54555,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 54555,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 54555,
+            "status": "In Press",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "111110143",
+    "attachments": []
+}

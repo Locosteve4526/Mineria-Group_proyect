@@ -1,0 +1,62 @@
+{
+    "activityid": 16270,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Collagen XI 1 Chain Amino",
+        "Conference/Meeting Name": "The 92nd Annual AAASPD Conference",
+        "Conference Location": "San Diego, CA",
+        "Date or Date Range": "2011-06-30",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "65667": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Mallory",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65667,
+            "scholarlyactivityid": 16270
+        },
+        "65668": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 65668,
+            "scholarlyactivityid": 16270
+        },
+        "65669": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 65669,
+            "scholarlyactivityid": 16270
+        }
+    },
+    "status": [
+        {
+            "id": 16270,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

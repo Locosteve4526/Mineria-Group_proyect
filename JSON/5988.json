@@ -1,0 +1,85 @@
+{
+    "activityid": 5988,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Arithmetic toric varieties",
+        "Journal": "Mathematische Nachrichten",
+        "Volume": "287",
+        "Month / Season": "",
+        "Issue Number": "2-3",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "216-241",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113078387",
+    "coauthors": {
+        "115509": {
+            "firstname": "Javier",
+            "middleinitial": "",
+            "lastname": "Elizondo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 115509,
+            "scholarlyactivityid": 5988
+        },
+        "115510": {
+            "firstname": "Paulo",
+            "middleinitial": "",
+            "lastname": "Lima-Filho",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 115510,
+            "scholarlyactivityid": 5988
+        },
+        "115511": {
+            "firstname": "Frank",
+            "middleinitial": "",
+            "lastname": "Sottile",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 115511,
+            "scholarlyactivityid": 5988
+        },
+        "115512": {
+            "firstname": "Zachariah",
+            "middleinitial": "",
+            "lastname": "Teitler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113078387",
+            "authorid": 115512,
+            "scholarlyactivityid": 5988
+        }
+    },
+    "status": [
+        {
+            "id": 5988,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 5988,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113078387",
+    "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+    "activityid": 41390,
+    "fields": {
+        "Type": "Book",
+        "Title": "Revolver (Stories)",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "BCC Press",
+        "Publisher Location": "Salt Lake City, UT",
+        "ISBN": "978-1948218009",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Collection of 10 short stories, 9 or which were previously published and the remaining 1 accepted for publication as the book went to press. Several of the stories have won awards.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111301723",
+    "coauthors": {
+        "181809": {
+            "firstname": "Heidi",
+            "middleinitial": "",
+            "lastname": "Naylor",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111301723",
+            "authorid": 181809,
+            "scholarlyactivityid": 41390,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41390,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111301723",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 52866,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "A336793 Incrementally largest values of minimal positive y satisfying the equation x^2-D*y^2=-2, where D is an odd prime number.",
+        "Outlet (if applicable)": "Online Encyclopedia for Integer Sequences",
+        "Date": "Oct 14, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Publisher": "Online Encyclopedia for Integer Sequences",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://oeis.org/A336793",
+        "Description/Abstract": "For D=3, the least positive y for which x^2-D*y^2=-2 has a solution is 1. The next prime, D, for which x^2-D*y^2=-2 has a solution is 11, but the smallest positive y in this case is also 1, which is equal to the previous record y. So 11 is not a term.\n\nThe next prime, D, after 11 for which x^2-D*y^2=-2 has a solution is 19 and the least positive y for which it has a solution is y=3, which is larger than 1, so it is a new record y value. So 19 qualifies for membership to A336792 and 3 qualifies to membership to this sequence.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "245880": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 245880,
+            "scholarlyactivityid": 52866
+        },
+        "245881": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "Patterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245881,
+            "scholarlyactivityid": 52866,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52866,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

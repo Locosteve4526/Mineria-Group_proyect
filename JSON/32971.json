@@ -1,0 +1,62 @@
+{
+    "activityid": 32971,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Undue Cost of Academic Publishing: Democratizing Information Access",
+        "Journal": "The Blue Review",
+        "Volume": "",
+        "Month / Season": "03-12-2017",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "Boise State University School of Public Service",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://thebluereview.org/undue-cost-academic-publishing/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111203681",
+    "coauthors": {
+        "127936": {
+            "firstname": "Jose",
+            "middleinitial": "Guillermo",
+            "lastname": "Cordova Silva",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111203681",
+            "authorid": 127936,
+            "scholarlyactivityid": 32971,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "127937": {
+            "firstname": "Amber",
+            "middleinitial": "",
+            "lastname": "Sherman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 127937,
+            "scholarlyactivityid": 32971,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32971,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111203681",
+    "attachments": []
+}

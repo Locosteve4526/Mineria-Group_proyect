@@ -1,0 +1,101 @@
+{
+    "activityid": 34308,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Assessment of factors for recruiting and retaining medical students to rural communities using the Community Apgar Questionnaire",
+        "Journal": "Family Medicine",
+        "Volume": "49",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "132-136",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "138657": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Reed",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138657,
+            "scholarlyactivityid": 34308,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138658": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138658,
+            "scholarlyactivityid": 34308,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138659": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 138659,
+            "scholarlyactivityid": 34308,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138660": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Girvan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 138660,
+            "scholarlyactivityid": 34308,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "138661": {
+            "firstname": "Theodore",
+            "middleinitial": "",
+            "lastname": "McDonald",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669855",
+            "authorid": 138661,
+            "scholarlyactivityid": 34308,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34308,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

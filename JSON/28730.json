@@ -1,0 +1,60 @@
+{
+    "activityid": 28730,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Simon Brenner",
+        "Book Title": "100 Greatest Literary Detectives",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "26-27",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Rowman &amp; Littlefield",
+        "Publisher Location": "Lanham, Maryland",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Eric Sandberg",
+        "DOI": "978-1442278226",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110237",
+    "coauthors": {
+        "169270": {
+            "firstname": "Heike",
+            "middleinitial": "",
+            "lastname": "Henderson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110237",
+            "authorid": 169270,
+            "scholarlyactivityid": 28730,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28730,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 28730,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110237",
+    "attachments": []
+}

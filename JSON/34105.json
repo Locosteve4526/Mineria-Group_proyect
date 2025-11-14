@@ -1,0 +1,84 @@
+{
+    "activityid": 34105,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Query over encrypted database in clouds \u2013 the encryption strategy",
+        "Name of Conference": "The 21st International Computer Science and Engineering Conference",
+        "Month / Season": "November",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Using cloud services, users are able to store information from one device and easily access the same data from a completely different device. Cloud service providers usually put more emphasis on defending outside attacks rather than internal attacks. Thus, data stored on the cloud usually suffers more from insider threats and can be viewed by anyone with access to the server. Our solution is a cloud security strategy where data is selectively and strategically encrypted before it is stored in a cloud server, which renders the data unintelligible to both outside attackers and malicious insiders. The strategic encryption allows for queries to be run over the encrypted data on the server without decryption. Decryption keys are stored within the data owner\u2019s organization and are never revealed to the server, meaning it cannot be decrypted by anyone besides the owner. This allows entities to store highly sensitive data on cloud services without the extra risk associated with cloud storage.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111632553",
+    "coauthors": {
+        "136816": {
+            "firstname": "Jake",
+            "middleinitial": "",
+            "lastname": "Douglas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 136816,
+            "scholarlyactivityid": 34105,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "136817": {
+            "firstname": "Monica",
+            "middleinitial": "",
+            "lastname": "Robison",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 136817,
+            "scholarlyactivityid": 34105,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "136818": {
+            "firstname": "Jyh-haw",
+            "middleinitial": "",
+            "lastname": "Yeh",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111632553",
+            "authorid": 136818,
+            "scholarlyactivityid": 34105,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34105,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111632553",
+    "attachments": [
+        {
+            "attachmentid": 5997,
+            "mimetype": "application/pdf",
+            "filename": "Query Over Encrypted Databases in Clouds.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25xT25MYWNtYy9WeWYrQTVNWkh5eGhyeUZQQ0kyTlhIb0VEaW1qRTE4NHhHQmZlaTBZd2hsQWlKbVkwZ3lSWkxLS2diOHlzNS8vZHlxNkZnRW1aaU15Lw%3D%3D",
+            "filesize": 371571
+        }
+    ]
+}

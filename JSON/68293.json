@@ -1,0 +1,63 @@
+{
+    "activityid": 68293,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Musician/Composer Self-Identification with Digital Tools",
+        "Name of Conference": "",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "308398": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 308398,
+            "scholarlyactivityid": 68293,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "308399": {
+            "firstname": "Newman",
+            "middleinitial": "",
+            "lastname": "Michelle",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 308399,
+            "scholarlyactivityid": 68293,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 68293,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

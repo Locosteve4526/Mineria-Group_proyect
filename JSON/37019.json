@@ -1,0 +1,76 @@
+{
+    "activityid": 37019,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Starbucks and the Sheraton: An Analysis of Papers Presented at the 2007 ACJS Meeting in Seattle.  ",
+        "Name of Conference": "ACJS",
+        "Month / Season": "Spring",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112049187",
+    "coauthors": {
+        "153488": {
+            "firstname": "Marc",
+            "middleinitial": "A.",
+            "lastname": "Ruffinengo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112049187",
+            "authorid": 153488,
+            "scholarlyactivityid": 37019,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "153489": {
+            "firstname": "David",
+            "middleinitial": "G.",
+            "lastname": "Mueller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 153489,
+            "scholarlyactivityid": 37019,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "153490": {
+            "firstname": "Peter",
+            "middleinitial": "A.",
+            "lastname": "Collins",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 153490,
+            "scholarlyactivityid": 37019,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37019,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112049187",
+    "attachments": []
+}

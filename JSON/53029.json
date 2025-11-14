@@ -1,0 +1,66 @@
+{
+    "activityid": 53029,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Intramolecular phenotypic capacitance in a modular RNA molecule",
+        "Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "Volume": "112",
+        "Month / Season": "",
+        "Issue Number": "40",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "12444-9",
+        "Publisher": "",
+        "DOI": "10.1073/pnas.1420902112",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Phenotypic capacitance refers to the ability of a genome to accumulate mutations that are conditionally hidden and only reveal phenotype-altering effects after certain environmental or genetic changes. Capacitance has important implications for the evolution of novel forms and functions, but experimentally studied mechanisms behind capacitance are mostly limited to complex, multicomponent systems often involving several interacting protein molecules. Here we demonstrate phenotypic capacitance within a much simpler system, an individual RNA molecule with catalytic activity (ribozyme). This naturally occurring RNA molecule has a modular structure, where a scaffold module acts as an intramolecular chaperone that facilitates folding of a second catalytic module. Previous studies have shown that the scaffold module is not absolutely required for activity, but dramatically decreases the concentration of magnesium ions required for the formation of an active site. Here, we use an experimental perturbation of magnesium ion concentration that disrupts the folding of certain genetic variants of this ribozyme and use in vitro selection followed by deep sequencing to identify genotypes with altered phenotypes (catalytic activity). We identify multiple conditional mutations that alter the wild-type ribozyme phenotype under a stressful environmental condition of low magnesium ion concentration, but preserve the phenotype under more relaxed conditions. This conditional buffering is confined to the scaffold module, but controls the catalytic phenotype, demonstrating how modularity can enable phenotypic capacitance within a single macromolecule. RNA's ancient role in life suggests that phenotypic capacitance may have influenced evolution since life's origins. ",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114001941",
+    "coauthors": {
+        "247078": {
+            "firstname": "Eric",
+            "middleinitial": "J",
+            "lastname": "Hayden",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247078,
+            "scholarlyactivityid": 53029
+        },
+        "247079": {
+            "firstname": "Devin",
+            "middleinitial": "P",
+            "lastname": "Bendixsen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247079,
+            "scholarlyactivityid": 53029
+        },
+        "247080": {
+            "firstname": "Andreas",
+            "middleinitial": "",
+            "lastname": "Wagner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247080,
+            "scholarlyactivityid": 53029
+        }
+    },
+    "status": [
+        {
+            "id": 53029,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001941",
+    "attachments": []
+}

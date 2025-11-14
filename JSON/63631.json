@@ -1,0 +1,58 @@
+{
+    "activityid": 63631,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "&lt;span&gt;&lt;span style=&quot;font-size:11pt;background-color:transparent;&quot;&gt;Project SCIENTIA: Science in Spanish for Diverse Audiences&lt;/span&gt;&lt;/span&gt;",
+        "Conference / Meeting Name": "2022 VIP Showcase",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "October",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "IFITS",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114067032",
+    "coauthors": {
+        "293285": {
+            "firstname": "Carlos",
+            "middleinitial": "",
+            "lastname": "Linares",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 293285,
+            "scholarlyactivityid": 63631,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "293286": {
+            "firstname": "Carolina",
+            "middleinitial": "",
+            "lastname": "Viera",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114067032",
+            "authorid": 293286,
+            "scholarlyactivityid": 63631,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 63631,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114067032",
+    "attachments": []
+}

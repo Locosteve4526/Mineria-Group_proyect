@@ -1,0 +1,89 @@
+{
+    "activityid": 48106,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "What\u2019s the purpose? A mixed-methods exploration of disciplinary reading in high school classrooms",
+        "Journal": "Reading &amp; Writing Quarterly: Overcoming Learning Difficulties. ",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108452",
+    "coauthors": {
+        "349118": {
+            "firstname": "Dianna",
+            "middleinitial": "",
+            "lastname": "Townsend",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349118,
+            "scholarlyactivityid": 48106,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349119": {
+            "firstname": "Hannah",
+            "middleinitial": "",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108452",
+            "authorid": 349119,
+            "scholarlyactivityid": 48106,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48106,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 48106,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 48106,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 48106,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114108452",
+    "attachments": []
+}

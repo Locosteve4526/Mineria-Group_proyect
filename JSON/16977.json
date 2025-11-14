@@ -1,0 +1,52 @@
+{
+    "activityid": 16977,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Impact of ICD-10 on the Healthcare System",
+        "Conference / Meeting Name": "IdHIMA Annual Convention",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2009-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Sponsoring Organization": "Idaho Health Information Management Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "67061": {
+            "firstname": "Emma",
+            "middleinitial": "",
+            "lastname": "Christensen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 67061,
+            "scholarlyactivityid": 16977
+        },
+        "67062": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 67062,
+            "scholarlyactivityid": 16977
+        }
+    },
+    "status": [
+        {
+            "id": 16977,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

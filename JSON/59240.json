@@ -1,0 +1,65 @@
+{
+    "activityid": 59240,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Influence of subsurface heterogeneity on critical zone characterizations with electrical resistivity and seismic refraction tomography",
+        "Name of Conference": "Sixth International Conference on Engineering Geophysics",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "213-216",
+        "Publisher": "Society of Exploration Geophysicists",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://doi.org/10.1190/iceg2021-055.1",
+        "Description/Abstract": "Due to complex interactions between various processes, Earth's critical zone (CZ) is spatially heterogeneous. Recently, geophysical methods have been used to characterize the heterogeneous CZ. It has been shown the joint inversion of multiple geophysical datasets may improve the performance of CZ characterizations. It is, however, still unclear how the subsurface heterogeneity affects the performance of geophysical imaging of CZs. In this study, we design CZ models with various degrees of spatial heterogeneity in resistivity and velocity. Synthetic resistivity and seismic refraction tests are simulated on these models and the simulated data are jointly inverted to reconstruct the CZs. The inversion results show that subsurface heterogeneity could affect the performance of resistivity tomography. When the heterogeneity is severe (i.e., resistivity correlation length is smaller than the resistivity array length), the CZ structure and properties may not be reliably estimated from the inversion results. In contrast, seismic refraction tomography works fairly well for CZ characterizations when the velocity correlation length is greater than the geophone spacing.",
+        "Origin": "RIS"
+    },
+    "facultyid": "114112754",
+    "coauthors": {
+        "276651": {
+            "firstname": "Hang",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276651,
+            "scholarlyactivityid": 59240
+        },
+        "276652": {
+            "firstname": "Qifei",
+            "middleinitial": "",
+            "lastname": "Niu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276652,
+            "scholarlyactivityid": 59240
+        }
+    },
+    "status": [
+        {
+            "id": 59240,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114112754",
+    "attachments": [
+        {
+            "attachmentid": 37312,
+            "mimetype": "application/pdf",
+            "filename": "iceg2021-055.1.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeW1KUlhWN2tRSzlqcVB6M2EvMzZXcGNNTXVtU2pQNTQ1c253NzU5WGRuZ0pxdGhMUDJVVWhhS0NHdGw2VXdpdnk%3D",
+            "filesize": 818617
+        }
+    ]
+}

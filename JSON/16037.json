@@ -1,0 +1,52 @@
+{
+    "activityid": 16037,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Synthesis of beta-ketoacyl-ACP, beta-ketoacyl-CoA &amp; beta-ketoacyl-pantetheine substrates for Pseudomonas aeruginosa LasI AHL synthase  ",
+        "Conference/Meeting Name": "67th American Chemical Society Northwest Regional Meeting",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2012-06-27",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "American Chemical Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Bacteria use autoinducer molecules to monitor their population densities in a phenomenon called quorum sensing. At high cell densities, bacteria coordinate their gene expression to behave as a unified group. This chemical signaling process plays a pivotal role in to regulate such functions as biofilm formation and the expression of virulence factors. The opportunistic bacteria Pseudomonas aeruginosa use quorum sensing to coordinate these virulence factors by producing two signaling molecules, N-(3-oxododecanoyl)-L-homoserine lactone and N-butanoyl-L-homoserine lactone. For the synthesis of these autoinducer molecules, LasI and RhlI enzymes uses their respective acyl-ACP substrates and S-adenosyl-L-methionine to form acyl homoserine lactones (AHL), which activates the transcriptional activator proteins (LasR and RhlR) to regulate the production of virulence factors. Since activation of quorum sensing genes in P. aeruginosa is hierarchal with LasI activating RhlI/R, LasI inhibitors are attractive targets to reduce pathogenic effects in this bacterium. However, the design and evaluation of LasI inhibitors is not straightforward because mechanistic information on LasI catalyzed AHL synthesis is largely unknown due to the difficulty in getting access to 3-oxoacyl-ACP substrate in sufficient yields for routine biochemical assays. Moreover, the enol form of beta-keto group interferes with the activation of 3-oxo-acid reducing the yield even further. In this context, we explored the synthesis of 3-oxododecanoyl-ACP, 3-oxododecanoyl-CoA and 3-oxododecanoyl-pantetheine as substrates for the enzyme. 3-oxododecanoyl-CoA was synthesized from the corresponding 3-oxododecanoyl succinimide ester using Meldrum's acid. Acyl pantetheine was synthesized both by using Meldrum\u2019s acid procedure and by building the pantheine chain in three steps. Finally, we will use a phosphopantetheinyl transferase enzyme to synthesize acyl-ACP from acyl-CoA. These substrates will aid in mechanistic studies on LasI enzyme. ",
+        "Origin": "Other"
+    },
+    "facultyid": "113083415",
+    "coauthors": {
+        "65058": {
+            "firstname": "Dastagiri",
+            "middleinitial": "",
+            "lastname": "Dudekula",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65058,
+            "scholarlyactivityid": 16037
+        },
+        "65059": {
+            "firstname": "Rajesh",
+            "middleinitial": "",
+            "lastname": "Nagarajan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083415",
+            "authorid": 65059,
+            "scholarlyactivityid": 16037
+        }
+    },
+    "status": [
+        {
+            "id": 16037,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2012,
+            "termid": "2012/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083415",
+    "attachments": []
+}

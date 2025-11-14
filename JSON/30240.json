@@ -1,0 +1,102 @@
+{
+    "activityid": 30240,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Innovations in rural physician recruitment and retention",
+        "Name of Conference": "National Rural Health Association's 39th Annual Rural Health Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "109757": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109757,
+            "scholarlyactivityid": 30240,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109758": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 109758,
+            "scholarlyactivityid": 30240,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109759": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Barcley",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109759,
+            "scholarlyactivityid": 30240,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109760": {
+            "firstname": "Mike",
+            "middleinitial": "",
+            "lastname": "Shimmons",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109760,
+            "scholarlyactivityid": 30240,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "109761": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Terry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 109761,
+            "scholarlyactivityid": 30240,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30240,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

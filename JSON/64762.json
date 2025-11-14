@@ -1,0 +1,94 @@
+{
+    "activityid": 64762,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Judicial Decision Making and the Exclusion of Evidence",
+        "Name of Conference": "Southern Political Science Association",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112062498",
+    "coauthors": {
+        "300004": {
+            "firstname": "Lori",
+            "middleinitial": "J",
+            "lastname": "Hausegger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112062498",
+            "authorid": 300004,
+            "scholarlyactivityid": 64762,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300005": {
+            "firstname": "Troy",
+            "middleinitial": "",
+            "lastname": "Riddell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300005,
+            "scholarlyactivityid": 64762,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "300006": {
+            "firstname": "Danielle",
+            "middleinitial": "",
+            "lastname": "McNabb",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300006,
+            "scholarlyactivityid": 64762,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64762,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 64762,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64762,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112062498",
+    "attachments": []
+}

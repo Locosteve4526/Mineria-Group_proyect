@@ -1,0 +1,55 @@
+{
+    "activityid": 26870,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Design and Use of Simulation Computer Games in Education",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Sense Publishers",
+        "Publisher Location": "Rotterdam, The Netherlands",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "85851": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 85851,
+            "scholarlyactivityid": 26870
+        },
+        "85852": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Wiley",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 85852,
+            "scholarlyactivityid": 26870
+        }
+    },
+    "status": [
+        {
+            "id": 26870,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

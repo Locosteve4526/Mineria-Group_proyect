@@ -1,0 +1,66 @@
+{
+    "activityid": 6123,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The learning games design model: Immersion, collaboration, and outcomes-driven development",
+        "Journal": "International Journal of Game-Based Learning",
+        "Volume": "2",
+        "Month / Season": "2012-10-31",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "24",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002217",
+    "coauthors": {
+        "19164": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Chamberlin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 19164,
+            "scholarlyactivityid": 6123
+        },
+        "19165": {
+            "firstname": "Jesus",
+            "middleinitial": "",
+            "lastname": "Trespalacios",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114002217",
+            "authorid": 19165,
+            "scholarlyactivityid": 6123
+        },
+        "19166": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Gallagher",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 19166,
+            "scholarlyactivityid": 6123
+        }
+    },
+    "status": [
+        {
+            "id": 6123,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002217",
+    "attachments": []
+}

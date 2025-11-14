@@ -1,0 +1,71 @@
+{
+    "activityid": 41209,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Comparing collaborative and cooperative game play for academic and gaming achievements",
+        "Journal": "Journal of Educational Computing Research",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1177/0735633118825385",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113083482",
+    "coauthors": {
+        "195240": {
+            "firstname": "Youngkyun",
+            "middleinitial": "",
+            "lastname": "Baek",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083482",
+            "authorid": 195240,
+            "scholarlyactivityid": 41209,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195241": {
+            "firstname": "Achraf",
+            "middleinitial": "",
+            "lastname": "Touati",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195241,
+            "scholarlyactivityid": 41209,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41209,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 41209,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113083482",
+    "attachments": []
+}

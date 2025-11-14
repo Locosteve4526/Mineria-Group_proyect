@@ -1,0 +1,42 @@
+{
+    "activityid": 19293,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "What is Unique about the Family",
+        "Conference/Meeting Name": "",
+        "Conference Location": "Dallas TX",
+        "Date or Date Range": "2011-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "University of Dallas",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643642",
+    "coauthors": {
+        "72195": {
+            "firstname": "Scott",
+            "middleinitial": "E",
+            "lastname": "Yenor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643642",
+            "authorid": 72195,
+            "scholarlyactivityid": 19293
+        }
+    },
+    "status": [
+        {
+            "id": 19293,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643642",
+    "attachments": []
+}

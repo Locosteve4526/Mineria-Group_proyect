@@ -1,0 +1,75 @@
+{
+    "activityid": 71677,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Ontology-based Framework for Boundary Verification of Safety and Security Properties in Industrial Control Systems",
+        "Name of Conference": "Proceedings of the 2023 European Interdisciplinary Cybersecurity Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "47\u201352",
+        "Publisher": "Association for Computing Machinery",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "https://doi.org/10.1145/3590777.3590785",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;As part of Industrial Control Systems (ICS), the control logic controls the physical processes of critical infrastructures such as power plants and water and gas distribution. The Programmable Logic Controller (PLC) commonly manages these processes through actuators based on information received from sensor readings. Therefore, boundary checking is essential in ICS because sensor readings and actuator values must be within the safe range to ensure safe and secure ICS operation. In this paper, we propose an ontology-based approach to provide the knowledge required to verify the boundaries of ICS components with respect to their safety and security specifications. For the proof of concept, the formal model of the Programmable Logic Controller (PLC) is created in UPPAAL and validated in UPPAAL-API. Then, the proposed boundary verification algorithm is used to import the required information from the safety/security ontology&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114068806",
+    "coauthors": {
+        "326520": {
+            "firstname": "Chibuzo",
+            "middleinitial": "",
+            "lastname": "Ukegbu",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326520,
+            "scholarlyactivityid": 71677
+        },
+        "326521": {
+            "firstname": "Ramesh",
+            "middleinitial": "",
+            "lastname": "Neupane",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326521,
+            "scholarlyactivityid": 71677
+        },
+        "326522": {
+            "firstname": "Hoda",
+            "middleinitial": "",
+            "lastname": "Mehrpouyan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326522,
+            "scholarlyactivityid": 71677
+        }
+    },
+    "status": [
+        {
+            "id": 71677,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114068806",
+    "attachments": [
+        {
+            "attachmentid": 54626,
+            "mimetype": "application/pdf",
+            "filename": "European_Interdisciplinary_Cybersecurity_Conference2023_Ontology1.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitZWTI5SUlJUFoyVVpqdGdkUzNvdytxU3pQenJhblR6enBkZmVxM0FvWFJhNDc4K3lFRGhrTFYzTHpsY21nNW5NSmQ3aHFVL05Pa2VpZ3VCU1M0Nk5XbXZjUWNGQTdmdU9DUFdoZzRuU1Blcy92eEtDS3o5ZFcv",
+            "filesize": 1273082
+        }
+    ]
+}

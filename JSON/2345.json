@@ -1,0 +1,76 @@
+{
+    "activityid": 2345,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Effectiveness of various enhancement strategies to complement animated instruction: A meta-analytic assessment.",
+        "Journal": "Journal of Educational Technology Systems",
+        "Volume": "35",
+        "Month / Season": "2007-12-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "215-237",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113083497",
+    "coauthors": {
+        "6256": {
+            "firstname": "Huifen",
+            "middleinitial": "",
+            "lastname": "Ling",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6256,
+            "scholarlyactivityid": 2345
+        },
+        "6257": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 6257,
+            "scholarlyactivityid": 2345
+        },
+        "6258": {
+            "firstname": "Fengfeng",
+            "middleinitial": "",
+            "lastname": "Ke",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6258,
+            "scholarlyactivityid": 2345
+        },
+        "6259": {
+            "firstname": "Frank",
+            "middleinitial": "M",
+            "lastname": "Dwyer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 6259,
+            "scholarlyactivityid": 2345
+        }
+    },
+    "status": [
+        {
+            "id": 2345,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113083497",
+    "attachments": []
+}

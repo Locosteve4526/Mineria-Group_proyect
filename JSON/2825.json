@@ -1,0 +1,66 @@
+{
+    "activityid": 2825,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Reproducibility of Soil Moisture Ensembles When Representing Soil Parameter Uncertainty Using a Latin Hypercube-Based Approach with Correlation Control",
+        "Journal": "Water Resources Research",
+        "Volume": "46",
+        "Month / Season": "2010-04-17",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "W04506",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2009wr008155",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/geo_facpubs/15",
+        "Description/Abstract": "Representation of model input uncertainty is critical in ensemble?based data assimilation. Monte Carlo sampling of model inputs produces uncertainty in the hydrologic state through the model dynamics. Small Monte Carlo ensemble sizes are desirable because of model complexity and dimensionality but potentially lead to sampling errors and correspondingly poor representation of probabilistic structure of the hydrologic state. We compare two techniques to sample soil hydraulic and thermal properties (SHTPs): (1) Latin Hypercube (LH) based sampling with correlation control and (2) random sampling from SHTP marginal distributions. A hydrology model is used to project SHTP uncertainty onto the soil moisture state for given forcings. For statistical comparison, we generate 20 ensembles for 7 ensemble sizes. Variance in ensemble moment estimates decreases with increasing ensemble size. The LH?based approach yields less variance in the estimate of ensemble moments at all ensemble sizes, an advantage greatest with small ensembles. Implications for hydrologic uncertainty assessment, data assimilation, and parameter estimation are discussed.",
+        "Origin": "Other"
+    },
+    "facultyid": "112188448",
+    "coauthors": {
+        "7951": {
+            "firstname": "Alejandro",
+            "middleinitial": "Nicolas",
+            "lastname": "Flores",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188448",
+            "authorid": 7951,
+            "scholarlyactivityid": 2825
+        },
+        "7952": {
+            "firstname": "Dara",
+            "middleinitial": "",
+            "lastname": "Entekhabi",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7952,
+            "scholarlyactivityid": 2825
+        },
+        "7953": {
+            "firstname": "Rafael",
+            "middleinitial": "L.",
+            "lastname": "Bras",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 7953,
+            "scholarlyactivityid": 2825
+        }
+    },
+    "status": [
+        {
+            "id": 2825,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188448",
+    "attachments": []
+}

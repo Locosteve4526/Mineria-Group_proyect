@@ -1,0 +1,55 @@
+{
+    "activityid": 65059,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Testing Research Software: a survey",
+        "Journal": "Empirical Software Engineering EMSE",
+        "Volume": "27",
+        "Month / Season": "July",
+        "Issue Number": "138",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1007/s10664-022-10184-9",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114202830",
+    "coauthors": {
+        "302092": {
+            "firstname": "Nasir",
+            "middleinitial": "U",
+            "lastname": "Eisty",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114202830",
+            "authorid": 302092,
+            "scholarlyactivityid": 65059
+        }
+    },
+    "status": [
+        {
+            "id": 65059,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 65059,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114202830",
+    "attachments": []
+}

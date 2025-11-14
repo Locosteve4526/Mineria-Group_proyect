@@ -1,0 +1,103 @@
+{
+    "activityid": 49831,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The use of images in higher-ed online learning: A qualitative content analysis",
+        "Journal": "International Journal of Online Pedagogy and Course Design",
+        "Volume": "12",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "1-16",
+        "Publisher": "",
+        "DOI": "10.4018/IJOPCD.302088",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111319147",
+    "coauthors": {
+        "287237": {
+            "firstname": "Jason",
+            "middleinitial": "",
+            "lastname": "Bader",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 287237,
+            "scholarlyactivityid": 49831
+        },
+        "287238": {
+            "firstname": "Chareen",
+            "middleinitial": "Lee",
+            "lastname": "Snelson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111319147",
+            "authorid": 287238,
+            "scholarlyactivityid": 49831
+        },
+        "287239": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 287239,
+            "scholarlyactivityid": 49831
+        },
+        "287240": {
+            "firstname": "Norm",
+            "middleinitial": "",
+            "lastname": "Friesen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002257",
+            "authorid": 287240,
+            "scholarlyactivityid": 49831
+        }
+    },
+    "status": [
+        {
+            "id": 49831,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 49831,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 49831,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 49831,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111319147",
+    "attachments": []
+}

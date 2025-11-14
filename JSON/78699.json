@@ -1,0 +1,88 @@
+{
+    "activityid": 78699,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;color:#222222;font-size:small;&quot;&gt;From Classrooms to Cyberspace: Nurturing Motivation, Satisfaction, Perceived Value, and Lifelong Learning in Modern Education&lt;/span&gt;",
+        "Journal": "Online Learning",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "351689": {
+            "firstname": "Harley",
+            "middleinitial": "",
+            "lastname": "Young",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 351689,
+            "scholarlyactivityid": 78699,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "351690": {
+            "firstname": "Patrick",
+            "middleinitial": "",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 351690,
+            "scholarlyactivityid": 78699,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "351691": {
+            "firstname": "Brett",
+            "middleinitial": "E",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 351691,
+            "scholarlyactivityid": 78699,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "351692": {
+            "firstname": "Kerry",
+            "middleinitial": "",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 351692,
+            "scholarlyactivityid": 78699,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 78699,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2025,
+            "termid": "2025/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

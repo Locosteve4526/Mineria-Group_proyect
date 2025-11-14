@@ -1,0 +1,98 @@
+{
+    "activityid": 61366,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Information Needs for Anime Recommendation: Analyzing Anime Users' Online Forum Queries",
+        "Name of Conference": "2017 ACM/IEEE Joint Conference on Digital Libraries (JCDL)",
+        "Month / Season": "Jun",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "352096": {
+            "firstname": "Hyerim",
+            "middleinitial": "",
+            "lastname": "Cho",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352096,
+            "scholarlyactivityid": 61366,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352097": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 352097,
+            "scholarlyactivityid": 61366,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352098": {
+            "firstname": "Stephen",
+            "middleinitial": "A.",
+            "lastname": "Keating",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352098,
+            "scholarlyactivityid": 61366,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352099": {
+            "firstname": "Jin",
+            "middleinitial": "Ha",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352099,
+            "scholarlyactivityid": 61366,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61366,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61366,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

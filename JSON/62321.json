@@ -1,0 +1,93 @@
+{
+    "activityid": 62321,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:11pt;&quot;&gt;Catalyzed Oxidation of IG110 Nuclear Graphite by Simulated Fission Products Ag and Pd Nanoparticles&lt;/span&gt;",
+        "Journal": "Nuclear Materials and Energy",
+        "Volume": "35",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "101438",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1016/j.nme.2023.101438",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113124431",
+    "coauthors": {
+        "316358": {
+            "firstname": "Junhua",
+            "middleinitial": "",
+            "lastname": "Jiang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316358,
+            "scholarlyactivityid": 62321,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "316359": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Stempien",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 316359,
+            "scholarlyactivityid": 62321,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "316360": {
+            "firstname": "Yaqiao",
+            "middleinitial": "",
+            "lastname": "Wu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113124431",
+            "authorid": 316360,
+            "scholarlyactivityid": 62321,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62321,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 62321,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 62321,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113124431",
+    "attachments": []
+}

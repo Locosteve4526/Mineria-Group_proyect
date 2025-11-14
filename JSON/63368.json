@@ -1,0 +1,56 @@
+{
+    "activityid": 63368,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Random Walk Through Large Data: Caveats Regarding the Potential for False Inference",
+        "Journal": "Transplantation",
+        "Volume": "100",
+        "Month / Season": null,
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "18-22",
+        "Publisher": null,
+        "DOI": "10.1097/TP.0000000000001046",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114225122",
+    "coauthors": {
+        "292001": {
+            "firstname": "J ",
+            "middleinitial": "M",
+            "lastname": "McCullough",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 292001,
+            "scholarlyactivityid": 63368
+        },
+        "292002": {
+            "firstname": "Bruce",
+            "middleinitial": "",
+            "lastname": "Kaplan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 292002,
+            "scholarlyactivityid": 63368
+        }
+    },
+    "status": [
+        {
+            "id": 63368,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114225122",
+    "attachments": []
+}

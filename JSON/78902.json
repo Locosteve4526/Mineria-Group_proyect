@@ -1,0 +1,48 @@
+{
+    "activityid": 78902,
+    "fields": {
+        "Type": "Book",
+        "Title": "Violence Against Women - 2nd Edition",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Edition": "2nd",
+        "Volume": "",
+        "Publisher": "STM Learning Inc",
+        "Publisher Location": "Florissant MO",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112127553",
+    "coauthors": {
+        "352131": {
+            "firstname": "Maximilian",
+            "middleinitial": "A",
+            "lastname": "Veltman",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112127553",
+            "authorid": 352131,
+            "scholarlyactivityid": 78902,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 78902,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2025,
+            "termid": "2025/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112127553",
+    "attachments": []
+}

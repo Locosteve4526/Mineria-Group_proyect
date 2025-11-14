@@ -1,0 +1,57 @@
+{
+    "activityid": 26866,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Reflective Redo from the Point of Failure in Virtual Envioronments",
+        "Name of Conference": "",
+        "Month / Season": "2011-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "Interservice/Industry Training, Simulation, and Education Conference (I/ITSEC)",
+        "Publisher Location": " USA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "106037": {
+            "firstname": "J",
+            "middleinitial": "",
+            "lastname": "Scoresby",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 106037,
+            "scholarlyactivityid": 26866
+        },
+        "106038": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 106038,
+            "scholarlyactivityid": 26866
+        }
+    },
+    "status": [
+        {
+            "id": 26866,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

@@ -1,0 +1,85 @@
+{
+    "activityid": 54934,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Marrying the Agile Framework with InfoSec Management Education",
+        "Name of Conference": "Twenty-seventh Americas Conference on Information Systems",
+        "Month / Season": "Aug 9-13",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "Association for Information Systems",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://aisel.aisnet.org/amcis2021/is_education/sig_education/18/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114088737",
+    "coauthors": {
+        "276415": {
+            "firstname": "Leigh",
+            "middleinitial": "",
+            "lastname": "Mutchler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276415,
+            "scholarlyactivityid": 54934,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "276416": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Connolly",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 276416,
+            "scholarlyactivityid": 54934,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "276417": {
+            "firstname": "Daniel",
+            "middleinitial": "",
+            "lastname": "Rush",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114088737",
+            "authorid": 276417,
+            "scholarlyactivityid": 54934,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54934,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54934,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114088737",
+    "attachments": []
+}

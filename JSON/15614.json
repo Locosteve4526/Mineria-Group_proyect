@@ -1,0 +1,62 @@
+{
+    "activityid": 15614,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Computational Studies of Collagen",
+        "Conference / Meeting Name": "The 8th Annual INBRE Conference",
+        "Conference Location": "Moscow, ID",
+        "Date or Date Range": "2010-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "64072": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Mallory",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64072,
+            "scholarlyactivityid": 15614
+        },
+        "64073": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 64073,
+            "scholarlyactivityid": 15614
+        },
+        "64074": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 64074,
+            "scholarlyactivityid": 15614
+        }
+    },
+    "status": [
+        {
+            "id": 15614,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

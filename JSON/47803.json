@@ -1,0 +1,62 @@
+{
+    "activityid": 47803,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Culture Circles as a Practice of Freedom",
+        "Journal": "Curriculum and Teaching Dialogue",
+        "Volume": "Vol. 21",
+        "Month / Season": "Jan-Dec, 2019",
+        "Issue Number": "No. 1",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "IAP",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112125622",
+    "coauthors": {
+        "219816": {
+            "firstname": "Kevin",
+            "middleinitial": "R",
+            "lastname": "Magill",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219816,
+            "scholarlyactivityid": 47803,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "219817": {
+            "firstname": "Arturo",
+            "middleinitial": "",
+            "lastname": "Rodriguez",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112125622",
+            "authorid": 219817,
+            "scholarlyactivityid": 47803,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 47803,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112125622",
+    "attachments": []
+}

@@ -1,0 +1,45 @@
+{
+    "activityid": 65123,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "How to Wow Your Committee",
+        "Conference/Meeting Name": "Graduate Student Success Center",
+        "Conference Location": "online",
+        "Date or Date Range": "Spring",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "302580": {
+            "firstname": "Brett",
+            "middleinitial": "E",
+            "lastname": "Shelton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 302580,
+            "scholarlyactivityid": 65123,
+            "classifications": {
+                "Role": "Discussant"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 65123,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

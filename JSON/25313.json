@@ -1,0 +1,55 @@
+{
+    "activityid": 25313,
+    "fields": {
+        "Type": "Book",
+        "Title": "Business Aha! Tips on Creativity",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "CCI Press",
+        "Publisher Location": "",
+        "ISBN": "985530502",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Page Number:  125",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "134095": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 134095,
+            "scholarlyactivityid": 25313
+        },
+        "134096": {
+            "firstname": "Nancy",
+            "middleinitial": "",
+            "lastname": "Napier",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110625",
+            "authorid": 134096,
+            "scholarlyactivityid": 25313
+        }
+    },
+    "status": [
+        {
+            "id": 25313,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

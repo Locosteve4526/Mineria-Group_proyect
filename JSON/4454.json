@@ -1,0 +1,76 @@
+{
+    "activityid": 4454,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Improvement of Distributed Snowmelt Energy Balance Modeling with MODIS-Based NDSI-Derived Fractional Snow-Covered Area Data",
+        "Journal": "Hydrological Processes",
+        "Volume": "25",
+        "Month / Season": "2011-02-15",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "650-660",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1002/hyp.7857",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/geo_facpubs/71",
+        "Description/Abstract": "Describing the spatial variability of heterogeneous snowpacks at a watershed or mountain-front scale is important for improvements in large-scale snowmelt modelling. Snowmelt depletion curves, which relate fractional decreases in snowcovered area (SCA) against normalized decreases in snow water equivalent (SWE), are a common approach to scale-up snowmelt models. Unfortunately, the kinds of ground-based observations that are used to develop depletion curves are expensive to gather and impractical for large areas. We describe an approach incorporating remotely sensed fractional SCA (FSCA) data with coinciding daily snowmelt SWE outputs during ablation to quantify the shape of a depletion curve. We joined melt estimates from the Utah Energy Balance Snow Accumulation and Melt Model (UEB) with FSCA data calculated from a normalized difference snow index snow algorithm using NASA's moderate resolution imaging spectroradiometer (MODIS) visible (0\u0110545\u20130\u0110565 ?m) and shortwave infrared (1\u2022628\u20131\u2022652 ?m) reflectance data. We tested the approach at three 500 m2 study sites, one in central Idaho and the other two on the North Slope in the Alaskan arctic. The UEB-MODIS-derived depletion curves were evaluated against depletion curves derived from ground-based snow surveys. Comparisons showed strong agreement between the independent estimates.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110360",
+    "coauthors": {
+        "13348": {
+            "firstname": "Joel",
+            "middleinitial": "W.",
+            "lastname": "Homan",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13348,
+            "scholarlyactivityid": 4454
+        },
+        "13349": {
+            "firstname": "Charles",
+            "middleinitial": "H.",
+            "lastname": "Luce",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 13349,
+            "scholarlyactivityid": 4454
+        },
+        "13350": {
+            "firstname": "James",
+            "middleinitial": "P",
+            "lastname": "McNamara",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110360",
+            "authorid": 13350,
+            "scholarlyactivityid": 4454
+        },
+        "13351": {
+            "firstname": "Nancy",
+            "middleinitial": "F.",
+            "lastname": "Glenn",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114003223",
+            "authorid": 13351,
+            "scholarlyactivityid": 4454
+        }
+    },
+    "status": [
+        {
+            "id": 4454,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110360",
+    "attachments": []
+}

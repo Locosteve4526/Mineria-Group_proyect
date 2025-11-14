@@ -1,0 +1,71 @@
+{
+    "activityid": 33921,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "DICER1 Syndrome ",
+        "Conference / Meeting Name": "Idaho Conference on Undergraduate Research",
+        "Conference Location": "  Boise, ID",
+        "Date or Date Range": "July 26, 2017",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "135486": {
+            "firstname": "Jake",
+            "middleinitial": "",
+            "lastname": "Robertson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 135486,
+            "scholarlyactivityid": 33921,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "135487": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Jorcyk",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110166",
+            "authorid": 135487,
+            "scholarlyactivityid": 33921,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "135488": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 135488,
+            "scholarlyactivityid": 33921,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 33921,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

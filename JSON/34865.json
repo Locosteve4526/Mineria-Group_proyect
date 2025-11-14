@@ -1,0 +1,101 @@
+{
+    "activityid": 34865,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "\u201cReconfigurable Threshold Logic Gates using Memristive Devices\u201d",
+        "Journal": "Journal of Low Power Electronics and Applications",
+        "Volume": "3",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "pp. 174-193",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We present our design exploration of reconfigurable Threshold Logic Gates (TLG) implemented using silver\u2013chalcogenide memristive devices combined with CMOS circuits. Results from simulations and physical circuits are shown. A variety of linearly separable logic functions including AND, OR, NAND, NOR have been realized in discrete hardware using a single-layer TLG. The functionality can be changed between these operations by reprogramming the resistance of the memristive devices.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142237": {
+            "firstname": "Adrian",
+            "middleinitial": "",
+            "lastname": "Rothenbuhler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142237,
+            "scholarlyactivityid": 34865,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "142238": {
+            "firstname": "Thanh",
+            "middleinitial": "",
+            "lastname": "Tran",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142238,
+            "scholarlyactivityid": 34865,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "142239": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142239,
+            "scholarlyactivityid": 34865,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142240": {
+            "firstname": "Vishal",
+            "middleinitial": "",
+            "lastname": "Saxena",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142240,
+            "scholarlyactivityid": 34865,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142241": {
+            "firstname": "Kristy",
+            "middleinitial": "A",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112017702",
+            "authorid": 142241,
+            "scholarlyactivityid": 34865,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34865,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

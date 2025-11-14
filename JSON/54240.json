@@ -1,0 +1,50 @@
+{
+    "activityid": 54240,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "What is the Derivative of Music?",
+        "Name of Conference": "Annual ASEE Conference",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112139424",
+    "coauthors": {
+        "254030": {
+            "firstname": "Thaddeus",
+            "middleinitial": "Baynard",
+            "lastname": "Welch",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112139424",
+            "authorid": 254030,
+            "scholarlyactivityid": 54240,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54240,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139424",
+    "attachments": []
+}

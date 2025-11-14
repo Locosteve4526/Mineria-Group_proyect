@@ -1,0 +1,97 @@
+{
+    "activityid": 80496,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Exploring Generative AI in Nursing Education: Faculty and Student Perceptions",
+        "Name of Conference": "Western Institute of Nursing Conference",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114178054",
+    "coauthors": {
+        "354671": {
+            "firstname": "Jason",
+            "middleinitial": "K",
+            "lastname": "Blomquist",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112188730",
+            "authorid": 354671,
+            "scholarlyactivityid": 80496
+        },
+        "354670": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 354670,
+            "scholarlyactivityid": 80496
+        },
+        "354669": {
+            "firstname": "Jenny",
+            "middleinitial": "G",
+            "lastname": "Alderden",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113033739",
+            "authorid": 354669,
+            "scholarlyactivityid": 80496
+        },
+        "354668": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Llewellyn",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114178054",
+            "authorid": 354668,
+            "scholarlyactivityid": 80496
+        },
+        "354667": {
+            "firstname": "Meagan",
+            "middleinitial": "",
+            "lastname": "Haynes",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354667,
+            "scholarlyactivityid": 80496
+        },
+        "354666": {
+            "firstname": "Ellen",
+            "middleinitial": "",
+            "lastname": "Wickersham",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354666,
+            "scholarlyactivityid": 80496
+        }
+    },
+    "status": [
+        {
+            "id": 80496,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114178054",
+    "attachments": []
+}

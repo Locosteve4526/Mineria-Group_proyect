@@ -1,0 +1,123 @@
+{
+    "activityid": 40380,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Unusual Northern Goshawk mtDNA haplotype found in Rocky Mountains.",
+        "Journal": "Journal of Raptor Research",
+        "Volume": "53",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "358-360",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "210936": {
+            "firstname": "Kenneth",
+            "middleinitial": "K",
+            "lastname": "Askelson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210936,
+            "scholarlyactivityid": 40380,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210937": {
+            "firstname": "Robert",
+            "middleinitial": "A.",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210937,
+            "scholarlyactivityid": 40380,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210938": {
+            "firstname": "Jay",
+            "middleinitial": "",
+            "lastname": "Carlisle",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111358636",
+            "authorid": 210938,
+            "scholarlyactivityid": 40380,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210939": {
+            "firstname": "Gregory",
+            "middleinitial": "",
+            "lastname": "Kaltenecker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111113861",
+            "authorid": 210939,
+            "scholarlyactivityid": 40380,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210940": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 210940,
+            "scholarlyactivityid": 40380,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210941": {
+            "firstname": "Stephanie",
+            "middleinitial": "",
+            "lastname": "Bayard de Volo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210941,
+            "scholarlyactivityid": 40380,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40380,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40380,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

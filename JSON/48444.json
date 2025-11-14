@@ -1,0 +1,106 @@
+{
+    "activityid": 48444,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Transforming education with community-developed teaching materials: Evidence from direct observations of STEM college classrooms",
+        "Journal": "International Journal of STEM Education",
+        "Volume": "7",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "1-22",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1186/s40594-020-00251-2 ",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "252773": {
+            "firstname": "Rachel",
+            "middleinitial": "",
+            "lastname": "Teasdale",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252773,
+            "scholarlyactivityid": 48444,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "252774": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Ryker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252774,
+            "scholarlyactivityid": 48444,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "252775": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 252775,
+            "scholarlyactivityid": 48444,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "252776": {
+            "firstname": "C.",
+            "middleinitial": "Doug",
+            "lastname": "Czajka",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252776,
+            "scholarlyactivityid": 48444,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48444,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 48444,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 48444,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 1268,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Validating an alternate assessment",
+        "Journal": "READ Magazine",
+        "Volume": "25",
+        "Month / Season": "2004-09-30",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Page Numbers": "266-75",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "3066": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 3066,
+            "scholarlyactivityid": 1268
+        },
+        "3067": {
+            "firstname": "N.",
+            "middleinitial": "",
+            "lastname": "Arnold",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 3067,
+            "scholarlyactivityid": 1268
+        }
+    },
+    "status": [
+        {
+            "id": 1268,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2004,
+            "termid": "2004/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

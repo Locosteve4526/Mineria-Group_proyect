@@ -1,0 +1,63 @@
+{
+    "activityid": 20221,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Facilitating collaboration between MBA students and businesses in design thinking projects",
+        "Name of Conference": "DesignEd Asia Conference",
+        "Month / Season": "2012-12-04",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": null,
+        "Publisher": "Hong Kong Design Centre and Hong Kong Trade Development Council",
+        "Publisher Location": "Hong Kong, China",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111259074",
+    "coauthors": {
+        "134880": {
+            "firstname": "Christy",
+            "middleinitial": "",
+            "lastname": "Suciu",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111259074",
+            "authorid": 134880,
+            "scholarlyactivityid": 20221,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134881": {
+            "firstname": "Chris",
+            "middleinitial": "",
+            "lastname": "Baughn",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110250",
+            "authorid": 134881,
+            "scholarlyactivityid": 20221,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20221,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111259074",
+    "attachments": []
+}

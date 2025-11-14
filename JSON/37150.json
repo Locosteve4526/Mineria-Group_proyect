@@ -1,0 +1,62 @@
+{
+    "activityid": 37150,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Testing efficacy of GPS data loggers and recapture methods for Barn Owls (Tyto alba)",
+        "Journal": "Wildlife Society Bulletin",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "159650": {
+            "firstname": "Tempe",
+            "middleinitial": "",
+            "lastname": "Regan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 159650,
+            "scholarlyactivityid": 37150,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "159651": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 159651,
+            "scholarlyactivityid": 37150,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37150,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

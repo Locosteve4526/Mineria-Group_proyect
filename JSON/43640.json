@@ -1,0 +1,45 @@
+{
+    "activityid": 43640,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Help! I'm Intermediate, I Keep Falling and I Can't Get Up",
+        "Conference/Meeting Name": "ACTFL",
+        "Conference Location": "New Orleans, LA",
+        "Date or Date Range": "November, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113145983",
+    "coauthors": {
+        "196233": {
+            "firstname": "Kelly",
+            "middleinitial": "",
+            "lastname": "Arispe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113145983",
+            "authorid": 196233,
+            "scholarlyactivityid": 43640,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43640,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113145983",
+    "attachments": []
+}

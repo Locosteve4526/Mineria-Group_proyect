@@ -1,0 +1,59 @@
+{
+    "activityid": 44174,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "Faculty Recital Presentation",
+        "Name of Performing Group": "Duo Tesoro",
+        "Date or Date Range": "April 2018",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Name of Venue/Sponsor": "Department of Music, Boise State University",
+        "Venue / Sponsor Location (City, State, Country)": "Recital Hall, Morrison Center for the Performing Arts",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "A duo-piano concert presented to the audience drawn to the Morrison Center/Music Department recital hall.",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112134675",
+    "coauthors": {
+        "200080": {
+            "firstname": "Mark",
+            "middleinitial": "Russell",
+            "lastname": "Hansen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112134675",
+            "authorid": 200080,
+            "scholarlyactivityid": 44174,
+            "classifications": {
+                "Role": "Performer"
+            }
+        },
+        "200081": {
+            "firstname": "Svetlana",
+            "middleinitial": "Nagachevskaya",
+            "lastname": "Maddox",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 200081,
+            "scholarlyactivityid": 44174,
+            "classifications": {
+                "Role": "Performer"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 44174,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112134675",
+    "attachments": []
+}

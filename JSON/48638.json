@@ -1,0 +1,111 @@
+{
+    "activityid": 48638,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Invisible Fraud: Examining the Impact of Inattentional Blindness on Auditor Fraud Detection",
+        "Journal": "Journal of Forensic Accounting Research",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114126866",
+    "coauthors": {
+        "338656": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Edmonds",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338656,
+            "scholarlyactivityid": 48638,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338657": {
+            "firstname": "Kate",
+            "middleinitial": "",
+            "lastname": "Sorensen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338657,
+            "scholarlyactivityid": 48638,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "338658": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Stallings",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114126866",
+            "authorid": 338658,
+            "scholarlyactivityid": 48638,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 48638,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 48638,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 48638,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 48638,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 48638,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114126866",
+    "attachments": []
+}

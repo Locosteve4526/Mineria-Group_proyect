@@ -1,0 +1,71 @@
+{
+    "activityid": 71252,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Microbial community coalescence in a controlled, natural system&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Conference/Meeting Name": "Ecological Society of America Meeting",
+        "Conference Location": "Portland, OR",
+        "Date or Date Range": "8/8/2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "Ecological Society of America",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135308",
+    "coauthors": {
+        "323886": {
+            "firstname": "Leonora",
+            "middleinitial": "S",
+            "lastname": "Bittleston",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135308",
+            "authorid": 323886,
+            "scholarlyactivityid": 71252,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "323887": {
+            "firstname": "Gabriel",
+            "middleinitial": "E",
+            "lastname": "Leventhal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 323887,
+            "scholarlyactivityid": 71252,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "323888": {
+            "firstname": "Otto",
+            "middleinitial": "X",
+            "lastname": "Cordero",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 323888,
+            "scholarlyactivityid": 71252,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71252,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114135308",
+    "attachments": []
+}

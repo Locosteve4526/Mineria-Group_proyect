@@ -1,0 +1,52 @@
+{
+    "activityid": 15620,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Pentapeptide Synthessis, Cleavage, and Purification",
+        "Conference / Meeting Name": "URC",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2010-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112100122",
+    "coauthors": {
+        "64094": {
+            "firstname": "Scotia",
+            "middleinitial": "",
+            "lastname": "Gonzales",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 64094,
+            "scholarlyactivityid": 15620
+        },
+        "64095": {
+            "firstname": "Owen",
+            "middleinitial": "Michael",
+            "lastname": "McDougal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112100122",
+            "authorid": 64095,
+            "scholarlyactivityid": 15620
+        }
+    },
+    "status": [
+        {
+            "id": 15620,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112100122",
+    "attachments": []
+}

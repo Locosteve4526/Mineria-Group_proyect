@@ -1,0 +1,76 @@
+{
+    "activityid": 58567,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Robust Data-Driven Passivity-Based Control of Underactuated Systems via Neural Approximators and Bayesian Inference",
+        "Name of Conference": "American Control Conference",
+        "Month / Season": "June 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114084469",
+    "coauthors": {
+        "313887": {
+            "firstname": "Wankun",
+            "middleinitial": "",
+            "lastname": "Sirichotiyakul",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313887,
+            "scholarlyactivityid": 58567,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "313888": {
+            "firstname": "Nardos",
+            "middleinitial": "A",
+            "lastname": "Ashenafi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 313888,
+            "scholarlyactivityid": 58567,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "313889": {
+            "firstname": "Aykut",
+            "middleinitial": "C",
+            "lastname": "Satici",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114084469",
+            "authorid": 313889,
+            "scholarlyactivityid": 58567,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58567,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114084469",
+    "attachments": []
+}

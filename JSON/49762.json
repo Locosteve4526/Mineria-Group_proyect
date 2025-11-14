@@ -1,0 +1,45 @@
+{
+    "activityid": 49762,
+    "fields": {
+        "Type": "Book",
+        "Title": "Annual editions: Psychology 19/20 ",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "48th edition",
+        "Volume": "",
+        "Publisher": "McGraw-Hill",
+        "Publisher Location": "New York City, NY",
+        "ISBN": "ISBN-13: 978-1259873423",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "231419": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 231419,
+            "scholarlyactivityid": 49762
+        }
+    },
+    "status": [
+        {
+            "id": 49762,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

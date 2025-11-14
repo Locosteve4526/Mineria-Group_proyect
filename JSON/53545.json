@@ -1,0 +1,55 @@
+{
+    "activityid": 53545,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "EPRICC: Exploring peer relationships in an inclusive college classroom.",
+        "Conference / Meeting Name": "Idaho Conference on Undergraduate Research",
+        "Conference Location": "Virtual",
+        "Date or Date Range": "July 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112001307",
+    "coauthors": {
+        "249901": {
+            "firstname": "Lisa",
+            "middleinitial": "Leigh",
+            "lastname": "Beymer",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112001307",
+            "authorid": 249901,
+            "scholarlyactivityid": 53545
+        },
+        "249902": {
+            "firstname": "Nicole",
+            "middleinitial": "",
+            "lastname": "Cherry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 249902,
+            "scholarlyactivityid": 53545,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53545,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112001307",
+    "attachments": []
+}

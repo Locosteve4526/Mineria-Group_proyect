@@ -1,0 +1,62 @@
+{
+    "activityid": 17416,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Development and validation of the Religion, Alcohol and Drug Questionnaire for college students.",
+        "Conference / Meeting Name": "American Public Health Association",
+        "Conference Location": "Washington DC",
+        "Date or Date Range": "2007-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114046497",
+    "coauthors": {
+        "68389": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Carlson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68389,
+            "scholarlyactivityid": 17416
+        },
+        "68390": {
+            "firstname": "Darcy",
+            "middleinitial": "C",
+            "lastname": "Siebert",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68390,
+            "scholarlyactivityid": 17416
+        },
+        "68391": {
+            "firstname": "Carl",
+            "middleinitial": "",
+            "lastname": "Siebert",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114046497",
+            "authorid": 68391,
+            "scholarlyactivityid": 17416
+        }
+    },
+    "status": [
+        {
+            "id": 17416,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114046497",
+    "attachments": []
+}

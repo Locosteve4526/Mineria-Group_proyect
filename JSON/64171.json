@@ -1,0 +1,63 @@
+{
+    "activityid": 64171,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Making of a Mother: Understanding the internal world of the new mother",
+        "Actual/Projected Year of Publication/Presentation": 2028,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116449",
+    "coauthors": {
+        "335748": {
+            "firstname": "Jennifer",
+            "middleinitial": "Miner",
+            "lastname": "Weaver",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116449",
+            "authorid": 335748,
+            "scholarlyactivityid": 64171
+        }
+    },
+    "status": [
+        {
+            "id": 64171,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64171,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 64171,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113116449",
+    "attachments": []
+}

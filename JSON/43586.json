@@ -1,0 +1,88 @@
+{
+    "activityid": 43586,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "GenVote: Blockchain-based Customizable and Secure Voting Platform",
+        "Journal": "Communications in Computer and Information Science (CCIS)",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "Springer",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Electronic voting has been popularized in recent years as an alternative to traditional voting. Even though electronic voting addresses the problems that traditional voting brings, it is not a perfect solution. Electronic voting brings its own set of concerns which include: election fraud, voter privacy, data integrity, and confidentiality. To ensure fairness in electronic voting, a centralized system is required and the complete process has to be overseen by an authority. Due to these requirements it can be very expensive to roll-out on a large scale during every voting period. Blockchain, the distributed data structure popularized by Bitcoin, can be integrated into electronic voting systems to alleviate some the problems involved with them while being cost-effective. With the use of blockchain, we propose a voting system that is easily accessible, customizable, transparent, and in-expensive. GenVote is a distributed electronic voting system that utilizes Ethereum Blockchain, smart contracts, and homomorphic encryption to achieve a transparent voting process with non-authority based tallying and voter privacy. GenVote also allows the ballot creation and voting process to be customizable with different types of ballots and logic based voting. GenVote is currently a viable solution for university-scaled elections and has been deployed on Ethereum Ropsten testing network to evaluate its viability and scalability as an electronic voting system.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "195955": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 195955,
+            "scholarlyactivityid": 43586,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195956": {
+            "firstname": "Praneeth Babu",
+            "middleinitial": "",
+            "lastname": "Marella",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195956,
+            "scholarlyactivityid": 43586,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195957": {
+            "firstname": "Matea",
+            "middleinitial": "",
+            "lastname": "Milojkovic",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195957,
+            "scholarlyactivityid": 43586,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195958": {
+            "firstname": "Jordan",
+            "middleinitial": "",
+            "lastname": "Mohler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195958,
+            "scholarlyactivityid": 43586,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43586,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

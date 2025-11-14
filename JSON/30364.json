@@ -1,0 +1,67 @@
+{
+    "activityid": 30364,
+    "fields": {
+        "Type": "Book",
+        "Title": "El salobre/Salt",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Francis Boutle, Ltd.",
+        "Publisher Location": "London, UK",
+        "ISBN": "978099354454",
+        "Author/Editor of Larger Work": "Ponc Pons",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113070031",
+    "coauthors": {
+        "162172": {
+            "firstname": "Clyde",
+            "middleinitial": "Andrew",
+            "lastname": "Moneyhun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113070031",
+            "authorid": 162172,
+            "scholarlyactivityid": 30364
+        }
+    },
+    "status": [
+        {
+            "id": 30364,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113070031",
+    "attachments": [
+        {
+            "attachmentid": 1882,
+            "mimetype": "application/pdf",
+            "filename": "Clyde Moneyhun contract.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeThPWXVmQUU2RmFUc0tISWpLUGpranc0Wk5OWXdjc2dDRXZHTFYvWDFmRHlUa2ZlL3VFNGk5Zjg2VTVXNEJ4NDZvSWEyWHBUQ0svST0%3D",
+            "filesize": 54990
+        },
+        {
+            "attachmentid": 1883,
+            "mimetype": "application/pdf",
+            "filename": "corrected cover salt.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeThPWXVmQUU2RmFUc0tISWpLUGprang2c2xKTG5oWjg0cWlYS2VlcXdKVTVPcDZyZFlzTDM0NEMrbEpQMHZqTENvZ1M0a3RpejFWUT0%3D",
+            "filesize": 109750
+        },
+        {
+            "attachmentid": 10533,
+            "mimetype": "custom/url",
+            "filename": "https://secure.francisboutle.co.uk/product_info.php?products_id=142",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeThPWXVmQUU2RmFSVENZQTFMUW8yRlRqaHR4K0dWODdoYklqdklyb3JwQlhER0JzRXNFNjV3Tzh1R2NkN0FGZjNnZlNLWG1ld0lOWEc4amJnMUFEUmRmK1VYbFN2aGNFN2xDVllNMTA4SGNyTEhEb1hnd1hENlU2S1B2U0pXbFluTHdYQm9KWGk0eng4c1UzNWVONWJhZz09",
+            "filesize": 375715
+        }
+    ]
+}

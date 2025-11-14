@@ -1,0 +1,76 @@
+{
+    "activityid": 20176,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Understanding Consumer Adoption: Trait, State or an Interplay?",
+        "Name of Conference": "Product Development and Management Association International Research Conference ",
+        "Month / Season": "2015-11-30",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": null,
+        "Publisher": "Product Development and Management Association ",
+        "Publisher Location": "Anaheim, CA",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "134700": {
+            "firstname": "Wim",
+            "middleinitial": "",
+            "lastname": "Biemens",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134700,
+            "scholarlyactivityid": 20176,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134701": {
+            "firstname": "Marjolein ",
+            "middleinitial": "",
+            "lastname": "van der Krol",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134701,
+            "scholarlyactivityid": 20176,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134702": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 134702,
+            "scholarlyactivityid": 20176,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20176,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

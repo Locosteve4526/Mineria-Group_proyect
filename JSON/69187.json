@@ -1,0 +1,110 @@
+{
+    "activityid": 69187,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;A Piece of the Piper Puzzle: Systematics of Enckea, a Neotropical Lineage in a Giant Genus. &lt;/span&gt;",
+        "Journal": "Systematic Botany",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110005",
+    "coauthors": {
+        "311871": {
+            "firstname": "Cara",
+            "middleinitial": "",
+            "lastname": "Hastings",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311871,
+            "scholarlyactivityid": 69187,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "311872": {
+            "firstname": "Emma",
+            "middleinitial": "",
+            "lastname": "Casselman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311872,
+            "scholarlyactivityid": 69187,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "311873": {
+            "firstname": "Christoper",
+            "middleinitial": "",
+            "lastname": "Davidson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311873,
+            "scholarlyactivityid": 69187,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311874": {
+            "firstname": "Allan",
+            "middleinitial": "",
+            "lastname": "Bornstein",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311874,
+            "scholarlyactivityid": 69187,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311875": {
+            "firstname": "James",
+            "middleinitial": "F",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110005",
+            "authorid": 311875,
+            "scholarlyactivityid": 69187,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69187,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 69187,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110005",
+    "attachments": []
+}

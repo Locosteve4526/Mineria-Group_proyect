@@ -1,0 +1,71 @@
+{
+    "activityid": 71913,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Public Philosophy with Partners",
+        "Conference/Meeting Name": "Public Philosophy 7th Annual Meeting",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": null,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112099407",
+    "coauthors": {
+        "327024": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Crowley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112099407",
+            "authorid": 327024,
+            "scholarlyactivityid": 71913,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "327025": {
+            "firstname": "Jared",
+            "middleinitial": "L",
+            "lastname": "Talley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111636450",
+            "authorid": 327025,
+            "scholarlyactivityid": 71913,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "327026": {
+            "firstname": "Ed",
+            "middleinitial": "",
+            "lastname": "Ferrier",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 327026,
+            "scholarlyactivityid": 71913,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71913,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112099407",
+    "attachments": []
+}

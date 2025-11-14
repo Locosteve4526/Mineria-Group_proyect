@@ -1,0 +1,65 @@
+{
+    "activityid": 25198,
+    "fields": {
+        "Type": "Book",
+        "Title": "Leadership Perspectives on RTI",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Thousand Oaks: Corwin Press",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "C. F. Shores",
+        "Title of Larger Work": "Response to Intervention",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "\nPage Number:  79-94",
+        "Origin": "Other"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "82181": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 82181,
+            "scholarlyactivityid": 25198
+        },
+        "82182": {
+            "firstname": "L.",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82182,
+            "scholarlyactivityid": 25198
+        },
+        "82183": {
+            "firstname": "M.",
+            "middleinitial": "",
+            "lastname": "Harris",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82183,
+            "scholarlyactivityid": 25198
+        }
+    },
+    "status": [
+        {
+            "id": 25198,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

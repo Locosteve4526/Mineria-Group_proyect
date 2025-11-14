@@ -1,0 +1,57 @@
+{
+    "activityid": 25139,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "e-learning in supplemental educational systems in Taiwan: status &amp; challenges",
+        "Name of Conference": "",
+        "Month / Season": "2007-06-25",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "4538-4546",
+        "Publisher": "   Association for the  Advancement of Computing in Education",
+        "Publisher Location": " ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "82032": {
+            "firstname": "Ke",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82032,
+            "scholarlyactivityid": 25139
+        },
+        "82033": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 82033,
+            "scholarlyactivityid": 25139
+        }
+    },
+    "status": [
+        {
+            "id": 25139,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2007,
+            "termid": "2007/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

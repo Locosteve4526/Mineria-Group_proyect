@@ -1,0 +1,58 @@
+{
+    "activityid": 60290,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "COVID and Cognitive Load",
+        "Journal": "Tax Notes Federal",
+        "Volume": "175",
+        "Month / Season": "",
+        "Issue Number": "May 23, 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "1229-1236",
+        "Publisher": "Tax Analysts",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112033523",
+    "coauthors": {
+        "292286": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Cowan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033523",
+            "authorid": 292286,
+            "scholarlyactivityid": 60290,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 60290,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 60290,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112033523",
+    "attachments": []
+}

@@ -1,0 +1,52 @@
+{
+    "activityid": 77265,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;span&gt;&lt;span style=&quot;font-size:10pt;background-color:transparent;&quot;&gt;Prompt Engineering Playground&lt;/span&gt;&lt;/span&gt;",
+        "Conference/Meeting Name": "Computers In Libraries 2025",
+        "Conference Location": "Washington, DC",
+        "Date or Date Range": "March 2025",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;p&gt;What is prompt engineering? How can it assist libraries? Explore and play with a variety of GenAI tools and prompting techniques. Identify components that can be used to create and refine prompts for maximum effectiveness. Recognize when responses are suboptimal and how to troubleshoot them. Understand the ethical issues and limitations of GenAI and learn to use it as a tool for various use cases. From productivity hacks to data analysis and beyond, make GenAI your new collaborator.&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "112192272",
+    "coauthors": {
+        "345253": {
+            "firstname": "Yitzhak",
+            "middleinitial": "E",
+            "lastname": "Paul",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114179588",
+            "authorid": 345253,
+            "scholarlyactivityid": 77265
+        },
+        "345252": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 345252,
+            "scholarlyactivityid": 77265
+        }
+    },
+    "status": [
+        {
+            "id": 77265,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112192272",
+    "attachments": []
+}

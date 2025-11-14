@@ -1,0 +1,55 @@
+{
+    "activityid": 27475,
+    "fields": {
+        "Type": "Book",
+        "Title": "Corrections: The Essentials",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "SAGE Publications",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "SAGE Publications",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/fac_books/266",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110252",
+    "coauthors": {
+        "87060": {
+            "firstname": "Mary",
+            "middleinitial": "K",
+            "lastname": "Stohr",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111675",
+            "authorid": 87060,
+            "scholarlyactivityid": 27475
+        },
+        "87061": {
+            "firstname": "Anthony",
+            "middleinitial": "",
+            "lastname": "Walsh",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110252",
+            "authorid": 87061,
+            "scholarlyactivityid": 27475
+        }
+    },
+    "status": [
+        {
+            "id": 27475,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110252",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 5404,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Faculty Recruitment in an Era of Change",
+        "Journal": "Metropolitan Universities Journal",
+        "Volume": "21",
+        "Month / Season": "2010-07-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "55-67",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/chem_facpubs/43",
+        "Description/Abstract": "Faculty recruitment is a challenge for administration and departments, especially in an era of change in the academy. This article builds on information from an interactive conference panel session that focused on faculty recruitment best practices. The article addresses faculty recruitment strategies that focus on the optimization of search processes, guiding search committees, the role of references, ideas for hiring the candidate, and the retention of the new faculty member.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111683",
+    "coauthors": {
+        "16408": {
+            "firstname": "Marilyn",
+            "middleinitial": "",
+            "lastname": "Levine",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16408,
+            "scholarlyactivityid": 5404
+        },
+        "16409": {
+            "firstname": "Martin",
+            "middleinitial": "E",
+            "lastname": "Schimpf",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111683",
+            "authorid": 16409,
+            "scholarlyactivityid": 5404
+        }
+    },
+    "status": [
+        {
+            "id": 5404,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111683",
+    "attachments": []
+}

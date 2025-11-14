@@ -1,0 +1,84 @@
+{
+    "activityid": 53167,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "In situ TEM Clamped Beam Fracture of Ion-Irradiated Fe-9%Cr ODS",
+        "Journal": "Journal of Materials Research",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113124431",
+    "coauthors": {
+        "274497": {
+            "firstname": "Kayla",
+            "middleinitial": "H",
+            "lastname": "Yano",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274497,
+            "scholarlyactivityid": 53167,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274498": {
+            "firstname": "Yaqiao",
+            "middleinitial": "",
+            "lastname": "Wu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113124431",
+            "authorid": 274498,
+            "scholarlyactivityid": 53167,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "274499": {
+            "firstname": "Janelle",
+            "middleinitial": "P",
+            "lastname": "Wharry",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 274499,
+            "scholarlyactivityid": 53167,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53167,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 53167,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113124431",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 17376,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Academic Success at Boise State",
+        "Conference/Meeting Name": "4th Annual Idaho Conference on Refugees",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2013-02-05",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Idaho Office of Refugees",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111670030",
+    "coauthors": {
+        "68289": {
+            "firstname": "Julia",
+            "middleinitial": "Geist ",
+            "lastname": "Drew",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111617489",
+            "authorid": 68289,
+            "scholarlyactivityid": 17376
+        },
+        "68290": {
+            "firstname": "Gail",
+            "middleinitial": "E",
+            "lastname": "Shuck",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111670030",
+            "authorid": 68290,
+            "scholarlyactivityid": 17376
+        },
+        "68291": {
+            "firstname": "Ruth",
+            "middleinitial": "",
+            "lastname": "Prince",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68291,
+            "scholarlyactivityid": 17376
+        }
+    },
+    "status": [
+        {
+            "id": 17376,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111670030",
+    "attachments": []
+}

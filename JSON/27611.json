@@ -1,0 +1,65 @@
+{
+    "activityid": 27611,
+    "fields": {
+        "Type": "Book",
+        "Title": "Oh, Yeah?!: Putting Argument to Work Both in School and Out",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Heinemann",
+        "Publisher Location": "Portsmouth",
+        "ISBN": "9.78033E+12",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111706620",
+    "coauthors": {
+        "87293": {
+            "firstname": "Michael",
+            "middleinitial": "W.",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 87293,
+            "scholarlyactivityid": 27611
+        },
+        "87294": {
+            "firstname": "Jeffrey",
+            "middleinitial": "David",
+            "lastname": "Wilhelm",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111706620",
+            "authorid": 87294,
+            "scholarlyactivityid": 27611
+        },
+        "87295": {
+            "firstname": "Jim",
+            "middleinitial": "",
+            "lastname": "Fredricksen",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112184269",
+            "authorid": 87295,
+            "scholarlyactivityid": 27611
+        }
+    },
+    "status": [
+        {
+            "id": 27611,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111706620",
+    "attachments": []
+}

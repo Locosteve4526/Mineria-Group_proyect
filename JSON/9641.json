@@ -1,0 +1,79 @@
+{
+    "activityid": 9641,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "You can't teach that online! (Or can you...?)",
+        "Conference/Meeting Name": "Digital Ecosystems Conference",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "2015-09-15",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112003158",
+    "coauthors": {
+        "51069": {
+            "firstname": "Krishna",
+            "middleinitial": "",
+            "lastname": "Pakala",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113161429",
+            "authorid": 51069,
+            "scholarlyactivityid": 9641
+        },
+        "51070": {
+            "firstname": "Mel",
+            "middleinitial": "",
+            "lastname": "Koob",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 51070,
+            "scholarlyactivityid": 9641
+        }
+    },
+    "status": [
+        {
+            "id": 9641,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 9641,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 9641,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 9641,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112003158",
+    "attachments": []
+}

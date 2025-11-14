@@ -1,0 +1,56 @@
+{
+    "activityid": 5008,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Media's influence on the drive for muscularity in undergraduates",
+        "Journal": "Eating Behaviors",
+        "Volume": "14",
+        "Month / Season": "2013-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "441-446",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112014101",
+    "coauthors": {
+        "15088": {
+            "firstname": "Mary",
+            "middleinitial": "Elizabeth",
+            "lastname": "Pritchard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112014101",
+            "authorid": 15088,
+            "scholarlyactivityid": 5008
+        },
+        "15089": {
+            "firstname": "Brooke",
+            "middleinitial": "",
+            "lastname": "Cramblitt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 15089,
+            "scholarlyactivityid": 5008
+        }
+    },
+    "status": [
+        {
+            "id": 5008,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2013,
+            "termid": "2013/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112014101",
+    "attachments": []
+}

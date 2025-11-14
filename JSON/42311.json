@@ -1,0 +1,104 @@
+{
+    "activityid": 42311,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Unit Agreement and Reliability Generalization in Management and Organizational Research",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114105910",
+    "coauthors": {
+        "344576": {
+            "firstname": "Gang",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344576,
+            "scholarlyactivityid": 42311
+        },
+        "344577": {
+            "firstname": "Liam",
+            "middleinitial": "Patrick",
+            "lastname": "Maher",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344577,
+            "scholarlyactivityid": 42311
+        },
+        "344578": {
+            "firstname": "Brandon",
+            "middleinitial": "",
+            "lastname": "Mead",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344578,
+            "scholarlyactivityid": 42311
+        },
+        "344579": {
+            "firstname": "Ernest",
+            "middleinitial": "",
+            "lastname": "O'Boyle",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344579,
+            "scholarlyactivityid": 42311
+        },
+        "344580": {
+            "firstname": "In-Sue",
+            "middleinitial": "",
+            "lastname": "Oh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 344580,
+            "scholarlyactivityid": 42311
+        }
+    },
+    "status": [
+        {
+            "id": 42311,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42311,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42311,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114105910",
+    "attachments": []
+}

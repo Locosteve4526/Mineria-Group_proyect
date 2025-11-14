@@ -1,0 +1,74 @@
+{
+    "activityid": 68743,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Vision Language Transformers: A Survey",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114062811",
+    "coauthors": {
+        "309515": {
+            "firstname": "Clayton",
+            "middleinitial": "",
+            "lastname": "Fields",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 309515,
+            "scholarlyactivityid": 68743
+        },
+        "309516": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 309516,
+            "scholarlyactivityid": 68743
+        }
+    },
+    "status": [
+        {
+            "id": 68743,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 68743,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 68743,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114062811",
+    "attachments": []
+}

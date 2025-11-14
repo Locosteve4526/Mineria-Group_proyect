@@ -1,0 +1,75 @@
+{
+    "activityid": 68861,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Pipeline, Graduate Accountancy Programs, and the 150-Hour Rule",
+        "Journal": "Tax Notes Federal",
+        "Volume": "181",
+        "Month / Season": "",
+        "Issue Number": "Nov. 6, 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "1051-1066",
+        "Publisher": "Tax Analysts",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112188648",
+    "coauthors": {
+        "325053": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Cowan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112033523",
+            "authorid": 325053,
+            "scholarlyactivityid": 68861
+        },
+        "325054": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 325054,
+            "scholarlyactivityid": 68861
+        },
+        "325055": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 325055,
+            "scholarlyactivityid": 68861
+        }
+    },
+    "status": [
+        {
+            "id": 68861,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 68861,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112188648",
+    "attachments": []
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 71229,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "What is an EEAAP? Software Accessibility Reviews and User Access",
+        "Journal": "Technical Services Quarterly",
+        "Volume": "41",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "201-215",
+        "Publisher": "Taylor &amp; Francis",
+        "DOI": "10.1080/07317131.2024.2357011",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Academic libraries license thousands of electronic resources and they all might not be fully accessible. Libraries need to be prepared to assist patrons with inaccessible features by putting an equally effective alternative access plan into place. Submitting accessibility reviews, either university mandated or generated from the library, helps ensure that electronic resources meet accessibility standards.",
+        "Origin": "Manual"
+    },
+    "facultyid": "113139439",
+    "coauthors": {
+        "342219": {
+            "firstname": "Mary",
+            "middleinitial": "C.",
+            "lastname": "Aagard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113139439",
+            "authorid": 342219,
+            "scholarlyactivityid": 71229,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342220": {
+            "firstname": "Pamela",
+            "middleinitial": "D.",
+            "lastname": "Kindelberger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342220,
+            "scholarlyactivityid": 71229,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71229,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 71229,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113139439",
+    "attachments": []
+}

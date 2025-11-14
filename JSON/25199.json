@@ -1,0 +1,55 @@
+{
+    "activityid": 25199,
+    "fields": {
+        "Type": "Book",
+        "Title": "Formative and summative assessment",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Detroit: Macmillan Reference USA",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "E. Anderman",
+        "Title of Larger Work": "Psychology of Classroom Learning: An Encyclopedia",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112142993",
+    "coauthors": {
+        "82184": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 82184,
+            "scholarlyactivityid": 25199
+        },
+        "82185": {
+            "firstname": "J.",
+            "middleinitial": "R.",
+            "lastname": "Jenkins",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 82185,
+            "scholarlyactivityid": 25199
+        }
+    },
+    "status": [
+        {
+            "id": 25199,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112142993",
+    "attachments": []
+}

@@ -1,0 +1,89 @@
+{
+    "activityid": 45682,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "3rd Women in Web Data Science (WinDS) Workshop Chairs' Welcome",
+        "Name of Conference": "The Web Conference 2019 - Workshops Track",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://www2018.thewebconf.org/program/workshops-track/",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048777",
+    "coauthors": {
+        "208107": {
+            "firstname": "Ana",
+            "middleinitial": "Paula",
+            "lastname": "Appel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 208107,
+            "scholarlyactivityid": 45682,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "208108": {
+            "firstname": "Marisa",
+            "middleinitial": "",
+            "lastname": "Vasconcelos",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 208108,
+            "scholarlyactivityid": 45682,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "208109": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048777",
+            "authorid": 208109,
+            "scholarlyactivityid": 45682,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "208110": {
+            "firstname": "C\u00e9lia",
+            "middleinitial": "Talma",
+            "lastname": "Gon\u00e7alves",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 208110,
+            "scholarlyactivityid": 45682,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 45682,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048777",
+    "attachments": []
+}

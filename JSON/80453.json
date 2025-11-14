@@ -1,0 +1,66 @@
+{
+    "activityid": 80453,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;p&gt;&lt;span&gt;Computation and application of permutation resemblance&lt;/span&gt;&lt;/p&gt;",
+        "Conference/Meeting Name": "International Conference on Finite Fields and Their Applications 2025 (Fq16)",
+        "Conference Location": "University of S\u00e3o Paulo, S\u00e3o Carlos, SP, Brazil",
+        "Date or Date Range": "07-07-2025 to 07-11-2025",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "Department of Mathematics, Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "https://fq16conference.icmc.usp.br/index.php",
+        "Description/Abstract": "&lt;p&gt;&lt;span&gt;A polynomial &lt;/span&gt;&lt;span&gt;$h$&lt;/span&gt;&lt;span&gt; over &lt;/span&gt;&lt;span&gt;$\\mathbb{F}_q$&lt;/span&gt;&lt;span&gt; is called a &lt;/span&gt;&lt;span&gt;\\emph&lt;/span&gt;&lt;span&gt;{permutation polynomial} over &lt;/span&gt;&lt;span&gt;$\\mathbb{F}_q$&lt;/span&gt;&lt;span&gt; if the evaluation map &lt;/span&gt;&lt;span&gt;$x\\mapsto h(x)$&lt;/span&gt;&lt;span&gt; is a bijection. &lt;/span&gt; &lt;span&gt;For a polynomial &lt;/span&gt;&lt;span&gt;$f$&lt;/span&gt;&lt;span&gt; over &lt;/span&gt;&lt;span&gt;$\\mathbb{F}_q$&lt;/span&gt;&lt;span&gt;, the &lt;/span&gt;&lt;span&gt;\\emph&lt;/span&gt;&lt;span&gt;{permutation resemblance} of &lt;/span&gt;&lt;span&gt;$f$&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;$\\pres(f)$&lt;/span&gt;&lt;span&gt;, is defined by the minimum cardinality of the image set of &lt;/span&gt;&lt;span&gt;$f-h$&lt;/span&gt;&lt;span&gt;, where &lt;/span&gt;&lt;span&gt;$h$&lt;/span&gt;&lt;span&gt; runs through all permutation polynomials over &lt;/span&gt;&lt;span&gt;$\\mathbb{F}_q$&lt;/span&gt;&lt;span&gt;. The notion &lt;/span&gt;&lt;span&gt;$\\pres(f)$&lt;/span&gt;&lt;span&gt; provides a way to determine how far &lt;/span&gt;&lt;span&gt;$f$&lt;/span&gt;&lt;span&gt; is from being a permutation polynomial. Furthermore, it was shown in &lt;/span&gt;&lt;span&gt;\\cite&lt;/span&gt;&lt;span&gt;{prestheory} that &lt;/span&gt;&lt;span&gt;$\\pres(f)$&lt;/span&gt;&lt;span&gt; has application in constructing permutation polynomials with some good properties in cryptography. More precisely, the &lt;/span&gt;&lt;span&gt;\\emph&lt;/span&gt;&lt;span&gt;{differential uniformity} of &lt;/span&gt;&lt;span&gt;$f$&lt;/span&gt;&lt;span&gt; is defined by the maximum number of solutions in &lt;/span&gt;&lt;span&gt;$\\mathbb{F}_q$&lt;/span&gt;&lt;span&gt; to the equation &lt;/span&gt;&lt;span&gt;$f(x a)-f(x)=b$&lt;/span&gt;&lt;span&gt; where &lt;/span&gt;&lt;span&gt;$(a,b)$&lt;/span&gt;&lt;span&gt; run through all elements of &lt;/span&gt;&lt;span&gt;$\\mathbb{F}_q^{*}\\times \\mathbb{F}_q$&lt;/span&gt;&lt;span&gt;. An important research problem is to construct permutation polynomials with low differential uniformity. &lt;/span&gt; &lt;span&gt;In this talk, we present an integer programming approach to compute &lt;/span&gt;&lt;span&gt;$\\pres(f)$&lt;/span&gt;&lt;span&gt;, and rephrase the problem of finding a permutation polynomial with the lowest differential uniformity, based on results from &lt;/span&gt;&lt;span&gt;\\cite&lt;/span&gt;&lt;span&gt;{presalg}. Moreover, we show that we can significantly reduce the problem size of the latter, while compromising the &lt;/span&gt;&lt;span&gt;optimality&lt;/span&gt;&lt;span&gt;, by computing the &lt;/span&gt;&lt;span&gt;$\\pres(f)$&lt;/span&gt;&lt;span&gt; first. &lt;/span&gt;&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114254618",
+    "coauthors": {
+        "354223": {
+            "firstname": "Li An",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114254618",
+            "authorid": 354223,
+            "scholarlyactivityid": 80453,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "354224": {
+            "firstname": "Robert",
+            "middleinitial": "S",
+            "lastname": "Coulter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354224,
+            "scholarlyactivityid": 80453,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 80453,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2025,
+            "termid": "2025/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114254618",
+    "attachments": [
+        {
+            "attachmentid": 66532,
+            "mimetype": "application/pdf",
+            "filename": "myTalk_Fq16abstract.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWhWcTBXY1RCaTQrRkxHaVA0RTNqRFpwdzZMWmh5MFdtdVdlYXV4U2JsRGJ5aFdWYjl4K3dtWWVnZFQrRFliUzRvZ1M0a3RpejFWUT0%3D",
+            "filesize": 117859
+        }
+    ]
+}

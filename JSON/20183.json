@@ -1,0 +1,76 @@
+{
+    "activityid": 20183,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Antecedents of Boundary Spanning in Cross-Functional New Product Development Teams",
+        "Name of Conference": "Product Development and Management Association International Research Conference",
+        "Month / Season": "2007-10-31",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": null,
+        "Publisher": "Product Development and Management Association",
+        "Publisher Location": "Orlando, FL",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "134710": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Dillon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134710,
+            "scholarlyactivityid": 20183,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134711": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 134711,
+            "scholarlyactivityid": 20183,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134712": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Edmondson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134712,
+            "scholarlyactivityid": 20183,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20183,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

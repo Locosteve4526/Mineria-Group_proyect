@@ -1,0 +1,102 @@
+{
+    "activityid": 53083,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Centralized and Decentralized Optimal Control of Variable Speed Heat Pumps",
+        "Journal": "Smart Energy (Elsevier)",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114084469",
+    "coauthors": {
+        "247389": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Montrose",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 247389,
+            "scholarlyactivityid": 53083,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "247390": {
+            "firstname": "Aykut",
+            "middleinitial": "C",
+            "lastname": "Satici",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114084469",
+            "authorid": 247390,
+            "scholarlyactivityid": 53083,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "247391": {
+            "firstname": "John",
+            "middleinitial": "F",
+            "lastname": "Gardner",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643302",
+            "authorid": 247391,
+            "scholarlyactivityid": 53083,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53083,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 53083,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 53083,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 53083,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114084469",
+    "attachments": []
+}

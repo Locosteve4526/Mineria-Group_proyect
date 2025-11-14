@@ -1,0 +1,102 @@
+{
+    "activityid": 77136,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Examining the accuracy of PPG technology across varying skin tones",
+        "Name of Conference": "American College of Sports Medicine, Midwest Region Meeting",
+        "Month / Season": "Oct",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "343977": {
+            "firstname": "H",
+            "middleinitial": "",
+            "lastname": "Scholten",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343977,
+            "scholarlyactivityid": 77136,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "343978": {
+            "firstname": "C",
+            "middleinitial": "",
+            "lastname": "Flammini",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343978,
+            "scholarlyactivityid": 77136,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "343979": {
+            "firstname": "H",
+            "middleinitial": "",
+            "lastname": "McGuire",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343979,
+            "scholarlyactivityid": 77136,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "343980": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 343980,
+            "scholarlyactivityid": 77136,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "343981": {
+            "firstname": "B",
+            "middleinitial": "R",
+            "lastname": "Rider",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 343981,
+            "scholarlyactivityid": 77136,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77136,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

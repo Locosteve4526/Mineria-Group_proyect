@@ -1,0 +1,57 @@
+{
+    "activityid": 23546,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Comparing Critical Access Hospital Physician Recruitment and Retention Factors Across Three WWAMI States",
+        "Name of Conference": "",
+        "Month / Season": "2012-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "",
+        "Publisher": "Northwest Regional Rural Health Conference",
+        "Publisher Location": "Spokane, Washington USA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111702479",
+    "coauthors": {
+        "78637": {
+            "firstname": "Edward",
+            "middleinitial": "T",
+            "lastname": "Baker III",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702479",
+            "authorid": 78637,
+            "scholarlyactivityid": 23546
+        },
+        "78638": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Schmitz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 78638,
+            "scholarlyactivityid": 23546
+        }
+    },
+    "status": [
+        {
+            "id": 23546,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702479",
+    "attachments": []
+}

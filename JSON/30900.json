@@ -1,0 +1,110 @@
+{
+    "activityid": 30900,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Counterintuitive roles of experience and weather on migratory performance",
+        "Journal": "The Auk: Ornithological Advances",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "114615": {
+            "firstname": "Adrian",
+            "middleinitial": "",
+            "lastname": "Rus",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114615,
+            "scholarlyactivityid": 30900,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114616": {
+            "firstname": "Adam",
+            "middleinitial": "",
+            "lastname": "Duer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114616,
+            "scholarlyactivityid": 30900,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114617": {
+            "firstname": "Tricia",
+            "middleinitial": "",
+            "lastname": "Miller",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114617,
+            "scholarlyactivityid": 30900,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114618": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 114618,
+            "scholarlyactivityid": 30900,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114619": {
+            "firstname": "Todd",
+            "middleinitial": "",
+            "lastname": "Katzner",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 114619,
+            "scholarlyactivityid": 30900,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30900,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 30900,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

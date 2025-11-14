@@ -1,0 +1,66 @@
+{
+    "activityid": 809,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Voluntary Domestic Partner Benefits in North Texas",
+        "Journal": "Voluntary Benefits Magazine",
+        "Volume": "",
+        "Month / Season": "2010-07-08",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "1911": {
+            "firstname": "James",
+            "middleinitial": "",
+            "lastname": "Wanek",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110514",
+            "authorid": 1911,
+            "scholarlyactivityid": 809
+        },
+        "1912": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 1912,
+            "scholarlyactivityid": 809
+        },
+        "1913": {
+            "firstname": "Coco",
+            "middleinitial": "",
+            "lastname": "Malcolm",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 1913,
+            "scholarlyactivityid": 809
+        }
+    },
+    "status": [
+        {
+            "id": 809,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

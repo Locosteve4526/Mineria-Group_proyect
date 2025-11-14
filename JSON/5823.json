@@ -1,0 +1,76 @@
+{
+    "activityid": 5823,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Expanding spaces in children's literature: International books for children",
+        "Journal": "Language Arts",
+        "Volume": "85",
+        "Month / Season": "2007-01-31",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "84-91",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112180267",
+    "coauthors": {
+        "18017": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Lehman",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 18017,
+            "scholarlyactivityid": 5823
+        },
+        "18018": {
+            "firstname": "Kathy",
+            "middleinitial": "",
+            "lastname": "Short",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 18018,
+            "scholarlyactivityid": 5823
+        },
+        "18019": {
+            "firstname": "EunHye",
+            "middleinitial": "",
+            "lastname": "Son",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112180267",
+            "authorid": 18019,
+            "scholarlyactivityid": 5823
+        },
+        "18020": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Kiefer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 18020,
+            "scholarlyactivityid": 5823
+        }
+    },
+    "status": [
+        {
+            "id": 5823,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2007,
+            "termid": "2006/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112180267",
+    "attachments": []
+}

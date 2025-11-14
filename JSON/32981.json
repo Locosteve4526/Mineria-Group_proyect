@@ -1,0 +1,57 @@
+{
+    "activityid": 32981,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Artistic Workforce Development in University Anchor Institutions",
+        "Name of Conference": "Association of the Collegiate Schools of Planning Conference",
+        "Month / Season": "November 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669985",
+    "coauthors": {
+        "128007": {
+            "firstname": "Amanda",
+            "middleinitial": "G.",
+            "lastname": "Ashley",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113116029",
+            "authorid": 128007,
+            "scholarlyactivityid": 32981
+        },
+        "128006": {
+            "firstname": "Leslie",
+            "middleinitial": "A",
+            "lastname": "Durham",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669985",
+            "authorid": 128006,
+            "scholarlyactivityid": 32981
+        }
+    },
+    "status": [
+        {
+            "id": 32981,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111669985",
+    "attachments": []
+}

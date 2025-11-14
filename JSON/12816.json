@@ -1,0 +1,42 @@
+{
+    "activityid": 12816,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "",
+        "Conference/Meeting Name": "",
+        "Conference Location": "",
+        "Date or Date Range": "2007-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "See CV for numerous other presentations and back way wahtr",
+        "Origin": "Other"
+    },
+    "facultyid": "111110349",
+    "coauthors": {
+        "57625": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Downey",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110349",
+            "authorid": 57625,
+            "scholarlyactivityid": 12816
+        }
+    },
+    "status": [
+        {
+            "id": 12816,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110349",
+    "attachments": []
+}

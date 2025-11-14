@@ -1,0 +1,66 @@
+{
+    "activityid": 76041,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Computational Lower Limb Simulator Boundary Conditions to Reproduce Measured TKA Loading in a Cohort of Telemetric Implant Patients",
+        "Journal": "Bioengineering (Basel, Switzerland)",
+        "Volume": "11",
+        "Month / Season": null,
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": null,
+        "DOI": "10.3390/bioengineering11050503",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Recent advancements in computational modeling offer opportunities to refine total knee arthroplasty (TKA) design and treatment strategies. This study developed patient-specific simulator external boundary conditions (EBCs) using a PID-controlled lower limb finite element (FE) model. Calibration of the external actuation required to achieve measured patient-specific joint loading and motion was completed for nine patients with telemetric implants during gait, stair descent, and deep knee bend. The study also compared two EBC scenarios: activity-specific hip AP motion and pelvic rotation (that was averaged across all patients for an activity) and patient-specific hip AP motion and pelvic rotation. Including patient-specific data significantly improved reproduction of joint-level loading, reducing root mean squared error between the target and achieved loading by 28.7% and highlighting the importance of detailed patient data in replicating joint kinematics and kinetics. The principal component analysis (PCA) of the EBCs for the patient dataset showed that one component represented 77.8% of the overall variation, while the first three components represented 97.8%. Given the significant loading variability within the patient cohort, this group of patient-specific models can be run individually to provide insight into expected TKA mechanics variability, and the PCA can be utilized to further create reasonable EBCs that expand the variability evaluated.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "337871": {
+            "firstname": "Chase",
+            "middleinitial": "",
+            "lastname": "Maag",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337871,
+            "scholarlyactivityid": 76041
+        },
+        "337872": {
+            "firstname": "Clare ",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337872,
+            "scholarlyactivityid": 76041
+        },
+        "337873": {
+            "firstname": "Paul ",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 337873,
+            "scholarlyactivityid": 76041
+        }
+    },
+    "status": [
+        {
+            "id": 76041,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

@@ -1,0 +1,84 @@
+{
+    "activityid": 76359,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Financial Reporting Complexity and Stock Price Efficiency",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "339600": {
+            "firstname": "Jared",
+            "middleinitial": "",
+            "lastname": "Egginton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 339600,
+            "scholarlyactivityid": 76359,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "339601": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 339601,
+            "scholarlyactivityid": 76359,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "339602": {
+            "firstname": "Garrett",
+            "middleinitial": "",
+            "lastname": "McBrayer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 339602,
+            "scholarlyactivityid": 76359,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76359,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 76359,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

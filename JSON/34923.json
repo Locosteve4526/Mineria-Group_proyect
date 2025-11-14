@@ -1,0 +1,76 @@
+{
+    "activityid": 34923,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cEffect of Pre-processing on Binarization\u201d",
+        "Name of Conference": "SPIE Electronic Imaging -- Document Recognition and Retrieval XVII",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "San Jose, CA",
+        "Volume": "7534",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "The effects of different image pre-processing methods for document image binarization are explored. They are\r\ncompared on five different binarization methods on images with bleed through and stains as well as on images\r\nwith uniform background speckle. The binarization method is significant in the binarization accuracy, but\r\nthe pre-processing also plays a significant role. The Total Variation method of pre-processing shows the best\r\nperformance over a variety of pre-processing methods.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142592": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142592,
+            "scholarlyactivityid": 34923,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142593": {
+            "firstname": "Laurence",
+            "middleinitial": "",
+            "lastname": "Likforman-Sulem",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142593,
+            "scholarlyactivityid": 34923,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142594": {
+            "firstname": "Jerome",
+            "middleinitial": "",
+            "lastname": "Darbon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142594,
+            "scholarlyactivityid": 34923,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34923,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 19845,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Legal and Ethical Implications of Employee Location Monitoring",
+        "Name of Conference": "Hawaii International Conference on Systems Sciences",
+        "Month / Season": "2005-01-31",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": null,
+        "Publisher": "Association for Computing Machinery (ACM)",
+        "Publisher Location": "Hawaii",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "(Nominated for best paper in track)",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "134599": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 134599,
+            "scholarlyactivityid": 19845,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134600": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Minch",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110593",
+            "authorid": 134600,
+            "scholarlyactivityid": 19845,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 19845,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2005,
+            "termid": "2004/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

@@ -1,0 +1,52 @@
+{
+    "activityid": 13490,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Implementing SSC in the OR after Cesarean Birth",
+        "Conference/Meeting Name": "Idaho Perinatal Regional Conference",
+        "Conference Location": "Nampa, ID",
+        "Date or Date Range": "2014-02-28",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Sponsoring Organization": "Idaho Perinatal Project",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113084128",
+    "coauthors": {
+        "59341": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Grassley",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113084128",
+            "authorid": 59341,
+            "scholarlyactivityid": 13490
+        },
+        "59342": {
+            "firstname": "Judith",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 59342,
+            "scholarlyactivityid": 13490
+        }
+    },
+    "status": [
+        {
+            "id": 13490,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113084128",
+    "attachments": []
+}

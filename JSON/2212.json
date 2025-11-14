@@ -1,0 +1,56 @@
+{
+    "activityid": 2212,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A finite-volume method for solving parabolic equations on logically Cartesian curved surface meshes",
+        "Journal": "SIAM Journal on Scientific Computing",
+        "Volume": "31",
+        "Month / Season": "2009-12-31",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "4066-4099",
+        "Publisher": "SIAM",
+        "DOI": "10.1137/08073322X",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://epubs.siam.org/doi/pdf/10.1137/08073322X",
+        "Description/Abstract": "We present a second order finite volume scheme for the constant-coefficient diffusion equation on curved parametric surfaces. While our scheme is applicable to general quadrilateral surface meshes based on smooth or piecewise smooth coordinate transformations, our primary motivation for developing the present scheme is to solve diffusion problems on a particular set of circular and spherical meshes introduced in [D. A. Calhoun, C. Helzel, and R. J. LeVeque, SIAM Rev., 50 (2008), pp. 723\u2013752] for the discretization of hyperbolic problems. These grids are generated from mappings of a single Cartesian grid and were designed to have nearly uniform cells sizes and avoid the pole singularity associated with polar or spherical grid mappings. The present method for parabolic equations offers several advantages. It does not require analytic metric terms, shows second order accuracy on our disk and sphere grids, can be easily coupled to existing finite volume solvers for logically Cartesian meshes, and handles general mixed boundary conditions. Our parabolic scheme should appeal to researchers in the fields of geophysical fluid dynamics, computational biology, and any other discipline that requires the solution of parabolic equations on quadrilateral surface meshes. In this article, we present several numerical examples demonstrating the accuracy of the scheme, and then use the scheme to solve advection-reaction-diffusion equations modeling biological pattern formation on surfaces.\n",
+        "Origin": "Other"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "5799": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 5799,
+            "scholarlyactivityid": 2212
+        },
+        "5800": {
+            "firstname": "C",
+            "middleinitial": "",
+            "lastname": "Helzel",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 5800,
+            "scholarlyactivityid": 2212
+        }
+    },
+    "status": [
+        {
+            "id": 2212,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113079626",
+    "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+    "activityid": 34855,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cTemplate generation from postmarks using cascaded unsupervised learning\u201d",
+        "Name of Conference": "3rd International Workshop on Historical Document Imaging and Processing (HIP 2015)",
+        "Month / Season": "August 2015",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "pp. 92-98",
+        "Publisher": "",
+        "Publisher Location": "Nancy, France",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Information in historical datasets comes in many forms. We\r\nare working with a set of World War I era postcards that\r\ncontain hand written text, some preprinted text, postage\r\nstamps and postmark/cancellation stamps. The postmarks\r\nare of considerable interest to collectors looking for images\r\nof samples they had not previously seen. The postmarks\r\nalso provide information on the originating location of the\r\ncard that complements the information in the address block.\r\nA method for automatically extracting templates for each\r\ncategory of these postmark stamps is described. The problem\r\nis complicated by the high levels of degradation present\r\nin the cards. The ink is faded, and the paper is yellowed.\r\nA signi\fcant quantity of both occlusion and dropout exists\r\nin the same images. The postmark stamps overlap the\r\nother content on the card. The rubber stamp sometimes\r\ndid not make full contact with the paper resulting in an incomplete\r\nimage. Excesses of ink connect the text and line\r\ncomponents. The approach uses a cascade of unsupervised\r\nlearning steps separated with image cleaning. This introduces\r\naveraging steps, which reduces noise. It also provides\r\na reduction in the number of comparisons between samples.\r\nWhile merges happen at each stage, the number of times\r\nmerges are needed within each stage is reduced. The templates\r\nonce extracted can be used to group the postmarks,\r\nand will contribute information about the postmark content\r\nto better separate the postmark from the paper and other\r\ninterfering marks to extract further information about the\r\npostmarks and postcards.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142549": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142549,
+            "scholarlyactivityid": 34855,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "142550": {
+            "firstname": "Gernot",
+            "middleinitial": "",
+            "lastname": "Fink",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 142550,
+            "scholarlyactivityid": 34855,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34855,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

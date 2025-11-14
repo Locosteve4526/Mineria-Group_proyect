@@ -1,0 +1,86 @@
+{
+    "activityid": 29971,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Primary Mathematics Assessment: An early mathematics screener and progress monitoring tool",
+        "Name of Conference": "Proceedings of the 37th Conference of the International Group for the Psychology of Mathematics Education",
+        "Month / Season": "July",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Page Numbers": "105-112",
+        "Publisher": "",
+        "Publisher Location": "Kiel, Germany",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112099743",
+    "coauthors": {
+        "107117": {
+            "firstname": "Jonathan",
+            "middleinitial": "",
+            "lastname": "Brendefur",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111643488",
+            "authorid": 107117,
+            "scholarlyactivityid": 29971
+        },
+        "107116": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 107116,
+            "scholarlyactivityid": 29971
+        },
+        "107115": {
+            "firstname": "Keith",
+            "middleinitial": "William",
+            "lastname": "Thiede",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112099743",
+            "authorid": 107115,
+            "scholarlyactivityid": 29971
+        },
+        "107114": {
+            "firstname": "Sam",
+            "middleinitial": "",
+            "lastname": "Strother",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 107114,
+            "scholarlyactivityid": 29971
+        }
+    },
+    "status": [
+        {
+            "id": 29971,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2013,
+            "termid": "2013/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 29971,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112099743",
+    "attachments": []
+}

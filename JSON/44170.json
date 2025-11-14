@@ -1,0 +1,52 @@
+{
+    "activityid": 44170,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Nonprofit and University Partnerships",
+        "Conference/Meeting Name": "2018 Nonprofit Statewide Conference",
+        "Conference Location": "Nampa ID",
+        "Date or Date Range": "9/20",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Sponsoring Organization": "Idaho Nonprofit Council",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Presentation to nonprofits about how they can partner with universities via internships, service-learning, live cases",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110020",
+    "coauthors": {
+        "200060": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 200060,
+            "scholarlyactivityid": 44170
+        },
+        "200061": {
+            "firstname": "Caile",
+            "middleinitial": "E",
+            "lastname": "Spear",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110020",
+            "authorid": 200061,
+            "scholarlyactivityid": 44170
+        }
+    },
+    "status": [
+        {
+            "id": 44170,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110020",
+    "attachments": []
+}

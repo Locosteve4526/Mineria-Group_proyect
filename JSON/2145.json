@@ -1,0 +1,46 @@
+{
+    "activityid": 2145,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Analytical Solution of Hermite Collocation Discretization of the Steady-State Convection-Diffusion Equation",
+        "Journal": "International Journal of Differential Equations and Applications",
+        "Volume": "4",
+        "Month / Season": "2002-01-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "141-155",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/84",
+        "Description/Abstract": "We give herein analytical formulas for the Hermite collocation solution of the steady-state convection-diffusion equation with constant coefficients defined on a uniform mesh in one spatial dimension. Both Dirichlet and Neumann boundary conditions are considered. Analysis is provided which compares the discrete collocation solution to the continuous solution. Unlike the solution obtained via the central difference discretization, the collocation solution is proven to be oscillation free, irrespective of the value of the P\u00e9clet number. For modest P\u00e9clet numbers, the collocation solution is shown to provide an excellent approximation to the solution of the continuous problem.",
+        "Origin": "Other"
+    },
+    "facultyid": "111358874",
+    "coauthors": {
+        "5599": {
+            "firstname": "Stephen",
+            "middleinitial": "H",
+            "lastname": "Brill",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111358874",
+            "authorid": 5599,
+            "scholarlyactivityid": 2145
+        }
+    },
+    "status": [
+        {
+            "id": 2145,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2002,
+            "termid": "2001/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111358874",
+    "attachments": []
+}

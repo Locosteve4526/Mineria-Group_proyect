@@ -1,0 +1,102 @@
+{
+    "activityid": 70497,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Preparing future geoscience faculty to be inclusive teachers",
+        "Name of Conference": "Geological Society of America GSA Connects",
+        "Month / Season": "Fall 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112003792",
+    "coauthors": {
+        "319224": {
+            "firstname": "Anne",
+            "middleinitial": "E",
+            "lastname": "Egger",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319224,
+            "scholarlyactivityid": 70497,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319225": {
+            "firstname": "Karen",
+            "middleinitial": "",
+            "lastname": "Viskupic",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112003792",
+            "authorid": 319225,
+            "scholarlyactivityid": 70497,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319226": {
+            "firstname": "Beth",
+            "middleinitial": "",
+            "lastname": "Pratt-Sitaula",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319226,
+            "scholarlyactivityid": 70497,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319227": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Ryker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319227,
+            "scholarlyactivityid": 70497,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "319228": {
+            "firstname": "Becca",
+            "middleinitial": "",
+            "lastname": "Walker",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 319228,
+            "scholarlyactivityid": 70497,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70497,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112003792",
+    "attachments": []
+}

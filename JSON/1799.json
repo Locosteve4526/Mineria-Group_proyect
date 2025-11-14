@@ -1,0 +1,66 @@
+{
+    "activityid": 1799,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Field Proof-of-Concept of Aquifer Imaging Using 3-D Transient Hydraulic Tomography with Modular, Temporarily-Emplaced Equipment",
+        "Journal": "Water Resources Research",
+        "Volume": "",
+        "Month / Season": "2012-05-19",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "W05531",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2011wr011704",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/160",
+        "Description/Abstract": "Hydraulic tomography is a field scale aquifer characterization method capable of estimating 3-D heterogeneous parameter distributions, and is directly sensitive to hydraulic conductivity (K), thus providing a useful data source for improving flow and transport models. We present results from a proof-of-concept field and modeling study in which we apply 3-D transient hydraulic tomography (3DTHT) to the relatively high-K and moderately heterogeneous unconfined aquifer at the Boise Hydrogeophysical Research Site. Short-duration (20 min) partially penetrating pumping tests, for which observed responses do not reach steady state, are used as the aquifer stimulation. To collect field data, we utilize a system of temporarily emplaced packer equipment to isolate multiple discrete intervals in boreholes. To analyze the data, we utilize MODFLOW combined with geostatistical inversion code based on the quasilinear approach of Kitanidis (1995). This combination of practical software allows inversion of large datasets (&gt;250 drawdown curves, and almost 1000 individual data points) and estimation of K at &gt;100,000 locations; reasonable runtimes are obtained using a single multicore computer with 12 GB of RAM. The K heterogeneity results from 3DTHT are cross-validated against K characterization from a large set of partially penetrating slug tests, and found to be quite consistent. The use of portable, modular equipment for field implementation means that 3DTHT data collection can be performed (including mobilization/demobilization) within a matter of days. Likewise, use of a practical, efficient and scalable numerical modeling and inversion strategy means that computational effort is drastically reduced, such that 3-D aquifer property distributions can be estimated quickly.\n\n",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4515": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Cardiff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113054278",
+            "authorid": 4515,
+            "scholarlyactivityid": 1799
+        },
+        "4516": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4516,
+            "scholarlyactivityid": 1799
+        },
+        "4517": {
+            "firstname": "Peter",
+            "middleinitial": "K.",
+            "lastname": "Kitanidis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4517,
+            "scholarlyactivityid": 1799
+        }
+    },
+    "status": [
+        {
+            "id": 1799,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

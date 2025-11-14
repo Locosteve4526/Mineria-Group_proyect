@@ -1,0 +1,52 @@
+{
+    "activityid": 69546,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Basque Studies at Boise State University",
+        "Conference/Meeting Name": "\u201cBoise State Basque Studies\u201d Diaspora Eguna Mintzagai",
+        "Conference Location": "Boise, Idaho (Boise State University)",
+        "Date or Date Range": "September 8",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Sponsoring Organization": "Boise State University (Basque Global Collaborative)",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111113612",
+    "coauthors": {
+        "293774": {
+            "firstname": "Nerea",
+            "middleinitial": "",
+            "lastname": "Lete",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111113612",
+            "authorid": 293774,
+            "scholarlyactivityid": 69546
+        },
+        "293775": {
+            "firstname": "Ziortza",
+            "middleinitial": "",
+            "lastname": "Gandarias Beldarrain",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114111823",
+            "authorid": 293775,
+            "scholarlyactivityid": 69546
+        }
+    },
+    "status": [
+        {
+            "id": 69546,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111113612",
+    "attachments": []
+}

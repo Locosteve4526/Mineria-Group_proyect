@@ -1,0 +1,89 @@
+{
+    "activityid": 71566,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Ensuring Trustworthy Neural Network Training via Blockchain",
+        "Name of Conference": "",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "325767": {
+            "firstname": "Edgar",
+            "middleinitial": "",
+            "lastname": "Navarro",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325767,
+            "scholarlyactivityid": 71566,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325768": {
+            "firstname": "Kyle",
+            "middleinitial": "J.",
+            "lastname": "Standing",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325768,
+            "scholarlyactivityid": 71566,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325769": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 325769,
+            "scholarlyactivityid": 71566,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "325770": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 325770,
+            "scholarlyactivityid": 71566,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71566,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

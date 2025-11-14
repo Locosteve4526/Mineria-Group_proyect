@@ -1,0 +1,71 @@
+{
+    "activityid": 70194,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Social exclusion fails to induce distress-related depletion during food choice",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112062187",
+    "coauthors": {
+        "317552": {
+            "firstname": "Cindy",
+            "middleinitial": "",
+            "lastname": "McCrea",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112062187",
+            "authorid": 317552,
+            "scholarlyactivityid": 70194,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "317553": {
+            "firstname": "Lucia",
+            "middleinitial": "",
+            "lastname": "Herrero",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 317553,
+            "scholarlyactivityid": 70194,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70194,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 70194,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "112062187",
+    "attachments": []
+}

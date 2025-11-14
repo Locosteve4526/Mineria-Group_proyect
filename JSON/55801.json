@@ -1,0 +1,81 @@
+{
+    "activityid": 55801,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Poetry 1900 to 1950",
+        "Book Title": "American Literary Scholarship",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "327-47",
+        "Edition": "",
+        "Volume": "58",
+        "Publisher": "Duke University Press",
+        "Publisher Location": "Durham, North Carolina",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "David J. Nordloh",
+        "DOI": "10.1215/00659142-9580596 ",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112139145",
+    "coauthors": {
+        "301245": {
+            "firstname": "Jeffrey",
+            "middleinitial": "W",
+            "lastname": "Westover",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112139145",
+            "authorid": 301245,
+            "scholarlyactivityid": 55801
+        }
+    },
+    "status": [
+        {
+            "id": 55801,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 55801,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 55801,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112139145",
+    "attachments": [
+        {
+            "attachmentid": 32044,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filename": "ALS 2020 080721.docx",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeUhJRXRBWEhMK1htcmlqZXpPWVVGdjE1RUZKMk51RDZSR0laWjB5TEIwQ1BkS1Fka0NOKzRMZ20xVU9yL3VkeEI%3D",
+            "filesize": 68472
+        },
+        {
+            "attachmentid": 45461,
+            "mimetype": "application/pdf",
+            "filename": "ALS 2020.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeUhJRXRBWEhMK1hsazBhNk5rWVdic1RTUGdaNXpNb3FjSmg1OEtWU3lwRHNxSWIrQXdyOVR0QT09",
+            "filesize": 970759
+        }
+    ]
+}

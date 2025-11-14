@@ -1,0 +1,45 @@
+{
+    "activityid": 24383,
+    "fields": {
+        "Type": "Book",
+        "Title": "Roman and Moscow Poems",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "Bonfire Press (CSU)",
+        "Publisher Location": "Fort Collins, Colorado",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Sasha Steensen",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Collection of poems\nPage Number:  30",
+        "Origin": "Other"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "80501": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 80501,
+            "scholarlyactivityid": 24383
+        }
+    },
+    "status": [
+        {
+            "id": 24383,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

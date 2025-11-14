@@ -1,0 +1,81 @@
+{
+    "activityid": 9730,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Determining intensity levels for Selected Wii Fit activities in college aged individuals",
+        "Conference / Meeting Name": "the American Alliance for Health, Physical Education, Recreation and Dance National Conference",
+        "Conference Location": "Boston, Massachusetts",
+        "Date or Date Range": "2011-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112182688",
+    "coauthors": {
+        "117499": {
+            "firstname": "Joshua",
+            "middleinitial": "",
+            "lastname": "Grieser",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 117499,
+            "scholarlyactivityid": 9730
+        },
+        "117500": {
+            "firstname": "Yong",
+            "middleinitial": "",
+            "lastname": "Gao",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112182688",
+            "authorid": 117500,
+            "scholarlyactivityid": 9730
+        },
+        "117501": {
+            "firstname": "Lynda",
+            "middleinitial": "",
+            "lastname": "Ransdell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112031674",
+            "authorid": 117501,
+            "scholarlyactivityid": 9730
+        },
+        "117502": {
+            "firstname": "Shawn",
+            "middleinitial": "Ray",
+            "lastname": "Simonson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 117502,
+            "scholarlyactivityid": 9730
+        }
+    },
+    "status": [
+        {
+            "id": 9730,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9730,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112182688",
+    "attachments": []
+}

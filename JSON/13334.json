@@ -1,0 +1,52 @@
+{
+    "activityid": 13334,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Score Reporting in Test",
+        "Conference/Meeting Name": "American Alliance for Health, Physical Education, Recreation and Dance National Conference",
+        "Conference Location": "New Orleans, Louisiana",
+        "Date or Date Range": "2004-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2004,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112182688",
+    "coauthors": {
+        "58976": {
+            "firstname": "Yong",
+            "middleinitial": "",
+            "lastname": "Gao",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112182688",
+            "authorid": 58976,
+            "scholarlyactivityid": 13334
+        },
+        "58977": {
+            "firstname": "W.",
+            "middleinitial": "",
+            "lastname": "Zhu",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 58977,
+            "scholarlyactivityid": 13334
+        }
+    },
+    "status": [
+        {
+            "id": 13334,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2004,
+            "termid": "2003/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112182688",
+    "attachments": []
+}

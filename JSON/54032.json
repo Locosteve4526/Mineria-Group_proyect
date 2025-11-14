@@ -1,0 +1,94 @@
+{
+    "activityid": 54032,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "In silico analysis of Staphylococcus aureus vaccine candidates for bovine mastitis",
+        "Conference/Meeting Name": "ASM Intermountain annual conference",
+        "Conference Location": "remote",
+        "Date or Date Range": "December 5, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "ASM",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "252975": {
+            "firstname": "Cierra",
+            "middleinitial": "",
+            "lastname": "Wheeler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252975,
+            "scholarlyactivityid": 54032,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "252976": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 252976,
+            "scholarlyactivityid": 54032,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54032,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54032,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 54032,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 54032,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 54032,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

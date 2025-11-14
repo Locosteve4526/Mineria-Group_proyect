@@ -1,0 +1,91 @@
+{
+    "activityid": 58693,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Population-based modeling of knee osteoarthritis in an efficient finite element framework",
+        "Name of Conference": "9th World Congress of Biomechanics",
+        "Month / Season": "July",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "300624": {
+            "firstname": "Clare",
+            "middleinitial": "",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114062491",
+            "authorid": 300624,
+            "scholarlyactivityid": 58693
+        },
+        "300625": {
+            "firstname": "Kalin",
+            "middleinitial": "",
+            "lastname": "Gibbons",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300625,
+            "scholarlyactivityid": 58693,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "300626": {
+            "firstname": "Vahid",
+            "middleinitial": "",
+            "lastname": "Malbouby",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 300626,
+            "scholarlyactivityid": 58693,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58693,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 58693,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 58693,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114062491",
+    "attachments": []
+}

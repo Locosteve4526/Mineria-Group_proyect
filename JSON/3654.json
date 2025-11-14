@@ -1,0 +1,76 @@
+{
+    "activityid": 3654,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Mapping thunder sources by inverting acoustic and electromagnetic data",
+        "Journal": "Journal of Geophysical Research",
+        "Volume": "",
+        "Month / Season": "2014-10-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113150379",
+    "coauthors": {
+        "10647": {
+            "firstname": "Jacob",
+            "middleinitial": "F",
+            "lastname": "Anderson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10647,
+            "scholarlyactivityid": 3654
+        },
+        "10648": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 10648,
+            "scholarlyactivityid": 3654
+        },
+        "10649": {
+            "firstname": "Rene",
+            "middleinitial": "O",
+            "lastname": "Arechiga",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10649,
+            "scholarlyactivityid": 3654
+        },
+        "10650": {
+            "firstname": "Ronald",
+            "middleinitial": "J",
+            "lastname": "Thomas",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10650,
+            "scholarlyactivityid": 3654
+        }
+    },
+    "status": [
+        {
+            "id": 3654,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113150379",
+    "attachments": []
+}

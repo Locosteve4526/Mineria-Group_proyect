@@ -1,0 +1,87 @@
+{
+    "activityid": 62962,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "European Premiere of Trio for Flute, Clarinet, and Piano by Blaz Pucihar at ClarinetFest 2018",
+        "Name of Performing Group": "Dr. Nicole Molumby, Dr. Leslie Moreau, Dr. Barton Moreau",
+        "Date or Date Range": "July",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Name of Venue/Sponsor": "ClarinetFest: The Annual Conference of the International Clarinet Association (ICA)",
+        "Venue / Sponsor Location (City, State, Country)": "Ostend, Belgium",
+        "Co-contributor": null,
+        "Web address": "https://www.clarinetfest2018.com/",
+        "Description/Abstract": "In September of 2017, Dr. Nicole Molumby, Dr. Leslie Moreau, and I recorded the first movement of a new trio by Slovenian composer Blaz Pucihar, which he is writing for the three of us on commission. This recording was submitted to the International Clarinet Association (ICA) as part of a proposal to perform at the 2018 ClarinetFest, to be held in Ostend, Belgium. We were notified in December 2017 that our performance proposal was accepted for ClarinetFest 2018. We performed at the conference in July, 2018. A program is attached.",
+        "Web Address": "https://www.clarinetfest2018.com/",
+        "Origin": "Manual"
+    },
+    "facultyid": "112060963",
+    "coauthors": {
+        "289865": {
+            "firstname": "Barton",
+            "middleinitial": "A",
+            "lastname": "Moreau",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146468",
+            "authorid": 289865,
+            "scholarlyactivityid": 62962
+        },
+        "289864": {
+            "firstname": "Nicole",
+            "middleinitial": "Lena",
+            "lastname": "Molumby",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112060963",
+            "authorid": 289864,
+            "scholarlyactivityid": 62962
+        },
+        "289863": {
+            "firstname": "Leslie",
+            "middleinitial": "Mae",
+            "lastname": "Moreau",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112145056",
+            "authorid": 289863,
+            "scholarlyactivityid": 62962
+        }
+    },
+    "status": [
+        {
+            "id": 62962,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 62962,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112060963",
+    "attachments": [
+        {
+            "attachmentid": 41913,
+            "mimetype": "application/pdf",
+            "filename": "ClarinetFest2018_Program.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWpuRllEYTF1bVgxN2k2N3BLMkpOSlladkkwaHBpWjZvTVc0MFFobVZTcGN3VzhzOTl2M29OTnU4TmtmLzcxR01LaUcvZ01LL1U3UT0%3D",
+            "filesize": 101436
+        },
+        {
+            "attachmentid": 41914,
+            "mimetype": "audio/x-m4a",
+            "filename": "Trio for Flute, Clarinet, and Piano, I - Blaz Pucihar.m4a",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeWpuRllEYTF1bVgxN2k2N3BLMkpOSmZvTDZoWFc0MG5NN1B6Tytta1JMZjdFdHVBSERaL2NsazUzZWtmUUE1ckNiQVdCZTc5WFkvQmFac0hGNXlOdjVxczhlQ2tQQjNQZnpSOURuZEtIZjFaV0JEK0ZoNlgvdGFJRXVKTFlzOVZV",
+            "filesize": 9969490
+        }
+    ]
+}

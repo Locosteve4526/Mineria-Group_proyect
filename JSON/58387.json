@@ -1,0 +1,97 @@
+{
+    "activityid": 58387,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Tuning Between Quenching and Energy Transfer in DNA-Templated Heterodimer Aggregates",
+        "Journal": "Journal of Physical Chemistry Letters",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643701",
+    "coauthors": {
+        "301404": {
+            "firstname": "Azhad",
+            "middleinitial": "U.",
+            "lastname": "Chowdury",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301404,
+            "scholarlyactivityid": 58387,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "301405": {
+            "firstname": "Bill",
+            "middleinitial": "",
+            "lastname": "Knowlton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643701",
+            "authorid": 301405,
+            "scholarlyactivityid": 58387,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "301406": {
+            "firstname": "Ryan",
+            "middleinitial": "D.",
+            "lastname": "Pensack",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301406,
+            "scholarlyactivityid": 58387,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "301407": {
+            "firstname": "et",
+            "middleinitial": "",
+            "lastname": "al.",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301407,
+            "scholarlyactivityid": 58387,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58387,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2022,
+            "termid": "2022/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 58387,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111643701",
+    "attachments": []
+}

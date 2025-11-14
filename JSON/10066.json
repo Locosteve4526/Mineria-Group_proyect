@@ -1,0 +1,42 @@
+{
+    "activityid": 10066,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Great Basin art and cities",
+        "Conference/Meeting Name": "Cities Sagebrush Solitude",
+        "Conference Location": "Boise",
+        "Date or Date Range": "2012-05-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "College of Social Sciences and Public Affairs",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111111926",
+    "coauthors": {
+        "52007": {
+            "firstname": "Todd",
+            "middleinitial": "A",
+            "lastname": "Shallat",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111926",
+            "authorid": 52007,
+            "scholarlyactivityid": 10066
+        }
+    },
+    "status": [
+        {
+            "id": 10066,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111111926",
+    "attachments": []
+}

@@ -1,0 +1,110 @@
+{
+    "activityid": 34587,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "ASSESSMENT OF NOISE IN THE AIRPLANE CABIN ENVIRONMENT",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "140531": {
+            "firstname": "Christopher",
+            "middleinitial": "D",
+            "lastname": "Zevitas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140531,
+            "scholarlyactivityid": 34587,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "140532": {
+            "firstname": "John",
+            "middleinitial": "D",
+            "lastname": "Spengler",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140532,
+            "scholarlyactivityid": 34587,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "140533": {
+            "firstname": "Byron",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140533,
+            "scholarlyactivityid": 34587,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "140534": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 140534,
+            "scholarlyactivityid": 34587,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "140535": {
+            "firstname": "Joseph",
+            "middleinitial": "",
+            "lastname": "Allen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 140535,
+            "scholarlyactivityid": 34587,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34587,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 34587,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

@@ -1,0 +1,75 @@
+{
+    "activityid": 30360,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Building a Pedagogical Base: Pursing Expertise in Teaching Sport",
+        "Journal": "Strategies: A Journal for Physical and Sport Educators",
+        "Volume": "",
+        "Month / Season": "Sept. Oct.",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669892",
+    "coauthors": {
+        "116917": {
+            "firstname": "Peter",
+            "middleinitial": "",
+            "lastname": "VanMullum",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 116917,
+            "scholarlyactivityid": 30360,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "116918": {
+            "firstname": "Jane",
+            "middleinitial": "Marie",
+            "lastname": "Shimon",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669892",
+            "authorid": 116918,
+            "scholarlyactivityid": 30360,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "116919": {
+            "firstname": "Heather",
+            "middleinitial": "",
+            "lastname": "VanMullum",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 116919,
+            "scholarlyactivityid": 30360,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30360,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669892",
+    "attachments": []
+}

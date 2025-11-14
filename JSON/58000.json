@@ -1,0 +1,86 @@
+{
+    "activityid": 58000,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Revealing at-risk learning patterns and corresponding self-regulated strategies via LSTM encoder and time-series clustering",
+        "Journal": "Information Discovery and Delivery",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1108/IDD-12-2020-0160",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "269180": {
+            "firstname": "Mingyan",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269180,
+            "scholarlyactivityid": 58000
+        },
+        "269181": {
+            "firstname": "Xu",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269181,
+            "scholarlyactivityid": 58000
+        },
+        "269182": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 269182,
+            "scholarlyactivityid": 58000
+        },
+        "269183": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 269183,
+            "scholarlyactivityid": 58000
+        },
+        "269184": {
+            "firstname": "Hao",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269184,
+            "scholarlyactivityid": 58000
+        }
+    },
+    "status": [
+        {
+            "id": 58000,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

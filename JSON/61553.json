@@ -1,0 +1,62 @@
+{
+    "activityid": 61553,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Your Modern Library: Better Than Google, Alexa, and Siri",
+        "Conference/Meeting Name": "Osher Institute Program",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "10/20/2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "Osher Lifelong Learning Institute at Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112071180",
+    "coauthors": {
+        "283701": {
+            "firstname": "Patricia",
+            "middleinitial": "M",
+            "lastname": "Armstrong",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112071180",
+            "authorid": 283701,
+            "scholarlyactivityid": 61553
+        },
+        "283702": {
+            "firstname": "Jessica",
+            "middleinitial": "",
+            "lastname": "Dorr",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 283702,
+            "scholarlyactivityid": 61553
+        },
+        "283703": {
+            "firstname": "Elisabeth",
+            "middleinitial": "R",
+            "lastname": "Shook",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114159621",
+            "authorid": 283703,
+            "scholarlyactivityid": 61553
+        }
+    },
+    "status": [
+        {
+            "id": 61553,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112071180",
+    "attachments": []
+}

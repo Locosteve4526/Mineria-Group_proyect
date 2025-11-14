@@ -1,0 +1,75 @@
+{
+    "activityid": 48586,
+    "fields": {
+        "Type": "Book",
+        "Title": "Geology and Temporal Evolution of Alteration and Au-Sb-W Mineralization, Stibnite Mining District, Idaho",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Edition": "",
+        "Volume": "Bulletin B-31",
+        "Publisher": "Idaho Geological Survey",
+        "Publisher Location": "Moscow, ID",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112001853",
+    "coauthors": {
+        "225265": {
+            "firstname": "Virginia",
+            "middleinitial": "",
+            "lastname": "Gillerman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 225265,
+            "scholarlyactivityid": 48586
+        },
+        "225266": {
+            "firstname": "Mark",
+            "middleinitial": "David",
+            "lastname": "Schmitz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112001853",
+            "authorid": 225266,
+            "scholarlyactivityid": 48586
+        },
+        "225267": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Benowitz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 225267,
+            "scholarlyactivityid": 48586
+        },
+        "225268": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Layer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 225268,
+            "scholarlyactivityid": 48586
+        }
+    },
+    "status": [
+        {
+            "id": 48586,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112001853",
+    "attachments": []
+}

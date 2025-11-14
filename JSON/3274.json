@@ -1,0 +1,66 @@
+{
+    "activityid": 3274,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Alternative Splicing in Alzheimer\u2019s Disease",
+        "Journal": "J. Parkinsons Dis. Alzheimer Dis.",
+        "Volume": "2",
+        "Month / Season": "2015-08-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "1910 University Drive",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114001941",
+    "coauthors": {
+        "9590": {
+            "firstname": "Julia",
+            "middleinitial": "E",
+            "lastname": "Love",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 9590,
+            "scholarlyactivityid": 3274
+        },
+        "9591": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Hayden",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114001941",
+            "authorid": 9591,
+            "scholarlyactivityid": 3274
+        },
+        "9592": {
+            "firstname": "Troy",
+            "middleinitial": "T",
+            "lastname": "Rohn",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643741",
+            "authorid": 9592,
+            "scholarlyactivityid": 3274
+        }
+    },
+    "status": [
+        {
+            "id": 3274,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114001941",
+    "attachments": []
+}

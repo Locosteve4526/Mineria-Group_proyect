@@ -1,0 +1,42 @@
+{
+    "activityid": 15027,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The details actually matter!  Keys to successful graduate school applications.",
+        "Conference/Meeting Name": "Rocky Mountain Psychological Association",
+        "Conference Location": "Denver, CO",
+        "Date or Date Range": "2010-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "62893": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 62893,
+            "scholarlyactivityid": 15027
+        }
+    },
+    "status": [
+        {
+            "id": 15027,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2010,
+            "termid": "2009/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

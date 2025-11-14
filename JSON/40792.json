@@ -1,0 +1,76 @@
+{
+    "activityid": 40792,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Deception Detection in Online Automated Job Interviews",
+        "Name of Conference": "International Conference on HCI in Business, Government, and Organizations",
+        "Month / Season": "December",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106117",
+    "coauthors": {
+        "178749": {
+            "firstname": "Nathan",
+            "middleinitial": "",
+            "lastname": "Twyman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178749,
+            "scholarlyactivityid": 40792,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "178750": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Pentland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106117",
+            "authorid": 178750,
+            "scholarlyactivityid": 40792,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "178751": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Spitzley",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178751,
+            "scholarlyactivityid": 40792,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40792,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114106117",
+    "attachments": []
+}

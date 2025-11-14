@@ -1,0 +1,52 @@
+{
+    "activityid": 17345,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Watching Tina Fey Make Liz Lemonade: 30 Rock's Post-Feminist Feminism",
+        "Conference/Meeting Name": "National Communication Association Annual Convention",
+        "Conference Location": "San Francisco, CA",
+        "Date or Date Range": "2010-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Sponsoring Organization": "National Communication Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113118110",
+    "coauthors": {
+        "68191": {
+            "firstname": "Pepper",
+            "middleinitial": "",
+            "lastname": "Shayne",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68191,
+            "scholarlyactivityid": 17345
+        },
+        "68192": {
+            "firstname": "Dawn",
+            "middleinitial": "Renee",
+            "lastname": "Shepherd",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113118110",
+            "authorid": 68192,
+            "scholarlyactivityid": 17345
+        }
+    },
+    "status": [
+        {
+            "id": 17345,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113118110",
+    "attachments": []
+}

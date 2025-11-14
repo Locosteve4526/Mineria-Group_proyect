@@ -1,0 +1,83 @@
+{
+    "activityid": 33698,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Usefulness of Automated Deception Detection Systems",
+        "Journal": "Journal of Management Information Systems",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "In the last 15 years, there has been an increased interest in automated deception detection systems (ADD) for use in screening. ADDs use various means, both invasive and non-invasive, to ascertain individual intent to deceive or engage in malicious behavior. Many of the papers introducing ADDs use signal detection theory's analysis to compare the technique's ability to detect malicious intent to other techniques, but in doing so they neglect the base rate. In this paper, we argue that basic SDT analysis that disregards base rates, costs, and benefits, does not provide a full picture of the usefulness of ADDs. We show that especially for those contexts where malicious intent is infrequent (i.e. with low base rates of deception) that not factoring in the base rate overestimates the accuracy and therefore usefulness. We conclude with recommendations for how future research should provide a more accurate picture of the accuracy and usefulness of ADDs.\r\n",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065991",
+    "coauthors": {
+        "133337": {
+            "firstname": "Douglas",
+            "middleinitial": "P",
+            "lastname": "Twitchell",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 133337,
+            "scholarlyactivityid": 33698
+        },
+        "133336": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 133336,
+            "scholarlyactivityid": 33698
+        }
+    },
+    "status": [
+        {
+            "id": 33698,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 33698,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 33698,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 33698,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 1966,
+            "termid": "1965/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065991",
+    "attachments": []
+}

@@ -1,0 +1,58 @@
+{
+    "activityid": 30852,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Finding Solutions in the Patron's Favor",
+        "Conference/Meeting Name": "Idaho Library Association Annual Conference",
+        "Conference Location": "Boise, Idaho",
+        "Date or Date Range": "2015-10-01",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Idaho Library Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113139439",
+    "coauthors": {
+        "113832": {
+            "firstname": "Audrey",
+            "middleinitial": "",
+            "lastname": "Williams",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113832,
+            "scholarlyactivityid": 30852,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "113833": {
+            "firstname": "Mary",
+            "middleinitial": "C.",
+            "lastname": "Aagard",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113139439",
+            "authorid": 113833,
+            "scholarlyactivityid": 30852,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30852,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113139439",
+    "attachments": []
+}

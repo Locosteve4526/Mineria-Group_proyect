@@ -1,0 +1,80 @@
+{
+    "activityid": 49165,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Cyber-Physical Systems Security Introductory Course for STEM Students",
+        "Name of Conference": "ASEE Annual Conference and Exposition",
+        "Month / Season": "June",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "296191": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 296191,
+            "scholarlyactivityid": 49165,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "296192": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 296192,
+            "scholarlyactivityid": 49165,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 49165,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 49165,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111716691",
+    "attachments": [
+        {
+            "attachmentid": 30326,
+            "mimetype": "application/pdf",
+            "filename": "Cyber-Physical Systems Security Introductory Course for STEM Stud.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXREL0VtbTNTY2dPTS90WmFiYzlKL0tBbDlQUXk2Tm9Zcm9XN0JTQlVldE1WWFN5N0V6WXhLNzFJS3dlUVY2VGM4Z21hNkxMZ0plWURXN0x1bGhSazFFdXNQTGJ5VDlUYWlwOTE3UW5SMnRMKzVZQm5iTHJDQVh1cnRBK0E4YUx5",
+            "filesize": 650501
+        }
+    ]
+}

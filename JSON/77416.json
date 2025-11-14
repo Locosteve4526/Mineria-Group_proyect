@@ -1,0 +1,45 @@
+{
+    "activityid": 77416,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Coupling scientific software through the adaptive tree-based library ForestClaw",
+        "Conference/Meeting Name": "Invited Presentation ",
+        "Conference Location": "University of Colorado, Boulder, CO",
+        "Date or Date Range": "February 09, 2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "Department of Applied Mathematics, CU Boulder",
+        "Presenter(s)": null,
+        "Web Address": "https://donnacalhoun.github.io/talks/",
+        "Description/Abstract": "&lt;span&gt;Coupling scientific research codes presents several challenges. The codes may not be on the same mesh, so results from each simulation must be communicated between meshing environments. Each simulation likely comes with its own set of parameter options that potentially conflict with one another, or at the very least are difficult to encapsulate, especially for simlulation environments which are intended to be run as stand-alone applications. Finally, each simulation will have its own time stepping scheme, and step size restrictions, making it awkward for the multiple simulations to interact in a natural way. We introduce a potential solution to this problem by proposing a framework for scientific simulations that addresses some of these challenges. Our software library, ForestClaw is a parallel adaptive library based on the quadtree/octree mesh management library p4est (C. Burstedde, L. Wilcox, et al.). Scientific software that can be configured to solve on local Cartesian patches occupying the quadrants or octants of an adaptive mesh can then be coupled through new features in ForestClaw which allow distinct p4est meshes to communication information. This mechanism provides &quot;overlap exchange&quot; functionality that allows 2d and 3d meshes, which may overlap, but not occupy the same physical coordinates to exchange data. Through time stepping mechanisms that allow time stepping of each simulation to pause at synchronization points, data between multiple simulations can be exchanged. This run-time coupling allows the simulations to run in the same executable, but with individual and completely encapsulated set of configuration parameters. We illustrate results on a simple academic problem, as well as the FIGMENTS code, a coupled atmosphere/ionosphere code built on the ForestClaw coupling strategy. This is joint work with the Embry-Riddle Aeronautics University (Daytona, FL), and funded through a DARPA award.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "346130": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 346130,
+            "scholarlyactivityid": 77416,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77416,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113079626",
+    "attachments": []
+}

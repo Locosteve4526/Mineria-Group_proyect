@@ -1,0 +1,111 @@
+{
+    "activityid": 58240,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Brief communication: Is vertical shear in an ice shelf (still) negligible?&lt;/p&gt;",
+        "Journal": "The Cryosphere",
+        "Volume": "17",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "2701-2704",
+        "Publisher": "",
+        "DOI": "10.5194/tc-17-2701-2023",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.5194/tc-17-2701-2023",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114112680",
+    "coauthors": {
+        "311979": {
+            "firstname": "Christopher",
+            "middleinitial": "",
+            "lastname": "Miele",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311979,
+            "scholarlyactivityid": 58240,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "311980": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Bartholomaus",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 311980,
+            "scholarlyactivityid": 58240,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "311981": {
+            "firstname": "Ellyn",
+            "middleinitial": "M",
+            "lastname": "Enderlin",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114112680",
+            "authorid": 311981,
+            "scholarlyactivityid": 58240,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58240,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 58240,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 58240,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 58240,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 58240,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114112680",
+    "attachments": []
+}

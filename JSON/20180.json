@@ -1,0 +1,76 @@
+{
+    "activityid": 20180,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Understanding the Role of Early Application Exploration Process in the Realization of Major Innovations",
+        "Name of Conference": "Product Development and Management Association International Research Conference",
+        "Month / Season": "2008-09-30",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": null,
+        "Publisher": "Product Development and Management Association",
+        "Publisher Location": "Orlando, FL",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "134707": {
+            "firstname": "Narongsak",
+            "middleinitial": "",
+            "lastname": "Thongpapanl",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134707,
+            "scholarlyactivityid": 20180,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134708": {
+            "firstname": "GIna",
+            "middleinitial": "",
+            "lastname": "O'Connor",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134708,
+            "scholarlyactivityid": 20180,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134709": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 134709,
+            "scholarlyactivityid": 20180,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20180,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

@@ -1,0 +1,120 @@
+{
+    "activityid": 57420,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Future Needs of the Cybersecurity Workforce",
+        "Name of Conference": "17th International Conference on Cyber Warfare and Security ICCWS 2022",
+        "Month / Season": "March 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "https://doi.org/10.34190/iccws.17.1.33",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111728000",
+    "coauthors": {
+        "294084": {
+            "firstname": "Connie",
+            "middleinitial": "",
+            "lastname": "Justince",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294084,
+            "scholarlyactivityid": 57420,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294085": {
+            "firstname": "Char",
+            "middleinitial": "",
+            "lastname": "Sample",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294085,
+            "scholarlyactivityid": 57420,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294086": {
+            "firstname": "Sin Ming",
+            "middleinitial": "",
+            "lastname": "Loo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111728000",
+            "authorid": 294086,
+            "scholarlyactivityid": 57420,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "294087": {
+            "firstname": "Alex",
+            "middleinitial": "",
+            "lastname": "Ball",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294087,
+            "scholarlyactivityid": 57420,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "294088": {
+            "firstname": "Clay",
+            "middleinitial": "",
+            "lastname": "Hampton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 294088,
+            "scholarlyactivityid": 57420,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 57420,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 57420,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 57420,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111728000",
+    "attachments": []
+}

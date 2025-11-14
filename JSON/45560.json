@@ -1,0 +1,61 @@
+{
+    "activityid": 45560,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Conspiracy Theory Theories: A Sociology of Knowledge Account",
+        "Conference/Meeting Name": "Pacific Sociological Association",
+        "Conference Location": "Oakland, California",
+        "Date or Date Range": "2015-10-30",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Pacific Sociological Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615774",
+    "coauthors": {
+        "207549": {
+            "firstname": "Martin",
+            "middleinitial": "Bernard",
+            "lastname": "Orr",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111111648",
+            "authorid": 207549,
+            "scholarlyactivityid": 45560
+        },
+        "207550": {
+            "firstname": "Virginia",
+            "middleinitial": "A",
+            "lastname": "Husting",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111615774",
+            "authorid": 207550,
+            "scholarlyactivityid": 45560
+        }
+    },
+    "status": [
+        {
+            "id": 45560,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 45560,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111615774",
+    "attachments": []
+}

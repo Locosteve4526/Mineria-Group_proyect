@@ -1,0 +1,52 @@
+{
+    "activityid": 17789,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Healthy Habits, Healthy U",
+        "Conference/Meeting Name": "2015 IAHPERD Conference",
+        "Conference Location": "Pocatello",
+        "Date or Date Range": "2015-08-04",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "IAHPERD",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110020",
+    "coauthors": {
+        "88956": {
+            "firstname": "Caile",
+            "middleinitial": "E",
+            "lastname": "Spear",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110020",
+            "authorid": 88956,
+            "scholarlyactivityid": 17789
+        },
+        "88957": {
+            "firstname": "Alicia",
+            "middleinitial": "",
+            "lastname": "Anderson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 88957,
+            "scholarlyactivityid": 17789
+        }
+    },
+    "status": [
+        {
+            "id": 17789,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2015,
+            "termid": "2015/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110020",
+    "attachments": []
+}

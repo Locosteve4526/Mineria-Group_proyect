@@ -1,0 +1,77 @@
+{
+    "activityid": 71568,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "&lt;a href=&quot;http://cs.boisestate.edu/~gdagher/pub/Blockchain_For_ML_Slides.pdf&quot;&gt;Ensuring Trustworthy Neural Network Training via Blockchain&lt;/a&gt;",
+        "Name of Conference": "5th IEEE International Conference on Cognitive Machine Intelligence",
+        "Month / Season": "11",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;1 Blockchain System: Developed a system for efficient verification of neural network models using blockchain to ensure transparency and provide provenance. 2 Weight-Analysis Algorithm: Innovated a weight-analysis algorithm for intelligent distribution of training workload, optimizing computation and validation efficiency. 3 Implementation and Testing: Implemented and tested the proposed system within a functioning blockchain network, confirming robustness against adversarial attempts and demonstrating the accuracy and scalability of the algorithm.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114058240",
+    "coauthors": {
+        "325787": {
+            "firstname": "Edgar",
+            "middleinitial": "",
+            "lastname": "Navarro",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325787,
+            "scholarlyactivityid": 71568
+        },
+        "325786": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Standing",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325786,
+            "scholarlyactivityid": 71568
+        },
+        "325785": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 325785,
+            "scholarlyactivityid": 71568
+        },
+        "325784": {
+            "firstname": "Gaby",
+            "middleinitial": "",
+            "lastname": "Dagher",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114058240",
+            "authorid": 325784,
+            "scholarlyactivityid": 71568
+        }
+    },
+    "status": [
+        {
+            "id": 71568,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058240",
+    "attachments": []
+}

@@ -1,0 +1,96 @@
+{
+    "activityid": 53703,
+    "fields": {
+        "Type": "Patent",
+        "Title of Intellectual Property": "BSU #263: Nucleic Acid Cross-Link",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Patent Nationality": "United States",
+        "If Patent Cooperation Treaty, List Nations": "",
+        "Copyright/Patent Number/ID": "MVS Ref: P13398US00; invention disclosure #262",
+        "If patent has been licensed, to whom?": "",
+        "If patent has been assigned, to whom?": "",
+        "Inventor(s)": null,
+        "URL": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643701",
+    "coauthors": {
+        "301953": {
+            "firstname": "Olga",
+            "middleinitial": "",
+            "lastname": "Mass",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 301953,
+            "scholarlyactivityid": 53703,
+            "classifications": {
+                "Role": "Inventor"
+            }
+        },
+        "301954": {
+            "firstname": "Bill",
+            "middleinitial": "",
+            "lastname": "Knowlton",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643701",
+            "authorid": 301954,
+            "scholarlyactivityid": 53703,
+            "classifications": {
+                "Role": "Other Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 53703,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 53703,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 53703,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 53703,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 53703,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111643701",
+    "attachments": []
+}

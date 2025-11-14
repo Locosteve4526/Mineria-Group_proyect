@@ -1,0 +1,113 @@
+{
+    "activityid": 54559,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Invasion of Plant Communities",
+        "Book Title": "Global Plant Invaders",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110143",
+    "coauthors": {
+        "256522": {
+            "firstname": "Stephen",
+            "middleinitial": "",
+            "lastname": "Young",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256522,
+            "scholarlyactivityid": 54559,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "256523": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Kimball",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 256523,
+            "scholarlyactivityid": 54559,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "256524": {
+            "firstname": "Stephen",
+            "middleinitial": "J",
+            "lastname": "Novak PhD",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110143",
+            "authorid": 256524,
+            "scholarlyactivityid": 54559,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 54559,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 54559,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 54559,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 54559,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 54559,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111110143",
+    "attachments": []
+}

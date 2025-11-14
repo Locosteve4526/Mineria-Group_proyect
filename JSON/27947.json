@@ -1,0 +1,49 @@
+{
+    "activityid": 27947,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "A combined fourth-order compact scheme with an accelerated multigrid method for the energy equation in spherical polar coordinates",
+        "Outlet (if applicable)": "",
+        "Date": "2012-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Publisher": " Electron. Trans. Numer. Anal.",
+        "Location of Publisher (City, State, Country)": " ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "39",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper is devoted to numerical simulations using a higher-order compact scheme with an accelerated multigrid method for a forced convective heat transfer problem of a heated sphere immersed in a viscous, incompressible, electrically conducting fluid in the presence of an external magnetic field. The authors introduce a numerical algorithm to solve the energy equation formulated in spherical polar coordinates. The numerical algorithm is based on fourth-order nite difference schemes that result in algebraic systems, which are then solved by accelerated multigrid techniques. Fourth-order forward nite differences are applied to compute the local Nusselt number $Nu$ and the mean Nusselt number $N_m$ and the computed values are compared with recent experimental results. A degradation of the heat transfer is observed for low values of the interaction parameter $N$ while its increase is observed for high values of $N$. The efficiency of the algorithm introduced is illustrated by a sequence of numerical experiments with different Reynolds and Prandtl numbers.\nExplanation of Other:  Mathematical Review",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "87967": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 87967,
+            "scholarlyactivityid": 27947
+        }
+    },
+    "status": [
+        {
+            "id": 27947,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

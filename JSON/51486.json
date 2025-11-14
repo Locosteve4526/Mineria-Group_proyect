@@ -1,0 +1,80 @@
+{
+    "activityid": 51486,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Spatiotemporal Dynamics of the Living Genome by 3D Orbital Tracking Fluorescence Cross Correlation Spectroscopy (3DOT-FCCS)",
+        "Journal": "Biophysical Journal",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Spatiotemporal dynamics of the living genome are difficult to study by conventional microscopy. The 3D motion of chromosomal elements requires that transcribing genes be imaged in the axial dimension as well as the focal plane limiting temporal resolution.  In addition, photobleaching from conventional wide field or confocal microcopy limits the duration of live cell experiments and constrains trace duration for single particle tracking. In this article, we report the application of the 3D orbital tracking method to measure fluorescence intensity of labelled RNA and DNA binding proteins at an active gene. We then apply fluorescence cross correlation spectroscopy to characterize the occupancy number and dwelltime of both transcription factors and nascent RNA in living cells and through temporal cross correlation, the timing of gene activation. We present analytic models to determine biochemical rates from resulting auto and cross correlation functions.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002276",
+    "coauthors": {
+        "273987": {
+            "firstname": "Gretchen",
+            "middleinitial": "",
+            "lastname": "Kunz",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 273987,
+            "scholarlyactivityid": 51486,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "273988": {
+            "firstname": "Matt",
+            "middleinitial": "",
+            "lastname": "Ferguson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002276",
+            "authorid": 273988,
+            "scholarlyactivityid": 51486,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 51486,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 51486,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 51486,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114002276",
+    "attachments": []
+}

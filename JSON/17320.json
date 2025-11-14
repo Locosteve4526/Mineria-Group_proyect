@@ -1,0 +1,72 @@
+{
+    "activityid": 17320,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Computer-based Laboratory for Introductory Thermochemistry",
+        "Conference/Meeting Name": "219th American Chemical Society National Meeting",
+        "Conference Location": "San Francisco, CA",
+        "Date or Date Range": "2000-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2000,
+        "Sponsoring Organization": "American Chemical Society",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110041",
+    "coauthors": {
+        "68147": {
+            "firstname": "Susan",
+            "middleinitial": "E",
+            "lastname": "Shadle",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110041",
+            "authorid": 68147,
+            "scholarlyactivityid": 17320
+        },
+        "68148": {
+            "firstname": "T",
+            "middleinitial": "",
+            "lastname": "Singletary",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110340",
+            "authorid": 68148,
+            "scholarlyactivityid": 17320
+        },
+        "68149": {
+            "firstname": "J",
+            "middleinitial": "S",
+            "lastname": "Ruettgers",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68149,
+            "scholarlyactivityid": 17320
+        },
+        "68150": {
+            "firstname": "D",
+            "middleinitial": "",
+            "lastname": "Bunce",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 68150,
+            "scholarlyactivityid": 17320
+        }
+    },
+    "status": [
+        {
+            "id": 17320,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2000,
+            "termid": "1999/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110041",
+    "attachments": []
+}

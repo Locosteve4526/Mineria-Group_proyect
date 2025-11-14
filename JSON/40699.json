@@ -1,0 +1,74 @@
+{
+    "activityid": 40699,
+    "fields": {
+        "Type": "Book",
+        "Title": "Polymer Composites for Energy Harvesting, Conversion and Storage",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "American Chemical Society",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113162964",
+    "coauthors": {
+        "178313": {
+            "firstname": "Lan (Samantha)",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113162964",
+            "authorid": 178313,
+            "scholarlyactivityid": 40699,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "178314": {
+            "firstname": "Winnie",
+            "middleinitial": "",
+            "lastname": "Wong-Ng",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178314,
+            "scholarlyactivityid": 40699,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "178315": {
+            "firstname": "Jeff",
+            "middleinitial": "",
+            "lastname": "Jarp",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 178315,
+            "scholarlyactivityid": 40699,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 40699,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113162964",
+    "attachments": []
+}

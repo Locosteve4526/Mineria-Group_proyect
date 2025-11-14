@@ -1,0 +1,60 @@
+{
+    "activityid": 45684,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Detecting Depressed Users in Online Forums",
+        "Name of Conference": "Proceedings of the 2019 International Symposium on Network Enabled Health Informatics, Biomedicine, and Bioinformatics (HI-BI-BI), in conjunction with ASONAM 2019",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048777",
+    "coauthors": {
+        "208124": {
+            "firstname": "Anu",
+            "middleinitial": "",
+            "lastname": "Shrestha",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 208124,
+            "scholarlyactivityid": 45684,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "208125": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048777",
+            "authorid": 208125,
+            "scholarlyactivityid": 45684
+        }
+    },
+    "status": [
+        {
+            "id": 45684,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048777",
+    "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+    "activityid": 62157,
+    "fields": {
+        "Type": "Book",
+        "Title": "Governor of the Cordillera: John C. Early Among the Philippine Highlanders",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Cornell University Press",
+        "Publisher Location": "Ithaca, New York",
+        "ISBN": "978-1501769955",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://www.cornellpress.cornell.edu/book/9781501769962/governor-of-the-cordillera/#bookTabs=1",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111111800",
+    "coauthors": {
+        "285439": {
+            "firstname": "Shelton",
+            "middleinitial": "",
+            "lastname": "Woods",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111111800",
+            "authorid": 285439,
+            "scholarlyactivityid": 62157,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62157,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111800",
+    "attachments": []
+}

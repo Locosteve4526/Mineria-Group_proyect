@@ -1,0 +1,52 @@
+{
+    "activityid": 16235,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Effects of Teriparatide in Bone Cells",
+        "Conference / Meeting Name": "Undergraduate Student Research Conference",
+        "Conference Location": "Boise Idaho",
+        "Date or Date Range": "2013-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Sponsoring Organization": "Boise State University",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643744",
+    "coauthors": {
+        "65536": {
+            "firstname": "Julia",
+            "middleinitial": "Thom",
+            "lastname": "Oxford",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643744",
+            "authorid": 65536,
+            "scholarlyactivityid": 16235
+        },
+        "65537": {
+            "firstname": "Travis",
+            "middleinitial": "",
+            "lastname": "Baker",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 65537,
+            "scholarlyactivityid": 16235
+        }
+    },
+    "status": [
+        {
+            "id": 16235,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643744",
+    "attachments": []
+}

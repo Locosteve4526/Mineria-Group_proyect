@@ -1,0 +1,46 @@
+{
+    "activityid": 4501,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Use of Principal Component Analysis to Determine Down-Hole Tool Orientation and Enhance SH-Waves",
+        "Journal": "Geophysics",
+        "Volume": "6",
+        "Month / Season": "2001-01-01",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "175",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.4133/JEEG6.4.175",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/21",
+        "Description/Abstract": "A common problem in down-hole shear wave surveys is the determination of the tool rotation relative to the seismic source polarization direction. This paper reports an algorithm which has been developed to solve for this angle in the horizontal plane. The method employs Principal Component Analysis (PCA) to determine the angle from the large motion of the SH-wave (not first motion). Once the angle is known, the horizontal component data may be rotated so that one component is aligned with the source polarization, and the other orthogonal to it.\nSignificant findings include the following. First, subtraction of oppositely polarized source efforts improves the PCA formulation by enhancing the S-waves. Second, the Swave enhancement is improved by scaling the oppositely polarized source efforts by the vertical (not horizontal) component data, as this provides a better attenuation of non-Swave energy. Third, observation of the tool orientation as it exits the borehole is helpful in resolving the 180 degree azimuthal ambiguity in the PCA approach. Finally, the polarization of the source radiation may drift relative to the axis of the source during a survey, and should not be assumed invariant.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110288",
+    "coauthors": {
+        "13534": {
+            "firstname": "Paul",
+            "middleinitial": "",
+            "lastname": "Michaels",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110288",
+            "authorid": 13534,
+            "scholarlyactivityid": 4501
+        }
+    },
+    "status": [
+        {
+            "id": 4501,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2001,
+            "termid": "2000/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110288",
+    "attachments": []
+}

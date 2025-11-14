@@ -1,0 +1,76 @@
+{
+    "activityid": 24087,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Longitudinal Success of Calculus I Reform",
+        "Name of Conference": "",
+        "Month / Season": "2016-03-31",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "New Orleans, LA ",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110582",
+    "coauthors": {
+        "79866": {
+            "firstname": "Douglas",
+            "middleinitial": "",
+            "lastname": "Bullock",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110582",
+            "authorid": 79866,
+            "scholarlyactivityid": 24087
+        },
+        "79867": {
+            "firstname": "Janet",
+            "middleinitial": "M",
+            "lastname": "Callahan",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033791",
+            "authorid": 79867,
+            "scholarlyactivityid": 24087
+        },
+        "79868": {
+            "firstname": "Kathrine",
+            "middleinitial": "E",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111112597",
+            "authorid": 79868,
+            "scholarlyactivityid": 24087
+        }
+    },
+    "status": [
+        {
+            "id": 24087,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 24087,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111110582",
+    "attachments": []
+}

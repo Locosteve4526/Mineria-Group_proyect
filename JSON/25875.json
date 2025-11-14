@@ -1,0 +1,89 @@
+{
+    "activityid": 25875,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Snow avalanche detection and identification for near real-time application",
+        "Outlet (if applicable)": "",
+        "Date": "2014-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "San Francisco ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "A near real-time avalanche detection system will provide highway avalanche forecasters with a tool to remotely monitor major avalanche paths and provide information about regional avalanche activity and timing. For the last three winters, a network of infrasound arrays has been remotely monitoring both avalanche and non-avalanche events along a 10 mile section of Highway 21 in Idaho. To provide the best results to avalanche forecasters, the system must be robust and detect all major avalanche events of interest that affect the highway. Over the last three winters, the infrasound arrays recorded multiple avalanche cycles and we explore different methods of event detection for both large dry avalanches (strong infrasound signal) and small wet avalanches (weak infrasound signal). We compare the F-statistic and cross-correlation techniques (i.e. PMCC) to determine the most robust method and develop computationally efficient algorithms to implement in near-real time using parallel processing and GPU computing. Once an event has been detected, we use the artificial intelligence method of recursive neural networks to classify based on similar characteristics to past known signals.",
+        "Origin": "Other"
+    },
+    "facultyid": "112188758",
+    "coauthors": {
+        "83622": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Havens",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83622,
+            "scholarlyactivityid": 25875
+        },
+        "83623": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 83623,
+            "scholarlyactivityid": 25875
+        },
+        "83624": {
+            "firstname": "Hans-Peter",
+            "middleinitial": "",
+            "lastname": "Marshall",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188758",
+            "authorid": 83624,
+            "scholarlyactivityid": 25875
+        },
+        "83625": {
+            "firstname": "Bill",
+            "middleinitial": "",
+            "lastname": "Nicholson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83625,
+            "scholarlyactivityid": 25875
+        },
+        "83626": {
+            "firstname": "Gabriel",
+            "middleinitial": "",
+            "lastname": "Trisca",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 83626,
+            "scholarlyactivityid": 25875
+        }
+    },
+    "status": [
+        {
+            "id": 25875,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188758",
+    "attachments": []
+}

@@ -1,0 +1,73 @@
+{
+    "activityid": 77341,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Human Resource Update for Small Business and Entrepreneurs 2023-2024 Updates",
+        "Name of Conference": "Small Business Institute Conference",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065551",
+    "coauthors": {
+        "345724": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Dunne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065551",
+            "authorid": 345724,
+            "scholarlyactivityid": 77341,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "345725": {
+            "firstname": "John",
+            "middleinitial": "",
+            "lastname": "Hendon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345725,
+            "scholarlyactivityid": 77341,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        },
+        "345726": {
+            "firstname": "LeAnne",
+            "middleinitial": "",
+            "lastname": "Coder",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345726,
+            "scholarlyactivityid": 77341
+        }
+    },
+    "status": [
+        {
+            "id": 77341,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065551",
+    "attachments": []
+}

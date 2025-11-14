@@ -1,0 +1,62 @@
+{
+    "activityid": 46200,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Personalized professional learning and teacher self-efficacy towards technology integration.",
+        "Journal": "Journal of Digital Learning in Teacher Education",
+        "Volume": "35",
+        "Month / Season": "",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "221-235",
+        "Publisher": "",
+        "DOI": "https://doi.org/10.1080/21532974.2019.1647579 ",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1080/21532974.2019.1647579",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114002217",
+    "coauthors": {
+        "210765": {
+            "firstname": "Allison",
+            "middleinitial": "",
+            "lastname": "Hall",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210765,
+            "scholarlyactivityid": 46200,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "210766": {
+            "firstname": "Jesus",
+            "middleinitial": "",
+            "lastname": "Trespalacios",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002217",
+            "authorid": 210766,
+            "scholarlyactivityid": 46200,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46200,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002217",
+    "attachments": []
+}

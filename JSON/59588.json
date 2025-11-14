@@ -1,0 +1,80 @@
+{
+    "activityid": 59588,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Human Resouce Update for Small Business and Entrepreneurs",
+        "Conference/Meeting Name": "Small Business Institute Annual Conference",
+        "Conference Location": "New Orleans, LA",
+        "Date or Date Range": "February 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Sponsoring Organization": "Small Business Institute",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065551",
+    "coauthors": {
+        "325195": {
+            "firstname": "John",
+            "middleinitial": "J",
+            "lastname": "Hendon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325195,
+            "scholarlyactivityid": 59588,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "325196": {
+            "firstname": "LeAnne",
+            "middleinitial": "L",
+            "lastname": "Coder",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 325196,
+            "scholarlyactivityid": 59588,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "325197": {
+            "firstname": "Timothy",
+            "middleinitial": "C",
+            "lastname": "Dunne",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065551",
+            "authorid": 325197,
+            "scholarlyactivityid": 59588,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59588,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59588,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114065551",
+    "attachments": []
+}

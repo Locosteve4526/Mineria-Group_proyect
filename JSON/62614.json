@@ -1,0 +1,58 @@
+{
+    "activityid": 62614,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Using Weighted Behavioral Co-expression Networks for Deception Detection",
+        "Conference/Meeting Name": "INFORMS Annual Meeting",
+        "Conference Location": "Indianapolis, IN",
+        "Date or Date Range": "October 2022",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114106117",
+    "coauthors": {
+        "336792": {
+            "firstname": "Xinran",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 336792,
+            "scholarlyactivityid": 62614,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "336793": {
+            "firstname": "Steven",
+            "middleinitial": "J",
+            "lastname": "Pentland",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114106117",
+            "authorid": 336793,
+            "scholarlyactivityid": 62614,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62614,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114106117",
+    "attachments": []
+}

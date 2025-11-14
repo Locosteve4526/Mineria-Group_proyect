@@ -1,0 +1,57 @@
+{
+    "activityid": 35460,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cPartitioning of the degradation space for OCR training\u201d",
+        "Name of Conference": "SPIE Electronic Imaging -- Document Recognition and Retrieval XIII",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "#606705",
+        "Publisher": "",
+        "Publisher Location": "San Jose, CA",
+        "Volume": "6067",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Generally speaking optical character recognition algorithms tend to perform better when presented with homogeneous\r\ndata. This paper studies a method that is designed to increase the homogeneity of training data, based on an understanding\r\nof the types of degradations that occur during the printing and scanning process, and how these degradations affect the\r\nhomogeneity of the data. While it has been shown that dividing the degradation space by edge spread improves recognition\r\naccuracy over dividing the degradation space by threshold or point spread function width alone, the challenge is in\r\ndeciding how many partitions and at what value of edge spread the divisions should be made. Clustering of different types\r\nof character features, fonts, sizes, resolutions and noise levels shows that edge spread is indeed shown to be a strong indicator\r\nof the homogeneity of character data clusters.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669907",
+    "coauthors": {
+        "145520": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 145520,
+            "scholarlyactivityid": 35460
+        },
+        "145519": {
+            "firstname": "Timothy",
+            "middleinitial": "",
+            "lastname": "Andersen",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669907",
+            "authorid": 145519,
+            "scholarlyactivityid": 35460
+        }
+    },
+    "status": [
+        {
+            "id": 35460,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669907",
+    "attachments": []
+}

@@ -1,0 +1,76 @@
+{
+    "activityid": 1787,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Information Content of Slug Tests for Estimating Hydraulic Properties in Realistic, High-Conductivity Aquifer Scenarios",
+        "Journal": "Journal of Hydrology",
+        "Volume": "403",
+        "Month / Season": "2011-06-01",
+        "Issue Number": "2-Jan",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "66-82",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.jhydrol.2011.03.044",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/118",
+        "Description/Abstract": "A recently developed unified model for partially-penetrating slug tests in unconfined aquifers (Malama et al., in press) provides a semi-analytical solution for aquifer response at the wellbore in the presence of inertial effects and wellbore skin, and is able to model the full range of responses from overdamped/monotonic to underdamped/oscillatory. While the model provides a unifying framework for realistically analyzing slug tests in aquifers (with the ultimate goal of determining aquifer properties such as hydraulic conductivity K and specific storage Ss), it is currently unclear whether parameters of this model can be well-identified without significant prior information and, thus, what degree of information content can be expected from such slug tests. In this paper, we examine the information content of slug tests in realistic field scenarios with respect to estimating aquifer properties, through analysis of both numerical experiments and field datasets.\n\nFirst, through numerical experiments using Markov Chain Monte Carlo methods for gauging parameter uncertainty and identifiability, we find that: (1) as noted by previous researchers, estimation of aquifer storage parameters using slug test data is highly unreliable and subject to significant uncertainty; (2) joint estimation of aquifer and skin parameters contributes to significant uncertainty in both unless prior knowledge is available; and (3) similarly, without prior information joint estimation of both aquifer radial and vertical conductivity may be unreliable. These results have significant implications for the types of information that must be collected prior to slug test analysis in order to obtain reliable aquifer parameter estimates. For example, plausible estimates of aquifer anisotropy ratios and bounds on wellbore skin K should be obtained, if possible, a priori.\n\nSecondly, through analysis of field data \u2013 consisting of over 2500 records from partially-penetrating slug tests in a heterogeneous, highly conductive aquifer, we present some general findings that have applicability to slug testing. In particular, we find that aquifer hydraulic conductivity estimates obtained from larger slug heights tend to be lower on average (presumably due to non-linear wellbore losses) and tend to be less variable (presumably due to averaging over larger support volumes), supporting the notion that using the smallest slug heights possible to produce measurable water level changes is an important strategy when mapping aquifer heterogeneity.\n\nFinally, we present results specific to characterization of the aquifer at the Boise Hydrogeophysical Research Site. Specifically, we note that (1) K estimates obtained using a range of different slug heights give similar results, generally within \u00b120%; (2) correlations between estimated K profiles with depth at closely-spaced wells suggest that K values obtained from slug tests are representative of actual aquifer heterogeneity and not overly affected by near-well media disturbance (i.e., &quot;skin&quot;); (3) geostatistical analysis of K values obtained indicates reasonable correlation lengths for sediments of this type; and (4) overall, K values obtained do not appear to correlate well with porosity data from previous studies.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4475": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Cardiff",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113054278",
+            "authorid": 4475,
+            "scholarlyactivityid": 1787
+        },
+        "4476": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4476,
+            "scholarlyactivityid": 1787
+        },
+        "4477": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Thoma",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4477,
+            "scholarlyactivityid": 1787
+        },
+        "4478": {
+            "firstname": "Bwalya",
+            "middleinitial": "",
+            "lastname": "Malama",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4478,
+            "scholarlyactivityid": 1787
+        }
+    },
+    "status": [
+        {
+            "id": 1787,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

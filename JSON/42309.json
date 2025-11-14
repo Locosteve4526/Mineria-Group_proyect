@@ -1,0 +1,71 @@
+{
+    "activityid": 42309,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Fast and Accurate Algorithm for Spherical Harmonic Analysis on HEALPix Grids with Applications to the Cosmic Microwave Background Radiation",
+        "Journal": "Journal of Computational Physics",
+        "Volume": "416",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "252968": {
+            "firstname": "Kathryn",
+            "middleinitial": "",
+            "lastname": "Drake",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 252968,
+            "scholarlyactivityid": 42309,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "252969": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 252969,
+            "scholarlyactivityid": 42309,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 42309,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 42309,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

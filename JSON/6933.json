@@ -1,0 +1,86 @@
+{
+    "activityid": 6933,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Effect of Various Soil Hydraulic Property Estimates on Soil Moisture Simulations",
+        "Journal": "",
+        "Volume": "8",
+        "Month / Season": "2009-05-01",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "321-331",
+        "Publisher": "Vadose Zone Journal",
+        "DOI": "http://dx.doi.org/10.2136/vzj2008.0088",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/civileng_facpubs/19",
+        "Description/Abstract": "Models of water movement in unsaturated soils require accurate representations of the soil moisture retention and hydraulic conductivity curves; however, commonly used laboratory methods and pedotransfer functions (PTFs) are rarely verified against field conditions. In this study, we investigated the effects of using soil hydraulic property information obtained from different measurement and estimation techniques on one-dimensional model predictions of soil moisture content. Pairs of time domain reflectometry waveguides and tensiometers were installed at two depths in the side of a soil pit face to obtain in situ measurements. Undisturbed soil samples were taken near the instruments and subjected to particle size analysis, multistep outflow (MSO), and falling-head permeability tests to obtain estimates of the soil moisture retention curves. Three scaling methods were then applied to improve the fit of the various estimates to the field data. We found that soil hydraulic property estimates obtained from inverse methods lead to the best simulations of soil moisture dynamics, and that laboratory MSO tests or commonly used PTFs perform poorly. These laboratory and PTF estimates can be dramatically improved, however, by simply constraining the range of possible moisture contents to the minimum and maximum measured in the field. It appears that this method of scaling PTF results can be used to obtain soil hydraulic property inputs of sufficient accuracy for plot-scale modeling efforts without requiring expensive laboratory or in situ tests.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110360",
+    "coauthors": {
+        "21503": {
+            "firstname": "Molly",
+            "middleinitial": "",
+            "lastname": "Gribb",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643696",
+            "authorid": 21503,
+            "scholarlyactivityid": 6933
+        },
+        "21504": {
+            "firstname": "Irina",
+            "middleinitial": "",
+            "lastname": "Forkutsa",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21504,
+            "scholarlyactivityid": 6933
+        },
+        "21505": {
+            "firstname": "Aleshia",
+            "middleinitial": "",
+            "lastname": "Hansen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21505,
+            "scholarlyactivityid": 6933
+        },
+        "21506": {
+            "firstname": "David",
+            "middleinitial": "G.",
+            "lastname": "Chandler",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 21506,
+            "scholarlyactivityid": 6933
+        },
+        "21507": {
+            "firstname": "James",
+            "middleinitial": "P",
+            "lastname": "McNamara",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110360",
+            "authorid": 21507,
+            "scholarlyactivityid": 6933
+        }
+    },
+    "status": [
+        {
+            "id": 6933,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2009,
+            "termid": "2008/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110360",
+    "attachments": []
+}

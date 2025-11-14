@@ -1,0 +1,58 @@
+{
+    "activityid": 71278,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The Case of the Conspicuously-Absent Greater Sage-Grouse",
+        "Conference/Meeting Name": "Great Basin Anthropological Conference",
+        "Conference Location": "Bend, OR",
+        "Date or Date Range": "10/19-21 2023",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114203426",
+    "coauthors": {
+        "323987": {
+            "firstname": "Jacob",
+            "middleinitial": "",
+            "lastname": "Fisher",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 323987,
+            "scholarlyactivityid": 71278,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "323988": {
+            "firstname": "Allison",
+            "middleinitial": "L",
+            "lastname": "MacLean",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114203426",
+            "authorid": 323988,
+            "scholarlyactivityid": 71278,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71278,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114203426",
+    "attachments": []
+}

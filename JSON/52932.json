@@ -1,0 +1,132 @@
+{
+    "activityid": 52932,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An innovative learning pattern analysis approach: The long short-term memory based autoencoder",
+        "Journal": "IEEE Transactions on Emerging Topics in Computing",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "246519": {
+            "firstname": "Z",
+            "middleinitial": "",
+            "lastname": "Yang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246519,
+            "scholarlyactivityid": 52932,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "246520": {
+            "firstname": "M",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246520,
+            "scholarlyactivityid": 52932,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "246521": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 246521,
+            "scholarlyactivityid": 52932,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246522": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 246522,
+            "scholarlyactivityid": 52932,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246523": {
+            "firstname": "X",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246523,
+            "scholarlyactivityid": 52932,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "246524": {
+            "firstname": "H",
+            "middleinitial": "",
+            "lastname": "Li",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246524,
+            "scholarlyactivityid": 52932,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52932,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 52932,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 52932,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

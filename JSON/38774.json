@@ -1,0 +1,96 @@
+{
+    "activityid": 38774,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Automated measurement of fracture callus in radiographs using portable software",
+        "Journal": "Journal of orthopaedic research : official publication of the Orthopaedic Research Society",
+        "Volume": "34",
+        "Month / Season": null,
+        "Issue Number": "7",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "1224-33",
+        "Publisher": null,
+        "DOI": null,
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "The development of software applications that assist the radiographic evaluation of fracture healing could advance clinical diagnosis and expedite the identification of effective treatment strategies. A radiographic feature regularly used as an outcome measure for basic and clinical fracture healing research is new bone growth, or fracture callus. In this study, we developed OrthoRead, a portable software application that uses image-processing algorithms to detect and measure fracture callus in plain radiographs. OrthoRead utilizes an optimal boundary tracking algorithm to semi-automatically segment the cortical surface, and a novel iterative thresholding selection algorithm to then automatically segment the fracture callus. The software was validated in three steps. First, algorithm accuracy and sensitivity were analyzed using surrogate models with known callus size. Second, the callus area of distal femur fractures measured using OrthoRead was compared to callus area manually outlined by orthopaedic surgeons. Third, the callus area of ovine tibial fractures was measured using OrthoRead and compared to callus volume measured from micro-CT. The software had less than a 5% error in measuring surrogate callus, and was insensitive to changes in image resolution, image rotation, and the size of the analyzed region of interest. Strong positive correlations existed between OrthoRead and clinicians (R(2) \u2009=\u20090.98), and between 2D callus area and 3D callus volume (R(2) \u2009=\u20090.70). The average run time for OrthoRead was 3\u2009s when using a 2.7\u2009GHz processor. By being accurate, fast, and robust, OrthoRead can support prospective and retrospective clinical studies investigating implant efficacy, and can assist research on fracture healing mechanobiology. \u00a9 2015 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 34:1224-1233, 2016.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "163633": {
+            "firstname": "Stephen ",
+            "middleinitial": "M",
+            "lastname": "Porter",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163633,
+            "scholarlyactivityid": 38774
+        },
+        "163634": {
+            "firstname": "Hannah ",
+            "middleinitial": "L",
+            "lastname": "Dailey",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163634,
+            "scholarlyactivityid": 38774
+        },
+        "163635": {
+            "firstname": "K",
+            "middleinitial": "A",
+            "lastname": "Hollar",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163635,
+            "scholarlyactivityid": 38774
+        },
+        "163636": {
+            "firstname": "Karina",
+            "middleinitial": "",
+            "lastname": "Klein",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163636,
+            "scholarlyactivityid": 38774
+        },
+        "163637": {
+            "firstname": "J",
+            "middleinitial": "A",
+            "lastname": "Harty",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163637,
+            "scholarlyactivityid": 38774
+        },
+        "163638": {
+            "firstname": "Trevor ",
+            "middleinitial": "J",
+            "lastname": "Lujan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 163638,
+            "scholarlyactivityid": 38774
+        }
+    },
+    "status": [
+        {
+            "id": 38774,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

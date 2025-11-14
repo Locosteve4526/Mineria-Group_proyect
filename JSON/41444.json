@@ -1,0 +1,62 @@
+{
+    "activityid": 41444,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Books that bring people together",
+        "Journal": "School Library Journal",
+        "Volume": "64",
+        "Month / Season": "",
+        "Issue Number": "13",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "34-38",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112180267",
+    "coauthors": {
+        "182109": {
+            "firstname": "EunHye",
+            "middleinitial": "",
+            "lastname": "Son",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112180267",
+            "authorid": 182109,
+            "scholarlyactivityid": 41444,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "182110": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Chase",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 182110,
+            "scholarlyactivityid": 41444,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41444,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112180267",
+    "attachments": []
+}

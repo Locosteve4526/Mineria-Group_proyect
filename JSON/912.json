@@ -1,0 +1,66 @@
+{
+    "activityid": 912,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Multiattribute utility technology: An application to client acceptance and retention decisions",
+        "Journal": "Journal of Accounting and Finance Research",
+        "Volume": "1",
+        "Month / Season": "1995-12-31",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 1995,
+        "Page Numbers": "13-24",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112188648",
+    "coauthors": {
+        "2220": {
+            "firstname": "Gary",
+            "middleinitial": "P",
+            "lastname": "Braun",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 2220,
+            "scholarlyactivityid": 912
+        },
+        "2221": {
+            "firstname": "Troy",
+            "middleinitial": "A",
+            "lastname": "Hyatt",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112188648",
+            "authorid": 2221,
+            "scholarlyactivityid": 912
+        },
+        "2222": {
+            "firstname": "Mark",
+            "middleinitial": "H",
+            "lastname": "Taylor",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 2222,
+            "scholarlyactivityid": 912
+        }
+    },
+    "status": [
+        {
+            "id": 912,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 1995,
+            "termid": "1995/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112188648",
+    "attachments": []
+}

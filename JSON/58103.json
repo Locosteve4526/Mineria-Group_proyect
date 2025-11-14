@@ -1,0 +1,89 @@
+{
+    "activityid": 58103,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Evaluating and Improving Child-Directed Automatic Speech Recognition",
+        "Name of Conference": "12th Conference on Language Resources and Evaluation",
+        "Month / Season": "May",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "6340\u20136345",
+        "Publisher": "European Language Resources Association (ELRA)",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1259&amp;context=cs_facpubs",
+        "Description/Abstract": "Speech recognition has seen dramatic improvements in the last decade, though those improvements have focused primarily on adult\nspeech. In this paper, we assess child-directed speech recognition and leverage a transfer learning approach to improve child-directed\nspeech recognition by training the recent DeepSpeech2 model on adult data, then apply additional tuning to varied amounts of child\nspeech data. We evaluate our model using the CMU Kids dataset as well as our own recordings of child-directed prompts. The results\nfrom our experiment show that even a small amount of child audio data improves significantly over a baseline of adult-only or child-only\ntrained models. We report a final general Word-Error-Rate of 29% over a baseline of 62% that uses the adult-trained model. Our\nanalyses show that our model adapts quickly using a small amount of data and that the general child model works better than school\ngrade-specific models. We make available our trained model and our data collection tool.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "271543": {
+            "firstname": "Eric",
+            "middleinitial": "",
+            "lastname": "Both",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 271543,
+            "scholarlyactivityid": 58103,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "271544": {
+            "firstname": "Jake",
+            "middleinitial": "",
+            "lastname": "Carns",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 271544,
+            "scholarlyactivityid": 58103,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "271545": {
+            "firstname": "Casey",
+            "middleinitial": "",
+            "lastname": "Kennington",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 271545,
+            "scholarlyactivityid": 58103,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "271546": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 271546,
+            "scholarlyactivityid": 58103,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58103,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2020,
+            "termid": "2020/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

@@ -1,0 +1,97 @@
+{
+    "activityid": 5324,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Experiential learning and clinical education",
+        "Journal": "Academic Exchange Quarterly",
+        "Volume": "18",
+        "Month / Season": "2014-08-28",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111353312",
+    "coauthors": {
+        "88241": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 88241,
+            "scholarlyactivityid": 5324,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "88242": {
+            "firstname": "Patricia",
+            "middleinitial": "R",
+            "lastname": "Elison-Bowers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110810",
+            "authorid": 88242,
+            "scholarlyactivityid": 5324,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "88243": {
+            "firstname": "Thomas",
+            "middleinitial": "Jack",
+            "lastname": "Wing II",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111308224",
+            "authorid": 88243,
+            "scholarlyactivityid": 5324,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "88244": {
+            "firstname": "Leslie",
+            "middleinitial": "Elona",
+            "lastname": "Kendrick",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111325081",
+            "authorid": 88244,
+            "scholarlyactivityid": 5324,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 5324,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 5324,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111353312",
+    "attachments": []
+}

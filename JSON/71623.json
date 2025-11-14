@@ -1,0 +1,76 @@
+{
+    "activityid": 71623,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Modeling fatigue failure in soft tissue using a visco-hyperelastic model with discontinuous damage",
+        "Journal": "Journal of the mechanical behavior of biomedical materials",
+        "Volume": "144",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Page Numbers": "105968",
+        "Publisher": null,
+        "DOI": "10.1016/j.jmbbm.2023.105968",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "Soft tissue is susceptible to injury from single high-magnitude static loads and from repetitive low-magnitude fatigue loads. While many constitutive formulations have been developed and validated to model static failure in soft tissue, a modeling framework is not well-established for fatigue failure. Here we determined the feasibility of using a visco-hyperelastic damage model with discontinuous damage (strain energy-based damage criterion) to simulate low- and high-cycle fatigue failure in soft fibrous tissue. Cyclic creep data from six uniaxial tensile fatigue experiments of human medial meniscus were used to calibrate the specimen-specific material parameters. The model was able to successfully simulate all three characteristic stages of cyclic creep, and predict the number of cycles until tissue rupture. Mathematically, damage propagated under constant cyclic stress due to time-dependent viscoelastic increases in tensile stretch that in turn increased strain energy. Our results implicate solid viscoelasticity as a fundamental regulator of fatigue failure in soft tissue, where tissue with slow stress relaxation times will be more resistant to fatigue injury. In a validation study, the visco-hyperelastic damage model was able to simulate characteristic stress-strain curves of pull to failure experiments (static failure) when using material parameters curve fit to the fatigue experiments. For the first time, we've shown that a visco-hyperelastic discontinuous damage framework can model cyclic creep and predict material rupture in soft tissue, and may enable the reliable simulation of both fatigue and static failure behavior from a single constitutive formulation.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "113124248",
+    "coauthors": {
+        "326255": {
+            "firstname": "Bradley ",
+            "middleinitial": "S",
+            "lastname": "Henderson",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326255,
+            "scholarlyactivityid": 71623
+        },
+        "326256": {
+            "firstname": "Katelyn ",
+            "middleinitial": "F",
+            "lastname": "Cudworth",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326256,
+            "scholarlyactivityid": 71623
+        },
+        "326257": {
+            "firstname": "Estefan\u00eda",
+            "middleinitial": "",
+            "lastname": "Pe\u00f1a",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326257,
+            "scholarlyactivityid": 71623
+        },
+        "326258": {
+            "firstname": "Trevor ",
+            "middleinitial": "J",
+            "lastname": "Lujan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 326258,
+            "scholarlyactivityid": 71623
+        }
+    },
+    "status": [
+        {
+            "id": 71623,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124248",
+    "attachments": []
+}

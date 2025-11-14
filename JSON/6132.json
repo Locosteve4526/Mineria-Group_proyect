@@ -1,0 +1,71 @@
+{
+    "activityid": 6132,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Sense of Community, Perceived Learning, and Achievement Relationships in an Online Graduate Course",
+        "Journal": "The Turkish Online Journal of Distance Education",
+        "Volume": "17",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "31-49",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002217",
+    "coauthors": {
+        "114986": {
+            "firstname": "Jesus",
+            "middleinitial": "",
+            "lastname": "Trespalacios",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114002217",
+            "authorid": 114986,
+            "scholarlyactivityid": 6132,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "114987": {
+            "firstname": "Ross",
+            "middleinitial": "Andrew",
+            "lastname": "Perkins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112180039",
+            "authorid": 114987,
+            "scholarlyactivityid": 6132,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 6132,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 6132,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114002217",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 210,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Legal and Ethical Implications of Corporate Social Networks",
+        "Journal": "Employee Responsibilities and Rights Journal",
+        "Volume": "22",
+        "Month / Season": "2010-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://www.springerlink.com/content/446x810tx0134588",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111110548",
+    "coauthors": {
+        "555": {
+            "firstname": "Gundars",
+            "middleinitial": "",
+            "lastname": "Kaupins",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110548",
+            "authorid": 555,
+            "scholarlyactivityid": 210
+        },
+        "556": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Park",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111112978",
+            "authorid": 556,
+            "scholarlyactivityid": 210
+        }
+    },
+    "status": [
+        {
+            "id": 210,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2010,
+            "termid": "2010/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110548",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 4998,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "What predicts drive for muscularity in collegiate athletes v. non-athletes?",
+        "Journal": "Athletic Insight",
+        "Volume": "6",
+        "Month / Season": null,
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "15-Jan",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112014101",
+    "coauthors": {
+        "15066": {
+            "firstname": "Mary",
+            "middleinitial": "Elizabeth",
+            "lastname": "Pritchard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112014101",
+            "authorid": 15066,
+            "scholarlyactivityid": 4998
+        },
+        "15067": {
+            "firstname": "Allison",
+            "middleinitial": "",
+            "lastname": "Neilsen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 15067,
+            "scholarlyactivityid": 4998
+        }
+    },
+    "status": [
+        {
+            "id": 4998,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2014,
+            "termid": "2013/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112014101",
+    "attachments": []
+}

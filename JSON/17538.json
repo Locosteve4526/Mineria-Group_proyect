@@ -1,0 +1,42 @@
+{
+    "activityid": 17538,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "",
+        "Conference/Meeting Name": "Health/Fitness Instructor Workshop",
+        "Conference Location": "Denver, CO",
+        "Date or Date Range": "1997-03-25",
+        "Actual/Projected Year of Publication/Presentation": 1997,
+        "Sponsoring Organization": "American College of Sports Medicine",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Case Studies",
+        "Origin": "Other"
+    },
+    "facultyid": "112145571",
+    "coauthors": {
+        "68700": {
+            "firstname": "Shawn",
+            "middleinitial": "Ray",
+            "lastname": "Simonson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112145571",
+            "authorid": 68700,
+            "scholarlyactivityid": 17538
+        }
+    },
+    "status": [
+        {
+            "id": 17538,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 1997,
+            "termid": "1996/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112145571",
+    "attachments": []
+}

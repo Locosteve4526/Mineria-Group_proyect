@@ -1,0 +1,86 @@
+{
+    "activityid": 1797,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Incorporating Geostatistical Constraints in Nonlinear Inverse Problems",
+        "Journal": "Water Resources Research",
+        "Volume": "43",
+        "Month / Season": "2007-10-19",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2007,
+        "Page Numbers": "W10422-1 - W10422-18",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/cgiss_facpubs/29",
+        "Description/Abstract": "In this paper we present a method of incorporating semivariogram constraints into nonlinear inversion problems. That is, we describe a method of sampling the space of inverse solutions that honor a specified semivariogram or set of semivariograms and also explain a set of state data. The approach can be considered a method of conditional simulation where model conditioning is based upon state data (as opposed to parameter data). The difference between this approach and other simulation approaches is that the simulation is posed as an optimization problem with the joint objective of matching the semivariograms and honoring the state data. This approach requires computing the sensitivities of the semivariograms with respect to the distributed parameter. We derive these sensitivities and find that they are efficient to compute and store, making the method tenable for large models. We demonstrate the method with one synthetic and one field example using radar velocity tomography, where radar velocity is related through a petrophysical transform to saturated porosity. We address biasing issues and demonstrate ensemble generation and the resulting resolution and uncertainty analysis using ensemble statistics. We also demonstrate how the method can be applied to existing deterministic inversion codes with the field example.",
+        "Origin": "Other"
+    },
+    "facultyid": "111110319",
+    "coauthors": {
+        "4509": {
+            "firstname": "T.C.",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4509,
+            "scholarlyactivityid": 1797
+        },
+        "4510": {
+            "firstname": "S.",
+            "middleinitial": "",
+            "lastname": "Routh",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4510,
+            "scholarlyactivityid": 1797
+        },
+        "4511": {
+            "firstname": "Tom",
+            "middleinitial": "",
+            "lastname": "Clemo",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 4511,
+            "scholarlyactivityid": 1797
+        },
+        "4512": {
+            "firstname": "Warren",
+            "middleinitial": "",
+            "lastname": "Barrash",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110319",
+            "authorid": 4512,
+            "scholarlyactivityid": 1797
+        },
+        "4513": {
+            "firstname": "William",
+            "middleinitial": "",
+            "lastname": "Clement",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110004",
+            "authorid": 4513,
+            "scholarlyactivityid": 1797
+        }
+    },
+    "status": [
+        {
+            "id": 1797,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2007,
+            "termid": "2007/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110319",
+    "attachments": []
+}

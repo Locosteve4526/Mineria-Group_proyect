@@ -1,0 +1,83 @@
+{
+    "activityid": 34168,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "An Empirical Model for B-site Cation Ordering in Ba(Mg\u2153Ta\u2154)O3",
+        "Journal": "Journal of Alloys and Compounds",
+        "Volume": "735",
+        "Month / Season": "February",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "2356-2362",
+        "Publisher": "Elsevier",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Processing-structure models are needed in both the lab and industry; however, few exist for cation ordering in perovskites. The perovskite Ba(Mg1/3Ta2/3)O3 in its ordered form is one of the best known high-Q dielectric materials but requires extended high-temperature annealing to achieve high degrees of order; so an empirical model which describes the ordering as a function of an easily obtainable processing parameter would be useful. In this work, powders of Ba(Mg1/3Ta2/3)O3 were synthesized using a conventional solid-state mixed-oxide method. The as-calcined compound had a cubic (lacking long-range B-site cation order) structure but contained short-range-ordered nanodomains. Upon annealing at 1500 \u00b0C for up to 40 h an increasingly ordered arrangement of Mg2+ and Ta5+ on the B site was generated, with the ordering causing a trigonal distortion. Empirical modeling as well as first-principles calculations via density functional theory showed that this ordering process was accompanied by a volume decrease despite the fact that ordered planes stack less efficiently. An empirical model was developed to describe the ordering parameter as a function of either annealing time or effective B-site contraction. The implication of this modeling method is that it may be possible to predict the degree of cation ordering in complex perovskite systems from ionic-radii data and experimentally-derived pseudocubic lattice constants alone. Conversely, it may also be possible to predict the degree of volume expansion/contraction upon ordering, which has implications for functional properties like ionic conduction.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112113480",
+    "coauthors": {
+        "149057": {
+            "firstname": "Evan",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 149057,
+            "scholarlyactivityid": 34168,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "149058": {
+            "firstname": "Kevin",
+            "middleinitial": "R",
+            "lastname": "Tolman",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 149058,
+            "scholarlyactivityid": 34168,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "149059": {
+            "firstname": "Rick",
+            "middleinitial": "",
+            "lastname": "Ubic PhD, MInstP",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112113480",
+            "authorid": 149059,
+            "scholarlyactivityid": 34168,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34168,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112113480",
+    "attachments": [
+        {
+            "attachmentid": 6058,
+            "mimetype": "application/pdf",
+            "filename": "1-s2.0-S0925838817341154-main.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeUhJRXRBWEhMK1hrelBhazFrWStWVUpZcjFHS1NLQXFoZWI3RkNRbWJ3eUlWa3EyZElBVXNyUnpWc1RhcHdQbHVaRjMvVUpKM0tMQjhzVTM1ZU41YmFnPT0%3D",
+            "filesize": 1002712
+        }
+    ]
+}

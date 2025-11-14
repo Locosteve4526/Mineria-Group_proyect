@@ -1,0 +1,71 @@
+{
+    "activityid": 31765,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "But I was just a mentee! Becoming an undergraduate research mentor: A workshop for early career faculty",
+        "Conference/Meeting Name": "Rocky Mountain Psychological Association",
+        "Conference Location": "Denver, CO",
+        "Date or Date Range": "April 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "120370": {
+            "firstname": "Krista",
+            "middleinitial": "D.",
+            "lastname": "Bridgmon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120370,
+            "scholarlyactivityid": 31765,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120371": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Cramblet-Alvarez",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120371,
+            "scholarlyactivityid": 31765,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120372": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 120372,
+            "scholarlyactivityid": 31765,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31765,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

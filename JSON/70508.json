@@ -1,0 +1,97 @@
+{
+    "activityid": 70508,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Improving Graph Neural Network Applications",
+        "Conference / Meeting Name": "Idaho Conference on Undergraduate Research",
+        "Conference Location": "Boise State University",
+        "Date or Date Range": "July 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "NSF",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span&gt;Graph neural networks (GNN) are important to the cybersecurity field. Applications range from intrusion detection to malware identification within enterprise systems. These neural networks take large graphs as input and output graphs to analyze. However, the expressive power of graph neural networks is limited due to the size of input graphs. Representing input graphs via a decomposition could decrease time complexity of GNN algorithms. Investigation of the properties and limitations of the Kronecker product produced an algorithm to decompose input graphs into smaller, approximate graphs. This algorithm improvemes the time complexity of current graph detection algorithms, and it improves the expressive power of current GNNs.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "320626": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 320626,
+            "scholarlyactivityid": 70508,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "320627": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320627,
+            "scholarlyactivityid": 70508,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "320628": {
+            "firstname": "Evan",
+            "middleinitial": "",
+            "lastname": "Anthopoulos",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320628,
+            "scholarlyactivityid": 70508,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "320629": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Giacobbi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320629,
+            "scholarlyactivityid": 70508,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "320630": {
+            "firstname": "Emerson",
+            "middleinitial": "",
+            "lastname": "Konkol",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 320630,
+            "scholarlyactivityid": 70508,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70508,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2023,
+            "termid": "2023/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

@@ -1,0 +1,84 @@
+{
+    "activityid": 70884,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "GeoFlood : Computational Model for Overland Flooding",
+        "Journal": "Geoscientific Model Development",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Computational model for overland flooding. \u00a0Based on ForestClaw software.",
+        "Origin": "Manual"
+    },
+    "facultyid": "113079626",
+    "coauthors": {
+        "346108": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Kyanjo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346108,
+            "scholarlyactivityid": 70884,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "346109": {
+            "firstname": "Donna",
+            "middleinitial": "",
+            "lastname": "Calhoun",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113079626",
+            "authorid": 346109,
+            "scholarlyactivityid": 70884,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "346110": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "George",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 346110,
+            "scholarlyactivityid": 70884,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 70884,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 70884,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113079626",
+    "attachments": []
+}

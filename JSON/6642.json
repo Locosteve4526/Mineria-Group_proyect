@@ -1,0 +1,56 @@
+{
+    "activityid": 6642,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical Solutions for a Model of Tissue Invasion and Migration of Tumour Cells",
+        "Journal": "Computational &amp; Mathematical Methods in Medicine",
+        "Volume": "452320",
+        "Month / Season": "2011-01-01",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "16-Jan",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1155/2011/452320",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/60",
+        "Description/Abstract": "The goal of this paper is to construct a new algorithm for the numerical simulations of the evolution of tumour invasion and metastasis. By means of mathematical model equations and their numerical solutions we investigate how cancer cells can produce and secrete matrix degradative enzymes, degrade extracellular matrix, and invade due to diffusion and haptotactic migration. For the numerical simulations of the interactions between the tumour cells and the surrounding tissue, we apply numerical approximations, which are spectrally accurate and based on small amounts of grid-points. Our numerical experiments illustrate the metastatic ability of tumour cells.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20711": {
+            "firstname": "Mikhail",
+            "middleinitial": "",
+            "lastname": "Kolev",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20711,
+            "scholarlyactivityid": 6642
+        },
+        "20712": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20712,
+            "scholarlyactivityid": 6642
+        }
+    },
+    "status": [
+        {
+            "id": 6642,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2011,
+            "termid": "2010/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

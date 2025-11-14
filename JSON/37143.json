@@ -1,0 +1,75 @@
+{
+    "activityid": 37143,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Examination of pesticide exposure in burrowing owls nesting in agricultural and nonagricultural areas in the Morley Nelson Snake River Birds of Prey National Conservation Area, Idaho",
+        "Journal": "Journal of Raptor Research",
+        "Volume": "52",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "191-206",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110100",
+    "coauthors": {
+        "198080": {
+            "firstname": "Matthew",
+            "middleinitial": "J",
+            "lastname": "Stuber",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 198080,
+            "scholarlyactivityid": 37143,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "198081": {
+            "firstname": "Michael",
+            "middleinitial": "J",
+            "lastname": "Hooper",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 198081,
+            "scholarlyactivityid": 37143,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "198082": {
+            "firstname": "James",
+            "middleinitial": "R",
+            "lastname": "Belthoff",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110100",
+            "authorid": 198082,
+            "scholarlyactivityid": 37143,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37143,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110100",
+    "attachments": []
+}

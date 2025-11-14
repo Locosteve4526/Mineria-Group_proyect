@@ -1,0 +1,84 @@
+{
+    "activityid": 42434,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Make the System a Bit Better Each Day\u201d: Preparing Teacher Candidates to Be Agents of Change",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112002071",
+    "coauthors": {
+        "189038": {
+            "firstname": "Julianne",
+            "middleinitial": "",
+            "lastname": "Wenner",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114046498",
+            "authorid": 189038,
+            "scholarlyactivityid": 42434
+        },
+        "189037": {
+            "firstname": "Jennifer",
+            "middleinitial": "Lynn",
+            "lastname": "Snow-Gerono",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112002071",
+            "authorid": 189037,
+            "scholarlyactivityid": 42434
+        },
+        "189036": {
+            "firstname": "Sherry",
+            "middleinitial": "",
+            "lastname": "Dismuke",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111346076",
+            "authorid": 189036,
+            "scholarlyactivityid": 42434
+        }
+    },
+    "status": [
+        {
+            "id": 42434,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 5,
+            "completionorder": 5
+        },
+        {
+            "id": 42434,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 42434,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "112002071",
+    "attachments": []
+}

@@ -1,0 +1,101 @@
+{
+    "activityid": 32271,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "STEM-EDS analysis of fission products in neutron-irradiated TRISO fuel particles from AGR-1 experiment",
+        "Journal": "Journal of Nuclear Materials",
+        "Volume": "475",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "62 - 70",
+        "Publisher": "Elsevier B.V.",
+        "DOI": "dx.doi.org/10.1016/j.jnucmat.2016.03.008",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113124431",
+    "coauthors": {
+        "124074": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Leng",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 124074,
+            "scholarlyactivityid": 32271,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "124075": {
+            "firstname": "I.",
+            "middleinitial": "J.",
+            "lastname": "van Rooyen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 124075,
+            "scholarlyactivityid": 32271,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "124076": {
+            "firstname": "Yaqiao",
+            "middleinitial": "",
+            "lastname": "Wu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113124431",
+            "authorid": 124076,
+            "scholarlyactivityid": 32271,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "124077": {
+            "firstname": "I.",
+            "middleinitial": "",
+            "lastname": "Szlufarska",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 124077,
+            "scholarlyactivityid": 32271,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "124078": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Sridharan",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 124078,
+            "scholarlyactivityid": 32271,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 32271,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113124431",
+    "attachments": []
+}

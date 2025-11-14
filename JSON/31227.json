@@ -1,0 +1,85 @@
+{
+    "activityid": 31227,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Experiential learning and clinical education",
+        "Journal": "Academic Exchange Quarterly",
+        "Volume": "18",
+        "Month / Season": "2014-08-28",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111308224",
+    "coauthors": {
+        "116936": {
+            "firstname": "Jaime",
+            "middleinitial": "Nicole",
+            "lastname": "Sand",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111353312",
+            "authorid": 116936,
+            "scholarlyactivityid": 31227
+        },
+        "116935": {
+            "firstname": "Patricia",
+            "middleinitial": "R",
+            "lastname": "Elison-Bowers",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110810",
+            "authorid": 116935,
+            "scholarlyactivityid": 31227
+        },
+        "116934": {
+            "firstname": "Thomas",
+            "middleinitial": "Jack",
+            "lastname": "Wing II",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111308224",
+            "authorid": 116934,
+            "scholarlyactivityid": 31227
+        },
+        "116933": {
+            "firstname": "Leslie",
+            "middleinitial": "Elona",
+            "lastname": "Kendrick",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111325081",
+            "authorid": 116933,
+            "scholarlyactivityid": 31227
+        }
+    },
+    "status": [
+        {
+            "id": 31227,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 31227,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2014,
+            "termid": "2014/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111308224",
+    "attachments": []
+}

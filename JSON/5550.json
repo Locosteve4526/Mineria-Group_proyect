@@ -1,0 +1,86 @@
+{
+    "activityid": 5550,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Utilizing readily available and open source libraries to create a 3D game engine",
+        "Journal": "International Journal of Gaming and Computer-Mediated Simulations",
+        "Volume": "1",
+        "Month / Season": "2009-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "20-49",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "17036": {
+            "firstname": "Tim",
+            "middleinitial": "",
+            "lastname": "Stowell",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17036,
+            "scholarlyactivityid": 5550
+        },
+        "17037": {
+            "firstname": "Jon",
+            "middleinitial": "",
+            "lastname": "Scoresby",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17037,
+            "scholarlyactivityid": 5550
+        },
+        "17038": {
+            "firstname": "Chad",
+            "middleinitial": "",
+            "lastname": "Coates",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17038,
+            "scholarlyactivityid": 5550
+        },
+        "17039": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Capell",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17039,
+            "scholarlyactivityid": 5550
+        },
+        "17040": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 17040,
+            "scholarlyactivityid": 5550
+        }
+    },
+    "status": [
+        {
+            "id": 5550,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

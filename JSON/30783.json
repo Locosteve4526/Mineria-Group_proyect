@@ -1,0 +1,62 @@
+{
+    "activityid": 30783,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "\u201cAll students are brilliant:\u201d A confession of injustice and a call to action. ",
+        "Journal": "The Physics Teacher",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "153027": {
+            "firstname": "Amy",
+            "middleinitial": "D.",
+            "lastname": "Robertson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 153027,
+            "scholarlyactivityid": 30783,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "153028": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 153028,
+            "scholarlyactivityid": 30783,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30783,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

@@ -1,0 +1,56 @@
+{
+    "activityid": 34509,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Staffing Chat Reference with Undergraduate Student Assistants at an Academic Library: A Standards-Based Assessment",
+        "Journal": "The Journal of Academic Librarianship",
+        "Volume": "43",
+        "Month / Season": "",
+        "Issue Number": "6",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "469-478",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112192272",
+    "coauthors": {
+        "139979": {
+            "firstname": "Kelsey",
+            "middleinitial": "",
+            "lastname": "Keyes",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113139676",
+            "authorid": 139979,
+            "scholarlyactivityid": 34509
+        },
+        "139980": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 139980,
+            "scholarlyactivityid": 34509
+        }
+    },
+    "status": [
+        {
+            "id": 34509,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112192272",
+    "attachments": []
+}

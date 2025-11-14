@@ -1,0 +1,111 @@
+{
+    "activityid": 71151,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Top Management Team Composition and Risk Factor Disclosures&lt;/p&gt;",
+        "Journal": "Journal of Management Accounting Research",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2026,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "354682": {
+            "firstname": "Cristina",
+            "middleinitial": "",
+            "lastname": "Bailey",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354682,
+            "scholarlyactivityid": 71151,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "354683": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 354683,
+            "scholarlyactivityid": 71151,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "354684": {
+            "firstname": "Shan",
+            "middleinitial": "",
+            "lastname": "Wang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354684,
+            "scholarlyactivityid": 71151,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 71151,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2025,
+            "termid": "2025/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 71151,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2025,
+            "termid": "2025/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 71151,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71151,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 71151,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

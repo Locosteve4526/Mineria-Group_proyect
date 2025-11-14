@@ -1,0 +1,71 @@
+{
+    "activityid": 135,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using Color to Enhance Spreadsheet Accuracy and Usefulness",
+        "Journal": "ISACA Journal",
+        "Volume": "2",
+        "Month / Season": "",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Auditors often embed colored labels and\r\nbackground hues in spreadsheets to enhance a\r\nworksheet\u2019s organization, readability and visual\r\nappeal. Perhaps less obvious is an auditor\u2019s ability\r\nto use colors to increase a spreadsheet\u2019s accuracy\r\nand efficiency. This article presents several ideas\r\nalong these lines, using Microsoft Excel 2013.",
+        "Origin": "Other"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "117463": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 117463,
+            "scholarlyactivityid": 135,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "117464": {
+            "firstname": "Mark",
+            "middleinitial": "G",
+            "lastname": "Simkin",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 117464,
+            "scholarlyactivityid": 135,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 135,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 135,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

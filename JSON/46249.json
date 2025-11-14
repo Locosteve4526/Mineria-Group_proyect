@@ -1,0 +1,58 @@
+{
+    "activityid": 46249,
+    "fields": {
+        "Type": "Book",
+        "Title": " Instructional Design Course Handbook",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Edition": "3rd.",
+        "Volume": "",
+        "Publisher": "Boise State's Organizational Performance and Workplace Learning Department",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "The OPWL 537 Instructional Design course now uses the third edition of this text. Lisa Giacumo and I have been collecting data about what works, needs improving, and needs omitting. We've created a 2nd and 3rd edition during the summer 2020 and 2021 semesters.",
+        "Origin": "Manual"
+    },
+    "facultyid": "112139967",
+    "coauthors": {
+        "260546": {
+            "firstname": "Steven",
+            "middleinitial": "W",
+            "lastname": "Villachica",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112139967",
+            "authorid": 260546,
+            "scholarlyactivityid": 46249,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "260547": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Giacumo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114041970",
+            "authorid": 260547,
+            "scholarlyactivityid": 46249
+        }
+    },
+    "status": [
+        {
+            "id": 46249,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112139967",
+    "attachments": []
+}

@@ -1,0 +1,62 @@
+{
+    "activityid": 49759,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Advice from seasoned chairs ",
+        "Conference/Meeting Name": "Association of Heads of Departments of Psychology Annual Meeting",
+        "Conference Location": "Atlanta, GA",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110323",
+    "coauthors": {
+        "231414": {
+            "firstname": "Lee",
+            "middleinitial": "",
+            "lastname": "Gillis",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 231414,
+            "scholarlyactivityid": 49759
+        },
+        "231415": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Nielsen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 231415,
+            "scholarlyactivityid": 49759
+        },
+        "231416": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 231416,
+            "scholarlyactivityid": 49759
+        }
+    },
+    "status": [
+        {
+            "id": 49759,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110323",
+    "attachments": []
+}

@@ -1,0 +1,80 @@
+{
+    "activityid": 9754,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The challenging second night",
+        "Conference/Meeting Name": "2016 AWHONN Convention",
+        "Conference Location": "Grapevine, TX",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "AWHONN",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113084128",
+    "coauthors": {
+        "147899": {
+            "firstname": "Jane",
+            "middleinitial": "",
+            "lastname": "Grassley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113084128",
+            "authorid": 147899,
+            "scholarlyactivityid": 9754,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "147900": {
+            "firstname": "Becky",
+            "middleinitial": "",
+            "lastname": "Spencer",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 147900,
+            "scholarlyactivityid": 9754,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "147901": {
+            "firstname": "Deborah",
+            "middleinitial": "",
+            "lastname": "McCarter-Spaulding",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 147901,
+            "scholarlyactivityid": 9754,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 9754,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 9754,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113084128",
+    "attachments": []
+}

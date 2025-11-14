@@ -1,0 +1,77 @@
+{
+    "activityid": 22132,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The Student-University Relationship and Access to Student Online Activity",
+        "Journal": "Connecticut Public Interest Law Journal",
+        "Volume": "19",
+        "Month / Season": "",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "45-91",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Role:  Principal",
+        "Origin": "Other"
+    },
+    "facultyid": "111112978",
+    "coauthors": {
+        "231424": {
+            "firstname": "Susan",
+            "middleinitial": "",
+            "lastname": "Park",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111112978",
+            "authorid": 231424,
+            "scholarlyactivityid": 22132,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "231425": {
+            "firstname": "Ruth",
+            "middleinitial": "",
+            "lastname": "Jebe",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065992",
+            "authorid": 231425,
+            "scholarlyactivityid": 22132
+        }
+    },
+    "status": [
+        {
+            "id": 22132,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 22132,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2019,
+            "termid": "2019/01",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 22132,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "111112978",
+    "attachments": []
+}

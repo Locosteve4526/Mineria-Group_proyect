@@ -1,0 +1,76 @@
+{
+    "activityid": 6663,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical Solution of a Model for Brain Cancer Progression After Therapy",
+        "Journal": "Mathematical Modelling and Analysis",
+        "Volume": "14",
+        "Month / Season": "2009-11-10",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "43-56",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/45",
+        "Description/Abstract": "We present a numerical scheme used to investigate a mathematical model of tumor growth which incorporates multiple disparate timescales. We simulate the model with different initial data. The initial conditions explored herein correspond to a small remnant of tumor tissue left after surgical resection. Our results indicate that tumor regrowth begins at the pre-surgery tumor-healthy tissue interface and penetrates back into the original tumor area. This growth is rate-limited by the reformation of the tumor vascular network.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "20751": {
+            "firstname": "Z.",
+            "middleinitial": "",
+            "lastname": "Jackiewicz",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20751,
+            "scholarlyactivityid": 6663
+        },
+        "20752": {
+            "firstname": "Y.",
+            "middleinitial": "",
+            "lastname": "Kuang",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20752,
+            "scholarlyactivityid": 6663
+        },
+        "20753": {
+            "firstname": "C.",
+            "middleinitial": "",
+            "lastname": "Thalhauser",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20753,
+            "scholarlyactivityid": 6663
+        },
+        "20754": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 20754,
+            "scholarlyactivityid": 6663
+        }
+    },
+    "status": [
+        {
+            "id": 6663,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

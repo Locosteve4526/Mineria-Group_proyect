@@ -1,0 +1,84 @@
+{
+    "activityid": 47435,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Development of a statistical shape-function model of the implanted knee for real-time prediction of joint mechanics",
+        "Journal": "Journal of biomechanics",
+        "Volume": "88",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "55-63",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Outcomes of total knee arthroplasty (TKA) are dependent on surgical technique, patient variability, and implant design. Non-optimal design or alignment choices may result in undesirable contact mechanics and joint kinematics, including poor joint alignment, instability, and reduced range of motion. Implant design and surgical alignment are modifiable factors with potential to improve patient outcomes, and there is a need for robust implant designs that can accommodate patient variability. Our objective was to develop a statistical shape-function model (SFM) of a posterior stabilized implanted knee to instantaneously predict joint mechanics in an efficient manner. Finite element methods were combined with Latin hypercube sampling and regression analyses to produce modeling equations relating nine implant design and six surgical alignment parameters to tibiofemoral (TF) joint mechanics outcomes during a deep knee bend. A SFM was developed and TF contact mechanics, kinematics, and soft tissue loads were instantaneously predicted from the model. Average normalized root-mean-square error predictions were between 2.79% and 9.42%, depending on the number of parameters included in the model. The statistical shape-function model generated instantaneous joint mechanics predictions using a maximum of 130 training simulations, making it ideally suited for integration into a patient-specific design and alignment optimization pipeline. Such a tool may be used to optimize kinematic function to achieve more natural motion or minimize implant wear, and may aid the engineering and clinical communities in improving patient satisfaction and surgical outcomes.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "114062491",
+    "coauthors": {
+        "219091": {
+            "firstname": "Kalin",
+            "middleinitial": "D",
+            "lastname": "Gibbons",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219091,
+            "scholarlyactivityid": 47435
+        },
+        "219092": {
+            "firstname": "Chadd",
+            "middleinitial": "W",
+            "lastname": "Clary",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219092,
+            "scholarlyactivityid": 47435
+        },
+        "219093": {
+            "firstname": "Paul",
+            "middleinitial": "J",
+            "lastname": "Rullkoetter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219093,
+            "scholarlyactivityid": 47435
+        },
+        "219094": {
+            "firstname": "Clare",
+            "middleinitial": "K",
+            "lastname": "Fitzpatrick",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 219094,
+            "scholarlyactivityid": 47435
+        }
+    },
+    "status": [
+        {
+            "id": 47435,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114062491",
+    "attachments": [
+        {
+            "attachmentid": 20877,
+            "mimetype": "application/pdf",
+            "filename": "2019_TKA_SFM_JBiomech.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRithOC9Ob3gwQWgwRmNsTDlibnRZSFhaS1hhSXBrMnYxYmVmWk5zWXdsYzRtLzdDUmQybngzM1VJMk1jL0xYbzRxOD0%3D",
+            "filesize": 2676358
+        }
+    ]
+}

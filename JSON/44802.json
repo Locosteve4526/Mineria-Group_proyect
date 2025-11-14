@@ -1,0 +1,66 @@
+{
+    "activityid": 44802,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cTo sit in solemn silence\u201d: (Re)covering team culture through warm-ups",
+        "Name of Conference": "National Communication Association",
+        "Month / Season": "November, 2018",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114064812",
+    "coauthors": {
+        "203461": {
+            "firstname": "Christina",
+            "middleinitial": "L",
+            "lastname": "Ivey",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114066270",
+            "authorid": 203461,
+            "scholarlyactivityid": 44802
+        },
+        "203460": {
+            "firstname": "Amy",
+            "middleinitial": "",
+            "lastname": "Arellano",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114064812",
+            "authorid": 203460,
+            "scholarlyactivityid": 44802
+        }
+    },
+    "status": [
+        {
+            "id": 44802,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 1,
+            "completionorder": 1
+        },
+        {
+            "id": 44802,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114064812",
+    "attachments": []
+}

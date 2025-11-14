@@ -1,0 +1,66 @@
+{
+    "activityid": 3908,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Confidence Intervals for Long Memory Regressions",
+        "Journal": "Statistics &amp; Probability Letters",
+        "Volume": "78",
+        "Month / Season": "2008-09-15",
+        "Issue Number": "13",
+        "Actual/Projected Year of Publication/Presentation": 2008,
+        "Page Numbers": "1894-1902",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.spl.2008.01.057",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/10",
+        "Description/Abstract": "This paper proposes an accurate confidence interval for the trend parameter in a linear regression model with long memory errors. The interval is based upon an equivalent sum of squares method and is shown to perform comparably to a weighted least squares interval. The advantages of the proposed interval lies in its relative ease of computation and should be attractive to practitioners.",
+        "Origin": "Other"
+    },
+    "facultyid": "112033907",
+    "coauthors": {
+        "11521": {
+            "firstname": "Kyungduk",
+            "middleinitial": "",
+            "lastname": "Ko",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112033907",
+            "authorid": 11521,
+            "scholarlyactivityid": 3908
+        },
+        "11522": {
+            "firstname": "Jaechoul",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112001167",
+            "authorid": 11522,
+            "scholarlyactivityid": 3908
+        },
+        "11523": {
+            "firstname": "Robert",
+            "middleinitial": "",
+            "lastname": "Lund",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 11523,
+            "scholarlyactivityid": 3908
+        }
+    },
+    "status": [
+        {
+            "id": 3908,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2008,
+            "termid": "2008/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112033907",
+    "attachments": []
+}

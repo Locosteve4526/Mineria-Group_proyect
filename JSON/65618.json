@@ -1,0 +1,42 @@
+{
+    "activityid": 65618,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Multiscale ocean modeling",
+        "Conference / Meeting Name": "Luminary Research and Creative Activity Showcase Exhibit",
+        "Conference Location": "Stein Luminary, Boise State University",
+        "Date or Date Range": "April 7th, 2023",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "&lt;span style=&quot;font-weight:400;&quot;&gt;This exhibit shows an overview of the work done on ocean modeling in the Computational Math group at the BSU Department of Mathematics. The team led by Dr. Michal Kopera uses modern mathematical methods to solve the equations governing ocean motion. They\u00a0 aim to model ocean processes at vastly different scales, from turbulent plumes at the interface of ice and ocean in Greenland fjords, to global tsunami propagation. The common denominator is a computational technique called adaptive mesh refinement, which allows to capture and follow important physical processes accurately, while keeping the simulation cost (in terms of solution time) low.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108611",
+    "coauthors": {
+        "304099": {
+            "firstname": "Michal",
+            "middleinitial": "A",
+            "lastname": "Kopera",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108611",
+            "authorid": 304099,
+            "scholarlyactivityid": 65618
+        }
+    },
+    "status": [
+        {
+            "id": 65618,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114108611",
+    "attachments": []
+}

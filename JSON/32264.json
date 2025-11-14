@@ -1,0 +1,85 @@
+{
+    "activityid": 32264,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Understanding and responding to students\u2019 thinking: A study in measurement and theory building",
+        "Name of Conference": "American Educational Research Association Annual Meeting",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111351647",
+    "coauthors": {
+        "124362": {
+            "firstname": "Laurie",
+            "middleinitial": "O",
+            "lastname": "Cavey",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113017246",
+            "authorid": 124362,
+            "scholarlyactivityid": 32264
+        },
+        "124363": {
+            "firstname": "Michele",
+            "middleinitial": "",
+            "lastname": "Carney",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111351647",
+            "authorid": 124363,
+            "scholarlyactivityid": 32264
+        },
+        "124364": {
+            "firstname": "Gwyneth",
+            "middleinitial": "",
+            "lastname": "Hughes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 124364,
+            "scholarlyactivityid": 32264
+        }
+    },
+    "status": [
+        {
+            "id": 32264,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 32264,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 32264,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "111351647",
+    "attachments": []
+}

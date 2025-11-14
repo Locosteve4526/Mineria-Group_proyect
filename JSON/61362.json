@@ -1,0 +1,98 @@
+{
+    "activityid": 61362,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "The Content and Context of Identity in a Digital Society",
+        "Name of Conference": "Proceedings of the 25th European Conference on Information Systems (ECIS 2017)",
+        "Month / Season": "Jun",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114226146",
+    "coauthors": {
+        "352087": {
+            "firstname": "Michelle",
+            "middleinitial": "",
+            "lastname": "Carter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352087,
+            "scholarlyactivityid": 61362,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352088": {
+            "firstname": "Deborah",
+            "middleinitial": "",
+            "lastname": "Compeau",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352088,
+            "scholarlyactivityid": 61362,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352089": {
+            "firstname": "Michael",
+            "middleinitial": "",
+            "lastname": "Kennedy",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 352089,
+            "scholarlyactivityid": 61362,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "352090": {
+            "firstname": "Marc",
+            "middleinitial": "",
+            "lastname": "Schmalz",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226146",
+            "authorid": 352090,
+            "scholarlyactivityid": 61362,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 61362,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2017,
+            "termid": "2017/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 61362,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114226146",
+    "attachments": []
+}

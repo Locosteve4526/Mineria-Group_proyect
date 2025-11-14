@@ -1,0 +1,97 @@
+{
+    "activityid": 46048,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "That's fake news: Investigating how readers identify the reliability of news when provided title, image, source bias, and full articles",
+        "Journal": "PACM: Human Computer Interaction",
+        "Volume": "5",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "1-19",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045170",
+    "coauthors": {
+        "270047": {
+            "firstname": "Francesca",
+            "middleinitial": "",
+            "lastname": "Spezzano",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270047,
+            "scholarlyactivityid": 46048,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "270048": {
+            "firstname": "Anu",
+            "middleinitial": "",
+            "lastname": "Shrestha",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270048,
+            "scholarlyactivityid": 46048,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "270049": {
+            "firstname": "Jerry",
+            "middleinitial": "",
+            "lastname": "Fails",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 270049,
+            "scholarlyactivityid": 46048,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "270050": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045170",
+            "authorid": 270050,
+            "scholarlyactivityid": 46048,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46048,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 46048,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114045170",
+    "attachments": []
+}

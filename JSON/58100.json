@@ -1,0 +1,76 @@
+{
+    "activityid": 58100,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Low-Cost Test And Characterization Platform For Memristors",
+        "Name of Conference": "2021 IEEE Workshop on Microelectronics and Electron Devices (WMED)",
+        "Month / Season": "April",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "1-4",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9425110",
+        "Description/Abstract": "Characterization of Memristor devices is an expensive and difficult task due to the large variety of their types.\nThe problem is compounded by the incompatibility of electrical\ncharacterization tools with different types of memristors, which\nin turn increases the cost associated with the overall integration\nprocess. This paper reports a novel, low-cost, portable test and\ncharacterization platform for memristors with a voltage range\nfrom -10V to +10V. To demonstrate its performance, columnar\ncationic memristors were characterized in this setup to study\nresistance behavior. The platform has the potential to be a lowcost alternative to the traditional bulky characterization\nequipment and could be used to characterize a variety of devices\n(e.g. Anion, phase-change,...etc)",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "269823": {
+            "firstname": "Lyle",
+            "middleinitial": "",
+            "lastname": "Jones",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269823,
+            "scholarlyactivityid": 58100,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        },
+        "269824": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 269824,
+            "scholarlyactivityid": 58100,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "269825": {
+            "firstname": "Maria",
+            "middleinitial": "",
+            "lastname": "Mitcova",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 269825,
+            "scholarlyactivityid": 58100,
+            "classifications": {
+                "Role": "Contributor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 58100,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

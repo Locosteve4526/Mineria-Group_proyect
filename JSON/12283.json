@@ -1,0 +1,52 @@
+{
+    "activityid": 12283,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Physiology of Athletes - A new approach to teaching exercise science.",
+        "Conference/Meeting Name": "Southeast American College of Sports Medicine",
+        "Conference Location": "Jacksonville, FL",
+        "Date or Date Range": "2015-02-28",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "114002537",
+    "coauthors": {
+        "56299": {
+            "firstname": "David",
+            "middleinitial": "R.",
+            "lastname": "Bassett",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 56299,
+            "scholarlyactivityid": 12283
+        },
+        "56300": {
+            "firstname": "Scott",
+            "middleinitial": "",
+            "lastname": "Conger",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "114002537",
+            "authorid": 56300,
+            "scholarlyactivityid": 12283
+        }
+    },
+    "status": [
+        {
+            "id": 12283,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114002537",
+    "attachments": []
+}

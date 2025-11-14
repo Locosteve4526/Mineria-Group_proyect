@@ -1,0 +1,88 @@
+{
+    "activityid": 59715,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Novel damage index-based rapid evaluation of civil infrastructure subsurface defects using thermography analytics",
+        "Journal": "Construction and Building Materials",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2021,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Infrared Thermography (IRT) has been used increasingly as an effective nondestructive technique to detect subsurface delamination in civil infrastructure. Unlike other non-destructive techniques, IRT has advantages because of its quick and noncontact nature, which can not only save the inspecting time but also protect the infrastructure from potential inspection damages. Within this context, in this work, a thermography analytics method, including the preprocessing, segmentation, and postprocess of IR images, was formulated. Several different preprocess methods in the image preprocessing part were compared to one another and the best one was determined by a modified root mean square error (m_RMSE), which was a novel modification to the existing RMSE as proposed in this work. The segmentation part utilized a modified OTSU algorithm due to the skewed gray-level histogram of the concrete infrared images. Based on thermography data analytics, we propose an IRTbased novel damage index, damage density, to quantify the significance of subsurface defects. This index is extracted from the IR thermal image using our thermography analytics framework, and thus, it is featured by non-destructive, non-contact, and timesaving. This proposed framework includes thermal imaging segmentation, defects edge detection, and thermal gradient map calculations. The results show that the histogram equalization performs better than the other methods in the preprocessing part as the m_RMSE value is the lowest among them. The Pearson correlation\ncoefficient between the developed index and the volume of subsurface defects is 0.94, which indicates a positive linear relationship between them. Thus, the proposed damage index can be directly used to guide the engineering practices and maintenance decisions for the subsurface determination in the civil infrastructure.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "278992": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 278992,
+            "scholarlyactivityid": 59715,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "278993": {
+            "firstname": "Tianjie",
+            "middleinitial": "",
+            "lastname": "Zhang",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 278993,
+            "scholarlyactivityid": 59715,
+            "classifications": {
+                "Role": "Graduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59715,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 59715,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2021,
+            "termid": "2021/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 59715,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114001675",
+    "attachments": [
+        {
+            "attachmentid": 38163,
+            "mimetype": "application/pdf",
+            "filename": "CONBUILDMAT-S-21-13746.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitaWlQyN3R4VVAzMXl1S3UvMWFIcGJGcTEzR1pFY1g5VS9uMDBheGpvMHE2Mk1wcUNQdkZkZy9vSWEyWHBUQ0svST0%3D",
+            "filesize": 9466762
+        }
+    ]
+}

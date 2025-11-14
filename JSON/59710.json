@@ -1,0 +1,73 @@
+{
+    "activityid": 59710,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Iterative Live Case Projects",
+        "Journal": "Management Teaching Review",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111155890",
+    "coauthors": {
+        "278958": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Hunt",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111155890",
+            "authorid": 278958,
+            "scholarlyactivityid": 59710
+        },
+        "278957": {
+            "firstname": "Kirk",
+            "middleinitial": "",
+            "lastname": "Smith",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110578",
+            "authorid": 278957,
+            "scholarlyactivityid": 59710
+        }
+    },
+    "status": [
+        {
+            "id": 59710,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59710,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111155890",
+    "attachments": [
+        {
+            "attachmentid": 38157,
+            "mimetype": "application/pdf",
+            "filename": "SMITH Iterative Live Case Projects.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeVNhTzlHZUsyQUswbCtRMlFBcS9mb05jNzRtMWN6d2NiUDhwT3pSamRndklET0VxQ1VBbm5LdzZ5Sys0V0RyeXA4MndBMGNObW04TlhSNzVETmxiSElRPT0%3D",
+            "filesize": 79259
+        }
+    ]
+}

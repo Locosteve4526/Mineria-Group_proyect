@@ -1,0 +1,56 @@
+{
+    "activityid": 5387,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Correction for Particle-Wall Interactions in the Separation of Colloids by Flow Field-Flow Fractionation",
+        "Journal": "Analytical Chemistry",
+        "Volume": "74",
+        "Month / Season": "2002-05-03",
+        "Issue Number": "11",
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": "2478-2485",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1021/ac0200318",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/chem_facpubs/28",
+        "Description/Abstract": "In the characterization of materials by field-flow fractionation (FFF),  the experienced analyst understands the importance of incorporating  additives in the carrier liquid that minimize or eliminate interactions  between the analyte and accumulation wall, particularly in aqueous  systems. However, as FFF is applied to more difficult samples, such as  those with high surface energies, it is increasingly difficult to find  additives that completely eliminate particle?wall interactions.  Furthermore, the analyst may wish to use specific conditions that  preserve the high surface energy of particles, to study their  interaction with other materials through their behavior in the FFF  channel. With this in mind, Williams and co-workers developed a model  that quantifies the effect of particle?wall interactions in FFF using an  empirically determined interaction parameter. In this work, the model  is evaluated for the application of flow FFF in carrier liquids of low  ionic strength, where particle?wall interactions are magnified. The  retention of particles ranging in size from 64 to 1000 nm is measured  using a wide range of field strengths and retention levels. The model is  found to be generally valid over the entire range, except for minor  discrepancies at lower levels of retention. Although retention levels  are dramatically affected by particle?wall interactions, the point of  steric inversion (500 nm), where the size-based elution order reverses,  is not affected. When particle?wall interactions are not accounted for,  they lead to a bias in particle sizes calculated from standard retention  theory of up to 70%. The model can also be used to refine the  measurement of channel thickness, which is important for the accurate  conversion of retention parameters to particle sizes. In this work, for  example, errors in channel thickness led to systematic errors on the  order of 10% in particle diameter.",
+        "Origin": "Other"
+    },
+    "facultyid": "111111683",
+    "coauthors": {
+        "16371": {
+            "firstname": "Qing",
+            "middleinitial": "",
+            "lastname": "Du",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16371,
+            "scholarlyactivityid": 5387
+        },
+        "16372": {
+            "firstname": "Martin",
+            "middleinitial": "E",
+            "lastname": "Schimpf",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111111683",
+            "authorid": 16372,
+            "scholarlyactivityid": 5387
+        }
+    },
+    "status": [
+        {
+            "id": 5387,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2002,
+            "termid": "2001/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111111683",
+    "attachments": []
+}

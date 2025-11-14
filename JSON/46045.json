@@ -1,0 +1,58 @@
+{
+    "activityid": 46045,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Memory malleability: Falsifying true memories",
+        "Conference/Meeting Name": "Undergraduate Research Conference",
+        "Conference Location": "",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114045170",
+    "coauthors": {
+        "210006": {
+            "firstname": "Raeli",
+            "middleinitial": "",
+            "lastname": "Prescott",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 210006,
+            "scholarlyactivityid": 46045,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        },
+        "210007": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Stone",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114045170",
+            "authorid": 210007,
+            "scholarlyactivityid": 46045,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 46045,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114045170",
+    "attachments": []
+}

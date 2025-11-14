@@ -1,0 +1,48 @@
+{
+    "activityid": 43276,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Fool and the Bee",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Edition": "1",
+        "Volume": "",
+        "Publisher": "Shearsman Books (UK)",
+        "Publisher Location": "Bristol, UK",
+        "ISBN": "ISBN-13: 978-1848616448",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Book of poems.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643688",
+    "coauthors": {
+        "193480": {
+            "firstname": "Martin",
+            "middleinitial": "",
+            "lastname": "Corless-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643688",
+            "authorid": 193480,
+            "scholarlyactivityid": 43276,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43276,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643688",
+    "attachments": []
+}

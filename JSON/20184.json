@@ -1,0 +1,76 @@
+{
+    "activityid": 20184,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "A Scale for Measuring Market Driving Behavior",
+        "Name of Conference": "American Marketing Association Summer Research Conference",
+        "Month / Season": "2005-08-31",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Page Numbers": null,
+        "Publisher": "American Marketing Association",
+        "Publisher Location": "San Francisco, CA",
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111701056",
+    "coauthors": {
+        "134713": {
+            "firstname": "Shikhar",
+            "middleinitial": "",
+            "lastname": "Sarin",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111701056",
+            "authorid": 134713,
+            "scholarlyactivityid": 20184,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134714": {
+            "firstname": "Stacey",
+            "middleinitial": "B. ",
+            "lastname": "Hills",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134714,
+            "scholarlyactivityid": 20184,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "134715": {
+            "firstname": "Ajay",
+            "middleinitial": "K. ",
+            "lastname": "Kohli",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 134715,
+            "scholarlyactivityid": 20184,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 20184,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2005,
+            "termid": "2005/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111701056",
+    "attachments": []
+}

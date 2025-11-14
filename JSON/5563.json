@@ -1,0 +1,56 @@
+{
+    "activityid": 5563,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Incentives and disincentives for the use of OpenCourseWare",
+        "Journal": "The International Review of Research in Open and Distance Learning",
+        "Volume": "10",
+        "Month / Season": "2009-12-31",
+        "Issue Number": "5",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "25",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "www.irrodl.org/index.php/irrodl/article/view/746",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111240873",
+    "coauthors": {
+        "17080": {
+            "firstname": "Anne",
+            "middleinitial": "",
+            "lastname": "Arendt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 17080,
+            "scholarlyactivityid": 5563
+        },
+        "17081": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 17081,
+            "scholarlyactivityid": 5563
+        }
+    },
+    "status": [
+        {
+            "id": 5563,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111240873",
+    "attachments": []
+}

@@ -1,0 +1,86 @@
+{
+    "activityid": 31296,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A regression model to examine predictors of physical activity on college campuses",
+        "Journal": "California Journal of health Promotion",
+        "Volume": "14",
+        "Month / Season": "2016 spring",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "44-56",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669892",
+    "coauthors": {
+        "117686": {
+            "firstname": "Kaman",
+            "middleinitial": "",
+            "lastname": "Leung",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 117686,
+            "scholarlyactivityid": 31296
+        },
+        "117685": {
+            "firstname": "Lynda",
+            "middleinitial": "B.",
+            "lastname": "Ransdell",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112031674",
+            "authorid": 117685,
+            "scholarlyactivityid": 31296
+        },
+        "117684": {
+            "firstname": "Yong",
+            "middleinitial": "",
+            "lastname": "Gao",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112182688",
+            "authorid": 117684,
+            "scholarlyactivityid": 31296
+        },
+        "117683": {
+            "firstname": "Jane",
+            "middleinitial": "Marie",
+            "lastname": "Shimon",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669892",
+            "authorid": 117683,
+            "scholarlyactivityid": 31296
+        },
+        "117682": {
+            "firstname": "Shelley",
+            "middleinitial": "M",
+            "lastname": "Lucas",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111669980",
+            "authorid": 117682,
+            "scholarlyactivityid": 31296
+        }
+    },
+    "status": [
+        {
+            "id": 31296,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669892",
+    "attachments": []
+}

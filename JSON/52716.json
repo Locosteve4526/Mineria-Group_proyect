@@ -1,0 +1,73 @@
+{
+    "activityid": 52716,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Large-scale Sparse Structural Node Representation",
+        "Name of Conference": "BigData 2020",
+        "Month / Season": "December",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114048778",
+    "coauthors": {
+        "245058": {
+            "firstname": "Edoardo",
+            "middleinitial": "",
+            "lastname": "Serra",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114048778",
+            "authorid": 245058,
+            "scholarlyactivityid": 52716,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "245059": {
+            "firstname": "Mikel",
+            "middleinitial": "",
+            "lastname": "Joaristi",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245059,
+            "scholarlyactivityid": 52716,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "245060": {
+            "firstname": "Alfredo",
+            "middleinitial": "",
+            "lastname": "Cuzzoccrea",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245060,
+            "scholarlyactivityid": 52716
+        }
+    },
+    "status": [
+        {
+            "id": 52716,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114048778",
+    "attachments": []
+}

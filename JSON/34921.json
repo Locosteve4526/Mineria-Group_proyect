@@ -1,0 +1,50 @@
+{
+    "activityid": 34921,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cAn analysis of binarization ground truthing\u201d",
+        "Name of Conference": "Proc. 9th IAPR International Workshop on Document Analysis Systems",
+        "Month / Season": "9-11 June",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "Cambridge, MA",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "The accuracy of a binarization algorithm is often calculated\r\nrelative to a ground truth image. Except for synthetically\r\ngenerated images, no ground truth image exists.\r\nEvaluating binarization on real images is preferred. The\r\nground truthing between and among different operators is\r\ncompared. Four direct metrics were used. The variability\r\nof the results of five different automatic binarization algorithms\r\nwere compared to that of manual ground truth results.\r\nSignificant variability in the ground truth results was\r\nfound.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142528": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142528,
+            "scholarlyactivityid": 34921,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34921,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

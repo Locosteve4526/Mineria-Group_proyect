@@ -1,0 +1,66 @@
+{
+    "activityid": 52926,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "The administration of online programs in statewide systems: A case study of the University System of New Hampshire",
+        "Journal": " Online Journal of Distance Learning Administration",
+        "Volume": "23",
+        "Month / Season": "",
+        "Issue Number": "2",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111146699",
+    "coauthors": {
+        "246487": {
+            "firstname": "Chris",
+            "middleinitial": "L.",
+            "lastname": "LaBelle",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 246487,
+            "scholarlyactivityid": 52926
+        },
+        "246488": {
+            "firstname": "Patrick",
+            "middleinitial": "R.",
+            "lastname": "Lowenthal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116836",
+            "authorid": 246488,
+            "scholarlyactivityid": 52926
+        },
+        "246489": {
+            "firstname": "Kerry",
+            "middleinitial": "Lynn",
+            "lastname": "Rice",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111146699",
+            "authorid": 246489,
+            "scholarlyactivityid": 52926
+        }
+    },
+    "status": [
+        {
+            "id": 52926,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111146699",
+    "attachments": []
+}

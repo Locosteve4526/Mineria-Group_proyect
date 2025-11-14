@@ -1,0 +1,77 @@
+{
+    "activityid": 33358,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Zynq-based SoC Implementation of an Induction Machine Control Algorithm",
+        "Name of Conference": "IEEE 59th International Midwest Symposium of Circuits and Systems",
+        "Month / Season": "October",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "131546": {
+            "firstname": "Danyal",
+            "middleinitial": "",
+            "lastname": "Mohammadi",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 131546,
+            "scholarlyactivityid": 33358
+        },
+        "131547": {
+            "firstname": "Luka",
+            "middleinitial": "",
+            "lastname": "Daoud",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 131547,
+            "scholarlyactivityid": 33358
+        },
+        "131548": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 131548,
+            "scholarlyactivityid": 33358
+        },
+        "131549": {
+            "firstname": "Said",
+            "middleinitial": "",
+            "lastname": "Ahmed-Zaid",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111110301",
+            "authorid": 131549,
+            "scholarlyactivityid": 33358
+        }
+    },
+    "status": [
+        {
+            "id": 33358,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": []
+}

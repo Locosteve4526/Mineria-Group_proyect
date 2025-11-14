@@ -1,0 +1,73 @@
+{
+    "activityid": 21874,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "How to solve Hume's Problem of Induction",
+        "Journal": "Episteme",
+        "Volume": "",
+        "Month / Season": "2016",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113074305",
+    "coauthors": {
+        "266312": {
+            "firstname": "Alexander",
+            "middleinitial": "P.V.",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113074305",
+            "authorid": 266312,
+            "scholarlyactivityid": 21874
+        }
+    },
+    "status": [
+        {
+            "id": 21874,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2019,
+            "termid": "2019/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 21874,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 21874,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 3,
+            "completionorder": 3
+        },
+        {
+            "id": 21874,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 1966,
+            "termid": "1966/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113074305",
+    "attachments": []
+}

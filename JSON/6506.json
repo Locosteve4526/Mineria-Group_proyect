@@ -1,0 +1,66 @@
+{
+    "activityid": 6506,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "A Hybrid Radial Basis Function-Pseudospectral Method for Thermal Convection in a 3-D Spherical Shell",
+        "Journal": "Geochemistry Geophysics Geosystems",
+        "Volume": "11",
+        "Month / Season": "2010-07-08",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2010,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1029/2009gc002985",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/27",
+        "Description/Abstract": "A novel hybrid spectral method that combines radial basis function (RBF) and Chebyshev pseudospectral methods in a &quot;2 + 1&quot; approach is presented for numerically simulating thermal convection in a 3?D spherical shell. This is the first study to apply RBFs to a full 3?D physical model in spherical geometry. In addition to being spectrally accurate, RBFs are not defined in terms of any surface?based coordinate system such as spherical coordinates. As a result, when used in the lateral directions, as in this study, they completely circumvent the pole issue with the further advantage that nodes can be &quot;scattered&quot; over the surface of a sphere. In the radial direction, Chebyshev polynomials are used, which are also spectrally accurate and provide the necessary clustering near the boundaries to resolve boundary layers. Applications of this new hybrid methodology are given to the problem of convection in the Earth's mantle, which is modeled by a Boussinesq fluid at infinite Prandtl number. To see whether this numerical technique warrants further investigation, the study limits itself to an isoviscous mantle. Benchmark comparisons are presented with other currently used mantle convection codes for Rayleigh number (Ra) 7 \u00d7 103 and 105. Results from a Ra = 106 simulation are also given. The algorithmic simplicity of the code (mostly due to RBFs) allows it to be written in less than 400 lines of MATLAB and run on a single workstation. We find that our method is very competitive with those currently used in the literature.",
+        "Origin": "Other"
+    },
+    "facultyid": "112129169",
+    "coauthors": {
+        "20264": {
+            "firstname": "Grady",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112129169",
+            "authorid": 20264,
+            "scholarlyactivityid": 6506
+        },
+        "20265": {
+            "firstname": "Natasha",
+            "middleinitial": "",
+            "lastname": "Flyer",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20265,
+            "scholarlyactivityid": 6506
+        },
+        "20266": {
+            "firstname": "David",
+            "middleinitial": "A.",
+            "lastname": "Yuen",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 20266,
+            "scholarlyactivityid": 6506
+        }
+    },
+    "status": [
+        {
+            "id": 6506,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2010,
+            "termid": "2010/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112129169",
+    "attachments": []
+}

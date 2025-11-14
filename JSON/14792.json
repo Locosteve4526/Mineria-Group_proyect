@@ -1,0 +1,52 @@
+{
+    "activityid": 14792,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Calculus Interview Study",
+        "Conference/Meeting Name": "Mathematics Department Teaching Talks",
+        "Conference Location": "MB 139",
+        "Date or Date Range": "2015-10-06",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Mathematics Department",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643697",
+    "coauthors": {
+        "62310": {
+            "firstname": "Mary",
+            "middleinitial": "Jarratt",
+            "lastname": "Smith",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111110602",
+            "authorid": 62310,
+            "scholarlyactivityid": 14792
+        },
+        "62311": {
+            "firstname": "Margaret",
+            "middleinitial": "",
+            "lastname": "Kinzel",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643697",
+            "authorid": 62311,
+            "scholarlyactivityid": 14792
+        }
+    },
+    "status": [
+        {
+            "id": 14792,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643697",
+    "attachments": []
+}

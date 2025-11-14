@@ -1,0 +1,85 @@
+{
+    "activityid": 40968,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Closing the reading gap with virtual maze environments",
+        "Journal": "Lecture Notes in Computer Science",
+        "Volume": "10108",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "443-454",
+        "Publisher": "Springer, Cham",
+        "DOI": "10.1007/978-3-319-52836-6_47",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112146020",
+    "coauthors": {
+        "179646": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Gabel",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 179646,
+            "scholarlyactivityid": 40968
+        },
+        "179647": {
+            "firstname": "Evelyn",
+            "middleinitial": "S",
+            "lastname": "Johnson",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112142993",
+            "authorid": 179647,
+            "scholarlyactivityid": 40968
+        },
+        "179648": {
+            "firstname": "Brett",
+            "middleinitial": "Eugene",
+            "lastname": "Shelton",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111240873",
+            "authorid": 179648,
+            "scholarlyactivityid": 40968
+        },
+        "179649": {
+            "firstname": "Jui-long",
+            "middleinitial": "",
+            "lastname": "Hung",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112146020",
+            "authorid": 179649,
+            "scholarlyactivityid": 40968
+        }
+    },
+    "status": [
+        {
+            "id": 40968,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 40968,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2016,
+            "termid": "2015/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112146020",
+    "attachments": []
+}

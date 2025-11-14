@@ -1,0 +1,62 @@
+{
+    "activityid": 76796,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span style=&quot;font-size:12pt;&quot;&gt;Creating a spatially-explicit dataset for model building and regression analysis: an addition to the Ames, IA housing dataset&lt;/span&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;/span&gt;",
+        "Journal": "Journal of Statistics and Data Science Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper presents a new dataset targeting spatially-explicity analysis. The new dataset is coupled with an existing data set describing the sale of individual residential property in Ames, Iowa from 2006 to 2010.",
+        "Origin": "Manual"
+    },
+    "facultyid": "113146926",
+    "coauthors": {
+        "342081": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Barbour",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 342081,
+            "scholarlyactivityid": 76796,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "342082": {
+            "firstname": "Michail",
+            "middleinitial": "",
+            "lastname": "Fragkias",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113146926",
+            "authorid": 342082,
+            "scholarlyactivityid": 76796,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76796,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "113146926",
+    "attachments": []
+}

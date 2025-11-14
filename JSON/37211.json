@@ -1,0 +1,62 @@
+{
+    "activityid": 37211,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "\tGeneralized Lucas-Carmichael numbers for D=9697",
+        "Outlet (if applicable)": " The On-Line Encyclopedia of Integer Sequences",
+        "Date": "",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://oeis.org/A290560",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111716691",
+    "coauthors": {
+        "154316": {
+            "firstname": "Liljana",
+            "middleinitial": "",
+            "lastname": "Babinkostova",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111716691",
+            "authorid": 154316,
+            "scholarlyactivityid": 37211
+        },
+        "154317": {
+            "firstname": "Andre",
+            "middleinitial": "",
+            "lastname": "Hern\u00e1ndez-Espiet",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 154317,
+            "scholarlyactivityid": 37211,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 37211,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111716691",
+    "attachments": []
+}

@@ -1,0 +1,51 @@
+{
+    "activityid": 10221,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "The American Founders and the Problem of Wisdom",
+        "Conference/Meeting Name": "Boise School District Annual Social Studies Conference",
+        "Conference Location": "Boise, ID",
+        "Date or Date Range": "2012-04-30",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "Boise School District",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643642",
+    "coauthors": {
+        "52398": {
+            "firstname": "Scott",
+            "middleinitial": "E",
+            "lastname": "Yenor",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643642",
+            "authorid": 52398,
+            "scholarlyactivityid": 10221
+        }
+    },
+    "status": [
+        {
+            "id": 10221,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2021,
+            "termid": "2020/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 10221,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2012,
+            "termid": "2011/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "111643642",
+    "attachments": []
+}

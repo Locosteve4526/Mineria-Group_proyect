@@ -1,0 +1,85 @@
+{
+    "activityid": 43482,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Use of Heat-Reflective Coatings for Reducing the Contribution of Pavement in the Urban Heat Island",
+        "Name of Conference": "Transportation Research Record",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114001675",
+    "coauthors": {
+        "195158": {
+            "firstname": "Yang",
+            "middleinitial": "",
+            "lastname": "Lu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114001675",
+            "authorid": 195158,
+            "scholarlyactivityid": 43482,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195159": {
+            "firstname": "Nicolas",
+            "middleinitial": "",
+            "lastname": "Moore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195159,
+            "scholarlyactivityid": 43482,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "195160": {
+            "firstname": "Aidin",
+            "middleinitial": "",
+            "lastname": "Golrokh",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 195160,
+            "scholarlyactivityid": 43482,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 43482,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 43482,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114001675",
+    "attachments": []
+}

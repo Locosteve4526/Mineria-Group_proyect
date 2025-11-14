@@ -1,0 +1,62 @@
+{
+    "activityid": 52864,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "A336791: Incrementally largest values of minimal x satisfying the equation x^2-D*y^2=-2, where D is a prime number.",
+        "Outlet (if applicable)": "Online Encyclopedia for Integer Sequences",
+        "Date": "Oct 14, 2020",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Publisher": "Online Encyclopedia for Integer Sequences",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://oeis.org/A336791",
+        "Description/Abstract": "or D=43, the least x for which x^2-D*y^2=-2 has a solution is 59. The next prime, D, for which x^2-D*y^2=-2 has a solution is 59, but the smallest x in this case is 23, which is less than 59. The next prime, D, after 59 for which x^2-D*y^2=-2 has a solution is 67 and the least x for which it has a solution is 221, which is larger than 59, so it is a new record value. 67 qualifies for membership to the sequence A336790 and 221 qualifies for membership to this sequence, but 59 does not qualify because the least x for which x^2-47*y^2=-2 has a solution is not a record value.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110634",
+    "coauthors": {
+        "245876": {
+            "firstname": "Marion",
+            "middleinitial": "",
+            "lastname": "Scheepers",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110634",
+            "authorid": 245876,
+            "scholarlyactivityid": 52864
+        },
+        "245877": {
+            "firstname": "Christine",
+            "middleinitial": "",
+            "lastname": "PAtterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 245877,
+            "scholarlyactivityid": 52864,
+            "classifications": {
+                "Role": "Undergraduate Student Researcher"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 52864,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2020,
+            "termid": "2020/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110634",
+    "attachments": []
+}

@@ -1,0 +1,52 @@
+{
+    "activityid": 28559,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Complicating Complexity",
+        "Conference/Meeting Name": "COPIS",
+        "Conference Location": "Tampa, FL",
+        "Date or Date Range": "2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "112002071",
+    "coauthors": {
+        "94561": {
+            "firstname": "Jennifer",
+            "middleinitial": "Lynn",
+            "lastname": "Snow-Gerono",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112002071",
+            "authorid": 94561,
+            "scholarlyactivityid": 28559
+        },
+        "94562": {
+            "firstname": "Cheryl",
+            "middleinitial": "",
+            "lastname": "Dismuke",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111346076",
+            "authorid": 94562,
+            "scholarlyactivityid": 28559
+        }
+    },
+    "status": [
+        {
+            "id": 28559,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112002071",
+    "attachments": []
+}

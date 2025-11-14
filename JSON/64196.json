@@ -1,0 +1,62 @@
+{
+    "activityid": 64196,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Using big data to understand the opportunities and challenges in improving the gender gap in Supply Chain Management",
+        "Journal": "",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114226792",
+    "coauthors": {
+        "295991": {
+            "firstname": "Anna",
+            "middleinitial": "",
+            "lastname": "Land",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114226792",
+            "authorid": 295991,
+            "scholarlyactivityid": 64196,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "295992": {
+            "firstname": "Amin",
+            "middleinitial": "",
+            "lastname": "Vahedian",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 295992,
+            "scholarlyactivityid": 64196,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64196,
+            "status": "In Progress",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114226792",
+    "attachments": []
+}

@@ -1,0 +1,72 @@
+{
+    "activityid": 42323,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Civility and academic freedom: Who defines the former (and how) may imperil rights to the latter",
+        "Journal": "College Quarterly",
+        "Volume": "21",
+        "Month / Season": "Winter",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "None (electronic journal)",
+        "Publisher": "College Quarterly",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "http://collegequarterly.ca/2018-vol21-num01-winter/index.html",
+        "Origin": "Manual"
+    },
+    "facultyid": "111669855",
+    "coauthors": {
+        "188461": {
+            "firstname": "Theodore",
+            "middleinitial": "W.",
+            "lastname": "McDonald",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111669855",
+            "authorid": 188461,
+            "scholarlyactivityid": 42323,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "188462": {
+            "firstname": "James",
+            "middleinitial": "D.",
+            "lastname": "Stockton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 188462,
+            "scholarlyactivityid": 42323,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "188463": {
+            "firstname": "Ronald",
+            "middleinitial": "Eric",
+            "lastname": "Landrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110323",
+            "authorid": 188463,
+            "scholarlyactivityid": 42323
+        }
+    },
+    "status": [
+        {
+            "id": 42323,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111669855",
+    "attachments": []
+}

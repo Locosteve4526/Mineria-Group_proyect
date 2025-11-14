@@ -1,0 +1,74 @@
+{
+    "activityid": 22145,
+    "fields": {
+        "Type": "Book",
+        "Title": "The Flipped College Classroom: Conceptualized and Re-Conceptualized",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Springer",
+        "Publisher Location": "Switzerland",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112180039",
+    "coauthors": {
+        "135102": {
+            "firstname": "Lucy",
+            "middleinitial": "Santos",
+            "lastname": "Green",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 135102,
+            "scholarlyactivityid": 22145,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "135103": {
+            "firstname": "Jennifer",
+            "middleinitial": "",
+            "lastname": "Banas",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 135103,
+            "scholarlyactivityid": 22145,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "135104": {
+            "firstname": "Ross",
+            "middleinitial": "Andrew",
+            "lastname": "Perkins",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112180039",
+            "authorid": 135104,
+            "scholarlyactivityid": 22145,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 22145,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112180039",
+    "attachments": []
+}

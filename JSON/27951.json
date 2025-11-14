@@ -1,0 +1,49 @@
+{
+    "activityid": 27951,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Island coalescence using parallel first-order system least squares on incompressible resistive magnetohydrodynamics.",
+        "Outlet (if applicable)": "",
+        "Date": "2014-12-31",
+        "Actual/Projected Year of Publication/Presentation": 2014,
+        "Publisher": "SIAM J. Sci. Comput.",
+        "Location of Publisher (City, State, Country)": " ",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "35",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": null,
+        "Co-contributor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This paper presents an efficient numerical treatment of the island coalescence problem in incompressible, resistive magnetohydrodynamics (MHD). The authors extend their previous work on the subject and, importantly, show that their current approach resolves magnetic instabilities, whereas previous studies were unable to do so at high Lundquist numbers (low resistivity). The authors employ a parallel first-order system least-squares (FOSLS) finite element scheme with algebraic multigrid (AMG), nested iteration (NI), and efficiency- based local adaptive refinement (ACE). Higher temporal and spatial resolutions are obtained with an efficient implementation of the methods in parallel, eliminating load balancing issues, removing unphysical numerical instabilities and verifying its asymptotic efficiency, without significantly increasing the amount of computational work.\nExplanation of Other:  Mathematical Reviews",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "87971": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 87971,
+            "scholarlyactivityid": 27951
+        }
+    },
+    "status": [
+        {
+            "id": 27951,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

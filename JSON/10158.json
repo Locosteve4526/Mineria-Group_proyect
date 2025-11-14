@@ -1,0 +1,71 @@
+{
+    "activityid": 10158,
+    "fields": {
+        "Type": "Poster Presentation",
+        "Title of Presentation": "Novel Vaccines to Present Bovine Mastitis Caused by Staphylococcus aureus",
+        "Conference / Meeting Name": "USDA NIFA Annual Project Director's Meeting",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "2015-11-03",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Sponsoring Organization": "USDA",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112045852",
+    "coauthors": {
+        "196565": {
+            "firstname": "Tyler",
+            "middleinitial": "F",
+            "lastname": "Wines",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 196565,
+            "scholarlyactivityid": 10158
+        },
+        "196566": {
+            "firstname": "Neha",
+            "middleinitial": "",
+            "lastname": "Misra",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 196566,
+            "scholarlyactivityid": 10158
+        },
+        "196567": {
+            "firstname": "Juliette",
+            "middleinitial": "K",
+            "lastname": "Tinker",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112045852",
+            "authorid": 196567,
+            "scholarlyactivityid": 10158
+        }
+    },
+    "status": [
+        {
+            "id": 10158,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 10158,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "112045852",
+    "attachments": []
+}

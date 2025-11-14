@@ -1,0 +1,124 @@
+{
+    "activityid": 28366,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Advancing the Assessment of Automated Deception Detection Systems: Incorporating Base Rate and Cost into System Evaluation",
+        "Journal": "Information Systems Journal",
+        "Volume": "29",
+        "Month / Season": "May",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Page Numbers": "738-761",
+        "Publisher": "John Wiley &amp; Sons Ltd",
+        "DOI": "10.1111/isj.12231",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://onlinelibrary.wiley.com/doi/full/10.1111/isj.12231",
+        "Description/Abstract": "In the last two decades, there has been an increased interest in automated deception detection systems (ADDs) for use in screening, although little attention has been paid to the usefulness of these systems. ADDs use various means, both invasive and non\u2010invasive, to ascertain individual intent to deceive or engage in malicious behaviour. Many papers introducing ADDs use signal detection theory to compare a technique's ability to detect malicious intent with other techniques, but in doing so, they do not include contextual information such as base rate and cost. In this paper, we aim to improve future research by showing how the inclusion of contextual information provides a more realistic picture of the research. Through both theoretical arguments and a real\u2010data example, we show that especially for those contexts where malicious intent is infrequent (ie, with low base rates of deception) that not factoring in the base rate overestimates the accuracy and therefore usefulness. We conclude with recommendations for how future research should provide a fuller picture of the accuracy and usefulness of ADDs.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114065605",
+    "coauthors": {
+        "204278": {
+            "firstname": "Douglas",
+            "middleinitial": "P",
+            "lastname": "Twitchell",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065605",
+            "authorid": 204278,
+            "scholarlyactivityid": 28366,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "204279": {
+            "firstname": "Christie",
+            "middleinitial": "",
+            "lastname": "Fuller",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114065991",
+            "authorid": 204279,
+            "scholarlyactivityid": 28366,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 28366,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2019,
+            "termid": "2018/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 28366,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 28366,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 28366,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 28366,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2017,
+            "termid": "2017/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 28366,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 28366,
+            "status": "In Progress",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114065605",
+    "attachments": [
+        {
+            "attachmentid": 11723,
+            "mimetype": "application/pdf",
+            "filename": "Twitchell_et_al-2018-Information_Systems_Journal.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeTg0YVBBQWpyRitiN3lYZ0d2R2YxYmdxTFBxYlN4d1JwdnN1N01za093dzkwd2xXcGZYMjBMcmJSSDF4NmR6VGdzOEFpT2JENStyK082NWFhSzZUeVovcWs0L0RSeVdCb0tpRy9nTUsvVTdRPQ%3D%3D",
+            "filesize": 1018670
+        }
+    ]
+}

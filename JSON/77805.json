@@ -1,0 +1,75 @@
+{
+    "activityid": 77805,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;span&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;\u00a0The impact of writing prompts on English language learners\u2019 writing performance&lt;/span&gt;&lt;/span&gt;",
+        "Journal": "Assessing Writing",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114108333",
+    "coauthors": {
+        "349014": {
+            "firstname": "Ya",
+            "middleinitial": "",
+            "lastname": "Mo",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349014,
+            "scholarlyactivityid": 77805,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349015": {
+            "firstname": "Qizhen",
+            "middleinitial": "",
+            "lastname": "Deng",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114108333",
+            "authorid": 349015,
+            "scholarlyactivityid": 77805,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "349016": {
+            "firstname": "Katherine",
+            "middleinitial": "",
+            "lastname": "Wright",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 349016,
+            "scholarlyactivityid": 77805,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77805,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114108333",
+    "attachments": []
+}

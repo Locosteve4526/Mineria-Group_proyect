@@ -1,0 +1,71 @@
+{
+    "activityid": 77249,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Enhanced Hardware Trojan Detection in Chips By\u00a0Reducing Linearity Between Features",
+        "Name of Conference": "67th International Midwest Symposium on Circuits and Systems (MWSCAS). IEEE, 2024",
+        "Month / Season": "08/2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "985-989",
+        "Publisher": "IEEE",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "10.1109/MWSCAS60917.2024.10658816",
+        "ISBN/ISSN #": "79-8-3503-8717-9",
+        "Contributor": null,
+        "Web Address": "https://ieeexplore.ieee.org/document/10658816",
+        "Description/Abstract": "&lt;span&gt;The growing Internet of Things (IoT) and System on Chip (SoC) applications have increased the prevalence of active medical implants. With the global supply chain issue in Integrated Circuits (ICs), design processes are often outsourced to multiple untrusted entities, creating opportunities for malicious modifications known as Hardware Trojans (HTs). These HTs can compromise integrity, performance, or functionality, and may even introduce backdoors for unauthorized access. This paper presents an enhanced approach for detecting hardware trojans through utilizing Machine Learning models to reduce linearity between features to avoid over-fitting. The supervised model showed a 99.2 % true positive and true negative rate, as well as an F-measure of 99.3%, while the unsupervised model achieved a 99.5% true positive rate with the use of random projection, thereby offering a more resilient machine learning-based method for detecting HT's.&lt;/span&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "111110226",
+    "coauthors": {
+        "345130": {
+            "firstname": "Nader",
+            "middleinitial": "I",
+            "lastname": "Rafla",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110226",
+            "authorid": 345130,
+            "scholarlyactivityid": 77249,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "345131": {
+            "firstname": "Alfred",
+            "middleinitial": "",
+            "lastname": "Moussa",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 345131,
+            "scholarlyactivityid": 77249,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 77249,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111110226",
+    "attachments": [
+        {
+            "attachmentid": 62194,
+            "mimetype": "application/pdf",
+            "filename": "Enhanced_Hardware_Trojan_Detection_in_Chips_By_Reducing_Linearity_Between_Features.pdf",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeVNhTzlHZUsyQUszblhTK1dtYU9XU3dHOFNWdVh0QVNkUHFhbDhIR2ZQVHI1dnNKVmI2ZGtkYkgrbmFGN3VJWFl2SlhudmVpUTRJZzlpbytBazRldjVlUkwzZlVpOUhYQzlEL1BsOGs0TktERUtyT3ZaNUdqTW5WWDN4b3RHL2RwMjlKdWRYbWtDeWVZdkxXMjM4TE1XUT09",
+            "filesize": 1318564
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "activityid": 69455,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;Algorithms for computing the permutation resemblance of functions over finite groups&lt;/p&gt;",
+        "Journal": "Mathematics of Computation",
+        "Volume": "",
+        "Month / Season": "May",
+        "Issue Number": "94",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "1543-1570",
+        "Publisher": "American Mathematical Society",
+        "DOI": "https://doi.org/10.1090/mcom/3996",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "https://doi.org/10.1090/mcom/3996",
+        "Description/Abstract": "&lt;p&gt;&lt;span&gt;*We resubmit two revisions in January and May 2024. The paper is accepted and published online in July 2024.\u00a0&lt;br&gt;&lt;br&gt;Abstract:\u00a0&lt;br&gt;Permutation resemblance measures the distance of a function from being a permutation. Here we show how to determine the permutation resemblance through linear integer programming techniques. We also present an algorithm for constructing feasible solutions to this integer program, and use it to prove an upper bound for permutation resemblance for some special functions. Additionally, we present a generalization of the linear integer program that takes a function on a finite group and determines a permutation with the lowest differential uniformity among those most resembling it.&lt;/span&gt;&lt;/p&gt;",
+        "Origin": "Manual"
+    },
+    "facultyid": "114254618",
+    "coauthors": {
+        "354217": {
+            "firstname": "Li-An",
+            "middleinitial": "",
+            "lastname": "Chen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114254618",
+            "authorid": 354217,
+            "scholarlyactivityid": 69455,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "354218": {
+            "firstname": "Robert",
+            "middleinitial": "S",
+            "lastname": "Coulter",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354218,
+            "scholarlyactivityid": 69455,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 69455,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2024,
+            "termid": "2024/01",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 69455,
+            "status": "Revise &amp; Resubmit",
+            "term": "Fall",
+            "year": 2023,
+            "termid": "2023/02",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "114254618",
+    "attachments": []
+}

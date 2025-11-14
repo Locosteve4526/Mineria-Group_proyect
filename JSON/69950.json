@@ -1,0 +1,82 @@
+{
+    "activityid": 69950,
+    "fields": {
+        "Type": "Artistic Works and Performances",
+        "Work/Exhibit Title": "The Chinese Tourist",
+        "Name of Performing Group": "The Narrative TV Intiative",
+        "Date or Date Range": "March 14",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Name of Venue/Sponsor": "Egyptian Theatre",
+        "Venue / Sponsor Location (City, State, Country)": "Boise, Idaho",
+        "Co-contributor": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114059338",
+    "coauthors": {
+        "316462": {
+            "firstname": "Ryan",
+            "middleinitial": "",
+            "lastname": "Cannon",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114024949",
+            "authorid": 316462,
+            "scholarlyactivityid": 69950
+        },
+        "316461": {
+            "firstname": "Richard",
+            "middleinitial": "",
+            "lastname": "Klautsch",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111111547",
+            "authorid": 316461,
+            "scholarlyactivityid": 69950
+        },
+        "316460": {
+            "firstname": "Darrin",
+            "middleinitial": "",
+            "lastname": "Pufall",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "113111455",
+            "authorid": 316460,
+            "scholarlyactivityid": 69950
+        },
+        "316459": {
+            "firstname": "Ru",
+            "middleinitial": "M",
+            "lastname": "Wood",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "114059338",
+            "authorid": 316459,
+            "scholarlyactivityid": 69950
+        }
+    },
+    "status": [
+        {
+            "id": 69950,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 69950,
+            "status": "In Progress",
+            "term": "Summer",
+            "year": 2021,
+            "termid": "2021/01",
+            "listingorder": 1,
+            "completionorder": 1
+        }
+    ],
+    "userid": "114059338",
+    "attachments": []
+}

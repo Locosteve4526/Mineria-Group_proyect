@@ -1,0 +1,73 @@
+{
+    "activityid": 76128,
+    "fields": {
+        "Type": "Other Works",
+        "Title": "Voyant Tools development and deployment at Melville's Marginalia Online, introduced at https://melvillesmarginalia.org/pages/policies#visualization and exemplified across the site's digital editions (click on &quot;Other Works&quot; for a direct link to the Voyant platform for\u00a0Schenhauer's\u00a0&lt;em&gt;Religion: A Dialogue, and Other Essays&lt;/em&gt;), with dynamic links to facsimile holograph material.",
+        "Outlet (if applicable)": "Melville's Marginalia Online",
+        "Date": "12/31/2024",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Publisher": "",
+        "Location of Publisher (City, State, Country)": "",
+        "Issue Number/Edition": "",
+        "Page Number or Number of Pages": "",
+        "Volume": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "ISBN/ISSN/ASIN Number": "",
+        "DOI": "",
+        "Co-contributor(s)": null,
+        "Web Address": "https://melvillesmarginalia.org/PreviewMode.aspx?DocumentID=103&amp;Browse=t&amp;charturl=https%3A%2F%2Fmelvillesmarginalia.org%2Fvt.aspx%3Ftype%3Dkey%26k%3Da72dff8b-261d-4f99-9abc-981bb7560f0e%26stage%3Dfalse%26toolType%3DVoyantTools%26v%3Dy&amp;toolType=VoyantTools",
+        "Description/Abstract": "This technolgy integrates the Voyant Tools platform for use with marked and annotated content in books that survive from the library of Herman Melville, rendering the Voyant array of distant reading tools interactive with image-based content at Melville's Marginalia Online.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111643332",
+    "coauthors": {
+        "339616": {
+            "firstname": "Steven",
+            "middleinitial": "S",
+            "lastname": "Olsen-Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111643332",
+            "authorid": 339616,
+            "scholarlyactivityid": 76128,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "339617": {
+            "firstname": "Jeremy",
+            "middleinitial": "",
+            "lastname": "Jensen",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 339617,
+            "scholarlyactivityid": 76128,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 76128,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643332",
+    "attachments": [
+        {
+            "attachmentid": 60536,
+            "mimetype": "custom/url",
+            "filename": "https://voyant.melvillesmarginalia.org/?corpus=dfa125128a7c28bdb702bdc5f8e7f08f&amp;panels=cirrus,reader,trends,summary,contexts",
+            "downloadurl": "https://faculty180.interfolio.com/public/download.php?key=SDRwNCtxSUpsamxBQ213WS9ucHFuOXdEckhSTndUMEU1ZEl3S1FYNlk1UTRFRytxRHVPV3RGeEM1UlkwREhVeXo2REJlMGYvK25wbWlMZy9LVW5NYzFNYWdaR3FWSGpsYklqdklyb3JwQlhkTERETm5jaTBQaXBuT2VOalo4K3Fwcjk1b09ZL0xHSEFUdTJPaUI1UzRDQ0FEYnM0dUVrNndDazJwVlFuTFNJb3hIeFhhbVdjcUFNdWlHYXlHMEp0dHFPV1pFN1BOSVprb1NIaDJsclVJcjQwR3JkTWVCTERXa3ZIWlhiSlRZUE5nSXRNV2l4bVR4OUpLL3RScHN3ZmpvWWFKcERqUUxXZkxSNVR0RGtVMk4zckZvckRzMi9IV3Y0bjJaRWV2VkcveFBJZCtDeE1rQT09",
+            "filesize": 391833
+        }
+    ]
+}

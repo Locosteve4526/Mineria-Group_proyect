@@ -1,0 +1,46 @@
+{
+    "activityid": 4492,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Assimilation of Simulated Float Data in Lagrangian Coordinates",
+        "Journal": "Ocean Modelling",
+        "Volume": "8",
+        "Month / Season": "2001-01-01",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2001,
+        "Page Numbers": "369-394",
+        "Publisher": "",
+        "DOI": "http://dx.doi.org/10.1016/j.ocemod.2004.02.003",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://scholarworks.boisestate.edu/math_facpubs/16",
+        "Description/Abstract": "We implement an approach for the accurate assimilation of Lagrangian data into regional general ocean circulation models.  The forward model is expressed in Lagrangian coordinates and simulated float data are incorporated into the model via four dimensional variational data assimilation.  We show that forward solutions computed in Lagrangian coordinates are reliable for time periods of up to 100 days with phase speeds of 1 m/s and deformation radius of 35 km.  The position and depth of simulated floats are assimilated into the viscous, Lagrangian shallow water equations.  The weights for the errors in the model and data are varied and the assimilation results react appropriately.  We show the effect of different spatial and temporal samplings of float data on all Lagrangian trajectories in the computational domain.  At the end of the assimilation period, results from the Lagrangian shallow water equations could be interpolated and used as initial and boundary conditions in an Eulerian general ocean circulation model.",
+        "Origin": "Other"
+    },
+    "facultyid": "111643644",
+    "coauthors": {
+        "13511": {
+            "firstname": "Jodi",
+            "middleinitial": "L",
+            "lastname": "Mead",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643644",
+            "authorid": 13511,
+            "scholarlyactivityid": 4492
+        }
+    },
+    "status": [
+        {
+            "id": 4492,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2001,
+            "termid": "2000/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643644",
+    "attachments": []
+}

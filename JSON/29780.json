@@ -1,0 +1,108 @@
+{
+    "activityid": 29780,
+    "fields": {
+        "Type": "Chapter",
+        "Chapter Title": "Nature States",
+        "Book Title": "The Nature State: Rethinking the History of Conservation ",
+        "Actual/Projected Year of Publication/Presentation": 2017,
+        "Page Numbers": "",
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Routledge Press",
+        "Publisher Location": "United Kingdom",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Wilko Graf von Hardenberg, Matthew Kelly, Claudia Leal, and Emily Wakild",
+        "DOI": "",
+        "Author(s) / Editor(s)": null,
+        "Web address": "",
+        "Description/Abstract": "",
+        "Web Address": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113144224",
+    "coauthors": {
+        "111040": {
+            "firstname": "Matthew",
+            "middleinitial": "",
+            "lastname": "Kelly",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 111040,
+            "scholarlyactivityid": 29780,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "111041": {
+            "firstname": "Claudia",
+            "middleinitial": "",
+            "lastname": "Leal",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 111041,
+            "scholarlyactivityid": 29780,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "111042": {
+            "firstname": "Emily",
+            "middleinitial": "",
+            "lastname": "Wakild",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113144224",
+            "authorid": 111042,
+            "scholarlyactivityid": 29780,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "111043": {
+            "firstname": "Wilko",
+            "middleinitial": "",
+            "lastname": "Graf von Hardenberg",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 111043,
+            "scholarlyactivityid": 29780,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 29780,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2017,
+            "termid": "2016/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 29780,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 29780,
+            "status": "Submitted",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113144224",
+    "attachments": []
+}

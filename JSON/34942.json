@@ -1,0 +1,50 @@
+{
+    "activityid": 34942,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "\u201cPSF estimation by gradient descent fit to the ESF\u201d",
+        "Name of Conference": "SPIE Electronic Imaging -- Image Quality and System Performance III",
+        "Month / Season": "January",
+        "Actual/Projected Year of Publication/Presentation": 2006,
+        "Page Numbers": "#605914",
+        "Publisher": "",
+        "Publisher Location": "San Jose, CA",
+        "Volume": "6059",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "Calibration of scanners and cameras usually involves measuring the point spread function (PSF). When edge data is used\r\nto measure the PSF, the differentiation step amplifies the noise. A parametric fit of the functional form of the edge spread\r\nfunction (ESF) directly to the measured edge data is proposed to eliminate this. Experiments used to test this method show\r\nthat the Cauchy functional form fits better than the Gaussian or other forms tried. The effect of using a functional form of\r\nthe PSF that differs from the true PSF is explored by considering bilevel images formed by thresholding. The amount of\r\nmismatch seen can be related to the difference between the respective kurtosis factors.",
+        "Origin": "Manual"
+    },
+    "facultyid": "111615748",
+    "coauthors": {
+        "142692": {
+            "firstname": "Elisa",
+            "middleinitial": "Hope",
+            "lastname": "Barney Smith",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111615748",
+            "authorid": 142692,
+            "scholarlyactivityid": 34942,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 34942,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2006,
+            "termid": "2005/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111615748",
+    "attachments": []
+}

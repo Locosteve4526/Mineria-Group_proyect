@@ -1,0 +1,74 @@
+{
+    "activityid": 62679,
+    "fields": {
+        "Type": "Book",
+        "Title": "&lt;span style=&quot;font-size:11pt;&quot;&gt;\u00a0The Well-being of Latinx Farmworkers in a Time of Change&lt;/span&gt;",
+        "Actual/Projected Year of Publication/Presentation": 2022,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "Spinoff from journal Agriculture and Human Values",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111208039",
+    "coauthors": {
+        "288060": {
+            "firstname": "Lisa",
+            "middleinitial": "",
+            "lastname": "Meierotto",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111208039",
+            "authorid": 288060,
+            "scholarlyactivityid": 62679,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "288061": {
+            "firstname": "Teresa",
+            "middleinitial": "",
+            "lastname": "Mares",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 288061,
+            "scholarlyactivityid": 62679,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "288062": {
+            "firstname": "Seth",
+            "middleinitial": "",
+            "lastname": "Holmes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 288062,
+            "scholarlyactivityid": 62679,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 62679,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2022,
+            "termid": "2022/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111208039",
+    "attachments": []
+}

@@ -1,0 +1,72 @@
+{
+    "activityid": 30782,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Examining \u201cNon-content\u201d Outcomes of Physics Instruction: Goals and methods",
+        "Name of Conference": "American Association of Physics Teachers: PERC",
+        "Month / Season": "July, 2016",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "http://www.compadre.org/per/conferences/2016/docs/PERC-2016-Program.pdf",
+        "Description/Abstract": "Co-organized an invited session for the annual conference. Connecting 4 different research presentations and a discussant.",
+        "Origin": "Manual"
+    },
+    "facultyid": "114054542",
+    "coauthors": {
+        "113379": {
+            "firstname": "Leslie",
+            "middleinitial": "",
+            "lastname": "Atkins Elliott",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114054542",
+            "authorid": 113379,
+            "scholarlyactivityid": 30782,
+            "classifications": {
+                "Role": "Editor"
+            }
+        },
+        "113380": {
+            "firstname": "Angela",
+            "middleinitial": "",
+            "lastname": "Little",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 113380,
+            "scholarlyactivityid": 30782,
+            "classifications": {
+                "Role": "Editor"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 30782,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 30782,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2016,
+            "termid": "2016/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114054542",
+    "attachments": []
+}

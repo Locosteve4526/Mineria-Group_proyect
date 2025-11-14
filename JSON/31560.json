@@ -1,0 +1,61 @@
+{
+    "activityid": 31560,
+    "fields": {
+        "Type": "Book",
+        "Title": "Salavaging Community: Military Base Redevelopment",
+        "Actual/Projected Year of Publication/Presentation": 2019,
+        "Edition": "",
+        "Volume": "",
+        "Publisher": "Cornell University Press",
+        "Publisher Location": "Ithaca, New York",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113116029",
+    "coauthors": {
+        "231478": {
+            "firstname": "Amanda",
+            "middleinitial": "G.",
+            "lastname": "Ashley",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113116029",
+            "authorid": 231478,
+            "scholarlyactivityid": 31560,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "231479": {
+            "firstname": "Mike",
+            "middleinitial": "",
+            "lastname": "Touchton",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 231479,
+            "scholarlyactivityid": 31560,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31560,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2016,
+            "termid": "2016/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113116029",
+    "attachments": []
+}

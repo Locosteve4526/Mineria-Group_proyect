@@ -1,0 +1,55 @@
+{
+    "activityid": 24632,
+    "fields": {
+        "Type": "Book",
+        "Title": "Urbanization and Sustainability: Linking urban ecology, environmental justice and global environmental change",
+        "Actual/Projected Year of Publication/Presentation": 2013,
+        "Edition": "",
+        "Volume": "3",
+        "Publisher": "Springer",
+        "Publisher Location": "",
+        "ISBN": "",
+        "Author/Editor of Larger Work": "",
+        "Title of Larger Work": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://link.springer.com/book/10.1007/978-94-007-5666-3/page/1",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113146926",
+    "coauthors": {
+        "81025": {
+            "firstname": "Christopher",
+            "middleinitial": "G",
+            "lastname": "Boone",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 81025,
+            "scholarlyactivityid": 24632
+        },
+        "81026": {
+            "firstname": "Michail",
+            "middleinitial": "",
+            "lastname": "Fragkias",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113146926",
+            "authorid": 81026,
+            "scholarlyactivityid": 24632
+        }
+    },
+    "status": [
+        {
+            "id": 24632,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2013,
+            "termid": "2012/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113146926",
+    "attachments": []
+}

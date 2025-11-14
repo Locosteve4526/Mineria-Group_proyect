@@ -1,0 +1,42 @@
+{
+    "activityid": 11111,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Are You Preparing for Your Next Job?  ",
+        "Conference/Meeting Name": "American Library Association",
+        "Conference Location": "Chicago, IL",
+        "Date or Date Range": "2005-06-25",
+        "Actual/Projected Year of Publication/Presentation": 2005,
+        "Sponsoring Organization": "Library Administration and Management Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Presented data collected by LAMA Education Committee members during a survey of new managers and administrators",
+        "Origin": "Other"
+    },
+    "facultyid": "113171989",
+    "coauthors": {
+        "54018": {
+            "firstname": "Tracy",
+            "middleinitial": "",
+            "lastname": "Bicknell-Holmes",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113171989",
+            "authorid": 54018,
+            "scholarlyactivityid": 11111
+        }
+    },
+    "status": [
+        {
+            "id": 11111,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2005,
+            "termid": "2005/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "113171989",
+    "attachments": []
+}

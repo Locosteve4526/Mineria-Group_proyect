@@ -1,0 +1,106 @@
+{
+    "activityid": 41718,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Unexpected hypersurfaces and where to find them",
+        "Journal": "Michigan Math J.",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2020,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "doi:10.1307/mmj/1593741748",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "http://arxiv.org/abs/1805.10626v3",
+        "Description/Abstract": "In a recent paper by Cook, et al., which introduced the concept of unexpected\nplane curves, the focus was on understanding the geometry of the curves\nthemselves. Here we expand the definition to hypersurfaces of any dimension\nand, using constructions which appeal to algebra, geometry, representation\ntheory and computation, we obtain a coarse but complete classification of\nunexpected hypersurfaces. In particular, we determine each $(n,d,m)$ for which\nthere is some finite set of points $Z\\subset\\mathbb P^n$ with an unexpected\nhypersurface of degree $d$ in $\\mathbb P^n$ having a general point $P$ of\nmultiplicity $m$. Our constructions also give new insight into the interesting\nquestion of where to look for such $Z$. Recent work of Di Marca, Malara and\nOneto \\cite{DMO} and of Bauer, Malara, Szemberg and Szpond \\cite{BMSS} give new\nresults and examples in $\\mathbb P^2$ and $\\mathbb P^3$. We obtain our main\nresults using a new construction of unexpected hypersurfaces involving cones.\nThis method applies in $\\mathbb P^n$ for $n \\geq 3$ and gives a broad range of\nexamples, which we link to certain failures of the Weak Lefschetz Property. We\nalso give constructions using root systems, both in $\\mathbb P^2$ and $\\mathbb\nP^n$ for $n \\geq 3$. Finally, we explain an observation of \\cite{BMSS}, showing\nthat the unexpected curves of \\cite{CHMN} are in some sense dual to their\ntangent cones at their singular point.\n[Journal_ref: ]",
+        "Origin": "arXiv"
+    },
+    "facultyid": "113078387",
+    "coauthors": {
+        "235618": {
+            "firstname": "Brian",
+            "middleinitial": "",
+            "lastname": "Harbourne",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235618,
+            "scholarlyactivityid": 41718,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "235619": {
+            "firstname": "Juan",
+            "middleinitial": "",
+            "lastname": "Migliore",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235619,
+            "scholarlyactivityid": 41718,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "235620": {
+            "firstname": "Uwe",
+            "middleinitial": "",
+            "lastname": "Nagel",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 235620,
+            "scholarlyactivityid": 41718,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "235621": {
+            "firstname": "Zach",
+            "middleinitial": "",
+            "lastname": "Teitler",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113078387",
+            "authorid": 235621,
+            "scholarlyactivityid": 41718,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 41718,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2020,
+            "termid": "2019/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 41718,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2018,
+            "termid": "2018/02",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 41718,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2018,
+            "termid": "2017/03",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "113078387",
+    "attachments": []
+}

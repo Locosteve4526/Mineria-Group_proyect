@@ -1,0 +1,66 @@
+{
+    "activityid": 32558,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "SPLAT 101: Web 2.0 in Idaho's Libraries",
+        "Journal": "The Idaho Librarian",
+        "Volume": "59",
+        "Month / Season": "2009",
+        "Issue Number": "1",
+        "Actual/Projected Year of Publication/Presentation": 2009,
+        "Page Numbers": "",
+        "Publisher": "Idaho Library Association",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111203681",
+    "coauthors": {
+        "125560": {
+            "firstname": "Amy",
+            "middleinitial": "Elizabeth",
+            "lastname": "Vecchione",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "112088454",
+            "authorid": 125560,
+            "scholarlyactivityid": 32558
+        },
+        "125559": {
+            "firstname": "Jose",
+            "middleinitial": "Guillermo",
+            "lastname": "Cordova Silva",
+            "percentcontribution": null,
+            "sameschoolflag": 1,
+            "facultyid": "111203681",
+            "authorid": 125559,
+            "scholarlyactivityid": 32558
+        },
+        "125558": {
+            "firstname": "Ruth",
+            "middleinitial": "",
+            "lastname": "Funabiki",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 125558,
+            "scholarlyactivityid": 32558
+        }
+    },
+    "status": [
+        {
+            "id": 32558,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2009,
+            "termid": "2009/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111203681",
+    "attachments": []
+}

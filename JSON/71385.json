@@ -1,0 +1,126 @@
+{
+    "activityid": 71385,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "COVID-19 hospitalizations and deaths predicted by SARS-CoV-2 levels in Boise, Idaho wastewater",
+        "Journal": "The Science of the total environment",
+        "Volume": "907",
+        "Month / Season": null,
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "167742",
+        "Publisher": null,
+        "DOI": "10.1016/j.scitotenv.2023.167742",
+        "PubMed Central ID Number": null,
+        "Author(s) / Editor(s)": null,
+        "Web Address": null,
+        "Description/Abstract": "The viral load of COVID-19 in untreated wastewater from Idaho's capital city Boise, ID (Ada County) has been used to predict changes in hospital admissions (statewide in Idaho) and deaths (Ada County) using distributed fixed lag modeling and artificial neural networks (ANN). The wastewater viral counts were used to determine the lag time between peaks in wastewater viral counts and COVID-19 hospitalizations as well as deaths (14 and 23\u00a0days, respectively). Quantitative measurement of SARS-CoV-2 viral RNA counts in the untreated wastewater was determined three times a week using RT-qPCR over a span of 13\u00a0months. To mitigate the effects of PCR inhibitors in wastewater, a series of dilution tests were conducted, and the 1/4 dilution was used to generate the most successful model. Wastewater SARS-CoV-2 viral RNA counts and hospitalization from June 7, 2021 to December 29, 2021 were used as training data to predict hospitalizations; and wastewater SARS-CoV-2 viral RNA counts and deaths from June 7, 2021 to December 20, 2021 were used as training data to predict deaths. These training data were used to make predictive ANN models for future hospitalizations and deaths. To the best of our knowledge, this is the first report of prediction of deaths from COVID-19 based on wastewater SARS-CoV-2 viral RNA counts using machine learning-based multilayered ANN. The applied modeling demonstrates that wastewater surveillance data can be combined with hospitalizations and death data to generate machine learning-based ANN models that predict future COVID-19 hospital admissions and deaths, providing an early warning for medical response teams and healthcare policymakers.",
+        "Origin": "PubMed"
+    },
+    "facultyid": "112032282",
+    "coauthors": {
+        "324425": {
+            "firstname": "Swarna",
+            "middleinitial": "",
+            "lastname": "Kanchan",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324425,
+            "scholarlyactivityid": 71385
+        },
+        "324426": {
+            "firstname": "Ernie",
+            "middleinitial": "",
+            "lastname": "Ogden",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324426,
+            "scholarlyactivityid": 71385
+        },
+        "324427": {
+            "firstname": "Minu",
+            "middleinitial": "",
+            "lastname": "Kesheri",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324427,
+            "scholarlyactivityid": 71385
+        },
+        "324428": {
+            "firstname": "Alexis",
+            "middleinitial": "",
+            "lastname": "Skinner",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324428,
+            "scholarlyactivityid": 71385
+        },
+        "324429": {
+            "firstname": "Erin",
+            "middleinitial": "",
+            "lastname": "Miliken",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324429,
+            "scholarlyactivityid": 71385
+        },
+        "324430": {
+            "firstname": "Devyn",
+            "middleinitial": "",
+            "lastname": "Lyman",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324430,
+            "scholarlyactivityid": 71385
+        },
+        "324431": {
+            "firstname": "Jacob",
+            "middleinitial": "",
+            "lastname": "Armstrong",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324431,
+            "scholarlyactivityid": 71385
+        },
+        "324432": {
+            "firstname": "Lawrence",
+            "middleinitial": "",
+            "lastname": "Sciglitano",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324432,
+            "scholarlyactivityid": 71385
+        },
+        "324433": {
+            "firstname": "Greg",
+            "middleinitial": "",
+            "lastname": "Hampikian",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 324433,
+            "scholarlyactivityid": 71385
+        }
+    },
+    "status": [
+        {
+            "id": 71385,
+            "status": "In Press",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 5,
+            "completionorder": 5
+        }
+    ],
+    "userid": "112032282",
+    "attachments": []
+}

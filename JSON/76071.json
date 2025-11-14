@@ -1,0 +1,66 @@
+{
+    "activityid": 76071,
+    "fields": {
+        "Type": "Instructional Publications",
+        "Title": "Introducing Ecological Restoration",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Organization (if applicable)": "",
+        "Issue Number/Edition": "",
+        "Page Numbers": "",
+        "Publisher": "ArcGIS Online",
+        "ISBN/ISSN/ASIN #": "",
+        "Author/Editor of larger work": "",
+        "Title of larger work": "",
+        "DOI": "",
+        "Author(s)": null,
+        "Web Address": "https://storymaps.arcgis.com/stories/66f5029b61b348b281b382feb026b8cb",
+        "Description/Abstract": "[Educational module]",
+        "Origin": "Manual"
+    },
+    "facultyid": "114135000",
+    "coauthors": {
+        "338071": {
+            "firstname": "Madison",
+            "middleinitial": "",
+            "lastname": "Stevens",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338071,
+            "scholarlyactivityid": 76071
+        },
+        "338072": {
+            "firstname": "Sarah",
+            "middleinitial": "",
+            "lastname": "Pearce",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 338072,
+            "scholarlyactivityid": 76071
+        },
+        "338073": {
+            "firstname": "Elizabeth",
+            "middleinitial": "M",
+            "lastname": "Lunstrum",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114135000",
+            "authorid": 338073,
+            "scholarlyactivityid": 76071
+        }
+    },
+    "status": [
+        {
+            "id": 76071,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114135000",
+    "attachments": []
+}

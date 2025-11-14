@@ -1,0 +1,75 @@
+{
+    "activityid": 31235,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Limiting Volume with Modern Ventilators",
+        "Journal": "Therapeutic Advances in Respiratory Disease",
+        "Volume": "",
+        "Month / Season": "April",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111308224",
+    "coauthors": {
+        "117213": {
+            "firstname": "Thomas",
+            "middleinitial": "Jack",
+            "lastname": "Wing II",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111308224",
+            "authorid": 117213,
+            "scholarlyactivityid": 31235,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "117214": {
+            "firstname": "Lutana",
+            "middleinitial": "Holloway",
+            "lastname": "Haan",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111328812",
+            "authorid": 117214,
+            "scholarlyactivityid": 31235,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "117215": {
+            "firstname": "Lonny",
+            "middleinitial": "J",
+            "lastname": "Ashworth",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111110855",
+            "authorid": 117215,
+            "scholarlyactivityid": 31235,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31235,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111308224",
+    "attachments": []
+}

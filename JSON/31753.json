@@ -1,0 +1,71 @@
+{
+    "activityid": 31753,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Constraining Tidal Dissipation in Stars and Destruction Rates of Exoplanets",
+        "Conference/Meeting Name": "American Astronomical Society Meeting Abstracts 217",
+        "Conference Location": "",
+        "Date or Date Range": "Jan",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "http://adsabs.harvard.edu/abs/2011AAS...21740206J",
+        "Description/Abstract": "Several recent studies have shown that the orbits of most transiting extra-solar planets, with periods of order a few days, are not stable against tidal decay. If the host star rotates slowly enough, tidal dissipation within the star causes the planet to spiral in over many millions or billions of years. Because the rate of tidal decay increases rapidly as orbital semi-major axis drops, planets that start out very close to their host stars are quickly destroyed, while planets farther out require more time. We calculate the times left for known transiting exoplanets as a function of the rate of tidal dissipation within the host star. For a population of such planets, we expect to observe a minority of planets near the end of their lives since those planets will only survive for a short time more. For an assumed tidal dissipation rate, if we find instead that a majority of transiting planets have only a small fraction of the lifetimes left before destruction, we can conclude the assumed tidal dissipation rate is too large. Thus, we can estimate the rate of tidal dissipation within planet-hosting stars by considering the distributions of times left of transiting planets for a range of assumed dissipation rates. We must also account for important selection and observational biases. Our results based on such an analysis suggest stellar dissipation rates corresponding to tidal Q-values of 106 and larger are consistent with observations, while values of 105 and smaller are not. Given these constraints, we estimate the rates of tidal destruction of transiting exoplanets. ",
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114026685",
+    "coauthors": {
+        "120342": {
+            "firstname": "B.",
+            "middleinitial": "",
+            "lastname": "Jackson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120342,
+            "scholarlyactivityid": 31753,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        },
+        "120343": {
+            "firstname": "K.",
+            "middleinitial": "",
+            "lastname": "Penev",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120343,
+            "scholarlyactivityid": 31753,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "120344": {
+            "firstname": "R.",
+            "middleinitial": "",
+            "lastname": "Barnes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 120344,
+            "scholarlyactivityid": 31753,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 31753,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114026685",
+    "attachments": []
+}

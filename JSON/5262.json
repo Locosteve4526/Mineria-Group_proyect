@@ -1,0 +1,76 @@
+{
+    "activityid": 5262,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": " original research article",
+        "Journal": "Brain Research",
+        "Volume": "",
+        "Month / Season": "2012-09-26",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2012,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "111643741",
+    "coauthors": {
+        "16022": {
+            "firstname": "Troy",
+            "middleinitial": "T",
+            "lastname": "Rohn",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "111643741",
+            "authorid": 16022,
+            "scholarlyactivityid": 5262
+        },
+        "16023": {
+            "firstname": "Lindsey",
+            "middleinitial": "W",
+            "lastname": "Catlin",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16023,
+            "scholarlyactivityid": 5262
+        },
+        "16024": {
+            "firstname": "Kendra",
+            "middleinitial": "",
+            "lastname": "Coonse",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16024,
+            "scholarlyactivityid": 5262
+        },
+        "16025": {
+            "firstname": "Wayne",
+            "middleinitial": "",
+            "lastname": "Poon",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 16025,
+            "scholarlyactivityid": 5262
+        }
+    },
+    "status": [
+        {
+            "id": 5262,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2012,
+            "termid": "2012/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111643741",
+    "attachments": []
+}

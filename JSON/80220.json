@@ -1,0 +1,58 @@
+{
+    "activityid": 80220,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;The Number of Sales Digits as a Window into Future Sales Growth&lt;/span&gt;&lt;/p&gt;",
+        "Conference/Meeting Name": "UBCOW",
+        "Conference Location": "Seattle, WA",
+        "Date or Date Range": "8/15/25",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Sponsoring Organization": "University of British Columbia, University of Oregon, and University of Washington",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "111683497",
+    "coauthors": {
+        "354018": {
+            "firstname": "Josh",
+            "middleinitial": "",
+            "lastname": "Filzen",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111683497",
+            "authorid": 354018,
+            "scholarlyactivityid": 80220,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "354019": {
+            "firstname": "Kyle",
+            "middleinitial": "",
+            "lastname": "Peterson",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 354019,
+            "scholarlyactivityid": 80220,
+            "classifications": {
+                "Role": "Presenter"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 80220,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2025,
+            "termid": "2025/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111683497",
+    "attachments": []
+}

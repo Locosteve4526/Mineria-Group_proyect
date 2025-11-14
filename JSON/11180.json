@@ -1,0 +1,42 @@
+{
+    "activityid": 11180,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Academic Integrity in a State University: Problems and Solutions",
+        "Conference/Meeting Name": "Modern Language Association Convention",
+        "Conference Location": "Vancouver, BC, Canada",
+        "Date or Date Range": "2015-01-09",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Sponsoring Organization": "Modern Language Association",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "Data about faculty perceptions of academic integrity based on results of survey of Boise State faculty.",
+        "Origin": "Other"
+    },
+    "facultyid": "111673550",
+    "coauthors": {
+        "54156": {
+            "firstname": "Jennifer",
+            "middleinitial": "B",
+            "lastname": "Black",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 54156,
+            "scholarlyactivityid": 11180
+        }
+    },
+    "status": [
+        {
+            "id": 11180,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2015,
+            "termid": "2014/03",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111673550",
+    "attachments": []
+}

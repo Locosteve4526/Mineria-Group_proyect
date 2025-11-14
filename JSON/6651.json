@@ -1,0 +1,46 @@
+{
+    "activityid": 6651,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Numerical Solutions and Their Error Bounds for Oscillatory Neural Networks",
+        "Journal": "Integral Methods in Science and Engineering, Computational and Analytic Aspects",
+        "Volume": "",
+        "Month / Season": "2015-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2015,
+        "Page Numbers": "",
+        "Publisher": "Birkhauser, Springer, International Publishing Switzerland",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "We have studied dynamic iterations for thalamo-cortical systems written in terms of Volterra integro-differential equations with the convolution kernel defined by a step function. The iteration process separates each equation from the other equations in the model and is suitable for efficient implementation in parallel environments, significantly reducing the computational time. The amount of processors working independently for each iteration is allowed to vary between 1 and N, depending on available resources.\r\n\r\nWe have derived error bounds for the iteration process and showed its convergence. The error bounds are derived using the kernel of the model and are written in terms of its parameters. The convergence of the dynamic iterations is illustrated by a sequence of numerical experiments with different numbers of equations N.",
+        "Origin": "Other"
+    },
+    "facultyid": "111702722",
+    "coauthors": {
+        "94481": {
+            "firstname": "Barbara",
+            "middleinitial": "",
+            "lastname": "Zubik-Kowal",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "111702722",
+            "authorid": 94481,
+            "scholarlyactivityid": 6651
+        }
+    },
+    "status": [
+        {
+            "id": 6651,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2015,
+            "termid": "2015/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "111702722",
+    "attachments": []
+}

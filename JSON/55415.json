@@ -1,0 +1,76 @@
+{
+    "activityid": 55415,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Decision-Making Under Uncertainty: A Study of Behavioral Similarity and Decision Support Systems",
+        "Name of Conference": "78th Annual Meeting of the Academy of Management",
+        "Month / Season": "",
+        "Actual/Projected Year of Publication/Presentation": 2018,
+        "Page Numbers": "",
+        "Publisher": "",
+        "Publisher Location": "",
+        "Volume": "",
+        "Issue Number": "",
+        "DOI": "",
+        "ISBN/ISSN #": "",
+        "Contributor": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114176725",
+    "coauthors": {
+        "350203": {
+            "firstname": "Merle",
+            "middleinitial": "",
+            "lastname": "Campbell",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 350203,
+            "scholarlyactivityid": 55415,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "350204": {
+            "firstname": "Mark",
+            "middleinitial": "",
+            "lastname": "Keil",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 350204,
+            "scholarlyactivityid": 55415,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "350205": {
+            "firstname": "Maheshwar",
+            "middleinitial": "",
+            "lastname": "Boodraj",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114176725",
+            "authorid": 350205,
+            "scholarlyactivityid": 55415,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 55415,
+            "status": "Accepted",
+            "term": "Summer",
+            "year": 2018,
+            "termid": "2018/01",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114176725",
+    "attachments": []
+}

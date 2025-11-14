@@ -1,0 +1,95 @@
+{
+    "activityid": 3644,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Seismic and infrasonic monitoring",
+        "Journal": "Encyclopedia of Volcanoes (Book Chapter)",
+        "Volume": "",
+        "Month / Season": "2014-12-31",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2016,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "113150379",
+    "coauthors": {
+        "10610": {
+            "firstname": "Steve",
+            "middleinitial": "",
+            "lastname": "McNutt",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10610,
+            "scholarlyactivityid": 3644
+        },
+        "10611": {
+            "firstname": "Glen",
+            "middleinitial": "",
+            "lastname": "Thompson",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10611,
+            "scholarlyactivityid": 3644
+        },
+        "10612": {
+            "firstname": "Jeffrey",
+            "middleinitial": "",
+            "lastname": "Johnson",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "113150379",
+            "authorid": 10612,
+            "scholarlyactivityid": 3644
+        },
+        "10613": {
+            "firstname": "Silvio",
+            "middleinitial": "",
+            "lastname": "De Angelis",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10613,
+            "scholarlyactivityid": 3644
+        },
+        "10614": {
+            "firstname": "David",
+            "middleinitial": "",
+            "lastname": "Fee",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 10614,
+            "scholarlyactivityid": 3644
+        }
+    },
+    "status": [
+        {
+            "id": 3644,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 4,
+            "completionorder": 4
+        },
+        {
+            "id": 3644,
+            "status": "Accepted",
+            "term": "Fall",
+            "year": 2014,
+            "termid": "2014/02",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "113150379",
+    "attachments": []
+}

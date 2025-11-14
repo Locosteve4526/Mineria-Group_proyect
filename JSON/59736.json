@@ -1,0 +1,80 @@
+{
+    "activityid": 59736,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "Educational Robotics for Developing Computational Thinking in Young Learners: A Systematic Review",
+        "Journal": "TechTrends",
+        "Volume": "68",
+        "Month / Season": "",
+        "Issue Number": "3",
+        "Actual/Projected Year of Publication/Presentation": 2024,
+        "Page Numbers": "423-434",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "113075443",
+    "coauthors": {
+        "336317": {
+            "firstname": "Yu-Hui",
+            "middleinitial": "",
+            "lastname": "Ching",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113083497",
+            "authorid": 336317,
+            "scholarlyactivityid": 59736,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "336318": {
+            "firstname": "Yu-Chang",
+            "middleinitial": "",
+            "lastname": "Hsu",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113075443",
+            "authorid": 336318,
+            "scholarlyactivityid": 59736,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 59736,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 59736,
+            "status": "Submitted",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 2,
+            "completionorder": 2
+        },
+        {
+            "id": 59736,
+            "status": "Revise &amp; Resubmit",
+            "term": "Spring",
+            "year": 2022,
+            "termid": "2021/03",
+            "listingorder": 3,
+            "completionorder": 3
+        }
+    ],
+    "userid": "113075443",
+    "attachments": []
+}

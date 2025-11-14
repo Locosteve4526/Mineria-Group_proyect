@@ -1,0 +1,110 @@
+{
+    "activityid": 74775,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "&lt;p&gt;\u00a0Student and Faculty Perceptions and Use of Generative AI in Nursing Education&lt;/p&gt;",
+        "Journal": "Journal of Nursing Education",
+        "Volume": "",
+        "Month / Season": "",
+        "Issue Number": "",
+        "Actual/Projected Year of Publication/Presentation": 2025,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114178054",
+    "coauthors": {
+        "353533": {
+            "firstname": "Jason",
+            "middleinitial": "K",
+            "lastname": "Blomquist",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112188730",
+            "authorid": 353533,
+            "scholarlyactivityid": 74775,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "353534": {
+            "firstname": "Jenny",
+            "middleinitial": "G",
+            "lastname": "Alderden",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "113033739",
+            "authorid": 353534,
+            "scholarlyactivityid": 74775,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "353535": {
+            "firstname": "Sarah",
+            "middleinitial": "E",
+            "lastname": "Llewellyn",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114178054",
+            "authorid": 353535,
+            "scholarlyactivityid": 74775,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "353536": {
+            "firstname": "Ellie",
+            "middleinitial": "",
+            "lastname": "Dworak",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "112192272",
+            "authorid": 353536,
+            "scholarlyactivityid": 74775,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "353537": {
+            "firstname": "Meagan",
+            "middleinitial": "",
+            "lastname": "Haynes",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 353537,
+            "scholarlyactivityid": 74775,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 74775,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2025,
+            "termid": "2024/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 74775,
+            "status": "Submitted",
+            "term": "Fall",
+            "year": 2024,
+            "termid": "2024/02",
+            "listingorder": 2,
+            "completionorder": 2
+        }
+    ],
+    "userid": "114178054",
+    "attachments": []
+}

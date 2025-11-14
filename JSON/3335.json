@@ -1,0 +1,46 @@
+{
+    "activityid": 3335,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "My Name is Fridhomme",
+        "Journal": "The Caribbean Writer",
+        "Volume": "25",
+        "Month / Season": "2011-07-31",
+        "Issue Number": "25",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "206-212",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "This is a translation of Haitian writer \u00c9velyne Trouillot's &quot;Je m'appelle Fridhomme&quot;, published in a special edition of The Caribbean Writer devoted to Haiti.",
+        "Origin": "Other"
+    },
+    "facultyid": "112052765",
+    "coauthors": {
+        "9736": {
+            "firstname": "Jason",
+            "middleinitial": "Ryan",
+            "lastname": "Herbeck",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112052765",
+            "authorid": 9736,
+            "scholarlyactivityid": 3335
+        }
+    },
+    "status": [
+        {
+            "id": 3335,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2011,
+            "termid": "2011/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112052765",
+    "attachments": []
+}

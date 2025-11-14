@@ -1,0 +1,56 @@
+{
+    "activityid": 5026,
+    "fields": {
+        "Type": "Journal Publication",
+        "Title of Contribution": "What makes an upper-division course upper-division? Differing perspectives of students and faculty",
+        "Journal": "The College Quarterly",
+        "Volume": "14",
+        "Month / Season": "2011-12-31",
+        "Issue Number": "4",
+        "Actual/Projected Year of Publication/Presentation": 2011,
+        "Page Numbers": "",
+        "Publisher": "",
+        "DOI": "",
+        "PubMed Central ID Number": "",
+        "Author(s) / Editor(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Other"
+    },
+    "facultyid": "112014101",
+    "coauthors": {
+        "15133": {
+            "firstname": "Lindsey",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "0",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 15133,
+            "scholarlyactivityid": 5026
+        },
+        "15134": {
+            "firstname": "Mary",
+            "middleinitial": "Elizabeth",
+            "lastname": "Pritchard",
+            "percentcontribution": "0",
+            "sameschoolflag": 1,
+            "facultyid": "112014101",
+            "authorid": 15134,
+            "scholarlyactivityid": 5026
+        }
+    },
+    "status": [
+        {
+            "id": 5026,
+            "status": "Completed/Published",
+            "term": "Fall",
+            "year": 2011,
+            "termid": "2011/02",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "112014101",
+    "attachments": []
+}

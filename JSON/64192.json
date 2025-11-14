@@ -1,0 +1,93 @@
+{
+    "activityid": 64192,
+    "fields": {
+        "Type": "Presentation",
+        "Title of Presentation": "Co-Author",
+        "Conference/Meeting Name": "International Communication Association",
+        "Conference Location": "Toronto, Canada",
+        "Date or Date Range": "",
+        "Actual/Projected Year of Publication/Presentation": 2023,
+        "Sponsoring Organization": "",
+        "Presenter(s)": null,
+        "Web Address": "",
+        "Description/Abstract": "",
+        "Origin": "Manual"
+    },
+    "facultyid": "114229877",
+    "coauthors": {
+        "318615": {
+            "firstname": "Hye Jin",
+            "middleinitial": "",
+            "lastname": "Yoon",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318615,
+            "scholarlyactivityid": 64192,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318616": {
+            "firstname": "Yoon-Joo",
+            "middleinitial": "",
+            "lastname": "Lee",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318616,
+            "scholarlyactivityid": 64192,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318617": {
+            "firstname": "Shuoya",
+            "middleinitial": "",
+            "lastname": "Sun",
+            "percentcontribution": "",
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 318617,
+            "scholarlyactivityid": 64192,
+            "classifications": {
+                "Role": "Author"
+            }
+        },
+        "318618": {
+            "firstname": "Jinho",
+            "middleinitial": "",
+            "lastname": "Joo",
+            "percentcontribution": "",
+            "sameschoolflag": 1,
+            "facultyid": "114229877",
+            "authorid": 318618,
+            "scholarlyactivityid": 64192,
+            "classifications": {
+                "Role": "Author"
+            }
+        }
+    },
+    "status": [
+        {
+            "id": 64192,
+            "status": "Completed/Published",
+            "term": "Spring",
+            "year": 2024,
+            "termid": "2023/03",
+            "listingorder": 6,
+            "completionorder": 6
+        },
+        {
+            "id": 64192,
+            "status": "Accepted",
+            "term": "Spring",
+            "year": 2023,
+            "termid": "2022/03",
+            "listingorder": 4,
+            "completionorder": 4
+        }
+    ],
+    "userid": "114229877",
+    "attachments": []
+}

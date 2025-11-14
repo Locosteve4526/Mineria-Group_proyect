@@ -1,0 +1,57 @@
+{
+    "activityid": 40033,
+    "fields": {
+        "Type": "Conference Proceeding",
+        "Title of Contribution": "Light widgets: interacting in every-day spaces",
+        "Name of Conference": "Proceedings of the 7th international conference on Intelligent user interfaces",
+        "Month / Season": null,
+        "Actual/Projected Year of Publication/Presentation": 2002,
+        "Page Numbers": null,
+        "Publisher": null,
+        "Publisher Location": null,
+        "Volume": null,
+        "Issue Number": null,
+        "DOI": null,
+        "ISBN/ISSN #": null,
+        "Contributor": null,
+        "Web Address": null,
+        "Description/Abstract": null,
+        "Origin": "BibTeX"
+    },
+    "facultyid": "114058343",
+    "coauthors": {
+        "174595": {
+            "firstname": "Jerry",
+            "middleinitial": "Alan",
+            "lastname": "Fails",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174595,
+            "scholarlyactivityid": 40033
+        },
+        "174596": {
+            "firstname": "Jr",
+            "middleinitial": "Dan",
+            "lastname": "Olsen",
+            "percentcontribution": null,
+            "sameschoolflag": 0,
+            "facultyid": null,
+            "authorid": 174596,
+            "scholarlyactivityid": 40033
+        }
+    },
+    "status": [
+        {
+            "id": 40033,
+            "status": "Completed/Published",
+            "term": "Summer",
+            "year": 2002,
+            "termid": "2002/01",
+            "listingorder": 6,
+            "completionorder": 6
+        }
+    ],
+    "userid": "114058343",
+    "attachments": []
+}
